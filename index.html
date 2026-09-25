@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>제헌헌법 조문 계보 지도</title>
+<meta name="description" content="1948년 제헌헌법과 선행 헌법·헌법안의 조문 대응을 시간축 위에 놓은 지도. 유진오 제1회 초고를 후보에 넣었을 때의 변화를 함께 보여 줌.">
+<style>
+:root {
+  color-scheme: light;
+  --surface: #fcfcfb; --page: #f9f9f7; --ink: #0b0b0b; --ink2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,.10); --lane: rgba(11,11,11,.028);
+  --node-neutral: #8f8d86; --weak: #d9d7cf; --focus: #0b0b0b; --panel: #ffffff; --chip: #f0efec;
+  --e1: #2a78d6; --e2: #eb6834; --e3: #1baf7a; --e4: #eda100; --e5: #e87ba4; --e6: #008300; --e7: #4a3aa7; --e8: #e34948;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface: #1a1a19; --page: #0d0d0d; --ink: #ffffff; --ink2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,.10); --lane: rgba(255,255,255,.035);
+    --node-neutral: #77766f; --weak: #3a3a37; --focus: #ffffff; --panel: #222220; --chip: #2c2c2a;
+    --e1: #3987e5; --e2: #d95926; --e3: #199e70; --e4: #c98500; --e5: #d55181; --e6: #008300; --e7: #9085e9; --e8: #e66767;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface: #1a1a19; --page: #0d0d0d; --ink: #ffffff; --ink2: #c3c2b7; --muted: #898781;
+  --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,.10); --lane: rgba(255,255,255,.035);
+  --node-neutral: #77766f; --weak: #3a3a37; --focus: #ffffff; --panel: #222220; --chip: #2c2c2a;
+  --e1: #3987e5; --e2: #d95926; --e3: #199e70; --e4: #c98500; --e5: #d55181; --e6: #008300; --e7: #9085e9; --e8: #e66767;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--page); color: var(--ink); font: 14px/1.5 system-ui, -apple-system, "Segoe UI", "Malgun Gothic", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; padding-inline: 16px; }
+header { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; padding-block: 10px; border-bottom: 1px solid var(--border); }
+header h1 { font-size: 17px; margin: 0; font-weight: 700; }
+nav { display: flex; gap: 4px; }
+nav a { padding: 5px 12px; border-radius: 6px; color: var(--ink2); text-decoration: none; }
+nav a[aria-current="page"] { background: var(--chip); color: var(--ink); font-weight: 600; }
+#theme { margin-left: auto; background: none; border: 1px solid var(--border); color: var(--ink2); border-radius: 6px; padding: 4px 10px; cursor: pointer; }
+main { display: grid; grid-template-columns: minmax(0, 1fr) 380px; height: calc(100% - 52px); }
+#stage { position: relative; min-width: 0; background: var(--surface); }
+#controls { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; padding: 8px 12px; border-bottom: 1px solid var(--border); font-size: 13px; color: var(--ink2); }
+#controls label { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+#controls input[type=range] { width: 92px; }
+#controls output { min-width: 32px; color: var(--ink); font-variant-numeric: tabular-nums; }
+#controls .lanes { display: inline-flex; gap: 8px; }
+#controls button, .toggle button { border: 1px solid var(--border); background: var(--surface); color: var(--ink); border-radius: 6px; padding: 3px 10px; cursor: pointer; font: inherit; }
+.toggle { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.toggle button { border: 0; border-radius: 0; padding: 5px 12px; }
+.toggle button[aria-pressed="true"] { background: var(--ink); color: var(--surface); }
+#chart { width: 100%; height: calc(100% - 44px); display: block; cursor: grab; }
+#chart:active { cursor: grabbing; }
+#panel { overflow-y: auto; border-left: 1px solid var(--border); background: var(--panel); padding: 14px 14px 40px; }
+#panel h2 { font-size: 16px; margin: 0 0 4px; }
+#panel h3 { font-size: 13px; margin: 18px 0 6px; color: var(--ink2); }
+#panel p { margin: 6px 0; color: var(--ink2); }
+.cards { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+.card { border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; background: var(--surface); }
+.card b { display: block; font-size: 22px; line-height: 1.2; color: var(--ink); }
+.card span { font-size: 12px; color: var(--ink2); }
+table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+th, td { text-align: left; padding: 4px 6px; border-bottom: 1px solid var(--border); vertical-align: top; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+table.defs th { width: 34%; color: var(--ink); font-weight: 600; }
+table.defs td { color: var(--ink2); }
+.pair { border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; margin: 8px 0; background: var(--surface); }
+.pair .meta { font-size: 12px; color: var(--muted); }
+.pair .txt { font-size: 12.5px; margin: 3px 0 6px; white-space: pre-wrap; }
+.pair .arrow { color: var(--muted); font-size: 12px; margin: 2px 0; }
+.chip { display: inline-block; font-size: 11.5px; padding: 1px 7px; border-radius: 10px; background: var(--chip); color: var(--ink2); margin-right: 4px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 12px; font-size: 12px; color: var(--ink2); margin: 6px 0; }
+.legend i { display: inline-block; width: 18px; height: 4px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
+.tip { position: absolute; pointer-events: none; background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 6px 9px; font-size: 12.5px; box-shadow: 0 2px 10px rgba(0,0,0,.12); display: none; max-width: 320px; z-index: 5; }
+.node-label { font-size: 12px; fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; }
+.node-date { font-size: 10.5px; fill: var(--muted); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; }
+.lane-label { font-size: 12px; fill: var(--ink2); font-weight: 600; }
+.axis text { font-size: 11px; fill: var(--muted); }
+.axis line, .axis path { stroke: var(--axis); }
+.edge { fill: none; cursor: pointer; }
+.edge-label { font-size: 12px; fill: var(--ink); font-weight: 600; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; pointer-events: none; }
+#sankeyView { padding: 16px 12px; overflow: auto; height: calc(100% - 44px); }
+#sankeyView img { width: 100%; max-width: 1400px; background: #fcfcfb; border: 1px solid var(--border); border-radius: 8px; }
+.note { font-size: 12px; color: var(--muted); }
+@media (max-width: 900px) {
+  main { grid-template-columns: 1fr; grid-template-rows: 62vh auto; height: auto; }
+  #panel { border-left: 0; border-top: 1px solid var(--border); }
+  #chart { height: calc(62vh - 44px); }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>제헌헌법 조문 계보 지도</h1>
+  <nav aria-label="보기">
+    <a href="#global" id="navGlobal">전체 지도</a>
+    <a href="#yujino" id="navYujino">유진오 중심</a>
+    <a href="#sankey" id="navSankey">Sankey</a>
+  </nav>
+  <button id="theme" type="button" aria-label="밝기 바꾸기">밝기</button>
+</header>
+<main>
+  <section id="stage">
+    <div id="controls">
+      <label>코사인 하한 <input id="floor" type="range" min="0.50" max="0.75" step="0.05" value="0.60"><output id="floorOut">0.60</output></label>
+      <label class="g-only">최소 조문 수 <input id="minCount" type="range" min="1" max="20" step="1" value="3"><output id="minOut">3</output></label>
+      <label class="g-only">대상별 상위 <input id="topN" type="range" min="1" max="8" step="1" value="3"><output id="topOut">3</output></label>
+      <span class="g-only">굵기 기준 <span class="toggle" role="group" aria-label="선 굵기 기준"><button id="wCount" type="button" aria-pressed="true">조문 수</button><button id="wShare" type="button" aria-pressed="false">비율</button></span></span>
+      <span class="lanes g-only" id="laneBoxes"></span>
+      <span class="toggle y-only" role="group" aria-label="제헌헌법의 후보">
+        <button id="modeWithout" type="button">초고 제외</button><button id="modeWith" type="button">초고 포함</button>
+      </span>
+      <button id="reset" type="button">처음 화면</button>
+    </div>
+    <svg id="chart" role="img" aria-label="문헌 간 조문 대응 지도"></svg>
+    <div id="sankeyView">
+      <div class="toggle" role="group" aria-label="Sankey 판" style="margin-bottom:10px">
+        <button id="skAll" type="button" aria-pressed="true">전체 선행 문헌</button><button id="skForeign" type="button" aria-pressed="false">외국 헌법만</button>
+      </div>
+      <p class="note">띠 1개 = 제헌헌법 조문 1개. 제헌헌법 조문 → 가장 가까운 초고 조문 → 그 초고 조문과 가장 가까운 선행 문헌. 코사인 하한 0.60.</p>
+      <img id="skImg" src="figures/sankey_ppt_all_060.svg" alt="선행 문헌에서 유진오 제1회 초고의 장을 거쳐 제헌헌법의 장으로 가는 Sankey">
+      <p><img src="figures/yujino_abc_060.svg" alt="A, B, C 세 계산의 1위 문헌 막대그래프"></p>
+    </div>
+    <div class="tip" id="tip"></div>
+  </section>
+  <aside id="panel" aria-live="polite"></aside>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

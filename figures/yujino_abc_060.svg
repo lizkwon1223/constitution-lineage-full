@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-24T19:56:49.978824</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 149.76 570.24 
+L 380.703396 570.24 
+L 380.703396 110.16 
+L 149.76 110.16 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 149.76 153.389235 
+L 149.76 153.389235 
+L 149.76 131.072727 
+L 149.76 131.072727 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #0b0b0b; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 149.76 189.383602 
+L 226.559456 189.383602 
+L 226.559456 167.067094 
+L 149.76 167.067094 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 149.76 225.377969 
+L 219.127251 225.377969 
+L 219.127251 203.061461 
+L 149.76 203.061461 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 149.76 261.372336 
+L 184.443625 261.372336 
+L 184.443625 239.055829 
+L 149.76 239.055829 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 149.76 297.366703 
+L 169.579214 297.366703 
+L 169.579214 275.050196 
+L 149.76 275.050196 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 149.76 333.36107 
+L 164.624411 333.36107 
+L 164.624411 311.044563 
+L 149.76 311.044563 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 149.76 369.355437 
+L 164.624411 369.355437 
+L 164.624411 347.03893 
+L 149.76 347.03893 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 149.76 405.349804 
+L 169.579214 405.349804 
+L 169.579214 383.033297 
+L 149.76 383.033297 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 149.76 441.344171 
+L 164.624411 441.344171 
+L 164.624411 419.027664 
+L 149.76 419.027664 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 149.76 477.338539 
+L 159.669607 477.338539 
+L 159.669607 455.022031 
+L 149.76 455.022031 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 149.76 513.332906 
+L 167.101813 513.332906 
+L 167.101813 491.016398 
+L 149.76 491.016398 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 149.76 549.327273 
+L 159.669607 549.327273 
+L 159.669607 527.010765 
+L 149.76 527.010765 
+z
+" clip-path="url(#p6d53ca933a)" style="fill: #d9d7cf; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="147.14184" transform="rotate(-0 146.26 147.14184)">유진오 제1회 초고</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="183.136208" transform="rotate(-0 146.26 183.136208)">일본국헌법</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="219.130575" transform="rotate(-0 146.26 219.130575)">행정연구위원회안</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="255.124942" transform="rotate(-0 146.26 255.124942)">조선임시약헌</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="291.119309" transform="rotate(-0 146.26 291.119309)">중화민국헌법(1946)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="327.113676" transform="rotate(-0 146.26 327.113676)">오오헌초(五五憲草)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="363.108043" transform="rotate(-0 146.26 363.108043)">민주의원안</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="399.10241" transform="rotate(-0 146.26 399.10241)">프랑스 제4공화국헌법</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="435.096777" transform="rotate(-0 146.26 435.096777)">민전 임시약법</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="471.091144" transform="rotate(-0 146.26 471.091144)">북한 헌법안</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="507.085511" transform="rotate(-0 146.26 507.085511)">기타</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="146.26" y="543.10773" transform="rotate(-0 146.26 543.10773)">대응 약함</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_15">
+    <path d="M 149.76 570.24 
+L 149.76 110.16 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #898781" x="152.695721" y="145.827251" transform="rotate(-0 152.695721 145.827251)">분석 대상</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="229.495177" y="181.673102" transform="rotate(-0 229.495177 181.673102)">31</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="222.062972" y="217.667469" transform="rotate(-0 222.062972 217.667469)">28</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="187.379346" y="253.661836" transform="rotate(-0 187.379346 253.661836)">14</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="172.514936" y="289.656203" transform="rotate(-0 172.514936 289.656203)">8</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="167.560132" y="325.65057" transform="rotate(-0 167.560132 325.65057)">6</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="167.560132" y="361.644937" transform="rotate(-0 167.560132 361.644937)">6</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="172.514936" y="397.639305" transform="rotate(-0 172.514936 397.639305)">8</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="167.560132" y="433.633672" transform="rotate(-0 167.560132 433.633672)">6</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="162.605328" y="469.628039" transform="rotate(-0 162.605328 469.628039)">4</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="170.037534" y="505.622406" transform="rotate(-0 170.037534 505.622406)">7</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="162.605328" y="541.616773" transform="rotate(-0 162.605328 541.616773)">4</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #52514e" x="149.76" y="105.5592" transform="rotate(-0 149.76 105.5592)">초고 122개 단위의 1위 문헌(합계 122)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Malgun Gothic'; fill: #0b0b0b" transform="translate(149.76 89.66)">A. 선행 문헌 → 초고</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Malgun Gothic'; fill: #0b0b0b" transform="translate(149.76 104.16)"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_16">
+    <path d="M 523.888302 570.24 
+L 754.831698 570.24 
+L 754.831698 110.16 
+L 523.888302 110.16 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 523.888302 153.389235 
+L 523.888302 153.389235 
+L 523.888302 131.072727 
+L 523.888302 131.072727 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #0b0b0b; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 523.888302 189.383602 
+L 588.300749 189.383602 
+L 588.300749 167.067094 
+L 523.888302 167.067094 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 523.888302 225.377969 
+L 585.823347 225.377969 
+L 585.823347 203.061461 
+L 523.888302 203.061461 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 523.888302 261.372336 
+L 543.707516 261.372336 
+L 543.707516 239.055829 
+L 523.888302 239.055829 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 523.888302 297.366703 
+L 553.617124 297.366703 
+L 553.617124 275.050196 
+L 523.888302 275.050196 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 523.888302 333.36107 
+L 543.707516 333.36107 
+L 543.707516 311.044563 
+L 523.888302 311.044563 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 523.888302 369.355437 
+L 541.230115 369.355437 
+L 541.230115 347.03893 
+L 523.888302 347.03893 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 523.888302 405.349804 
+L 531.320507 405.349804 
+L 531.320507 383.033297 
+L 523.888302 383.033297 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 523.888302 441.344171 
+L 533.797909 441.344171 
+L 533.797909 419.027664 
+L 523.888302 419.027664 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 523.888302 477.338539 
+L 526.365704 477.338539 
+L 526.365704 455.022031 
+L 523.888302 455.022031 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 523.888302 513.332906 
+L 538.752713 513.332906 
+L 538.752713 491.016398 
+L 523.888302 491.016398 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 523.888302 549.327273 
+L 531.320507 549.327273 
+L 531.320507 527.010765 
+L 523.888302 527.010765 
+z
+" clip-path="url(#pccfe877fc8)" style="fill: #d9d7cf; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_13">
+     <g id="line2d_13"/>
+     <g id="text_27">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="147.14184" transform="rotate(-0 520.388302 147.14184)">유진오 제1회 초고</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_14"/>
+     <g id="text_28">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="183.136208" transform="rotate(-0 520.388302 183.136208)">일본국헌법</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_15"/>
+     <g id="text_29">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="219.130575" transform="rotate(-0 520.388302 219.130575)">행정연구위원회안</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_16"/>
+     <g id="text_30">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="255.124942" transform="rotate(-0 520.388302 255.124942)">조선임시약헌</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_17"/>
+     <g id="text_31">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="291.119309" transform="rotate(-0 520.388302 291.119309)">중화민국헌법(1946)</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_18"/>
+     <g id="text_32">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="327.113676" transform="rotate(-0 520.388302 327.113676)">오오헌초(五五憲草)</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_19"/>
+     <g id="text_33">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="363.108043" transform="rotate(-0 520.388302 363.108043)">민주의원안</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_20"/>
+     <g id="text_34">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="399.10241" transform="rotate(-0 520.388302 399.10241)">프랑스 제4공화국헌법</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_21"/>
+     <g id="text_35">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="435.096777" transform="rotate(-0 520.388302 435.096777)">민전 임시약법</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_22"/>
+     <g id="text_36">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="471.091144" transform="rotate(-0 520.388302 471.091144)">북한 헌법안</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_23"/>
+     <g id="text_37">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="507.085511" transform="rotate(-0 520.388302 507.085511)">기타</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_24"/>
+     <g id="text_38">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="520.388302" y="543.10773" transform="rotate(-0 520.388302 543.10773)">대응 약함</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_29">
+    <path d="M 523.888302 570.24 
+L 523.888302 110.16 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 11px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #898781" x="526.824023" y="145.827251" transform="rotate(-0 526.824023 145.827251)">후보에서 제외</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="591.23647" y="181.673102" transform="rotate(-0 591.23647 181.673102)">26</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="588.759068" y="217.667469" transform="rotate(-0 588.759068 217.667469)">25</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="546.643237" y="253.661836" transform="rotate(-0 546.643237 253.661836)">8</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="556.552845" y="289.656203" transform="rotate(-0 556.552845 289.656203)">12</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="546.643237" y="325.65057" transform="rotate(-0 546.643237 325.65057)">8</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="544.165836" y="361.644937" transform="rotate(-0 544.165836 361.644937)">7</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="534.256228" y="397.639305" transform="rotate(-0 534.256228 397.639305)">3</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="536.73363" y="433.633672" transform="rotate(-0 536.73363 433.633672)">4</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="529.301425" y="469.628039" transform="rotate(-0 529.301425 469.628039)">1</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="541.688434" y="505.622406" transform="rotate(-0 541.688434 505.622406)">6</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="534.256228" y="541.616773" transform="rotate(-0 534.256228 541.616773)">3</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #52514e" x="523.888302" y="105.5592" transform="rotate(-0 523.888302 105.5592)">제헌헌법 103조의 1위 문헌(합계 103)</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Malgun Gothic'; fill: #0b0b0b" transform="translate(523.888302 89.66)">B. 선행 문헌 → 제헌헌법 (초고 제외)</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Malgun Gothic'; fill: #0b0b0b" transform="translate(523.888302 104.16)"/>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_30">
+    <path d="M 898.016604 570.24 
+L 1128.96 570.24 
+L 1128.96 110.16 
+L 898.016604 110.16 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 898.016604 153.389235 
+L 1093.731346 153.389235 
+L 1093.731346 131.072727 
+L 898.016604 131.072727 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #0b0b0b; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 898.016604 189.383602 
+L 912.881015 189.383602 
+L 912.881015 167.067094 
+L 898.016604 167.067094 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 898.016604 225.377969 
+L 917.835818 225.377969 
+L 917.835818 203.061461 
+L 898.016604 203.061461 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 898.016604 261.372336 
+L 900.494006 261.372336 
+L 900.494006 239.055829 
+L 898.016604 239.055829 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 898.016604 297.366703 
+L 900.494006 297.366703 
+L 900.494006 275.050196 
+L 898.016604 275.050196 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 898.016604 333.36107 
+L 902.971407 333.36107 
+L 902.971407 311.044563 
+L 898.016604 311.044563 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 898.016604 369.355437 
+L 902.971407 369.355437 
+L 902.971407 347.03893 
+L 898.016604 347.03893 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 898.016604 405.349804 
+L 898.016604 405.349804 
+L 898.016604 383.033297 
+L 898.016604 383.033297 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 898.016604 441.344171 
+L 900.494006 441.344171 
+L 900.494006 419.027664 
+L 898.016604 419.027664 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 898.016604 477.338539 
+L 898.016604 477.338539 
+L 898.016604 455.022031 
+L 898.016604 455.022031 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 898.016604 513.332906 
+L 902.971407 513.332906 
+L 902.971407 491.016398 
+L 898.016604 491.016398 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #8f8d86; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 898.016604 549.327273 
+L 900.494006 549.327273 
+L 900.494006 527.010765 
+L 898.016604 527.010765 
+z
+" clip-path="url(#pd4a611a060)" style="fill: #d9d7cf; stroke: #fcfcfb; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_25">
+     <g id="line2d_25"/>
+     <g id="text_53">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="147.14184" transform="rotate(-0 894.516604 147.14184)">유진오 제1회 초고</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_26"/>
+     <g id="text_54">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="183.136208" transform="rotate(-0 894.516604 183.136208)">일본국헌법</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_27"/>
+     <g id="text_55">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="219.130575" transform="rotate(-0 894.516604 219.130575)">행정연구위원회안</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_28"/>
+     <g id="text_56">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="255.124942" transform="rotate(-0 894.516604 255.124942)">조선임시약헌</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_29"/>
+     <g id="text_57">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="291.119309" transform="rotate(-0 894.516604 291.119309)">중화민국헌법(1946)</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_30"/>
+     <g id="text_58">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="327.113676" transform="rotate(-0 894.516604 327.113676)">오오헌초(五五憲草)</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_31"/>
+     <g id="text_59">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="363.108043" transform="rotate(-0 894.516604 363.108043)">민주의원안</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_32"/>
+     <g id="text_60">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="399.10241" transform="rotate(-0 894.516604 399.10241)">프랑스 제4공화국헌법</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_33"/>
+     <g id="text_61">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="435.096777" transform="rotate(-0 894.516604 435.096777)">민전 임시약법</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_34"/>
+     <g id="text_62">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="471.091144" transform="rotate(-0 894.516604 471.091144)">북한 헌법안</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_35"/>
+     <g id="text_63">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="507.085511" transform="rotate(-0 894.516604 507.085511)">기타</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_36"/>
+     <g id="text_64">
+      <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #0b0b0b" x="894.516604" y="543.10773" transform="rotate(-0 894.516604 543.10773)">대응 약함</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_43">
+    <path d="M 898.016604 570.24 
+L 898.016604 110.16 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_65">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="1096.667067" y="145.678735" transform="rotate(-0 1096.667067 145.678735)">79</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="915.816736" y="181.673102" transform="rotate(-0 915.816736 181.673102)">6</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="920.771539" y="217.667469" transform="rotate(-0 920.771539 217.667469)">8</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="903.429727" y="253.661836" transform="rotate(-0 903.429727 253.661836)">1</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="903.429727" y="289.656203" transform="rotate(-0 903.429727 289.656203)">1</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="905.907129" y="325.65057" transform="rotate(-0 905.907129 325.65057)">2</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="905.907129" y="361.644937" transform="rotate(-0 905.907129 361.644937)">2</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="900.952325" y="397.639305" transform="rotate(-0 900.952325 397.639305)">0</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="903.429727" y="433.633672" transform="rotate(-0 903.429727 433.633672)">1</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="900.952325" y="469.628039" transform="rotate(-0 900.952325 469.628039)">0</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="905.907129" y="505.622406" transform="rotate(-0 905.907129 505.622406)">2</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 11.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="903.429727" y="541.616773" transform="rotate(-0 903.429727 541.616773)">1</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 10.5px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #52514e" x="898.016604" y="105.5592" transform="rotate(-0 898.016604 105.5592)">제헌헌법 103조의 1위 문헌(합계 103)</text>
+   </g>
+   <g id="text_78">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Malgun Gothic'; fill: #0b0b0b" transform="translate(898.016604 89.66)">C. 선행 문헌 + 초고 → 제헌헌법</text>
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Malgun Gothic'; fill: #0b0b0b" transform="translate(898.016604 104.16)"/>
+   </g>
+  </g>
+  <g id="text_79">
+   <text style="font-weight: 700; font-size: 20px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="34.56" y="33.54375" transform="rotate(-0 34.56 33.54375)">유진오 제1회 초고를 후보에 넣으면 제헌헌법의 1위 대응 문헌이 어떻게 바뀌는가</text>
+  </g>
+  <g id="text_80">
+   <text style="font-size: 12px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #0b0b0b" x="34.56" y="612.36" transform="rotate(-0 34.56 612.36)">초고가 1위인 제헌헌법 조문 79/103 · B의 1위 문헌에서 초고로 바뀐 조문 77/100 · 그중 초고 조문의 1위 문헌이 B의 1위 문헌과 같은 조문 52/77 (서로 무관할 때 기대 15%)</text>
+  </g>
+  <g id="text_81">
+   <text style="font-size: 10px; font-family: 'Malgun Gothic'; text-anchor: start; fill: #898781" x="34.56" y="633.744" transform="rotate(-0 34.56 633.744)">조문마다 BM25+BGE-M3 RRF 1위 조문의 문헌을 셈. 1위 조문의 코사인이 0.60 미만이면 '대응 약함'. 시간상 앞선 문헌만 후보. 막대는 텍스트 대응 조문 수이며 참조 사실은 참조메모·사료로 따로 확인함.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6d53ca933a">
+   <rect x="149.76" y="110.16" width="230.943396" height="460.08"/>
+  </clipPath>
+  <clipPath id="pccfe877fc8">
+   <rect x="523.888302" y="110.16" width="230.943396" height="460.08"/>
+  </clipPath>
+  <clipPath id="pd4a611a060">
+   <rect x="898.016604" y="110.16" width="230.943396" height="460.08"/>
+  </clipPath>
+ </defs>
+</svg>
