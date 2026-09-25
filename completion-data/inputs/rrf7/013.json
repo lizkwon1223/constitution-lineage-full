@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_013",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "13",
+    "original_text": "모든 國民은 法律에 依하지 아니하고는 言論, 出版, 集會, 結社의 自由를 制限받지 아니한다.",
+    "workbook_text_ko": "모든 국민은 법률에 의하지 아니하고는 언론, 출판, 집회, 결사의 자유를 제한받지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_021",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "21",
+      "original_text": "集会、結社及び言論、出版その他一切の表現の自由は、これを保障する。\n２　検閲は、これをしてはならない。通信の秘密は、これを侵してはならない。",
+      "workbook_text_ko": "①집회, 결사 및 언론, 출판 그 밖의 모든 표현의 자유를 보장한다.\n②검열은 금지된다. 통신의 비밀은 침해받지 아니 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_006",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "6",
+      "original_text": "國民은 左記 各項에 依하여 自由權을 享有함\n一 法律에 依하지 아니한 逮捕 拘禁 審問 處罰을 받지 않는 自由\n二 法律에 依하지 아니한 家宅의 侵入 또는 搜索을 받지 않는 自由\n三 法律에 依하지 아니한 住居 及 移轉의 制限을 받지 않는 自由\n四 法律에 依하지 아니한 言論 著作 刊行 集會 及 結社의 制限을 받지 않는 自由\n五 法律에 依하지 아니한 信書 秘密의 侵犯을 받지 않는 自由\n六 法律에 依하지 아니한 財產 及 營業의 侵害를 받지 않는 自由\n七 安寧秩序를 妨害하지 않는 信敎의 自由",
+      "workbook_text_ko": "국민은 아래 각 항에 의하여 자유권을 향유함.\n1. 법률에 의하지 아니한 체포·구금·심문·처벌을 받지 않는 자유\n2. 법률에 의하지 아니한 가택의 침입 또는 수색을 받지 않는 자유\n3. 법률에 의하지 아니한 주거 및 이전의 제한을 받지 않는 자유\n4. 법률에 의하지 아니한 언론·저작·간행·집회 및 결사의 제한을 받지 않는 자유\n5. 법률에 의하지 아니한 신서 비밀의 침범을 받지 않는 자유\n6. 법률에 의하지 아니한 재산 및 영업의 침해를 받지 않는 자유\n7. 안녕질서를 방해하지 않는 신교의 자유"
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_016",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "16",
+      "original_text": "人民有集會結社之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 집회·결사의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_029",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "29",
+      "original_text": "日本臣民ハ法律ノ範囲内ニ於テ言論著作印行集会及結社ノ自由ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률의 범위 안에서 언론·저작·출판·집회 및 결사의 자유를 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_031",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "31",
+      "original_text": "何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。",
+      "workbook_text_ko": "누구든지 법률에서 정하는 절차에 의하지 아니하고는 그 생명 또는 자유를 박탈당하거나 그 밖의 형벌을 받지 아니한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_014",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "14",
+      "original_text": "人民有祕密通訊之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 비밀 통신의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_013",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "13",
+      "original_text": "人民有言論著作及出版之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 언론·저작 및 출판의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    }
+  ]
+}

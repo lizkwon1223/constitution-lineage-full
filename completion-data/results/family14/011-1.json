@@ -1,0 +1,189 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_011",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_117",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "통신(서신·우편·전신·전화)의 비밀을 보장하면서 그 제한(예외)을 오직 법률로만 허용한다는 법률유보 구조가 대상 조문의 '법률에 의하지 아니하고는'과 규율 요소에서 대응한다. 다만 보호객체의 열거 방식과 규정 형식(불가침 선언+예외조항 분리)은 다르다.",
+      "evidence": [
+        {
+          "element": "법률유보(제한의 근거)",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ausnahmen können nur durch Reichsgesetz zugelassen werden.",
+          "commonality": "통신비밀 제한을 법률(제국법률)에만 유보한다는 점이 같다",
+          "difference": "대상은 한 문장 안의 단서로 처리하나 후보는 불가침 선언 뒤 별도 문장으로 '예외'를 규정하고, 법률의 종류를 '제국법률'로 특정한다"
+        },
+        {
+          "element": "보호객체(통신의 비밀)",
+          "target_field": "original_text",
+          "target_quote": "通信의 秘密을 侵害받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Briefgeheimnis sowie das Post-, Telegraphen- und Fernsprechgeheimnis sind unverletzlich.",
+          "commonality": "통신 영역의 비밀을 침해로부터 보호한다는 내용이 공통된다",
+          "difference": "대상은 '통신'으로 포괄하지만 후보는 서신·우편·전신·전화를 개별 열거하고, 권리주체(국민)를 명시하지 않은 객관적 불가침 선언 형식이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_021",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "신서 비밀 보장이라는 주제는 겹치나, 주택과 묶어 '법적으로 보호받는다'는 보호선언 형식이어서 대상의 '법률에 의하지 아니하고는 침해받지 아니한다'는 법률유보형 침해금지와 규율 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_056",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 무기속위임에 관한 조항으로 통신비밀과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "군사재판 관할 배제 규정으로 대상의 통신비밀과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 면책특권 조항으로 대상과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_078",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원 선서 의무 규정으로 대상과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'주체 + 법률에 정한 경우를 제외하고는 + 비밀을 침해당하지 아니한다'는 문형과 규율 순서가 대상 조문과 거의 일치한다. 다만 주체가 신민이고 보호객체가 '信書'로 한정된다.",
+      "evidence": [
+        {
+          "element": "문형(주체+법률유보+침해금지)",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律에 依하지 아니하고는 通信의 秘密을 侵害받지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本臣民ハ法律ニ定メタル場合ヲ除ク外信書ノ秘密ヲ侵サルヽコトナシ",
+          "commonality": "권리주체를 앞세우고 법률에 의한 경우를 유일한 예외로 둔 뒤 비밀 침해 금지를 서술하는 문장 구조가 같다",
+          "difference": "주체가 '일본 신민'이고 유보 방식이 '법률로 정한 경우를 제외하고'인 반면 대상은 '모든 국민'과 '법률에 의하지 아니하고는'이다"
+        },
+        {
+          "element": "보호객체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "통신의 비밀",
+          "candidate_field": "original_text",
+          "candidate_quote": "信書ノ秘密",
+          "commonality": "서신·통신 영역의 비밀을 보호객체로 삼는다",
+          "difference": "후보는 '신서(서신)'로 한정되나 대상은 '통신'으로 포괄 범위가 넓다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률이 정하는 절차에 의하지 아니하고는 ~ 아니한다'는 법률유보 문형만 유사할 뿐, 보호객체가 생명·자유 박탈과 형벌이어서 통신비밀과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제1절 (5)가 통신·서신 비밀의 불가침을 규정해 주제는 직접 겹치지만, 예외 요건이 '법원의 적법한 명령' 또는 '공공의 안전과 질서'로 설정되어 법률유보 단일 요건인 대상과 제한 메커니즘이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률에 의하지 아니한 신서 비밀의 침범을 받지 않는' 이라는 한국어 문언이 대상의 '법률에 의하지 아니하고는 …비밀을 침해받지 아니한다'와 유보 방식·부정 서술 방식에서 구체적으로 대응한다. 다만 자유권 열거조항의 한 호이고 객체가 '신서'이다.",
+      "evidence": [
+        {
+          "element": "법률유보 표현",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律에 依하지 아니한",
+          "commonality": "제한 근거를 법률로 한정하는 동일한 한국어 관용 문형을 쓴다",
+          "difference": "후보는 관형형으로 각 호를 수식하며 여러 자유권에 일괄 적용되나, 대상은 통신비밀 단일 조문의 술어 단서로 쓰인다"
+        },
+        {
+          "element": "보호객체와 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "통신의 비밀을 침해받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "信書 秘密의 侵犯을 받지 않는 自由",
+          "commonality": "법률에 의하지 않은 비밀 침해(침범)를 받지 않는다는 효과가 같다",
+          "difference": "후보는 '신서'로 객체가 좁고 '자유권을 향유함'이라는 권리 향유 형식인 반면, 대상은 '통신'을 객체로 한 침해금지 서술형이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "무기 보유·휴대 권리 규정으로 대상과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "보호객체를 '通訊'(통신)으로 포괄하고 법률에 의하지 않은 제한을 금지하는 점에서 대상의 객체 범위와 법률유보가 동시에 대응한다. 다만 권리 부여형(자유를 가진다+제한금지) 2문 구조라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "보호객체 범위(통신)",
+          "target_field": "original_text",
+          "target_quote": "通信의 秘密",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有祕密通訊之自由",
+          "commonality": "서신에 한정하지 않고 '통신' 일반의 비밀을 보호객체로 삼는다",
+          "difference": "후보는 '비밀 통신의 자유'라는 적극적 권리 부여 형식이고 주체가 '人民'인 반면, 대상은 '모든 국민'의 침해 금지 형식이다"
+        },
+        {
+          "element": "법률유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률에 의하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "非依法律不得限制之",
+          "commonality": "법률에 의하지 않으면 제한할 수 없다는 유보 방식이 같다",
+          "difference": "후보는 '제한(限制)'의 근거를 규율하는 별도 문장이나, 대상은 '침해받지 아니한다'는 효과 서술에 유보를 결합한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 면책특권 조항으로 통신비밀과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법정 재판관 박탈 금지와 특별법원 금지 규정으로 대상과 규율 대상이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'모든 국민'이라는 주체 표현 자체(후보들은 신민·인민·공민 등으로 표기)",
+    "침해 주체(국가기관)와 침해 시 구제절차에 관한 언급이 없다는 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·영향 관계의 확정은 제공 본문만으로는 불가능하다.",
+    "바이마르·중화민국 초안 등은 원문 이해에 번역문 참조가 개입할 수 있어 대응의 정밀도에 한계가 있다."
+  ],
+  "short_answer": "대상 조문은 '모든 국민 + 법률유보 + 통신비밀 침해 금지'의 세 요소로 구성된다. 문형과 유보 방식에서는 조선임시약헌 제6조 제5호와 대일본제국헌법 제26조가 가장 밀접하게 대응하고, 보호객체를 '통신' 일반으로 잡은 점에서는 五五憲草 제14조가, 제한을 법률에만 유보한 구조에서는 바이마르 제117조가 대응한다. 필리핀헌법 제1절 (5)는 주제는 같으나 예외요건을 법원 명령·공공안전으로 두어 유보 메커니즘이 다르고, 북조선 초안 제21조는 '법적 보호' 선언형이어서 구조가 다르다. 이상은 문언상 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

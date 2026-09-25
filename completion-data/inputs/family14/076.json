@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_076",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "76",
+    "original_text": "司法權은 法官으로써 組織된 法院이 行한다.\n最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.\n法官의 資格은 法律로써 定한다.",
+    "workbook_text_ko": "사법권은 법관으로써 조직된 법원이 행한다.\n최고법원인 대법원과 하급법원의 조직은 법률로써 정한다.\n법관의 자격은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_059",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "59",
+      "original_text": "L'organisation de la Haute Cour de justice et la procédure suivie sont déterminées par une loi spéciale.",
+      "workbook_text_ko": "사법고등법원의 조직과 절차는 특별법(loi spéciale)으로 정한다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_III",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "III",
+      "original_text": "Section. 1.\nThe judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.\nSection. 2.\nThe judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public Ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;— between a State and Citizens of another State,—between Citizens of different States,—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.\nIn all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.\nThe Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed.\nSection. 3.\nTreason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort. No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court.\nThe Congress shall have Power to declare the Punishment of Treason, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted.",
+      "workbook_text_ko": "제1항\n합중국의 사법권은 1개의 연방대법원에, 그리고 연방의회\n가 수시로 제정･설치하는 하급 법원들에 속한다. 연방대법\n원 및 하급 법원의 법관은 부적절하게 처신하지 않는 한\n그 직을 유지하며, 그 직무에 대하여는 정기적으로 보수를\n받으며, 그 보수는 재임 중에 감액되지 않는다.\n제2항\n사법권은 이 헌법과 합중국 법률 그리고 합중국의 권한\n에 의하여 체결되었거나 체결될 조약으로 인하여 발생하\n는 모든 보통법상 및 형평법상의 사건, 대사와 그 밖의\n외교 사절 및 영사에 관한 모든 사건, 해사 재판 및 해상\n관할에 관한 모든 사건, 합중국이 한 편의 당사자인 쟁\n송, 2개의 주 및 그 이상의 주 사이의 쟁송, 한 주와 다\n른 주의 시민 사이의 쟁송, 상이한 주의 시민 사이의\n쟁송, 서로 다른 주들로부터 부여받은 토지의 권리를 주장하는\n같은 주의 시민 사이의 쟁송, 그리고 어떤 주나 그 주의\n시민과 외국, 외국 시민 또는 외국 신민과의 사이의 쟁송\n에 미친다.\n대사와 그 밖의 외교 사절 및 영사에 관한 사건과, 주가\n당사자인 사건은 연방대법원이 제1심 재판관할권을 가\n진다. 앞에서 열거한 그 밖의 모든 사건에서는 연방대법원이 연방의회\n가 정하는 예외의 경우를 제외하고, 연방의회가 정하는\n규정에 따라 법률 문제와 사실 문제에 관하여 상소심 재\n판관할권을 가진다.\n탄핵 사건을 제외한 모든 범죄의 재판은 배심제로 한다.\n재판은 그 범죄가 행하여진 주에서 이루어진다. 다만, 범\n죄지가 어느 주에도 속하지 않는 경우에는 연방의회가\n법률에 의하여 정하는 장소에서 재판한다.\n제3항\n합중국에 대한 반역죄는 합중국에 대하여 전쟁을 일으키\n거나 또는 적에게 가담하여 원조 및 지원을 할 경우에만\n성립한다. 누구라도 동일한 외적 행위에 대하여 증인 2명의 증언이 있거나, 또는 공개 법정에서 자백하는 경우 이\n외에는 반역죄의 유죄를 선고 받지 않는다.\n연방의회는 반역죄의 형벌을 정하는 권한을 가진다.\n다만, 반역죄로 인한 사권박탈선고는 그 선고를 받은\n자의 생존 중을 제외하고 혈통 오손(血統汚損)이나 재\n산 몰수를 초래하지 않는다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_VIII",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "VIII",
+      "original_text": "Section 1. The Judicial power shall be vested in one Supreme Court and in such inferior courts as may be established by law.\nSec. 2. The National Assembly shall have the power to define, prescribe, and apportion the jurisdiction of the various courts, but may not deprive the Supreme Court of its original jurisdiction over cases affecting ambassadors, other public ministers, and consuls, nor of its jurisdiction to review, revise, reverse, modify, or affirm on appeal, certiorari, or writ of error, as the law or the rules of court may provide, final judgments and decrees of inferior courts in—\n(1) All cases in which the constitutionality or validity of any treaty, law, ordnance, or executive order or regulation is in question.\n(2) All cases involving the legality of any tax, impost, assessment, or toll, or any penalty imposed in relation thereto.\n(3) All cases in which the jurisdiction of any trial court is in issue.\n(4) All criminal cases in which the penalty imposed is death or life imprisonment.\n(5) All cases in which an error or question of law is involved.\nSec. 3. Until the National Assembly shall provide otherwise, the Supreme Court shall have such original and appellate jurisdiction as may be possessed and exercised by the Supreme Court of the Philippine Islands at the time of the adoption of this Constitution. The original jurisdiction of the Supreme Court shall include all cases affecting ambassadors, other public ministers, and consuls.\nSec. 4. The Supreme Court shall be composed of a Chief Justice and ten Associate Justices and may sit either en banc or in two divisions unless otherwise provided by law.\nSec. 5. The members of the Supreme Court and all judges of inferior courts shall be appointed by the President with the consent of the Commission on Appointments of the National Assembly.\nSec. 6. No person may be appointed member of the Supreme Court unless he has been five years a citizen of the Philippines, is at least forty years of age, and has for ten years or more been a judge of a court of record or engaged in the practice of law in the Philippines.\nSec. 7. No judge appointed for a particular district shall be designated or transferred to another district without the approval of the Supreme Court. The National Assembly shall by law determine the residence of judges of inferior courts.\nSec. 8. The National Assembly shall prescribe the qualifications of judges of inferior courts, but no person may be appointed judge of any such courts unless he is a citizen of the Philippines and has been admitted to the practice of law in the Philippines.\nSec. 9. The members of the Supreme Court and all judges of inferior courts shall hold office during good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office. They shall receive such compensation as may be fixed by law, which shall not be diminished during their continuance in office. Until the National Assembly shall provide otherwise, the Chief Justice of the Supreme Court shall receive an annual compensation of sixteen thousand pesos, and each Associate Justice, fifteen thousand pesos.\nSec. 10. All cases involving the constitutionality of a treaty or law shall be heard and decided by the Supreme Court en banc, and no treaty or law may be declared unconstitutional without the concurrence of two-thirds of all the members of the Court.\nSec. 11. The conclusions of the Supreme Court in any case submitted to it for decision shall be reached in consultation before the case is assigned to a Justice for the writing of the opinion of the Court. Any Justice dissenting from a decision shall state the reasons for his dissent.\nSec. 12. No decision shall be rendered by any court of record without expressing therein clearly and distinctly the facts and the law on which it is based.\nSec. 13. The Supreme Court shall have the power to promulgate rules concerning pleading, practice, and procedure in all courts, and the admission to the practice of law. Said rules shall be uniform for all courts of the same grade and shall not diminish, increase, or modify substantive rights. The existing laws on pleading, practice, and procedure are hereby repealed as statutes, and are declared Rules of Courts, subject to the power of the Supreme Court to alter and modify the same. The National Assembly shall have the power to repeal, alter, or supplement the rules concerning pleading, practice, and procedure, and the admission to the practice of law in the Philippines.",
+      "workbook_text_ko": "제1절. 사법권은 하나의 대법원과 법률로 설치하는 하급법원에 속한다.\n제2절. 국민의회는 각 법원의 관할권을 정하고 규정하며 배분할 권한을 가진다. 다만, 대사·그 밖의 외교사절 및 영사에 관계되는 사건에 대한 대법원의 제1심관할권과, 법률 또는 법원규칙이 정하는 상소·상급심 심사명령 또는 오류심사영장에 따라 다음 사건의 하급법원 종국판결과 재판을 심사·재심사·파기·변경 또는 확인할 대법원의 관할권을 박탈할 수 없다.\n(1) 조약·법률·조례·행정명령 또는 규칙의 합헌성이나 유효성이 문제되는 모든 사건.\n(2) 조세·관세·부과금·통행료 또는 이에 관계하여 부과되는 제재의 적법성이 문제되는 모든 사건.\n(3) 심리법원의 관할권이 쟁점인 모든 사건.\n(4) 부과된 형이 사형 또는 종신형인 모든 형사사건.\n(5) 법률상 오류나 법률문제가 포함된 모든 사건.\n제3절. 국민의회가 달리 정할 때까지 대법원은 이 헌법 채택 당시 필리핀 군도 대법원이 보유·행사하던 제1심 및 상소 관할권을 가진다. 대법원의 제1심관할권에는 대사·그 밖의 외교사절 및 영사에 관계되는 모든 사건이 포함된다.\n제4절. 대법원은 대법원장 1명과 대법관 10명으로 구성하며, 법률에 다른 정함이 없으면 전원합의체 또는 2개 부로 재판할 수 있다.\n제5절. 대법원 구성원과 모든 하급법원 판사는 대통령이 국민의회 임명위원회의 동의를 받아 임명한다.\n제6절. 필리핀 국민으로 5년을 지내고 40세 이상이며, 10년 이상 기록법원의 판사로 재직하거나 필리핀에서 변호사 업무에 종사한 사람이 아니면 대법원 구성원으로 임명될 수 없다.\n제7절. 특정 재판구에 임명된 판사는 대법원의 승인 없이 다른 재판구에 배치되거나 전임될 수 없다. 국민의회는 하급법원 판사의 거주지를 법률로 정한다.\n제8절. 국민의회는 하급법원 판사의 자격을 정한다. 다만, 필리핀 국민으로서 필리핀에서 변호사 자격을 인정받은 사람이 아니면 하급법원 판사로 임명될 수 없다.\n제9절. 대법원 구성원과 모든 하급법원 판사는 품행이 양호한 동안 70세에 이르거나 직무를 수행할 수 없게 될 때까지 재직한다. 이들은 법률로 정하는 보수를 받으며 재임 중 보수를 감액할 수 없다. 국민의회가 달리 정할 때까지 대법원장의 연봉은 1만 6천 페소, 각 대법관의 연봉은 1만 5천 페소로 한다.\n제10절. 조약이나 법률의 합헌성에 관한 모든 사건은 대법원 전원합의체가 심리·결정하며, 대법원 전체 구성원 3분의 2의 동의 없이는 조약이나 법률을 위헌이라고 선언할 수 없다.\n제11절. 대법원에 결정을 위하여 제출된 사건의 결론은 법원의 의견을 작성할 대법관에게 사건을 배당하기 전에 합의를 거쳐 도출하여야 한다. 결정에 반대하는 대법관은 반대 이유를 밝혀야 한다.\n제12절. 기록법원은 결정의 근거가 되는 사실과 법률을 명확하고 분명하게 밝히지 않고는 결정을 내릴 수 없다.\n제13절. 대법원은 모든 법원의 소송서면·소송실무·절차 및 변호사 자격 인정에 관한 규칙을 제정할 권한을 가진다. 이 규칙은 같은 등급의 모든 법원에 통일적으로 적용되어야 하며 실체적 권리를 축소·확대 또는 변경할 수 없다. 소송서면·소송실무·절차에 관한 현행 법률은 제정법으로서는 폐지하고 법원규칙으로 선언하되, 대법원의 변경·수정 권한에 따른다. 국민의회는 필리핀의 소송서면·소송실무·절차 및 변호사 자격 인정에 관한 규칙을 폐지·변경 또는 보충할 권한을 가진다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_083",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "83",
+      "original_text": "(1) Die Verfassung und Zuständigkeit der Gerichte wird durch Bundesgesetz festgestellt.\n(2) Niemand darf seinem gesetzlichen Richter entzogen werden.\n(3) Ausnahmegerichte sind nur in den durch die Gesetze über das Verfahren in Strafsachen geregelten Fällen zulässig.",
+      "workbook_text_ko": "(1) 법원의 조직 및 관할은 연방법률로 정한다.\n(2) 누구도 법률이 정한 자신의 법관에게 재판받을 권리를 박탈당하지 않는다.\n(3) 예외법원(Ausnahmegerichte)은 형사절차에 관한 법률이 정하는 경우에만 허용된다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_081",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "81",
+      "original_text": "裁判所는 選擧에 依하여 構成한다.\n最高裁判所는 秘密投票에 依하여 該當한 人民委員會에서 選擧한다.\n特別裁判所의 構成은 따로 法令으로서 規定한다.\n判事 또는 參審員의 解任은 그를 選擧한 機關의 召還에 依하여서만 實現할 수 있다.",
+      "workbook_text_ko": "재판소는 선거에 의하여 구성한다.\n최고재판소는 비밀투표에 의하여 해당한 인민위원회에서 선거한다.\n특별재판소의 구성은 따로 법령으로서 규정한다.\n판사 또는 참심원의 해임은 그를 선거한 기관의 소환에 의하여서만 실현할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_076",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "76",
+      "original_text": "すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。\n２　特別裁判所は、これを設置することができない。行政機関は、終審として裁判を行ふことができない。\n３　すべて裁判官は、その良心に従ひ独立してその職権を行ひ、この憲法及び法律にのみ拘束される。",
+      "workbook_text_ko": "①모든 사법권은 최고재판소 및 법률이 정하는 바에 따라 설치되는 하급재판소에 속한다.\n②특별재판소는 설치할 수 없다. 행정기관은 종심(終審)으로서 재판을 할 수 없다.\n③모든 재판관은 양심에 따라 독립하여 그 직권을 행사하며 헌법 및 법률에만 구속된다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_008",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "8",
+      "original_text": "(1) Die Rechtspflege wird durch unabhängige, nur den Gesetzen unterworfene Gerichte ausgeübt.\n(2) Die Urteile werden im Namen des Volkes verkündet und vollstreckt.",
+      "workbook_text_ko": "(1) 사법은 독립하여 오직 법률에만 구속되는 법원이 행사한다.\n(2) 판결은 국민의 이름으로 선고하고 집행한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_057",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "57",
+      "original_text": "司法権ハ天皇ノ名ニ於テ法律ニ依リ裁判所之ヲ行フ\n２　裁判所ノ構成ハ法律ヲ以テ之ヲ定ム",
+      "workbook_text_ko": "사법권은 천황의 이름으로 법률에 따라 재판소가 행사한다.\n② 재판소의 구성은 법률로 정한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_103",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "103",
+      "original_text": "Die ordentliche Gerichtsbarkeit wird durch das Reichsgericht und durch die Gerichte der Länder ausgeübt.",
+      "workbook_text_ko": "제국 법원 및 주 법원은 일반재판권을 행사한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "1",
+      "original_text": "Le pouvoir législatif s'exerce par deux assemblées : la Chambre des députés et le Sénat. - La Chambre des Députés est nommée par le suffrage universel, dans les conditions déterminées par la loi électorale. - La composition, le mode de nomination et les attributions du Sénat seront réglés par une loi spéciale.",
+      "workbook_text_ko": "입법권은 하원(Chambre des députés)과 상원(Sénat) 양원이 행사한다.\n하원은 선거법이 정한 조건에 따라 보통선거로 임명한다.\n상원의 구성ㆍ임명방법과 임무는 특별법으로 정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_082",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "82",
+      "original_text": "司法院之組織及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "사법원의 조직과 각급 법원의 조직은 법률로 정한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_041",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "41",
+      "original_text": "司法權은 法官으로써 組織된 法院이 此를 行함\n法院의 組織 及 法官의 資格은 法律로써 此를 定함",
+      "workbook_text_ko": "사법권은 법관으로써 조직된 법원이 이를 행함.\n법원의 조직 및 법관의 자격은 법률로써 이를 정함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_082",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "82",
+      "original_text": "司法院及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "司法院과 各級法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_089",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "89",
+      "original_text": "Die Organisation der Gerichte wird durch das Gesetz bestimmt.",
+      "workbook_text_ko": "법원의 조직은 법률로 정\n한다."
+    }
+  ]
+}

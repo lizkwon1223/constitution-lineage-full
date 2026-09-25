@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_004",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "4",
+    "original_text": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+    "workbook_text_ko": "대한민국의 영토는 한반도와 그 부속도서로 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_002",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "2",
+      "original_text": "Das Reichsgebiet besteht aus den Gebieten der deutschen Länder. Andere Gebiete können durch Reichsgesetz in das Reich aufgenommen werden, wenn es ihre Bevölkerung kraft des Selbstbestimmungsrechts begehrt.",
+      "workbook_text_ko": "제국 영토는 독일 각 주(州)의 영토로 구성된다. 제국 영토 외에 소재하는 지역의 경우 당해 지역의 주민이 자결권에 기초하여 청원할 경우, 제국법률에 의거하여 당해 지역을 제국영토로 수용할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_004",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "4",
+      "original_text": "中華民國領土爲江蘇、浙江、安徽、江西、湖北、湖南、四川、西康、河北、山東、山西、河南、陝西、甘肅、青海、福建、廣東、廣西、雲南、貴州、遼寧、吉林、黑龍江、熱河、察哈爾、綏遠、寧夏、新疆、蒙古、西藏等固有之疆域。\n中華民國領土，非經國民大會議決不得變更。",
+      "workbook_text_ko": "중화민국의 영토는 장쑤·저장·안후이·장시·후베이·후난·쓰촨·시캉·허베이·산둥·산시(山西)·허난·산시(陝西)·간쑤·칭하이·푸젠·광둥·광시·윈난·구이저우·랴오닝·지린·헤이룽장·러허·차하얼·쑤이위안·닝샤·신장·몽골·티베트 등 고유의 강역으로 한다.\n중화민국의 영토는 국민대회의 의결을 거치지 않고는 변경할 수 없다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_003",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "3",
+      "original_text": "具有中華民國國籍者為中華民國國民。",
+      "workbook_text_ko": "中華民國의 國籍을 가진 者를 中華民國의 國民으로 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_002",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "2",
+      "original_text": "中華民國之主權，屬於國民全體。",
+      "workbook_text_ko": "중화민국의 주권은 국민 전체에 속한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_004",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "4",
+      "original_text": "中華民國領土依其固有之疆域，非經國民大會之決議，不得變更之。",
+      "workbook_text_ko": "中華民國의 領土는 그 固有의 領域으로 하며 國民大會의 決議에 依하지 아니하고는 이를 變更할 수 없다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_002",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "2",
+      "original_text": "中華民國之主權屬於國民全體。",
+      "workbook_text_ko": "中華民國의 主權은 國民全體에 屬한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_003",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "3",
+      "original_text": "(1) Das Bundesgebiet umfaßt die Gebiete der Bundesländer.\n(2) Eine Änderung des Bundesgebietes, die zugleich Änderung eines Landesgebietes ist, ebenso die Änderung einer Landesgrenze innerhalb des Bundesgebietes kann - abgesehen von Friedensverträgen - nur durch übereinstimmende Verfassungsgesetze des Bundes und jenes Landes erfolgen, dessen Gebiet eine Änderung erfährt.",
+      "workbook_text_ko": "(1) 연방영토는 각 연방주의 영토를 포함한다.\n(2) 주의 영토 변경을 수반하는 연방영토의 변경과 연방영토 안에서 주 경계를 변경하는 것은 평화조약에 의한 경우를 제외하고, 연방과 그 영토가 변경되는 주의 서로 일치하는 헌법률에 의해서만 할 수 있다."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_090",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "규율 대상(조세의 종목과 세율), 규율 방식(법률로써 정함), 문형이 거의 그대로 일치한다. 차이는 접속어('及'→'과')와 '此를' 삽입 여부, 종결형(定함/定한다) 정도의 표기·문체 수준에 그친다. 다만 문언 대응이 곧 역사적 계수의 확정을 의미하지는 않는다.",
+      "evidence": [
+        {
+          "element": "규율 대상(조세의 종목·세율)",
+          "target_field": "original_text",
+          "target_quote": "租稅의 種目과 稅率은",
+          "candidate_field": "original_text",
+          "candidate_quote": "租税의 種目 及 稅率은",
+          "commonality": "과세의 종목과 세율 두 항목을 동일하게 특정하여 법정사항으로 삼는다.",
+          "difference": "연결어가 '과'와 '及'으로 표기상 다를 뿐 규율 범위는 같다."
+        },
+        {
+          "element": "규율 방식·효과(법률유보)",
+          "target_field": "original_text",
+          "target_quote": "法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律로써 此를 定함",
+          "commonality": "조세의 종목·세율을 오로지 법률로 정하도록 하는 동일한 법률유보 형식과 '法律로써 定' 문형을 공유한다.",
+          "difference": "후보는 지시어 '此를'을 넣고 명사형 종결('定함')을 쓰는 반면 대상은 '定한다'로 종결한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조세라는 주제는 겹치나 규율 요소가 다르다. 대상은 조세의 종목·세율이라는 과세요건을 법률로 정하라는 입법형식 요구인 반면, 후보는 국민에게 납세의무를 부과하는 의무조항이다. 주체(국가 입법 대 국민)와 효과(법정주의 대 의무 부담)가 구별되므로 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…은 法律로써 定한다'는 일반적 법률유보 문형만 공통될 뿐, 규율 대상이 입법원의 조직으로 조세 종목·세율과 전혀 다르다. 상용 문형 중복만으로는 선택 근거가 되지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "행정원 조직의 법률유보로, 문형은 유사하나 대상 요소(조세의 종목과 세율)와의 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원 조직을 법률로 정한다는 조직법정주의 조항으로, 법률유보라는 일반 형식만 공유하고 조세 종목·세율이라는 규율 대상의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법원·각급법원 조직의 법률유보로서 문형만 유사하고, 과세요건 법정이라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "고시원 조직의 법률유보로 문형만 공통되며, 조세의 종목·세율이라는 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [],
+  "limitations": [
+    "문언의 일치는 대응 관계를 보여줄 뿐이며 제공된 본문만으로는 실제 참조·계수 여부를 확정할 수 없다.",
+    "한자 표기·문체 차이가 실질적 규범 차이를 뜻하는지는 제공 본문만으로 판단하기 어렵다."
+  ],
+  "short_answer": "조선임시약헌(1947) 제50조가 대상 조문과 규율 대상(조세의 종목·세율)과 규율 방식('法律로써 定')에서 거의 동일하여 후속 비교에 가장 유용한 후보다. 차이는 연결어('及'/'과'), 지시어 '此를'의 유무, 종결형('定함'/'定한다') 등 표기·문체 수준에 그친다. 일본국헌법 제30조는 조세라는 주제는 겹치지만 국민의 납세의무를 정한 의무조항이어서 과세요건 법정주의와 규율 요소가 다르다. 중화민국헌법 제61·76·82·89조와 프로이센헌법 제89조는 '…조직은 법률로 정한다'는 일반 법률유보 문형만 공유하고 조세 관련 요소의 대응이 없어 선택하지 않았다. 이상은 문언상 대응에 대한 판단이며 역사적 영향의 확정은 아니다."
+}

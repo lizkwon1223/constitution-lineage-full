@@ -1,0 +1,78 @@
+{
+  "article": 2,
+  "reviewed_at": "2026-09-22T15:07:13.522013+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "cb443584ba8b095b1d35717cac2a0978840650394053a8b11d4d4a37c18dc4b3",
+  "input_sha256": "f2b80fd0551c7a620ee9bb287d76f7555b219279ee3f84947c57779155e0995e",
+  "responses": [
+    {
+      "job_id": "002_bdf1ce8b4710_r1",
+      "repeat": 1,
+      "sha256": "f675da11260f8a939c7630e8d177840880d74ecaa37ad6b9243e5920822a5928",
+      "assessment": "주권 귀속과 권력 유래의 분해 및 필리핀·바이마르·약헌·중화민국·북한안·일본 전문의 대응은 지지됨. 프랑스 비선택과 정부권한/모든 권력의 범위 차이 단정은 보완 필요함."
+    },
+    {
+      "job_id": "002_bdf1ce8b4710_r2",
+      "repeat": 2,
+      "sha256": "6327725aeb86486bdfe34887c8d046f6e14807a6f1385f569f5d70ece9bf1a0b",
+      "assessment": "핵심 요소의 분해는 지지됨. 프랑스와 일본의 직접적인 주권 귀속 문구를 일반적 유사성에 한정한 판단, 필리핀 조문 표기 및 미설명 요소의 과도한 범위 차이를 보완할 필요가 있음."
+    },
+    {
+      "job_id": "002_bdf1ce8b4710_r3",
+      "repeat": 3,
+      "sha256": "eca04c0d25e661c8528f34d086c3a19253a53addd5b805b82053619646302ebc",
+      "assessment": "프랑스 전단의 부분 대응까지 인정한 점은 타당함. 일본 전문의 주권 귀속 부분을 문장 형식만으로 제외한 기준과 정부권한의 협소성 단정은 보완 필요함."
+    }
+  ],
+  "synthesis": "필리핀 제II조 제1절은 주권의 국민 귀속과 권력의 국민 유래를 한 문장에 연결한다는 점에서 가장 포괄적인 문언 대응을 보임. 바이마르는 권력 유래, 약헌·중화민국 두 판본·북한안·프랑스는 주권 귀속의 부분 대응임. 일본 전문 역시 주권 귀속이 명시되어 있고 권위의 유래와 권력 행사는 나누어 규정함. 프로이센1920의 국민 전체가 국가권력의 담당자라는 규정은 구문이 달라도 실질 비교의 보조 자료가 됨. government authority와 Staatsgewalt의 표현 차이만으로 제헌헌법의 권력이 사적 권력까지 더 넓다고 단정할 수 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "type": "unsupported_scope_difference",
+      "severity": "material",
+      "finding": "government authority라는 표현을 근거로 후보를 협소하게, 대상의 모든 권력을 더 넓게 단정함. 문언상의 수식 차이만으로 실질 적용범위 차이는 입증되지 않음.",
+      "action": "용어 차이로 기술하고 규범적 범위의 차이는 유보함. 미설명 요소에서도 모든이라는 단어의 독자성을 과장하지 않음."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_003",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "주권이 국민에게 귀속된다는 직접 대응을 확인하면서 후속 행사 방법이 있다는 이유로 제외함. 북한안 등 다른 부분 대응의 선택 기준과 일관성이 약함.",
+      "action": "전단의 직접 대응과 후속 규정의 차이를 함께 제시함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_PREAMBLE",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "주권 귀속 문구가 직접 존재하는데 전문·서술 형식이라는 이유로 주제 유사성에 한정함.",
+      "action": "주권 귀속 부분의 대응을 남기되 권위와 권력, 행사 주체의 차이를 명시함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "type": "locator",
+      "severity": "minor",
+      "finding": "요약의 제2절 제1항은 제II조 제1절을 잘못 지칭함.",
+      "action": "종합 해설에서 제II조 제1절로 바로잡음."
+    }
+  ],
+  "limits": [
+    "프로이센1920의 비선택을 확정적 오답으로 세지 않음. 문언 유사성의 강도와 국민주권이라는 실질 논점의 대응을 분리함."
+  ]
+}

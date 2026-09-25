@@ -1,0 +1,172 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_068",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 행정기관의 구성원을 '수반+기타 국무대신/국무위원'으로 열거하고 '~으로써 조직한다'는 문형이 대응한다. 다만 의결 대상(대통령 권한에 속한 중요 국책)과 대통령의 구성원 지위는 대응하지 않아 구성 조항 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "조직 구성원 열거 문형",
+          "target_field": "original_text",
+          "target_quote": "大統領과 國務總理 其他의 國務委員으로 組織되는",
+          "candidate_field": "original_text",
+          "candidate_quote": "その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する",
+          "commonality": "수반격 인물과 '기타의' 국무위원/국무대신을 열거하여 조직한다는 구성 규정 형식이 같다",
+          "difference": "대상은 대통령까지 구성원에 포함하는 데 비해 후보는 내각총리대신을 수장으로 하는 내각만을 구성하며, 후보는 '법률이 정하는 바에 따라'라는 조건을 둔다"
+        },
+        {
+          "element": "기관의 성격과 기능",
+          "target_field": "workbook_text_ko",
+          "target_quote": "합의체로서 대통령의 권한에 속한 중요 국책을 의결한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、行政権の行使について、国会に対し連帯して責任を負ふ",
+          "commonality": "합의제 기관으로서 일체적으로 활동한다는 관념이 공통된다",
+          "difference": "대상은 대통령 권한사항의 '의결' 기능을 규정하나 후보는 국회에 대한 연대책임을 규정하여 효과가 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정원 각부 부장·위원장의 임명권과 겸임을 다루며, 합의체 조직이나 중요 국책 의결과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령 권한과 내각 구성원 임명(제12절 (3))을 언급하지만, 합의체 조직과 중요 국책 의결이라는 대상 조문의 핵심 규율과 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국무회의는 …으로써 조직함'이라는 합의제 기관 구성 규정의 문형과 '국무위원'이라는 지위 명칭이 직접 대응한다. 다만 의결 대상과 대통령의 구성원 지위는 후보에 없다.",
+      "evidence": [
+        {
+          "element": "기관 조직 규정 문형",
+          "target_field": "original_text",
+          "target_quote": "國務總理 其他의 國務委員으로 組織되는",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務會議는 國務總長 及 國務委員으로써 組織함",
+          "commonality": "국무 담당 합의기관을 수반격 직위와 국무위원으로 조직한다는 구성 규정이 동일한 문형이다",
+          "difference": "후보의 수반은 국무총장이고 대통령이 구성원으로 포함되지 않으며, 후보에는 의결 대상(중요 국책)에 관한 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_047",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "주내각이 합의로 의결한다는 점은 겹치나, 의결 대상이 각 장관의 권한 배분이고 의회 제출·변경 절차가 부가되어 '대통령 권한에 속한 중요 국책 의결'과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령·부통령 선거인단 투표 절차 규정으로 합의제 국무기관의 조직·의결과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의기관을 원장·부원장·각부 장 등으로 '조직한다'는 구성 규정과 '기타 중요사항'을 회의에 제출해 '의결한다'는 기능 규정이 동시에 대응한다. 다만 구성원과 의결 대상의 귀속 주체가 다르다.",
+      "evidence": [
+        {
+          "element": "합의기관의 조직",
+          "target_field": "original_text",
+          "target_quote": "大統領과 國務總理 其他의 國務委員으로 組織되는 合議體",
+          "candidate_field": "original_text",
+          "candidate_quote": "由行政院院長，副院長，各部會首長及不管部會之政務委員組織之",
+          "commonality": "수반·차석·각 담당자와 무임소 위원 등을 열거하여 회의체를 조직한다는 규정 방식이 같다",
+          "difference": "후보의 구성원에는 국가원수(총통)가 포함되지 않고 원장이 의장이 되며, 대상은 대통령이 구성원이다"
+        },
+        {
+          "element": "중요사항의 의결",
+          "target_field": "workbook_text_ko",
+          "target_quote": "중요 국책을 의결한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "及其他重要事項，或涉及各部會共同關係之事項，提出於行政院會議議決之",
+          "commonality": "'중요사항'을 회의체가 의결한다는 효과 규정이 공통된다",
+          "difference": "후보는 법률안·예산안·계엄안 등 입법원 제출 안건을 열거하고 제출 주체(원장·각부 장)를 정하는 절차를 두나, 대상은 '대통령의 권한에 속한' 중요 국책으로 범위를 포괄 지정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_069",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방총리·부총리·장관이 전체로서 연방정부를 구성한다는 점에서 합의체 구성 관념이 유사하나, 대통령에게 맡겨진 사무는 오히려 제외되고 의결 기능 규정이 없어 대상의 핵심 요소와 어긋난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "섭정의 권한 행사와 선서, 국무원의 통치행위 책임을 다루며 합의체 조직·의결 규정과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_056",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수의 권한사항에 관한 '중요한 국무'를 별도 기관이 심의한다는 문형이 '대통령의 권한에 속한 중요 국책을 의결'과 대응한다. 다만 조직 구성 규정과 의결의 구속적 효과는 대응하지 않으므로 기능 문언 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "원수 권한사항에 대한 중요 국무 심의/의결",
+          "target_field": "original_text",
+          "target_quote": "大統領의 權限에 屬한 重要 國策을 議決한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇ノ諮詢ニ応ヘ重要ノ国務ヲ審議ス",
+          "commonality": "국가원수의 권한에 관계되는 '중요한 국무/국책'을 별도 기관이 회의로 다룬다는 기능 규정 문형이 유사하다",
+          "difference": "후보는 천황의 자문에 응한 '심의'로 자문적 효과에 그치고 개시 조건이 자문인 반면, 대상은 자문 요구 없이 '의결'하며, 후보 기관의 구성은 추밀원 관제라는 법령에 위임된다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_053",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "수상·장관의 임면 절차 규정으로 합의체의 조직·의결 권한과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_057",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "내각이 다수가결로 결정한다는 합의체 의결 관념은 겹치나, 의결정족수와 서명·공포 절차를 정할 뿐 조직 구성이나 '대통령 권한에 속한 중요 국책'이라는 대상 한정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_046",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총리와 장관의 임명 형식만 규정하여 합의체 조직·의결 규정과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령 궐위 시 국무회의가 행정권을 행사한다는 점에서 합의기관이 등장하나, 조건(궐위)과 효과(행정권 집행)가 달라 대상의 조직·의결 규정과 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "대통령 자신이 합의체(국무원)의 구성원으로 포함된다는 구성상 특징",
+    "'합의체'라는 성격 규정 용어 자체",
+    "의결 대상을 '대통령의 권한에 속한' 사항으로 한정하는 귀속 기준"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 경위에 관한 역사적 영향은 확정하지 않았다.",
+    "제공된 본문만 사용했고 번역문 의존 판단은 evidence의 difference에 표시했다."
+  ],
+  "short_answer": "대상 조문은 (가) 수반과 기타 국무위원으로 구성되는 합의체 조직 규정과 (나) 원수 권한에 속하는 중요 국책의 의결 기능이라는 두 요소로 이루어진다. 조직 문형에서는 일본국헌법 제66조('その他の国務大臣でこれを組織する')와 조선임시약헌 제25조('國務會議는 國務總長 及 國務委員으로써 組織함')가 구체적으로 대응하고, 중화민국헌법 제58조는 조직 열거와 '其他重要事項…議決之'라는 의결 기능이 함께 대응한다. 기능 문언에서는 대일본제국헌법 제56조의 '天皇ノ諮詢ニ応ヘ重要ノ国務ヲ審議ス'가 '대통령의 권한에 속한 중요 국책을 의결'과 유사한 구조를 보이나, 자문 응답형 심의와 의결이라는 효과 차이가 크다. 대통령이 합의체의 구성원이 된다는 점은 어느 후보에서도 대응 문언을 찾지 못했다. 이상은 문언상 대응 검토이며 역사적 참조 관계의 확정은 아니다."
+}

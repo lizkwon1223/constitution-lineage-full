@@ -1,0 +1,209 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_037",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "과반수 의결 원칙과 가부동수 시 의장 결정이라는 제2항의 규율 요소가 한 문장 안에 동일한 순서로 대응한다. 다만 정족수(재적 과반수 출석)와 예외 유보, 의장의 표결권 명시는 없다.",
+      "evidence": [
+        {
+          "element": "가부동수 시 의장의 결정권",
+          "target_field": "original_text",
+          "target_quote": "可否同數인 境遇에는 決定權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "可否同数ナルトキハ議長ノ決スル所ニ依ル",
+          "commonality": "가부동수 상황에서 의장이 최종적으로 결정한다는 규율이 동일하다.",
+          "difference": "대상은 의장이 표결권도 가진다고 별도로 명시하나, 후보는 의장 결정에 따른다고만 규정한다."
+        },
+        {
+          "element": "과반수 의결 원칙",
+          "target_field": "original_text",
+          "target_quote": "出席議員의 過半數로써 議決을 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院ノ議事ハ過半数ヲ以テ決ス",
+          "commonality": "의사(의결)를 과반수로 결정한다는 기본 원칙이 같다.",
+          "difference": "후보는 과반수의 모수(출석의원/재적의원)를 밝히지 않고 개의 정족수 규정도 없으며, 대상은 출석의원 기준임을 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률발의권과 예산법률 선의권에 관한 규정으로, 의결정족수·표결·의장 결정권과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_032",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민대회의 직권 열거 규정으로 의결정족수나 표결 방식과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_056",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘헌법에 특별한 규정이 있는 경우 제외’라는 예외 유보, 출석 정족수, 출석의원 과반수 의결, 가부동수 시 의장 결정이 모두 대응하여 문형 비교에 유용하다. 다만 정족수 분모(3분의 1 vs 재적 과반수)와 예외 근거(국회법 포함 여부)가 다르다.",
+      "evidence": [
+        {
+          "element": "예외 유보 문형",
+          "target_field": "original_text",
+          "target_quote": "憲法 또는 國會法에 特別한 規定이 없는 限",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法に特別の定のある場合を除いては",
+          "commonality": "헌법에 특별한 규정이 있으면 일반 의결정족수 규칙이 적용되지 않는다는 유보 문형이 같다.",
+          "difference": "대상은 국회법에 의한 예외까지 인정하나 후보는 헌법만을 예외 근거로 든다."
+        },
+        {
+          "element": "개의·의결 정족수",
+          "target_field": "original_text",
+          "target_quote": "그 在籍議員의 過半數의 出席",
+          "candidate_field": "original_text",
+          "candidate_quote": "その総議員の三分の一以上の出席がなければ、議事を開き議決することができない",
+          "commonality": "재적(총)의원 수를 기준으로 한 출석 정족수를 의결 요건으로 둔다.",
+          "difference": "분모 기준이 대상은 재적 과반수, 후보는 총의원 3분의 1 이상이며, 후보는 개의 요건과 결합해 부정형으로 규정한다."
+        },
+        {
+          "element": "가부동수 시 의장 결정",
+          "target_field": "original_text",
+          "target_quote": "議長은 議決에 있어서 表決權을 가지며 可否同數인 境遇에는 決定權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "可否同数のときは、議長の決するところによる",
+          "commonality": "가부동수인 경우 의장이 결정한다는 효과가 동일하다.",
+          "difference": "대상은 의장의 표결권 보유를 함께 명시하지만 후보는 결정 방식만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_058",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "과반수 의결과 가부동수 시 의장 표의 결정이라는 유사 구조를 가지나, 주체가 의회가 아니라 제국정부(합의제 행정기관)이고 출석 정족수·예외 유보가 없어 대상 조문의 구체적 규율과 직접 대응한다고 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령·부통령 선거인단 개표와 의회 선출 절차 규정으로, 의사정족수 용어가 나오더라도 대상의 일반 의결정족수 규율과 대상 사항이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XIV",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의결 정수(4분의 3)와 과반수 승인이 언급되나 헌법개정 절차에 한정된 특별정족수 규정이어서 일반 의결정족수·의장 결정권과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_094",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "‘출석위원 과반수의 의결로 행한다’는 어구가 대상의 ‘출석의원의 과반수로써 의결을 행한다’와 문형상 닮았으나, 주체가 감찰원이고 동의권 행사라는 개별 권한에 한정되며 출석 정족수·예외 유보·의장 결정권이 없어 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "참석 대의원 과반수 찬성이라는 다수결 기준만 공통되고, 재적 기준 출석 정족수·예외 유보·가부동수 처리 등 대상의 나머지 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘법률에 달리 정함이 없는 한 + 출석 정족수 + 다수결’이라는 제1항의 3요소 결합 문형이 대응한다. 다만 정족수 분모(3분의 1)와 다수결 모수(투표수), 주체(연방참사원), 의장 결정권 부재가 다르다.",
+      "evidence": [
+        {
+          "element": "예외 유보 + 정족수 + 다수결의 결합 문형",
+          "target_field": "original_text",
+          "target_quote": "憲法 또는 國會法에 特別한 規定이 없는 限 그 在籍議員의 過半數의 出席과 出席議員의 過半數로써 議決을 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "soweit in diesem Gesetz nicht anderes bestimmt ist, die Anwesenheit von mindestens einem Drittel der Mitglieder und die unbedingte Mehrheit der abgegebenen Stimmen erforderlich",
+          "commonality": "달리 정함이 없는 한이라는 유보 아래 출석 요건과 다수결 요건을 함께 의결 요건으로 규정하는 구성이 같다.",
+          "difference": "출석 기준이 재적 과반수가 아니라 재적 3분의 1 이상이고, 다수결 모수도 출석의원이 아니라 '투표수'이며, 예외 근거는 헌법·국회법이 아니라 '이 법률'이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_016",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "예외 유보 문형, 재적의원 과반수 출석, 출석의원 과반수 결정이 한국어 문장 구조까지 거의 그대로 대응한다. 다만 출석 과반수를 개회 요건으로 규정한 점과 의장 결정권 부재가 다르다.",
+      "evidence": [
+        {
+          "element": "예외 유보와 재적 과반수 출석",
+          "target_field": "original_text",
+          "target_quote": "特別한 規定이 없는 限 그 在籍議員의 過半數의 出席",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法에 따른 規定이 없는 限 在籍議員 過半數의 出席",
+          "commonality": "‘…규정이 없는 한 재적의원 과반수의 출석’이라는 어순과 정족수 분모가 일치한다.",
+          "difference": "예외 근거가 대상은 헌법 또는 국회법, 후보는 본법이며, 후보는 그 출석을 개회 요건으로 삼는다."
+        },
+        {
+          "element": "출석의원 과반수 의결",
+          "target_field": "original_text",
+          "target_quote": "出席議員의 過半數로써 議決을 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議事는 出席議員 過半數로써 決함",
+          "commonality": "의사(의결)를 출석의원 과반수로 결정한다는 규율과 어구가 거의 같다.",
+          "difference": "대상은 출석 요건과 의결 요건을 한 문장에 묶어 의결 정족수로 구성한 반면, 후보는 개회 요건과 의사 결정 요건을 분리한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국회 소집 절차 규정으로, 의결정족수·표결·의장 결정권과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제2항이 과반수 출석에 의한 의결능력과 투표자 단순다수 결정을 규정해 유사하나, 주체가 국가평의회이고 예외 유보와 가부동수 처리가 없으며 다수결 모수도 투표자 기준이어서 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_080",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법정 의원수의 과반수 출석을 의결 요건으로 하고 예외 유보를 붙인 다수결 원칙이 제1항과 대응한다. 다만 예외 근거가 의사규칙상 선거 사항이고 다수결 모수가 출석의원으로 명시되지 않으며 의장 결정권 규정이 없다.",
+      "evidence": [
+        {
+          "element": "재적(법정수) 과반수 출석 요건",
+          "target_field": "original_text",
+          "target_quote": "그 在籍議員의 過半數의 出席",
+          "candidate_field": "original_text",
+          "candidate_quote": "wenn nicht die Mehrheit der gesetzlichen Anzahl ihrer Mitglieder anwesend ist",
+          "commonality": "의결을 위한 출석 정족수를 법정 의원 총수의 과반수로 정한 점이 같다.",
+          "difference": "후보는 각 원이 의결할 수 없다는 부정형으로 규정하고, 대상은 국회 단원의 의결 요건으로 긍정형 규정한다."
+        },
+        {
+          "element": "예외 유보를 붙인 다수결",
+          "target_field": "original_text",
+          "target_quote": "憲法 또는 國會法에 特別한 規定이 없는 限",
+          "candidate_field": "original_text",
+          "candidate_quote": "nach absoluter Stimmenmehrheit, vorbehaltlich der durch die Geschäftsordnung für Wahlen etwa zu bestimmenden Ausnahmen",
+          "commonality": "다수결 원칙에 대해 별도 규범이 정하는 예외를 유보하는 구조가 같다.",
+          "difference": "예외의 근거와 범위가 대상은 헌법·국회법 전반, 후보는 의사규칙이 정하는 원내 선거 관련 예외로 한정된다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "의장이 의결에서 '표결권'을 가진다는 명시적 규정(제시 후보들에서는 가부동수 시 결정 규정만 확인되고, 바이마르 제58조의 'Stimme des Vorsitzenden'가 간접적으로 유사할 뿐임)",
+    "예외 근거로 헌법과 함께 '국회법'을 병기한 점"
+  ],
+  "limitations": [
+    "문언상 대응만 검토한 것이며 역사적 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "독일어·프랑스어 후보는 원문 인용으로 대조했으나 의미 파악에 병기 번역의 도움을 받았을 가능성이 있다.",
+    "후보 목록에 없는 다른 조문이 대상 요소에 대응할 가능성은 배제되지 않는다."
+  ],
+  "short_answer": "제1항(예외 유보+재적 과반수 출석+출석의원 과반수 의결)에 대해서는 조선임시약헌 제16조가 어순과 정족수 분모까지 가장 근접하게 대응하고, 프로이센 1850년 헌법 제80조(법정수 과반수 출석+예외 유보 다수결)와 오스트리아 1920년 헌법 제37조 제1항(달리 정함이 없는 한+출석 요건+다수결)이 구조적으로 대응한다. 제2항의 가부동수 처리에 대해서는 대일본제국헌법 제47조와 일본국헌법 제56조 제2항이 '가부동수인 때 의장이 결정한다'는 규율로 직접 대응하며, 특히 일본국헌법 제56조는 예외 유보·출석 정족수·출석의원 과반수·가부동수 처리를 모두 담아 비교가치가 크다. 다만 정족수 분모가 3분의 1(일본국헌법·오스트리아)인 점, 다수결 모수가 투표수(오스트리아·프로이센)인 점, 예외 근거가 헌법·국회법이 아니라 각기 다른 규범인 점은 차이다. 의장이 '표결권'을 가진다는 명시는 후보들에서 직접 대응 문구를 확인하기 어렵다. 이상은 문언 대응 검토이며 실제 참조 여부의 확정은 아니다."
+}

@@ -1,0 +1,117 @@
+{
+  "article": 91,
+  "reviewed_at": "2026-09-22T16:27:49.447681+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "3e764068c7c38bdf75bc304eab4b59d69a2cc86d9eb8812ceec42b99c791e671",
+  "input_sha256": "ea507f4a21b9b5e206a924666d875c6435a4d5035668e41db265e9b02a4af736",
+  "responses": [
+    {
+      "job_id": "091_8f5b03eca84e_r1",
+      "repeat": 1,
+      "sha256": "7ec00550d2836f7b56467981789d65e52e9145b64e6e3a8bd2f79fef48c57953",
+      "assessment": "바이마르의 세 요소 대응은 정확함. 후보 누락·식별자 오류와 프로이센 두 판본의 내용 혼합을 보정해야 함."
+    },
+    {
+      "job_id": "091_8f5b03eca84e_r2",
+      "repeat": 2,
+      "sha256": "239077a943559bcf740d57a591e9f45d3a0387db94584311fd72410751f8a2a7",
+      "assessment": "증액·신비목 금지의 동의 주체 차이를 잘 포착함. 예산 편성·제출·의결의 직접 부분 대응을 과도하게 배제함."
+    },
+    {
+      "job_id": "091_8f5b03eca84e_r3",
+      "repeat": 3,
+      "sha256": "58296a0777c0e98720c09d1cf0e7c7182c4d8c715cf277f06a0e6ea4365ba894",
+      "assessment": "바이마르·프로이센 1920년 및 일본·약헌의 요소를 잘 구분함. 북한·오스트리아·중화민국의 직접 부분 대응 배제는 재검토 대상임."
+    }
+  ],
+  "synthesis": "바이마르 제85조는 총수입·총지출의 연도별 예산 편입, 특별한 경우의 장기 지출 승인, 동의 없는 증액·신설 금지에 각각 대응함. 동의 주체는 정부가 아닌 제국상원이며 동의 대체 절차도 있음. 프로이센 1920년 제63조는 앞의 두 요소에 대응하지만 1850년 제99조에는 장기 지출 승인 규정이 없음. 일본 1946년 제86조·약헌 제51조·북한 제94조는 집행부의 연도별 편성과 의회 관여에, 중화민국 제59조·오스트리아 제51조는 예산 제출 주체·기한에 부분 대응함. 프랑스 제17조는 심의 중 증액·신규 지출 제안 금지에 대응하나 정부 동의의 예외가 없음. 정기회 개회초·계속비 명칭·연한 확정은 각각 별도 차이로 남음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "invalid_candidate_id",
+      "finding": "약헌 제51조의 입력 식별자 대신 날짜가 다른 미등록 식별자를 반환하여 정식 후보 검토와 연결되지 않음.",
+      "action": "원응답은 보존하고 누락·미등록 식별자를 각각 표시함. 임의로 선택값을 복구하지 않음.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_051",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "missing_review",
+      "finding": "프로이센 1920년 제63조가 요약에 있으나 후보별 검토는 누락됨.",
+      "action": "요약의 언급을 후보별 선택값으로 대체하지 않음.",
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "cross_candidate_conflation",
+      "finding": "요약에서 프로이센 1850년 제99조에도 특별한 경우의 장기 지출 승인이 있는 것처럼 묶음. 이는 1920년 제63조의 내용임.",
+      "action": "판본별 대응 범위를 분리함.",
+      "candidate_id": "PR1850_ORIGINAL_ART_099",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "selection_threshold",
+      "finding": "일본 제86조와 북한 제94조의 연간 편성·의회 제출 또는 승인을 다른 항의 요소 부재로 일반 유사성으로만 분류함.",
+      "action": "제1항의 직접 부분 대응을 별도로 인정함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "중화민국과 오스트리아의 집행부 예산 제출을 기한 차이 및 추가 규정 때문에 배제함.",
+      "action": "제출 주체·대상·절차의 부분 대응과 기한 차이를 병기함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "프로이센 1850년의 총수입·총지출 연간 예산 편입을 법률 확정 및 다른 항 부재 때문에 배제함.",
+      "action": "예산 포괄·연도별 편입에 한정한 대응을 표시함.",
+      "candidate_id": "PR1850_ORIGINAL_ART_099",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "qualification_precision",
+      "finding": "오스트리아 예산외 지출을 사후 승인으로 통칭하나 원칙은 집행 전 국민의회 승인이고 긴급·금액 제한·위원회 동의가 있는 경우에 사후 승인을 청구함.",
+      "action": "원칙과 조건부 예외를 함께 적음.",
+      "candidate_id": "AT1920_1929RECAST1930_ART_051",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "order_only",
+      "finding": "14개 후보는 모두 검토했으나 입력 순서와 다르게 반환함.",
+      "action": "내용 누락과 구분하여 형식 문제로 표시함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

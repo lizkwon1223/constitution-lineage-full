@@ -1,0 +1,103 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_001",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "「국호 + 은 + 민주공화(國/政體) + 서술어」라는 한 문장 단독 선언 문형과 '民主共和'라는 동일 한자 표현이 함께 대응한다. 다만 술어가 '國'이 아니라 '政體'이고 국호가 '朝鮮'인 차이가 있어 대응 범위는 문형과 핵심 어구에 한정된다.",
+      "evidence": [
+        {
+          "element": "국가 성격 선언의 문형(국호+은+서술)",
+          "target_field": "original_text",
+          "target_quote": "大韓民國은 民主共和國이다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮은 民主共和政體임",
+          "commonality": "조문 제1조에서 다른 부가 요건 없이 국호를 주어로 삼아 국가의 성격을 한 문장으로 선언하는 형식이 같다",
+          "difference": "주어 국호가 '大韓民國'과 '朝鮮'으로 다르고, 종결형이 '이다'와 '임'으로 다르다"
+        },
+        {
+          "element": "'민주공화'라는 국가형태 규정어",
+          "target_field": "original_text",
+          "target_quote": "民主共和國",
+          "candidate_field": "original_text",
+          "candidate_quote": "民主共和政體",
+          "commonality": "'民主共和'라는 동일 한자 어구로 국가형태를 규정한다",
+          "difference": "대상은 국가 자체를 '國'으로 규정하고, 후보는 '政體'(정치체제)로 규정하여 규정 객체가 국가인지 통치형태인지가 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'民主共和國'이라는 동일 한자 복합어를 제1조에서 국가 성격으로 규정하는 점이 대응한다. 다만 三民主義 및 民有民治民享이라는 이념적·부가적 수식이 붙어 있어, 대응은 '民主共和國' 어구 사용에 한정된다.",
+      "evidence": [
+        {
+          "element": "국가형태 규정어 '民主共和國'",
+          "target_field": "original_text",
+          "target_quote": "民主共和國",
+          "candidate_field": "original_text",
+          "candidate_quote": "民主共和國",
+          "commonality": "제1조에서 국가의 형태를 '民主共和國'이라는 동일 표현으로 규정한다",
+          "difference": "후보는 '基於三民主義，為民有民治民享之'라는 이념·통치원리 수식을 앞세우는 반면 대상은 수식어 없이 간결하게 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제1조에서 '中華民國爲…共和國'으로 국가형태를 선언하는 문형은 유사하나, '民主'가 아니라 '三民主義'를 한정어로 쓰고 있어 대상 조문의 핵심 규정어와 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국호 + ist eine demokratische Republik' 구조가 '대한민국은 민주공화국이다'와 요소별로 일치한다(주어=국호, 술어=민주+공화국, 부가 요건 없음). 다만 후보는 '법은 국민으로부터 나온다'는 제2문을 병치하는데 대상에는 그 문장이 없어 대응 범위는 제1문에 한정된다.",
+      "evidence": [
+        {
+          "element": "국가형태 선언 문형과 '민주+공화국' 결합",
+          "target_field": "original_text",
+          "target_quote": "大韓民國은 民主共和國이다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Österreich ist eine demokratische Republik.",
+          "commonality": "국호를 주어로 하여 '민주적'이라는 한정어와 '공화국'을 결합한 단문으로 국가형태를 선언한다",
+          "difference": "후보는 '민주적'을 형용사로 별개 수식하고, 대상은 '民主共和國'이라는 한자 복합어로 일체화한다. 또한 후보에는 대상에 없는 제2문(Ihr Recht geht vom Volk aus.)이 병치되어 있다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…는 …이다'라는 제1조 선언 문형은 유사하지만, 규율 내용이 국가형태(민주공화국) 규정이 아니라 정식 국호의 확정이어서 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국호를 주어로 '공화국이다'라고 선언하는 형식은 겹치지만 '민주'라는 한정어가 없고, 대상에는 없는 국가권력의 유래에 관한 제2문을 포함하여 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'프랑스는 …공화국이다'라는 문형과 démocratique라는 한정어가 나타나지만, 불가분성·비종교성·사회성 등 네 가지 성격을 병렬 열거하는 구조로 대상의 단일 한정어 규정과는 규율 밀도가 달라 선택하지 않았다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'大韓民國'이라는 국호 자체의 채택",
+    "조문이 국민주권·권력의 유래에 관한 제2문을 두지 않고 단문으로만 구성된 점"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토한 것이며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다",
+    "독일어·프랑스어 후보는 원문 인용과 함께 한국어 병기 텍스트를 참고했으므로 번역상 어감 차이가 평가에 개입될 수 있다"
+  ],
+  "short_answer": "대상 제1조의 「국호+민주공화국+단문 선언」 구조와 가장 구체적으로 대응하는 후보는 조선임시약헌 제1조('朝鮮은 民主共和政體임'), 중화민국헌법 제1조('民主共和國' 어구), 오스트리아 연방헌법 제1조 제1문('demokratische Republik')이다. 조선임시약헌은 '民主共和'라는 동일 한자어와 단문 선언 형식이 겹치지만 '國'이 아닌 '政體'를 규정 객체로 삼는다. 중화민국헌법은 '民主共和國' 표현이 동일하나 三民主義·民有民治民享이라는 이념 수식이 부가되어 있고, 오스트리아 헌법은 문형이 거의 일치하나 국민주권 제2문을 병치한다. 바이마르헌법·프랑스 제4공화국헌법·五五憲草·북한 헌법안은 주제나 문형이 유사하지만 '민주' 한정어의 결여, 다중 수식어 열거, 국호 확정이라는 상이한 규율 내용 때문에 선택하지 않았다. 이상은 문언 대응에 관한 판단이며 역사적 참조 여부의 확정은 아니다."
+}

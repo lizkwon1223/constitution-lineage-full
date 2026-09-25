@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_079",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "79",
+    "original_text": "法官의 任期는 10年으로 하되 法律의 定하는 바에 依하여 連任할 수 있다.",
+    "workbook_text_ko": "법관의 임기는 10년으로 하되 법률의 정하는 바에 의하여 연임할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_065",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "65",
+      "original_text": "立法委員之任期為三年，連選得連任，其選舉於每屆任滿前三個月內完成之。",
+      "workbook_text_ko": "立法委員의 任期는 3年이고 連選에 依하여 連任을 할 수 있다. 그 選擧는 各 任期 滿了前 3個月의 期間內에 이를 完成한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_091",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "91",
+      "original_text": "監察委員任期三年，連選得連任。",
+      "workbook_text_ko": "감찰위원의 임기는 3년으로 하며 재선되면 연임할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_068",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "68",
+      "original_text": "立法委員任期三年，連選得連任。",
+      "workbook_text_ko": "입법위원의 임기는 3년으로 하며 재선되면 연임할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_047",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "47",
+      "original_text": "總統副總統之任期為六年，連選得連任一次。",
+      "workbook_text_ko": "總統과 副總統의 任期는 6年이고 再選에 依하여 1次重任할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_093",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "93",
+      "original_text": "監察委員之任期為六年，連選得連任。",
+      "workbook_text_ko": "監察委員의 任期는 6年이며 連選에 依하여 連任할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_049",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "49",
+      "original_text": "總統、副總統之任期均爲六年，連選得連任一次。",
+      "workbook_text_ko": "총통·부총통의 임기는 모두 6년으로 하며, 재선되면 한 차례 연임할 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_045",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "45",
+      "original_text": "法官의 任期는 十年으로 하되 連任할 수 있음 但 法律이 定한 年齡에 達한 때에는 退官함",
+      "workbook_text_ko": "법관의 임기는 10년으로 하되 연임할 수 있음. 단, 법률이 정한 연령에 도달한 때에는 퇴관함."
+    }
+  ]
+}

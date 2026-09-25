@@ -1,0 +1,171 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_081",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항의 '명령·규칙·처분'의 위헌 여부를 최고법원이 '최종적으로' 심사한다는 열거 항목과 종심성 규율이 문언상 매우 근접하게 대응한다. 다만 법률의 위헌심사 귀속에서는 정반대로 갈린다.",
+      "evidence": [
+        {
+          "element": "심사 대상의 열거(명령·규칙·처분)",
+          "target_field": "original_text",
+          "target_quote": "命令, 規則과 處分이 憲法과 法律에 違反되는 與否",
+          "candidate_field": "original_text",
+          "candidate_quote": "命令、規則又は処分が憲法に適合するかしないか",
+          "commonality": "명령·규칙·처분을 동일한 순서로 열거하고 그 헌법 적합 여부를 심사 대상으로 삼는다",
+          "difference": "대상 조문은 헌법뿐 아니라 '法律'에의 위반 여부까지 심사기준으로 삼고, 후보는 헌법 적합 여부만을 기준으로 한다"
+        },
+        {
+          "element": "최종심사권의 귀속",
+          "target_field": "original_text",
+          "target_quote": "大法院은 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高裁判所は",
+          "commonality": "최고법원에 위헌·위법 여부의 최종적 판단 권한을 집중시키는 구조",
+          "difference": "대상은 '法律의 定하는 바에 依하여'라는 법률유보를 붙이는 반면 후보에는 그러한 유보가 없다"
+        },
+        {
+          "element": "법률의 위헌심사 주체",
+          "target_field": "original_text",
+          "target_quote": "法律이 憲法에 違反되는 與否가 裁判의 前提가 되는 때에는 法院은 憲法委員會에 提請하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "一切の法律、命令、規則又は処分が憲法に適合するかしないかを決定する権限を有する終審裁判所である",
+          "commonality": "법률의 헌법적합성 통제를 헌법이 명시적으로 배분한다는 점",
+          "difference": "후보는 '一切の法律'을 최고재판소 권한에 포함시키나, 대상은 법률심사를 법원에서 떼어 헌법위원회의 결정에 맡긴다(권한 귀속이 상반)"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_140",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항의 '재판의 전제'+'법원의 제청'이라는 구체적 요건·절차 구조가 대응한다. 다만 제청 주체의 범위와 결정의 효과(폐지·공고)는 다르다.",
+      "evidence": [
+        {
+          "element": "재판의 전제성 요건",
+          "target_field": "original_text",
+          "target_quote": "法律이 憲法에 違反되는 與否가 裁判의 前提가 되는 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "sofern ein solches Gesetz die Voraussetzung eines Erkenntnisses des antragstellenden Gerichtshofes bildet",
+          "commonality": "법률의 위헌 여부가 당해 재판의 전제가 될 때에 비로소 별도 기관의 위헌심사가 개시된다는 요건",
+          "difference": "후보는 제청 주체를 최고법원·행정재판소로 한정하고 연방정부·주정부의 신청과 직권 개시도 병행하나, 대상은 '法院'의 제청만을 규정한다"
+        },
+        {
+          "element": "제청 후 재판 방식과 결정의 효과",
+          "target_field": "original_text",
+          "target_quote": "憲法委員會에 提請하여 그 決定에 依하여 裁判한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Erkenntnis des Verfassungsgerichtshofes, mit dem ein Gesetz oder ein bestimmter Teil eines solchen als verfassungswidrig aufgehoben wird",
+          "commonality": "법원과 분리된 전담기관의 결정을 통해 법률의 위헌 문제를 해결하는 집중형 구조",
+          "difference": "후보는 법률의 폐지(Aufhebung)와 공고·효력발생 시한(1년)까지 규정하나, 대상은 결정의 효과를 당해 재판의 기속으로만 규정하고 폐지·공고 절차가 없다"
+        },
+        {
+          "element": "심판기관의 성격",
+          "target_field": "workbook_text_ko",
+          "target_quote": "헌법위원회는 부통령을 위원장으로 하고 대법관 5인과 국회의원 5인의 위원으로 구성한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Verfassungsgerichtshof erkennt über Verfassungswidrigkeit eines Bundes- oder Landesgesetzes",
+          "commonality": "법률 위헌 판단을 일반 법원이 아닌 별도 기관에 맡긴다",
+          "difference": "후보는 재판소(Gerichtshof)이고 구성은 본 조문에 없으며, 대상은 부통령·대법관·국회의원으로 구성된 정치·사법 혼합 위원회로 구성까지 헌법에 명시한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_091",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법위원회'라는 기관 명칭과 '고위 정무직이 위원장/주재 + 의회가 관여하는 복수 위원' 구성 문형이 제3항과 대응한다. 다만 구성원 범위·수와 권한 내용은 다르다.",
+      "evidence": [
+        {
+          "element": "위원장(주재자)의 지정",
+          "target_field": "original_text",
+          "target_quote": "憲法委員會는 副統領을 委員長으로 하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Comité constitutionnel est présidé par le président de la République.",
+          "commonality": "헌법위원회의 장을 행정부 최고위 정무직이 맡도록 헌법에 명시",
+          "difference": "대상은 부통령을 '위원장'으로 삼는 데 반해 후보는 공화국대통령이 주재하며, 후보에는 의회 양원 의장이 당연직으로 포함된다"
+        },
+        {
+          "element": "위원 구성의 수적 배분",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법관 5인과 국회의원 5인의 위원으로 구성한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "sept membres élus par l'Assemblée nationale au début de chaque session annuelle à la représentation proportionnelle des groupes, et choisis en dehors de ses membres, trois membres élus dans les mêmes conditions par le Conseil de la République",
+          "commonality": "정해진 인원수의 위원을 기관별로 배분하여 구성하는 방식",
+          "difference": "후보는 국민의회 7인·공화국평의회 3인을 의원 아닌 자 중에서 비례대표로 선출하나, 대상은 대법관 5인·국회의원 5인으로 사법부와 의회를 동수 배분하며 선출 방법을 규정하지 않는다"
+        },
+        {
+          "element": "위원회의 심사 대상",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률이 헌법에 위반되는 여부가 재판의 전제가 되는 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Comité constitutionnel examine si les lois votées par l'Assemblée nationale supposent une révision de la Constitution.",
+          "commonality": "법률과 헌법의 관계를 헌법위원회가 심사한다는 점",
+          "difference": "후보는 공포 전 법률이 헌법개정을 전제로 하는지를 심사하는 사전적·정치적 절차인 반면, 대상은 구체적 재판의 전제가 된 법률의 위헌 여부를 사후적으로 심사한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'3분의 2 의결'이라는 정족수 표현만 겹칠 뿐 규율 대상이 탄핵소추·심판이어서 위헌심사 요소와 대응하지 않는다. 정족수의 분모(탄핵위원회 위원 2/3, 비위원 의원 3/4)와 대상 조문의 헌법위원회 위원 2/3는 서로 다른 맥락이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_089",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법원이 법률의 유효성을 스스로 심사할 수 없고 절차를 중단하여 별도 기관에 신청한다는 규율이 제2항의 제청 구조와 대응한다. 다만 신청 대상(명령)과 대상 조문의 명령심사 귀속은 상반된다.",
+      "evidence": [
+        {
+          "element": "법원의 법률 위헌판단 배제",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률이 헌법에 위반되는 여부가 재판의 전제가 되는 때에는 법원은 헌법위원회에 제청하여 그 결정에 의하여 재판한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Prüfung der Gültigkeit gehörig kundgemachter Gesetze steht den Gerichten nicht zu.",
+          "commonality": "일반 법원이 법률의 효력을 스스로 판단하지 못하고 별도 기관의 판단에 따르도록 하는 집중형 통제",
+          "difference": "후보는 금지 자체를 선언하는 형식이고, 대상은 제청과 그 결정에 따른 재판이라는 적극적 절차로 규정한다"
+        },
+        {
+          "element": "법원의 신청(제청) 절차",
+          "target_field": "original_text",
+          "target_quote": "法院은 憲法委員會에 提請하여 그 決定에 依하여 裁判한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "so hat es das Verfahren zu unterbrechen und den Antrag auf Aufhebung dieser Verordnung beim Verfassungsgerichtshof zu stellen",
+          "commonality": "법원이 재판을 진행하지 않고 전담기관에 신청하여 그 판단에 구속되는 절차",
+          "difference": "후보의 신청 대상은 '명령(Verordnung)'의 위법성이고 대상 조문에서 명령·규칙·처분 심사는 오히려 대법원 권한(제1항)이며, 제청 대상은 법률의 위헌 여부이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_140",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "별도 헌법재판기관에 의한 법률 위헌심사라는 일반 구조는 같으나, 신청 주체가 연방정부·주정부이고 '전제'도 헌법재판소 자신의 재판에 관한 것이어서 대상 조문의 '법원의 제청 + 재판의 전제' 요소와 직접 대응하지 않는다(해당 요소는 1929년 개정판 제140조가 담고 있다).",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_032",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민대회의 선거·파면·법률 창제·복결·헌법개정 권한을 열거한 조문으로, 위헌심사 권한 배분이나 헌법위원회 구성·정족수와 대응하는 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제1항의 '法律의 定하는 바에 依하여'라는 법률유보",
+    "명령·규칙·처분이 '法律'에도 위반되는지를 심사한다는 이중 기준",
+    "부통령을 위원장으로 하는 구성(후보 중 프랑스는 대통령 주재로 직위가 다름)",
+    "대법관 5인·국회의원 5인이라는 동수 배분",
+    "위헌결정 정족수 '위원 3분지 2 이상'(필리핀은 탄핵 맥락의 2/3로 분모·대상이 다름)",
+    "헌법위원회의 조직과 절차를 법률로 정한다는 위임"
+  ],
+  "limitations": [
+    "문언상의 대응 관계만 확인한 것이며 실제 참조·계수 여부(역사적 영향)는 제공 본문만으로 확정할 수 없다.",
+    "오스트리아·프랑스 조문의 일부 판단은 워크북 번역문의 이해에 의존한 부분이 있으며, 인용은 원문에서 하였다."
+  ],
+  "short_answer": "제1항(명령·규칙·처분의 최종 심사)은 일본국헌법 제81조와 열거 항목·종심성 문형이 가장 근접하게 대응하되, 법률의 위헌심사 귀속에서는 정반대이다. 제2항(재판의 전제성과 법원의 제청, 결정에 따른 재판)은 오스트리아 1929년 개정판 제140조 제1항의 'Voraussetzung eines Erkenntnisses' 요건 및 제89조의 법원 법률심사 금지·신청 절차와 구체적으로 대응하나, 제청 주체 범위와 결정의 효과(법률 폐지·공고)는 다르다. 제3항(헌법위원회의 명칭·위원장·인원 배분)은 프랑스 제4공화국헌법 제91조와 문형이 대응하지만, 주재자가 대통령인 점, 심사 대상이 헌법개정 필요 여부인 점에서 갈린다. 필리핀헌법 제9조의 3분의 2는 탄핵 정족수로 맥락이 달라 선택하지 않았고, 오스트리아 1920년 원안 제140조는 법원 제청 요소를 결여해 일반적 유사에 그친다. 부통령 위원장, 대법관·국회의원 5인 동수, 위헌결정 2/3 정족수, 조직·절차의 법률 위임은 제시 후보로 설명되지 않는다."
+}

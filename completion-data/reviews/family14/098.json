@@ -1,0 +1,89 @@
+{
+  "article": 98,
+  "reviewed_at": "2026-09-22T16:32:43.900205+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "0476a4e479854ce54472133a76f89f5a866af138487f4971e1090cac913ad783",
+  "input_sha256": "c2ce92a43bb03565c71600971a1b74841e1dd10069034cc9171f037ad402e87f",
+  "responses": [
+    {
+      "job_id": "098_73f69c4b5469_r1",
+      "repeat": 1,
+      "sha256": "541f2571963ce2ea0054729599751c65c4f2df42d9efc50975b94142ac92d415",
+      "assessment": "약헌의 제안 경로와 일본의 즉시 공포를 정확히 포착함. 중화민국의 공고 주체를 문언 이상으로 특정한 부분은 수정해야 함."
+    },
+    {
+      "job_id": "098_73f69c4b5469_r2",
+      "repeat": 2,
+      "sha256": "386ad531f0736502ace670ed16a72d7ba68e98bde1ae0c9394247f408f7c16fb",
+      "assessment": "정족수의 분모와 절차 단계를 구분함. 이미 약헌이 설명한 발안 결합은 미설명 요소에서 제외해야 함."
+    },
+    {
+      "job_id": "098_73f69c4b5469_r3",
+      "repeat": 3,
+      "sha256": "6004cf4925f1eade16bbc24e5c462a51f43e6f5d4fbd4b0f027e84559a3e3d9e",
+      "assessment": "주요 대응은 적절하나 오스트리아 부분개정의 국민투표를 필수로 일반화하고 행정수반 제안의 대응을 누락함."
+    }
+  ],
+  "synthesis": "약헌 제55조는 행정수반 또는 재적의원 3분의 1 이상의 제의라는 두 경로에 밀접하게 대응하나 출석·찬성 정족수의 분모가 대상과 다름. 일본 제96조는 각 원 총의원 3분의 2의 발의와 국민 승인 후 즉시 공포를 정하므로 절차 단계와 공포 전제를 구별함. 중화민국 두 후보는 공고에 대응하며 초안은 제의인을 공고 주체로 명시하지만 1946년 제174조는 공고 주체를 직접 적지 않음. 프랑스 제90조의 대통령 공포도 8일이라는 기한 차이를 가진 부분 대응임. 다른 후보의 가중 의결은 출석·투표수·총원 및 적용 단계를 분리하여 비교해야 함. 대상의 30일 이상 공고와 재적의원 3분의 2 의결을 하나의 수치 유사성으로 환원하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "type": "unsupported_actor",
+      "finding": "중화민국 제174조 공고 주체를 입법원 측이라고 단정함. 해당 문장은 공고 주체를 명시하지 않음.",
+      "action": "주체 미기재로 표시함.",
+      "candidate_id": "ROC1946_PROM1947_ART_174",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "qualification_omission",
+      "finding": "오스트리아의 최종 확정이 국민투표에 의존한다고 일반화함. 전부개정은 국민투표 대상이나 부분개정은 정해진 의원 요구가 있을 때임.",
+      "action": "전부개정과 조건부 부분개정 국민투표를 구분함.",
+      "candidate_id": "AT1920_ORIGINAL_ART_044",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "행정수반과 재적의원 3분의 1의 제안 경로를 미설명으로 넣으면서 약헌의 직접 대응을 인정함.",
+      "action": "이미 대응하는 구조와 대통령·정부주석의 명칭 차이를 구분함.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_055",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "프랑스 제90조의 대통령 공포를 다른 단계·기한 차이로 배제하면서 일본의 다른 원수·다른 승인 전제의 즉시 공포는 부분 선택함.",
+      "action": "공포 주체·기한·확정 전제를 나눈 비교를 보완함.",
+      "candidate_id": "FR1946_ORIGINAL_ART_090",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "헌법개정 의결에 대한 가중다수 규율을 분모 차이 때문에 일반 주제로만 처리함.",
+      "action": "같은 개정 의결 단계의 수치·분모 차이를 한정된 비교로 표시함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": [
+    "약헌 입력은 제안에 在籍議員, 출석 조건에 在席議員을 사용함. 후자를 임의로 교정하지 않고 판독·표기 확인 대상으로 남김."
+  ]
+}

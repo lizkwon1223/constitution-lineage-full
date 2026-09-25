@@ -1,0 +1,77 @@
+{
+  "article": 84,
+  "reviewed_at": "2026-09-22T16:24:40.650727+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "4730c624d75ec46234bcfd92cc3f525dbd5a580c959594f5f999c0c1002a6c90",
+  "input_sha256": "9c54ddc523400e8b056e96d1db4fdc21148540390d3cc387f7b653835c90cac5",
+  "responses": [
+    {
+      "job_id": "084_4b110506320c_r1",
+      "repeat": 1,
+      "sha256": "7f9d21750632fefc232aca06faf0b734d912557c051d50d548c66e3246e204ee",
+      "assessment": "바이마르의 두 문장 결합을 정확히 포착함. 중화민국 두 후보의 구체 수단을 구분하고 누락 후보를 표시해야 함."
+    },
+    {
+      "job_id": "084_4b110506320c_r2",
+      "repeat": 2,
+      "sha256": "6cb8df6a222fedca8d7cc4172a8711a9f271c05aa5d93b9cbf2740e67ec93ad4",
+      "assessment": "균족과 균형, 정의와 사회정의의 차이를 적절히 남김. 후보 한 건은 검토 자체가 누락됨."
+    },
+    {
+      "job_id": "084_4b110506320c_r3",
+      "repeat": 3,
+      "sha256": "14d8a49ac09c053ea052341797d24c0c373751058927f2600bd755f777a6d650",
+      "assessment": "핵심 대응은 적절하나 사회정의와 경제상 자유 한계의 결합을 미설명으로 적어 자기 근거와 충돌함."
+    }
+  ],
+  "synthesis": "바이마르 제151조는 모든 사람의 인간다운 생활을 지향하는 정의의 원칙과 그 한계 안의 개인 경제적 자유를 연결하므로 두 문장 구조 전체에 가장 밀접하게 대응함. 제헌헌법의 모든 국민·기본적 수요·사회정의·균형 있는 국민경제 발전은 각각 표현과 범위를 구분하여 읽어야 함. 중화민국 초안 제116조는 민생주의와 국민 생계의 고른 충족을, 1946년 제142조는 여기에 평균지권·자본 통제 수단을 명시함. 필리핀 제2조 제5절은 모든 국민의 복지·경제적 안정과 사회정의를 결합함. 생활보장 권리나 정책 형식의 다른 후보도 전단의 부분 비교가 가능하지만 경제질서와 자유의 결합 전체와 같지는 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "missing_review",
+      "finding": "프로이센 1920년 제63조의 후보별 검토가 누락됨.",
+      "action": "미선택으로 간주하지 않고 검토 누락으로 표시함.",
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "cross_candidate_conflation",
+      "finding": "요약에서 중화민국 두 후보에 평균지권·절제자본을 함께 귀속시킴. 초안 제116조에는 해당 수단이 없음.",
+      "action": "1946년 제142조에만 명시된 수단으로 구별함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "사회정의와 경제상 자유 한계를 결합한 전체 구성을 미설명으로 적지만 바이마르 근거에서 바로 그 결합을 확인함.",
+      "action": "완전히 미대응인 요소와 정의·사회정의의 용어 차이를 구분함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "약헌의 기본생활 확보와 일본의 최저생활 보장을 권리·정책 형식이라는 이유로 전단의 부분 대응에서도 배제함.",
+      "action": "생활보장 목적의 제한적 대응과 전체 구조 차이를 분리함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": [
+    "북한 제10조 입력에는 국가·협동단체 소유 관련 구절의 반복이 있음. 고정 입력을 보존하고 원자료 정비 대상으로 별도 표시함."
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_043",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "폐회 중 의장단의 내각 활동 감독과 국회 소집 절차를 다루며, 서류 제출·증인 출석·증언 요구라는 규율 요소가 전혀 없다. '감독'이라는 주제어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_042",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 주권기관과 소속기관을 검열할 수 있다는 점에서 국정 감시라는 주제는 겹치나, 주체가 의회 내 위원회이고 수단이 '검열'로만 규정되어 서류 제출·증인 출석·증언·의견 진술 요구라는 구체적 수단 규율의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_IV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주 간 신뢰·신용, 범죄인 인도, 신주 가입, 공화정체 보장 등을 규정하며 대상 조문의 국정감사 권한과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 명령 발포권(집행명령·경찰명령)에 관한 규정으로, 의회의 조사·증인 요구권과 규율 대상이 다르다. '필요한'이라는 상용 표현만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_062",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국정에 관한 조사' 목적 아래 '증인의 출석과 증언' 및 '기록(서류)의 제출'을 요구할 수 있다는 권한 구성과 문형이 항목 순서까지 근접하게 대응한다. 다만 문언 대응이며 역사적 참조 사실은 이 자료만으로 확정할 수 없다.",
+      "evidence": [
+        {
+          "element": "권한 행사 목적(국정 감시)",
+          "target_field": "original_text",
+          "target_quote": "國會는 國政을 監査하기 爲하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院は、各々国政に関する調査を行ひ",
+          "commonality": "'국정'을 대상으로 한 의회의 감시 활동을 권한 행사의 목적·전제로 명시한다.",
+          "difference": "대상은 단원제 '국회'가 '감사'를, 후보는 '양의원'이 '각각' '조사'를 행하는 형식이며, 후보는 조사 자체를 권한으로 먼저 규정한 뒤 '이에 관하여'로 요구 범위를 한정한다."
+        },
+        {
+          "element": "증인의 출석·증언 요구",
+          "target_field": "original_text",
+          "target_quote": "證人의 出席과 證言 또는 意見의 陳述을 要求할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "証人の出頭及び証言",
+          "commonality": "증인을 상대로 출석과 증언을 요구할 수 있다는 동일한 권한 항목을 둔다.",
+          "difference": "대상은 '또는 의견의 진술'을 추가해 증언 외의 진술까지 포함하지만 후보에는 이 항목이 없다."
+        },
+        {
+          "element": "서류(기록) 제출 요구",
+          "target_field": "original_text",
+          "target_quote": "必要한 書類를 提出케 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "記録の提出を要求することができる",
+          "commonality": "의회가 문서의 제출을 요구할 수 있는 권한을 함께 규정한다.",
+          "difference": "대상은 '필요한 서류'를 '제출케 하며'라는 사역형으로 앞세우고, 후보는 '기록'을 열거 말미에 두며 '이에 관하여'라는 조사 관련성 제한을 붙인다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_033",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회와 위원회가 출석을 '요구할 수 있다'는 문형은 유사하나, 요구 대상이 제국수상·장관 등 정부 구성원이고 나머지 항은 정부대표의 출석·발언권과 질서권에 관한 것으로, 증인·서류 제출이라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_088",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "감찰권 행사를 위한 질의권이라는 점에서 감사 목적 규정 방식은 유사하지만, 주체가 감찰원이고 상대는 각 원·부·위원회이며 수단은 질의로서 증인 출석·증언·서류 제출과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각 원이 장관의 출석을 요구할 수 있고 요구 시 발언을 들어야 한다는 구조로 '출석 요구'라는 문형은 겹치나, 상대가 장관·국가관료이고 국정감사 목적이나 증인·서류 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원의 사법원 구성과 탄핵성 재판 관할에 관한 규정으로 조사권·증인 요구와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의결정족수 규정이며, '출석'이라는 단어가 의결 요건의 출석 인원을 뜻해 증인 출석 요구와는 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 내각에 설명을 요구할 수 있다는 점에서 정보 요구권이라는 유사성은 있으나, 진정서 이송을 전제로 한 청원 처리 절차이고 상대가 주내각이어서 증인·서류 제출 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안·비준 절차 규정으로 대상 조문과 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_034",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'의견을 진술함'이라는 표현과 회계감사 언급이 있으나, 주체가 감찰위원이고 국무회의에서 스스로 의견을 진술하는 구조여서 국회가 타인에게 의견 진술을 '요구'하는 대상 조문과 권한 방향이 반대다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_097",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "감찰원의 규정안·규거안·탄핵안 제출과 이송 절차를 규정하여 감사 결과의 효과에 관한 것이며, 서류 제출 및 증인 출석·증언 요구라는 조사 수단의 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'意見의 陳述'을 요구할 수 있다는 항목(후보 중 증인의 의견 진술 요구를 명시한 예는 확인되지 않음; 다만 프로이센 헌법 제60조·바이마르 제33조의 '청문' 규정은 상대가 장관이라는 점에서 성격이 다름)",
+    "'必要한' 서류로 한정하는 요건 표현",
+    "국정감사 권한의 행사 절차·강제수단·법률 위임 여부에 관한 규정 부재"
+  ],
+  "limitations": [
+    "제공된 조문 문언만 비교했으므로 문언상 대응 관계를 넘어 실제 참조·계수 여부는 확정할 수 없다.",
+    "일본국헌법 제62조의 '記録'과 대상 조문의 '書類', '調査'와 '監査'의 개념 차이는 번역·용어 차원의 판단을 필요로 하며 본 자료만으로는 확정하기 어렵다."
+  ],
+  "short_answer": "대상 조문(제43조)과 구체적으로 대응하는 후보는 일본국헌법 제62조로, '국정'에 관한 의회의 감시 활동을 목적으로 제시하고 증인의 출석·증언과 문서(기록/서류) 제출을 '요구할 수 있다'는 권한 항목과 문형이 근접하게 일치한다. 차이는 주체가 단원 '국회' 대 '양의원 각각'이고, 대상은 '감사'·'필요한 서류'·'의견의 진술'을 두는 반면 후보는 '조사'·'기록'을 쓰고 의견 진술 항목이 없으며 '이에 관하여'라는 관련성 제한을 두는 점이다. 바이마르 제33조, 프로이센 헌법 제60조, 프로이센 자유주헌법 제27조는 '출석 요구'·'설명 요구'라는 문형은 유사하나 상대가 수상·장관·내각이어서 증인·서류 요소와는 대응하지 않아 일반적 유사성에 그친다. 중화민국 조문들과 조선임시약헌 제34조는 감찰기관의 질의·규거·의견 진술로 주체와 권한 방향이 달라 선택하지 않았다. 이상은 문언 대응의 판단이며, 역사적 참조 관계의 확정은 제공 자료만으로는 불가능하다."
+}

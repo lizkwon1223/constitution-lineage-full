@@ -1,0 +1,160 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_020",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_023",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'혼인 및 가정은 국가의 보호 밑에 있다'로 혼인·가정에 대한 국가 보호라는 주제는 겹치나, 대상 조문의 핵심 요소인 남녀동권 기초, 혼인의 순결, 가족의 건강이라는 구체적 규율 요소가 없고, 반대로 혼외자 지위 평등과 법령 위임이라는 대상에 없는 요소로 구성되어 있어 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_124",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노동자 보호정책과 여성·아동 근로자에 대한 '特別之保護'를 정한 조항으로, '특별한 보호'라는 상용어만 겹칠 뿐 보호 대상이 근로자이며 혼인·가족 관계를 규율하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_119",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "혼인이 양성 평등권에 기초한다는 점, 혼인이 '특별한 보호'를 받는다는 점, 가족의 '순결한 유지·건전화'가 국가의 임무라는 점이 대상 조문의 세 요소(남녀동권 기초, 혼인의 순결·가족의 건강, 국가의 특별한 보호)와 문형상 조목조목 대응한다.",
+      "evidence": [
+        {
+          "element": "혼인의 기초로서의 남녀동권",
+          "target_field": "workbook_text_ko",
+          "target_quote": "혼인은 남녀동권을 기본으로 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Sie beruht auf der Gleichberechtigung der beiden Geschlechter.",
+          "commonality": "혼인이 양성(남녀)의 동등한 권리에 기초한다는 원칙을 별도 문장으로 선언한다.",
+          "difference": "후보는 혼인 자체가 평등권에 '기초한다'는 서술 구조이고, 대상은 '남녀동권을 기본으로 한다'로 표현하며 후보에 있는 '가정생활 및 국민의 유지·증대의 기초'라는 혼인의 목적 규정은 대상에 없다."
+        },
+        {
+          "element": "보호의 강도와 보호 주체",
+          "target_field": "original_text",
+          "target_quote": "國家의 特別한 保護를 받는다",
+          "candidate_field": "original_text",
+          "candidate_quote": "unter dem besonderen Schutz der Verfassung",
+          "commonality": "'특별한 보호(besonderer Schutz)'라는 동일한 강화된 보호 표현을 사용한다.",
+          "difference": "보호의 주체가 후보에서는 '헌법'(혼인)과 '국가 및 지방자치단체'(가족)로 나뉘는 반면, 대상은 오로지 '국가'로 일원화되어 있다."
+        },
+        {
+          "element": "혼인의 순결·가족의 건강",
+          "target_field": "workbook_text_ko",
+          "target_quote": "혼인의 순결과 가족의 건강은",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Reinerhaltung, Gesundung und soziale Förderung der Familie ist Aufgabe des Staats und der Gemeinden.",
+          "commonality": "'순결한 유지(Reinerhaltung)'와 '건전화(Gesundung)'라는 두 개념이 국가 임무로 결합되어 있는 점이 대상의 '혼인의 순결과 가족의 건강'과 대응한다.",
+          "difference": "후보는 두 개념 모두 '가족'에 관한 것이고 '사회적 조장', 다자녀 가정 배려, 모성 보호까지 포함하나, 대상은 순결을 혼인에, 건강을 가족에 배분하고 나머지 급부 조항은 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "생활균등권 실현을 위한 경제·사회정책 목록으로, 혼인·가족의 지위나 남녀동권에 관한 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_024",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'夫婦가 동등한 권리를 가지는 것을 기본으로 하여'라는 문형이 대상의 '남녀동권을 기본으로 하며'와 구체적으로 대응한다. 다만 대응 범위는 혼인의 평등 기초 부분에 한정되고, 국가의 특별한 보호·혼인의 순결·가족의 건강 부분에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "혼인의 기본원칙으로서의 동권",
+          "target_field": "original_text",
+          "target_quote": "婚姻은 男女同權을 基本으로 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "夫婦が同等の権利を有することを基本として",
+          "commonality": "혼인 관계를 양 당사자의 동등한 권리를 '기본'으로 삼아 규율한다는 표현 구조가 일치한다.",
+          "difference": "후보는 동권의 주체를 '부부'로 하고 합의에 의한 성립·상호협력에 의한 유지를 요구하는 성립·유지 요건 조항인 반면, 대상은 '남녀'라는 일반적 표현을 쓰고 성립요건이나 협력의무를 규정하지 않는다."
+        },
+        {
+          "element": "국가의 개입 방식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국가의 특별한 보호를 받는다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律は、個人の尊厳と両性の本質的平等に立脚して、制定されなければならない",
+          "commonality": "혼인·가족 영역에 대한 국가의 관여를 규정한다는 점에서 기능상 병렬된다.",
+          "difference": "후보는 입법자에 대한 입법지침(개인의 존엄·양성의 본질적 평등)을 명하는 절차적 규율인 반면, 대상은 혼인의 순결과 가족의 건강에 대한 국가의 실체적 보호를 선언한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원제도와 신분보장에 관한 조항으로 대상 조문과 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_005",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "선거권 결격사유 규정으로 혼인·가족과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "여성의 남성과 동등한 권리 보장, 개인과 가족에 대한 국가의 조건 보장, 건강 보호 등 유사 주제가 분산되어 등장하나, 혼인을 단위로 한 동권·순결·특별 보호라는 대상의 결합 구조와는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "성별에 따른 특권 배제라는 일반적 평등조항으로 성별 평등 주제는 겹치지만, 혼인관계 내 동권이나 가족 보호를 규율하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_098",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가공무원의 법률관계와 신분보장에 관한 조항으로 대상과 규율영역이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XIX",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "성별을 이유로 한 투표권 제한 금지 규정으로, 참정권 영역이며 혼인·가족 보호와 관련이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_153",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노동자·농민 보호 및 여성·아동 근로자에 대한 특별보호 조항으로, '특별한 보호'라는 어구만 유사할 뿐 보호 대상과 규율 목적이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_001",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원 구성 정원에 관한 조항으로 대상과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 통치권 총람에 관한 조항으로 대상과 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'혼인의 순결'과 '가족의 건강'을 각각 혼인과 가족에 나누어 배분한 구성(바이마르 119조는 두 개념을 모두 '가족'에 귀속시킴)",
+    "보호 주체를 헌법·지방자치단체가 아닌 '국가'로만 단일화한 점"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토한 것이며, 실제 기초 과정에서의 참조 여부(역사적 영향)는 제공 본문만으로 확정할 수 없다.",
+    "바이마르·일본 후보는 원문(독일어·일본어) 문언을 기준으로 비교했으며, 개념 대응의 일부는 번역 등가성 판단에 의존한다."
+  ],
+  "short_answer": "바이마르 헌법 제119조가 대상 조문과 가장 밀접하게 대응한다. 양성 평등권에 기초한 혼인, '특별한 보호(besonderer Schutz)', 가족의 '순결한 유지·건전화'라는 세 요소가 대상의 남녀동권·특별한 보호·혼인의 순결과 가족의 건강에 각각 대응하나, 후보는 보호 주체를 헌법과 국가·지방자치단체로 나누고 다자녀 가정 배려와 모성 보호까지 규정하는 점에서 범위가 넓다. 일본국헌법 제24조는 '동등한 권리를 가지는 것을 기본으로 하여'라는 문형이 '남녀동권을 기본으로 하며'와 대응하지만, 그 대응은 혼인의 평등 기초 부분에 한정되고 후보는 성립요건과 입법지침을 두는 반면 국가의 특별 보호 조항은 없다. 북한 헌법안 제23조는 혼인·가정에 대한 국가 보호라는 주제만 겹치고 남녀동권·순결·건강 요소가 없어 선택하지 않았으며, 중화민국 두 조항의 '특별한 보호'는 근로자 보호라는 다른 맥락의 상용어에 불과하다."
+}

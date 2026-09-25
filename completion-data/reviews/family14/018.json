@@ -1,0 +1,46 @@
+{
+  "article": 18,
+  "reviewed_at": "2026-09-22T15:17:39.300333+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "1b358ae41343422c2030dab80a9d2864e7c979ab62f0c8f8662618f011f2bb65",
+  "input_sha256": "204c617678250330fed9b72f6b2e98294e0bcff44585a21d509aae2d60e859cf",
+  "responses": [
+    {
+      "job_id": "018_291b4ebc809a_r1",
+      "repeat": 1,
+      "sha256": "f5c0837c6919aa7f4838000594f99b1dc4e54fbf00f9f9ac16adb5c23e87074e",
+      "assessment": "일본1946의 근로자 단체권과 일본1889의 법률 범위 문형을 구분한 핵심 비교가 타당함. 경영관리 참여·동일노동 동일보수와 이익균점권을 동일시하지 않은 비선택 이유도 지지됨."
+    },
+    {
+      "job_id": "018_291b4ebc809a_r2",
+      "repeat": 2,
+      "sha256": "6653e7b392f0d6825d2cab543da955b21e28ac606ddf21b5d9cb6f17bc72edc6",
+      "assessment": "핵심 비교는 타당하나 일본 제28조를 무조건 보장이라고 하고 이를 근거로 보장 강도를 단정한 부분은 원문 범위를 넘음."
+    },
+    {
+      "job_id": "018_291b4ebc809a_r3",
+      "repeat": 3,
+      "sha256": "f9c6a65ab0adb4d410a24540b784f9fb7d98764d4be68d2c50c5c3804aa57c41",
+      "assessment": "핵심 비교와 이익균점권의 미설명 판단은 지지됨. 일본의 명시적 법률 유보 부재를 무조건적 보장으로 바꾼 표현은 수정 필요함."
+    }
+  ],
+  "synthesis": "일본1946 제28조는 근로자의 단결·단체교섭·기타 단체행동이라는 목록과 보장 효과가 대응함. 대상은 자유라는 표현과 법률의 범위 내라는 유보를 쓰며, 일본1889 제29조는 이 유보 문형과 일반 결사 자유에 한정된 비교 자료임. 약헌의 종업원대표 경영관리 참여는 의사결정 참여, 북한안의 동일노동 동일보수는 보수의 평등이므로 이익분배에 균점할 권리와 구별됨. 영리 사기업이라는 적용 범위와 이익균점권을 함께 설명하는 문언은 제시된 14개 후보에서 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_028",
+      "type": "absence_as_absolute_right",
+      "severity": "material",
+      "finding": "법률 유보 문구가 없다는 사실을 무조건적 보장으로 설명함. 2회차는 이를 근거로 대상의 실제 보장 강도가 약화되어 있다고 단정함.",
+      "action": "해당 조문에 명시적인 법률 유보가 없다는 문언 차이만 확정함. 모든 제한의 불가능성이나 실제 보장 수준은 별도 해석 문제로 남김."
+    }
+  ],
+  "limits": [
+    "이익균점권이 후보 안에서 설명되지 않는다는 결과를 말뭉치 전체·다른 자료·역사적 참조의 부재로 확대하지 않음.",
+    "법률의 정하는 바라는 상용 문구가 다른 후보에 있더라도 영리 사기업의 이익분배라는 대상·효과까지 대응하는지 별도로 판단함."
+  ]
+}

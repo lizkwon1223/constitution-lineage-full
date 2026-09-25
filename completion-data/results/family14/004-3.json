@@ -1,0 +1,182 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_004",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_III",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "사법권의 귀속·관할·반역죄에 관한 조항으로, 국가 영토의 범위를 규정하는 대상 조문과 규율 대상이 다르다. 'State' 관련 언급은 관할 다툼의 당사자 지칭일 뿐 영토 확정 규정이 아니다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_002",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가 영토(Reichsgebiet)를 첫 문장에서 선언적으로 정의한다는 점은 대상 조문과 같은 주제이지만, 영토를 구성국(각 주)의 영토 총합으로 구성하고 제2문에서 주민 자결권과 제국법률에 의한 편입 절차를 두는 연방적·절차적 규율이어서, 지리적 명칭만으로 영토를 확정한 대상 조문과 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "영토의 할양·교환·부가를 법률유보 사항으로 정한 조항으로 영토 변동 절차를 다루나, 대상 조문은 영토의 지리적 범위 자체를 정하고 변경 절차를 두지 않아 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…이 국가의 영토를 이룬다'는 한 문장의 선언적 영토 확정 규정으로, 변경 절차나 조건을 두지 않는 단문 구조가 대상 조문과 대응한다. 다만 영토 특정 방식(군주국의 토지부분 총합·현재의 범위 대 지리적 명칭)에 차이가 있어 문형·규율 밀도 차원의 대응으로 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "영토 범위의 선언적 확정(단문·절차 없음)",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Landestheile der Monarchie in ihrem gegenwärtigen Umfange bilden das preußische Staatsgebiet.",
+          "commonality": "헌법 조문 한 문장으로 국가 영토가 무엇으로 구성되는지만 선언하고, 영토 변경의 조건·절차·예외를 두지 않는다.",
+          "difference": "대상은 '한반도와 그 부속도서'라는 지리적 명칭으로 특정하나, 후보는 '군주국의 모든 토지부분'을 '현재의 범위'라는 시점 기준으로 포괄해 주체와 특정 방식이 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_018",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노예적 구속·강제노역 금지 규정으로 영토 조항과 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가 + 領土 + 爲 …' 형식으로 영토를 확정하는 문형과, 영토를 개별 조약·법률에 의존하지 않고 고유의 강역으로 직접 지정하는 방식이 대상 조문과 대응한다. 다만 성(省) 명칭 열거와 제2항의 국민대회 의결 요건은 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "영토를 조문에서 직접 지정하는 문형",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土爲江蘇、浙江、安徽、江西、湖北、湖南、四川、西康、河北、山東、山西、河南、陝西、甘肅、青海、福建、廣東、廣西、雲南、貴州、遼寧、吉林、黑龍江、熱河、察哈爾、綏遠、寧夏、新疆、蒙古、西藏等固有之疆域。",
+          "commonality": "헌법 초반 조문에서 국호를 주어로 삼아 '영토는 …로 한다'는 형식으로 영토 범위를 직접 지정한다.",
+          "difference": "후보는 개별 행정구역 명칭을 열거해 '고유의 강역'으로 규정하고, 대상은 '한반도와 그 부속도서'라는 포괄적 지리 명칭을 사용한다."
+        },
+        {
+          "element": "영토 변경 절차의 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 영토는 한반도와 그 부속도서로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土，非經國民大會議決不得變更。",
+          "commonality": "두 조문 모두 영토 조항을 헌법 전반부에 두어 영토의 헌법적 확정을 선언한다.",
+          "difference": "후보는 국민대회 의결이라는 변경 요건(절차·주체)을 별도 항으로 두지만, 대상 조문은 변경 절차나 예외를 전혀 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_079",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "해외영토의 의회 대표 선출에 관한 규정으로, 영토 범위 확정이 아니라 대표 선거 조건을 정한 조항이다. '영토'라는 용어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "개인소유와 상속권 보호에 관한 규정으로, 토지를 언급하지만 국가 영토 범위와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_I",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "헌법 제1조 상당에서 국가 영토의 범위를 본토적 지역과 '모든 도서'를 함께 포함하는 방식으로 확정한다는 점이 대상 조문의 '한반도와 그 부속도서' 구성과 대응한다. 다만 조약을 매개로 영토 경계를 특정하고 관할권 행사 지역까지 포함하는 점은 대상 조문과 다르므로 '본토+도서' 구성 요소에 한정해 대응을 인정한다.",
+      "evidence": [
+        {
+          "element": "영토의 구성(본토적 지역 + 도서)",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "together with all the islands embraced in the treaty concluded at Washington",
+          "commonality": "국가 영토를 주된 지역과 그에 딸린 도서 전체를 합한 것으로 규정한다.",
+          "difference": "후보의 도서 범위는 특정 조약에 열거된 도서로 정해지나, 대상은 '부속도서'라는 개념으로 조약 인용 없이 포괄한다."
+        },
+        {
+          "element": "영토 범위 확정의 기준",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 영토는 한반도와 그 부속도서로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Philippines comprises all the territory ceded to the United States by the treaty of Paris",
+          "commonality": "국호를 주어로 삼아 한 문장으로 영토의 외연을 확정하고 변경 절차는 두지 않는다.",
+          "difference": "후보는 조약 할양 영역과 현 정부의 관할권 행사 지역이라는 법적·행정적 기준을 사용하고, 대상은 순수한 지리적 명칭을 기준으로 삼는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_040",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "지방자치단체의 구역·조직·권한을 법률로 정한다는 규정으로, 국가 영토의 범위 확정과는 규율 대상과 효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'중화민국의 영토는 그 고유의 영역으로 하며'처럼 국호를 주어로 영토를 헌법에서 직접 확정하는 단문 구조가 대상 조문과 대응한다. 다만 국민대회 의결 없이는 변경할 수 없다는 절차 요건은 대상 조문에 없으므로 영토 확정 문형에 한정해 대응을 인정한다.",
+      "evidence": [
+        {
+          "element": "영토의 헌법적 확정 문형",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土依其固有之疆域",
+          "commonality": "국호+領土를 주어로 하여 조약·법률 매개 없이 영토의 외연을 헌법 조문에서 바로 규정한다.",
+          "difference": "후보는 '고유의 강역'이라는 연혁적 개념을 쓰고, 대상은 '한반도와 그 부속도서'라는 구체적 지리 명칭을 쓴다."
+        },
+        {
+          "element": "영토 변경에 대한 규율",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 영토는 한반도와 그 부속도서로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "非經國民大會之決議，不得變更之",
+          "commonality": "영토를 헌법사항으로 삼아 법률 이하 규범의 임의 처분 대상에서 제외하는 취지를 담는다.",
+          "difference": "후보는 국민대회 의결이라는 변경 주체·절차를 명시하지만, 대상 조문은 변경 요건을 침묵한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_015",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 작위·훈장 등 영전 수여 권한 규정으로 영토 조항과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제2항이 영토 변경 동의를 법률로 정한다고 하여 영토라는 주제를 공유하지만, 국가 성격·색·공용어를 함께 규정하는 구성이고 영토 범위 자체를 확정하지 않아 대상 조문과 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제1항이 연방영토의 구성을 선언하나 이는 연방주 영토의 총합이라는 연방적 구성 방식이고, 제2항은 헌법률 합치에 의한 영토 변경 절차를 규정한다. 지리적 명칭으로 영토를 확정하는 대상 조문과는 구체적 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'韓半島'라는 단일 지리 명칭으로 영토 전체를 지칭하는 방식(후보들은 행정구역 열거·조약·구성국 총합 방식)",
+    "'附屬島嶼'라는 부속성 개념으로 도서를 포괄하는 표현(필리핀헌법은 조약 열거 도서로 특정)",
+    "영토 변경 절차·예외를 전혀 두지 않은 단문 완결성(여러 후보는 변경 요건을 병설)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 어떤 후보가 실제로 참조되었는지는 확정할 수 없다.",
+    "독일어·프랑스어·중국어 후보는 원문 문언을 기준으로 비교했고, 워크북 번역문 표현(예: '全島嶼')에 의존한 판단은 배제하려 했으나 일부 의미 파악은 번역문에 의존한다.",
+    "후보 목록에 대상 조문과 같은 '본토+부속도서' 표현을 쓴 조문이 더 있는지는 제공된 범위 밖이어서 알 수 없다."
+  ],
+  "short_answer": "대상 조문은 국호를 주어로 영토의 외연만 한 문장으로 확정하고 변경 절차를 두지 않는 유형이므로, 같은 유형의 영토 확정 조문인 프로이센헌법 제1조, 중화민국 五五憲草 제4조, 중화민국헌법 제4조, 필리핀헌법 제1조가 비교에 유용하다. 공통점은 국가명+영토를 주어로 삼아 헌법에서 직접 영토 범위를 지정하는 문형이며, 특히 필리핀헌법은 본토적 지역과 도서 전체를 합쳐 영토를 구성하는 점에서 '한반도와 그 부속도서'와 대응한다. 차이는 특정 기준으로, 중화민국 조문은 성 명칭 열거 또는 '고유의 강역' 개념을 쓰고 필리핀헌법은 조약과 관할권 행사 지역을 기준으로 삼으며, 프로이센헌법은 '현재의 범위'라는 시점 기준을 쓴다. 또 두 중화민국 조문은 국민대회 의결이라는 변경 절차를, 바이마르·오스트리아·프로이센 자유주·프랑스 1875년 조문은 법률·헌법률·자결권 등 변경 요건을 두지만 대상 조문은 이를 전혀 규정하지 않는다. 이상은 문언상 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

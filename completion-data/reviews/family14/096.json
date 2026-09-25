@@ -1,0 +1,76 @@
+{
+  "article": 96,
+  "reviewed_at": "2026-09-22T16:30:56.717087+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "7c6bca897cc260204d3c82bab09aa98bf7fd136a1c6d360d8e0326807cfa7572",
+  "input_sha256": "2f443e215acc876e53310c61c753ba83c496b5acbc9fcd960d7995a4ed07aea1",
+  "responses": [
+    {
+      "job_id": "096_eb8aae5f7420_r1",
+      "repeat": 1,
+      "sha256": "e39de50856e9cf8cea20f2d3580d861461c61d169cd5c624326882da3b4c4e10",
+      "assessment": "일본의 핵심 권한 조합을 잘 포착함. 배열 순서가 같다는 설명과 다른 후보의 부분 대응 배제를 수정해야 함."
+    },
+    {
+      "job_id": "096_eb8aae5f7420_r2",
+      "repeat": 2,
+      "sha256": "ce956d4e8d583ff9175cb37fc8dbc4104011be6b588934ca89d2d7c5d9d9319f",
+      "assessment": "약헌의 지방 행정사무 처리도 제한적으로 비교함. 단순 재산관리라는 범위 추론은 피해야 함."
+    },
+    {
+      "job_id": "096_eb8aae5f7420_r3",
+      "repeat": 3,
+      "sha256": "3a76012046ba51af5b34140aba7ee5e3dfd1c52405a76ec92e1f0739e82c6da7",
+      "assessment": "일본 및 바이마르의 요소를 한정하여 비교함. 오스트리아·프로이센의 직접 부분 대응은 보완할 필요가 있음."
+    }
+  ],
+  "synthesis": "일본 제94조는 지방단체의 재산관리·사무처리 및 법률 범위 안의 조례 제정을 결합하므로 가장 밀접함. 대상은 사무처리를 먼저 적고 재산관리를 뒤에 배치하며 자치사무와 국가 위임사무를 명시적으로 나눔. 법령의 범위라는 한계는 두 항 모두에 붙고 일본 문언은 조례 제정에 법률 범위를 붙임. 오스트리아 제118조의 법률 범위 내 재산 보유·취득·처분과 바이마르·프로이센의 자치 보장도 한정된 비교가 가능함. 다만 제공 후보에서 국가 위임사무와 자치사무를 같은 방식으로 나눈 문구는 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "sequence_error",
+      "finding": "일본과 권한의 열거 순서가 같다고 하나 일본은 재산관리 다음 사무처리이며 대상은 사무처리 다음 재산관리임.",
+      "action": "항목의 공통성과 배열 차이를 구분함.",
+      "candidate_id": "JP1946_ORIGINAL_ART_094",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "오스트리아의 지방단체 재산 권한과 프로이센의 자기 사무 자치 보장을 다른 권한 부재 때문에 배제함.",
+      "action": "재산 및 자치사무 부분의 직접 비교를 남김.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "selection_threshold",
+      "finding": "바이마르의 법률 한계 내 지방자치 보장을 상용 문구로만 취급함.",
+      "action": "같은 주체·자치권·법적 한계의 결합에 한정한 부분 대응을 인정함.",
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_127",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "unsupported_scope_inference",
+      "finding": "대상의 재산 관리를 단순 관리권으로 단정하여 보유·취득·처분과의 관련을 배제함.",
+      "action": "관리의 구체 범위는 이 조문만으로 확정하지 않음.",
+      "candidate_id": "AT1920_ORIGINAL_ART_118",
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

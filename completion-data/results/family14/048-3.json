@@ -1,0 +1,170 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_048",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_046",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「다른 公職을 兼하거나」라는 겸직금지 문형은 공유하지만, 규율 주체가 법관이고 금지 대상이 정치관여·공직·영리업무 전반이어서 국회의원과 지방의회 의원이라는 대상 조문의 구체적 조합과는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_124",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "縣議會의 설치와 의원 선출·입법권 귀속을 정한 조직규정으로, 의원직 겸직 금지라는 대상 조문의 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_044",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「동시에 의원이 될 수 없다」는 겸직금지 문형은 유사하나 주체가 대통령이고 금지 대상이 제국의회 의원직이어서, 국회의원이 지방의회 의원을 겸하는 경우를 다루는 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제6절에 연방 공직 보유자의 양원 의원 겸직 금지가 있으나, 금지되는 겸직 대상이 연방 문관직이고 주의회 의원직 겸직 문제는 규율하지 않아 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_102",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가·지방 공무원의 수수료 징수 근거에 관한 규정으로 겸직 금지와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제8조 제1항이 국민의회 의원의 타 공직 보유를 제한하지만, 효과가 '의석 상실'과 임기 중 임명 제한이라는 조건부 구성이고 지방의회 의원직은 언급되지 않아 대상 조문의 단순 겸직금지와는 규율 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_033",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 두 대의기관 의원직의 동시 보유를 금지하는 문형을 갖고, 그 상대 기관인 국가평의회가 도의회 등 지방대표기관이 선출하는 의원으로 구성된다는 점에서 중앙 대의기관과 지방 차원 기관 간 겸직 금지라는 요소가 대응한다. 다만 금지 효과와 상대 기관의 성격에는 차이가 있다.",
+      "evidence": [
+        {
+          "element": "겸직 금지의 규율 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원은 지방의회의 의원을 겸할 수 없다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Niemand darf gleichzeitig Mitglied des Landtags und des Staatsrats sein.",
+          "commonality": "두 대의기관 의원직의 동시 보유를 일률적으로 금지한다.",
+          "difference": "대상 조문은 '국회의원'을 주체로 특정해 지방의회 의원직 겸직을 막지만, 후보는 '누구도'를 주체로 양방향 금지를 규정하고 상대 기관이 지방의회가 아니라 국가평의회이다."
+        },
+        {
+          "element": "상대 기관의 지방적 구성",
+          "target_field": "original_text",
+          "target_quote": "地方議會의 議員",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Mitglieder des Staatsrats und ihre Stellvertreter werden von den Provinziallandtagen",
+          "commonality": "금지에 관련된 상대 기관이 지방 대의기관과 결부되어 있다.",
+          "difference": "대상은 지방의회 의원직 자체를 겸직 대상으로 삼는 반면, 후보는 도의회가 선출하는 별도의 국가평의회 의원직을 대상으로 한다."
+        },
+        {
+          "element": "위반 시 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "겸할 수 없다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Landtagsabgeordnete scheiden mit Annahme der Wahl in den Staatsrat aus dem Landtag aus.",
+          "commonality": "겸직 상태를 허용하지 않는다는 결과를 정한다.",
+          "difference": "후보는 선출 수락 시 기존 의원직에서 퇴직한다는 구체적 처리절차를 두나, 대상 조문은 금지만 정하고 효과·절차를 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_036",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "동시 의원직 보유 금지라는 문형은 유사하지만 대상이 양원(동일 의회 내 두 원)이며 지방의회와의 관계는 다루지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_074",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체가 입법기관 구성원이고 술어가 '兼任...不得'으로, 국회의원을 주체로 '兼할 수 없다'고 정한 대상 조문과 주체·술어 구성이 직접 대응한다. 다만 금지 대상이 '其他公職' 및 업무집행 일반이어서 지방의회 의원직으로 특정한 대상 조문보다 범위가 넓다.",
+      "evidence": [
+        {
+          "element": "주체와 금지 술어",
+          "target_field": "original_text",
+          "target_quote": "國會議員은 地方議會의 議員을 兼할 수 없다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法委員不得兼任其他公職或執行業務。",
+          "commonality": "입법기관 구성원을 주체로 하여 '兼(任)'을 금지하는 동일한 문형을 쓴다.",
+          "difference": "대상은 금지 객체를 '지방의회의 의원'으로 한정하지만, 후보는 '其他公職'과 '執行業務'까지 포괄해 영리·직업활동 금지를 함께 담는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_044",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대의원 불체포·불가침을 정한 규정으로 겸직 금지와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_048",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "동시 의원직 보유 금지 문형은 유사하나 주체가 '何人'이고 금지 대상이 양원 의원직이어서, 국회의원과 지방의회 의원직 사이의 겸직을 규율하는 대상 조문과 구체적 요소가 일치하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_024",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2문이 '국회의원'을 주체로 다른 합의기관 소속을 금지하여, 국회의원을 주체로 별도 의회 의원직 겸직을 금지한 대상 조문과 주체·금지객체 구조가 대응한다. 다만 금지 대상이 경제평의회·프랑스연합의회이고 지방의회는 포함되지 않는다.",
+      "evidence": [
+        {
+          "element": "국회의원을 주체로 한 타 합의체 겸직 금지",
+          "target_field": "original_text",
+          "target_quote": "國會議員은 地方議會의 議員을 兼할 수 없다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les membres du Parlement ne peuvent faire partie du Conseil économique, ni de l'Assemblée de l'Union française.",
+          "commonality": "의회 구성원을 주체로 삼아 다른 합의기관의 구성원이 되는 것을 금지한다.",
+          "difference": "대상의 금지 객체는 지방의회 의원직인 반면, 후보는 경제평의회와 프랑스연합의회라는 중앙 차원 기관 소속을 금지한다."
+        },
+        {
+          "element": "동시 소속 금지 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "겸할 수 없다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Nul ne peut appartenir à la fois à l'Assemblée nationale et au Conseil de la République.",
+          "commonality": "두 대의기관 동시 소속을 금지하는 일반적 겸직금지 규정을 둔다.",
+          "difference": "후보 제1문은 주체가 '누구든지'이고 대상이 양원 관계이며, 지방·중앙 관계를 규율하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제1항의 동시 겸직 금지 문형이 유사하지만 대상이 국민의회와 연방 제2원(주·직능참사원)으로 연방 차원 양원 관계이며, 지방의회 의원직 겸직과는 구체적 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "현의회의원 등이 상원의원 선거인단을 구성한다는 선출 절차 규정으로, 겸직 금지라는 대상 조문의 규율 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "금지 객체를 '지방의회의 의원'으로 특정한 점(중앙 국회의원과 지방자치 대의기관 사이의 겸직만을 규율)",
+    "위반 시 효과·절차(의원직 상실, 선택 절차 등)를 두지 않은 점"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·기초 경위는 확정할 수 없다.",
+    "제공된 후보 본문 외의 자료는 사용하지 않았고, 독일어·프랑스어 후보는 원문을 인용했으므로 의미 파악에 번역 의존이 일부 있을 수 있다."
+  ],
+  "short_answer": "대상 조문은 국회의원이 지방의회 의원을 겸하는 것을 금지하는 단문 겸직금지 규정이다. 후보 중에서는 입법기관 구성원을 주체로 '兼任'을 금지한 중화민국 五五헌초 제74조, 국회의원의 타 합의기관 소속을 금지한 프랑스 제4공화국헌법 제24조, 그리고 도의회가 선출하는 국가평의회와 주의회 의원직의 동시 보유를 금지한 프로이센 자유주헌법 제33조 제2항이 주체·술어 또는 지방대표기관 관련 요소에서 구체적으로 대응한다. 다만 금지 객체가 각각 '기타 공직', 경제평의회·연합의회, 국가평의회로 달라 '지방의회 의원직'이라는 특정은 어느 후보에서도 그대로 나타나지 않는다. 일본 1889/1946 헌법, 오스트리아 제59조, 바이마르 제44조 등은 동시 의원직 금지라는 문형은 공유하나 대상 기관과 주체가 달라 일반적 유사에 그친다. 이상은 문언상 대응 관계일 뿐 역사적 영향의 확정은 아니다."
+}

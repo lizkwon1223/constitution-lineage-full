@@ -1,0 +1,132 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_087",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_109",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "省의 입법·집행 사항 열거 규정으로, 「公營事業」·「水利」·「銀行」 등 어휘가 겹칠 뿐 규율 대상(지방 권한 배분)과 효과(입법·집행 관할, 국고보조)가 대상 조문(기업의 국·공영화, 사영 특허)과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_149",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "금융기관을 법률에 따라 국가 관리하에 둔다는 점에서 대상 조문이 「金融」을 국·공영 대상으로 열거한 것과 주제가 겹치나, 효과가 '국가의 管理'에 그치고 국영·공영 귀속이나 사영 특허·취소 절차를 규정하지 않아 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_145",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대외무역을 국가와의 관계에서 별도 항으로 규율하는 점, 사영사업에 대한 법률적 개입을 함께 규정하는 점에서 대상 조문 제2항 및 사영 관련 부분과 구체적 대응이 있다. 다만 효과(장려·지도·보호 vs 통제)는 반대 방향이다.",
+      "evidence": [
+        {
+          "element": "대외무역에 대한 국가의 개입",
+          "target_field": "original_text",
+          "target_quote": "對外貿易은 國家의 統制下에 둔다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "國民生產事業及對外貿易，應受國家之獎勵，指導及保護。",
+          "commonality": "대외무역을 국가와의 관계에서 독립된 문장으로 규율하고 국가의 개입을 명시한다.",
+          "difference": "대상은 '統制下에 둔다'는 통제형 효과이고, 후보는 '獎勵, 指導 및 保護'라는 조성·보호형 효과이며, 후보는 국민생산사업도 함께 대상으로 삼는다."
+        },
+        {
+          "element": "사영에 대한 법률적 규율",
+          "target_field": "original_text",
+          "target_quote": "私營을 特許하거나 또는 그 特許를 取消함은 法律의 定하는 바에 依하여 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家對於私人財富及私營事業，認為有妨害國計民生之平衡發展者，應以法律限制之。",
+          "commonality": "사영(私營)에 대한 국가의 개입을 법률에 유보한다는 점이 공통된다.",
+          "difference": "대상은 특허의 부여·취소 절차를 법률에 유보하나, 후보는 국계민생의 균형발전 저해라는 요건 아래 법률에 의한 '제한'을 명하는 것으로 조건과 효과가 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_129",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「專賣獨占或其他特權之授予或取銷」에 특권의 부여·취소라는 짝 구조가 보이나, 후보의 규율 맥락은 조세·공채·재정 사항의 입법원 또는 법정기관 의결 요건이어서 주체·절차(의결)와 규율 목적이 대상 조문(법률에 의한 사영 특허·취소)과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_144",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공용사업·독점성 기업의 공영 원칙과 법률 허가에 의한 민간 경영 예외라는 원칙-예외 구조가 대상 조문 제1항과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "공공성 기업의 공영 원칙",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公用事業及其他有獨佔性之企業，以公營為原則",
+          "commonality": "공공적·독점적 성격의 기업을 공영으로 한다는 원칙을 헌법에 명시한다.",
+          "difference": "대상은 운수·통신·금융 등 업종을 구체적으로 열거하고 '國營 또는 公營'으로 확정적으로 규정하는 반면, 후보는 '獨佔性'을 기준으로 삼고 '原則'으로만 정한다."
+        },
+        {
+          "element": "민간(사영) 경영의 법률상 예외",
+          "target_field": "original_text",
+          "target_quote": "私營을 特許하거나 또는 그 特許를 取消함은 法律의 定하는 바에 依하여 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "其經法律許可者，得由國民經營之",
+          "commonality": "법률에 근거한 허가로 민간 경영을 예외적으로 허용한다.",
+          "difference": "후보에는 허가의 취소에 관한 규정과 '公共必要'라는 요건이 없고, 경영 주체를 '國民'으로 특정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_123",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가 공영 원칙과 필요에 따른 사영 특허라는 구조, 특히 '特許'와 '私營'이라는 문언이 대상 조문 제1항 후단과 직접 대응한다.",
+      "evidence": [
+        {
+          "element": "국·공영 원칙",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公用事業及其他有獨占性之企業，以國家公營爲原則",
+          "commonality": "공용·독점성 기업을 국가 공영으로 한다는 원칙 설정이 같다.",
+          "difference": "대상은 업종을 열거하고 '國營 또는 公營'을 확정적 효과로 정하나, 후보는 독점성 기준의 '原則' 규정이다."
+        },
+        {
+          "element": "사영 특허의 요건과 문형",
+          "target_field": "original_text",
+          "target_quote": "公共必要에 依하여 私營을 特許하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "但因必要，得特許國民私營之",
+          "commonality": "필요에 의하여 사영을 '特許'할 수 있다는 예외 문형과 용어가 일치한다.",
+          "difference": "대상은 요건을 '公共必要'로 명시하고 특허의 '取消'와 그 법률유보까지 규정하는 반면, 후보는 '必要'만을 들고 취소 대신 국방상 긴급수요에 따른 임시관리·보상부 공영 환수를 규정한다."
+        },
+        {
+          "element": "사영 사업에 대한 사후 조치",
+          "target_field": "original_text",
+          "target_quote": "그 特許를 取消함은 法律의 定하는 바에 依하여 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "得臨時管理之，並得依法律收歸公營，但應予以適當之補償",
+          "commonality": "특허된 사영사업에 대한 사후 개입을 법률에 근거하도록 한다.",
+          "difference": "대상은 '특허 취소'라는 효과만 두고 보상 규정이 없으나, 후보는 국방상 긴급수요라는 조건, 임시관리·공영 환수라는 효과, 적절한 보상 절차를 함께 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "인민의 자유·권리를 제한하는 법률의 일반적 한계 규정으로, 기업의 국·공영화나 대외무역 통제라는 대상 조문의 규율 요소와 대응하지 않는다. '공공이익' 어휘가 겹치는 정도에 그친다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "운수·통신·금융·보험·전기·수리·수도·까스라는 구체적 업종 열거",
+    "'國營 또는 公營'이라는 이원적 귀속 형식",
+    "'公共必要'라는 특허 요건의 명시",
+    "특허 '取消'의 법률유보(후보들에는 취소 자체 또는 그 법률유보가 동일한 형태로 나타나지 않음)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며, 제시 본문만으로는 실제 참조·계수 여부를 확정할 수 없다.",
+    "후보 중 일부는 번역문(workbook_text_ko)과 원문의 어감 차이가 있을 수 있으나 본 검토는 원문 인용에 근거했다."
+  ],
+  "short_answer": "대상 조문 제1항의 '공영 원칙 + 사영 특허'는 五五憲草 제123조 및 중화민국헌법 제144조와 구조·문언이 구체적으로 대응하며, 특히 제123조의 '得特許國民私營之'는 '私營을 特許하거나'와 용어까지 일치한다. 제2항의 대외무역 조항은 중화민국헌법 제145조 제3항과 대외무역을 국가와의 관계에서 별도로 규율한다는 점에서 대응하나, 효과가 '奬勵·指導·保護'와 '統制'로 상반된다. 제149조(금융기관 국가관리)와 제129조(특권의 부여·취소 의결)는 주제나 어휘가 일부 겹치지만 규율 대상·절차·효과가 달라 선택하지 않았고, 제109조와 제25조는 대응이 없다. 다만 업종의 구체적 열거, '國營 또는 公營'의 이원 형식, '公共必要' 요건과 특허 취소의 법률유보는 제시 후보로 충분히 설명되지 않으며, 이상은 문언 대응일 뿐 역사적 영향의 확정은 아니다."
+}

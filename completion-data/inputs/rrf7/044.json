@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_044",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "44",
+    "original_text": "國務總理, 國務委員과 政府委員은 國會에 出席하여 意見을 陳述하고 質問에 應答할 수 있으며 國會의 要求가 있을 때에는 出席答辯하여야 한다.",
+    "workbook_text_ko": "국무총리, 국무위원과 정부위원은 국회에 출석하여 의견을 진술하고 질문에 응답할 수 있으며 국회의 요구가 있을 때에는 출석답변하여야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_054",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "54",
+      "original_text": "国務大臣及政府委員ハ何時タリトモ各議院ニ出席シ及発言スルコトヲ得",
+      "workbook_text_ko": "국무대신과 정부위원은 언제든지 각 원에 출석하여 발언할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_012",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "12",
+      "original_text": "Quand l'Assemblée nationale ne siège pas, son bureau, contrôlant l'action du Cabinet, peut convoquer le Parlement ; il doit le faire à la demande du tiers des députés ou à celle du président du Conseil des ministres.",
+      "workbook_text_ko": "국민의회가 개최되지 아니한 때에는 그 의장단은 내각의 활동을 감독하며, 국회를 소집할 수 있다. 국민의회 의원의 3분의 1의 청구 또는 국무총\n리(Président du Conseil des Ministres)의 청구가 있을 때에는 의장단은 국\n회를 소집하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_063",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "63",
+      "original_text": "内閣総理大臣その他の国務大臣は、両議院の一に議席を有すると有しないとにかかはらず、何時でも議案について発言するため議院に出席することができる。又、答弁又は説明のため出席を求められたときは、出席しなければならない。",
+      "workbook_text_ko": "내각총리대신 그 밖의 국무대신은 양원 내 의석보유 여부에 관계없이 언제든지 의안에 대하여 발언하기 위하여 각 원(院)에 출석할 수 있다. 또한 답변 또는 설명을 위하여 출석을 요구받은 때에는 출석하여야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_053",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "53",
+      "original_text": "Les ministres ont accès aux deux Chambres et à leurs commissions. Ils doivent être entendus quand ils le demandent.\nIls peuvent se faire assister dans les discussions devant les Chambres par des commissaires désignés par décret.",
+      "workbook_text_ko": "장관은 양원과 양원의 위원회에 출석할 수 있다. 장관이 요구할 때에\n는 그 의견을 청취하여야 한다.\n장관은 양원의 심의에서 데크레로 임명된 위원의 보좌를 받을 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_067",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "67",
+      "original_text": "立法院得設各種委員會。\n各種委員會得邀請政府人員及社會上有關係人員到會備詢。",
+      "workbook_text_ko": "立法院에 各種委員會를 둘 수 있다.\n前項의 委員會는 政府의 人員과 社會의 關係人士의 出席하여 質疑에 應하도록 要請할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_071",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "71",
+      "original_text": "立法院開會時，關係院院長及各部會首長得列席陳述意見。",
+      "workbook_text_ko": "立法院 開會時에 關係各院의 院長과 各部 및 會의 長은 立法院에 出席하여 意見을 陳述할 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_034",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "34",
+      "original_text": "監察委員은 政府主席을 輔佐하여 官公務員의 彈劾 及 懲戒에 關한 事項과 政府의 會計監査에 關한 事項을 管理하고 國務會議에 列席하여 意見을 陳述함",
+      "workbook_text_ko": "감찰위원은 정부주석을 보좌하여 관공무원의 탄핵 및 징계에 관한 사항과 정부의 회계감사에 관한 사항을 관리하고 국무회의에 열석하여 의견을 진술함."
+    }
+  ]
+}

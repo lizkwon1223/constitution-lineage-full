@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_015",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "15",
+    "original_text": "財産權은 保障된다. 그 內容과 限界는 法律로써 定한다.\n財産權의 行使는 公共福利에 適合하도록 하여야 한다.\n公共必要에 依하여 國民의 財産權을 收用, 使用 또는 制限함은 法律의 定하는 바에 依하여 相當한 補償을 支給함으로써 行한다.",
+    "workbook_text_ko": "재산권은 보장된다. 그 내용과 한계는 법률로써 정한다.\n재산권의 행사는 공공복리에 적합하도록 하여야 한다.\n공공필요에 의하여 국민의 재산권을 수용, 사용 또는 제한함은 법률의 정하는 바에 의하여 상당한 보상을 지급함으로써 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_006",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "6",
+      "original_text": "國民은 左記 各項에 依하여 自由權을 享有함\n一 法律에 依하지 아니한 逮捕 拘禁 審問 處罰을 받지 않는 自由\n二 法律에 依하지 아니한 家宅의 侵入 또는 搜索을 받지 않는 自由\n三 法律에 依하지 아니한 住居 及 移轉의 制限을 받지 않는 自由\n四 法律에 依하지 아니한 言論 著作 刊行 集會 及 結社의 制限을 받지 않는 自由\n五 法律에 依하지 아니한 信書 秘密의 侵犯을 받지 않는 自由\n六 法律에 依하지 아니한 財產 及 營業의 侵害를 받지 않는 自由\n七 安寧秩序를 妨害하지 않는 信敎의 自由",
+      "workbook_text_ko": "국민은 아래 각 항에 의하여 자유권을 향유함.\n1. 법률에 의하지 아니한 체포·구금·심문·처벌을 받지 않는 자유\n2. 법률에 의하지 아니한 가택의 침입 또는 수색을 받지 않는 자유\n3. 법률에 의하지 아니한 주거 및 이전의 제한을 받지 않는 자유\n4. 법률에 의하지 아니한 언론·저작·간행·집회 및 결사의 제한을 받지 않는 자유\n5. 법률에 의하지 아니한 신서 비밀의 침범을 받지 않는 자유\n6. 법률에 의하지 아니한 재산 및 영업의 침해를 받지 않는 자유\n7. 안녕질서를 방해하지 않는 신교의 자유"
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_015",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "15",
+      "original_text": "人民之生存權，工作權及財產權，應予保障。",
+      "workbook_text_ko": "人民의 生存權, 勞動權 및 財産權은 保障되어야 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_008",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "8",
+      "original_text": "(1) Die Rechtspflege wird durch unabhängige, nur den Gesetzen unterworfene Gerichte ausgeübt.\n(2) Die Urteile werden im Namen des Volkes verkündet und vollstreckt.",
+      "workbook_text_ko": "(1) 사법은 독립하여 오직 법률에만 구속되는 법원이 행사한다.\n(2) 판결은 국민의 이름으로 선고하고 집행한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_153",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "153",
+      "original_text": "Das Eigentum wird von der Verfassung gewährleistet. Sein Inhalt und seine Schranken ergeben sich aus den Gesetzen.\nEine Enteignung kann nur zum Wohle der Allgemeinheit und auf gesetzlicher Grundlage vorgenommen werden. Sie erfolgt gegen angemessene Entschädigung, soweit nicht ein Reichsgesetz etwas anderes bestimmt. Wegen der Höhe der Entschädigung ist im Streitfalle der Rechtsweg bei den ordentlichen Gerichten offen zu halten, soweit Reichsgesetze nichts anderes bestimmen. Enteignung durch das Reich gegenüber Ländern, Gemeinden und gemeinnützigen Verbänden kann nur gegen Entschädigung erfolgen.\nEigentum verpflichtet. Sein Gebrauch soll zugleich Dienst sein für das Gemeine Beste.",
+      "workbook_text_ko": "소유권은 헌법에 의해 보장된다. 내용과 한계는 법률로 명시된다.\n공용징수는 공공복지를 위해서 아울러 법률의 기초에 입각해서만 가능하다. 공용징수는 제국의 법률에 별도의 규정이 없는 한 적당한 보상을 지급하고 이루어진다.\n보상액에 관해 분쟁이 있을 경우는 제국의 법률에 별도의 규정이 없는 한 통상법원에 제소하는 방도가 있어야만 한다.\n주, 시·읍·면 및 공익단체에 대한 제국의 공용징수는 보상을 지급하는 경우에만 행할 수 있다.\n소유권에는 의무가 따른다. 소유권의 사용은 동시에 공익에 대한 봉사여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_029",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "29",
+      "original_text": "財産権は、これを侵してはならない。\n２　財産権の内容は、公共の福祉に適合するやうに、法律でこれを定める。\n３　私有財産は、正当な補償の下に、これを公共のために用ひることができる。",
+      "workbook_text_ko": "①재산권을 침해하여서는 아니 된다.\n②재산권의 내용은 공공복리에 적합하도록 법률로 정한다.\n③사유재산은 정당한 보상 하에 공공목적으로 사용할 수 있다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "V",
+      "original_text": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.",
+      "workbook_text_ko": "누구라도, 대배심에 의한 고발 또는 기소에 의하지 않는 한\n사형에 해당하는 죄 또는 중죄에 대하여 재판에 회부되지 않는다.\n다만, 육군이나 해군에서 발생한 사건 또는 전시나 사변(事變) 시 실제 복무 중에 있는 민병대에서 발생한 사건에 관해서는 예외로 한다. 누구라도 동일한 범행에 대하여 생명이나 신체에 대한\n위협을 재차 받지 않으며, 어떠한 형사사건에 있어서도 자\n기에게 불리한 증언을 강요당하지 않고, 적법절차에 의하\n지 않고는 생명, 자유 또는 재산을 박탈당하지 않는다. 또\n정당한 보상 없이, 사유 재산을 공공용(公共用)으로 수용당\n하지 않는다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_020",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "20",
+      "original_text": "Le Conseil de la République examine, pour avis, les projets et propositions de loi votés en première lecture par l'Assemblée nationale.\nIl donne son avis au plus tard dans les deux mois qui suivent la transmission par l'Assemblée nationale. Quand il s'agit de la loi du budget, ce délai est abrégé, le cas échéant, de façon à ne pas excéder le temps utilisé par l'Assemblée nationale pour son examen et son vote. Quand l'Assemblée nationale décide l'adoption d'une procédure d'urgence, le Conseil de la République donne son avis dans le même délai que celui prévu pour les débats de l'Assemblée nationale par le règlement de celle-ci. Les délais prévus au présent article sont suspendus pendant les interruptions de session. Ils peuvent être prolongés par décision de l'Assemblée nationale.\nSi l'avis du Conseil de la République est conforme ou s'il n'a pas été donné dans les délais prévus à l'alinéa précédent, la loi est promulguée dans le texte voté par l'Assemblée nationale.\nSi l'avis n'est pas conforme, l'Assemblée nationale examine le projet ou la proposition de loi en seconde lecture. Elle statue définitivement et souverainement sur les seuls amendements proposés par le Conseil de la République, en les acceptant ou en les rejetant en tout ou en partie. En cas de rejet total ou partiel de ces amendements, le vote en seconde lecture de la loi a lieu au scrutin public, à la majorité absolue des membres composant l'Assemblée nationale, lorsque le vote sur l'ensemble a été émis par le Conseil de la République dans les mêmes conditions.",
+      "workbook_text_ko": "공화국평의회는 의견을 진술하기 위하여 국민의회에 의한 제1독회에\n서 채택한 내각 제출법안과 의원 제출법안을 검토한다.\n공화국평의회는 국민의회로부터 전달을 받고부터 2개월 이내에 의견을 진\n술한다. 예산법률이 문제인 경우에는 이 기간은 필요한 경우에는 국민의회\n가 심의와 채택에 이용할 기간을 초과하지 않도록 단축한다. 국민의회가\n긴급절차(procédure urgente)의 채택을 결정한 때에는 공화국평의회는 국\n민의회의 심의를 위해서 국민의회의 규칙에 의해서 정한 것과 동일한 기간\n내에 의견을 진술한다. 이 조문에 정한 기간은 회기가 중단한 동안은 정지\n한다. 그 기간은 국민의회의 결정으로 연장할 수 있다.\n공화국평의회의 의견이 일치된 때 또는 전항에 정한 기간 내에 의견을 진\n술하지 아니한 때에는 법률은 국민의회가 채택한 조문으로 공포한다.\n의견이 일치하지 아니한 때에는, 국민의회는 제2 독회에서 내각제출법안\n또는 의원제출법안을 심의한다. 국민의회는 공화국평의회가 제안한 수정에\n대해서만 그 전부 또는 일부를 수용하거나 거부함으로써 최종적이고 독자적으로 결정한다. 이 수정안의 전부 또는 일부거부의 경우 동일한 조건으로 공화국평\n의회가 전체의 표결을 표명한 때에는 법률의 제2 독회에서의 표결은 기명\n투표로 국민의회 의원의 절대다수로 한다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XVII",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XVII",
+      "original_text": "SECTION 1. Upon the proclamation of the President of the United States recognizing the independence of the Philippines\n--\n(1) The property rights of the United States and the Philippines shall be promptly adjusted and settled, and all existing property rights of citizens or corporations of the United States shall be acknowledged, respected, and safeguarded to the same extent as property rights of citizens of the Philippines.\n(2) The officials elected and serving under this Constitution shall be constitutional officers of the free and independent government of the Philippines and qualified to function in all respects as if elected directly under such Government, and shall serve their full terms of office as prescribed in this Constitution.\n(3) The debts and liabilities of the Philippines, its provinces, cities, municipalities, and instrumentalities, which shall be valid and subsisting at the time of the final and complete withdrawal of the sovereignty of the United States, shall be assumed by the free and independent government of the Philippines; and where bonds have been issued under authority of an Act of Congress of the United States by the Philippine Islands, or any province, city, or municipality therein, the Government of the Philippines will make adequate provision for the necessary funds for the payment of interest and principal, and such obligations shall be a first lien on all taxes collected.\n(4) The Government of the Philippines will assume all continuing obligations of the United States under the Treaty of Peace with Spain ceding the Philippine Islands to the United States .\n(5) The Government of the Philippines will embody the foregoing provisions of this article (except subsection (2)) in a treaty with the United States .",
+      "workbook_text_ko": "제1절. 미국 대통령이 필리핀의 독립을 인정하는 선언을 하면 다음에 따른다.\n—\n(1) 미국과 필리핀의 재산권은 신속히 조정·정리하며, 미국 국민이나 법인의 기존 재산권은 필리핀 국민의 재산권과 같은 정도로 인정·존중하고 보호한다.\n(2) 이 헌법에 따라 선출되어 재직하는 공직자는 자유롭고 독립된 필리핀 정부의 헌법상 공직자가 되며, 그 정부 아래에서 직접 선출된 것처럼 모든 면에서 직무를 수행할 자격을 가지고 이 헌법이 정한 임기를 모두 채운다.\n(3) 미국의 주권이 최종적이고 완전하게 철회되는 때에 유효하게 존속하는 필리핀과 그 주·시·지방자치단체·산하기관의 채무와 책임은 자유롭고 독립된 필리핀 정부가 인수한다. 미국 연방의회 법률의 권한에 따라 필리핀 군도 또는 그 안의 주·시·지방자치단체가 채권을 발행한 경우에는 필리핀 정부가 원리금 지급에 필요한 자금을 적절히 마련하며, 그 채무는 징수되는 모든 조세에 대한 최우선 담보권을 가진다.\n(4) 필리핀 정부는 필리핀 군도를 미국에 할양한 스페인과의 평화조약에 따른 미국의 계속적 의무를 모두 인수한다.\n(5) 필리핀 정부는 이 장의 앞선 규정 중 제2호를 제외한 규정을 미국과의 조약에 포함한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_009",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "9",
+      "original_text": "Das Eigenthum ist unverletzlich. Es kann nur aus Gründen des öffentlichen Wohles gegen vorgängige in dringenden Fällen wenigstens vorläufig festzustellende Entschädigung nach Maaßgabe des Gesetzes entzogen oder beschränkt werden.",
+      "workbook_text_ko": "소유권은 불가침이다. 그것은\n오로지 공공복리의 사유로만 법률에\n따라, 사전보상을 함으로써 [그리고]\n긴급한 경우에는 적어도 잠정적으로\n확정된 보상을 제공함으로써, 수용되\n거나 제한될 수 있다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_021",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "21",
+      "original_text": "(1) Das Dienstrecht, einschließlich des Besoldungssystems und des Disziplinarrechtes, wird für jene Angestellten des Bundes und der Länder, die behördliche Aufgaben zu besorgen haben, nach einheitlichen Grundsätzen durch Bundesgesetz geregelt (Artikel 10, Z. 16, und Artikel 12, Z. 10). Hiebei wird insbesondere auch festgesetzt, inwieweit bei der Regelung der Rechte und Pflichten dieser Angestellten, unbeschadet der Diensthoheit des Bundes und der Länder, Personalvertretungen teilzunehmen haben.\n(2) Die Diensthoheit des Bundes gegenüber seinen Angestellten wird von den Volksbeauftragten des Bundes, die Diensthoheit der Länder gegenüber ihren Angestellten von den Volksbeauftragten der Länder ausgeübt.\n(3) Die Bestellung und das Dienstrecht jener Angestellten der Gebiets- und Ortsgemeinden, die behördliche Aufgaben zu vollziehen haben, werden im Zusammenhang mit der Organisation der Verwaltung geregelt.\n(4) Die Möglichkeit des Wechsels zwischen dem Dienst beim Bund, den Ländern und den Gemeinden bleibt den öffentlichen Angestellten jederzeit gewahrt. Der Dienstwechsel wird im Einvernehmen der zur Ausübung der Diensthoheit berufenen Stellen vollzogen. Durch Bundesgesetz können besondere Einrichtungen zur Erleichterung des Dienstwechsels geschaffen werden.\n(5) Amtstitel für die Organe des Bundes, der Länder und der Gemeinden können durch Bundesgesetz einheitlich festgesetzt werden. Sie sind gesetzlich geschützt.",
+      "workbook_text_ko": "(1) 관청의 업무를 담당하는 연방 및 주 공무원의 복무법은 보수제도와 징계법을 포함하여 통일된 원칙에 따라 연방법률로 정한다(제10조 제16호 및 제12조 제10호). 이때 특히 연방과 주의 인사권을 침해하지 않으면서 이들 공무원의 권리·의무를 규율하는 데 직원대표기구가 어느 범위까지 참여하여야 하는지도 정한다.\n(2) 연방공무원에 대한 연방의 인사권은 연방의 국민수임자가 행사하고, 주 공무원에 대한 주의 인사권은 주의 국민수임자가 행사한다.\n(3) 관청의 업무를 집행하는 지역자치단체 및 기초자치단체 공무원의 임용과 복무법은 행정조직과 관련하여 정한다.\n(4) 공무원에게는 연방·주 및 지방자치단체 사이에서 근무를 옮길 가능성이 언제나 보장된다. 전직은 인사권을 행사하는 기관 사이의 합의로 행한다. 연방법률로 전직을 쉽게 하기 위한 특별한 제도를 둘 수 있다.\n(5) 연방·주 및 지방자치단체 기관의 직함은 연방법률로 통일하여 정할 수 있다. 직함은 법률의 보호를 받는다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_017",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "17",
+      "original_text": "社會保險制를 適用받을 수 있는 公民이 老衰 疾病 또는 勞動力을 喪失한 境遇에는 物質的 幇助를 받을 수 있다.\n이 權利는 國家가 實施하는 社會保險制에 依한 醫療上 幇助 또는 物質的 保護로서 保障한다.",
+      "workbook_text_ko": "사회보험제를 적용받을 수 있는 공민이 노쇠 질병 또는 노동력을 상실한 경우에는 물질적 방조를 받을 수 있다.\n이 권리는 국가가 실시하는 사회보험제에 의한 의료상 방조 또는 물질적 보호로서 보장한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_009",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "9",
+      "original_text": "天皇ハ法律ヲ執行スル為ニ又ハ公共ノ安寧秩序ヲ保持シ及臣民ノ幸福ヲ増進スル為ニ必要ナル命令ヲ発シ又ハ発セシム但シ命令ヲ以テ法律ヲ変更スルコトヲ得ス",
+      "workbook_text_ko": "천황은 법률을 집행하기 위하여, 또는 공공의 안녕질서를 유지하고 신민의 행복을 증진하기 위하여 필요한 명령을 발하거나 발하게 한다. 다만, 명령으로 법률을 변경할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_117",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "117",
+      "original_text": "中華民國領域內之土地，屬於國民全體，其經人民依法律取得所有權者，其所有權受法律之保障及限制。國家對於人民取得所有權之土地，得按照土地所有權人申報或政府估定之地價，依法律征稅或徵收之。\n土地所有權人，對於其所有土地，負充分使用之義務。",
+      "workbook_text_ko": "중화민국 영역 안의 토지는 국민 전체에 속한다. 인민이 법률에 따라 소유권을 취득한 경우 그 소유권은 법률의 보장과 제한을 받는다. 국가는 인민이 소유권을 취득한 토지에 대하여 토지소유권자가 신고하거나 정부가 평가한 지가에 따라 법률에 의하여 과세하거나 수용할 수 있다.\n토지소유권자는 그 소유 토지를 충분히 이용할 의무를 진다."
+    }
+  ]
+}

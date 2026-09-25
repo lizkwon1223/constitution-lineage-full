@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_049",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "49",
+    "original_text": "國會議員은 現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며 會期前에 逮捕 또는 拘禁되었을 때에는 國會의 要求가 있으면 會期中 釋放된다.",
+    "workbook_text_ko": "국회의원은 현행범을 제한 외에는 회기중 국회의 동의없이 체포 또는 구금되지 아니하며 회기전에 체포 또는 구금되었을 때에는 국회의 요구가 있으면 회기중 석방된다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_014",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "14",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut, pendant la durée de la session, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la chambre dont il fait partie, sauf le cas de flagrant délit. - La détention ou la poursuite d'un membre de l'une ou de l'autre chambre est suspendue pendant la session, et pour toute sa durée, si la chambre le requiert.",
+      "workbook_text_ko": "어느 원의 어떠한 의원도 회기 중 현행범인(flagrant délit)을 제외하\n고, 소속한 원의 허락이 없으면 중죄사건(matière criminelle) 또는 경죄사건\n(matière correctionnelle)에 대해서 소추되거나 체포되지 아니한다.\n어느 원의 의원의 구류ㆍ소추는 원의 요구가 있으면 회기 중 전기간을 통\n하여 중단된다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_022",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "22",
+      "original_text": "Aucun membre du Parlement ne peut, pendant la durée de son mandat, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la Chambre dont il fait partie, sauf le cas de flagrant délit. La détention ou la poursuite d'un membre du Parlement est suspendue si la Chambre dont il fait partie le requiert.",
+      "workbook_text_ko": "국회의원은 임기 중 소속한 원의 허락이 없으면 중죄 또는 경죄사건\n에서 소추되거나 또는 체포되지 아니한다. 다만, 현행범인(flagrant délit)인\n경우에는 그러하지 아니하다. 국회의원의 구류(détention) 또는 소추는 소\n속하는 원의 청구가 있을 때에는 정지된다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_V",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "V",
+      "original_text": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.",
+      "workbook_text_ko": "연방의회는 상･하 양원의 3분의 2가 이 헌법에 대한 개정\n의 필요성을 인정할 때에는 헌법 개정을 발의해야 하며, 모\n든 주의 3분의 2 이상의 주의회의 요청이 있을 때에도 개\n정 발의를 위한 헌법회의를 소집해야 한다. 어느 경우에나\n연방의회가 제의하는 비준의 방법으로서 모든 주의 4분의\n3의 주의회에 의한 비준, 또는 모든 주의 4분의 3의 주 헌\n법회의에 의한 비준 중 어느 하나에 따라 비준되는 때에는\n모든 점에서 이 헌법의 일부로서 효력이 발생한다. 다만, 1808년\n전에 이루어지는 개정은 어떠한 방법으로도 제1조 제9항\n제1호 및 제4호에 변경을 가져올 수 없다. 어느 주도 그 주\n의 동의 없이는 상원에서의 동등한 투표권을 박탈당하지\n않는다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_037",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "37",
+      "original_text": "Kein Mitglied des Reichstags oder eines Landtags kann ohne Genehmigung des Hauses, dem der Abgeordnete angehört, während der Sitzungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, es sei denn, daß das Mitglied bei Ausübung der Tat oder spätestens im Laufe des folgenden Tages festgenommen ist.\nDie gleiche Genehmigung ist bei jeder anderen Beschränkung der persönlichen Freiheit erforderlich, die die Ausübung des Abgeordnetenberufs beeinträchtigt.\nJedes Strafverfahren gegen ein Mitglied des Reichstags oder eines Landtags und jede Haft oder sonstige Beschränkung seiner persönlichen Freiheit wird auf Verlangen des Hauses, dem der Abgeordnete angehört, für die Dauer der Sitzungsperiode aufgehoben.",
+      "workbook_text_ko": "제국의회와 주 의회 소속 의원은 소속 의원이 현행범으로 혹은 늦어도 익일 중에 체포된 경우가 아니라면, 동 의원이 속한 의회의 허가 없이 회기 중에 범죄행위를 이유로 조사를 받거나 체포되는 처분을 금한다.\n동일한 (소속 의회의) 허가는 의원의 직무행사를 침해하는 신체의 자유에 대한 그 밖의 모든 침해의 경우에도 필요하다.\n제국의회와 주 의회의 의원과 관계된 일체의 형사소송 및 체포 혹은 신체의 자유 및 기타 이에 준하는 침해와 관련하여, 해당 의원이 속한 의회의 요구가 있는 경우 회기 동안 해당 절차를 중지한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_057",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "57",
+      "original_text": "(1) Die Mitglieder des Nationalrates können wegen der in Ausübung dieses Berufes geschehenen Abstimmungen niemals, wegen der in diesem Beruf gemachten Äußerungen nur vom Nationalrat verantwortlich gemacht werden.\n(2) Kein Mitglied des Nationalrates darf wegen einer strafbaren Handlung – den Fall der Ergreifung auf frischer Tat bei Verübung eines Verbrechens ausgenommen – ohne Zustimmung des Nationalrates verhaftet oder sonst behördlich verfolgt werden.\n(3) Im Fall der Ergreifung auf frischer Tat hat die Behörde dem Präsidenten des Nationalrates sogleich die geschehene Verhaftung bekanntzugeben.\n(4) Wenn es der Nationalrat verlangt, muß die Haft aufgehoben oder die Verfolgung überhaupt auf die Dauer der Gesetzgebungsperiode aufgeschoben werden.\n(5) Die Immunität der Organe des Nationalrates, deren Funktion über die Gesetzgebungsperiode hinausgeht, bleibt für die Dauer dieser Funktion bestehen.",
+      "workbook_text_ko": "(1) 국민의회 의원은 직무를 수행하며 한 표결에 대하여 어떠한 경우에도 책임을 추궁당하지 않으며, 그 직무상 한 발언에 대하여는 국민의회에 의해서만 책임을 추궁당할 수 있다.\n(2) 국민의회 의원은 중죄를 범하는 현장에서 체포된 경우를 제외하고, 국민의회의 동의 없이 범죄행위로 체포되거나 그 밖에 관청의 소추를 받을 수 없다.\n(3) 현행범으로 체포한 경우 관청은 체포 사실을 즉시 국민의회 의장에게 알려야 한다.\n(4) 국민의회가 요구하면 구금을 해제하거나 소추 전부를 입법기 동안 연기하여야 한다.\n(5) 직무가 입법기 이후까지 계속되는 국민의회 기관의 면책·불체포특권은 그 직무가 계속되는 동안 존속한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_074",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "74",
+      "original_text": "立法委員，除現行犯外，非經立法院許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "立法委員은 現行犯의 境遇를 除外하고는 立法院의 許可없이 逮捕 또는 拘禁되지 아니한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_053",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "53",
+      "original_text": "両議院ノ議員ハ現行犯罪又ハ内乱外患ニ関ル罪ヲ除ク外会期中其ノ院ノ許諾ナクシテ逮捕セラルヽコトナシ",
+      "workbook_text_ko": "양원의 의원은 현행범죄나 내란·외환에 관한 죄를 제외하고는 회기 중 해당 원의 허락 없이 체포되지 않는다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_044",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "44",
+      "original_text": "最高人民會議 代議員은 代議員으로서의 不可侵을 保障받는다.\n代議員은 最高人民會議의 承認이 없이 또는 그 休會中에 있어서는 最高人民會議 常任委員會의 承認이 없이는 現行犯인 境遇를 除外하고는 逮捕하거나 處罰할 수 없다.",
+      "workbook_text_ko": "최고인민회의 대의원은 대의원으로서의 불가침을 보장받는다.\n대의원은 최고인민회의의 승인이 없이 또는 그 휴회 중에 있어서는 최고인민회의 상임위원회의 승인이 없이는 현행범인 경우를 제외하고는 체포하거나 처벌할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_034",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "34",
+      "original_text": "國民代表除現行犯外，在會期中非經國民大會許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "국민대표는 현행범인 경우를 제외하고는 회기 중 국민대회의 허가 없이 체포되거나 구금되지 않는다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_084",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "84",
+      "original_text": "Sie können für ihre Abstimmungen in der Kammer niemals, für ihre darin ausgesprochenen Meinungen nur innerhalb der Kammer auf den Grund der Geschäftsordnung (Art. 78.) zur Rechenschaft gezogen werden.\nKein Mitglied einer Kammer kann ohne deren Genehmigung während der Sitzungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, außer wenn es bei Ausübung der That oder im Laufe des nächstfolgenden Tages nach derselben ergriffen wird.\nGleiche Genehmigung ist bei einer Verhaftung wegen Schulden nothwendig.\nJedes Strafverfahren gegen ein Mitglied der Kammer und eine jede Untersuchungs- oder Civilhaft wird für die Dauer der Sitzungsperiode aufgehoben, wenn die betreffende Kammer es verlangt.",
+      "workbook_text_ko": "양원의 의원은 각 원에서의\n표결에 대해서는 절대로 책임을 추\n궁당하지 않으며, 원(院) 안에서 행한\n의견 표명에 대해서는 오로지 각 원\n내에서만 의사규칙(제78조)에 근거하\n여 책임을 추궁당할 수 있다.\n각 원의 의원은, 현행범 또는 범행\n후 다음날 중에 잡힌 경우를 제외하고,\n회기중 각 원의 동의 없이는, 형벌에\n처해질 수 있는 행위임을 이유로 수사를\n받거나 체포될 수 없다.\n그와 같은 동의는 채무로 인한 구\n금에도 필요하다.\n의회의 해당 원(院)이 요청하는 경우\n에는, 회기동안 그 소속 의원에 대한\n모든 형사절차, 미결구금(未決拘禁)\n이나 민사 구금이 정지된다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_023",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "23",
+      "original_text": "Die Vollsitzungen des Landtags sind öffentlich. Auf Antrag von fünfzig Abgeordneten kann der Landtag mit Zweidrittelmehrheit die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über den Antrag wird in geheimer Sitzung verhandelt.",
+      "workbook_text_ko": "주의회의 본회의는 공개한다. 의원 50명의 제안이 있으면 주의회는 3분의 2의 다수로 특정 의사일정 사항의 공개를 배제할 수 있다. 이 제안은 비공개 회의에서 심의한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_018",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "18",
+      "original_text": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함\n議員은 院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함",
+      "workbook_text_ko": "의원은 내란·외환에 관한 범죄 또는 현행범 이외에는 회기 중 원의 허락 없이 체포·심문을 받지 아니함.\n의원은 원내에서 행한 발언 및 표결에 대하여 원외에서 책임을 지지 아니함."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_050",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "50",
+      "original_text": "両議院の議員は、法律の定める場合を除いては、国会の会期中逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。",
+      "workbook_text_ko": "양원의 의원은 법률이 정하는 경우를 제외하고는 국회 회기 중에 체포되지 않으며 회기 전에 체포된 의원은 소속 원(院)의 요구가 있으면 회기 중에 석방하여야 한다."
+    }
+  ]
+}

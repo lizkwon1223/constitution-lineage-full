@@ -1,0 +1,139 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_054",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_042",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 취임 시 의회 앞에서 선서한다는 주체·시기·장소 구조와, 선서문 안에 '국민의 복리', '헌법 준수', '직무의 성실한 수행'이 열거되는 구성이 구체적으로 대응한다. 다만 종교적 맹세 허용 규정과 '정의 실현' 문구는 대상에 없다.",
+      "evidence": [
+        {
+          "element": "선서의 주체·시기·장소",
+          "target_field": "original_text",
+          "target_quote": "大統領은 就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident leistet bei der Übernahme seines Amtes vor dem Reichstag folgenden Eid",
+          "commonality": "대통령이 취임할 때 국가 의회 앞에서 정해진 선서를 한다는 규율 구조가 같다.",
+          "difference": "대상은 선서 상대를 '국민에게'로 명시하고, 바이마르는 종교적 맹세 부가 허용(Die Beifügung einer religiösen Beteuerung ist zulässig)을 별도로 둔다."
+        },
+        {
+          "element": "선서 내용(복리 증진·헌법 준수·직무 수행)",
+          "target_field": "original_text",
+          "target_quote": "國憲을 遵守하며 國民의 福利를 增進하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "seinen Nutzen mehren, Schaden von ihm wenden, die Verfassung und die Gesetze des Reichs wahren",
+          "commonality": "국민의 이익(복리) 증진과 헌법 준수를 선서 항목으로 나란히 열거한다.",
+          "difference": "바이마르는 '헌법과 법률', '손해 방지', '모든 사람에 대한 정의 실현'까지 포함하고, 대상은 '국가를 保衛'라는 항목을 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_056",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "취임 시 선서와 '국민의 복리', '헌법·법률 충실'이라는 어휘는 겹치나 주체가 국무장관이고 선서 장소·선서문 인용 형식이 없어 대상의 구체적 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 취임 시 의회체 앞에서 인용부호 형식의 선서문을 낭독한다는 점은 유사하나, 내용은 헌법·법률 준수와 양심에 따른 의무 수행에 한정되어 대상의 복리 증진·국가 보위·국민에 대한 선서와 같은 특징적 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "1920년판과 선서문이 동일하고 종교적 맹세 허용 항이 추가된 것뿐이어서, 대상 조문과의 대응은 일반적 선서 규정 형식 수준에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_021",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'就任에 際하여 … 左의 宣誓'라는 문형과 인용부호 선서문 배치가 거의 동일하여 문언 구조상 가장 밀접한 대응을 보인다. 다만 선서 주체·장소와 선서문 항목 구성은 다르다.",
+      "evidence": [
+        {
+          "element": "조문 문형(취임 시 의회에서 좌의 선서)",
+          "target_field": "original_text",
+          "target_quote": "就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "就任에 際하야 立法議院에서 嚴肅히 左의 宣誓를 함",
+          "commonality": "'취임에 제하여 ○○에서 좌의 선서'라는 동일한 한국어 법문 문형을 쓴다.",
+          "difference": "주체가 정부주석 대 대통령, 장소가 입법의원 대 국회이며, '嚴肅히'가 대상에서는 선서문 안으로 옮겨져 있다."
+        },
+        {
+          "element": "선서문 내용",
+          "target_field": "workbook_text_ko",
+          "target_quote": "성실히 수행할 것을 국민에게 엄숙히 선서한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "誠實히 政府主席의 職務를 執行할 것을 盟誓함",
+          "commonality": "최고행정직의 직무를 성실히 수행하겠다는 다짐을 선서문 말미에 둔다.",
+          "difference": "대상은 국민을 선서 상대로 명시하고 복리 증진·국가 보위를 추가하나, 약헌은 '약헌 수호'와 직무 집행만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "선서문의 항목 배열(헌법 준수 → 직무 충실 → 인민 복리 증진 → 국가 보위)이 대상 선서문의 어휘·순서와 거의 그대로 대응한다. 다만 선서 장소 규정과 위반 시 제재 문구에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "선서문 항목과 배열",
+          "target_field": "original_text",
+          "target_quote": "國憲을 遵守하며 國民의 福利를 增進하며 國家를 保衛하여 大統領의 職務를 誠實히 遂行할 것",
+          "candidate_field": "original_text",
+          "candidate_quote": "余必遵守憲法，盡忠職務，增進人民福利，保衛國家",
+          "commonality": "헌법 준수·직무 충실·인민(국민) 복리 증진·국가 보위라는 네 항목이 동일하게 열거된다.",
+          "difference": "대상은 국헌 준수·복리·보위 뒤에 직무 성실 수행을 두어 순서가 다르고, 五五憲草는 '無負國民付託'과 위반 시 '願受國法嚴厲之制裁'라는 제재 조항을 덧붙인다."
+        },
+        {
+          "element": "선서의 시기·상대",
+          "target_field": "original_text",
+          "target_quote": "大統領은 就任에 際하여 國會에서",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統應於就職日宣誓",
+          "commonality": "국가원수가 취임 시점에 선서하도록 의무화한다.",
+          "difference": "대상은 '국회에서'라는 장소를 지정하나 五五憲草는 취임일만 정하고 장소가 없으며, 선서 상대는 선서문 안의 '向國民宣誓'로 표현된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_048",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "1936년 초안과 거의 같은 선서문으로, 헌법 준수·직무 충실·인민 복리 증진·국가 보위 및 '국민에게 선서한다'는 상대 명시가 대상과 구체적으로 대응한다. 제재 문구와 장소 미규정은 차이다.",
+      "evidence": [
+        {
+          "element": "선서문 항목",
+          "target_field": "original_text",
+          "target_quote": "國民의 福利를 增進하며 國家를 保衛하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "增進人民福利，保衛國家",
+          "commonality": "'인민(국민)의 복리 증진'과 '국가 보위'가 연속된 대구로 선서문에 들어간다.",
+          "difference": "중화민국헌법은 이어서 '無負國民付託'과 위반 시 국가의 엄중한 제재 수락을 규정하나 대상에는 그러한 효과 규정이 없다."
+        },
+        {
+          "element": "선서의 상대(국민)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국민에게 엄숙히 선서한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "向全國人民宣誓",
+          "commonality": "선서의 수신자를 전체 국민(인민)으로 명시한다.",
+          "difference": "대상은 '嚴肅히'라는 태도어를, 후보는 '謹以至誠'이라는 태도어를 쓰며, 후보에는 국회 등 선서 장소 규정이 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "선서문을 조문에 직접 인용하되 선서 장소를 '국회'로 특정하는 결합 방식(후보들은 장소 지정형과 선서문 열거형이 각각 나뉘어 있음)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·기초 경위 등 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "독일어·중국어 후보의 의미 비교에는 제공된 번역문 이해가 일부 개입될 수 있다."
+  ],
+  "short_answer": "조선임시약헌 제21조는 '就任에 際하여 … 左의 宣誓'라는 문형과 인용부호 선서문 배치에서 대상과 가장 근접하고, 중화민국 五五憲草 제50조·중화민국헌법 제48조는 헌법 준수·직무 충실·인민 복리 증진·국가 보위라는 선서문 항목 구성에서 구체적으로 대응한다. 바이마르헌법 제42조는 대통령이 취임 시 의회 앞에서 선서한다는 주체·시기·장소 구조와 복리·헌법 준수·직무 수행 항목에서 대응한다. 오스트리아 제62조(1920/개정판)와 프로이센 제56조는 취임 선서라는 주제와 헌법·법률 준수 어구가 겹치나, 각각 선서문 내용이 제한적이거나 주체가 국무장관이어서 일반적 유사에 그친다. 대상 고유의 특징인 '국회에서'라는 장소 지정과 선서문 직접 인용의 결합, 그리고 제재 규정을 두지 않은 점은 후보들과 차이가 있으며, 이상은 문언 대응일 뿐 역사적 참조의 확정은 아니다."
+}

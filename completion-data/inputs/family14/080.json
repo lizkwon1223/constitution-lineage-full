@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_080",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "80",
+    "original_text": "法官은 彈劾, 刑罰 또는 懲戒處分에 依하지 아니하고는 罷免, 停職 또는 減俸되지 아니한다.",
+    "workbook_text_ko": "법관은 탄핵, 형벌 또는 징계처분에 의하지 아니하고는 파면, 정직 또는 감봉되지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "13",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "어느 원의 어떤 의원도 그 직무행사에서 그가 표명한 의견 또는 투표\n에 대해서 소추를 받거나 추궁되지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_078",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "78",
+      "original_text": "裁判官は、裁判により、心身の故障のために職務を執ることができないと決定された場合を除いては、公の弾劾によらなければ罷免されない。裁判官の懲戒処分は、行政機関がこれを行ふことはできない。",
+      "workbook_text_ko": "재판관은 심신의 장해로 직무를 수행할 수 없음이 재판에 의하여 결정된 경우를 제외하고는, 공적인 탄핵에 의하지 아니하고 파면되지 아니한다. 재판관의 징계처분은 행정기관이 할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_081",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "81",
+      "original_text": "法官非受刑罰或懲戒處分，或禁治產之宣告，不得免職，非依法律不得停職轉任或減俸。",
+      "workbook_text_ko": "법관은 형벌이나 징계처분을 받거나 금치산 선고를 받지 않고는 면직되지 않으며, 법률에 의하지 않고는 정직·전임 또는 감봉되지 않는다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_036",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "36",
+      "original_text": "Kein Mitglied des Reichstags oder eines Landtags darf zu irgendeiner Zeit wegen seiner Abstimmung oder wegen der in Ausübung seines Berufs getanen Äußerungen gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden.",
+      "workbook_text_ko": "제국의회 혹은 주 의회의 소속 의원은 어느 때에도 자신의 표결 또는 직무 수행 중에 행한 발언을 이유로 사법적으로 혹은 직무상 소추를 받지 아니하며 기타 집회 밖에서의 책임을 지지 아니한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_044",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "44",
+      "original_text": "法官은 刑의 宣告 또는 法律에 依한 懲戒處分에 依하지 아니하면 意思에 反하여 免官할 수 없음",
+      "workbook_text_ko": "법관은 형의 선고 또는 법률에 의한 징계처분에 의하지 아니하면 의사에 반하여 면관할 수 없음."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_021",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "21",
+      "original_text": "Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "국회의원은 그 직무상 표명한 의견 또는 표결을 이유로 소추되거나\n수사를 받거나 체포ㆍ구류되거나(détenu) 또는 재판을 받지 아니한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_081",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "81",
+      "original_text": "法官為終身職，非受刑事或懲戒處分，或禁治產之宣告，不得免職。非依法律，不得停職，轉任或減俸。",
+      "workbook_text_ko": "法官은 終身職이며 刑事 또는 懲戒處分 또는 禁治産의 宣告를 받지 아니하는 限 免職될 수 없다. 法官은 法律에 依하지 아니하고는 停職, 轉任 또는 減俸되지 아니한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_058",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "58",
+      "original_text": "裁判官ハ法律ニ定メタル資格ヲ具フル者ヲ以テ之ニ任ス\n２　裁判官ハ刑法ノ宣告又ハ懲戒ノ処分ニ由ルノ外其ノ職ヲ免セラルヽコトナシ\n３　懲戒ノ条規ハ法律ヲ以テ之ヲ定ム",
+      "workbook_text_ko": "재판관은 법률로 정한 자격을 갖춘 사람으로 임명한다.\n② 재판관은 형벌의 선고나 징계처분에 의하지 않고는 그 직에서 면직되지 않는다.\n③ 징계에 관한 규정은 법률로 정한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_035",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "35",
+      "original_text": "Kein Mitglied des Staatsrats darf zu irgendeiner Zeit wegen seiner Abstimmung oder wegen der in Ausübung seines Amtes getanen Äußerungen gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden.",
+      "workbook_text_ko": "국가평의회 의원은 표결이나 직무 수행 중의 발언으로 인하여 어느 때에도 재판상 또는 직무상 소추를 받거나 그 밖에 회의체 밖에서 책임을 추궁당하지 않는다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XI",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XI",
+      "original_text": "Section 1. A Civil Service embracing all branches and subdivisions of the Government shall be provided by law. Appointments in the Civil Service, except as to those which are policy-determining, primarily confidential or highly technical in nature, shall be made only according to merit and fitness, to be determined as far as practicable by competitive examination.\nSec. 2. Officers and employees in the Civil Service, including members of the armed forces, shall not engage directly or indirectly in partisan political activities or take part in any election except to vote.\nSec. 3. No officer or employee of the Government shall receive additional or double compensation unless specifically authorized by law.\nSec. 4. No officer or employee in the Civil Service shall be removed or suspended except for cause as provided by law.",
+      "workbook_text_ko": "제1절. 정부의 모든 부문과 하부기관을 포괄하는 공무원제도를 법률로 정한다. 정책 결정적 성격의 직, 임명권자와의 특별한 신임관계를 주된 성격으로 하는 직 또는 고도의 기술적 성격을 가진 직을 제외하고, 공무원 임용은 오직 능력과 적합성에 따라 이루어져야 하며 이는 가능한 한 경쟁시험으로 판단한다.\n제2절. 군인을 포함한 공무원과 직원은 정당 편향적 정치활동에 직접 또는 간접으로 종사하거나 투표 외의 방법으로 선거에 참여할 수 없다.\n제3절. 정부의 공무원이나 직원은 법률이 특별히 허용하지 않는 한 추가 또는 이중 보수를 받을 수 없다.\n제4절. 공무원이나 직원은 법률이 정한 사유에 의하지 않고는 면직되거나 정직되지 않는다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_088",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "88",
+      "original_text": "(1) In der Gerichtsverfassung wird eine Altersgrenze bestimmt, nach deren Erreichung die Richter in den dauernden Ruhestand zu versetzen sind.\n(2) Im übrigen dürfen Richter nur in den vom Gesetz vorgeschriebenen Fällen und Formen und auf Grund eines förmlichen richterlichen Erkenntnisses ihres Amtes entsetzt oder wider ihren Willen an eine andere Stelle oder in den Ruhestand versetzt werden. Diese Bestimmungen finden jedoch auf Übersetzungen und Versetzungen in den Ruhestand keine Anwendung, die durch Veränderungen in der Verfassung der Gerichte nötig werden. In einem solchen Fall wird durch das Gesetz festgestellt, innerhalb welchen Zeitraumes Richter ohne die sonst vorgeschriebenen Förmlichkeiten übersetzt und in den Ruhestand versetzt werden können.\n(3) Die zeitweise Enthebung der Richter vom Amt darf nur durch Verfügung des Gerichtsvorstandes oder der höheren Gerichtsbehörde bei gleichzeitiger Verweisung der Sache an das zuständige Gericht stattfinden.",
+      "workbook_text_ko": "(1) 법원조직법은 법관을 영구퇴직시켜야 하는 연령 상한을 정한다.\n(2) 그 밖에 법관은 법률이 정한 경우와 형식에 따라 정식 재판에 근거하여서만 파면되거나, 본인의 의사에 반하여 다른 직위로 전보되거나 퇴직될 수 있다. 다만 법원조직의 변경으로 필요하게 된 전보 및 퇴직에는 이 규정을 적용하지 않는다. 그 경우 법률은 통상 요구되는 형식 없이 법관을 전보하거나 퇴직시킬 수 있는 기간을 정한다.\n(3) 법관의 일시적 직무정지는 법원장 또는 상급 법원기관의 처분으로만 할 수 있으며, 동시에 사건을 관할 법원에 회부하여야 한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_VIII",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "VIII",
+      "original_text": "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.",
+      "workbook_text_ko": "과다한 보석금을 요구하거나, 과다한 벌금을 과하거나, 잔\n혹하고 비정상적인 형벌을 과하지 못한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_024",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "24",
+      "original_text": "公民은 人身의 不可侵을 保護받는다.\n一切 公民은 裁判所의 決定 또는 檢事의 承認이 없이는 逮捕되지 않는다.",
+      "workbook_text_ko": "공민은 인신의 불가침을 보호받는다.\n일체 공민은 재판소의 결정 또는 검사의 승인이 없이는 체포되지 않는다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_007",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "7",
+      "original_text": "Niemand darf seinem gesetzlichen Richter entzogen werden. Ausnahmegerichte und außerordentliche Kommissionen sind unstatthaft.",
+      "workbook_text_ko": "누구도 그의 [사건에 관하여]\n법률이 정한 재판관[에 의한 재판]을\n박탈당하지 아니한다. 예외법원과 특\n별위원회는 허용되지 않는다."
+    }
+  ]
+}

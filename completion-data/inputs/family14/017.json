@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_017",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "17",
+    "original_text": "모든 國民은 勤勞의 權利와 義務를 가진다.\n勤勞條件의 基準은 法律로써 定한다.\n女子와 少年의 勤勞는 特別한 保護를 받는다.",
+    "workbook_text_ko": "모든 국민은 근로의 권리와 의무를 가진다.\n근로조건의 기준은 법률로써 정한다.\n여자와 소년의 근로는 특별한 보호를 받는다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_036",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "36",
+      "original_text": "(1) Beamte, Angestellte und Arbeiter des Staates und der Körperschaften des öffentlichen Rechtes bedürfen zur Ausübung des Amtes als Mitglieder des Staatsrats keines Urlaubs.\n(2) Gehalt und Lohn sind weiter zu zahlen.",
+      "workbook_text_ko": "(1) 국가와 공법상 단체의 공무원·직원·근로자는 국가평의회 의원의 직무를 수행하기 위하여 휴가를 받을 필요가 없다.\n(2) 봉급과 임금은 계속 지급하여야 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_023",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "23",
+      "original_text": "Alle öffentlichen und Privat-Unterrichts- und Erziehungsanstalten stehen unter der Aufsicht vom Staate ernannter Behörden.\nDie öffentlichen Lehrer haben die Rechte und Pflichten der Staatsdiener.",
+      "workbook_text_ko": "모든 공사(公私)의 강습․\n교육 시설은 국가가 지정한 관청의\n감독하에 놓인다.\n공립학교 교사는 공무원으로서의\n권리와 의무를 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_027",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "27",
+      "original_text": "すべて国民は、勤労の権利を有し、義務を負ふ。\n２　賃金、就業時間、休息その他の勤労条件に関する基準は、法律でこれを定める。\n３　児童は、これを酷使してはならない。",
+      "workbook_text_ko": "①모든 국민은 근로의 권리를 가지며 그 의무를 진다.\n②임금, 취업시간, 휴식 그 밖의 근로조건에 관한 기준은 법률로 정한다.\n③아동을 혹사하여서는 아니 된다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_021",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "21",
+      "original_text": "(1) Das Dienstrecht, einschließlich des Besoldungssystems und des Disziplinarrechtes, wird für jene Angestellten des Bundes und der Länder, die behördliche Aufgaben zu besorgen haben, nach einheitlichen Grundsätzen durch Bundesgesetz geregelt (Artikel 10, Z. 16, und Artikel 12, Z. 10). Hiebei wird insbesondere auch festgesetzt, inwieweit bei der Regelung der Rechte und Pflichten dieser Angestellten, unbeschadet der Diensthoheit des Bundes und der Länder, Personalvertretungen teilzunehmen haben.\n(2) Die Diensthoheit des Bundes gegenüber seinen Angestellten wird von den Volksbeauftragten des Bundes, die Diensthoheit der Länder gegenüber ihren Angestellten von den Volksbeauftragten der Länder ausgeübt.\n(3) Die Bestellung und das Dienstrecht jener Angestellten der Gebiets- und Ortsgemeinden, die behördliche Aufgaben zu vollziehen haben, werden im Zusammenhang mit der Organisation der Verwaltung geregelt.\n(4) Die Möglichkeit des Wechsels zwischen dem Dienst beim Bund, den Ländern und den Gemeinden bleibt den öffentlichen Angestellten jederzeit gewahrt. Der Dienstwechsel wird im Einvernehmen der zur Ausübung der Diensthoheit berufenen Stellen vollzogen. Durch Bundesgesetz können besondere Einrichtungen zur Erleichterung des Dienstwechsels geschaffen werden.\n(5) Amtstitel für die Organe des Bundes, der Länder und der Gemeinden können durch Bundesgesetz einheitlich festgesetzt werden. Sie sind gesetzlich geschützt.",
+      "workbook_text_ko": "(1) 관청의 업무를 담당하는 연방 및 주 공무원의 복무법은 보수제도와 징계법을 포함하여 통일된 원칙에 따라 연방법률로 정한다(제10조 제16호 및 제12조 제10호). 이때 특히 연방과 주의 인사권을 침해하지 않으면서 이들 공무원의 권리·의무를 규율하는 데 직원대표기구가 어느 범위까지 참여하여야 하는지도 정한다.\n(2) 연방공무원에 대한 연방의 인사권은 연방의 국민수임자가 행사하고, 주 공무원에 대한 주의 인사권은 주의 국민수임자가 행사한다.\n(3) 관청의 업무를 집행하는 지역자치단체 및 기초자치단체 공무원의 임용과 복무법은 행정조직과 관련하여 정한다.\n(4) 공무원에게는 연방·주 및 지방자치단체 사이에서 근무를 옮길 가능성이 언제나 보장된다. 전직은 인사권을 행사하는 기관 사이의 합의로 행한다. 연방법률로 전직을 쉽게 하기 위한 특별한 제도를 둘 수 있다.\n(5) 연방·주 및 지방자치단체 기관의 직함은 연방법률로 통일하여 정할 수 있다. 직함은 법률의 보호를 받는다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_004",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "4",
+      "original_text": "國民은 左記 各項 政策의 確立實施에 依하여 生活均等權을 享有함\n一 國民의 基本生活을 確保할 計劃經濟의 樹立\n二 主要한 生活必需品의 統制管理와 合理的 物價政策의 樹立\n三 稅制의 整理와 累進率의 强化\n四 農民本位의 土地 再分配\n五 大規模의 主要工場 及 鑛山의 國營 또는 國家 管理\n六 勞働者의 生活을 安定키 爲한 最低賃金制의 確立\n七 主要企業의 經營管理에 從業員代表 參與\n八 俸給者의 生活을 安定시키기 爲한 家族給與制의 確立\n九 重要工場內에 保健 衛生 敎育 及 娛樂施設의 整備\n十 失業保險 廢疾保險 其他 社會保險制의 實施",
+      "workbook_text_ko": "국민은 아래 각 항 정책의 확립·실시에 의하여 생활균등권을 향유함.\n1. 국민의 기본생활을 확보할 계획경제의 수립\n2. 주요한 생활필수품의 통제관리와 합리적 물가정책의 수립\n3. 세제의 정리와 누진율의 강화\n4. 농민 본위의 토지 재분배\n5. 대규모의 주요 공장 및 광산의 국영 또는 국가 관리\n6. 노동자의 생활을 안정시키기 위한 최저임금제의 확립\n7. 주요 기업의 경영관리에 종업원 대표 참여\n8. 봉급자의 생활을 안정시키기 위한 가족급여제의 확립\n9. 중요 공장 내에 보건·위생·교육 및 오락 시설의 정비\n10. 실업보험·폐질보험, 기타 사회보험제의 실시"
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "II",
+      "original_text": "SECTION 1. The Philippines is a republican state. Sovereignty resides in the people and all government authority emanates from them.\nSEC. 2. The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.\nSEC. 3. The Philippines renounces war as an instrument of national policy, and adopts the generally accepted principles of international law as a part of the law of the Nation.\nSEC. 4. The natural right and duty of parents in the rearing of the youth for civic efficiency should receive the aid and support of the Government.\nSEC. 5. The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+      "workbook_text_ko": "제1절. 필리핀은 공화국이다. 주권은 국민에게 있으며 모든 정부권한은 국민에게서 나온다.\n제2절. 국가의 방위는 정부의 으뜸가는 의무이며, 이 의무를 이행하기 위하여 모든 국민에게 법률로 직접적인 군복무 또는 민간복무를 요구할 수 있다.\n제3절. 필리핀은 국가정책의 수단으로서 전쟁을 포기하고 일반적으로 승인된 국제법 원칙을 국내법의 일부로 받아들인다.\n제4절. 청소년을 유능한 시민으로 양육하는 부모의 천부적 권리와 의무는 정부의 원조와 지원을 받아야 한다.\n제5절. 모든 국민의 복지와 경제적 안정을 보장하기 위한 사회정의의 증진은 국가가 힘써야 할 일이다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_152",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "152",
+      "original_text": "人民具有工作能力者，國家應予以適當之工作機會。",
+      "workbook_text_ko": "人民으로서 勤勞의 能力을 具有한 者에 對하여 國家는 適當한 勤勞의 機會를 주어야 한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XIV",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XIV",
+      "original_text": "Section 1.\nAll persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.\nSection 2.\nRepresentatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.\nSection 3.\nNo person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.\nSection 4.\nThe validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.\nSection 5.\nThe Congress shall have power to enforce, by appropriate legislation, the provisions of this article.",
+      "workbook_text_ko": "제1항\n합중국에서 출생하거나 귀화하고, 합중국의 관할권에 속하\n는 모든 사람은 합중국 시민이자 그 거주하는 주의 시민이\n다. 어떠한 주도 합중국 시민의 특권과 면책권을 제한하는\n법률을 제정하거나 시행할 수 없다. 어떠한 주도 적정한 법\n의 절차에 의하지 않고는 어떠한 사람으로부터도 생명, 자\n유, 또는 재산을 박탈할 수 없으며, 그 관할권 내에 있는 어\n떠한 사람에 대해서도 법률의 평등한 보호를 거부하지 못\n한다.\n제2항\n하원의원은 각 주의 인구수에 비례하여 각 주에 할당한다.\n각 주의 인구수는 과세되지 않는 인디언을 제외한 각 주의\n총 인구수로 한다. 그러나 합중국 대통령 및 부통령의 선거\n인, 연방의회의 하원의원, 각 주 행정관 및 사법관 또는 각\n주 주의회 의원을 선출하는 어떠한 선거에서, 반란이나 그\n밖의 범죄에 가담한 경우를 제외하고, 21세에 달하고 합\n중국 시민인 해당 주의 남성 주민 중의 어느 누구에게 투표\n권이 거부되거나, 어떠한 방식으로든 제한되는 경우에는,\n그 주의 하원의원 할당수의 기준은 그러한 남성 시민의 수\n가 그 주의 21세에 달한 남성 시민의 총수에서 차지하는 비\n율에 따라 감소된다.\n제3항\n과거에 연방의회 의원, 합중국 공무원, 주의회 의원, 또는\n주의 행정관이나 사법관으로, 합중국 헌법을 옹호할 것을\n선서하고, 후에 이에 대한 폭동이나 반란에 가담하거나 또\n는 그 적에게 원조를 제공한 자는 누구라도 연방의회의 상\n원의원이나 하원의원, 대통령 및 부통령의 선거인, 합중국\n이나 각 주의 모든 공직에 취임할 수 없다. 다만, 연방의회\n는 각 원의 3분의 2의 표결로써 이 결격을 해제할 수 있다.\n제4항\n폭동이나 반란을 진압할 때의 공헌에 대한 은급 및 하사금\n을 지불하기 위하여 발생한 부채를 포함하여 법률로 인정\n된 합중국 국채의 법적 효력은 문제 삼을 수 없다. 그러나\n합중국 또는 어떠한 주도 합중국에 대한 폭동이나 반란을 원조하\n기 위하여 발생한 부채나 채무에 대하여 또는 노예의 상실\n이나 해방으로 인한 청구에 대하여는 채무를 부담하거나\n지불하지 않는다. 모든 이러한 부채, 채무 및 청구는 위법\n이고 무효이다.\n제5항\n연방의회는 적절한 입법에 의하여 이 조의 규정을 시행할\n권한을 가진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_157",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "157",
+      "original_text": "Die Arbeitskraft steht unter dem besonderen Schutz des Reichs.\nDas Reich schafft ein einheitliches Arbeitsrecht.",
+      "workbook_text_ko": "노동력은 제국의 특별한 보호를 받는다.\n제국은 통일적 노동법을 제정한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_022",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "22",
+      "original_text": "女子는 國家 政治·經濟·社會·文化生活의 部門에 있어서 男子와 同等하다.\n國家는 母性 및 幼兒를 特別히 保護한다.",
+      "workbook_text_ko": "여자는 국가 정치·경제·사회·문화생활의 부문에 있어서 남자와 동등하다.\n국가는 모성 및 유아를 특별히 보호한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_PREAMBLE",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": null,
+      "original_text": "Au lendemain de la victoire remportée par les peuples libres sur les régimes qui ont tenté d'asservir et de dégrader la personne humaine, le peuple français proclame à nouveau que tout être humain, sans distinction de race, de religion ni de croyance, possède des droits inaliénables et sacrés. Il réaffirme solennellement les droits et libertés de l'homme et du citoyen consacrés par la Déclaration des droits de 1789 et les principes fondamentaux reconnus par les lois de la République.\nIl proclame, en outre, comme particulièrement nécessaires à notre temps, les principes politiques, économiques et sociaux ci-après :\nLa loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme.\nTout homme persécuté en raison de son action en faveur de la liberté a droit d'asile sur les territoires de la République.\nChacun a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut être lésé, dans son travail ou son emploi, en raison de ses origines, de ses opinions ou de ses croyances.\nTout homme peut défendre ses droits et ses intérêts par l'action syndicale et adhérer au syndicat de son choix.\nLe droit de grève s'exerce dans le cadre des lois qui le réglementent.\nTout travailleur participe, par l'intermédiaire de ses délégués, à la détermination collective des conditions de travail ainsi qu'à la gestion des entreprises.\nTout bien, toute entreprise, dont l'exploitation a ou acquiert les caractères d'un service public national ou d'un monopole de fait, doit devenir la propriété de la collectivité.\nLa Nation assure à l'individu et à la famille les conditions nécessaires à leur développement.\nElle garantit à tous, notamment à l'enfant, à la mère et aux vieux travailleurs, la protection de la santé, la sécurité matérielle, le repos et les loisirs. Tout être humain qui, en raison de son âge, de son état physique ou mental, de la situation économique, se trouve dans l'incapacité de travailler a le droit d'obtenir de la collectivité des moyens convenables d'existence.\nLa Nation proclame la solidarité et l'égalité de tous les Français devant les charges qui résultent des calamités nationales.\nLa Nation garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation professionnelle et à la culture. L'organisation de l'enseignement public gratuit et laïque à tous les degrés est un devoir de l'Etat.\nLa République française, fidèle à ses traditions, se conforme aux règles du droit public international. Elle n'entreprendra aucune guerre dans des vues de conquête et n'emploiera jamais ses forces contre la liberté d'aucun peuple.\nSous réserve de réciprocité, la France consent aux limitations de souveraineté nécessaires à l'organisation et à la défense de la paix.\nLa France forme avec les peuples d'outre-mer une Union fondée sur l'égalité des droits et des devoirs, sans distinction de race ni de religion.\nL'Union française est composée de nations et de peuples qui mettent en commun ou coordonnent leurs ressources et leurs efforts pour développer leurs civilisations respectives, accroître leur bien-être et assurer leur sécurité.\nFidèle à sa mission traditionnelle, la France entend conduire les peuples dont elle a pris la charge à la liberté de s'administrer eux-mêmes et de gérer démocratiquement leurs propres affaires ; écartant tout système de colonisation fondé sur l'arbitraire, elle garantit à tous l'égal accès aux fonctions publiques et l'exercice individuel ou collectif des droits et libertés proclamés ou confirmés ci-dessus.",
+      "workbook_text_ko": "1. 인간을 노예로 만들고, 품격을 떨어뜨리고자 했던 체제\n에 대해 자유로운 인민들이 승리를 쟁취한 다음날 프랑\n스 인민은 인종, 종교, 믿음의 구별 없이 모든 인간은 양\n도할 수 없고 성스러운 권리를 가진다는 점을 새로이 선\n언한다. 프랑스 인민은 1789년의 권리선언에 의해 규정된 인간과 시민의 권리와 자유, 그리고 공화국 법률에 의해 인정된 기본적 원칙을 엄숙히 재천명한다.\n2. 뿐만 아니라, 프랑스 인민은 우리 시대에 특히 필요한\n다음과 같은 정치적･경제적･사회적 원칙을 선언한다:\n3. 법률은 모든 영역에 있어서 여성에게 남성과 동등한 권\n리를 보장한다.\n4. 자유를 옹호하는 자신의 행동 때문에 박해받는 모든 인\n간은 프랑스 영토에서 망명권을 가진다.\n5. 모든 개개인은 근로의 의무와 일자리를 얻을 권리를 가\n진다. 어느 누구도 그 자신의 직업과 일자리에서 출신,\n견해, 믿음을 이유로 피해를 입지 않는다.\n6. 모든 인간은 노동조합활동을 통해 자신의 권리와 이익\n을 보호하고, 자신의 선택에 따라 노동조합에 가입할 수\n있다.\n7. 파업권은 파업권을 규정하는 법률의 범주에서 행사될\n수 있다.\n8. 모든 노동자는 자신의 대표를 통하여 근로조건의 집단\n적 결정과 기업운영에 참여한다.\n9. 그 이용이 국가적 공역무 또는 사실상의 독점적 성격을\n가지거나, 가지게 된 모든 재화, 모든 기업은 공동체의\n소유가 되어야 한다.\n10. 국가는 개인과 가족에게 그들의 발전에 필요한 조건을\n보장한다.\n11. 국가는 모든 사람들 특히, 아이, 어머니, 고령노동자에게\n건강보호, 물질적 안전, 휴식과 여가를 보장한다. 나이,\n신체적 또는 정신적 상태, 경제적 상황을 이유로 일을\n할 수 없는 모든 인간은 공동체로부터 생존에 충분한 수\n단을 얻을 권리를 가진다.\n12. 국가는 국가적 재난으로부터 기인하는 부담 앞에 모든\n프랑스인의 연대와 평등을 선언한다.\n13. 국가는 교육, 직업교육과 문화에 대한 아이와 어른의 평\n등한 접근을 보장한다. 모든 단계의 무상 및 종교적 중\n립적인 공교육 조직은 국가의 의무이다.\n14. 전통에 충실한 프랑스 공화국은 국제공법의 규칙에 따른\n다. 프랑스 공화국은 정복을 위한 전쟁을 하지 않으며,\n결코 어떠한 인민의 자유에 반대하여서도 그 힘을 사용하지 않는다.\n15. 상호성의 유보하에, 프랑스는 평화의 구성과 방어에 필\n요한 주권의 제한에 동의한다.\n16. 프랑스는 해외영토의 인민과 함께 인종과 종교의 구별\n없는 권리와 의무의 평등에 근거한 연합을 형성한다.\n17. 프랑스연합은 각각의 문화를 발전시키고, 행복을 증진\n시키며, 안전을 보장하기 위해 자원과 노력을 공유하거나, 조정하는 국민과 인민으로 구성된다.\n18. 전통적인 임무에 충실한 프랑스는 자신이 책임을 지는\n인민들을 자치하고, 민주적으로 자신의 일을 관\n리하는 자유로 이끌기를 원한다. 자의(恣意)에 근거한 일체의\n식민지 시스템을 배제하면서, 프랑스는 모두에게 공적인\n직무에 대한 평등한 접근과 위에서 선언되고 확인된 권\n리와 자유의 개인적 또는 집단적 행사를 보장한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_020",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "20",
+      "original_text": "日本臣民ハ法律ノ定ムル所ニ従ヒ兵役ノ義務ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률이 정하는 바에 따라 병역의 의무를 진다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "1",
+      "original_text": "Le pouvoir législatif s'exerce par deux assemblées : la Chambre des députés et le Sénat. - La Chambre des Députés est nommée par le suffrage universel, dans les conditions déterminées par la loi électorale. - La composition, le mode de nomination et les attributions du Sénat seront réglés par une loi spéciale.",
+      "workbook_text_ko": "입법권은 하원(Chambre des députés)과 상원(Sénat) 양원이 행사한다.\n하원은 선거법이 정한 조건에 따라 보통선거로 임명한다.\n상원의 구성ㆍ임명방법과 임무는 특별법으로 정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_124",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "124",
+      "original_text": "國家爲改良勞工生活，增進其生產技能，及救濟勞工失業，應實施保護勞工政策。\n婦女兒童從事勞動者，應按其年齡及身體狀態，施以特別之保護。",
+      "workbook_text_ko": "국가는 노동자의 생활을 개선하고 생산기능을 증진하며 실업을 구제하기 위하여 노동자 보호정책을 실시하여야 한다.\n노동에 종사하는 여성과 아동에게는 연령과 신체 상태에 따라 특별한 보호를 하여야 한다."
+    }
+  ]
+}

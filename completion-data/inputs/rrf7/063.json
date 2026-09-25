@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_063",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "63",
+    "original_text": "大統領은 法律의 定하는 바에 依하여 赦免, 減刑과 復權을 命한다.\n一般赦免을 命함에는 國會의 同意를 얻어야 한다.",
+    "workbook_text_ko": "대통령은 법률의 정하는 바에 의하여 사면, 감형과 복권을 명한다.\n일반사면을 명함에는 국회의 동의를 얻어야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_039",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "39",
+      "original_text": "總統依法宣布戒嚴，但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 戒嚴을 宣布한다. 但 이에는 반듯이 立法院의 同意 또는 追認이 있어야 한다. 立法院은 必要하다고 認定하는 때에는 決議에 의하여 總統에게 解嚴을 要求할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_040",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "40",
+      "original_text": "總統依法行使大赦，特赦，減刑及復權之權。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 大赦, 特赦, 減刑 및 復權을 行한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_123",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "123",
+      "original_text": "縣民關於縣自治事項，依法律行使創制複決之權，對於縣長及其他縣自治人員，依法律行使選舉罷免之權。",
+      "workbook_text_ko": "縣民은 縣의 自治事項에 關하여 法律의 定하는 바에 依하여 人民創案과 人民表決의 權利를 行使하고 縣長 및 其他縣의 自治人員에 대하여 法律의 定하는바에 의하여 選擧 및 召還의 權利를 行使한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_041",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "41",
+      "original_text": "總統依法任免文武官員。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 文官과 武官을 任免한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_005",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "5",
+      "original_text": "Le Président de la République peut, sur l'avis conforme du Sénat, dissoudre la Chambre des députés avant l'expiration légale de son mandat. - En ce cas, les collèges électoraux sont convoqués pour de nouvelles élections dans le délai de trois mois.",
+      "workbook_text_ko": "공화국대통령은 상원의 동의(avis conforme)를 얻어 법적인 임기만료 전에\n하원을 해산할 수 있다.\n전항의 경우 3개월 이내에 새로운 선거를 위한 선거단을 소집한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_049",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "49",
+      "original_text": "Der Reichspräsident übt für das Reich das Begnadigungsrecht aus.\nReichsamnestien bedürfen eines Reichsgesetzes.",
+      "workbook_text_ko": "제국대통령은 제국의 사면권을 행사한다.\n제국 일반사면(대사면)은 제국법률을 필요로 한다."
+    }
+  ]
+}

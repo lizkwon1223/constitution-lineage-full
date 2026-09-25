@@ -1,0 +1,179 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_103",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "‘本憲法施行’이라는 시행 관련 상용어만 겹치고, 내용은 시행절차를 법률·국민대회가 정한다는 위임 규정이어서 재직 공무원의 직무 계속이라는 대상 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 통치권 총람 규정으로 경과규정·공무원 직무 계속과 규율 요소가 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "기관의 직무 개시 시점을 정한다는 점에서 시간적 이행 규율이라는 일반적 유사성만 있고, 구 재직자의 직무 계속이나 후임자 선거·임명이라는 요소 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_109",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "‘새 법률로 개정될 때까지 계속 효력’이라는 경과적 존속 문형은 유사하나, 대상은 조세·법령의 효력 존속이고 대상 조문의 주체(재직 공무원)·종료사유(후임자의 직무 계승)와 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "‘새 …가 선거될 때까지 계속 수행한다’는 문형이 유사하지만, 주체가 최고인민회의 상임위원회이고 조건이 의회 해산인 상설 규정으로, 헌법 시행 시 재직 공무원 전반에 관한 경과규정과는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_103",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "헌법 시행 당시 재직 공무원의 지위와 후임자의 ‘선거 또는 임명’을 종료 기준으로 삼는 경과규정 구조가 구체적으로 대응한다. 다만 규정 방식(지위 상실 vs 직무 계속)과 대상 직위 열거·법률 예외 부분은 차이가 있다.",
+      "evidence": [
+        {
+          "element": "적용 대상(헌법 시행 시 재직 공무원)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法施行時에 在職하고 있는 公務員",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法施行の際現に在職する国務大臣、衆議院議員及び裁判官並びにその他の公務員",
+          "commonality": "헌법 시행 시점을 기준으로 현재 재직 중인 공무원을 경과규정의 대상으로 삼는다.",
+          "difference": "후보는 국무대신·중의원 의원·재판관 등 직위를 열거하고 ‘그 지위에 상응하는 지위가 이 헌법에서 인정되는 자’라는 한정을 두는 반면, 대상은 공무원을 한정 없이 포괄한다."
+        },
+        {
+          "element": "종료 기준(후임자의 선거 또는 임명)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法에 依하여 選擧 또는 任命된 者가 그 職務를 繼承할 때까지",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法によつて、後任者が選挙又は任命されたときは、当然その地位を失ふ",
+          "commonality": "‘이 헌법에 의하여’ 후임자가 ‘선거 또는 임명’되는 것을 재직 상태 종료의 기준으로 삼는다.",
+          "difference": "후보는 후임자가 선거·임명된 때 당연히 지위를 상실한다고 규정하고, 대상은 후임자가 직무를 ‘계승할 때까지’ 직무를 계속 행한다고 적극적으로 규정한다."
+        },
+        {
+          "element": "예외·효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "계속하여 직무를 행한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律で特別の定をした場合を除いては、この憲法施行のため、当然にはその地位を失ふことはない",
+          "commonality": "헌법 시행만으로 기존 공무원의 지위·직무가 곧바로 단절되지 않는다는 효과를 정한다.",
+          "difference": "후보는 ‘법률에 특별한 정함이 있는 경우’라는 예외를 명시하고 지위 상실 여부로 규율하나, 대상은 예외 없이 직무 계속 수행이라는 단일 효과만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_051",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총통 궐위·직무불능 시의 승계·대행 규정으로, 헌법 시행 경과기의 공무원 직무 계속과는 조건과 주체가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_176",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원이라는 주체만 겹치고 내용은 헌법에 대한 선서 의무로, 직무 계속·후임자 기준과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XV",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제4절이 기존 정부의 공무원이 일정 시점까지 재직을 계속하고 후임자의 임명으로 퇴직한다는 경과규정을 담아 대상의 주체·효과·종료사유와 부분적으로 대응한다. 다만 종료 기준(국민의회의 별도 입법, 1년 기한, 취임요건 구비)과 직위 범위는 상이하다.",
+      "evidence": [
+        {
+          "element": "적용 대상과 효과(기존 공무원의 재직 계속)",
+          "target_field": "original_text",
+          "target_quote": "在職하고 있는 公務員은 이 憲法에 依하여 選擧 또는 任命된 者가 그 職務를 繼承할 때까지 繼續하여 職務를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "All officers and employees in the existing Government of the Philippine Islands shall continue in office until the National Assembly shall provide otherwise",
+          "commonality": "헌법 시행 전부터 재직한 공무원이 일정 시점까지 그 직을 계속한다는 경과적 효과를 규정한다.",
+          "difference": "후보의 종료 기준은 국민의회의 별도 입법이고 대상은 후임자의 직무 계승이며, 후보는 ‘공무원과 직원’으로 범위를 명시한다."
+        },
+        {
+          "element": "종료 사유(후임자 임명)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "이 헌법에 의하여 선거 또는 임명된 자가 그 직무를 계승할 때까지",
+          "candidate_field": "original_text",
+          "candidate_quote": "shall vacate their respective offices upon the appointment and qualification of their successors",
+          "commonality": "후임자가 정해짐으로써 기존 재직자의 직무가 종료된다는 구조가 공통된다.",
+          "difference": "후보는 대통령 임명직에 한정하고 ‘임명과 취임요건 구비’ 및 출범 후 1년 이내라는 기간 조건을 붙이는 반면, 대상은 선거·임명 모두를 포함하고 기간 제한이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_084",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "‘변경·폐지될 때까지 계속’이라는 존속 문형만 유사하고 규율 대상이 조세·공과금 징수여서 공무원 직무 계속과 요소 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령 유고 시 후임 대통령이 선출될 때까지 직무를 대행한다는 부분에 ‘…까지 직무 수행’ 구조가 있으나, 주체가 특정 직위의 대행이고 헌법 시행기 공무원 경과규정과는 조건·범위가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘본법 시행 시 현재 재직 공무원’과 ‘후임자가 선거 또는 임명될 때까지 계속 재직’이라는 문형이 대상 조문과 거의 그대로 대응한다. 다만 상응 지위 요건과 종료 시점 기준(선거·임명 시점 vs 직무 계승 시점)에 차이가 있다.",
+      "evidence": [
+        {
+          "element": "적용 대상(시행 시 재직 공무원)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法施行時에 在職하고 있는 公務員",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法 施行時에 現在職 公務員",
+          "commonality": "헌법(본법) 시행 시점을 기준으로 재직 중인 공무원을 대상으로 하는 경과규정이다.",
+          "difference": "후보는 ‘그에 상응한 지위가 본법에 규정되어 있는 자’라는 한정을 붙이지만, 대상은 그런 한정 없이 재직 공무원 전부를 포괄한다."
+        },
+        {
+          "element": "종료 기준과 효과",
+          "target_field": "original_text",
+          "target_quote": "選擧 또는 任命된 者가 그 職務를 繼承할 때까지 繼續하여 職務를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法에 依하여 後任者가 選擧 또는 任命될 때까지 繼續 在職함",
+          "commonality": "‘…에 의하여 선거 또는 임명’이라는 동일한 어구를 종료 기준으로 쓰고, 그때까지 계속 재직·직무 수행이라는 효과를 정한다.",
+          "difference": "후보는 후임자의 선거·임명 시점을 종료 기준으로 하고 효과를 ‘계속 재직’으로 표현하나, 대상은 후임자가 ‘직무를 계승할 때’를 기준으로 하고 효과를 ‘계속하여 직무를 행한다’로 표현한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_020",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "선출·임명된 행정기관의 지시 구속과 책임에 관한 상설 규정으로, 경과적 직무 계속 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_106",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법 공포 절차와 형식에 관한 규정이어서 재직 공무원의 직무 계속이라는 대상 요소와 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "종료 시점을 후임자의 선거·임명이 아니라 후임자가 '그 職務를 繼承할 때'로 잡은 표현(후보들은 선거·임명 시점 또는 별도 입법 시점을 기준으로 함)",
+    "한정·예외 없이 모든 재직 공무원을 대상으로 한 포괄성(후보들은 상응 지위 요건, 직위 열거, 법률 예외 등을 둠)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인했으며, 제공된 본문만으로는 실제 참조·계수 여부를 확정할 수 없다.",
+    "후보 번역문은 보조적으로만 참고했고 판단 근거는 원문 인용에 두었다."
+  ],
+  "short_answer": "검토 대상은 제헌헌법 제103조의 공무원 경과규정이며, 조선임시약헌 제58조와 일본국헌법 제103조가 '시행 시 재직 공무원'과 '이 헌법(본법)에 의하여 선거 또는 임명'이라는 구체적 문형에서 가장 밀접하게 대응한다. 필리핀헌법 제XV장 제4절도 기존 공무원의 재직 계속과 후임자 임명에 따른 퇴직이라는 요소에서 부분적으로 대응한다. 차이는 대상 조문이 한정·예외 없이 모든 재직 공무원에게 적용되고 종료 기준을 '후임자의 직무 계승'으로 잡은 데 있으며, 약헌은 '상응 지위' 요건과 선거·임명 시점을, 일본국헌법은 직위 열거·법률상 예외와 '지위 상실' 효과를, 필리핀헌법은 국민의회 입법·1년 기한·취임요건 구비를 각각 조건으로 둔다. 프로이센 헌법 제109조, 제84조나 북한 초안 제51조는 '…때까지 계속' 문형만 유사하여 선택하지 않았고, 이상은 문언 대응일 뿐 역사적 영향의 확정은 아니다."
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_097",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "97",
+    "original_text": "地方自治團體의 組織과 運營에 關한 事項은 法律로써 定한다.\n地方自治團體에는 各各 議會를 둔다.\n地方議會의 組織, 權限과 議員의 選擧는 法律로써 定한다.",
+    "workbook_text_ko": "지방자치단체의 조직과 운영에 관한 사항은 법률로써 정한다.\n지방자치단체에는 각각 의회를 둔다.\n지방의회의 조직, 권한과 의원의 선거는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_071",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "71",
+      "original_text": "(1) Der Staat gliedert sich in Provinzen.\n(2) Die Gliederung der Provinzen in Kreise, Städte, Landgemeinden und andere Gemeindeverbände sowie die Verfassung, die Rechte und Pflichten der Gemeindeverbände werden durch Gesetz geregelt.",
+      "workbook_text_ko": "(1) 국가는 도로 구분한다.\n(2) 도를 군·시·농촌 자치단체 및 그 밖의 자치단체 연합체로 구분하는 것과 자치단체 연합체의 조직·권리·의무는 법률로 정한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_093",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "93",
+      "original_text": "地方公共団体には、法律の定めるところにより、その議事機関として議会を設置する。\n２　地方公共団体の長、その議会の議員及び法律の定めるその他の吏員は、その地方公共団体の住民が、直接これを選挙する。",
+      "workbook_text_ko": "①지방공공단체에는 법률이 정하는 바에 따라 그 의사기관으로서 의회를 설치한다.\n②지방공공단체의 장과 그 의회의 의원 및 법률이 정하는 그 밖의 공무원은 지방공공단체의 주민이 직접 선거로 선출한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_104",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "104",
+      "original_text": "凡事務有因地制宜之性質者，劃爲地方自治事項。\n地方自治事項，以法律定之。",
+      "workbook_text_ko": "각 지역의 사정에 맞추어 처리할 성질의 사무는 모두 지방자치사항으로 구분한다.\n지방자치사항은 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_115",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "115",
+      "original_text": "市議會之組織職權，市議員之選舉罷免，市政府之組織及市長之選舉罷免，以法律定之。",
+      "workbook_text_ko": "시의회의 조직·직권, 시의원의 선거·파면, 시정부의 조직 및 시장의 선거·파면은 법률로 정한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_092",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "92",
+      "original_text": "地方公共団体の組織及び運営に関する事項は、地方自治の本旨に基いて、法律でこれを定める。",
+      "workbook_text_ko": "지방공공단체의 조직 및 운영에 관한 사항은 지방자치의 본지에 따라 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_112",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "112",
+      "original_text": "省得召集省民代表大會，依據省縣自治通則，制定省自治法，但不得與憲法牴觸。\n省民代表大會之組織及選舉，以法律定之。",
+      "workbook_text_ko": "省은 省民 代表大會를 召集하고 省縣自治通則에 依據하여 省自治法을 制定할 수 있다. 但 憲法에 抵觸되는 規定은 定할 수 없다.\n  省民代表大會의 組織과 選擧에 關하여는 法律로써 定한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_040",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "40",
+      "original_text": "地方自治團體의 區域組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "지방자치단체의 구역·조직 및 권한은 법률로써 정함."
+    }
+  ]
+}

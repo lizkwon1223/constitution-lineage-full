@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_081",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "81",
+    "original_text": "大法院은 法律의 定하는 바에 依하여 命令, 規則과 處分이 憲法과 法律에 違反되는 與否를 最終的으로 審査할 權限이 있다.\n法律이 憲法에 違反되는 與否가 裁判의 前提가 되는 때에는 法院은 憲法委員會에 提請하여 그 決定에 依하여 裁判한다.\n憲法委員會는 副統領을 委員長으로 하고 大法官 5人과 國會議員 5人의 委員으로 構成한다.\n憲法委員會에서 違憲決定을 할 때에는 委員 3分之 2以上의 贊成이 있어야 한다.\n憲法委員會의 組織과 節次는 法律로써 定한다.",
+    "workbook_text_ko": "대법원은 법률의 정하는 바에 의하여 명령, 규칙과 처분이 헌법과 법률에 위반되는 여부를 최종적으로 심사할 권한이 있다.\n법률이 헌법에 위반되는 여부가 재판의 전제가 되는 때에는 법원은 헌법위원회에 제청하여 그 결정에 의하여 재판한다.\n헌법위원회는 부통령을 위원장으로 하고 대법관 5인과 국회의원 5인의 위원으로 구성한다.\n헌법위원회에서 위헌결정을 할 때에는 위원 3분지 2이상의 찬성이 있어야 한다.\n헌법위원회의 조직과 절차는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_081",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "81",
+      "original_text": "最高裁判所は、一切の法律、命令、規則又は処分が憲法に適合するかしないかを決定する権限を有する終審裁判所である。",
+      "workbook_text_ko": "최고재판소는 모든 법률, 명령, 규칙 또는 처분이 헌법에 적합한지 여부를 결정할 권한을 가진 종심재판소이다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_140",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "140",
+      "original_text": "(1) Der Verfassungsgerichtshof erkennt über Verfassungswidrigkeit eines Bundes- oder Landesgesetzes auf Antrag des Obersten Gerichtshofes oder des Verwaltungsgerichtshofes, sofern ein solches Gesetz die Voraussetzung eines Erkenntnisses des antragstellenden Gerichtshofes bildet, ferner von Amts wegen dann, wenn ein solches Gesetz die Voraussetzung für ein Erkenntnis des Verfassungsgerichtshofes selbst bildet; über Verfassungswidrigkeit von Landesgesetzen auch auf Antrag der Bundesregierung; über Verfassungswidrigkeit von Bundesgesetzen auch auf Antrag einer Landesregierung.\n(2) Der im Absatz 1 erwähnte Antrag kann jederzeit gestellt werden; er ist vom Antragsteller sofort der zuständigen Landesregierung oder der Bundesregierung bekanntzugeben.\n(3) Das Erkenntnis des Verfassungsgerichtshofes, mit dem ein Gesetz oder ein bestimmter Teil eines solchen als verfassungswidrig aufgehoben wird, verpflichtet den Bundeskanzler oder den zuständigen Landeshauptmann zur unverzüglichen Kundmachung der Aufhebung; die Aufhebung tritt am Tage der Kundmachung in Kraft, wenn nicht der Verfassungsgerichtshof für das Außerkrafttreten eine Frist bestimmt. Diese Frist darf ein Jahr nicht überschreiten.\n(4) Wird durch ein Erkenntnis des Verfassungsgerichtshofes ein Gesetz oder ein Teil eines solchen als verfassungswidrig aufgehoben, so treten mit dem Tag des Inkrafttretens der Aufhebung, falls das Erkenntnis nicht anderes ausspricht, die gesetzlichen Bestimmungen wieder in Wirksamkeit, die durch das vom Verfassungsgerichtshof als verfassungswidrig erkannte Gesetz aufgehoben worden waren. In der Kundmachung über die Aufhebung des Gesetzes ist auch zu verlautbaren, ob und welche gesetzlichen Bestimmungen wieder in Kraft treten.\n(5) Das Finanz-Verfassungsgesetz bestimmt, inwieweit Landtagsbeschlüsse über Landeszuschläge zu den Bundessteuern beim Verfassungsgerichtshof angefochten werden können und welche rechtlichen Wirkungen mit einem Erkenntnis des Verfassungsgerichtshofes, das die Aufhebung eines solchen Landtagsbeschlusses oder eines Landesgesetzes über Landes- oder Gemeindeabgaben ausspricht, verbunden sind.\n(6) Die Bestimmung des Artikels 89, Absatz 1, gilt nicht für die Prüfung der Verfassungsmäßigkeit von Gesetzen durch den Verfassungsgerichtshof.",
+      "workbook_text_ko": "(1) 헌법재판소는 연방법률 또는 주법률이 신청 법원의 재판에 전제가 되는 경우 최고법원 또는 행정재판소의 신청에 따라 그 법률의 위헌성을 재판한다. 그러한 법률이 헌법재판소 자신의 재판에 전제가 되는 경우에는 직권으로 재판한다. 주법률의 위헌성은 연방정부의 신청에 의해서도, 연방법률의 위헌성은 주정부의 신청에 의해서도 재판한다.\n(2) 제1항의 신청은 언제든지 할 수 있다. 신청인은 이를 즉시 관할 주정부 또는 연방정부에 알려야 한다.\n(3) 법률 또는 그 특정 부분을 위헌이라고 하여 폐지하는 헌법재판소의 결정에 따라 연방총리 또는 관할 주지사는 지체 없이 폐지를 공고할 의무를 진다. 헌법재판소가 효력 상실의 기한을 정하지 않은 한 폐지는 공고일에 효력이 발생한다. 그 기한은 1년을 넘을 수 없다.\n(4) 헌법재판소의 결정으로 법률 또는 그 일부를 위헌이라고 하여 폐지하면, 결정에서 달리 선언하지 않은 한 폐지의 효력이 발생하는 날에 그 위헌 법률로 폐지되었던 법률규정들이 다시 효력을 가진다. 법률 폐지의 공고에는 어떤 법률규정이 다시 시행되는지 또는 다시 시행되는 규정이 없는지도 알려야 한다.\n(5) 연방세에 대한 주 부가세에 관한 주의회의 의결을 헌법재판소에서 다툴 수 있는 범위와, 그러한 의결 또는 주·지방자치단체 공과금에 관한 주법률의 폐지를 선언하는 헌법재판소 결정의 법적 효과는 재정헌법률로 정한다.\n(6) 제89조 제1항은 헌법재판소의 법률 합헌성 심사에는 적용하지 않는다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_091",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "91",
+      "original_text": "Le Comité constitutionnel est présidé par le président de la République.\nIl comprend le président de l'Assemblée nationale, le président du Conseil de la République, sept membres élus par l'Assemblée nationale au début de chaque session annuelle à la représentation proportionnelle des groupes, et choisis en dehors de ses membres, trois membres élus dans les mêmes conditions par le Conseil de la République.\nLe Comité constitutionnel examine si les lois votées par l'Assemblée nationale supposent une révision de la Constitution.",
+      "workbook_text_ko": "헌법위원회(Comité constitutionnel)는 공화국대통령이 주재한다.\n헌법위원회에는 국민의회의장, 공화국평의회의장, 매년 회기 초에 단체\n(group)의 비례대표로서 또 국민의회의원 이외로부터 국민의회가 선출하는\n7인의 위원, 동일한 조건으로 공화국평의회가 선출하는 3인의 위원을 포함\n한다.\n헌법위원회는 국민의회가 의결한 법률이 헌법개정을 전제로 하는가의 여\n부를 심사한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_IX",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "IX",
+      "original_text": "Section 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSec. 2. The Commission on Impeachment of the National Assembly, by a vote of two-thirds of its Members, shall have the sole power of impeachment.\nSec. 3. The National Assembly shall have the sole power to try all impeachments. When sitting for that purpose the Members shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members who do not belong to the Commission on Impeachment.\nSec. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 국민의회 탄핵위원회는 위원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 국민의회는 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 탄핵위원회에 속하지 않는 전체 의원의 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_089",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "89",
+      "original_text": "(1) Die Prüfung der Gültigkeit gehörig kundgemachter Gesetze steht den Gerichten nicht zu.\n(2) Hat ein Gericht gegen die Anwendung einer Verordnung aus dem Grund der Gesetzwidrigkeit Bedenken, so hat es das Verfahren zu unterbrechen und den Antrag auf Aufhebung dieser Verordnung beim Verfassungsgerichtshof zu stellen.\n(3) Ist die vom Gericht anzuwendende Verordnung bereits außer Kraft getreten, so hat der Antrag des Gerichtes die Entscheidung zu begehren, daß die Verordnung gesetzwidrig war.\n(4) Ist die vom Gericht anzuwendende Verordnung durch ein Erkenntnis des Verfassungsgerichtshofes aus dem Grunde der Gesetzwidrigkeit aufgehoben worden, so ist das Gericht, ohne den im Absatz 3 bezeichneten Antrag zu stellen, an die Rechtsanschauung des Verfassungsgerichtshofes gebunden.",
+      "workbook_text_ko": "(1) 적법하게 공포된 법률의 유효성을 심사할 권한은 법원에 없다.\n(2) 법원이 명령의 위법성을 이유로 그 적용에 의문을 가지면 절차를 중단하고 헌법재판소에 그 명령의 폐지를 신청하여야 한다.\n(3) 법원이 적용하여야 할 명령이 이미 효력을 잃었다면, 법원의 신청은 그 명령이 위법하였다는 결정을 구하여야 한다.\n(4) 법원이 적용하여야 할 명령이 위법성을 이유로 헌법재판소의 결정에 의하여 폐지되었다면, 법원은 제3항의 신청을 하지 않고 헌법재판소의 법적 견해에 구속된다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_140",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "140",
+      "original_text": "(1) Der Verfassungsgerichtshof erkennt über Verfassungswidrigkeit von Landesgesetzen auf Antrag der Bundesregierung, über Verfassungswidrigkeit von Bundesgesetzen auf Antrag einer Landesregierung, sofern aber ein solches Gesetz die Voraussetzung eines Erkenntnisses des Verfassungsgerichtshofes bilden soll, von Amts wegen.\n(2) Der im Absatz 1 erwähnte Antrag kann jederzeit gestellt werden; er ist vom Antragsteller sofort der zuständigen Landesregierung oder der Bundesregierung bekanntzugeben.\n(3) Das Erkenntnis des Verfassungsgerichtshofes, mit dem ein Gesetz als verfassungswidrig aufgehoben wird, verpflichtet den Bundeskanzler oder den zuständigen Landeshauptmann zur unverzüglichen Kundmachung der Aufhebung; die Aufhebung tritt am Tag der Kundmachung in Kraft, wenn nicht der Verfassungsgerichtshof für das Außerkrafttreten eine Frist bestimmt. Diese Frist darf sechs Monate nicht überschreiten.\n(4) Die Bestimmung des Artikels 89, Absatz 1, gilt nicht für die Prüfung der Verfassungsmäßigkeit von Gesetzen durch den Verfassungsgerichtshof.",
+      "workbook_text_ko": "(1) 헌법재판소는 연방정부의 신청에 따라 주법률의 위헌성을, 주정부의 신청에 따라 연방법률의 위헌성을 재판한다. 그러한 법률이 헌법재판소 재판의 전제가 되는 경우에는 직권으로 재판한다.\n(2) 제1항의 신청은 언제든지 할 수 있다. 신청인은 이를 즉시 관할 주정부 또는 연방정부에 알려야 한다.\n(3) 법률을 위헌이라고 하여 폐지하는 헌법재판소의 결정에 따라 연방총리 또는 관할 주지사는 지체 없이 폐지를 공고할 의무를 진다. 헌법재판소가 효력 상실의 기한을 정하지 않은 한 폐지는 공고일에 효력이 발생한다. 그 기한은 6개월을 넘을 수 없다.\n(4) 제89조 제1항은 헌법재판소의 법률 합헌성 심사에는 적용하지 않는다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_032",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "32",
+      "original_text": "國民大會之職權如左：\n一、選舉總統副總統、立法院院長副院長、監察院院長副院長、立法委員、監察委員。\n二、罷免總統副總統、立法、司法、考試、監察各院院長副院長、立法委員、監察委員。\n三、創制法律。\n四、複決法律。\n五、修改憲法。\n六、憲法賦予之其他職權。",
+      "workbook_text_ko": "국민대회의 직권은 다음과 같다.\n1. 총통·부총통, 입법원 원장·부원장, 감찰원 원장·부원장, 입법위원 및 감찰위원을 선출한다.\n2. 총통·부총통, 입법원·사법원·고시원·감찰원 각 원의 원장·부원장, 입법위원 및 감찰위원을 파면한다.\n3. 법률을 발안한다.\n4. 법률을 복결한다.\n5. 헌법을 개정한다.\n6. 헌법이 부여한 그 밖의 직권을 행사한다."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_101",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정의 발의·국민승인·공포 절차를 규율하는 조항으로, 제헌국회의 특별법 제정권한이라는 대상 조문의 규율 요소와 대응하는 부분이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_097",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법제정의회 의원이라는 '헌법을 제정한 기관'이 경과규정에서 다시 등장한다는 점에서 소재상 유사하나, 내용은 예외적 사정에서의 소집 절차일 뿐 특별법 제정권한이나 처벌·소급 시점과 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_112",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "省의 自治法 제정 권한과 헌법 저촉 금지를 규율하는 지방자치 조항으로, '得…制定…法'이라는 일반적 문형만 겹칠 뿐 주체·대상·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "부칙에서 '헌법을 제정한 의회'를 주체로 명시하여 특별한 입법·의결 권한을 부여하는 문형이 구체적으로 대응한다. 다만 부여되는 권한의 내용(시행 준비절차 의결 vs 반민족행위 처벌 특별법 제정)은 다르므로 대응 범위는 주체 지정 문형과 부칙적 수권 구조에 한정된다.",
+      "evidence": [
+        {
+          "element": "수권 주체(헌법을 제정한 의회)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "由制定憲法之國民大會議定之",
+          "commonality": "헌법 제정 주체인 의회 자신을 부칙에서 다시 권한 주체로 지목하여 헌법 시행 이후의 사무를 맡긴다는 구성이 같다.",
+          "difference": "대상은 단원제 '國會'이고 후보는 '國民大會'로 기관이 다르며, 대상은 '제정할 수 있다'는 재량적 수권인 반면 후보는 준비절차를 해당 기관이 의정한다는 관할 배정이다."
+        },
+        {
+          "element": "부칙에서의 별도 입법 수권",
+          "target_field": "workbook_text_ko",
+          "target_quote": "처벌하는 특별법을 제정할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "有另定實施程序之必要者，以法律定之",
+          "commonality": "헌법 본문과 별도로 특별한 법률을 마련할 수 있도록 부칙에서 근거를 두는 점이 공통된다.",
+          "difference": "후보는 시행절차를 정하는 일반 법률 유보이고, 대상은 특정 시점 이전 행위를 소급 처벌하는 형사 특별법의 제정 권한이라는 점에서 효과가 크게 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_122",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "縣의 자치법 제정과 헌법·省자치법 저촉 금지를 다루는 조항으로, 대상 조문의 주체·대상 행위·처벌 효과와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법 시행에 필요한 법률 제정 등을 부칙에서 허용하는 경과규정이라는 점에서 기능적 유사성이 있으나, 권한 주체를 '헌법을 제정한 의회'로 특정하지 않고 처벌·소급 요소도 없어 구체적 규율 요소의 대응은 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_113",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "장래 '특별법(besonderes Gesetz)'으로 범법행위를 규율한다는 점에서 어휘상 겹치나, 제정 주체 지정이 없고 대상이 표현에 의한 범죄이며 형법 개정 전까지라는 조건 구조여서 제헌국회의 소급적 반민족행위 처벌 수권과 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "단기 4278년 8월 15일 이전이라는 소급 적용 기준시점",
+    "'악질적인 반민족행위'라는 처벌 대상 행위의 특정",
+    "형사처벌을 내용으로 하는 소급입법 수권의 효과"
+  ],
+  "limitations": [
+    "문언 대응 여부만 검토했으며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "후보 중 소급 처벌·반민족행위라는 실질 내용을 담은 조항은 없어, 해당 요소의 연원은 제시 자료로 판단할 수 없다."
+  ],
+  "short_answer": "검토 대상 중에서는 중화민국헌법 제175조가 '制定憲法之國民大會'라는 표현으로 헌법을 제정한 의회 자신을 부칙상 권한 주체로 지목하는 점에서 대상 조문의 '이 憲法을 制定한 國會는'과 구체적으로 대응하여 선택할 만하다. 다만 대응 범위는 주체 지정 문형과 부칙적 수권 구조에 한정되고, 부여되는 권한이 시행 준비절차 의결인지 형사 특별법 제정인지는 전혀 다르다. 일본국헌법 제100조와 프로이센헌법 제113조는 각각 경과규정상 법률 제정 허용, '특별법' 어휘라는 점에서 일반적 유사성만 있고 주체·대상·효과가 일치하지 않는다. 나머지 후보(일본 제96조, 프랑스 제97조, 중화민국 제112·122조)는 개정절차·의회 소집·지방자치 입법으로 대응 요소가 없다. 반민족행위의 소급 처벌과 1945년 8월 15일이라는 기준시점은 제시된 후보로 설명되지 않는다."
+}

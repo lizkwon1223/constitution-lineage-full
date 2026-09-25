@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_047",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "47",
+    "original_text": "彈劾事件을 審判하기 爲하여 法律로써 彈劾裁判所를 設置한다.\n彈劾裁判所는 副統領이 裁判長의 職務를 行하고 大法官 5人과 國會議員 5人이 審判官이 된다. 但, 大統領과 副統領을 審判할 때에는 大法院長이 裁判長의 職務를 行한다.\n彈劾判決은 審判官 3分之 2以上의 贊成이 있어야 한다.\n彈劾判決은 公職으로부터 罷免함에 그친다. 但, 이에 依하여 民事上이나 刑事上의 責任이 免除되는 것은 아니다.",
+    "workbook_text_ko": "탄핵사건을 심판하기 위하여 법률로써 탄핵재판소를 설치한다.\n탄핵재판소는 부통령이 재판장의 직무를 행하고 대법관 5인과 국회의원 5인이 심판관이 된다. 단, 대통령과 부통령을 심판할 때에는 대법원장이 재판장의 직무를 행한다.\n탄핵판결은 심판관 3분지 2이상의 찬성이 있어야 한다.\n탄핵판결은 공직으로부터 파면함에 그친다. 단, 이에 의하여 민사상이나 형사상의 책임이 면제되는 것은 아니다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_078",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "78",
+      "original_text": "裁判官は、裁判により、心身の故障のために職務を執ることができないと決定された場合を除いては、公の弾劾によらなければ罷免されない。裁判官の懲戒処分は、行政機関がこれを行ふことはできない。",
+      "workbook_text_ko": "재판관은 심신의 장해로 직무를 수행할 수 없음이 재판에 의하여 결정된 경우를 제외하고는, 공적인 탄핵에 의하지 아니하고 파면되지 아니한다. 재판관의 징계처분은 행정기관이 할 수 없다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_012",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "12",
+      "original_text": "Le Président de la République ne peut être mis en accusation que par la Chambre des députés, et ne peut être jugé que par le Sénat. - Les ministres peuvent être mis en accusation par la Chambre des députés pour crimes commis dans l'exercice de leurs fonctions. En ce cas, ils sont jugés par le Sénat. - Le Sénat peut être constitué en Cour de justice par un décret du Président de la République, rendu en Conseil des ministres, pour juger toute personne prévenue d'attentat contre la sûreté de l'Etat. - Si l'instruction est commencée par la justice ordinaire, le décret de convocation du Sénat peut être rendu jusqu'à l'arrêt de renvoi. - Une loi déterminera le mode de procéder pour l'accusation, l'instruction et le jugement.",
+      "workbook_text_ko": "공화국대통령은 하원에 의하지 아니하면 소추되지 아니하며, 상원에\n의하지 아니하면 재판받지 아니한다.\n장관은 그 직무집행에서 범한 중죄에 대해서 하원이 소추할 수 있다. 이 경\n우 장관은 상원에 의해서 재판을 받는다.\n상원은 국가의 안전에 대한 침해의 피고인을 재판하기 위하여 각의에서 행\n한 대통령의 명령(décret)으로 사법원으로 구성될 수 있다.\n예심(instruction)이 통상재판소(justice ordinaire)에서 개시된 때에도 이송결정이 있을 때까지는 상원 소집 명령(décret)을 발할 수 있다.\n법률로 소추ㆍ예심 및 판결에 대한 방법을 정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_092",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "92",
+      "original_text": "監察院對於中央及地方公務員違法或失職時，經監察委員一人以上之提議，五人以上之審查決定，提出彈劾案，但對於總統副總統及行政立法司法考試監察各院院長副院長之彈劾案，須有監察委員十人以上之提議，全體監察委員二分一以上之審查決定，始得提出。",
+      "workbook_text_ko": "중앙 및 지방 공무원이 법을 위반하거나 직무를 태만히 한 때에는 감찰원은 감찰위원 1명 이상의 제의와 5명 이상의 심사·결정을 거쳐 탄핵안을 제출한다. 다만, 총통·부총통 및 행정원·입법원·사법원·고시원·감찰원 각 원의 원장·부원장에 대한 탄핵안은 감찰위원 10명 이상의 제의와 전체 감찰위원 2분의 1 이상의 심사·결정이 있어야 제출할 수 있다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_IX",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "IX",
+      "original_text": "SECTION 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSEC. 2. The House of Representatives, by a vote of two-thirds of all its Members, shall have the sole power of impeachment.\nSEC. 3. The Senate shall have the sole power to try all impeachments. When sitting for that purpose, the Senators shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members of the Senate.\nSEC. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 하원은 재적의원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 상원은 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 상원의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 상원 재적의원 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_IX",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "IX",
+      "original_text": "Section 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSec. 2. The Commission on Impeachment of the National Assembly, by a vote of two-thirds of its Members, shall have the sole power of impeachment.\nSec. 3. The National Assembly shall have the sole power to try all impeachments. When sitting for that purpose the Members shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members who do not belong to the Commission on Impeachment.\nSec. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 국민의회 탄핵위원회는 위원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 국민의회는 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 탄핵위원회에 속하지 않는 전체 의원의 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_079",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "79",
+      "original_text": "最高裁判所は、その長たる裁判官及び法律の定める員数のその他の裁判官でこれを構成し、その長たる裁判官以外の裁判官は、内閣でこれを任命する。\n２　最高裁判所の裁判官の任命は、その任命後初めて行はれる衆議院議員総選挙の際国民の審査に付し、その後十年を経過した後初めて行はれる衆議院議員総選挙の際更に審査に付し、その後も同様とする。\n３　前項の場合において、投票者の多数が裁判官の罷免を可とするときは、その裁判官は、罷免される。\n４　審査に関する事項は、法律でこれを定める。\n５　最高裁判所の裁判官は、法律の定める年齢に達した時に退官する。\n６　最高裁判所の裁判官は、すべて定期に相当額の報酬を受ける。この報酬は、在任中、これを減額することができない。",
+      "workbook_text_ko": "①최고재판소는 그 장인 재판관 및 법률이 정하는 수의 그 밖의 재판관으로 구성하고, 그 장인 재판관 이외의 재판관은 내각에서 임명한다.\n②최고재판소의 재판관 임명은 임명 후 최초로 실시되는 중의원 의원 총선거에서 국민심사에 회부하고, 그 후 10년이 경과한 후 최초로 실시되는 중의원 의원 총선거에서 다시 국민심사에 회부하며, 그 이후도 이와 마찬가지로 한다.\n③제2항의 경우 투표자의 다수가 재판관의 파면에 찬성한 때에는 그 재판관은 파면된다.\n④국민심사에 관한 사항은 법률로 정한다.\n⑤최고재판소의 재판관은 법률이 정하는 연령에 달한 때에 퇴직한다.\n⑥최고재판소의 재판관은 모두 정기적으로 상당액의 보수를 받는다. 보수는 재임 중에 감액할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_064",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "64",
+      "original_text": "国会は、罷免の訴追を受けた裁判官を裁判するため、両議院の議員で組織する弾劾裁判所を設ける。\n２　弾劾に関する事項は、法律でこれを定める。",
+      "workbook_text_ko": "①국회는 파면의 소추를 받은 재판관을 재판하기 위하여 양원의 의원으로 구성하는 탄핵재판소를 설치한다.\n②탄핵에 관한 사항은 법률로 정한다."
+    }
+  ]
+}

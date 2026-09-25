@@ -1,0 +1,198 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_055",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령과 부통령의 임기를 한 조항에서 함께 규율하고 부통령이 대통령과 '같은 임기'로 선출된다고 정한 점이, 대상 조문의 부통령 임기 연동(대통령 재임중 재임) 요소와 구체적으로 대응한다. 다만 임기 연수(6년)와 중임 규율(즉시 재선 금지)은 대상과 반대 방향이어서 대응 범위를 이 두 요소에 한정한다.",
+      "evidence": [
+        {
+          "element": "대통령·부통령 임기의 공동 규율 및 부통령 임기의 대통령 임기 연동",
+          "target_field": "original_text",
+          "target_quote": "副統領은 大統領在任中 在任한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "together with the Vice-President chosen for the same term",
+          "commonality": "부통령의 임기를 대통령의 임기에 연동시켜 같은 기간으로 삼는 규율을 둔 점",
+          "difference": "후보는 '동일 임기로 선출'이라는 선거 측면의 규정이고, 대상은 '대통령 재임중 재임'이라는 재임기간 연동 규정이다"
+        },
+        {
+          "element": "임기 연수",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領의 任期는 4年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "The President shall hold his office during a term of six years",
+          "commonality": "대통령 임기를 헌법에 연수로 확정한 형식",
+          "difference": "연수가 4년 대 6년으로 다르다"
+        },
+        {
+          "element": "중임 규율",
+          "target_field": "workbook_text_ko",
+          "target_quote": "단, 재선에 의하여 1차중임할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "No person elected President may be reëlected for the following term",
+          "commonality": "재선 가능성 자체를 헌법에서 명시적으로 제한하는 조항을 둔 점",
+          "difference": "대상은 1차 중임을 허용하나 후보는 연속 임기 재선을 금지하여 규율 방향이 반대다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "정·부수반의 임기를 하나의 조문에서 '4년'으로 정하는 문형과 '但' 단서 구조가 대상과 구체적으로 대응한다. 다만 단서의 내용이 중임 허용이 아니라 최초 임기의 경과규정이라는 점에서 규율 대상이 다르다.",
+      "evidence": [
+        {
+          "element": "임기 연수와 주체 결합",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領의 任期는 4年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席 及 副主席의 任期는 四年으로 함",
+          "commonality": "정·부수반을 함께 묶어 임기를 4년으로 정한 문언 구조와 연수가 일치",
+          "difference": "주체 명칭이 대통령·부통령과 정부주석·부주석으로 다르다"
+        },
+        {
+          "element": "단서 구조",
+          "target_field": "original_text",
+          "target_quote": "但, 再選에 依하여 1次重任할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但 最初의 政府主席 及 副主席의 任期는 國民投票로써 次期 主席 及 副主席이 選出될 때까지로 함",
+          "commonality": "본문에서 임기를 정한 뒤 '但' 단서를 두어 예외를 규정하는 형식",
+          "difference": "대상 단서는 중임 허용이고 후보 단서는 최초 임기에 관한 경과적 예외로 내용이 전혀 다르며, 후보에는 부수반 임기 연동 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "총통·부총통의 임기를 한 문장에서 함께 정하고 '連選得連任一次'로 1회 중임을 허용하는 구조가 대상의 '재선에 의하여 1차중임할 수 있다'와 문형·규율 내용 모두에서 구체적으로 대응한다. 임기 연수와 부통령 재임 연동 규정 유무는 다르다.",
+      "evidence": [
+        {
+          "element": "중임 제한(1회)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "단, 재선에 의하여 1차중임할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "連選得連任一次",
+          "commonality": "재선을 통해 단 1회만 중임할 수 있다는 동일한 규율과 표현 구조",
+          "difference": "대상은 '但' 단서로 분리하여 규정하고, 후보는 임기 규정과 한 문장에 연결한다"
+        },
+        {
+          "element": "임기 연수와 주체 결합",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領의 任期는 4年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統副總統之任期為六年",
+          "commonality": "정·부수반의 임기를 하나로 묶어 연수로 확정",
+          "difference": "연수가 4년 대 6년이며, 후보에는 부통령이 대통령 재임중 재임한다는 연동 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_049",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "총통·부총통 임기의 공동 규정과 '連選得連任一次'라는 1회 중임 허용 문형이 대상과 대응한다. 임기 연수(6년)와 부통령 재임 연동 조항 부재가 차이다.",
+      "evidence": [
+        {
+          "element": "중임 제한(1회)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "재선에 의하여 1차중임할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "連選得連任一次",
+          "commonality": "재선에 의한 1회 중임 허용이라는 동일한 규율",
+          "difference": "후보는 임기 문장에 이어 붙였고 단서 형식이 아니다"
+        },
+        {
+          "element": "임기 연수와 주체 결합",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領의 任期는 4年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統、副總統之任期均爲六年",
+          "commonality": "정·부수반의 임기를 동일 조문에서 함께 확정",
+          "difference": "연수가 4년 대 6년이고, 후보에는 부통령의 재임 연동 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "제1원의 입법기를 6년으로 정한 의회 관련 규정으로, 대통령·부통령의 임기나 중임과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령과 부통령의 임기를 함께 언급하지만 임기 종료 시점·승계·직무대행을 정할 뿐 임기 연수나 중임 횟수, 부통령의 재임 연동을 규율하지 않아 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기를 연수로 정하고 재선을 1회만 허용하는 점은 겹치나, 연수가 6년이고 '직후 임기'로 한정되며 부통령에 관한 규정이 없어 전체 조문 취지상 일반적 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "임기 7년에 재선 횟수 제한이 없는 규율로, 대상의 1차 중임 제한과 대비된다. 선출 주체(양원 합동 국민의회)도 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_043",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "임기 7년에 재선을 무제한 허용하여 대상의 1회 중임 제한과 대비되며, 부통령 규정도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_042",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회 회기와 그 연장에 관한 규정으로 대상과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "1회에 한한 재선 허용이라는 점은 겹치지만 임기가 7년이고 선출 주체(국회)에 관한 규정이 중심이며 부통령 관련 규율이 없어 일반적 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "최고인민회의 대의원의 임기 규정으로 주체와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회 임기 4년과 임기 만료 전 선거 실시 규정으로, 연수만 우연히 같을 뿐 주체와 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_080",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기를 정하고 재임을 허용하는 형식은 유사하나 대상 직위가 하급재판소 재판관이고 횟수 제한도 없어 구체적 대응이 아니다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'부통령은 대통령재임중 재임한다'는 부통령 임기의 완전 연동 규정 — 필리핀헌법의 '같은 임기로 선출' 규정이 부분적으로만 대응하고, 재임 중 연동 자체를 정한 후보 문언은 확인되지 않는다",
+    "임기 4년과 1차 중임을 결합한 조합(중화민국계 문형은 6년, 조선임시약헌은 중임 규정 없음)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 어떤 후보가 실제로 참조되었는지는 제공 자료만으로 확정할 수 없다",
+    "중화민국 후보들의 workbook_text_ko는 대상 조문과 거의 같은 한국어 용어로 번역되어 있어 번역문 비교는 유사성을 과장할 수 있으므로 원문 인용을 기준으로 판단했다"
+  ],
+  "short_answer": "검토 결과 중화민국헌법 제47조와 五五憲草 제49조는 '總統副總統之任期…連選得連任一次'라는 문형으로 정·부수반 임기의 공동 규정과 1회 중임 허용을 동시에 담아 대상 조문 제1문·단서와 가장 구체적으로 대응한다(연수는 6년 대 4년). 조선임시약헌 제20조는 정·부수반 임기를 '四年'으로 묶어 정하고 '但' 단서를 두는 구조가 대응하나 단서 내용은 최초 임기 경과규정이다. 필리핀헌법 제7조는 부통령이 대통령과 '같은 임기'로 선출된다는 점에서 부통령 임기 연동 요소와 부분 대응하지만, 연속 재선을 금지하여 중임 규율은 반대 방향이다. 오스트리아 제60조 제5항과 프랑스 제4공화국 제29조는 1회 재선 제한이라는 점만 겹치고 연수·부통령 규정이 달라 일반적 유사로 보았으며, 프랑스 1875년법과 바이마르 제43조는 무제한 재선으로 대비된다. 이상은 문언 대응 평가이며 역사적 참조 여부를 확정하는 것은 아니다."
+}

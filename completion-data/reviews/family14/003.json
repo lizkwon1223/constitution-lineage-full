@@ -1,0 +1,67 @@
+{
+  "article": 3,
+  "reviewed_at": "2026-09-22T15:07:43.844321+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "4282f08c770bc1dab912ba40ace3873adc937c56d8878677df2146f0f55a84c3",
+  "input_sha256": "47decbcad5e8a700475f8c337d7dbc0376841cf948eeec04a6c4a6c025283e6c",
+  "responses": [
+    {
+      "job_id": "003_f9dcb1287a10_r1",
+      "repeat": 1,
+      "sha256": "3d7a3fa7f464c066929d00e020a7547d81a3f8e5e2a4dd4e68f8cff2507f4c86",
+      "assessment": "일본 두 헌법과 약헌의 대응 및 규정형·준거형·정의형 구별은 타당함. 바이마르의 부분 대응을 보완하고 필리핀의 법률 유보 범위를 바로잡아야 함."
+    },
+    {
+      "job_id": "003_f9dcb1287a10_r2",
+      "repeat": 2,
+      "sha256": "7014e7fa1cea0a8360016cec9e6ea17dee86dcae4fdda9c11101d5998ebdd542",
+      "assessment": "주된 문형 비교는 타당함. 바이마르 비선택 기준, 필리핀 재취득 부분의 누락, 五五憲草에서 명시되지 않은 국적법 위임의 추론을 한정해야 함."
+    },
+    {
+      "job_id": "003_f9dcb1287a10_r3",
+      "repeat": 3,
+      "sha256": "c8713d7e48f5937afa38698d799c17c4d5d7cc854a96e355c30e34946aa997ee",
+      "assessment": "바이마르의 국적 취득·상실 법률 유보까지 부분 대응으로 남긴 점은 타당함. 필리핀의 재취득도 법률에 유보되어 있음을 보완해야 함."
+    }
+  ],
+  "synthesis": "일본1946 제10조와 일본1889 제18조는 국민·신민이 되는 요건과 법률이라는 수단이 함께 대응함. 약헌은 법률에 따른 국적 보유자를 국민으로 정의하는 방식임. 바이마르 제110조도 국적 취득·상실의 법률 유보라는 부분 대응을 보이므로 문장이 길다는 이유로 버릴 필요가 없음. 필리핀은 헌법상 국민 범위를 열거하면서 귀화·상실·재취득에 법률을 연결하는 혼합 구조임. 일반적인 법률 위임 문구만 공유하는 후보와는 구별됨.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_110",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "국적 취득·상실의 법률 유보를 정확히 확인하였으나 연방·주 관계 등 추가 내용과 문형 차이로 제외함.",
+      "action": "법률 유보의 부분 대응을 보완하고 취득·상실 및 연방 구조의 차이를 명시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_IV",
+      "type": "scope_omission",
+      "severity": "minor",
+      "finding": "1회차는 상실·재취득만 법률에 맡긴다고 하여 제1절 제5호의 법률에 따른 귀화를 빠뜨림. 2·3회차는 귀화·상실만 언급하여 재취득을 빠뜨림.",
+      "action": "귀화는 제1절 제5호, 상실·재취득은 제2절의 법률 유보라고 정리함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_003",
+      "type": "unsupported_inference",
+      "severity": "minor",
+      "finding": "국적 보유자의 국민 정의만 있는 원문에서 사실상 국적법에 맡긴 취지까지 추론함.",
+      "action": "명시적 법률 위임이 없다는 사실과 추론을 분리함."
+    }
+  ],
+  "limits": [
+    "전면 위임은 해당 문장에 세부 요건이 없다는 뜻으로만 사용하며 입법자의 무제한 재량이라는 의미로 확대하지 않음."
+  ]
+}

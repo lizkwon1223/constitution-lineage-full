@@ -1,0 +1,151 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_075",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원제도·임용·보수·면직의 법률유보를 규정한 조항으로, 행정각부라는 조직단위의 조직·직무범위를 법률로 정한다는 대상 조문과 규율대상이 다르다. '법률로 정한다'는 상용 표현만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2문이 '行政各部의 組織 及 權限은 法律로써 定함'으로 대상 조문과 주체(행정각부)·규율대상(조직 및 권한/직무범위)·규율형식(법률로써 정한다)이 거의 문언 그대로 대응한다. 다만 문언 대응이지 역사적 영향의 확정은 아니다.",
+      "evidence": [
+        {
+          "element": "규율대상(행정각부의 조직)",
+          "target_field": "original_text",
+          "target_quote": "行政各部의 組織",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部의 組織",
+          "commonality": "규율 대상 단위를 '행정각부'로 특정하고 그 '조직'을 법정사항으로 삼는 표현이 동일하다.",
+          "difference": "후보는 같은 조에서 행정각부장 임명절차(국무총장 추천, 국무위원 중 임명)도 함께 규정하나 대상 조문은 조직·직무범위만 규정한다."
+        },
+        {
+          "element": "규율형식(법률유보 문형)",
+          "target_field": "original_text",
+          "target_quote": "法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律로써 定함",
+          "commonality": "'법률로써 정한다'는 동일한 법률유보 문형을 사용한다.",
+          "difference": "어미(定한다/定함)만 다르고 효과·절차상 차이는 확인되지 않는다."
+        },
+        {
+          "element": "법정사항의 범위(직무범위/권한)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "조직과 직무범위는 법률로써 정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "組織 及 權限은 法律로써 定함",
+          "commonality": "조직 외에 각부의 사무 영역(권한/직무범위)까지 법률로 정하도록 하는 점이 대응한다.",
+          "difference": "후보는 '권한'이라는 권능 중심 표현을, 대상은 '직무범위'라는 사무 범위 중심 표현을 쓴다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_010",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'行政各部'의 관제를 정하는 규율을 담고 있어 용어는 겹치지만, 규율주체가 천황이고 관제·봉급·임면을 천황이 정하는 구조여서 법률유보로 정하는 대상 조문과 방향이 반대다. 문형 대응이 아니라 대조 사례로만 의미가 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_063",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "성(부)의 수위인 상의 지위와 내각에 대한 복종을 규정할 뿐, 조직·직무범위의 법률유보 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "행정 각 부처 장관·공무원 임명 및 하급공무원 임명권의 법률 위임을 규정하나, 행정각부의 조직과 직무범위를 법률로 정한다는 규율 요소와의 구체적 대응은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'조직과 절차는 특별법으로 정한다'는 법률유보 문형이 유사하지만 대상 기관이 사법고등법원이고 규율사항이 절차이며 특별법을 요구하는 점에서 대응 요소가 일반적 수준에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "상원의 구성·임명방법·임무를 특별법으로 정한다는 점에서 조직·권한의 법률유보 형식이 비슷하지만, 대상 기관이 입법부 상원이고 선출방식까지 포함하는 등 규율요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'組織…以法律定之'라는 법률유보 문형이 유사하나 대상은 사법원과 각급 법원의 조직이고 직무범위 요소가 없어 주제가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_092",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조직·운영을 법률로 정한다는 형식은 유사하지만 대상이 지방공공단체이고 지방자치의 본지라는 기준이 부가되어 규율대상·조건이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원 조직의 법률유보만 규정하여 문형은 유사하나 대상 기관과 직무범위 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_084",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조세행정기관의 제도·권한 등을 제국법률로 정하도록 하는 조세행정 특유의 규율로, 행정각부 일반의 조직·직무범위 법정과는 규율대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_136",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'행정재판권과 행정재판소의 조직은 연방법률로 정한다'는 조직+권한의 법률유보 구조가 형식상 비슷하지만 대상이 행정재판소로 한정되어 있어 구체적 대응이 아니다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_080",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원법의 법률유보 규정으로, 행정각부의 조직·직무범위와는 규율대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행정기관의 '組織'을 법률로 정한다는 규율요소와 문형이 대응한다. 다만 대상이 행정원(내각 전체)이고 직무범위 요소가 없어 대응 범위는 '조직의 법률유보'에 한정된다.",
+      "evidence": [
+        {
+          "element": "행정기관 조직의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "組織과 職務範圍는 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政院之組織，以法律定之",
+          "commonality": "행정부 조직을 헌법이 직접 정하지 않고 법률에 위임하는 구조와 '조직…법률로 정한다'는 문형이 일치한다.",
+          "difference": "규율 단위가 행정각부(부처별)인 대상과 달리 후보는 행정원 전체이며, 후보에는 직무범위(권한)에 대한 법정 요구가 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'職務範圍'라는 표현 자체(약헌 제27조의 '權限'과 가장 가깝지만 용어가 다름)",
+    "행정각부라는 부처 단위별 분장 구조를 전제한 규율 방식"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했고, 실제 참조·기초 과정의 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "프랑스·오스트리아·프로이센·일본 조항은 번역문과 원문 모두 검토했으나 대상 기관이 달라 유사성은 문형 수준에 그친다."
+  ],
+  "short_answer": "조선임시약헌(1947) 제27조 제2문 '行政各部의 組織 及 權限은 法律로써 定함'이 대상 조문과 주체(행정각부)·법정사항(조직 및 권한/직무범위)·문형(법률로써 정한다)에서 거의 그대로 대응하여 후속 비교에 가장 유용하다. 중화민국헌법 제61조 '行政院之組織，以法律定之'도 행정기관 조직의 법률유보라는 요소가 대응하지만, 규율 단위가 행정원 전체이고 직무범위 요소가 없어 대응 범위가 한정된다. 대일본제국헌법 제10조는 '行政各部' 용어를 공유하나 관제를 천황이 정하는 구조여서 법률유보와는 대조된다. 프랑스·프로이센·오스트리아·중화민국 五五憲草·일본국헌법의 조항들은 '조직은 법률로 정한다'는 상용 문형만 겹치고 대상 기관이 달라 일반적 유사성에 그친다. 이상은 문언 대응에 관한 판단이며 역사적 영향의 확정은 아니다."
+}

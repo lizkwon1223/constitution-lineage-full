@@ -1,0 +1,135 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_058",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "군주가 '법률의 집행을 위하여 필요한 명령을 발한다'는 집행명령 문형이 대상 조문 후단(법률을 실시하기 위하여 필요한 사항에 관한 명령)과 구체적으로 대응한다. 다만 위임명령 부분과 발령 주체·집행권 귀속 규정에서는 대응하지 않으므로 대응 범위는 집행명령 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "집행명령(법률 실시에 필요한 명령) 발령권",
+          "target_field": "original_text",
+          "target_quote": "法律을 實施하기 爲하여 必要한 事項에 關하여 命令을 發할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "erläßt die zu deren Ausführung nöthigen Verordnungen",
+          "commonality": "법률의 집행·실시에 필요한 범위에서 국가원수가 명령을 발한다는 규율이 일치한다.",
+          "difference": "대상은 '할 수 있다'는 권한 부여 형식이고 후보는 국왕의 직무로 서술되며, 후보는 법률 공포 명령·장관 임면·집행권 귀속까지 함께 규정하고 위임명령은 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 법률 공포·집행 감독 권한을 규정하나, 법률의 위임이나 집행에 필요한 '명령 발령권' 자체를 규율하지 않아 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률을 집행하기 위하여 필요한 명령을 발한다'는 집행명령 문형이 대상 조문 후단과 직접 대응한다. 다만 공공 안녕질서·신민 행복 목적의 독립명령과 명령에 의한 법률 변경 금지 단서는 대상에 없고, 위임명령 요소도 없어 대응 범위는 집행명령에 한정된다.",
+      "evidence": [
+        {
+          "element": "집행명령의 요건(법률 집행을 위하여 필요할 것)",
+          "target_field": "original_text",
+          "target_quote": "法律을 實施하기 爲하여 必要한 事項에 關하여 命令을 發할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律ヲ執行スル為ニ",
+          "commonality": "법률의 집행·실시를 목적으로 하는 필요성 요건 아래 명령을 발한다는 구조가 같다.",
+          "difference": "후보는 이에 더해 '공공ノ安寧秩序ヲ保持シ及臣民ノ幸福ヲ増進スル為ニ'라는 독립명령 근거를 병렬하고 '発セシム'(발하게 함)까지 포함한다."
+        },
+        {
+          "element": "명령의 한계에 관한 단서",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률에서 일정한 범위를 정하여 위임을 받은 사항",
+          "candidate_field": "original_text",
+          "candidate_quote": "但シ命令ヲ以テ法律ヲ変更スルコトヲ得ス",
+          "commonality": "명령권이 법률에 종속된다는 취지를 담고 있다는 점에서 통한다.",
+          "difference": "대상은 법률의 개별 위임과 그 범위 설정으로 한계를 설정하는 반면, 후보는 명령에 의한 법률 변경 금지라는 별도 금지 단서로 규율한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "'위임'이라는 어휘가 겹치나 이는 천황의 국사행위를 타인에게 위임하는 문제로, 법률이 명령에 사항을 위임하는 대상 조문의 규율과 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_148",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법 실시절차를 법률로 정한다는 규정으로, 대통령의 명령 발령권과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 법률 충실집행 의무(take care that the laws be faithfully executed)는 집행 책무일 뿐 위임명령·집행명령 발령권 조항과 문형이 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_055",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "의회 비집회 시 상설위원회 합의로 법률의 효력을 갖는 긴급명령을 발하고 사후 승인을 받는 구조로, 평상시 위임·집행명령을 규율하는 대상 조문과 요건·절차·효과가 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_037",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "총통의 법률 공포·명령 발포와 부서를 규정하나, 위임의 범위나 법률 실시 필요성이라는 대상 조문의 요건 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_018",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률에 근거하여' 자기 권한 범위 안에서 명령을 발한다는 점은 유사하나, 주체가 모든 행정관청이고 개별 법률의 위임 범위 설정이라는 대상 조문의 요건과는 구조가 달라 선택하지 않는다. 제3항 이하는 긴급 법률변경명령으로 대상과 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_064",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자기 권한 내 성령·규칙 공포라는 하위 법규 발령 규정이나, 주체가 상(相)이고 법률 위임·법률 실시라는 요건 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률의 충실한 집행 확보 책무를 두나 명령(행정입법) 발령권을 명문화하지 않아 대상 조문의 규율 요소와 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_048",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "공공안전·질서 교란 시 대통령의 긴급조치와 기본권 정지를 규율하는 비상조항으로, 평상시 명령권을 정한 대상 조문과 요건·효과가 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조약 서명·비준과 신임장 수여 등 외교권 규정으로 명령 발령권과 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'命令을 發할 수 있다'는 재량적 권한 부여 형식(직무 서술형이 아닌 수권형)",
+    "명령의 종류·효력 순위나 부서 등 절차 요건을 대상 조문이 규정하지 않는 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 과정의 역사적 영향은 확정할 수 없다.",
+    "제공된 본문 외 자료를 사용하지 않았고, 후보 일부는 번역문 병기 상태에서 원문 인용만으로 비교했다."
+  ],
+  "short_answer": "조선임시약헌(1947) 제22조 제3호는 '法律에서 一定한 範圍를 定하야 委任을 받은 命令 及 法律 執行에 必要한 命令'이라는 문언이 대상 조문과 거의 동일한 이원 구조(위임명령+집행명령)를 보여 가장 밀접한 문언 대응을 이룬다. 프로이센 헌법 제45조와 대일본제국헌법 제9조는 '법률의 집행을 위하여 필요한 명령'이라는 집행명령 요소에서 구체적으로 대응하나, 위임명령 요소는 없고 각각 국왕의 집행권 귀속·장관 임면, 독립명령과 법률변경 금지 단서라는 이질적 요소를 포함한다. 프로이센 자유주헌법 제55조, 오스트리아 제18조 제3항, 바이마르 제48조는 긴급·법률변경명령으로 요건과 절차가 대비되고, 미국·필리핀·프랑스·중화민국·북한 초안 조항은 법률집행 책무나 명령 공포·부서 등 주변 요소만 겹친다. 이상은 문언상 대응 관계이며 실제 참조 여부의 확정은 아니다."
+}

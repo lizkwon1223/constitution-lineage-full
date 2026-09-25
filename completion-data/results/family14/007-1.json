@@ -1,0 +1,153 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_007",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약을 국내 법질서 안에 편입시켜 법적 효력을 부여한다는 점은 겹치지만, 미국 헌법은 헌법·연방법률·조약을 '국가의 최고법'으로 두고 주 법관의 구속과 주법 우선 배제를 규정하는 연방-주 관계 조항이다. 대상 조문의 '국내법과 동일한 효력'(동위)과 효력 서열이 다르고, 일반적으로 승인된 국제법규나 외국인 지위 조항도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_098",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'체결한 조약 및 확립된 국제법규'를 한 항에 묶어 규율하는 구성은 대상 조문 제1항의 '국제조약과 일반적으로 승인된 국제법규' 병렬과 유사하다. 그러나 효과가 '성실히 준수할 필요'라는 준수의무에 그치고 국내법과의 효력 동일성(국내법 편입)을 정하지 않으며, 제1항은 헌법 최고법규성 규정이어서 규율 요소가 다르다. 문형상 유사성만으로는 선택 근거로 삼기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_106",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률·명령의 공포 형식과 국왕 명령의 유효성 심사 주체를 정한 조항으로, 국제조약·국제법규의 국내적 효력이나 외국인 지위와 규율 대상이 다르다. '공포'라는 용어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조약 발표 문서의 부서(副署)와 책임을 정한 절차·책임 규정으로, 조약의 국내법적 효력이나 외국인의 법적 지위와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_049",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상임위원회의 권한 목록 중 '외국과의 조약비준'이 등장하나, 이는 비준 권한의 귀속 문제이고 대상 조문은 비준·공포된 조약의 효력 문제이다. 용어 중복에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_076",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법에 모순되지 않는 현행 법령의 계속 효력을 정한 경과규정으로, 조약·국제법규의 국내적 효력과는 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'일반적으로 승인된 국제법 규칙이 (연방)국내법의 구성부분으로서 효력을 가진다'는 문형이 대상 제1항 후단의 '일반적으로 승인된 국제법규는 국내법과 동일한 효력을 가진다'와 구성요건·효과 모두에서 직접 대응한다. 다만 조약의 비준·공포 요건과 외국인 지위는 이 후보에 없어 대응 범위는 제1항 후단에 한정된다.",
+      "evidence": [
+        {
+          "element": "일반적으로 승인된 국제법규의 국내적 효력",
+          "target_field": "original_text",
+          "target_quote": "一般的으로 承認된 國際法規는 國內法과 同一한 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteile des Bundesrechtes.",
+          "commonality": "'일반적으로 승인된 국제법규'를 구성요건으로 하여 국내 법질서에서 효력을 인정하는 점이 같다",
+          "difference": "후보는 '연방법의 구성부분'이라는 편입 형식을 쓰고 대상은 '국내법과 동일한 효력'이라는 효력 등위를 명시하며, 후보에는 조약 관련 규율이 전혀 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약의 교섭·비준 주체와 양원 동의 절차를 정한 조항으로, '비준'이라는 용어와 외국에 있는 프랑스인의 신분·소유권 언급이 있으나 이는 자국민 보호이고 대상은 조약의 국내법적 효력과 외국인의 법적 지위이다. 규율 요소가 달라 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_141",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약 존중과 교민 권익 보호를 외교의 기본방침으로 선언하나, 이는 국가의 외교정책 지침이고 보호 대상이 자국 교민이다. 대상 제2항의 보호 대상은 국내의 외국인이며 효과도 조약·국제법 범위 내 법적 지위 보장이므로 대응이 아니다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_061",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률의 성립·공포 형식과 시행일에 관한 규정으로, 조약·국제법규의 국내적 효력과는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'일반적으로 승인된 국제법 규칙'을 구성요건으로 삼아 국내법(제국법)의 구속력 있는 구성부분으로 선언하는 문형이 대상 제1항 후단과 구체적으로 대응한다. 대응 범위는 제1항 후단에 한정되며, 비준·공포 요건과 제2항 외국인 지위는 이 후보로 설명되지 않는다.",
+      "evidence": [
+        {
+          "element": "일반적으로 승인된 국제법규의 국내적 구속력",
+          "target_field": "original_text",
+          "target_quote": "一般的으로 承認된 國際法規는 國內法과 同一한 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die allgemein anerkannten Regeln des Völkerrechts gelten als bindende Bestandteile des deutschen Reichsrechts.",
+          "commonality": "'일반적으로 승인된 국제법규'라는 동일한 구성요건 표현과, 그것이 국내법으로서 구속력을 가진다는 효과가 같다",
+          "difference": "후보는 '구속력 있는 제국법의 구성부분'이라는 편입 방식이고 대상은 국내법과의 효력 동일성을 규정하며, 후보에는 조약의 비준·공포 요건이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'적법하게 비준되고 공포된 조약은 법률로서의 효력을 가진다'는 요건(비준+공포)과 효과(법률의 효력)가 대상 제1항 전단의 '비준공포된 국제조약 … 국내법과 동일한 효력'과 직접 대응한다. 대응 범위는 조약 부분에 한정되고, 일반적으로 승인된 국제법규와 외국인 지위 조항은 후보에 없다.",
+      "evidence": [
+        {
+          "element": "비준·공포된 조약의 효력",
+          "target_field": "original_text",
+          "target_quote": "批准公布된 國際條約",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les traités diplomatiques régulièrement ratifiés et publiés ont force de loi",
+          "commonality": "조약이 국내적 효력을 갖기 위한 요건으로 비준과 공포를 함께 요구하고, 그 효과를 법률(국내법)로서의 효력으로 규정한다",
+          "difference": "후보는 '외교조약'에 한정하고 국내 법률에 반하는 경우에도 우선함과 별도 입법 불요를 명시하는 반면, 대상은 '국내법과 동일한 효력'만 정하고 충돌 시 우열이나 시행입법 문제를 언급하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제3절이 '공인된 국제법의 제법칙을 국법의 일부로서 채용'한다고 하여 대상 제1항 후단의 일반적으로 승인된 국제법규의 국내법화와 구체적으로 대응한다. 다만 같은 조 다른 절(공화국·국방의무·사회정의 등)과 전쟁 부인 선언은 대상과 무관하므로 대응 범위는 제3절 후단에 한정된다.",
+      "evidence": [
+        {
+          "element": "일반적으로 승인된 국제법규의 국내법 편입",
+          "target_field": "workbook_text_ko",
+          "target_quote": "일반적으로 승인된 국제법규는 국내법과 동일한 효력을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "adopts the generally accepted principles of international law as a part of the law of the Nation",
+          "commonality": "'일반적으로 승인된' 국제법 규범을 국내법의 일부로 삼는다는 구성요건과 효과가 대응한다",
+          "difference": "후보는 국가가 이를 '채용한다'는 국책 선언 형식(전쟁 부인과 결합)이고 대상은 효력의 동일성을 직접 규정하며, 후보에는 조약의 비준·공포와 외국인 지위 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_064",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "입법원의 조약안 의결권 등 권한 배분 규정으로, 조약의 국내적 효력이나 외국인 지위와는 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제2항 '외국인의 법적지위는 국제법과 국제조약의 범위내에서 보장된다' — 국내 외국인의 법적 지위 보장과 그 보장 범위(국제법·조약)를 정한 요소는 제시 후보에서 대응 문언을 찾을 수 없다(ROC1946 제141조는 자국 교민 보호로 주체가 다르다).",
+    "조약과 국제법규를 한 항에서 병렬하면서 양자 모두에 '국내법과 동일한 효력'이라는 단일 효과를 부여하는 통합 형식"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "AT1920·WEIMAR1919·FR1946는 독일어·프랑스어 원문이어서 세부 효력 개념(구성부분/법률의 효력)의 미묘한 차이 평가에 번역 의존이 있다."
+  ],
+  "short_answer": "대상 제1항 후단(일반적으로 승인된 국제법규의 국내법적 효력)에는 바이마르헌법 제4조, 오스트리아 연방헌법 제9조, 필리핀헌법 제2조 제3절이 구성요건('일반적으로 승인된 국제법규')과 효과(국내법의 일부·효력 인정)에서 구체적으로 대응한다. 제1항 전단(비준·공포된 조약의 효력)에는 프랑스 제4공화국헌법 제26조가 '적법하게 비준·공포된 조약은 법률의 효력을 가진다'로 요건과 효과 모두 대응한다. 차이로는 후보들이 '국내법의 구성부분'·'국법의 일부'·'법률로서의 효력'이라는 편입 형식을 쓰는 데 비해 대상은 조약과 국제법규를 묶어 '국내법과 동일한 효력'이라는 등위 효력을 선언하고, 프랑스 조항은 국내법률과 충돌 시 우선 및 시행입법 불요까지 명시한다. 일본국헌법 제98조 제2항과 미국 헌법 제6조는 조약·국제법규의 준수의무 또는 최고법 서열을 정한 것으로 효과가 달라 일반적 유사에 그친다. 제2항의 외국인 법적 지위 보장은 제시 후보로 설명되지 않으며, 이상은 문언 대응 판단이고 역사적 참조의 확정은 아니다."
+}

@@ -1,0 +1,54 @@
+{
+  "article": 90,
+  "reviewed_at": "2026-09-22T16:27:49.441147+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "635865a0cfbf1408fb4b918cfa1e1177d58f8fad7b3fa464b0394598f7d3a789",
+  "input_sha256": "7e227a7a87e7d5f8b3b068be129fcf5978aa3fd46288a0684a8b00db4ada3104",
+  "responses": [
+    {
+      "job_id": "090_28cbf31fd877_r1",
+      "repeat": 1,
+      "sha256": "cd23eeb776d1e520d0eba6fff70e7aa537ea1f3a8ad71197fc304158af229fef",
+      "assessment": "약헌의 종목·세율 법정이라는 직접 대응은 정확함. 법률유보를 위임의 절대 금지로 읽는 설명은 수정해야 함."
+    },
+    {
+      "job_id": "090_28cbf31fd877_r2",
+      "repeat": 2,
+      "sha256": "e4f74f7415b650ee2ae86176cfe2cfbd69733daabe7eaf9328e148aef952d000",
+      "assessment": "납세의무와 과세요건 법정을 구분함. 납세의무가 반대 규율이라는 설명은 양립 가능성을 놓침."
+    },
+    {
+      "job_id": "090_28cbf31fd877_r3",
+      "repeat": 3,
+      "sha256": "1bd28b63e271ec0bbc620b8489885ae25906bb8dbc4d0b68b690796069e765e9",
+      "assessment": "가장 강한 약헌 대응은 적절함. 필리핀의 법률에 의한 관세율 위임을 곧바로 상반된 제도로 단정하지 않아야 함."
+    }
+  ],
+  "synthesis": "약헌 제50조는 조세의 종목과 세율을 법률로 정한다는 대상과 문형에 직접 대응함. 연결어와 종결형 외의 차이는 작음. 납세의무 조항은 국민의 의무를 정하고 대상은 과세요건의 결정 형식을 정하므로 규율 기능이 다르면서도 양립함. 필리핀 제6조는 법률상 한도와 제한 아래 대통령에게 관세율 등의 결정을 위임하는 제도를 명시함. 대상에 위임 문구가 없다는 이유만으로 모든 위임을 금지하는 반대 제도라고 확정할 수 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "unsupported_prohibition",
+      "finding": "대상의 종목·세율 법정을 위임과 상반되는 법률전속으로 단정함. 대상 조문은 위임 허용·금지를 명시하지 않음.",
+      "action": "명시적 위임 규정의 유무와 법적 허용 가능성의 확정을 구별함.",
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "false_contrast",
+      "finding": "북한 납세의무를 과세요건 법정과 반대 방향이라고 설명함. 두 규율은 주체·기능이 다르지만 양립 가능함.",
+      "action": "상이한 규율 기능으로 표현함.",
+      "candidate_id": "NK1948_DRAFT_19480428_ART_029",
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

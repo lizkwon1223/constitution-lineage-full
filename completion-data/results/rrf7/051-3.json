@@ -1,0 +1,114 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_051",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_065",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 첫 문구가 '대통령이 대외적으로 국가(공화국)를 대표한다'는 규율을 주체·객체·범위 면에서 대상 조문 후단과 그대로 대응한다. 다만 나머지 부분은 임명·사면 등 권한 열거로 대상 조문과 무관하므로 대응 범위를 제1항 첫 문구로 한정한다.",
+      "evidence": [
+        {
+          "element": "대외적 국가대표(주체·범위)",
+          "target_field": "original_text",
+          "target_quote": "外國에 對하여 國家를 代表한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Bundespräsident vertritt die Republik nach außen",
+          "commonality": "대통령을 주체로 하여 대외적으로 국가를 대표한다는 규율을 한 문장으로 선언함",
+          "difference": "후보는 대표 객체를 '공화국'으로 표현하고 곧바로 사절 접수·신임, 조약 체결 등 구체적 외교권한을 병기하는 반면, 대상 조문은 대표 선언만 두고 행정권 수반 지위를 함께 규정함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_035",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'元首/수반 지위 + 대외 국가대표'를 하나의 문장에 이중으로 병렬시킨 문형이 대상 조문과 거의 동일한 구조를 이룬다.",
+      "evidence": [
+        {
+          "element": "조문 문형(지위 선언 + 대외대표 병렬)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 行政權의 首班이며 外國에 對하여 國家를 代表한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統為國家元首，對外代表中華民國。",
+          "commonality": "대통령(총통)의 지위를 먼저 선언하고 이어서 대외적 국가대표권을 같은 문장에서 규정하는 이중 구조",
+          "difference": "후보의 지위는 '國家元首'인데 대상은 '行政權의 首班'으로 행정권에 연결되며, 대표 객체도 후보는 '中華民國'이라는 국호, 대상은 '國家'라는 일반어를 씀"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'행정의 수반'이라는 표현이 있으나 주체가 각 영토 주재 정부대표이고 정부에 대한 책임을 규정하는 조항이어서, 대통령의 지위와 대외대표를 정한 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_049",
+      "relation": "contrast",
+      "selected": true,
+      "reason": "'국가를 대외적으로 대표한다'는 단문 형식이 대상 조문 후단과 매우 근접하지만 그 권한 주체를 합의체인 주내각에 두어 주체 면에서 대조를 이루므로 비교에 유용하다.",
+      "evidence": [
+        {
+          "element": "대외 국가대표권의 주체",
+          "target_field": "original_text",
+          "target_quote": "外國에 對하여 國家를 代表한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Staatsministerium vertritt den Staat nach außen.",
+          "commonality": "'국가'를 객체로 하여 대외적 대표권을 한 문장으로만 선언하는 간결한 문형",
+          "difference": "후보의 주체는 대통령이 아닌 주내각(합의체 정부)이고 행정권 수반 지위에 관한 언급이 없음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가를 대표'와 '행정권을 통할'을 한 문장에 결합한 전단 부분이 대상 조문의 두 요소(행정권 수반·국가대표)와 요소 단위로 대응한다. 다만 후보는 11개 권한 열거를 포함하므로 대응은 전단에 한정한다.",
+      "evidence": [
+        {
+          "element": "행정권 지위 + 국가대표 결합",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 행정권의 수반이며 외국에 대하여 국가를 대표한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國家를 代表하고 行政權을 統轄하며",
+          "commonality": "국가원수적 지위자를 주체로 '국가 대표'와 '행정권' 관련 지위를 한 문장에 병렬 규정",
+          "difference": "후보는 순서가 반대이고 '行政權을 統轄'이라 하여 통할 개념을 쓰며 '외국에 대하여'라는 대외 한정어가 없고, 뒤에 조약·군통수·사면 등 개별 권한을 열거함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령을 주체로 한 국가대표 선언 문구가 대상 조문 후단과 대응한다. 다만 대표의 범위가 '국제법상'으로 표현되고 조약체결·사절 접수 등 권한이 이어지는 점에서 대응 범위는 제1항 첫 문장에 한정된다.",
+      "evidence": [
+        {
+          "element": "대통령의 국가대표 선언",
+          "target_field": "original_text",
+          "target_quote": "大統領은 行政權의 首班이며 外國에 對하여 國家를 代表한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident vertritt das Reich völkerrechtlich.",
+          "commonality": "대통령이 국가를 대외적으로 대표한다는 점을 독립 문장으로 선언",
+          "difference": "후보는 '국제법상(völkerrechtlich)'이라는 한정을 쓰고 행정권 수반 지위는 규정하지 않으며, 조약·선전강화·의회동의 등 절차 규정을 덧붙임"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 외교 관련 권한(조약 서명·비준, 신임장)만 규정하고 '국가를 대표한다'는 지위 선언이나 행정권 수반 규정이 없어 대상 조문의 규율 요소와 직접 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'行政權의 首班'이라는 표현 자체(대통령을 행정권의 수반으로 직접 지칭하는 문구). 야크헌은 '行政權을 統轄', 프랑스 제76조는 '영토 행정의 수반'으로 주체·개념이 달라 동일 표현으로 설명되지 않음",
+    "'外國에 對하여'라는 한정어의 정확한 문언(후보들은 nach außen·völkerrechtlich·對外 등으로 표현)"
+  ],
+  "limitations": [
+    "문언상 대응을 검토한 것이며 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 확정하지 않았다.",
+    "독일어·중국어·프랑스어 후보의 의미 판단에는 제공된 번역문에 대한 이해가 일부 개입할 수 있으며, 인용 근거는 원문에서 취했다."
+  ],
+  "short_answer": "대상 조문의 후단(대외적 국가대표)은 오스트리아 제65조 제1항 첫 문구, 바이마르 제45조 제1문, 프로이센 제49조와 주체·객체·문형 면에서 구체적으로 대응하고, 전단과 후단의 병렬 문형은 중화민국 제35조, 두 요소의 결합은 조선임시약헌 제22조 전단과 대응한다. 공통점은 최고 지위자를 주체로 '국가를 대외적으로 대표한다'를 한 문장으로 선언하는 방식이며, 중화민국·약헌은 여기에 지위 선언을 병렬한다는 점까지 같다. 차이는 지위의 성격(국가원수·행정권 통할 대 행정권의 수반), 대표 주체(대통령 대 주내각), 대표 범위의 한정어(nach außen·völkerrechtlich·對外), 그리고 후보들이 조약체결·사절접수·임명·사면 등 개별 권한을 함께 열거하는지 여부에 있다. 프랑스 제76조와 제31조는 각각 영토 정부대표의 행정수반 지위와 대통령의 외교절차만 규정해 대상 조문의 지위 선언과는 요소가 다르다. 이상은 문언 대응 검토이며 실제 참조 여부는 확정하지 않는다."
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_083",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "83",
+    "original_text": "裁判의 對審과 判決은 公開한다. 但, 安寧秩序를 防害하거나 風俗을 害할 念慮가 있는 때에는 法院의 決定으로써 公開를 아니할 수 있다.",
+    "workbook_text_ko": "재판의 대심과 판결은 공개한다. 단, 안녕질서를 방해하거나 풍속을 해할 염려가 있는 때에는 법원의 결정으로써 공개를 아니할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_049",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "49",
+      "original_text": "法院의 對審判決은 此를 公開함 但 公序良俗에 害가 된다고 認할 時에는 法院은 對審의 公開를 禁止할 수 있음",
+      "workbook_text_ko": "법원의 대심·판결은 이를 공개함. 단, 공서양속에 해가 된다고 인정할 때에는 법원은 대심의 공개를 금지할 수 있음."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_082",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "82",
+      "original_text": "裁判の対審及び判決は、公開法廷でこれを行ふ。\n２　裁判所が、裁判官の全員一致で、公の秩序又は善良の風俗を害する虞があると決した場合には、対審は、公開しないでこれを行ふことができる。但し、政治犯罪、出版に関する犯罪又はこの憲法第三章で保障する国民の権利が問題となつてゐる事件の対審は、常にこれを公開しなければならない。",
+      "workbook_text_ko": "①재판의 심리 및 판결은 공개법정에서 행한다.\n②재판소가 재판관의 전원일치로 공공의 질서 또는 선량한 풍속을 해칠 우려가 있다고 결정한 경우 그 심리는 공개하지 아니할 수 있다. 다만, 정치범죄, 출판에 관한 범죄 또는 헌법 제3장에서 보장하는 국민의 권리가 문제되는 사건의 심리는 항상 공개하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_057",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "57",
+      "original_text": "両議院の会議は、公開とする。但し、出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる。\n２　両議院は、各々その会議の記録を保存し、秘密会の記録の中で特に秘密を要すると認められるもの以外は、これを公表し、且つ一般に頒布しなければならない。\n３　出席議員の五分の一以上の要求があれば、各議員の表決は、これを会議録に記載しなければならない。",
+      "workbook_text_ko": "①양원의 회의는 공개한다. 다만, 출석의원 3분의 2 이상의 다수로 의결한 때에는 비밀회의로 할 수 있다.\n②양원은 각각 회의의 기록을 보존하며, 비밀회의의 기록 중에서 특별히 비밀을 요한다고 인정된 것 이외에는 이를 공표하고 일반에 배포하여야 한다.\n③출석의원 5분의 1 이상의 요구가 있으면 각 의원의 표결은 회의록에 기재하여야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_059",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "59",
+      "original_text": "裁判ノ対審判決ハ之ヲ公開ス但シ安寧秩序又ハ風俗ヲ害スルノ虞アルトキハ法律ニ依リ又ハ裁判所ノ決議ヲ以テ対審ノ公開ヲ停ムルコトヲ得",
+      "workbook_text_ko": "재판의 대심과 판결은 공개한다. 다만, 안녕질서나 풍속을 해칠 우려가 있는 때에는 법률에 따라 또는 재판소의 결의로 대심의 공개를 정지할 수 있다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_039",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "39",
+      "original_text": "(1) Die Vollsitzungen des Staatsrats sind öffentlich. Der Staatsrat kann mit Zweidrittelmehrheit die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über einen Antrag, die Öffentlichkeit auszuschließen, wird in geheimer Sitzung verhandelt.\n(2) Artikel 24 gilt entsprechend.",
+      "workbook_text_ko": "(1) 국가평의회의 본회의는 공개한다. 국가평의회는 3분의 2의 다수로 특정 의사일정 사항의 공개를 배제할 수 있다. 공개 배제의 제안은 비공개 회의에서 심의한다.\n(2) 제24조를 준용한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_093",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "93",
+      "original_text": "Die Verhandlungen vor dem erkennenden Gerichte in Civil- und Strafsachen sollen öffentlich sein. Die Oeffentlichkeit kann jedoch durch einen öffentlich zu verkündenden Beschluß des Gerichts ausgeschlossen werden, wenn sie der Ordnung oder den guten Sitten Gefahr droht.\nIn anderen Fällen kann die Oeffentlichkeit nur durch Gesetze beschränkt werden.",
+      "workbook_text_ko": "민사 및 형사 법원의 심리는\n공개된다. 그러나 그 공개로 말미암아\n질서나 선량한 풍속에 위험이 야기될\n때에는, 공개적으로 선고하는 법원의\n결정에 의해 그 공개를 배제할 수\n있다.\n다른 경우에는 공개성이 오로지\n법률에 의해서만 제한될 수 있다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_084",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "84",
+      "original_text": "裁判은 公開하며 被訴者의 辯護權을 保障한다.\n다만, 法令에 規定한 境遇에 限하여 裁判所의 決定으로서 公開를 禁止할 수 있다.",
+      "workbook_text_ko": "재판은 공개하며 피소자의 변호권을 보장한다.\n다만, 법령에 규정한 경우에 한하여 재판소의 결정으로서 공개를 금지할 수 있다."
+    }
+  ]
+}

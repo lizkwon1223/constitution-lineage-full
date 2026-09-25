@@ -1,0 +1,64 @@
+{
+  "article": 73,
+  "reviewed_at": "2026-09-22T16:17:21.500580+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "47fd2c169fbd5b2916bf6d0f2e3aee007a1a5197a85d4ee6ca1550b90e8bc14a",
+  "input_sha256": "b8e86adeec335fe77d1d3c83e94908450d8a53fad280ff009a7f6c126a88b994",
+  "responses": [
+    {
+      "job_id": "073_ec9aef51786c_r1",
+      "repeat": 1,
+      "sha256": "60cf108a2b66b207807a1742e003881e4d2296cfbd4c3b2211c01779f7459da5",
+      "assessment": "약헌·중화민국의 국무위원 중 임명과 일본의 지휘감독을 적절히 대응시킴. 제청 미기재를 단독 임명으로 일반화하지 않음."
+    },
+    {
+      "job_id": "073_ec9aef51786c_r2",
+      "repeat": 2,
+      "sha256": "1e41d0038eab99c674b9595b1a9955d35185af993a62859f4363430a3044dae3",
+      "assessment": "선발 범위와 감독 대상을 구분함. 일본 총리의 감독을 독자적 권한으로 단정한 표현은 좁혀야 함."
+    },
+    {
+      "job_id": "073_ec9aef51786c_r3",
+      "repeat": 3,
+      "sha256": "4806b8bacb87b88d53537ef7242c16c09ff85afa9d279765df5cf1254f985264",
+      "assessment": "핵심 대응은 적절함. 번역문만 있는 후보가 있다는 한계 설명은 입력 자료와 맞지 않음."
+    }
+  ],
+  "synthesis": "약헌 제27조와 중화민국 초안 제58조는 위원 중에서 각 부의 장을 국가원수가 임명한다는 결합에 대응함. 약헌은 총장 추천을 추가하고 중화민국은 위원회 위원장 및 원장·부원장의 겸임을 함께 정함. 일본 제72조는 행정각부 지휘감독에 대응하나 대상은 각부 장관의 통리감독이며 대통령의 명을 따른다는 조건이 붙음. 잔여 행정사무 담임은 제공 후보에서 직접 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "type": "unsupported_unrestricted_power",
+      "finding": "추천 요건 미기재를 대통령 단독 임명으로 확대함.",
+      "action": "이 조문에 추천을 명시하지 않았다고 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "unsupported_unrestricted_power",
+      "finding": "일본 총리의 행정각부 감독이 독자적이라고 단정함. 제공 조문은 내각 대표와 감독을 정할 뿐 다른 제약의 부재를 정하지 않음.",
+      "action": "명시된 대표·감독 문언과 대통령 명령 조건의 차이로 설명함.",
+      "candidate_id": "JP1946_ORIGINAL_ART_072",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "input_description_error",
+      "finding": "일부 후보가 번역문만 제시되었다고 하나 고정 입력에는 모든 후보의 원문이 있음.",
+      "action": "원문 및 제공 번역문 대조의 한계로 수정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

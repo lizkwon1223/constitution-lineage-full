@@ -1,0 +1,181 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_034",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회 소집·폐회 권한과 해산 후 재소집 기한을 규정할 뿐, 매년 1회 정기회가 법정일에 당연히 집회한다는 대상 조문의 핵심 요소(정기회·고정 집회일·공휴일 익일)가 없다. 소집 주체도 국왕으로 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_017",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "소집권자의 행위 없이 '매년 일정한 날에 의회가 집회한다'는 자동집회형 정기회 규율이 문형상 대응한다. 다만 날짜 지정 방식(둘째 화요일 대 12월 20일)과 조기소집·회기종료 규정 유무에서 차이가 있어 대응 범위는 정기집회일 조항에 한정된다.",
+      "evidence": [
+        {
+          "element": "정기회의 연 1회 법정일 자동집회",
+          "target_field": "original_text",
+          "target_quote": "國會의 定期會는 每年 1回 12月 20日에 集會한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Im übrigen versammelt sich der Landtag in jedem Jahre am zweiten Dienstag des November.",
+          "commonality": "별도 소집행위 없이 의회 스스로 매년 정해진 날에 집회한다는 형식을 취한다.",
+          "difference": "대상은 '매년 1회'를 명시하고 역일(12월 20일)로 고정하나, 후보는 횟수 문언 없이 11월 둘째 화요일이라는 요일 방식으로 정한다."
+        },
+        {
+          "element": "집회일 변경·보완 장치",
+          "target_field": "workbook_text_ko",
+          "target_quote": "당해일이 공휴일인 때에는 그 익일에 집회한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Präsident des Landtags muß ihn früher berufen, wenn es das Staatsministerium oder mindestens ein Fünftel der Mitglieder des Landtags verlangt.",
+          "commonality": "법정 집회일을 그대로 적용하기 어려운 경우를 대비한 보충규정을 둔다는 점에서 구조가 유사하다.",
+          "difference": "대상은 공휴일이면 익일로 미루는 자동 연기이나, 후보는 내각 또는 의원 5분의 1의 요구에 따른 의장의 조기소집 의무로 요건·주체·효과가 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안·비준 절차 조항으로, 정기회 집회일 규율과 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_023",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 임기와 총선 후 최초 집회 기한을 정한 조항으로, 매년 반복되는 정기회의 고정 집회일이라는 대상 요소와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법기와 신 국민의회의 선거 후 30일 내 소집을 규정할 뿐, 연례 정기회의 법정 집회일 규정이 아니다. 소집 주체도 연방대통령으로 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_098",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "총선거 후 제3 목요일이라는 '당연 집회' 문형은 유사하나 헌법 시행 관련 경과규정으로 1회적 최초 집회를 정한 것이어서, 매년 반복되는 정기회 규정과는 적용 국면이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_052",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국회의 정기회(常会)는 매년 1회'라는 주어·횟수 표현이 조문 앞부분에서 거의 그대로 대응한다. 다만 후보는 소집형이고 날짜를 헌법에 두지 않아 대응 범위는 첫 문장 전반부에 한정된다.",
+      "evidence": [
+        {
+          "element": "정기회의 주체와 연 1회 원칙",
+          "target_field": "original_text",
+          "target_quote": "國會의 定期會는 每年 1回",
+          "candidate_field": "original_text",
+          "candidate_quote": "国会の常会は、毎年一回これを召集する。",
+          "commonality": "국회의 정기회를 매년 1회로 못박는 동일한 문형과 규율이다.",
+          "difference": "대상은 집회일(12월 20일)을 헌법에 직접 정하고 '集會한다'는 자동집회 형식이나, 후보는 날짜를 정하지 않고 '召集する'는 소집 형식이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_031",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "국민대회를 3년마다 총통이 소집하고 회기를 1개월로 하는 규정으로, 연례성·자동집회·고정일 어느 요소도 대상과 맞지 않고 오히려 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_068",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'自行集會'라는 자동집회 요소는 겹치나, 회기를 연 2차로 하고 기간(2~5월, 9~12월)으로 정하여 연 1회 특정일 집회라는 대상의 핵심 규율과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 '매년 적어도 1회 집회'와 '1월 3일 정오'라는 헌법상 고정 집회일을 함께 규정하여, 연 1회·법정 집회일이라는 대상의 두 요소와 구체적으로 대응한다. 다만 법률로 다른 날을 정할 수 있다는 유보와 정오 시각 지정은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "연 1회 및 헌법상 고정 집회일",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의 정기회는 매년 1회 12월 20일에 집회한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January",
+          "commonality": "매년 1회 이상의 집회를 의무화하고 그 개시일을 헌법에 특정 역일로 못박는다.",
+          "difference": "대상은 12월 20일로 확정하고 '1회'로 한정하나, 후보는 '적어도 1회'이며 1월 3일 정오로 시각까지 정한다."
+        },
+        {
+          "element": "집회일의 예외적 변경",
+          "target_field": "original_text",
+          "target_quote": "當該日이 公休日인 때에는 그 翌日에 集會한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "unless they shall by law appoint a different day",
+          "commonality": "헌법이 정한 집회일이 그대로 적용되지 않을 수 있는 예외를 둔다.",
+          "difference": "대상은 공휴일이라는 객관적 사유에 의한 익일 자동 연기이나, 후보는 의회가 법률로 임의의 다른 날을 정하는 재량적 변경이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "정기회의·임시회의 구분은 유사하나 연 2차 소집이며 상임위원회 결정에 의한 소집으로, 연 1회 법정일 자동집회라는 대상 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "소집행위 없이 매년 정해진 날(1월 둘째 화요일)에 양원이 집회한다는 연례 정기집회일 규정이 대상 전단과 대응한다. 다만 대통령의 사전 소집 유보, 연 5개월 회기 등은 대상에 없어 대응 범위는 집회일 문언에 한정된다.",
+      "evidence": [
+        {
+          "element": "매년 정해진 날의 당연 집회",
+          "target_field": "original_text",
+          "target_quote": "國會의 定期會는 每年 1回 12月 20日에 集會한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Sénat et la Chambre des députés se réunissent chaque année le second mardi de janvier",
+          "commonality": "헌법이 직접 연례 집회일을 정하고 의회가 그 날 당연히 집회하도록 한다.",
+          "difference": "대상은 단원제 국회의 12월 20일이라는 역일 지정이나, 후보는 양원이 1월 둘째 화요일이라는 요일 방식이고 대통령의 사전 소집이 있으면 달라진다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_015",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'정례회는 매년 1회 12월'이라는 횟수와 개회 시기가 대상과 직접 겹쳐 비교 가치가 크다. 다만 후보는 의장 소집형이고 '12월 중'이라는 기간 지정에 회기 60일을 붙인 점이 다르다.",
+      "evidence": [
+        {
+          "element": "연 1회·12월의 정기회",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의 정기회는 매년 1회 12월 20일에 집회한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院 定例會는 每年 一回 十二月 中에 議長이 召集하되 그 會期는 六十日로 함",
+          "commonality": "정기(정례)회를 매년 1회로 하고 그 시기를 12월로 정한다.",
+          "difference": "대상은 12월 20일로 날짜를 확정하고 소집 주체 없이 당연히 집회하나, 후보는 '12월 중'이라는 범위를 두고 의장이 소집하며 회기 60일을 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'매년 소집'이라는 연례성만 공통될 뿐 횟수·집회일·자동집회 여부 등 대상의 구체적 규율 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "법정 집회일이 공휴일인 경우 익일로 연기한다는 구체적 규정(제시 후보 중 동일 취지의 공휴일 조정 문언은 확인되지 않음)",
+    "'集會한다'는 자동집회 방식과 12월 20일이라는 특정 역일 선택의 결합"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조 관계나 기초 과정의 영향은 제공 본문만으로 확정할 수 없다.",
+    "PR1920·FR1875·PR1850·WEIMAR·AT1920은 원문이 독일어·프랑스어여서 세부 뉘앙스 비교에 번역문 이해가 일부 개입될 수 있다."
+  ],
+  "short_answer": "일본국헌법 제52조는 '국회의 정기회는 매년 1회'라는 주어·횟수 문형이 대상 전반부와 거의 일치하고, 조선임시약헌 제15조는 '정례회는 매년 1회 12월'로 시기까지 겹쳐 가장 밀접한 대응을 보인다. 미국 수정 제20조 제2항은 연 1회 이상 집회와 1월 3일이라는 헌법상 고정 집회일을, 프로이센 자유주헌법 제17조 제3항과 프랑스 1875년 헌법률 제1조는 소집행위 없이 매년 정해진 날 집회하는 자동집회 방식을 각각 대응시킨다. 차이는 소집 주체(의장·소집형 대 자동집회), 날짜 지정 방식(역일 대 요일·기간), 회기 규정 유무, 변경 유보의 성격(법률에 의한 임의 변경 대 공휴일 익일 연기)에 있다. 정기회 집회일이 공휴일인 경우 익일에 집회한다는 조정 규정은 제시된 후보들에서 대응 문언을 확인하지 못했다. 이상은 문언 대응에 관한 판단이며 역사적 참조 관계의 확정은 아니다."
+}

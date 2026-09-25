@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_099",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "99",
+    "original_text": "이 憲法은 이 憲法을 制定한 國會의 議長이 公布한 날로부터 施行한다. 但, 法律의 制定이 없이는 實現될 수 없는 規定은 그 法律이 施行되는 때부터 施行된다.",
+    "workbook_text_ko": "이 헌법은 이 헌법을 제정한 국회의 의장이 공포한 날로부터 시행한다. 단, 법률의 제정이 없이는 실현될 수 없는 규정은 그 법률이 시행되는 때부터 시행된다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_106",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "106",
+      "original_text": "La présente Constitution sera promulguée par le président du Gouvernement provisoire de la République dans les deux jours qui suivront la date de la promulgation des résultats du référendum et dans la forme suivante :\n\" L'Assemblée nationale constituante a adopté,\n\" Le peuple français a adopté,\n\" Le président du Gouvernement provisoire de la République promulgue la Constitution dont la teneur suit :\n\" (Texte de la Constitution)\n« La présente Constitution, délibérée et adoptée par l'Assemblée nationale constituante, approuvée par le peuple français, sera exécutée comme loi de l'Etat ».",
+      "workbook_text_ko": "이 헌법은 공화국 임시정부대표(président du Gouvernement\nprovisoire de la République)에 의해서 국민투표의 결과 발표 후 2일 이내\n에 다음과 같은 형식으로 공포한다.\n다음과 같은 내용의 헌법을 헌법제정국민의회가 채택하고,\n프랑스인민이 승인하고,\n공화국 임시정부대표가 공포하는,\n(헌법의 조문)\n헌법제정국민의회가 심의하고, 채택하고, 프랑스인민이 승인한 이 헌\n법은 국가의 법률로서 집행한다 ."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_088",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "88",
+      "original_text": "Die Verfassung tritt mit dem Tage ihrer Verkündung in Kraft, mit Ausnahme der Artikel 31 bis 43, 72 und 86. Diese Bestimmungen treten erst in Kraft, wenn die Provinziallandtage gemäß Artikel 74 neu gewählt sind.",
+      "workbook_text_ko": "헌법은 제31조부터 제43조까지, 제72조 및 제86조를 제외하고 공포일부터 시행한다. 이들 규정은 제74조에 따라 도의회가 새로 선출된 때에 비로소 시행한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_175",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "175",
+      "original_text": "本憲法規定事項，有另定實施程序之必要者，以法律定之。\n本憲法施行之準備程序由制定憲法之國民大會議定之。",
+      "workbook_text_ko": "이 憲法에 規定된 事項으로서 따로 施行節次를 定할 必要가 있는 것은 法律로써 이를 定한다.\n이 憲法施行의 準備節次는 憲法을 制定한 國民大會가 이를 議定한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_100",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "100",
+      "original_text": "この憲法は、公布の日から起算して六箇月を経過した日から、これを施行する。\n２　この憲法を施行するために必要な法律の制定、参議院議員の選挙及び国会召集の手続並びにこの憲法を施行するために必要な準備手続は、前項の期日よりも前に、これを行ふことができる。",
+      "workbook_text_ko": "①헌법은 공포한 날부터 기산하여 6개월을 경과한 날부터 시행한다.\n②헌법을 시행하기 위하여 필요한 법률의 제정, 참의원 의원의 선거 및 국회소집 절차와 이 헌법을 시행하기 위하여 필요한 준비절차는 제1항의 기일 전이라도 할 수 있다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_151",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "151",
+      "original_text": "(1) Dieses Gesetz tritt am Tag der ersten Sitzung des Nationalrates in Kraft, soweit nicht durch das im Artikel 150 bezeichnete Gesetz Ausnahmen festgesetzt werden.\n(2) Die Bestimmungen des Artikels 50, Absatz 1, und des Artikels 66, Absatz 2, treten jedoch am Tag der Kundmachung in Kraft, wobei bis zum Inkrafttreten der anderen Bestimmungen dieses Gesetzes das dem Nationalrat zustehende Genehmigungsrecht von der Nationalversammlung ausgeübt wird.",
+      "workbook_text_ko": "(1) 이 법은 제150조에 정한 법률에서 예외를 정하지 않은 한, 국민의회 최초 회의일에 시행한다.\n(2) 다만 제50조 제1항 및 제66조 제2항은 공포일에 시행하며, 이 법의 다른 규정이 시행될 때까지는 국민의회에 속하는 승인권을 국민제헌의회가 행사한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_036",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "36",
+      "original_text": "Le président de la République promulgue les lois dans les dix jours qui suivent la transmission au Gouvernement de la loi définitivement adoptée. Ce délai est réduit à cinq jours en cas d'urgence déclarée par l'Assemblée nationale.\nDans le délai fixé pour la promulgation, le président de la République peut, par un message motivé, demander aux deux Chambres une nouvelle délibération, qui ne peut être refusée.\nA défaut de promulgation par le président de la République dans les délais fixés par la présente Constitution, il y sera pourvu par le président de l'Assemblée nationale.",
+      "workbook_text_ko": "공화국대통령은 확정적으로 채택된 법률이 정부에 이송된 날로부터\n10일 이내에 법률을 공포한다. 이 기간은 국민의회가 긴급을 선언한 때에는\n5일로 단축한다.\n공화국대통령은 공포를 위해서 정한 기간 내에 이유를 첨부한 친서로 2원\n에 대해서 새로운 심의를 요구할 수 있다. 이 요구는 거부할 수 없다.\n이 헌법에 정한 기간 내에 공화국대통령이 공포하지 아니할 때에는 국민의\n회의장이 공포한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_061",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "61",
+      "original_text": "(1) Ein Gesetz ist verbindlich, wenn es verfassungsmäßig zustande gekommen und vom Staatsministerium in der vorgeschriebenen Form verkündet worden ist. Bei der Verkündung muß ausgesprochen sein, daß das Gesetz vom Landtag oder durch Volksentscheid beschlossen worden ist. Artikel 13 der Reichsverfassung wird hierdurch nicht berührt.\n(2) Wenn das Gesetz nichts anderes bestimmt, tritt es mit dem vierzehnten Tage nach Ausgabe des die Verkündung enthaltenden Stückes der Gesetzsammlung in Kraft.\n(3) Die Gesetze sind binnen Monatsfrist zu verkünden.",
+      "workbook_text_ko": "(1) 법률은 헌법에 따라 성립하고 주내각이 정해진 형식으로 공포한 때에 구속력을 가진다. 공포할 때에는 그 법률이 주의회 또는 국민표결로 의결되었음을 밝혀야 한다. 독일국헌법 제13조는 이로 인하여 영향을 받지 않는다.\n(2) 법률에 다른 정함이 없으면 그 공포를 수록한 법령집 해당 호가 발행된 후 제14일부터 시행한다.\n(3) 법률은 1개월 이내에 공포하여야 한다."
+    }
+  ]
+}

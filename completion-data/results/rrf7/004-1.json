@@ -1,0 +1,102 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_004",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_002",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "영토 규정이라는 주제는 같으나, 제국 영토를 '독일 각 주의 영토'로 구성한다는 연방국가적 구성 방식과 주민 자결권·제국법률에 의한 편입 절차를 규율하는 점에서 대상 조문(지리적 범위의 단순 확정, 절차·예외 없음)과 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'○○의 영토는 …로 한다'라는 문형으로 영토의 범위를 헌법에서 직접 특정하는 방식이 대응한다. 다만 대상 조문에는 없는 성(省)별 열거와 국민대회 의결에 의한 변경 제한(제2항)이 있어 대응 범위는 제1항의 영토 확정 방식에 한정된다.",
+      "evidence": [
+        {
+          "element": "영토 범위의 헌법상 직접 확정(문형)",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土爲江蘇、浙江、安徽、江西、湖北、湖南、四川、西康、河北、山東、山西、河南、陝西、甘肅、青海、福建、廣東、廣西、雲南、貴州、遼寧、吉林、黑龍江、熱河、察哈爾、綏遠、寧夏、新疆、蒙古、西藏等固有之疆域。",
+          "commonality": "국호+영토를 주어로 삼아 그 범위를 헌법 본문에서 직접 지정하는 단문 구조",
+          "difference": "대상은 '한반도와 그 부속도서'라는 지리적 총칭으로 특정하나, 후보는 개별 성·지역을 열거하고 '固有之疆域'이라는 표현을 사용한다"
+        },
+        {
+          "element": "영토 변경 절차·조건의 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 영토는 한반도와 그 부속도서로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土，非經國民大會議決不得變更。",
+          "commonality": "헌법이 영토를 규율 대상으로 삼는다는 점",
+          "difference": "후보는 국민대회 의결이라는 변경 절차 요건을 별도 항으로 두지만, 대상 조문에는 변경 절차·주체·예외에 관한 규정이 전혀 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국적 보유자를 국민으로 정하는 국민의 요건 규정으로, 영토의 범위를 정하는 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주권의 귀속 주체를 정한 조항으로 영토 범위 확정이라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'○○의 영토는 …로 한다'는 영토 확정 문형이 대상 조문과 대응한다. 다만 후보는 '固有之疆域'이라는 포괄적 지시와 국민대회 의결 없는 변경 금지라는 절차 요건을 결합하고 있어, 대응은 전단의 영토 확정 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "영토 확정 문형",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 領土는 韓半島와 그 附屬島嶼로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土依其固有之疆域",
+          "commonality": "헌법 조문 첫머리에서 국호+영토를 주어로 하여 그 범위를 한 문장으로 정하는 구성",
+          "difference": "대상은 '한반도와 그 부속도서'라는 구체적 지리 표지를 쓰고, 후보는 '固有之疆域'이라는 포괄적·연혁적 표지를 쓴다"
+        },
+        {
+          "element": "변경 제한(절차·주체)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 영토는 한반도와 그 부속도서로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "非經國民大會之決議，不得變更之。",
+          "commonality": "영토를 헌법사항으로 고정한다는 취지",
+          "difference": "후보는 국민대회 결의를 변경 요건으로 명시하는 절차 규정을 두나, 대상 조문은 변경 주체·절차·효과를 규정하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주권 귀속 규정으로 영토 범위 규정인 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "영토 조항이라는 점은 같으나, 연방영토가 각 주 영토로 구성된다는 연방적 구성 방식과 헌법률 합치·평화조약 예외에 의한 영토 변경 절차를 규정하여, 지리적 범위만 단순 확정하는 대상 조문과 구체적 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'한반도와 그 부속도서'라는 지리적 표지(반도+부속 도서)로 영토를 특정하는 방식",
+    "영토 변경 절차나 예외를 전혀 두지 않고 한 문장으로 종결한 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며, 실제 참조·기초 과정에서의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "독일·오스트리아 후보는 원문(독일어)과 제공 번역을 함께 읽었으나, 판단은 원문 문형 기준으로 한정했다."
+  ],
+  "short_answer": "대상 조문과 구체적 문형·규율 요소가 대응하는 후보는 중화민국 五五憲草 제4조와 중화민국헌법(1947) 제4조다. 두 후보 모두 '국호+영토는 …로 한다'는 단문으로 영토 범위를 헌법에서 직접 확정하는 구조를 공유하나, 후보들은 성(省) 열거 또는 '固有之疆域'이라는 표지를 쓰고 국민대회 의결이라는 변경 절차 요건을 덧붙이는 반면 대상 조문은 '한반도와 그 부속도서'라는 지리적 표지만 제시하고 변경 주체·절차·예외를 두지 않는다. 바이마르헌법 제2조와 오스트리아 연방헌법 제3조는 영토라는 주제는 같지만 연방 구성단위 영토의 총합이라는 구성 방식과 편입·변경 절차를 중심으로 하여 대응이 일반적 수준에 그친다. 중화민국헌법 제3조(국적)와 주권 귀속 조항들은 규율 대상이 달라 관련이 없다. 이상은 문언상 대응 판단이며 역사적 참조 관계의 확정은 아니다."
+}

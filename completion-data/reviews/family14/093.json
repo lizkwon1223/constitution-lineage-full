@@ -1,0 +1,85 @@
+{
+  "article": 93,
+  "reviewed_at": "2026-09-22T16:29:15.589869+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "2f1a2fc867c6d09c3daa1ccfb182980c752b974e1cd2b0304c112249340ea87a",
+  "input_sha256": "a3729705db16ac2e0c776f342c6825a088dbd7bb3f55c0893ce3f6790476c680",
+  "responses": [
+    {
+      "job_id": "093_c55b9bf1f5f7_r1",
+      "repeat": 1,
+      "sha256": "9ef6b345ee90d19e2bd0486f02cc8fb7f031a17f455a61b2371e186dac499e3a",
+      "assessment": "일본의 예비비 설치·지출 승인과 약헌의 차회 의회 대응을 적절히 포착함. 북한과의 대비는 예산 편입된 예비비를 고려해야 함."
+    },
+    {
+      "job_id": "093_c55b9bf1f5f7_r2",
+      "repeat": 2,
+      "sha256": "69971be1460ca0aceed6ad02d469a037fc0184a46b0ba748e71947beb976c06e",
+      "assessment": "주요 예비비 대응은 적절함. 프로이센 검토 누락, 약헌의 차회 표현 누락 및 오스트리아 절차 연결 방식은 보정해야 함."
+    },
+    {
+      "job_id": "093_c55b9bf1f5f7_r3",
+      "repeat": 3,
+      "sha256": "816a942a248d20dbd5d466184d526975f3a481cf6656a1e9df811f34fac283b9",
+      "assessment": "프로이센의 예측 불가능성과 불가피성을 구분함. 차기국회에 대응이 없다는 결론은 약헌의 차회 문언과 맞지 않음."
+    }
+  ],
+  "synthesis": "일본 제87조는 예측하기 어려운 부족에 대한 예비비 설치의 국회 의결과 지출의 사후 승인을 결합하므로 가장 직접적으로 대응함. 대상은 충당 지출을 예산외·예산초과로 나누고 승인을 차기국회에 받도록 함. 일본 1889년 제64조와 프로이센 제67조는 개별 초과·예산외 지출의 사후 승인에 대응하며 예비비 사전 설정과는 다름. 약헌 제52조의 차회 입법의원 승낙은 승인 시점의 부분 대응임. 오스트리아는 개별 지출의 사전 승인을 원칙으로 하되 긴급한 경우 위원회 동의와 금액 조건 아래 집행 후 승인을 구하는 대체 절차임. 북한의 예산 미계상 지출 금지만으로 예산에 계상한 예비비까지 배제한다고 해석하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "type": "missing_review",
+      "finding": "프로이센 제67조를 요약에서는 비교하지만 후보별 검토가 누락됨.",
+      "action": "미선택으로 대체하지 않고 누락으로 표시함.",
+      "candidate_id": "PR1920_ORIGINAL_ART_067",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "차기국회라는 시점에 대응이 없다고 하나 약헌 제52조에 차회 입법의원 승낙이 있음.",
+      "action": "제도 차이를 남기면서 승인 시점의 직접 부분 대응을 반영함.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_052",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "false_contrast",
+      "finding": "북한의 예산에 규정되지 않은 지출 금지를 예비비 제도와 반대 방향으로 설명함. 예산에 미리 의결한 예비비의 존재는 그 금지와 양립 가능함.",
+      "action": "금지 규정만으로 예비비 배제 여부를 추론하지 않음.",
+      "candidate_id": "NK1948_DRAFT_19480428_ART_096",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "procedure_conflation",
+      "finding": "오스트리아의 사전 승인 원칙과 조건부 사후 승인 예외를 대상과 같은 사전·사후의 두 단계 구조로 묶음.",
+      "action": "동일 지출에 두 단계가 누적되는 구조와 대체 절차를 구분함.",
+      "candidate_id": "AT1920_1929RECAST1930_ART_051",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "일본 외 후보에 없다는 이유로 이미 일본이 설명한 이중 통제 구조를 미설명 요소에 넣음.",
+      "action": "하나 이상의 후보가 설명하는 요소와 완전히 미대응인 요소를 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

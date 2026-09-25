@@ -1,0 +1,93 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_033",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_068",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 임기를 규정한다는 주제는 같으나 임기가 3년이고 '連選得連任'이라는 재선·연임 허용 규율이 추가되어 있어, 단일 문장으로 4년만 정한 대상 조문과 구체적 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_046",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 임기 규정이라는 점만 같고 임기 6년, 3년마다 반수 개선이라는 추가 절차가 있어 대상 조문(4년, 단일 문장)과 수치·규율 요소가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원 임기를 '4년'으로 정하는 수치와 '…議員の任期は、四年とする'라는 본문 문형이 대상 조문과 직접 대응한다. 다만 해산 시 임기 단축 단서의 유무에서 차이가 있어 대응 범위는 본문(제1문)에 한정된다. 문언상 대응일 뿐 역사적 참조의 확정은 아니다.",
+      "evidence": [
+        {
+          "element": "임기 연수(4년)",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院議員の任期は、四年とする。",
+          "commonality": "의회 의원의 임기를 4년으로 확정하는 수치가 일치하고, '의원의 임기는 …년으로 한다'는 단문 형식도 같다.",
+          "difference": "후보는 양원제 중 중의원에 한정된 규정이고 대상은 단원제 국회의원 전체를 대상으로 한다."
+        },
+        {
+          "element": "예외(임기 조기 종료)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 임기는 4년으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但し、衆議院解散の場合には、その期間満了前に終了する。",
+          "commonality": "임기 존속 기간을 정하는 동일 규율 대상에 관한 조항이다.",
+          "difference": "후보는 해산 시 임기가 만료 전 종료된다는 단서를 두지만, 대상 조문에는 어떠한 예외·단서도 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "조건·예외·연임규정 없이 '議員의 任期는 …로 함'이라는 한 문장만으로 임기를 정하는 조문 구성이 대상 조문과 동일하다. 대응은 문형·조문 구조에 한정되며, 임기 연수(3년 대 4년)는 다르다.",
+      "evidence": [
+        {
+          "element": "조문 구조·문형",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員의 任期는 三年으로 함",
+          "commonality": "국한문 표기로 '議員의 任期는 X年으로'라는 단일 문장만을 두고, 연임·개선·해산 등 부가 규율을 전혀 두지 않는다.",
+          "difference": "임기 연수가 3년과 4년으로 다르고, 주체 표기도 '議員'과 '國會議員'으로 다르며 문말 어미('함' 대 '한다')도 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회 구성원의 임기(입법기)를 정한다는 점만 유사하고, 대상은 제1원의 입법기 6년으로 주체·수치가 모두 달라 구체적 규율 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_065",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기 규정이나 3년 임기, 연선·연임, 임기 만료 3개월 내 선거 완료라는 절차 규정이 추가되어 있어 단문 4년 규정인 대상 조문과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…의 任期는 三年으로 한다'는 한국어 단문 형식이 대상 조문과 흡사하지만, 대응하는 부분이 임기 규정의 일반적 문형에 그치고 주체(최고인민회의 대의원)와 연수(3년)가 모두 달라 구체적 규율 요소의 대응으로 보기 어렵다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'國會議員'이라는 단원제 국회 구성원 명칭 자체는 어느 후보에서도 동일하게 나타나지 않는다",
+    "임기 만료·해산·보궐 등 임기 종료 사유를 전혀 규정하지 않은 점의 연원"
+  ],
+  "limitations": [
+    "제공된 조문 본문만으로는 문언상 대응 여부만 확인할 수 있고 실제 참조 관계(역사적 영향)는 확정할 수 없다.",
+    "후보 중 여러 조문이 '임기는 N년으로 한다'는 상용 문형을 공유하므로, 문형 일치만으로는 특정 후보의 우선적 영향을 가릴 수 없다."
+  ],
+  "short_answer": "대상 조문은 '국회의원의 임기는 4년'만을 단문으로 정한 조항이므로 비교 요소는 주체·연수·문형·예외 유무에 한정된다. 일본국헌법 제45조는 '議員の任期は、四年とする'로 연수(4년)와 문형이 모두 대응하여 가장 밀접하나, 해산 시 임기 조기 종료 단서를 둔 점과 중의원에 한정된 점이 다르다. 조선임시약헌 제11조는 부가 규율 없이 한 문장으로 임기만 정하는 조문 구조가 동일하여 문형 차원의 대응이 인정되지만 임기가 3년이다. 그 밖의 후보(五五憲草 제68조, 중화민국헌법 제65조, 일본국헌법 제46조, 프로이센헌법 제67조, 북조선 헌법안 제36조)는 임기 규정이라는 주제만 겹칠 뿐 연수·연임·개선·선거절차 등에서 대상과 규율이 달라 선택하지 않았다. 이상은 문언상 대응 판단이며 역사적 참조 관계의 확정은 아니다."
+}

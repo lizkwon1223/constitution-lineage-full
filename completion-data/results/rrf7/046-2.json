@@ -1,0 +1,189 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_046",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_IX",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "탄핵 대상 직위의 열거(대통령·부통령·대법관·감사원장)와 '헌법 위반'을 사유로 삼는 점, 의회 일원의 3분의 2 표결로 소추권을 행사하는 점에서 대상 조문의 대상자·사유·정족수 요소와 구체적으로 대응한다. 다만 심판절차와 효과 규정은 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "탄핵 대상 직위의 열거",
+          "target_field": "original_text",
+          "target_quote": "大統領, 副統領, 國務總理, 國務委員, 審計院長, 法官",
+          "candidate_field": "original_text",
+          "candidate_quote": "The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General",
+          "commonality": "대통령·부통령·법관(대법관)·회계검사기관의 장을 나란히 열거해 탄핵 대상으로 삼는 구성이 같다.",
+          "difference": "대상 조문은 국무총리·국무위원과 '기타 법률이 정하는 공무원'까지 확대하나, 후보는 4개 직위로 한정한다."
+        },
+        {
+          "element": "탄핵 사유",
+          "target_field": "workbook_text_ko",
+          "target_quote": "직무수행에 관하여 헌법 또는 법률에 위배한 때",
+          "candidate_field": "original_text",
+          "candidate_quote": "culpable violation of the Constitution, treason, bribery, or other high crimes",
+          "commonality": "헌법 위반을 탄핵 사유의 핵심으로 명시한다.",
+          "difference": "대상은 '직무수행에 관하여 헌법 또는 법률 위배'로 직무관련 위법 일반을 포괄하는 반면, 후보는 귀책 있는 헌법 위반·반역·뇌물·중죄라는 범죄 유형을 열거한다."
+        },
+        {
+          "element": "소추 의결 정족수와 주체",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成",
+          "candidate_field": "original_text",
+          "candidate_quote": "The House of Representatives, by a vote of two-thirds of all its Members, shall have the sole power of impeachment",
+          "commonality": "의회가 소추를 결의하며 3분의 2라는 가중 정족수를 요구한다.",
+          "difference": "후보는 양원제 하원의 '재적 3분의 2 찬성' 단일 요건이고 상원이 심판하나, 대상은 단원제 국회의 재적 3분의 2 출석+출석 3분의 2 찬성이라는 이중 요건이며 심판기관은 이 조문에 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_092",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "탄핵안의 '발의 인원수 요건'과 '의결(심사·결정) 요건'을 단계적으로 규정하는 문형이 대상 제2항의 50인 연서 발의+가중 의결 구조와 대응한다. 다만 소추 주체가 감찰원이고 정족수 분모·수치가 달라 대응 범위는 발의 정족수 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "탄핵 발의의 인원수 요건",
+          "target_field": "original_text",
+          "target_quote": "議員 50人以上의 連書가 있어야 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "須有監察委員十人以上之提議",
+          "commonality": "고위직 탄핵의 개시에 일정 인원 이상의 연명·제의를 요구하는 절차 요건을 둔다.",
+          "difference": "주체가 국회의원 50인 이상의 연서인 반면 후보는 감찰위원 10인 이상의 제의이며, 후속 요건도 대상은 본회의 출석·찬성 정족수, 후보는 전체 감찰위원 2분의 1 이상의 심사·결정이다."
+        },
+        {
+          "element": "탄핵 사유·대상자 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법관 기타 법률이 정하는 공무원의 그 직무수행에 관하여 헌법 또는 법률에 위배한 때",
+          "candidate_field": "original_text",
+          "candidate_quote": "監察院對於中央及地方公務員違法或失職時",
+          "commonality": "일반 공무원의 위법(직무 관련)을 탄핵 사유로 삼아 대상자 범위를 공무원 일반으로 넓힌다.",
+          "difference": "대상은 '법률이 정하는 공무원'으로 법률유보를 두고 사유를 헌법·법률 위배로 한정하나, 후보는 중앙·지방 공무원 전체를 대상으로 위법 외에 직무태만(失職)도 포함한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_068",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 '직무수행에 관한' 책임 추궁이라는 문언과 탄핵소추 의결에 출석요건과 3분의 2 찬성을 요구하는 이중 정족수 구조가 대상 조문과 대응한다. 다만 출석요건의 분모(과반수)와 소추기관(연방총회) 및 대상자 범위는 다르다.",
+      "evidence": [
+        {
+          "element": "직무수행 관련 책임",
+          "target_field": "original_text",
+          "target_quote": "그 職務遂行에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Bundespräsident ist für die Ausübung seiner Funktionen der Bundesversammlung gemäß Artikel 142 verantwortlich",
+          "commonality": "직무수행과 관련된 행위를 책임(탄핵) 추궁의 범위로 한정하는 표현이 일치한다.",
+          "difference": "후보는 연방대통령 1인의 연방총회에 대한 책임만 규정하고 사유를 별도 조문(제142조)에 위임하나, 대상은 다수 직위를 열거하고 '헌법 또는 법률 위배'라는 사유를 조문 내에 둔다."
+        },
+        {
+          "element": "소추 의결의 이중 정족수",
+          "target_field": "workbook_text_ko",
+          "target_quote": "재적의원 3분지 2이상의 출석과 출석의원 3분지 2이상의 찬성",
+          "candidate_field": "original_text",
+          "candidate_quote": "bedarf es der Anwesenheit von mehr als der Hälfte der Mitglieder jedes der beiden Vertretungskörper und einer Mehrheit von zwei Dritteln der abgegebenen Stimmen",
+          "commonality": "탄핵소추 의결에 '출석 정족수 + 3분의 2 찬성'이라는 두 겹의 요건을 결합한 문형이 같다.",
+          "difference": "출석 요건이 후보는 각 원 재적 과반수인 데 비해 대상은 재적 3분의 2이며, 후보는 양 대표기관 합동회의(연방총회) 기준인 반면 대상은 단원제 국회 기준이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "탄핵 의결 정족수 문언('재적의원 3분의 2 이상의 출석과 출석의원 3분의 2 이상의 찬성')이 대상 제2항 후단과 사실상 동일하고, 대상 직위도 국가원수·부원수·행정수반·국무위원으로 병렬된다.",
+      "evidence": [
+        {
+          "element": "탄핵 의결 정족수",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成",
+          "candidate_field": "original_text",
+          "candidate_quote": "在籍議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成",
+          "commonality": "분모(재적·출석)와 비율(각 3분의 2)이 동일한 이중 정족수 문언이 그대로 일치한다.",
+          "difference": "후보는 같은 정족수를 의원 제명에도 함께 적용하고 발의 요건을 두지 않으나, 대상은 탄핵소추에 한정하면서 별도로 의원 50인 이상 연서의 발의 요건을 추가한다."
+        },
+        {
+          "element": "탄핵 대상 직위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령, 부통령, 국무총리, 국무위원",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席 副主席 國務總長 及 國務委員에 對한 彈劾",
+          "commonality": "원수·부원수·행정수반·국무위원을 나열해 탄핵 대상으로 삼는 배열이 대응한다.",
+          "difference": "대상은 심계원장·법관·법률이 정하는 공무원까지 포함하고 '헌법 또는 법률 위배'라는 사유를 명시하나, 후보는 4개 직위만 들고 사유 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "개정판과 마찬가지로 대통령·부통령·대법관·감사원장이라는 직위 열거와 헌법 위반 사유, 3분의 2 표결 소추 구조가 대상 조문의 대상자·사유·정족수 요소와 대응한다. 다만 소추 주체가 국민의회 탄핵위원회라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "탄핵 대상 직위의 열거",
+          "target_field": "original_text",
+          "target_quote": "大統領, 副統領, 國務總理, 國務委員, 審計院長, 法官",
+          "candidate_field": "original_text",
+          "candidate_quote": "The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General",
+          "commonality": "대통령·부통령과 함께 법관 및 회계검사기관의 장을 탄핵 대상에 포함한다.",
+          "difference": "대상은 국무총리·국무위원과 법률이 정하는 공무원까지 넓히나, 후보는 4개 직위에 한정된다."
+        },
+        {
+          "element": "소추 주체와 3분의 2 표결",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회는 탄핵의 소추를 결의할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Commission on Impeachment of the National Assembly, by a vote of two-thirds of its Members, shall have the sole power of impeachment",
+          "commonality": "의회 계통 기관이 3분의 2 표결로 탄핵소추를 전담·결의한다.",
+          "difference": "후보는 국민의회 내 탄핵위원회 위원의 3분의 2 표결이고 심판은 국민의회가 맡는 반면, 대상은 국회 본회의의 재적 3분의 2 출석·출석 3분의 2 찬성이며 심판기관을 이 조문에서 정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "총통·부총통 탄핵안의 제의·심사·결의 요건을 정족수로 규정한다는 점은 비슷하나, 소추 주체가 감찰원이고 제출처가 국민대회이며 분모가 전체 감찰위원 4분의 1·과반수로 대상 조문(국회 의원 50인 연서, 재적 3분의 2 출석·출석 3분의 2 찬성)과 구체적 수치·주체가 모두 달라 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_068",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "개정판과 관련 문언이 동일하며, '직무수행에 관한' 책임과 출석요건+3분의 2 찬성이라는 이중 정족수 문형에서 대상 조문과 대응한다. 대응 범위는 그 두 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "직무수행 관련 책임",
+          "target_field": "workbook_text_ko",
+          "target_quote": "직무수행에 관하여 헌법 또는 법률에 위배한 때",
+          "candidate_field": "original_text",
+          "candidate_quote": "für die Ausübung seiner Funktionen der Bundesversammlung gemäß Artikel 142 verantwortlich",
+          "commonality": "탄핵 책임의 범위를 직무수행 관련 행위로 설정한다.",
+          "difference": "후보는 대상자가 연방대통령뿐이고 사유를 제142조에 위임하나, 대상은 다수 직위를 열거하고 헌법·법률 위배라는 사유를 직접 규정한다."
+        },
+        {
+          "element": "소추 의결 정족수",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成",
+          "candidate_field": "original_text",
+          "candidate_quote": "der Anwesenheit von mehr als der Hälfte der Mitglieder jedes der beiden Vertretungskörper und einer Mehrheit von zwei Dritteln der abgegebenen Stimmen",
+          "commonality": "출석 요건과 3분의 2 찬성 요건을 결합해 탄핵소추 의결을 가중한다.",
+          "difference": "출석 분모가 과반수(각 원)인 점, 소추기관이 국민의회·연방참사원으로 구성된 연방총회인 점이 대상과 다르다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'기타 법률이 정하는 공무원'이라는 법률유보 방식의 대상자 확장(ROC1936의 '中央及地方公務員'은 공무원 일반을 포괄하나 법률유보 형식은 아님)",
+    "발의 요건을 '의원 50인 이상의 연서'라는 절대 인원수로 정한 구체적 수치",
+    "'헌법 또는 법률에 위배'로 사유를 병렬한 정식화(후보들은 범죄유형 열거 또는 '違法'으로 표현)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "오스트리아 조문은 독일어 원문 기준으로 비교했고 제142조의 탄핵 심판 내용은 제공되지 않아 절차·효과 비교가 제한된다.",
+    "필리핀 원문·개정판, 오스트리아 원문·개정판은 각각 해당 부분 문언이 사실상 동일하여 둘 중 어느 판본이 대응하는지는 이 자료만으로 구별할 수 없다."
+  ],
+  "short_answer": "대상 조문의 '대상 직위 열거'는 필리핀헌법 원문·개정판 제IX조(대통령·부통령·대법관·감사원장)와, '재적 3분의 2 출석+출석 3분의 2 찬성'이라는 의결 정족수는 조선임시약헌 제14조와 문언상 가장 촘촘히 대응한다. 오스트리아 제68조는 '직무수행에 관한' 책임 추궁과 출석요건+3분의 2 찬성의 이중 정족수 문형에서 대응하나 출석 분모(과반수)와 소추기관(연방총회)이 다르다. 五五憲草 제92조는 일정 인원 이상의 제의로 탄핵을 발의하는 절차 요건 문형에서 '의원 50인 이상의 연서'와 비교할 만하지만 주체가 감찰원이어서 대응 범위가 좁고, 중화민국헌법 제100조는 주체·제출처·분모가 모두 달라 선택하지 않았다. 이는 문언 대응의 확인일 뿐 역사적 참조 관계의 확정은 아니다."
+}

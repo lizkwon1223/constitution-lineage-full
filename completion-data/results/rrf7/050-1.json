@@ -1,0 +1,138 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_050",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_052",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원의 원내 의견·표결에 대한 원외 무책임이라는 규율 내용과 '意見及表決'·'責ヲ負フコトナシ' 문형이 대상과 겹치지만, 대상 조문에는 없는 '의원이 스스로 언론을 공표한 경우 일반 법률에 따라 처분된다'는 광범한 예외 단서가 붙어 있어 면책 범위의 구조가 다르다. 대응은 일반적 유사 수준으로 본다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "원내 행위에 대한 원외 무책임이라는 취지는 같으나, 보호 대상 행위를 '연설·토론 또는 표결'로 열거하여 대상 조문의 '발표한 의견과 표결'과 항목 구성이 다르고, 면책의 지리적 기준을 '院外'로 한 반면 대상은 '외부에 대하여'로 표현한다. 문형상 더 근접한 후보가 있어 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_032",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "면책 기준을 '院外'가 아니라 '會外(외부)'로 잡아 대상의 '外部에 對하여'와 표현 구조가 직접 대응하며, '言論及表決…不負責任'이라는 요소 배열과 예외 없는 무조건적 면책이라는 규율 형식도 일치한다. 다만 주체는 국민대회대표이고 보호 범위가 '會議時'에 한정되는 차이가 있어 대응 범위는 문언 구조와 면책 요건에 한정한다.",
+      "evidence": [
+        {
+          "element": "면책 상대방(외부)",
+          "target_field": "original_text",
+          "target_quote": "外部에 對하여 責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "對會外不負責任",
+          "commonality": "면책의 상대 범위를 기관 밖의 '외부'로 설정하고 책임 부존재로 규정한다",
+          "difference": "후보는 '會外'로 회의체 외부를 기준으로 삼고, 대상은 '外部'라는 포괄적 표현을 쓴다"
+        },
+        {
+          "element": "보호되는 행위(의견·표결)",
+          "target_field": "original_text",
+          "target_quote": "發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "所為之言論及表決",
+          "commonality": "발언(의견·언론)과 표결을 함께 면책 대상으로 병렬 열거한다",
+          "difference": "대상은 '意見', 후보는 '言論'으로 표현하고, 후보는 '會議時'라는 시점 요건을 붙인 반면 대상은 '國會內'라는 장소 요건을 쓴다"
+        },
+        {
+          "element": "예외·단서의 부재",
+          "target_field": "workbook_text_ko",
+          "target_quote": "책임을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "不負責任",
+          "commonality": "단서나 법률에 의한 처분 유보 없이 면책을 무조건적으로 규정한다",
+          "difference": "주체가 국민대회대표로서 상설 입법기관 의원이 아니라는 점에서 적용 국면이 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_072",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'院內之言論及表決, 對外不負責任'이라는 구성이 대상의 '國會內에서 發表한 意見과 表決…外部에 對하여 責任을 지지 아니한다'와 장소 요건·보호행위·면책 상대방('對外'/'外部')·예외 없음까지 요소별로 대응한다. 주체가 입법위원이라는 점만 다르므로 대응 범위를 문형과 면책 요건으로 한정한다.",
+      "evidence": [
+        {
+          "element": "장소 요건과 보호 행위",
+          "target_field": "original_text",
+          "target_quote": "國會內에서 發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "於院內之言論及表決",
+          "commonality": "기관 내에서 행한 발언과 표결을 면책 대상으로 삼는 장소 한정 구조가 동일하다",
+          "difference": "대상은 '國會內', 후보는 '院內'이며 대상은 '發表한 意見'으로 행위를 서술한다"
+        },
+        {
+          "element": "면책 상대방(대외)",
+          "target_field": "original_text",
+          "target_quote": "外部에 對하여 責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "對外不負責任",
+          "commonality": "면책 상대를 '院外'로 좁히지 않고 '對外/外部'라는 포괄적 표현으로 규정한다",
+          "difference": "주체가 입법원 입법위원이며, 대상은 국회의원이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_073",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "원내 언론·표결의 무책임이라는 요소 구성은 대상과 같으나 면책 상대를 '院外'로 한정하여 대상의 '外部에 對하여'와는 기준이 다르고, 주체도 입법위원이다. 같은 취지의 다른 후보(對外·會外 표현)가 문언상 더 근접하므로 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_018",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원을 주체로 하여 '院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함'을 예외 없이 규정하여 대상과 주체·보호행위·면책효과가 직접 대응한다. 다만 면책 상대를 '院外'로 표현한 점과 불체포 규정이 같은 조에 결합되어 있는 점이 다르므로 대응 범위는 제2문에 한정한다.",
+      "evidence": [
+        {
+          "element": "주체와 보호 행위",
+          "target_field": "original_text",
+          "target_quote": "國會議員은 國會內에서 發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員은 院內에서 行한 發言 及 表決에 對하여",
+          "commonality": "의원을 주체로 기관 내 발언과 표결을 면책 대상으로 병렬 규정한다",
+          "difference": "대상은 '國會議員'·'發表한 意見', 후보는 '議員'·'行한 發言'으로 표현한다"
+        },
+        {
+          "element": "면책 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외부에 대하여 책임을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "院外에서 責任을 지지 아니함",
+          "commonality": "단서 없이 기관 밖에서의 책임을 부정하는 무조건적 면책 형식이 같다",
+          "difference": "후보는 면책 장소를 '院外'로 특정하고, 대상은 책임의 상대를 '外部에 對하여'로 규정한다"
+        },
+        {
+          "element": "조문 구성",
+          "target_field": "original_text",
+          "target_quote": "國會議員은",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함",
+          "commonality": "의원 특권을 규정하는 조문 군에 속한다",
+          "difference": "후보는 불체포특권과 면책특권을 한 조에 묶었으나, 대상 조문은 면책만 단독으로 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_101",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "문형은 대상과 유사하지만 주체가 감찰위원이고 면책 상대가 '院外'로 한정되어, 국회의원의 면책을 규정한 대상 조문과는 적용 주체가 다르다. 동일 문형의 입법기관 관련 후보가 있어 선택하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'發表한'이라는 표현(언론·발언 대신 '의견의 발표'로 서술한 방식)이 후보들의 '言論'·'發言'·'演説, 討論'과 정확히 일치하지 않는 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했고, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다",
+    "후보 일부는 번역문이 대상 조문과 거의 동일한 표현으로 제시되어 있어, 번역문 유사성을 원문 대응으로 오인하지 않도록 원문 기준으로 비교했다"
+  ],
+  "short_answer": "대상 조문은 국회의원의 원내 의견·표결에 대한 대외 무책임을 예외 없이 규정한다. 후보 중 조선임시약헌 제18조 제2문은 의원을 주체로 하여 원내 발언·표결의 면책을 단서 없이 규정해 주체·행위·효과가 직접 대응하고, 五五憲草 제72조와 중화민국헌법 제32조는 면책 상대를 '院外'가 아니라 '對外/會外'라는 포괄적 표현으로 잡아 대상의 '外部에 對하여'와 문형이 근접한다. 반면 대일본제국헌법 제52조는 자기 공표 시 일반 법률에 따른 처분이라는 예외 단서를 두어 면책 구조가 다르고, 일본국헌법 제51조는 보호행위를 '연설·토론·표결'로 열거하며 기준을 '院外'로 한다. 중화민국헌법 제73조·제101조는 문형은 유사하나 주체가 입법위원·감찰위원이고 면책 상대가 '院外'로 한정된다. 이상은 문언 대응에 관한 판단이며 역사적 참조 관계의 확정은 아니다."
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_022",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "22",
+    "original_text": "모든 國民은 法律의 定한 法官에 依하여 法律에 依한 裁判을 받을 權利가 있다.",
+    "workbook_text_ko": "모든 국민은 법률의 정한 법관에 의하여 법률에 의한 재판을 받을 권리가 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_VI",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "VI",
+      "original_text": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.",
+      "workbook_text_ko": "모든 형사 소추에서, 피고인은 범죄가 행하여진 주 및 법률\n이 미리 정하는 지역의 공정한 배심에 의한 신속한 공개 재판을\n받을 권리, 기소의 성질과 이유에 관하여 고지 받을 권리,\n자기에게 불리한 증인과 대질 심문을 할 권리, 자기에게 유\n리한 증인 확보를 위해 강제 절차를 제공 받을 권리, 자신\n의 변호를 위하여 변호인의 도움을 받을 권리를 가진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_020",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "20",
+      "original_text": "人民有依法律服兵役之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 兵役에 服務하는 義務를 진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "134",
+      "original_text": "Alle Staatsbürger ohne Unterschied tragen im Verhältnis ihrer Mittel zu allen öffentlichen Lasten nach Maßgabe der Gesetze bei.",
+      "workbook_text_ko": "모든 국민은 법률에 따라 그 자력에 상응하여 모든 공공의 부담에 평등하게 기여한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_026",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "26",
+      "original_text": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。\n２　すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+      "workbook_text_ko": "①모든 국민은 법률이 정하는 바에 의하여 그 능력에 따라 동등하게 교육을 받을 권리를 가진다.\n②모든 국민은 법률이 정하는 바에 따라 자신이 보호하는 자녀에게 보통교육을 받게 할 의무를 진다.\n의무 교육은 무상으로 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_019",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "19",
+      "original_text": "人民有依法律納稅之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 納稅의 義務를 진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_032",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "32",
+      "original_text": "何人も、裁判所において裁判を受ける権利を奪はれない。",
+      "workbook_text_ko": "누구든지 재판소에서 재판을 받을 권리를 박탈당하지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_037",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "37",
+      "original_text": "すべて刑事事件においては、被告人は、公平な裁判所の迅速な公開裁判を受ける権利を有する。\n２　刑事被告人は、すべての証人に対して審問する機会を充分に与へられ、又、公費で自己のために強制的手続により証人を求める権利を有する。\n３　刑事被告人は、いかなる場合にも、資格を有する弁護人を依頼することができる。被告人が自らこれを依頼することができないときは、国でこれを附する。",
+      "workbook_text_ko": "①모든 형사사건에서 피고인은 공평한 재판소에 의하여 신속한 공개재판을 받을 권리를 가진다.\n②형사피고인은 모든 증인에 대하여 심문할 기회를 충분히 부여받고, 공적 비용으로 자기를 위하여 강제적 절차에 따라 증인을 요구할 권리를 가진다.\n③형사피고인은 어떠한 경우에도 자격을 가진 변호인에게 의뢰할 수 있다. 피고인 스스로 이를 의뢰할 수 없을 때에는 국가가 변호인을 선임한다."
+    }
+  ]
+}

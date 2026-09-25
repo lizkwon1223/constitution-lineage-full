@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_030",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "30",
+    "original_text": "모든 國民은 法律의 定하는 바에 依하여 國土防衛의 義務를 진다.",
+    "workbook_text_ko": "모든 국민은 법률의 정하는 바에 의하여 국토방위의 의무를 진다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_026",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "26",
+      "original_text": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。\n２　すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+      "workbook_text_ko": "①모든 국민은 법률이 정하는 바에 의하여 그 능력에 따라 동등하게 교육을 받을 권리를 가진다.\n②모든 국민은 법률이 정하는 바에 따라 자신이 보호하는 자녀에게 보통교육을 받게 할 의무를 진다.\n의무 교육은 무상으로 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_020",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "20",
+      "original_text": "日本臣民ハ法律ノ定ムル所ニ従ヒ兵役ノ義務ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률이 정하는 바에 따라 병역의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_021",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "21",
+      "original_text": "人民有依法律納稅之義務。",
+      "workbook_text_ko": "인민은 법률에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_023",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "23",
+      "original_text": "人民有依法律服公務之義務。",
+      "workbook_text_ko": "인민은 법률에 따라 공무에 복무할 의무를 진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_030",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "30",
+      "original_text": "国民は、法律の定めるところにより、納税の義務を負ふ。",
+      "workbook_text_ko": "국민은 법률이 정하는 바에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_020",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "20",
+      "original_text": "人民有依法律服兵役之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 兵役에 服務하는 義務를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_019",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "19",
+      "original_text": "人民有依法律納稅之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 納稅의 義務를 진다."
+    }
+  ]
+}

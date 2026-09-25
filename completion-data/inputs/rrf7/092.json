@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_092",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "92",
+    "original_text": "國債를 募集하거나 豫算外에 國家의 負擔이 될 契約을 함에는 國會의 議決을 얻어야 한다.",
+    "workbook_text_ko": "국채를 모집하거나 예산외에 국가의 부담이 될 계약을 함에는 국회의 의결을 얻어야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_064",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "64",
+      "original_text": "国家ノ歳出歳入ハ毎年予算ヲ以テ帝国議会ノ協賛ヲ経ヘシ\n２　予算ノ款項ニ超過シ又ハ予算ノ外ニ生シタル支出アルトキハ後日帝国議会ノ承諾ヲ求ムルヲ要ス",
+      "workbook_text_ko": "국가의 세출과 세입은 매년 예산으로 제국의회의 협찬을 거쳐야 한다.\n② 예산의 관·항을 초과하거나 예산에 없는 지출이 발생한 때에는 사후에 제국의회의 승인을 구하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_087",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "87",
+      "original_text": "予見し難い予算の不足に充てるため、国会の議決に基いて予備費を設け、内閣の責任でこれを支出することができる。\n２　すべて予備費の支出については、内閣は、事後に国会の承諾を得なければならない。",
+      "workbook_text_ko": "①예상하기 어려운 예산의 부족에 충당하기 위하여 국회의 의결에 기하여 예비비를 두고 내각의 책임으로 이를 지출할 수 있다.\n②내각은 모든 예비비의 지출에 대하여 사후에 국회의 승인을 받아야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_083",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "83",
+      "original_text": "国の財政を処理する権限は、国会の議決に基いて、これを行使しなければならない。",
+      "workbook_text_ko": "국가의 재정을 처리하는 권한은 국회의 의결에 기하여 행사하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_085",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "85",
+      "original_text": "国費を支出し、又は国が債務を負担するには、国会の議決に基くことを必要とする。",
+      "workbook_text_ko": "국비를 지출하거나 국가가 채무를 부담할 경우에는 국회의 의결에 기하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_129",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "129",
+      "original_text": "左列各款事項，在中央應經立法院之議決，其依法律得以省區或縣市單行規章爲之者，應經各該法定機關之議決。\n一、稅賦捐費罰金罰鍰或其他有強制性收入之設定，及其征收率之變更。\n二、募集公債處分公有財產或締結增加公庫負擔之契約。\n三、公營專賣獨占或其他有營利性事業之設定或取銷。\n四、專賣獨占或其他特權之授予或取銷。\n省區及縣市政府，非經法律特許，不得募集外債或直接利用外資。",
+      "workbook_text_ko": "다음 사항은 중앙에서는 입법원의 의결을 거쳐야 한다. 법률에 따라 성·구 또는 현·시의 개별 규장으로 정할 수 있는 사항은 해당 법정기관의 의결을 거쳐야 한다.\n1. 조세·부담금·수수료·벌금·과태료 또는 그 밖의 강제적 수입의 설정 및 그 징수율의 변경.\n2. 공채의 모집, 공유재산의 처분 또는 공공금고의 부담을 증가시키는 계약의 체결.\n3. 공영 전매·독점 또는 그 밖의 영리사업의 설정이나 폐지.\n4. 전매·독점 또는 그 밖의 특권의 부여나 취소.\n성·구 및 현·시 정부는 법률의 특별한 허가 없이 외채를 모집하거나 외자를 직접 이용할 수 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_066",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "66",
+      "original_text": "Beschlüsse des Landtags, welche Mehrausgaben außerhalb des Haushaltsplans in sich schließen oder für die Zukunft mit sich bringen, müssen zugleich bestimmen, wie diese Mehrausgaben gedeckt werden.",
+      "workbook_text_ko": "예산 외의 추가 지출을 수반하거나 장래에 초래하는 주의회의 의결은 그 추가 지출의 충당 방법도 동시에 정하여야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_062",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "62",
+      "original_text": "新ニ租税ヲ課シ及税率ヲ変更スルハ法律ヲ以テ之ヲ定ムヘシ\n２　但シ報償ニ属スル行政上ノ手数料及其ノ他ノ収納金ハ前項ノ限ニ在ラス\n３　国債ヲ起シ及予算ニ定メタルモノヲ除ク外国庫ノ負担トナルヘキ契約ヲ為スハ帝国議会ノ協賛ヲ経ヘシ",
+      "workbook_text_ko": "새로 조세를 부과하거나 세율을 변경하는 것은 법률로 정하여야 한다.\n② 다만, 대가에 해당하는 행정상의 수수료와 그 밖의 수납금은 전항의 제한을 받지 않는다.\n③ 국채를 발행하거나, 예산에 정한 것을 제외하고 국고의 부담이 될 계약을 체결하는 데에는 제국의회의 협찬을 거쳐야 한다."
+    }
+  ]
+}

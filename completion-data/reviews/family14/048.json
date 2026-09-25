@@ -1,0 +1,87 @@
+{
+  "article": 48,
+  "reviewed_at": "2026-09-22T15:50:06.405651+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "ea80f9f15b02b5bcea8470f4e8c2bbb77662c7ad513e966c9b38c16a03534c33",
+  "input_sha256": "8a034877190b977fdd4833aee8093ac42e738540addea219c692bfd9226139e0",
+  "responses": [
+    {
+      "job_id": "048_633f82b4fe06_r1",
+      "repeat": 1,
+      "sha256": "a66066430059adca0f1a743f1294e7b284383650bde986cc3292e4640e219154",
+      "assessment": "중화민국·필리핀·프랑스의 의원 겸직 제한과 금지 객체의 차이를 포착함. 의석 상실을 상대적 겸직 허용처럼 대비한 설명은 보정이 필요함."
+    },
+    {
+      "job_id": "048_633f82b4fe06_r2",
+      "repeat": 2,
+      "sha256": "71be561ca7e1a902ae368b9453d721dcfc603afd93572610309d068907d5909a",
+      "assessment": "일본 두 조문의 의원직 중복 금지와 중화민국의 기타 공직 금지를 범위를 한정해 비교함. 동일한 두 기관 소속 금지인 프랑스·오스트리아 후보의 배제 기준은 일관성이 약함."
+    },
+    {
+      "job_id": "048_633f82b4fe06_r3",
+      "repeat": 3,
+      "sha256": "f29d4d225d110ba7fb9b168227fae59d8939a86da24e001b3432b2ac42566888",
+      "assessment": "중화민국·프랑스의 부분 대응은 타당함. 프로이센 국가평의회의 지방의회 선출과 지방의회 의원직 자체를 구별하면서도 선정 이유에서 중앙·지방 기관 간 겸직 금지로 연결한 점은 과도함."
+    }
+  ],
+  "synthesis": "대상은 국회의원과 지방의회 의원직의 겸직 금지임. 중화민국 초안은 입법위원의 기타 공직 겸임 금지라는 주체·술어 대응을 제공하며, 일본 두 조문과 프랑스·오스트리아 후보는 두 대의기관 동시 소속 금지의 문형을 제공함. 모두 금지되는 직위 조합이 같지는 않음. 프로이센 국가평의회가 지방의회에 의해 선출된다고 해서 그 의원직이 지방의회 의원직이 되는 것은 아님. 필리핀의 다른 공직 취임 시 의석 상실 역시 두 지위의 병존을 막는 방식이며, 금지 문언만 있는 대상과는 효과의 명시 여부를 비교함.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "type": "effect_misinterpretation",
+      "severity": "material",
+      "finding": "다른 공직을 보유하면 의석을 잃는 규정을 상대적 제한과 절대적 겸직 금지의 대립으로 설명함. 의석 상실은 두 지위를 동시에 유지할 수 없도록 하는 효과이지 겸직을 허용하는 예외가 아님.",
+      "action": "불겸직 규칙과 위반·취임 시 의석 상실 효과의 명시 여부로 비교함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "PR1920_ORIGINAL_ART_033",
+      "type": "institutional_level_conflation",
+      "severity": "material",
+      "finding": "지방의회가 국가평의회 의원을 선출한다는 사정에서 중앙 대의기관과 지방 차원 기관 간 겸직 금지라는 대응을 도출함. 금지 대상은 Landtag와 Staatsrat의 의원직이며 선출기관 의원직이 아님.",
+      "action": "두 대의기관 의원직의 불겸직이라는 형식적 대응으로 제한함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "일본 두 조문은 양원 겸직 금지 문형만으로 선택하면서 같은 동시 소속 금지인 프랑스 제24조·오스트리아 제59조는 대상 기관 차이로 제외함.",
+      "action": "같은 부분 대응 기준으로 비교하고 지방의회 특정의 미대응을 별도로 표시함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_048",
+      "type": "weak_evidentiary_basis",
+      "severity": "minor",
+      "finding": "같은 조문 번호를 선택 이유의 배치 대응으로 사용함. 숫자 일치 자체는 규율 요소나 참조 관계를 뒷받침하지 않음.",
+      "action": "선택 근거는 의원직 중복 금지 문언으로 한정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "위반 효과·절차의 부재나 그 연원을 미설명 요소로 기재함.",
+      "action": "대상의 지방의회 의원직 특정이라는 실제 문언과 후보의 추가 효과를 분리함."
+    }
+  ],
+  "limits": [
+    "누구도 A와 B의 직위를 겸할 수 없다는 문형과 A는 B를 겸할 수 없다는 문형의 문법 차이만으로 규율 방향이 반대라고 보지 않음."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "article": 102,
+  "reviewed_at": "2026-09-22T16:37:02.254677+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "3eb792a46dbaa0f909c4af66f80d3ea4cf2b9151923f231b2d97fcd9b959bf78",
+  "input_sha256": "6c01352ac5a4d71ea72e15cc77b82d943f6468c9a635f6f76b93180affcb3424",
+  "responses": [
+    {
+      "job_id": "102_7e3f3a8d4f79_r1",
+      "repeat": 1,
+      "sha256": "ac64aae67c161c08241ccc96c1667343617d453a77e4a472168ff4995093f55b",
+      "assessment": "제헌국회의 권한 승계와 의원 임기 특례를 분리하여 비교함. 일본의 임기 특례를 통상 임기보다 단축한 것으로 단정하는 부분은 제공 자료의 범위를 넘음."
+    },
+    {
+      "job_id": "102_7e3f3a8d4f79_r2",
+      "repeat": 2,
+      "sha256": "fad0a1e54ed0abc16aafe3f45caaa8616555d4805aca8acfd2d523fe64612bb9",
+      "assessment": "중화민국·오스트리아의 대응을 포착함. 바이마르 제179조의 법령상 참조 치환을 제헌의회 자체의 대체와 같은 의미로 해석한 대조는 보정이 필요함."
+    },
+    {
+      "job_id": "102_7e3f3a8d4f79_r3",
+      "repeat": 3,
+      "sha256": "7cc76619b38e1a8ae74ffd3aa35813cc0c779d7fb87c17768c5cf3cf6d7f67e2",
+      "assessment": "기관의 권한 승계와 임기 기산점의 부분 대응을 잘 구분함. 일본 후보의 통상 임기와 대비하거나 이미 후보에 있는 최초 집회 요소를 미설명으로 다룬 표현은 좁혀야 함."
+    }
+  ],
+  "synthesis": "대상은 제헌국회가 새 헌법의 국회 권한을 행사한다는 기관의 연속성과, 그 의원의 임기를 개회일부터 2년으로 정하는 특례를 결합함. 중화민국 초안 제146조는 제헌기관이 제1기 기관의 권한을 행사한다는 구조에 대응함. 중화민국 제175조는 제헌기관의 시행 준비 권한에 한정된 대응임. 오스트리아 제27조는 최초 집회를 임기의 기산점으로 삼지만 4년의 의회 입법기간을 정함. 일본 제102조는 최초 참의원 의원 중 절반의 3년 임기를 정하여 최초 구성원의 임기 특례에 부분 대응함. 바이마르 제179조의 법령상 기관 명칭 치환은 제헌국회의 구성원과 임기를 그대로 유지하는 제도와 구분함.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "type": "false_contrast",
+      "finding": "바이마르 제179조가 기존 법령에서 국민의회에 대한 참조를 국가의회로 치환하도록 한 것을, 제헌의회 자체를 대체하는 제도라는 의미로 대조함.",
+      "action": "법령상 참조 및 권한의 치환과 실제 기관·구성원의 계속 재직을 구별함.",
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_179",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "unsupported_context",
+      "finding": "일본 제102조의 3년 임기를 통상 임기에서 단축된 것으로 설명하나 제공 후보에는 통상 임기의 길이가 없음.",
+      "action": "제1기 의원 일부의 임기 특례라고 설명함.",
+      "candidate_id": "JP1946_ORIGINAL_ART_102",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "selection_threshold",
+      "finding": "일본의 최초 의원 임기 특례를 일부 의원·3년이라는 차이 때문에 배제함.",
+      "action": "대응 요소와 인적 범위·기간의 차이를 함께 기재함.",
+      "candidate_id": "JP1946_ORIGINAL_ART_102",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "temporal_precision",
+      "finding": "중화민국 제175조의 시행 준비 권한을 헌법 시행 후의 역할이라는 취지로 설명함.",
+      "action": "시행 준비 절차를 결정하는 권한으로 한정함.",
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "오스트리아 후보의 최초 집회 기산점과의 차이를 이유로 개회일 기산점 전체를 미설명으로 다룰 여지가 있는 서술임.",
+      "action": "기산점의 부분 대응과 의원 임기·입법기간의 차이를 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

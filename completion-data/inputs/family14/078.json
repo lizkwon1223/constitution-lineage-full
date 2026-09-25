@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_078",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "78",
+    "original_text": "大法院長인 法官은 大統領이 任命하고 國會의 承認을 얻어야 한다.",
+    "workbook_text_ko": "대법원장인 법관은 대통령이 임명하고 국회의 승인을 얻어야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_058",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "58",
+      "original_text": "(1) Der Landtag ist berechtigt, jeden Minister vor dem Staatsgerichtshof anzuklagen, daß er schuldhaft die Verfassung oder die Gesetze verletzt habe. Der Antrag auf Erhebung der Anklage muß von mindestens hundert Mitgliedern des Landtags unterzeichnet sein und bedarf der Zustimmung der für Verfassungsänderungen vorgesehenen Mehrheit.\n(2) Die Zusammensetzung des Staatsgerichtshofs, das Verfahren vor ihm und die ihm zustehenden Entscheidungen werden durch Gesetz geregelt.",
+      "workbook_text_ko": "(1) 주의회는 어느 장관에 대해서나 귀책사유가 있는 헌법 또는 법률 위반을 이유로 국가재판소에 소추할 권한을 가진다. 소추 제안에는 주의회 의원 100명 이상이 서명하여야 하며, 헌법 개정에 필요한 다수의 동의를 얻어야 한다.\n(2) 국가재판소의 구성, 그 절차 및 할 수 있는 결정은 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_079",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "79",
+      "original_text": "司法院設院長副院長各一人，由總統提名，經監察院同意任命之。\n司法院設大法官若干人，掌理本憲法第七十八條規定事項，由總統提名，經監察院同意任命之。",
+      "workbook_text_ko": "司法院에 院長, 副院長 各1人을 두며 總統이 指名하여 監察院의 同意를 얻은 後 이를 任命한다\n  司法院에 大法官 若干을 둔다 大法官은 이 憲法 第78條에 規定된 事項을 掌理하며 總統이 指名하여 監察院의 同意를 얻은 後 이를 任命한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "2",
+      "original_text": "Le Président de la République est élu à la majorité absolue des suffrages par le Sénat et par la Chambre des députés réunis en Assemblée nationale. Il est nommé pour sept ans. Il est rééligible.",
+      "workbook_text_ko": "공화국대통령은 국민의회(Assemblée nationale)에 합동한 상원과 하원\n에 의한 투표의 절대다수로 선출한다. 대통령은 7년의 임기로 임명된다.\n대통령은 재선할 수 있다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_087",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "87",
+      "original_text": "Die Richter werden vom Könige oder in dessen Namen auf ihre Lebenszeit ernannt.\nSie können nur durch Richterspruch aus Gründen, welche die Gesetze vorgesehen haben, ihres Amtes entsetzt oder zeitweise enthoben werden. Die vorläufige Amtssuspension, welche nicht kraft des Gesetzes eintritt, und die unfreiwillige Versetzung an eine andere Stelle oder in den Ruhestand können nur aus den Ursachen und unter den Formen, welche im Gesetze angegeben sind, und nur auf Grund eines richterlichen Beschlusses erfolgen.\nAuf die Versetzungen, welche durch Veränderungen in der Organisation der Gerichte oder ihrer Bezirke nöthig werden, finden diese Bestimmungen keine Anwendung.",
+      "workbook_text_ko": "법관은 국왕에 의해 또는\n국왕의 이름으로 종신(終身)으로 임명\n된다.\n법관은 오로지 법률이 미리 정한\n사유에 따른 판결에 의해서만 파면\n되거나 일시적으로 해임될 수 있다.\n법률의 효력으로 발생하는 정직[=법\n률상 당연정직]이 아닌 일시적 정직 및\n다른 직위로의 비자발적 전보나 비자\n발적 퇴직은, 법률이 규정한 사유와\n방식에 따라서만 그리고 법관의 결정\n을 근거로 해서만 이루어진다.\n법원 조직이나 관할구역의 변경에\n의해 필요하게 된 전근(轉勤)에 대하\n여는 이 규정이 적용되지 않는다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_VIII",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "VIII",
+      "original_text": "Section 1. The Judicial power shall be vested in one Supreme Court and in such inferior courts as may be established by law.\nSec. 2. The National Assembly shall have the power to define, prescribe, and apportion the jurisdiction of the various courts, but may not deprive the Supreme Court of its original jurisdiction over cases affecting ambassadors, other public ministers, and consuls, nor of its jurisdiction to review, revise, reverse, modify, or affirm on appeal, certiorari, or writ of error, as the law or the rules of court may provide, final judgments and decrees of inferior courts in—\n(1) All cases in which the constitutionality or validity of any treaty, law, ordnance, or executive order or regulation is in question.\n(2) All cases involving the legality of any tax, impost, assessment, or toll, or any penalty imposed in relation thereto.\n(3) All cases in which the jurisdiction of any trial court is in issue.\n(4) All criminal cases in which the penalty imposed is death or life imprisonment.\n(5) All cases in which an error or question of law is involved.\nSec. 3. Until the National Assembly shall provide otherwise, the Supreme Court shall have such original and appellate jurisdiction as may be possessed and exercised by the Supreme Court of the Philippine Islands at the time of the adoption of this Constitution. The original jurisdiction of the Supreme Court shall include all cases affecting ambassadors, other public ministers, and consuls.\nSec. 4. The Supreme Court shall be composed of a Chief Justice and ten Associate Justices and may sit either en banc or in two divisions unless otherwise provided by law.\nSec. 5. The members of the Supreme Court and all judges of inferior courts shall be appointed by the President with the consent of the Commission on Appointments of the National Assembly.\nSec. 6. No person may be appointed member of the Supreme Court unless he has been five years a citizen of the Philippines, is at least forty years of age, and has for ten years or more been a judge of a court of record or engaged in the practice of law in the Philippines.\nSec. 7. No judge appointed for a particular district shall be designated or transferred to another district without the approval of the Supreme Court. The National Assembly shall by law determine the residence of judges of inferior courts.\nSec. 8. The National Assembly shall prescribe the qualifications of judges of inferior courts, but no person may be appointed judge of any such courts unless he is a citizen of the Philippines and has been admitted to the practice of law in the Philippines.\nSec. 9. The members of the Supreme Court and all judges of inferior courts shall hold office during good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office. They shall receive such compensation as may be fixed by law, which shall not be diminished during their continuance in office. Until the National Assembly shall provide otherwise, the Chief Justice of the Supreme Court shall receive an annual compensation of sixteen thousand pesos, and each Associate Justice, fifteen thousand pesos.\nSec. 10. All cases involving the constitutionality of a treaty or law shall be heard and decided by the Supreme Court en banc, and no treaty or law may be declared unconstitutional without the concurrence of two-thirds of all the members of the Court.\nSec. 11. The conclusions of the Supreme Court in any case submitted to it for decision shall be reached in consultation before the case is assigned to a Justice for the writing of the opinion of the Court. Any Justice dissenting from a decision shall state the reasons for his dissent.\nSec. 12. No decision shall be rendered by any court of record without expressing therein clearly and distinctly the facts and the law on which it is based.\nSec. 13. The Supreme Court shall have the power to promulgate rules concerning pleading, practice, and procedure in all courts, and the admission to the practice of law. Said rules shall be uniform for all courts of the same grade and shall not diminish, increase, or modify substantive rights. The existing laws on pleading, practice, and procedure are hereby repealed as statutes, and are declared Rules of Courts, subject to the power of the Supreme Court to alter and modify the same. The National Assembly shall have the power to repeal, alter, or supplement the rules concerning pleading, practice, and procedure, and the admission to the practice of law in the Philippines.",
+      "workbook_text_ko": "제1절. 사법권은 하나의 대법원과 법률로 설치하는 하급법원에 속한다.\n제2절. 국민의회는 각 법원의 관할권을 정하고 규정하며 배분할 권한을 가진다. 다만, 대사·그 밖의 외교사절 및 영사에 관계되는 사건에 대한 대법원의 제1심관할권과, 법률 또는 법원규칙이 정하는 상소·상급심 심사명령 또는 오류심사영장에 따라 다음 사건의 하급법원 종국판결과 재판을 심사·재심사·파기·변경 또는 확인할 대법원의 관할권을 박탈할 수 없다.\n(1) 조약·법률·조례·행정명령 또는 규칙의 합헌성이나 유효성이 문제되는 모든 사건.\n(2) 조세·관세·부과금·통행료 또는 이에 관계하여 부과되는 제재의 적법성이 문제되는 모든 사건.\n(3) 심리법원의 관할권이 쟁점인 모든 사건.\n(4) 부과된 형이 사형 또는 종신형인 모든 형사사건.\n(5) 법률상 오류나 법률문제가 포함된 모든 사건.\n제3절. 국민의회가 달리 정할 때까지 대법원은 이 헌법 채택 당시 필리핀 군도 대법원이 보유·행사하던 제1심 및 상소 관할권을 가진다. 대법원의 제1심관할권에는 대사·그 밖의 외교사절 및 영사에 관계되는 모든 사건이 포함된다.\n제4절. 대법원은 대법원장 1명과 대법관 10명으로 구성하며, 법률에 다른 정함이 없으면 전원합의체 또는 2개 부로 재판할 수 있다.\n제5절. 대법원 구성원과 모든 하급법원 판사는 대통령이 국민의회 임명위원회의 동의를 받아 임명한다.\n제6절. 필리핀 국민으로 5년을 지내고 40세 이상이며, 10년 이상 기록법원의 판사로 재직하거나 필리핀에서 변호사 업무에 종사한 사람이 아니면 대법원 구성원으로 임명될 수 없다.\n제7절. 특정 재판구에 임명된 판사는 대법원의 승인 없이 다른 재판구에 배치되거나 전임될 수 없다. 국민의회는 하급법원 판사의 거주지를 법률로 정한다.\n제8절. 국민의회는 하급법원 판사의 자격을 정한다. 다만, 필리핀 국민으로서 필리핀에서 변호사 자격을 인정받은 사람이 아니면 하급법원 판사로 임명될 수 없다.\n제9절. 대법원 구성원과 모든 하급법원 판사는 품행이 양호한 동안 70세에 이르거나 직무를 수행할 수 없게 될 때까지 재직한다. 이들은 법률로 정하는 보수를 받으며 재임 중 보수를 감액할 수 없다. 국민의회가 달리 정할 때까지 대법원장의 연봉은 1만 6천 페소, 각 대법관의 연봉은 1만 5천 페소로 한다.\n제10절. 조약이나 법률의 합헌성에 관한 모든 사건은 대법원 전원합의체가 심리·결정하며, 대법원 전체 구성원 3분의 2의 동의 없이는 조약이나 법률을 위헌이라고 선언할 수 없다.\n제11절. 대법원에 결정을 위하여 제출된 사건의 결론은 법원의 의견을 작성할 대법관에게 사건을 배당하기 전에 합의를 거쳐 도출하여야 한다. 결정에 반대하는 대법관은 반대 이유를 밝혀야 한다.\n제12절. 기록법원은 결정의 근거가 되는 사실과 법률을 명확하고 분명하게 밝히지 않고는 결정을 내릴 수 없다.\n제13절. 대법원은 모든 법원의 소송서면·소송실무·절차 및 변호사 자격 인정에 관한 규칙을 제정할 권한을 가진다. 이 규칙은 같은 등급의 모든 법원에 통일적으로 적용되어야 하며 실체적 권리를 축소·확대 또는 변경할 수 없다. 소송서면·소송실무·절차에 관한 현행 법률은 제정법으로서는 폐지하고 법원규칙으로 선언하되, 대법원의 변경·수정 권한에 따른다. 국민의회는 필리핀의 소송서면·소송실무·절차 및 변호사 자격 인정에 관한 규칙을 폐지·변경 또는 보충할 권한을 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_006",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "6",
+      "original_text": "天皇は、国会の指名に基いて、内閣総理大臣を任命する。\n２　天皇は、内閣の指名に基いて、最高裁判所の長たる裁判官を任命する。",
+      "workbook_text_ko": "① 천황은 국회의 지명에 따라 내각총리대신을 임명한다.\n② 천황은 내각의 지명에 따라 최고재판소의 장인 재판관을 임명한다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_II",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "II",
+      "original_text": "Section. 1.\nThe executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows\nEach State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.\nThe Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted. The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President. But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President.\nThe Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.\nNo Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.\nIn Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.\nThe President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.\nBefore he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—\"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.\"\nSection. 2.\nThe President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.\nHe shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.\nThe President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.\nSection. 3.\nHe shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States.\nSection. 4.\nThe President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.",
+      "workbook_text_ko": "제1항\n행정권은 합중국 대통령에게 속한다. 대통령의 임기는 4년\n으로 하며, 동일한 임기로 선임된 부통령과 함께 다음과\n같은 방법에 의하여 선출된다.\n각 주는 그 주의 주의회가 정하는 바에 따라, 그 주가 연\n방의회에 보낼 수 있는 상원의원과 하원의원의 총수와\n같은 수의 선거인을 임명한다. 다만, 상원의원이나 하원\n의원, 또는 합중국의 위임 또는 유급 공직에 있는 자는\n선거인이 될 수 없다.\n선거인은 각기 자기 주에서 회합하여 비밀 투표에 의하\n여 2인을 선거하되, 그 중 적어도 1인은 선거인과 동일\n한 주의 주민이 아니어야 한다. 선거인은 모든 득표자들\n의 명부와 각 득표자의 득표수를 기재한 표를 작성하여\n서명하고 증명한 다음, 봉인하여 상원 의장 앞으로 합중\n국 정부 소재지로 송부한다. 상원 의장은 상원의원 및\n하원의원들 앞에서 모든 증명서를 개봉하며, 그 후에 투표가 계표(計票)된다. 최고 득표자의 득표수가 임명된 선거인 총수의 과\n반수가 되었을 때에는 그가 대통령으로 당선된다. 과반\n수 득표자가 2인 이상이 되고, 그 득표수가 동수일 경우\n에는 하원이 즉시 비밀 투표로 그 중의 1인을 대통령으\n로 선임해야 한다. 과반수 득표자가 없을 경우에는 하원\n이 동일한 방법으로 최다 득표자 5명중에서 대통령을 선\n임한다. 다만, 이러한 방법으로 대통령을 선거할 때에는\n투표는 주 단위로 하고, 각 주는 1표의 투표권을 가지며,\n그 선거에 필요한 정족수는 전체 주의 3분의 2의 주로부\n터 1명 또는 그 이상의 의원의 출석으로 성립되며, 선출\n을 위해서는 전체 주의 과반수의 찬성이 필요하다. 어떤\n경우에서도, 대통령을 선출하고 난 후에 선거인의 투표에서 최다수의 득표를 한 자를 부통령으로 한다. 다만, 동수의 득표자가 2인\n이상 있을 때에는 상원이 비밀 투표로 그 중에서 부통령\n을 선출한다.\n연방의회는 선거인들의 선임 시기와 이들의 투표일을 결\n정할 수 있으며, 이 투표일은 합중국 전역 어디서나 같은\n날이 되어야 한다.\n출생에 의한 합중국 시민 또는 이 헌법의 채택 시에 합중국 시민인 자가 아니면 대통령으로 선임될 자격이 없다. 연령이 35세에 미달한 자, 또는 14년간 합중국 내의\n주민이 아닌 자도 대통령으로 선임될 자격이 없다.\n대통령이 면직, 사망, 사직하거나 또는 그 권한 및 직무\n를 수행할 능력을 상실할 경우에, 대통령의 직무는 부통\n령에게 이양된다. 연방의회는 대통령과 부통령 양쪽 모\n두의 면직, 사망, 사직 또는 직무 수행 불능의 경우를 법\n률로 규정할 수 있으며, 그러한 경우에 대통령의 직무를\n수행할 공무원을 정할 수 있다. 이 공무원은 대통령의\n직무 수행 불능이 제거되거나 대통령이 새로 선임될 때\n까지 대통령의 직무를 대행한다.\n대통령은 그 직무 수행에 대한 대가로 정기적으로 보수\n를 받으며, 그 보수는 임기 중에 인상 또는 인하되지 않\n는다. 대통령은 그 임기 중에 합중국 또는 어느 주로부터\n도 그 밖의 어떠한 보수도 받아서는 안 된다.\n대통령은 그 직무 수행을 시작하기에 앞서 다음과 같은\n선서 또는 확약을 하여야 한다. “나는 합중국 대통령의\n직무를 성실히 수행하며, 나의 최선의 능력을 다하여 미\n국 헌법을 보전하고 보호하고 수호할 것을 엄숙히 선서\n(또는 확약)한다.”\n제2항\n대통령은 합중국 육･해군의 총사령관, 그리고 각 주의\n민병이 합중국의 현역에 소집되었을 때에 그 민병대의\n총사령관이 된다. 대통령은 각 소관 직무 사항에 관하여\n행정 각 부처 장관에게 문서에 의한 견해를 요구할 수\n있다. 대통령은 합중국에 대한 범죄에 관하여 탄핵의 경\n우를 제외하고 형의 집행 정지 및 사면을 명할 수 있는\n권한을 가진다.\n대통령은 상원의 권고와 동의를 얻어 조약을 체결하는\n권한을 가진다. 다만, 이 경우에는 상원의 출석 의원 3분\n의 2이상의 찬성을 얻어야 한다. 대통령은 대사, 그 밖의\n공사 및 영사, 연방대법원 법관 그리고 그 임명에 관하\n여 이 헌법에 특별한 규정이 없으나 이후에 법률로 정하\n는 그 밖의 모든 합중국 공무원을 지명하고 상원의 권고\n와 동의를 얻어 임명한다. 다만, 연방의회는 적당하다고\n인정되는 하급공무원 임명권을 법률에 의하여 대통령에\n게 단독으로 또는 법원에 또는 각 부처 장관에게 부여할\n수 있다.\n대통령은 상원의 휴회 중에 생기는 모든 결원을 임명에\n의하여 충원하는 권한을 가진다. 다만, 그 임명은 다음\n회기가 종료될 때에 효력을 상실한다.\n제3항\n대통령은 연방의 상황에 관하여 수시로 연방의회에 보고하\n고, 필요하고도 적절하다고 판단되는 시책의 심의를 연방\n의회에 권고해야 한다. 특별한 경우에 대통령은 상하 양원\n또는 그 중의 한 원을 소집할 수 있으며, 휴회의 시기에 관\n하여 양원 간의 의견이 일치되지 아니하는 때에는 대통령\n이 적당하다고 인정할 때까지 휴회하게 할 수 있다. 대통령\n은 대사와 그 밖의 외교 사절을 접수하며, 법률이 충실하게\n집행되도록 하며, 또 합중국의 모든 공무원에게 임명장을 수여한다.\n제4항\n대통령, 부통령 그리고 합중국의 모든 문관은 반역죄, 수\n뢰죄, 또는 그 밖의 중대한 범죄 및 중대한 비행(非行)으로 탄핵소추를 받고 유죄 판결을 받은 경우 그 직에서 면직된다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_094",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "94",
+      "original_text": "國家豫算은 每年 內閣이 編成하여 最高人民會議의 承認을 받아야 한다.",
+      "workbook_text_ko": "국가예산은 매년 내각이 편성하여 최고인민회의의 승인을 받아야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_077",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "77",
+      "original_text": "司法院設院長、副院長各一人，任期三年，由總統任命之。\n司法院院長，對國民大會負其責任。",
+      "workbook_text_ko": "사법원에는 원장과 부원장 각 1명을 둔다. 임기는 3년으로 하며 총통이 임명한다.\n사법원 원장은 국민대회에 대하여 책임을 진다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_086",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "86",
+      "original_text": "(1) Die Richter werden, sofern nicht in diesem Gesetz anderes bestimmt ist, gemäß dem Antrag der Bundesregierung vom Bundespräsidenten oder auf Grund seiner Ermächtigung vom zuständigen Bundesminister ernannt; die Bundesregierung oder der Bundesminister hat Besetzungsvorschläge der durch die Gerichtsverfassung hiezu berufenen Senate einzuholen.\n(2) Der dem zuständigen Bundesminister vorzulegende und der von ihm an die Bundesregierung zu leitende Besetzungsvorschlag hat, wenn genügend Bewerber vorhanden sind, mindestens drei Personen, wenn aber mehr als eine Stelle zu besetzen ist, mindestens doppelt so viele Personen zu umfassen, als Richter zu ernennen sind.",
+      "workbook_text_ko": "(1) 이 법에 달리 정함이 없는 한, 법관은 연방정부의 제청에 따라 연방대통령이 임명하거나 대통령의 위임에 따라 관할 연방장관이 임명한다. 연방정부 또는 연방장관은 법원조직법에 따라 그 권한을 가진 합의부의 임용추천을 받아야 한다.\n(2) 관할 연방장관에게 제출하고 그 장관이 연방정부에 송부하는 임용추천에는 지원자가 충분한 경우 적어도 3명을 포함하여야 한다. 다만 지원자가 충분한 경우로서 충원할 자리가 둘 이상이면 임명할 법관 수의 적어도 2배에 해당하는 사람을 포함하여야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_043",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "43",
+      "original_text": "最高法院長은 政府主席이 任命하되 立法議院의 認准을 要함 最高法院院長 及 其法官 以外의 法官은 最高法院의 推薦에 依하여 政府主席이 任命함",
+      "workbook_text_ko": "최고법원장은 정부주석이 임명하되 입법의원의 인준을 요함. 최고법원 원장 및 그 법관 이외의 법관은 최고법원의 추천에 의하여 정부주석이 임명함."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_031",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "31",
+      "original_text": "Bei dem Reichstag wird ein Wahlprüfungsgericht gebildet. Es entscheidet auch über die Frage, ob ein Abgeordneter die Mitgliedschaft verloren hat.\nDas Wahlprüfungsgericht besteht aus Mitgliedern des Reichstags, die dieser für die Wahlperiode wählt, und aus Mitgliedern des Reichsverwaltungsgerichts, die der Reichspräsident auf Vorschlag des Präsidiums dieses Gerichts bestellt.\nDas Wahlprüfungsgericht erkennt auf Grund öffentlicher mündlicher Verhandlung durch drei Mitglieder des Reichstags und zwei richterliche Mitglieder.\nAußerhalb der Verhandlungen vor dem Wahlprüfungsgerichte wird das Verfahren von einem Reichsbeauftragten geführt, den der Reichspräsident ernennt. Im übrigen wird das Verfahren von dem Wahlprüfungsgerichte geregelt.",
+      "workbook_text_ko": "제국의회에 선거심사법원을 둔다.\n선거심사법원은 일부 의원이 의원자격을 상실하였는지 여부에 대해서도 판결한다.\n선거심사법원은 제국의회가 입법기(의원 임기)를 임기로 하여 선출하는 제국의회 의원과 제국행정법원 간부회(Präsidium)의 제청에 따라 제국대통령이 임명하는 제국행정법원의 위원으로 구성된다.\n선거심사법원은 제국의회 소속의 의원 3명과 판사급 위원 2명에 의해 구두상의 공개심의를 거쳐 선고절차를 밟는다.\n선거심사법원의 심의 이외의 절차는 대통령이 임명하는 제국 수임자에 의해서 수행된다. 기타 이에 준하는 절차는 선거심사법원에서 정하고 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_084",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "84",
+      "original_text": "Le président de la République nomme, sur présentation du Conseil supérieur de la magistrature, les magistrats, à l'exception de ceux du parquet.\nLe Conseil supérieur de la magistrature assure, conformément à la loi, la discipline de ces magistrats, leur indépendance et l'administration des tribunaux judiciaires.\nLes magistrats du siège sont inamovibles.",
+      "workbook_text_ko": "공화국대통령은 사법관직최고평의회의 추천에 의거하여 검찰관\n(magistrat du Parquet) 이외의 사법관(magistrat)을 임명한다.\n사법관직최고평의회는 법률에 따라서 이들 사법관의 규율, 그 독립과 사\n법재판소(tribunal judiciaire)의 운영을 보장한다.\n재판관(magistrat du siège)은 파면되지 아니한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_064",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "64",
+      "original_text": "国家ノ歳出歳入ハ毎年予算ヲ以テ帝国議会ノ協賛ヲ経ヘシ\n２　予算ノ款項ニ超過シ又ハ予算ノ外ニ生シタル支出アルトキハ後日帝国議会ノ承諾ヲ求ムルヲ要ス",
+      "workbook_text_ko": "국가의 세출과 세입은 매년 예산으로 제국의회의 협찬을 거쳐야 한다.\n② 예산의 관·항을 초과하거나 예산에 없는 지출이 발생한 때에는 사후에 제국의회의 승인을 구하여야 한다."
+    }
+  ]
+}

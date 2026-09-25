@@ -1,0 +1,160 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_028",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_024",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "열거되지 않은 '그 밖의' 자유·권리에도 헌법상 보장을 미치는 잔여조항과, 법률에 의한 제한 유보, 그리고 '사회질서·공공이익'이라는 제한 기준어가 대상 조문 제1항·제2항의 두 규율 요소에 각각 대응한다. 다만 조건의 위치(보장의 요건 vs 제한의 요건)가 달라 대응 범위는 문형·기준어 수준으로 한정한다.",
+      "evidence": [
+        {
+          "element": "열거되지 않은 자유·권리의 보장(제1항)",
+          "target_field": "original_text",
+          "target_quote": "國民의 모든 自由와 權利는 憲法에 列擧되지 아니한 理由로써 輕視되지는 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "凡人民之其他自由及權利",
+          "commonality": "헌법에 개별적으로 열거된 것 이외의 자유·권리에도 헌법적 보호를 미치게 하는 잔여적 권리조항을 둔다는 점이 같다.",
+          "difference": "대상은 '열거되지 아니한 이유로 경시되지 아니한다'는 소극적 불경시 선언이고, 후보는 '其他' 자유·권리가 '憲法之保障'을 받는다는 적극적 보장 형식이며, 후보는 그 보장을 사회질서·공공이익 불방해라는 조건에 걸어둔다."
+        },
+        {
+          "element": "제한의 형식적 요건(법률 유보)",
+          "target_field": "original_text",
+          "target_quote": "國民의 自由와 權利를 制限하는 法律의 制定",
+          "candidate_field": "original_text",
+          "candidate_quote": "非依法律不得限制之",
+          "commonality": "자유·권리의 제한은 법률에 의해서만 가능하다는 법률유보를 명시한다.",
+          "difference": "후보는 제한의 형식(법률 근거)만 요구하는 데 그치고, 대상은 그 법률의 제정 자체를 '필요한 경우에 한한다'는 실질적 목적·필요성 심사에 종속시킨다."
+        },
+        {
+          "element": "제한 기준어(질서·공공)",
+          "target_field": "original_text",
+          "target_quote": "秩序維持와 公共福利를 爲하여 必要한 境遇에 限한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "不妨害社會秩序，公共利益者",
+          "commonality": "질서와 공공적 이익을 자유·권리와 법률적 제한을 매개하는 기준 개념으로 사용한다.",
+          "difference": "후보의 '社會秩序·公共利益'은 권리가 보장받기 위한 요건(불방해)이고, 대상의 '秩序維持·公共福利'는 제한법률이 허용되기 위한 목적 요건이다. 용어도 公共利益과 公共福利로 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법상 권리의 남용·악용에 대한 형사적 처벌과 헌법 준수의무를 규정할 뿐, 열거되지 않은 권리의 보장이나 제한법률의 목적·필요성 요건과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률에 의하지 아니한' 제한 금지와 '安寧秩序를 妨害하지 않는'이라는 표현이 있으나 이는 개별 자유의 열거방식에 붙은 유보이고, 대상 제1항의 비열거 권리 보장이나 제2항의 제한입법 필요성 한정과 규율 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "콩세이유 데타 위원의 임명·파면 절차 규정으로 기본권 보장·제한과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_010",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 자유위임(무기속 표결) 규정으로, 국민의 자유·권리 제한 요건과 대응 요소가 없다. '國民의 복리' 문구가 겹칠 뿐 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'公共ノ安寧秩序'와 '必要ナル'라는 기준어가 겹치지만, 이는 천황의 명령 발령권의 목적 요건이며 주체(천황)·수단(명령)·효과가 대상의 제한법률 한계 규정과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "권리목록을 열거하고 개별 제한법률을 금지하는 조항들을 두지만, 제시 본문에는 비열거 권리 불경시 조항이나 제한입법 일반의 목적·필요성 한정 조항이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법 앞의 평등과 공무원의 정치적 권리 보장 규정으로, 대상의 비열거 권리 및 제한입법 한계와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_124",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "결사의 자유에 대한 법률(형법) 관련 한계와 예방조치에 의한 제한 금지를 정하지만, 개별 자유에 관한 규정으로 일반적 제한유보나 비열거 권리 조항과는 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'어떠한 이유도 권리와 자유를 거부·제한하는 사유가 될 수 없다'는 문형이 대상 제1항의 '…이유로써 경시되지 아니한다'와 형식상 닮았으나, 후보의 사유는 속인법상 지위라는 특정 신분 문제로 비열거 권리 보장과 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법부의 권리제한 법률 제정을 금지하는 형식은 대상 제2항의 제한입법 통제와 방향이 유사하나, 대상은 목적·필요성 요건 아래 제한을 허용하는 구조이고 후보는 특정 자유에 대한 절대적 입법금지여서 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'公共の福祉'라는 개념어가 대상의 '公共福利'와 겹치지만, 후보는 국민의 권리 보지 노력의무와 남용금지·이용책임을 정할 뿐 제한법률의 제정 요건을 규율하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_005",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자유 제한의 조건과 방식을 법률로 정한다는 법률유보를 담고 있으나 신체의 자유에 한정되고, 목적·필요성 한정이나 비열거 권리 조항은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'社會秩序 維持'와 '公共利益 增進'에 '必要한' 경우에만 법률로 자유·권리를 제한할 수 있다는 목적·필요성 한정 구조가 대상 제2항의 문형과 구체적으로 대응한다. 다만 적용 대상이 '이상 각조에 열거된' 권리로 한정되어 대상 제1항과는 오히려 반대 방향이므로 대응은 제2항에 한정한다.",
+      "evidence": [
+        {
+          "element": "제한법률의 목적·필요성 한정(제2항)",
+          "target_field": "original_text",
+          "target_quote": "國民의 自由와 權利를 制限하는 法律의 制定은 秩序維持와 公共福利를 爲하여 必要한 境遇에 限한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "維持社會秩序，或增進公共利益所必要者外，不得以法律限制之",
+          "commonality": "자유·권리의 법률적 제한을 질서유지와 공공이익(복리)을 위하여 '필요한' 경우로 한정하는 일반적 제한유보 조항이라는 점이 일치한다.",
+          "difference": "후보는 '他人의 自由 侵害 防止', '緊急한 危難 避免'까지 네 가지 사유를 열거하고 '그 외에는 제한할 수 없다'는 금지형 문장이며, 대상은 두 사유만 들어 '필요한 경우에 한한다'는 허용한정형으로 서술한다."
+        },
+        {
+          "element": "적용되는 권리의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국민의 모든 자유와 권리는 헌법에 열거되지 아니한 이유로써 경시되지는 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "以上各條列舉之自由權利",
+          "commonality": "자유·권리 전반에 적용되는 총칙적 조항을 개별 기본권 조문 뒤에 두어 열거와 제한의 관계를 정리한다는 편별상 기능이 같다.",
+          "difference": "후보는 제한유보의 대상을 '이상 각조에 열거된' 자유·권리로 명시적으로 한정하는 반면, 대상은 열거되지 않은 권리까지 '모든 자유와 권리'로 포섭하여 경시 금지를 선언한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'憲法에 列擧되지 아니한 理由로써 輕視되지는 아니한다'는 소극적·불경시 형식 자체(후보들은 적극적 보장형 또는 개별 열거형)",
+    "'公共福利'라는 용어 선택(후보에는 公共利益·公共の福祉·公共ノ安寧秩序 등으로 나타남)"
+  ],
+  "limitations": [
+    "제공된 본문만 비교했으므로 문언상 대응 관계만 확인할 수 있고, 실제 참조·기초 과정의 영향 관계는 확정할 수 없다.",
+    "후보 중 일부는 번역문만으로 판단하기 쉬우나, 선택한 후보는 원문 인용을 기준으로 판단하였다."
+  ],
+  "short_answer": "대상 조문은 ① 비열거 권리의 불경시(제1항)와 ② 제한법률의 목적·필요성 한정(제2항)의 두 요소로 구성된다. 五五憲草 제24조는 '其他自由及權利'의 헌법적 보장이라는 잔여조항과 '非依法律不得限制之'의 법률유보, '社會秩序·公共利益' 기준어를 통해 두 요소 모두와 문언상 대응하지만, 질서·공공이익을 보장의 요건으로 삼는 점이 다르다. 중화민국헌법 제23조는 '維持社會秩序，或增進公共利益所必要者外，不得以法律限制之'로 제2항의 목적·필요성 한정과 가장 직접 대응하나, 적용 범위를 '이상 각조에 열거된' 권리로 한정하여 제1항과는 방향이 반대다. 일본국헌법 제12조의 '公共の福祉', 대일본제국헌법 제9조의 '公共ノ安寧秩序…必要ナル', 조선임시약헌 제6조의 법률유보는 개념어·문구만 부분적으로 겹치고 규율 구조가 달라 일반적 유사성에 머문다. 이상은 문언상 대응 확인일 뿐 역사적 참조의 확정은 아니다."
+}

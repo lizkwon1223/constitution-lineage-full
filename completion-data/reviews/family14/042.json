@@ -1,0 +1,88 @@
+{
+  "article": 42,
+  "reviewed_at": "2026-09-22T15:45:51.804476+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "3b56f055f36cec9e245485ffb070c48ad2e16bea3be816b5911264da2d01d1ce",
+  "input_sha256": "9a024cd3cb8c369c8b0feae83ae52d49c663bc325ae0d04ce8f69d428ed32f15",
+  "responses": [
+    {
+      "job_id": "042_6b07ef2ec7f8_r1",
+      "repeat": 1,
+      "sha256": "2e35539d3b8313bebffd87f547d9ccfde19fddad6d0958ef797a7d7cacb53416",
+      "assessment": "조약 유형, 의회 동의, 입법사항 기준을 요소별로 잘 포착함. 바이마르의 동맹이 대통령 권한 문맥에만 있다는 설명은 제3문단의 의회 동의 문언을 빠뜨림."
+    },
+    {
+      "job_id": "042_6b07ef2ec7f8_r2",
+      "repeat": 2,
+      "sha256": "0c79672285eaa5b8a654d6137b5067a6f516b0a690472924269da1016ce3683b",
+      "assessment": "프랑스 1946년 목록과 프로이센의 국가·국민 부담 구분을 잘 설명함. 프랑스 1875년을 원형으로 부른 역사적 표현은 본문 비교만으로 입증되지 않음."
+    },
+    {
+      "job_id": "042_6b07ef2ec7f8_r3",
+      "repeat": 3,
+      "sha256": "78d0b12d811d6b5c39941f5aca59343f07397a4def04d3f8684593ad46fb5664",
+      "assessment": "조약 유형별 대응과 의회 관여 형식의 차이를 대체로 정확히 구분함. 프로이센 1920년의 입법사항 조약 승인 배제는 부분 대응 선택 기준의 차이로 보아야 함."
+    }
+  ],
+  "synthesis": "프랑스 1946년 제27조는 국제조직·강화·통상·국가재정·국내법 수정의 목록을 제공함. 프로이센 1850년 제48조는 국가의 부담과 개별 국민의 의무를 함께 규정하지만 재정적 부담으로 한정하지 않음. 바이마르 제45조와 프로이센 1920년 제29조는 입법사항에 관한 조약의 의회 동의·승인에 대응함. 약헌 제12조는 조약과 선전·강화를 의회의 동의 대상으로 함께 규정함. 조약 체결·비준·확정, 동의·승인·법률 형식은 각각 구분해야 하며, 상호원조 조약과 동맹을 동일 범주라고 단정할 근거는 부족함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "type": "source_misreading",
+      "severity": "material",
+      "finding": "미설명 요소에서 동맹이 대통령의 체결권 문맥에 있다고만 설명함. 마지막 문단도 Bündnisse und Verträge를 의회 동의 대상으로 명시함.",
+      "action": "동맹 문언의 양쪽 위치를 확인하되 상호원조와의 동일성은 유보함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "type": "unsupported_historical_inference",
+      "severity": "material",
+      "finding": "1875년 목록을 1946년 목록의 원형이라고 부름. 연대와 문언 유사만으로 구체적 형성 관계가 입증되지는 않음.",
+      "action": "앞선 연도의 유사 목록이라는 관찰로 한정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "AT1920_ORIGINAL_ART_050",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "법률 변경 조약의 의회 승인이라는 구체적 대응을 열거 방식·다른 절차의 차이로 배제함. 일본 제61조도 국회의 조약 승인이라는 부분 대응을 제공함.",
+      "action": "주제 일치와 구체적인 의회 관여 요건을 구분하여 부분 대응으로 병기함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "PR1920_ORIGINAL_ART_029",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "다른 후보와 중복되거나 일반 권한 조문에 포함된다는 이유로 입법사항 조약 승인이라는 직접 대응을 제외함.",
+      "action": "후보 간 중복과 개별 후보의 대응 유무를 분리함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_061",
+      "type": "unsupported_cross_reference",
+      "severity": "minor",
+      "finding": "본문의 전조 제2항 원용을 예산 절차로 풀어 씀. 원용 대상 조문은 이 입력 후보에 없음.",
+      "action": "제시 본문에서는 다른 조문 준용 사실까지만 확인함."
+    }
+  ],
+  "limits": [
+    "한 후보의 권한 부여와 의회 동의 규정 부재만으로 전체 체계의 전속·단독 권한을 확정하지 않음."
+  ]
+}

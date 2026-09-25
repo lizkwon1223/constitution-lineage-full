@@ -1,0 +1,180 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_022",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "형사피고인의 신속·공개재판, 배심, 고지·대질·증인확보·변호인 등 구체적 형사절차권을 열거하는 조항으로, 대상 조문의 '법률이 정한 법관에 의한 재판'이라는 일반적 재판청구권 문형과 대응하지 않는다. '법률로 미리 정한 지역'은 법관 지정이 아니라 재판지(district) 특정 요소여서 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_019",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "일반사면의 법률유보를 정한 조항으로, 재판청구권이나 법관의 법정성과 무관하다. '법률에 의하여'라는 상용구만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "장관 탄핵소추와 국가재판소의 구성·절차를 법률로 정하도록 한 조항으로, 국민의 재판받을 권리와는 주체·효과가 다르다. '법률로 정한다'와 '재판소'라는 어휘만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_018",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法律' 아래 청원·소원·소송의 권리를 인정하여 재판 접근권과 주제가 겹치지만, 대상 조문의 핵심인 '법률이 정한 법관'이라는 법관 법정성 요소가 없고 권리 내용도 소 제기 권리 중심이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_083",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'gesetzlicher Richter'(법률이 정한 법관)에게서 재판을 박탈당하지 않는다는 규율이 대상 조문의 '법률의 정한 법관에 의하여 재판을 받을 권리'와 구체적으로 대응한다. 다만 문형(박탈 금지 vs 권리 부여), 주체(Niemand vs 모든 국민), 예외법원 규정의 유무에서 범위가 갈린다.",
+      "evidence": [
+        {
+          "element": "법관의 법정성(법률이 정한 법관)",
+          "target_field": "original_text",
+          "target_quote": "法律의 定한 法官에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Niemand darf seinem gesetzlichen Richter entzogen werden.",
+          "commonality": "재판을 담당할 법관이 법률로 정해져 있어야 한다는 점을 보장 대상으로 삼는다",
+          "difference": "후보는 '누구도 박탈되지 않는다'는 소극적 금지형이고 대상은 '권리가 있다'는 적극적 권리형이며, 후보는 자신의 법정 법관(seinem)이라는 귀속 표현을 쓴다"
+        },
+        {
+          "element": "법원 조직·관할의 법률유보 및 예외법원",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 법률의 정한 법관에 의하여 법률에 의한 재판을 받을 권리가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Verfassung und Zuständigkeit der Gerichte wird durch Bundesgesetz festgestellt.",
+          "commonality": "재판조직·재판작용이 법률에 근거해야 한다는 법률유보 관념을 공유한다",
+          "difference": "후보는 법원의 조직·관할을 연방법률로 정하도록 하고 예외법원 허용요건까지 별도로 규율하나, 대상 조문은 이러한 조직규정·예외법원 조항을 두지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_024",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'法律ニ定メタル裁判官ノ裁判ヲ受クルノ権'이라는 문형이 대상 조문의 '法律의 定한 法官에 依하여 … 裁判을 받을 權利'와 어구 단위로 거의 그대로 대응한다. 다만 주체와 보장형식(박탈 금지 vs 권리 부여), '법률에 의한 재판' 추가 여부에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "법률이 정한 법관에 의한 재판을 받을 권리",
+          "target_field": "original_text",
+          "target_quote": "法律의 定한 法官에 依하여 法律에 依한 裁判을 받을 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律ニ定メタル裁判官ノ裁判ヲ受クルノ権",
+          "commonality": "'법률로 정한 재판관(법관)의 재판을 받을 권리'라는 동일한 구성요소와 어순을 공유한다",
+          "difference": "대상은 '법률에 의한 재판'이라는 재판의 법률적합성 요소를 추가하고, 후보에는 없다"
+        },
+        {
+          "element": "권리의 주체와 보장 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本臣民ハ法律ニ定メタル裁判官ノ裁判ヲ受クルノ権ヲ奪ハルヽコトナシ",
+          "commonality": "국민(신민) 일반을 주체로 하여 재판을 받을 지위를 헌법상 보장한다",
+          "difference": "후보는 '日本臣民'을 주체로 하고 권리를 '奪ハルヽコトナシ'(박탈되지 않는다)로 소극적으로 규정하나, 대상은 '모든 국민'에게 '권리가 있다'고 적극적으로 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_015",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "동일노동 동일보수에 관한 조항으로 규율 대상이 전혀 다르다. '…받을 권리를 가진다'는 문말 형식만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공적 부담(조세) 분담 의무 조항으로 재판청구권과 무관하다. '모든 국민'과 '법률에 따라'라는 상용 표현만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_019",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "납세의무의 법률유보 조항이어서 권리 내용과 효과가 다르다. '법률이 정하는 바에 의하여'라는 문구만 유사하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률에 의하지 아니한 체포·구금·심문·처벌'을 배제하는 형식으로 형사절차의 법률유보를 담고 있어 '법률에 의한 재판'과 관념상 접점이 있으나, 재판기관·법관의 법정성이나 재판청구권 자체를 규정하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'gesetzlicher Richter'(법률이 정한 재판관)에게서 재판을 박탈당하지 않는다는 규율이 대상의 '법률의 정한 법관에 의하여'와 구체적으로 대응한다. 다만 소극적 금지형이고 예외법원·특별위원회 금지라는 별도 요소를 포함한다.",
+      "evidence": [
+        {
+          "element": "법관의 법정성 보장",
+          "target_field": "original_text",
+          "target_quote": "法律의 定한 法官에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Niemand darf seinem gesetzlichen Richter entzogen werden.",
+          "commonality": "법률로 정해진 법관에 의한 재판을 받는 지위를 헌법이 보장한다",
+          "difference": "후보는 주체를 'Niemand'로 하여 박탈 금지 형식을 취하고, 대상은 '모든 국민'의 적극적 권리로 규정한다"
+        },
+        {
+          "element": "예외적 재판기관에 대한 규율",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정한 법관에 의하여 법률에 의한 재판을 받을 권리가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ausnahmegerichte und außerordentliche Kommissionen sind unstatthaft.",
+          "commonality": "법정 법관이 아닌 기관에 의한 재판을 배제하려는 취지가 공통된다",
+          "difference": "후보는 예외법원·특별위원회의 불허를 명문으로 금지하나, 대상 조문에는 그러한 금지 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_032",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "재판을 받을 권리 자체를 일반적 권리로 보장하는 점에서 대상 조문과 대응하나, 보장의 연결점이 '재판소에서'로 되어 있어 '법률이 정한 법관'이라는 대상의 핵심 요소와는 규율 요소가 다르다. 대응 범위는 '재판을 받을 권리'라는 권리 내용에 한정된다.",
+      "evidence": [
+        {
+          "element": "재판을 받을 권리의 일반적 보장",
+          "target_field": "original_text",
+          "target_quote": "裁判을 받을 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "何人も、裁判所において裁判を受ける権利を奪はれない。",
+          "commonality": "형사피고인에 한정하지 않고 모든 사람(국민)에게 재판을 받을 권리를 보장한다",
+          "difference": "후보는 '재판소에서'라는 기관 기준과 '박탈되지 않는다'는 소극적 형식을 쓰고, 대상은 '법률의 정한 법관'과 '법률에 의한 재판'이라는 이중 기준을 적극적 권리로 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령·장관 탄핵소추와 상원의 사법원 구성, 소추·예심·판결 절차의 법률유보를 정한 조항으로 주체와 효과가 대상과 다르다. 재판·법률이라는 어휘만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "적법절차와 형사절차권, 빈곤을 이유로 한 법원 접근 거부 금지 등 재판 관련 보장을 폭넓게 담고 있어 주제상 접점이 있으나, '법률이 정한 법관에 의한 재판'이라는 법관 법정성 요소에 대응하는 개별 문언이 확인되지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'법률에 의한 재판'(재판의 준거가 법률이어야 한다는 요소)에 정확히 대응하는 문언은 선택 후보들에서 확인되지 않는다",
+    "'모든 국민'이라는 권리주체 표기 방식(후보들은 '신민', 'Niemand', '何人も' 등으로 다름)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 참조되었는지 역사적 영향은 제공 본문만으로 확정할 수 없다",
+    "오스트리아·프로이센 후보는 독일어 원문 비교이므로 한국어 대상 문구와의 대응은 개념 단위 비교에 그친다"
+  ],
+  "short_answer": "대상 제22조는 '법률이 정한 법관'과 '재판을 받을 권리'라는 두 요소로 구성되며, 이와 구체적으로 대응하는 후보는 대일본제국헌법 제24조, 오스트리아 연방헌법 제83조, 프로이센 헌법 제7조, 일본국헌법 제32조다. 일본 1889년 제24조는 '法律ニ定メタル裁判官ノ裁判ヲ受クルノ権'으로 어구 배열까지 가장 가깝고, 오스트리아·프로이센 조항은 'gesetzlicher Richter' 박탈 금지라는 형식으로 법관 법정성 요소에 대응한다. 다만 이들은 모두 '박탈되지 않는다'는 소극적 문형이고, 프로이센·오스트리아는 예외법원 금지·법원 조직의 법률유보를 추가로 규율한다. 일본국헌법 제32조는 '재판소에서'라는 기관 기준을 쓰므로 대응 범위가 '재판을 받을 권리'에 한정된다. 대상의 '법률에 의한 재판'이라는 재판 준거 요소는 제시 후보에서 직접 대응 문언을 찾지 못했고, 이상은 문언 대응 판단이며 실제 참조 여부는 확정할 수 없다."
+}

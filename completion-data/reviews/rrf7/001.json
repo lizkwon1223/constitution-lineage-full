@@ -1,0 +1,49 @@
+{
+  "article": 1,
+  "reviewer": "Codex",
+  "recorded_at": "2026-09-22T16:55:17.128480+00:00",
+  "method": "Post-generation, non-blind comparison against the supplied texts; no API key or additional external model calls.",
+  "scope": "제1조 대상·7개 후보 원문과 번역, 3회 후보별 판단·증거·요약을 대조함. 기존 방식의 선택 횟수는 저장 결과 집계에 의함.",
+  "synthesis": "민주공화국이라는 공통 문언을 보존하면서 추가 이념·수식어를 차이로 분리할 필요가 있음. 프랑스 1946년 제1조의 0/3 제외와 중화민국 1946년 제1조의 1/3 선택은 부분 대응을 지나치게 좁게 인정한 사례임. 반복 일치만으로 제외의 타당성을 보증하지 않음.",
+  "issues": [
+    {
+      "kind": "부분 대응 과소인정",
+      "finding": "중화민국 제1조에는 民主共和國이 명시되어 있음. 三民主義·民有民治民享이 추가된다는 점은 차이이나 민주공화국이라는 부분 대응을 없애지 않음. 군별14에서는 3/3, 상위7에서는 1/3 선택함."
+    },
+    {
+      "kind": "반복된 부분 대응 제외",
+      "finding": "프랑스 제1조는 République와 démocratique를 함께 규정함. indivisible·laïque·sociale의 추가를 이유로 3회 모두 제외했으나 민주공화국이라는 한정된 대응은 남음."
+    },
+    {
+      "kind": "인용 철자",
+      "finding": "2회차 오스트리아 인용 Republic은 원문의 Republik과 다름. 인용 규칙 위반이지만 민주공화국 대응 자체를 무너뜨리는 차이는 아님."
+    },
+    {
+      "kind": "표현 정밀도",
+      "finding": "오스트리아 두 번째 문장은 Ihr Recht geht vom Volk aus로 법의 연원을 규정함. 이를 곧바로 국가권력 귀속 문언과 동일시하지 않음. 바이마르 제1조는 별도 문장에서 Staatsgewalt의 국민 귀속을 명시하므로 민주주의 원리가 전혀 없다고 읽어서도 안 됨."
+    }
+  ],
+  "response_assessments": {},
+  "limits": [
+    "부분 대응을 다시 검토한 의견이며 원응답의 selected 값을 수정하거나 새로운 정답 라벨을 만든 것은 아님."
+  ],
+  "dossier_sha256": "0c26719501cfafd01a9364c0310b0516b1e48520ab8cd79d91bd3c7245de7ae4",
+  "input_sha256": "0d5ab98d921725f5ddf648a14aa3d74b14eac3e541aab1581b312e4c2b996d60",
+  "responses": [
+    {
+      "repeat": 1,
+      "job_id": "001_ecdb58e93aae_r1",
+      "sha256": "f85775c9bc370a60a4e29d87fda479bf05baa84a71b9729356039e421cb43c56"
+    },
+    {
+      "repeat": 2,
+      "job_id": "001_ecdb58e93aae_r2",
+      "sha256": "d50ca0c5e0d06784f19b963cba376c02735dfadea62936416a60d63ab12b6306"
+    },
+    {
+      "repeat": 3,
+      "job_id": "001_ecdb58e93aae_r3",
+      "sha256": "d867e47f79017ef867fb7bb6a74f6086ebfa9ac192443071a93337727cdd3833"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_038",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "38",
+    "original_text": "國會의 會議는 公開한다. 但, 國會의 決議에 依하여 秘密會로 할 수 있다.",
+    "workbook_text_ko": "국회의 회의는 공개한다. 단, 국회의 결의에 의하여 비밀회로 할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_023",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "23",
+      "original_text": "Die Vollsitzungen des Landtags sind öffentlich. Auf Antrag von fünfzig Abgeordneten kann der Landtag mit Zweidrittelmehrheit die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über den Antrag wird in geheimer Sitzung verhandelt.",
+      "workbook_text_ko": "주의회의 본회의는 공개한다. 의원 50명의 제안이 있으면 주의회는 3분의 2의 다수로 특정 의사일정 사항의 공개를 배제할 수 있다. 이 제안은 비공개 회의에서 심의한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_048",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "48",
+      "original_text": "両議院ノ会議ハ公開ス但シ政府ノ要求又ハ其ノ院ノ決議ニ依リ秘密会ト為スコトヲ得",
+      "workbook_text_ko": "양원의 회의는 공개한다. 다만, 정부의 요구나 해당 원의 결의에 따라 비밀회의로 할 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_017",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "17",
+      "original_text": "立法議院의 議事는 公開함 但 政府의 要求 또는 院議로써 秘密會로 할 수 있음",
+      "workbook_text_ko": "입법의원의 의사는 공개함. 단, 정부의 요구 또는 원의 의결로써 비밀회로 할 수 있음."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_057",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "57",
+      "original_text": "両議院の会議は、公開とする。但し、出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる。\n２　両議院は、各々その会議の記録を保存し、秘密会の記録の中で特に秘密を要すると認められるもの以外は、これを公表し、且つ一般に頒布しなければならない。\n３　出席議員の五分の一以上の要求があれば、各議員の表決は、これを会議録に記載しなければならない。",
+      "workbook_text_ko": "①양원의 회의는 공개한다. 다만, 출석의원 3분의 2 이상의 다수로 의결한 때에는 비밀회의로 할 수 있다.\n②양원은 각각 회의의 기록을 보존하며, 비밀회의의 기록 중에서 특별히 비밀을 요한다고 인정된 것 이외에는 이를 공표하고 일반에 배포하여야 한다.\n③출석의원 5분의 1 이상의 요구가 있으면 각 의원의 표결은 회의록에 기재하여야 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_039",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "39",
+      "original_text": "(1) Die Vollsitzungen des Staatsrats sind öffentlich. Der Staatsrat kann mit Zweidrittelmehrheit die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über einen Antrag, die Öffentlichkeit auszuschließen, wird in geheimer Sitzung verhandelt.\n(2) Artikel 24 gilt entsprechend.",
+      "workbook_text_ko": "(1) 국가평의회의 본회의는 공개한다. 국가평의회는 3분의 2의 다수로 특정 의사일정 사항의 공개를 배제할 수 있다. 공개 배제의 제안은 비공개 회의에서 심의한다.\n(2) 제24조를 준용한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_010",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "10",
+      "original_text": "Les séances des deux Chambres sont publiques. Les comptes rendus in extenso des débats ainsi que les documents parlementaires sont publiés au Journal officiel.\nChacune des deux Chambres peut se constituer en comité secret.",
+      "workbook_text_ko": "양원의 심의는 공개한다. 심의의 「전문의」(‘in extenso') 보고서\n(compte rendu)와 국회의 기록(document parlementaire)은 관보(Journal\nofficiel)에 공표한다.\n양원의 각각은 비밀회(comité secret)를 구성할 수 있다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_005",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "5",
+      "original_text": "Les séances du Sénat et celles de la Chambre des députés sont publiques. - Néanmoins, chaque chambre peut se former en comité secret, sur la demande d'un certain nombre de ses membres, fixé par le règlement. - Elle décide ensuite, à la majorité absolue, si la séance doit être reprise en public sur le même sujet.",
+      "workbook_text_ko": "상원과 하원의 회의는 공개한다.\n다만, 각원은 규칙으로 정한 일정수의 의원의 요구로 비밀회(comité secret)\n를 구성할 수 있다.\n나아가 각원은 동일한 문제에 대해서 회의를 공개로 다시 할 것인가의 여\n부를 절대다수로 결정한다."
+    }
+  ]
+}

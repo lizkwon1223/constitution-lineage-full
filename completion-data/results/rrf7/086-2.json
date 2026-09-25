@@ -1,0 +1,142 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_086",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_126",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "농업·농민을 다루고 '分配'라는 용어가 등장하나, 그 분배 대상은 農產品(농산물)의 종류·수량이고 국가의 조절 권한을 규정할 뿐이다. 대상 조문의 '농지를 농민에게 분배'와 소유권 법률유보와는 규율 객체(농산물 대 농지)와 효과(조절권 대 분배·소유한도 법정)가 달라 구체적 대응으로 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XIII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제3절이 사유 농지의 취득·보유 면적을 의회가 법률로 정하도록 하여 대상 조문의 '소유의 한도…법률로써 정한다'와 규율 요소가 대응하고, 제4절이 토지를 수용하여 소필지로 분할해 개인에게 넘기는 구조로 '농지 분배'와 기능적으로 대응한다. 다만 보상 지급·원가 양도 등 절차 요소는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "소유의 한도를 법률로 정함",
+          "target_field": "original_text",
+          "target_quote": "所有의 限度",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Congress of the Philippines may determine by law the size of private agricultural land which individuals, corporations, or associations may acquire and hold",
+          "commonality": "사유 농지의 보유 면적 상한을 헌법이 직접 정하지 않고 법률(의회)에 위임하는 점이 같다.",
+          "difference": "후보는 의회의 재량('may determine')이고 기존 권리 존중 유보가 붙는 반면, 대상 조문은 법률로 정할 것을 전제로 하는 확정적 규정이며 수범 주체를 개인·법인·단체로 나누지 않는다."
+        },
+        {
+          "element": "농지의 분배",
+          "target_field": "original_text",
+          "target_quote": "農地는 農民에게 分配하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "the expropriation of lands to be subdivided into small lots and conveyed at cost to individuals",
+          "commonality": "대토지를 잘게 나누어 개인에게 넘기는 토지 재분배 조치를 헌법상 근거로 삼는다는 점이 공통된다.",
+          "difference": "후보는 정당보상 지급과 원가 양도라는 절차·대가 요건을 명시하고 수령자를 '개인'으로 두는 반면, 대상 조문은 보상·대가에 대한 언급 없이 수령자를 '農民'으로 특정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_153",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'소유권의 내용과 한계는 법률로써 정한다'는 문형이 제153조 제1항 제2문과 거의 일대일로 대응한다. 다만 후보에는 농지 분배·소유 한도에 관한 규율이 없고 공용징수 보상 절차가 중심이라는 점에서 대응 범위는 소유권 법률유보 문언에 한정된다.",
+      "evidence": [
+        {
+          "element": "소유권의 내용과 한계의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "所有權의 內容과 限界는 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Sein Inhalt und seine Schranken ergeben sich aus den Gesetzen.",
+          "commonality": "소유권의 '내용'과 '한계'를 짝지어 법률에 맡긴다는 문언 구성이 동일하다.",
+          "difference": "후보는 소유권 일반에 관한 규정이고 헌법의 소유권 보장을 전제로 한 것인 반면, 대상 조문은 농지에 국한하여 분배 방법·소유 한도와 함께 법률유보를 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_143",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가의 토지 분배와 자경농 육성 원칙 및 적정 경영면적의 규정, 그리고 토지소유권이 법률의 보장과 제한을 받는다는 구조가 대상 조문의 '분배–소유 한도–소유권 제한'의 요소 배열과 대응한다. 다만 지가 과세·토지증치세·수매 등 후보의 핵심 요소는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "토지 분배와 경작자 우선",
+          "target_field": "original_text",
+          "target_quote": "農地는 農民에게 分配하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則",
+          "commonality": "토지 분배에서 실제 경작·사용하는 농민을 수혜자로 삼는 원칙을 헌법에 둔 점이 같다.",
+          "difference": "후보는 '원칙'으로서 국가의 정책 방향을 정할 뿐이고 대상은 토지 일반인 반면, 대상 조문은 '농지'를 '농민에게 분배한다'고 직접 명령형으로 규정한다."
+        },
+        {
+          "element": "소유(경영) 면적 한도의 법정",
+          "target_field": "original_text",
+          "target_quote": "所有의 限度",
+          "candidate_field": "original_text",
+          "candidate_quote": "並規定其適當經營之面積",
+          "commonality": "보유·경영 면적의 상한을 법으로 정하도록 하는 요소가 공통된다.",
+          "difference": "후보는 '경영 면적'의 적정성 규정이고 주체가 국가인 반면, 대상 조문은 '소유의 한도'를 법률로 정하도록 하여 소유권 자체의 상한을 겨냥한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "경작자만이 토지를 가질 수 있다는 원칙과 토지소유 최대한도를 법령으로 규정한다는 구조가 대상 조문의 '농민에게 분배'와 '소유의 한도…법률로써 정한다'에 대응한다. 다만 몰수·소작제 영구폐지·정보 단위의 구체적 상한 등은 대상 조문에 없어 대응 범위는 두 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "농지의 귀속 주체를 농민(경작자)으로 함",
+          "target_field": "workbook_text_ko",
+          "target_quote": "농지는 농민에게 분배하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "土地는 自己의 勞力으로 耕作하는 者만이 가질 수 있다.",
+          "commonality": "토지를 실제 경작하는 농민이 보유하도록 하는 경작자 소유 원칙을 헌법에 명시한다.",
+          "difference": "후보는 무상몰수를 전제로 한 보유 자격의 배타적 제한이고, 대상 조문은 분배라는 조치와 그 방법의 법률유보를 규정하며 취득 자격을 배타적으로 한정하지 않는다."
+        },
+        {
+          "element": "소유 한도의 법령 위임",
+          "target_field": "original_text",
+          "target_quote": "所有의 限度",
+          "candidate_field": "original_text",
+          "candidate_quote": "土地所有의 最大限度는 地域 및 條件에 따라서 따로 法令으로서 規定한다.",
+          "commonality": "토지 소유 상한을 두고 그 구체적 내용을 하위 법령에 위임하는 구성이 같다.",
+          "difference": "후보는 헌법에 5정보·20정보라는 수치를 직접 제시한 뒤 지역·조건별 조정을 법령에 맡기고 국가·협동단체는 무제한으로 예외를 두는 반면, 대상 조문은 수치 없이 전적으로 법률에 위임한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_120",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "토지 분배·정리에서 자경농과 직접 사용자를 육성한다는 원칙이 대상 조문의 '농지를 농민에게 분배'와 대응한다. 다만 분배 방법·소유 한도·소유권 내용과 한계의 법률유보는 후보에 전혀 없어 대응은 분배 원칙 한 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "분배의 수혜자를 경작 농민으로 설정",
+          "target_field": "original_text",
+          "target_quote": "農地는 農民에게 分配하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家對於土地之分配整理，以扶植自耕農及自行使用土地人爲原則。",
+          "commonality": "토지 분배 시 자경 농민·직접 사용자를 우선 대상으로 삼는 취지가 같다.",
+          "difference": "후보는 국가 정책의 '원칙' 선언이고 객체가 토지 일반인 반면, 대상 조문은 객체를 '농지'로 한정하고 분배 방법 등을 법률로 정하도록 하는 법률유보를 덧붙인다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_117",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'其所有權受法律之保障及限制'는 소유권에 대한 법률상 제한이라는 점에서 대상 조문의 소유권 법률유보와 겹치는 면이 있으나, 후보의 규율 중심은 토지 국민 전체 귀속, 지가 신고·평가에 따른 과세와 수용, 충분사용 의무여서 '내용과 한계'를 법률에 맡기는 문형은 바이마르 제153조·중화민국헌법 제143조 쪽이 더 직접적이다. 농지 분배나 소유 한도 요소도 없어 선택하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'그 分配의 方法'을 법률로 정하도록 한 분배 절차의 법률유보",
+    "분배·소유한도·소유권 내용과 한계를 하나의 조문에서 일괄 법률에 위임하는 결합 구조",
+    "규율 객체를 '農地'로 한정한 점(후보들은 대체로 토지 일반 또는 공유지·농산물을 대상으로 함)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 과정의 역사적 영향은 확인할 수 없다.",
+    "후보 중국어·독일어·영어 원문의 의미 파악에 제시된 번역문이 일부 영향을 줄 수 있다."
+  ],
+  "short_answer": "대상 조문은 '농지의 농민 분배', '분배 방법·소유 한도', '소유권의 내용과 한계의 법률유보'라는 세 요소로 구성된다. 소유권 요소는 바이마르 제153조의 'Sein Inhalt und seine Schranken ergeben sich aus den Gesetzen'과 문형이 거의 일치하고, 중화민국헌법 제143조도 소유권의 법률 보장·제한을 규정한다. 분배 요소는 五五憲草 제120조와 중화민국헌법 제143조의 자경농 육성 원칙, 필리핀헌법 제13조 제4절의 토지 수용·소필지 분할 양도와 대응하며, 소유 한도 요소는 필리핀헌법 제3절의 면적 법정과 북한 헌법안 제6조의 소유 최대한도 법령 위임과 대응한다. 다만 보상 지급 여부, 몰수 방식, 구체적 면적 수치, 과세·수용 규정 등에서 차이가 크고, '분배의 방법'을 법률로 정한다는 절차적 위임은 어느 후보에서도 직접 대응을 찾기 어렵다. 이들 대응은 문언상 비교에 그치며 역사적 참조 관계를 확정하는 것은 아니다."
+}

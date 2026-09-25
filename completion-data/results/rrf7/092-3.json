@@ -1,0 +1,121 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_092",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_064",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'예산 외'라는 표현과 의회 관여라는 점은 겹치나, 대상 조문의 규율 대상은 국채 모집과 국가부담 계약에 대한 '사전' 의결인 반면 이 조항은 이미 발생한 예산 초과·예산외 '지출'에 대한 사후 승낙이어서 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_087",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예비비의 설치·지출과 사후 승인을 규율하는 조항으로, 국채 모집이나 예산외 부담 계약이라는 대상 조문의 규율 대상과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_083",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "재정 처리 권한 전반을 국회 의결에 기하도록 하는 일반 원칙 규정으로, '국회의 의결'이라는 상용 표현만 겹칠 뿐 국채·계약이라는 구체적 행위 유형의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_085",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가의 채무 부담 행위에 대해 '국회의 의결'을 요구하는 문형이 대상 조문과 구체적으로 대응한다. 다만 대상은 국채 모집과 예산외 부담 계약을 열거하는 데 비해 이 조항은 국비 지출과 채무 부담을 열거한다.",
+      "evidence": [
+        {
+          "element": "의결 주체와 요건 문형",
+          "target_field": "original_text",
+          "target_quote": "國會의 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "国会の議決に基くことを必要とする",
+          "commonality": "국가재정상 부담행위에 국회 의결을 필수 요건으로 규정한다.",
+          "difference": "대상은 '의결을 얻어야 한다'는 승인 취득형, 후보는 '의결에 기할 것을 필요로 한다'는 근거요구형이다."
+        },
+        {
+          "element": "규율 대상 행위",
+          "target_field": "original_text",
+          "target_quote": "國債를 募集하거나 豫算外에 國家의 負擔이 될 契約을 함에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "国費を支出し、又は国が債務を負担するには",
+          "commonality": "국가에 재정적 부담을 발생시키는 행위를 국회 통제 대상으로 삼는 점이 같다.",
+          "difference": "대상은 국채 모집과 '예산외' 부담 '계약'을 특정하나, 후보는 국비 지출과 채무 부담 일반을 규정하고 '예산외'라는 한정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_129",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2호가 공채 모집과 공고(국고) 부담을 증가시키는 계약의 체결을 함께 묶어 입법기관의 의결 사항으로 규정하여, 대상 조문의 두 행위 유형과 '의결' 요건이 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "국채 모집 + 부담 계약의 병렬",
+          "target_field": "original_text",
+          "target_quote": "國債를 募集하거나 豫算外에 國家의 負擔이 될 契約을 함에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "募集公債處分公有財產或締結增加公庫負擔之契約",
+          "commonality": "공채(국채) 모집과 국고 부담을 초래하는 계약 체결을 하나의 항목으로 병렬하여 의회 통제 대상으로 삼는다.",
+          "difference": "후보는 공유재산 처분도 포함하고 '공고(公庫) 부담 증가'로 표현하며, 대상은 '예산외'라는 한정어를 두는 점이 다르다."
+        },
+        {
+          "element": "의결 요건",
+          "target_field": "original_text",
+          "target_quote": "國會의 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "在中央應經立法院之議決",
+          "commonality": "해당 행위에 대해 입법기관의 '의결'을 거치도록 요구한다.",
+          "difference": "후보는 중앙은 입법원, 지방사항은 각 법정기관 의결로 이원화하고 외채 모집 제한 규정을 두나, 대상은 국회 단일 주체만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_066",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'예산 외'의 추가 지출을 다루지만, 의회 의결의 필요 여부가 아니라 의회 의결 자체가 재원 충당 방법을 함께 정해야 한다는 내용이어서 규율 효과가 대상 조문과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_062",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제3항이 '국채 발행'과 '예산에 정한 것 외의 국고 부담이 될 계약'을 병렬하여 의회 관여를 요구하는 구조로, 대상 조문의 행위 유형·한정어·문형이 거의 그대로 대응한다.",
+      "evidence": [
+        {
+          "element": "규율 대상 행위와 한정어",
+          "target_field": "original_text",
+          "target_quote": "國債를 募集하거나 豫算外에 國家의 負擔이 될 契約을 함에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "国債ヲ起シ及予算ニ定メタルモノヲ除ク外国庫ノ負担トナルヘキ契約ヲ為スハ",
+          "commonality": "국채 관련 행위와 '예산에 정한 것 이외'의 부담 계약 체결을 병렬해 규정하는 어순·구성이 일치한다.",
+          "difference": "후보는 '국채를 일으킨다(起シ)'·'국고의 부담'이라 하고, 대상은 '국채를 모집'·'국가의 부담'으로 표현한다."
+        },
+        {
+          "element": "의회 관여의 형식과 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의 의결을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "帝国議会ノ協賛ヲ経ヘシ",
+          "commonality": "해당 행위의 사전 요건으로 의회의 관여를 요구한다는 점이 같다.",
+          "difference": "후보는 '제국의회의 협찬'을 거치는 형식이나, 대상은 '국회의 의결'을 얻는 형식으로 의회 주체와 관여의 성격이 다르다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'예산외'의 범위·판단 시점에 관한 별도 규율은 어느 후보에서도 구체화되어 있지 않음",
+    "의결을 얻지 않은 경우의 효과(무효 여부 등)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "일본어·중국어·독일어 후보의 의미 파악에 병기된 번역문의 이해가 일부 개입될 수 있다."
+  ],
+  "short_answer": "대상 조문과 가장 구체적으로 대응하는 것은 대일본제국헌법 제62조 제3항으로, '국채 발행'과 '예산에 정한 것 외의 국고 부담이 될 계약'을 병렬하는 구성과 어순이 거의 그대로 겹치되 의회 관여가 '협찬'이라는 점이 다르다. 五五헌초 제129조 제2호도 공채 모집과 공고 부담 증가 계약의 체결을 하나의 의결사항으로 묶어 대응하지만, 공유재산 처분을 포함하고 중앙·지방 의결기관을 이원화하며 '예산외' 한정이 없다. 일본국헌법 제85조는 국가의 채무 부담에 '국회의 의결'을 요구하는 문형에서 대응하나, 국비 지출과 채무 부담 일반을 규율해 행위 유형의 특정성이 다르다. 일본국헌법 제83조·제87조, 대일본제국헌법 제64조, 프로이센 제66조는 재정 일반원칙·예비비·사후 승낙·재원 충당 방법이라는 다른 규율 요소를 다루어 선택하지 않았다. 이상은 문언상 대응 확인일 뿐 역사적 참조 관계의 확정은 아니다."
+}

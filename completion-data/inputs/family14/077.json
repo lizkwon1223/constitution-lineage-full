@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_077",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "77",
+    "original_text": "法官은 憲法과 法律에 依하여 獨立하여 審判한다.",
+    "workbook_text_ko": "법관은 헌법과 법률에 의하여 독립하여 심판한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1936_DRAFT_ART_080",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "80",
+      "original_text": "法官依法律獨立審判。",
+      "workbook_text_ko": "법관은 법률에 따라 독립하여 재판한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_058",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "58",
+      "original_text": "裁判官ハ法律ニ定メタル資格ヲ具フル者ヲ以テ之ニ任ス\n２　裁判官ハ刑法ノ宣告又ハ懲戒ノ処分ニ由ルノ外其ノ職ヲ免セラルヽコトナシ\n３　懲戒ノ条規ハ法律ヲ以テ之ヲ定ム",
+      "workbook_text_ko": "재판관은 법률로 정한 자격을 갖춘 사람으로 임명한다.\n② 재판관은 형벌의 선고나 징계처분에 의하지 않고는 그 직에서 면직되지 않는다.\n③ 징계에 관한 규정은 법률로 정한다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_IX",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "IX",
+      "original_text": "SECTION 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSEC. 2. The House of Representatives, by a vote of two-thirds of all its Members, shall have the sole power of impeachment.\nSEC. 3. The Senate shall have the sole power to try all impeachments. When sitting for that purpose, the Senators shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members of the Senate.\nSEC. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 하원은 재적의원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 상원은 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 상원의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 상원 재적의원 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_087",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "87",
+      "original_text": "(1) Die Richter sind in Ausübung ihres richterlichen Amtes unabhängig.\n(2) In Ausübung seines richterlichen Amtes befindet sich ein Richter bei Besorgung aller ihm nach dem Gesetz und der Geschäftsverteilung zustehenden gerichtlichen Geschäfte, mit Ausschluß der Justizverwaltungssachen, die nicht nach Vorschrift des Gesetzes durch Senate oder Kommissionen zu erledigen sind.\n(3) Die Geschäfte sind unter die Richter eines Gerichtes für die in der Gerichtsverfassung bestimmte Zeit im voraus zu verteilen. Eine nach dieser Einteilung einem Richter zufallende Sache darf ihm durch Verfügung der Justizverwaltung nur im Fall seiner Behinderung abgenommen werden.",
+      "workbook_text_ko": "(1) 법관은 재판직무를 수행하면서 독립한다.\n(2) 법관이 법률과 사무분담에 따라 자신에게 속하는 모든 법원사무를 처리하는 때에는 재판직무를 수행하는 것으로 본다. 다만 법률에 따라 합의부 또는 위원회가 처리하여야 하는 것이 아닌 사법행정사무는 제외한다.\n(3) 법원의 법관들 사이의 사무는 법원조직법이 정한 기간에 대하여 미리 배분하여야 한다. 이 배분에 따라 법관에게 귀속된 사건은 그 법관이 직무를 수행할 수 없는 경우에만 사법행정상의 처분으로 그 법관의 담당에서 제외할 수 있다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_086",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "86",
+      "original_text": "判事는 裁判에 있어서 獨立的이며 오직 法令에만 服從한다.",
+      "workbook_text_ko": "판사는 재판에 있어서 독립적이며 오직 법령에만 복종한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_102",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "102",
+      "original_text": "Die Richter sind unabhängig und nur dem Gesetz unterworfen.",
+      "workbook_text_ko": "법관은 독립적이며, 법률에만 복종한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_003",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "3",
+      "original_text": "Die Verfassung und das Gesetz bestimmen, unter welchen Bedingungen die Eigenschaft eines Preußen und die staatsbürgerlichen Rechte erworben, ausgeübt und verloren werden.",
+      "workbook_text_ko": "헌법과 법률은 어떤 요건하\n에서 프로이센인의 지위와 국민의\n권리들을 취득하고, 행사하며 상실하게\n되는지를 규정한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_012",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "12",
+      "original_text": "Le Président de la République ne peut être mis en accusation que par la Chambre des députés, et ne peut être jugé que par le Sénat. - Les ministres peuvent être mis en accusation par la Chambre des députés pour crimes commis dans l'exercice de leurs fonctions. En ce cas, ils sont jugés par le Sénat. - Le Sénat peut être constitué en Cour de justice par un décret du Président de la République, rendu en Conseil des ministres, pour juger toute personne prévenue d'attentat contre la sûreté de l'Etat. - Si l'instruction est commencée par la justice ordinaire, le décret de convocation du Sénat peut être rendu jusqu'à l'arrêt de renvoi. - Une loi déterminera le mode de procéder pour l'accusation, l'instruction et le jugement.",
+      "workbook_text_ko": "공화국대통령은 하원에 의하지 아니하면 소추되지 아니하며, 상원에\n의하지 아니하면 재판받지 아니한다.\n장관은 그 직무집행에서 범한 중죄에 대해서 하원이 소추할 수 있다. 이 경\n우 장관은 상원에 의해서 재판을 받는다.\n상원은 국가의 안전에 대한 침해의 피고인을 재판하기 위하여 각의에서 행\n한 대통령의 명령(décret)으로 사법원으로 구성될 수 있다.\n예심(instruction)이 통상재판소(justice ordinaire)에서 개시된 때에도 이송결정이 있을 때까지는 상원 소집 명령(décret)을 발할 수 있다.\n법률로 소추ㆍ예심 및 판결에 대한 방법을 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_080",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "80",
+      "original_text": "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。",
+      "workbook_text_ko": "法官은 黨派를 超越하고 法律에 依據하여 獨立하여 裁判하며 如何한 干涉도 받지 아니한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_084",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "84",
+      "original_text": "Le président de la République nomme, sur présentation du Conseil supérieur de la magistrature, les magistrats, à l'exception de ceux du parquet.\nLe Conseil supérieur de la magistrature assure, conformément à la loi, la discipline de ces magistrats, leur indépendance et l'administration des tribunaux judiciaires.\nLes magistrats du siège sont inamovibles.",
+      "workbook_text_ko": "공화국대통령은 사법관직최고평의회의 추천에 의거하여 검찰관\n(magistrat du Parquet) 이외의 사법관(magistrat)을 임명한다.\n사법관직최고평의회는 법률에 따라서 이들 사법관의 규율, 그 독립과 사\n법재판소(tribunal judiciaire)의 운영을 보장한다.\n재판관(magistrat du siège)은 파면되지 아니한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_008",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "8",
+      "original_text": "(1) Die Rechtspflege wird durch unabhängige, nur den Gesetzen unterworfene Gerichte ausgeübt.\n(2) Die Urteile werden im Namen des Volkes verkündet und vollstreckt.",
+      "workbook_text_ko": "(1) 사법은 독립하여 오직 법률에만 구속되는 법원이 행사한다.\n(2) 판결은 국민의 이름으로 선고하고 집행한다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_VI",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "VI",
+      "original_text": "All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.\nThis Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.\nThe Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.",
+      "workbook_text_ko": "이 헌법이 채택되기 전에 계약된 모든 채무와 체결된 모든\n약정은 이 헌법에서도 연합규약에서와 마찬가지로 합중\n국에 대하여 유효하다.\n이 헌법과 이 헌법에 준거하여 제정되는 합중국의 법률\n그리고 합중국의 권한에 의하여 체결되었거나 체결될 모\n든 조약은 이 국가의 최고법이며, 모든 주의 법관은, 어\n느 주의 헌법이나 법률 중 이에 반하는 규정이 있을지라\n도, 이 최고법에 구속된다.\n앞서 언급한 상원 및 하원의원, 각 주의 주의회 의원, 합\n중국 및 각 주의 행정관 및 사법관은 선서 또는 확약에\n의하여 이 헌법을 옹호할 의무가 있다. 다만, 미합중국의\n어떠한 관직 또는 위임에 의한 공직에도 그 자격 요건으\n로서 종교상의 심사는 요구되지 않는다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_042",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "42",
+      "original_text": "法官은法律에 依하야 良心에 비취워 獨立하여 審判함",
+      "workbook_text_ko": "법관은 법률에 의하여 양심에 비추어 독립하여 심판함."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_076",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "76",
+      "original_text": "すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。\n２　特別裁判所は、これを設置することができない。行政機関は、終審として裁判を行ふことができない。\n３　すべて裁判官は、その良心に従ひ独立してその職権を行ひ、この憲法及び法律にのみ拘束される。",
+      "workbook_text_ko": "①모든 사법권은 최고재판소 및 법률이 정하는 바에 따라 설치되는 하급재판소에 속한다.\n②특별재판소는 설치할 수 없다. 행정기관은 종심(終審)으로서 재판을 할 수 없다.\n③모든 재판관은 양심에 따라 독립하여 그 직권을 행사하며 헌법 및 법률에만 구속된다."
+    }
+  ]
+}

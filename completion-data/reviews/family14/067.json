@@ -1,0 +1,54 @@
+{
+  "article": 67,
+  "reviewed_at": "2026-09-22T16:12:21.833177+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "3fea79a2f9af70300b19f6edbdd723793dbb4b3cc3c95be4baf6bc34774afc8d",
+  "input_sha256": "dbdda186f485bcbe6e299478265018a69ccc3b59f9a0ac7c4db7574c5a557e02",
+  "responses": [
+    {
+      "job_id": "067_83be41e3933a_r1",
+      "repeat": 1,
+      "sha256": "e08dce3ee2117cd8535432efe655df4ead69c49f5f2411e5ef35a8d4493466f3",
+      "assessment": "약헌의 거의 동일한 문언과 중화민국의 종료 조건 차이를 적절히 포착함. 범한 때를 별도의 행위 시점 차이로 해석한 것은 정밀화가 필요함."
+    },
+    {
+      "job_id": "067_83be41e3933a_r2",
+      "repeat": 2,
+      "sha256": "e8ea96c470ea394e2f0421490fe43092f4f6a94791b099c19041ae55ea91c3ba",
+      "assessment": "내란·외환 예외, 재직 기간, 소추와 체포의 차이를 구분함. 행위 시점이라는 설명은 조건형 문구로 보정함."
+    },
+    {
+      "job_id": "067_83be41e3933a_r3",
+      "repeat": 3,
+      "sha256": "033af72e6a50ee55e9e1d44849607d824a9c651dc64d3e7730cd3b7d17a00807",
+      "assessment": "핵심 대응과 소추·체포의 구분은 적절함. 문형 차이에서 실체적 시점 차이를 도출하지 않음."
+    }
+  ],
+  "synthesis": "약헌 제23조는 내란·외환 예외, 재직 중이라는 한정, 형사소추 배제의 효과가 거의 동일함. 중화민국 두 조문은 같은 예외와 불소추를 규정하되 파면·해직을 거치지 않은 상태라는 조건형으로 표현함. 일본 제53조는 내란·외환이라는 예외 문형에 대응하지만 의원의 회기 중 체포 제한이며 원의 허락과 현행범 예외가 추가됨. 소추 면제, 체포 제한, 발언·표결 면책을 구별함.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "scope_precision",
+      "finding": "죄를 범한 때를 행위 시점의 명시로 반복 설명하나 여기서는 예외가 적용되는 경우를 나타내는 조건형 문구이며 후보와 범행 시점 차이가 입증되지 않음.",
+      "action": "범죄 범주를 적는 표현과 범한 경우를 적는 표현의 차이로 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "재직중이라는 기간 한정을 미설명 요소에 기재하나 약헌에 그대로 있음.",
+      "action": "약헌의 대응을 인정하고 다른 후보의 종료 조건만 구별함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

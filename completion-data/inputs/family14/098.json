@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_098",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "98",
+    "original_text": "憲法改正의 提案은 大統領 또는 國會의 在籍議員 3分之 1以上의 贊成으로써 한다.\n憲法改正의 提議는 大統領이 이를 公告하여야 한다.\n前項의 公告期間은 30日以上으로 한다.\n憲法改正의 議決은 國會에서 在籍議員 3分之 2以上의 贊成으로써 한다.\n憲法改正이 議決된 때에는 大統領은 卽時 公布한다.",
+    "workbook_text_ko": "헌법개정의 제안은 대통령 또는 국회의 재적의원 3분지 1이상의 찬성으로써 한다.\n헌법개정의 제의는 대통령이 이를 공고하여야 한다.\n전항의 공고기간은 30일이상으로 한다.\n헌법개정의 의결은 국회에서 재적의원 3분지 2이상의 찬성으로써 한다.\n헌법개정이 의결된 때에는 대통령은 즉시 공포한다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_ORIGINAL_ART_044",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "44",
+      "original_text": "(1) Verfassungsgesetze oder in einfachen Gesetzen enthaltene Verfassungsbestimmungen können vom Nationalrate nur in Anwesenheit von mindestens der Hälfte der Mitglieder und mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen beschlossen werden; sie sind als solche („Verfassungsgesetz“, „Verfassungsbestimmung“) ausdrücklich zu bezeichnen.\n(2) Jede Gesamtänderung der Bundesverfassung, eine Teiländerung aber nur, wenn dies von einem Drittel der Mitglieder des Nationalrates oder des Bundesrates verlangt wird, ist nach Beendigung des Verfahrens gemäß Artikel 42, jedoch vor der Beurkundung durch den Bundespräsidenten, einer Abstimmung des gesamten Bundesvolkes zu unterziehen.",
+      "workbook_text_ko": "(1) 헌법률 또는 일반법률에 포함된 헌법규정은 국민의회 의원 절반 이상의 출석과 투표수 3분의 2 이상의 찬성으로만 의결할 수 있다. 이들은 그 성격을 ‘헌법률’ 또는 ‘헌법규정’으로 명시하여야 한다.\n(2) 연방헌법의 전면개정은 모두, 부분개정은 국민의회 또는 연방참사원 의원 3분의 1이 요구하는 경우에만, 제42조의 절차가 끝난 뒤 연방대통령이 인증하기 전에 전체 연방국민의 투표에 부쳐야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_073",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "73",
+      "original_text": "将来此ノ憲法ノ条項ヲ改正スルノ必要アルトキハ勅命ヲ以テ議案ヲ帝国議会ノ議ニ付スヘシ\n２　此ノ場合ニ於テ両議院ハ各々其ノ総員三分ノ二以上出席スルニ非サレハ議事ヲ開クコトヲ得ス出席議員三分ノ二以上ノ多数ヲ得ルニ非サレハ改正ノ議決ヲ為スコトヲ得ス",
+      "workbook_text_ko": "장래 이 헌법의 조항을 개정할 필요가 있는 때에는 칙명으로 의안을 제국의회의 심의에 부쳐야 한다.\n② 이 경우 양원은 각각 재적의원 3분의 2 이상이 출석하지 않으면 의사를 열 수 없으며, 출석의원 3분의 2 이상의 다수를 얻지 못하면 개정을 의결할 수 없다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_055",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "55",
+      "original_text": "本法의 修改는 政府主席이나 또는 立法議院 在籍議員 三分之一 以上의 提議로 在席議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成이 있어야 함",
+      "workbook_text_ko": "본법의 수정은 정부주석이나 또는 입법의원 재적의원 3분의 1 이상의 제의로 재석의원 3분의 2 이상의 출석과 출석의원 3분의 2 이상의 찬성이 있어야 함."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_030",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "30",
+      "original_text": "Ein Beschluß des Landtags, die Verfassung zu ändern, ist nur gültig, wenn mindestens zwei Drittel der gesetzlichen Mitgliederzahl anwesend sind und mindestens zwei Drittel der Anwesenden zustimmen.",
+      "workbook_text_ko": "헌법을 개정하는 주의회의 의결은 법정 의원정수의 3분의 2 이상이 출석하고 출석자의 3분의 2 이상이 동의한 때에만 유효하다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_107",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "107",
+      "original_text": "Die Verfassung kann auf dem ordentlichen Wege der Gesetzgebung abgeändert werden, wobei in jeder Kammer die gewöhnliche absolute Stimmenmehrheit bei zwei Abstimmungen, zwischen welchen ein Zeitraum von wenigstens ein und zwanzig Tagen liegen muß, genügt.",
+      "workbook_text_ko": "헌법은 통상적인 입법의\n방법으로 개정될 수 있고, 그 때 의\n회의 각 원에서 두 번 행해질 투\n표는 일반적인 절대과반수다수결로\n충분하지만, 그 두 표결 사이에는 적\n어도 21일의 기간이 놓여져야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_096",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "96",
+      "original_text": "この憲法の改正は、各議院の総議員の三分の二以上の賛成で、国会が、これを発議し、国民に提案してその承認を経なければならない。この承認には、特別の国民投票又は国会の定める選挙の際行はれる投票において、その過半数の賛成を必要とする。\n２　憲法改正について前項の承認を経たときは、天皇は、国民の名で、この憲法と一体を成すものとして、直ちにこれを公布する。",
+      "workbook_text_ko": "①헌법의 개정은 국회가 각 원의 총 재적의원 3분의 2 이상의 찬성으로 발의하고, 국민에게 제안하여 그 승인을 거쳐야 한다. 이러한 승인에는 특별 국민투표 또는 국회가 정하는 선거 시 행하여지는 투표에서 과반수의 찬성을 필요로 한다.\n②헌법 개정에 대하여 제1항의 승인을 거친 때에는, 천황은 국민의 이름으로 이 헌법과 일체를 이루는 것으로서 이를 즉시 공포한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_102",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "102",
+      "original_text": "朝鮮民主主義人民共和國 憲法의 修正은 最高人民會議에서 그 代議員 三分의二 以上이 參席하여 그 三分의二 以上의 贊成이 있어야만 實現할 수 있다.",
+      "workbook_text_ko": "조선민주주의인민공화국 헌법의 수정은 최고인민회의에서 그 대의원 3분의 2 이상이 참석하여 그 3분의 2 이상의 찬성이 있어야만 실현할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_090",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "90",
+      "original_text": "La révision a lieu dans les formes suivantes.\nLa révision doit être décidée par une résolution adoptée à la majorité absolue des membres composant l'Assemblée nationale.\nLa résolution précise l'objet de la révision.\nElle est soumise, dans le délai minimum de trois mois, à une deuxième lecture, à laquelle il doit être procédé dans les mêmes conditions qu'à la première, à moins que le Conseil de la République, saisi par l'Assemblée nationale, n'ait adopté à la majorité absolue la même résolution.\nAprès cette seconde lecture, l'Assemblée nationale élabore un projet de loi portant révision de la Constitution. Ce projet est soumis au Parlement et voté à la majorité et dans les mêmes formes prévues pour la loi ordinaire.\nIl est soumis au référendum, sauf s'il a été adopté en seconde lecture par l'Assemblée nationale à la majorité des deux tiers ou s'il a été voté à la majorité des trois cinquièmes par chacune des deux assemblées.\nLe projet est promulgué comme loi constitutionnelle par le président de la République dans les huit jours de son adoption.\nAucune révision constitutionnelle relative à l'existence du Conseil de la République ne pourra être réalisée sans l'accord de ce Conseil ou le recours à la procédure de référendum.",
+      "workbook_text_ko": "개정은 다음과 같은 절차로 한다.\n개정은 국민의회를 구성하는 의원의 절대다수로 채택한 결의(résolution)로\n결정하여야 한다.\n결의는 개정의 대상을 명확히 한다.\n결의는 최소 3개월의 간격을 두고 제1독회와 같은 조건으로 제2독회에 회부한다. 다만 국민의회가 회부한 동일 결의를 공화국평의회가 절대다수로 채택한 경우에는 그러하지 아니하다.\n제2 독회 후에 국민의회는 헌법개정을 내용으로 하는 법안을 기초한다. 이\n법안은 국회에 회부하여 다수로 또 통상법률(loi ordinaire)에 대해서 정한\n형식으로 표결한다.\n이 법안은 국민투표(référendum)에 회부한다. 다만, 그 법안이 제2독회에서\n국민의회의 3분의 2의 다수로 채택되거나 또는 양원의 각각에서 5분의 3의\n다수로 가결된 때에는 그러하지 아니하다.\n이 법안은 채택 후 8일 이내에 공화국대통령이 헌법법률(loi\nconstitutionnelle)로서 공포한다.\n공화국평의회의 존재에 관한 어떠한 헌법개정도 공화국평의회의 동의를 얻거나 국민투표 절차를 거친 경우에만 실행할 수 있다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_174",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "174",
+      "original_text": "憲法之修改，應依左列程序之一為之：\n一、由國民大會代表總額五分之一提議，三分之二之出席，及出席代表四分之三之決議，得修改之。\n二、由立法院立法委員四分之一之提議，四分之三之出席，及出席委員四分之三之決議，擬定憲法修正案，提請國民大會複決。此項憲法修正案應於國民大會開會前半年公告之。",
+      "workbook_text_ko": "憲法의 改正은 左記節次中의 1에 依하여 이를 行하여야 한다.\n  1, 國民大會代表總數5分之1의 提議와 3分之2의 出席 및 出席代表 4分之3의 決議에 의하여 이를 改正할 수 있다.\n  2, 立法院의 立法委員4分之1의 提議와 4分之3의 出席 및 出席委員4分之3의 決議에 의하여 憲法改正案을 作成하여 國民大會의 認准을 要請한다. 이 憲法改正案은 國民大會開會의 半年前에 이를 公告하여야 한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_076",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "76",
+      "original_text": "Die Verfassung kann im Wege der Gesetzgebung geändert werden. Jedoch kommen Beschlüsse des Reichstags auf Abänderung der Verfassung nur zustande, wenn zwei Drittel der gesetzlichen Mitgliederzahl anwesend sind und wenigstens zwei Drittel der Anwesenden zustimmen. Auch Beschlüsse des Reichsrats auf Abänderung der Verfassung bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen. Soll auf Volksbegehren durch Volksentscheid eine Verfassungsänderung beschlossen werden, so ist die Zustimmung der Mehrheit der Stimmberechtigten erforderlich.\nHat der Reichstag entgegen dem Einspruch des Reichsrats eine Verfassungsänderung beschlossen, so darf der Reichspräsident dieses Gesetz nicht verkünden, wenn der Reichsrat binnen zwei Wochen den Volksentscheid verlangt.",
+      "workbook_text_ko": "입법절차를 거쳐 헌법을 개정할 수 있다.\n단, 제국의회가 헌법 개정에 대해 의결권을 행사하기 위해서는 재적 의원 3분의 2가 참여하고, 이중 3분의 2 이상이 동의한 경우에는 의결권 행사를 인정한다. 헌법 개정에 대한 제국상원의 의결권 행사 또한 전체 투표 수의 3분의 2에 해당하는 과반수 의견을 확보해야 한다. 국민 발의를 통해 국민표결로 헌법개정사항이 의결되려면 표결권자의 과반수 동의가 필요하다.\n제국의회가 제국상원의 이의제기에 반하여 헌법 개정을 의결 했을 시 제국대통령은 제국상원이 2주 이내에 국민표결을 요구할 경우, 당해 법률을 공포해서는 아니 된다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "8",
+      "original_text": "Les chambres auront le droit, par délibérations séparées prises dans chacune à la majorité absolue des voix, soit spontanément, soit sur la demande du Président de la République, de déclarer qu'il y a lieu de réviser les lois constitutionnelles. - Après que chacune des deux chambres aura pris cette résolution, elles se réuniront en Assemblée nationale pour procéder à la révision. - Les délibérations portant révision des lois constitutionnelles, en tout ou en partie, devront être prises à la majorité absolue des membres composant l'Assemblée nationale. - Toutefois, pendant la durée des pouvoirs conférés par la loi du 20 novembre 1873 à M. le maréchal de Mac-Mahon, cette révision ne peut avoir lieu que sur proposition du Président de la République.",
+      "workbook_text_ko": "양원은 자발적으로 또는 공화국대통령의 청구에 근거하여 각별로 심의\n하며, 각별의 투표의 절대다수로 헌법법률(loi constitutionnelle)을 개정할 필요가\n있다고 선언할 권한을 가진다.\n양원이 이러한 결정을 한 후, 양원은 개정작업에 착수하기 위해서 국민의\n회에 합동한다.\n전면적이든 부분적이든 헌법법률을 개정하는 결의는 국민의회를 구성하는\n자의 절대다수로 하여야 한다.\n그러나 1873년 11월 20일의 법률로 마크 마옹 원수(maréchal de\nMac-Mahon)에게 권한이 위임된 동안은 공화국대통령의 제안에 의거하지\n아니하면 헌법법률을 개정할 수 없다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_V",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "V",
+      "original_text": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.",
+      "workbook_text_ko": "연방의회는 상･하 양원의 3분의 2가 이 헌법에 대한 개정\n의 필요성을 인정할 때에는 헌법 개정을 발의해야 하며, 모\n든 주의 3분의 2 이상의 주의회의 요청이 있을 때에도 개\n정 발의를 위한 헌법회의를 소집해야 한다. 어느 경우에나\n연방의회가 제의하는 비준의 방법으로서 모든 주의 4분의\n3의 주의회에 의한 비준, 또는 모든 주의 4분의 3의 주 헌\n법회의에 의한 비준 중 어느 하나에 따라 비준되는 때에는\n모든 점에서 이 헌법의 일부로서 효력이 발생한다. 다만, 1808년\n전에 이루어지는 개정은 어떠한 방법으로도 제1조 제9항\n제1호 및 제4호에 변경을 가져올 수 없다. 어느 주도 그 주\n의 동의 없이는 상원에서의 동등한 투표권을 박탈당하지\n않는다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_147",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "147",
+      "original_text": "憲法非由國民大會全體代表四分一以上之提議四分三以上之出席及出席代表三分二以上之決議，不得修改之。\n修改憲法之提議，應由提議人於國民大會開會前一年公告之。",
+      "workbook_text_ko": "헌법은 국민대회 전체 대표 4분의 1 이상의 제의, 4분의 3 이상의 출석 및 출석대표 3분의 2 이상의 의결 없이는 개정할 수 없다.\n헌법 개정의 제의는 제의자가 국민대회 개회 1년 전에 공고하여야 한다."
+    }
+  ]
+}

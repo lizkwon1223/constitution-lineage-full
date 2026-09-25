@@ -1,0 +1,79 @@
+{
+  "article": 9,
+  "reviewed_at": "2026-09-22T15:12:12.828038+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "7271a1fe58fc858356141ec1ac7152610db72b8808ea22bfbeb379dd8c8eb7c5",
+  "input_sha256": "92f718c340a737817018f63011923791dc8972d3c19a4edc01dbdfcbedb3a8b7",
+  "responses": [
+    {
+      "job_id": "009_942ff449edb9_r1",
+      "repeat": 1,
+      "sha256": "c1846558efaed1127fdc6b459fca8c16d0c51446f3061368fbfd119c0b1087a0",
+      "assessment": "법률 유보·영장·변호인·법원 심사 요소를 나눈 주된 비교는 타당함. 일본1889와 약헌에 신체 자유의 독립 선언까지 함께 있는 듯한 요약, 대상 청구권자 범위가 없다는 표현은 보완해야 함."
+    },
+    {
+      "job_id": "009_942ff449edb9_r2",
+      "repeat": 2,
+      "sha256": "8aec69922c877f61914a8d7282bddfa3ebd29bfdb7f3b035382ca8a24fd67311",
+      "assessment": "미국 영장 조항의 부분 대응도 포함한 점은 유용함. 다만 영장 발부 요건을 모든 체포·수색의 영장 필요로 확장한 공통점, 후보 전체에 신체자유 선언이 있다고 읽힐 수 있는 요약을 한정해야 함."
+    },
+    {
+      "job_id": "009_942ff449edb9_r3",
+      "repeat": 3,
+      "sha256": "d716d52960a60e071b0da193363668fd6c4c0fda3c9389bbaff289b69d370e7b",
+      "assessment": "선택 후보의 핵심 대응은 지지됨. 북한안의 검사 승인 대안을 두고 법관 측의 사전 판단이 공통 필수요건인 것처럼 말한 점과 미국 영장 요구의 과도한 일반화는 수정 필요함."
+    }
+  ],
+  "synthesis": "제1항은 일본1889·약헌의 법률 유보형 처분 열거, 중화민국 계열·프로이센1850의 신체자유 보장과 제한 구조로 나누어 비교함. 일본1946 제34조는 즉시 변호인 의뢰와 공개 법정의 이유 제시이며, 대상의 당부 심사청구와 완전히 같지 않음. 중화민국은 제심·추구, 24시간, 본인 또는 타인 청구를 상세히 정함. 미국·필리핀은 부당한 수색·압수 방지와 영장 발부 요건, 필리핀은 법관 판단까지 명시함. 북한안은 재판소 결정 또는 검사 승인을 대안으로 허용하므로 법관 영장만을 요구하는 대상과 구별됨. 현행범인의 도피·증거인멸 염려와 사후 영장 청구를 결합한 문언은 제시된 후보에서 직접 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_IV",
+      "type": "condition_to_requirement",
+      "severity": "material",
+      "finding": "원문은 부당한 수색·압수 금지와 영장 발부 조건을 규정하는데 공통점에서 수색·체포에 영장을 요구하고 영장 없는 침해를 금지한다고 일반화함.",
+      "action": "영장을 통한 강제처분 통제와 발부 요건의 부분 대응으로 한정함. 모든 처분에 대한 사전 영장 필요를 이 문장만으로 단정하지 않음."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_024",
+      "type": "alternative_condition",
+      "severity": "material",
+      "finding": "공통점은 체포에 재판(법관) 측의 사전 판단을 요구한다고 하였으나 후보는 검사 승인만으로도 문언상 요건을 충족함. 같은 근거의 차이 설명은 이 대안을 정확히 적고 있음.",
+      "action": "공통점을 체포의 사전 승인 통제로 바꾸고 재판소 결정과 검사 승인이라는 선택적 요건을 유지함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": null,
+      "type": "summary_scope",
+      "severity": "minor",
+      "finding": "요약에서 여러 후보를 신체의 자유 선언+법률 유보형 열거로 묶었으나 일본1889 제23조와 약헌 제6조에는 별도의 신체자유 총칙 선언이 없음. 세부 근거는 이를 구별함.",
+      "action": "신체자유 선언과 법률 유보 열거의 대응 후보를 나누어 요약함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "ROC1946_PROM1947_ART_008",
+      "type": "claimant_scope",
+      "severity": "minor",
+      "finding": "대상은 신청권자 범위를 정하지 않는다고 하였으나 체포·구금을 받은 누구든지라는 청구권 주체를 명시함.",
+      "action": "대상은 피체포·구금자의 권리이고 후보는 본인 또는 타인의 청구를 명시한다는 차이로 수정함."
+    }
+  ],
+  "limits": [
+    "북한안의 검사를 법원과 같은 독립 심사기관으로 취급하지 않음.",
+    "변호인 조력을 받을 권리와 변호인에게 의뢰할 권리, 구금 이유 제시와 당부 심사를 동의어로 처리하지 않음.",
+    "대상 원문의 현행범 관련 문구를 오늘날 긴급체포 요건이나 다른 판본의 문구로 바꾸지 않음."
+  ]
+}

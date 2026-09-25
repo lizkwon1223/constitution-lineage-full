@@ -1,0 +1,89 @@
+{
+  "article": 103,
+  "reviewed_at": "2026-09-22T16:37:02.262912+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "2dc4fa1feda66b35af374cd38565ff654c7dce1ab5d6795847d49a7ef6182f55",
+  "input_sha256": "ca264b9ac1e5ba6dcdf6929f17065fc65fad5fb5d1ba4b54005b3c2458a7880c",
+  "responses": [
+    {
+      "job_id": "103_28e088eea4bb_r1",
+      "repeat": 1,
+      "sha256": "7e2a4154cc2609b13db38dc320c2c0fb90a74a42987d7c998132f480cdda821c",
+      "assessment": "약헌·일본·필리핀의 공무원 지위 연속성에 관한 핵심 대응은 적절함. 후임자 선출·임명과 실제 직무 인수라는 종료 조건을 공통점에서도 엄밀하게 구분할 필요가 있음."
+    },
+    {
+      "job_id": "103_28e088eea4bb_r2",
+      "repeat": 2,
+      "sha256": "0248f4fcbc6d24d2d7c4d995a517ccb70dcf2cd83a452c301b7df2d2381b4599",
+      "assessment": "세 후보의 예외와 적용 범위를 잘 구분함. 대상이 모든 사유의 면직을 금지하거나 후임자 임명 후 반드시 일정 시간 더 재직하게 한다는 뜻으로 확대하지 않아야 함."
+    },
+    {
+      "job_id": "103_28e088eea4bb_r3",
+      "repeat": 3,
+      "sha256": "93a4b58eb70457bda41d596a5c4c5a1aa521693db8755b144d1b7035a4d0b6c1",
+      "assessment": "계속 재직과 후임자 교체라는 핵심 구조를 포착함. 필리핀의 임명·자격 구비 및 1년 조건을 일반화한 요약과 포괄적 재직 보장 표현은 좁혀야 함."
+    }
+  ],
+  "synthesis": "약헌 제58조와 일본 제103조는 헌법 전환기에 기존 공무원의 지위를 유지하고 후임자 선거·임명을 종료 계기로 삼는다는 점에서 직접 대응함. 다만 두 후보는 새 헌법상 상응하는 지위가 있는 공무원을 대상으로 하고, 일본은 법률상 특별 규정의 예외도 둠. 제헌헌법은 후임자의 선거·임명 자체가 아니라 직무 인수까지 직무를 수행하도록 규정함. 필리핀 제15편 제4절은 입법부의 별도 조치 전까지 기존 공무원이 재직하는 원칙과, 일정한 대통령 임명직의 후임자 임명·자격 구비에 따른 교체를 구분함. 그 1년 조건은 후자의 후임자 임명에 붙음. 이 비교에서 헌법 전환에 따른 연속성과 통상의 면직 가능성은 구별해야 함.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "condition_precision",
+      "finding": "공통점에서 선거·임명을 같은 종료 조건으로 요약하나 대상은 후임자의 직무 인수, 약헌·일본은 선거·임명 자체를 기준으로 함. 차이 설명에서는 대체로 이를 구분함.",
+      "action": "공통점은 후임자 교체에 연동된 과도기적 연속성으로 한정하고 정확한 종료 조건을 병기함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "unsupported_absolute_scope",
+      "finding": "상응 지위 요건이나 명시적 예외가 없다는 이유로 한정·예외 없이 모든 공무원의 재직을 보장한다는 표현을 사용함.",
+      "action": "전환기에 관한 이 조문의 명시적 적용 조건을 비교하되 통상 면직까지 배제한다고 추론하지 않음.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "temporal_precision",
+      "finding": "직무 인수 조건을 선거·임명보다 반드시 뒤의 시점으로 미루는 것으로 서술함. 두 시점이 일치하는 경우까지 배제할 근거는 없음.",
+      "action": "종료 조건이 다르다고 설명하며 언제나 시간적 지연이 발생한다고 단정하지 않음.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "북한 제51조의 상임위원회 직무 계속과 후임 위원회 선거라는 구조적 대응을 기관·개별 공무원의 차이 때문에 배제함.",
+      "action": "해산된 의회의 상임위원회와 헌법 전환기 공무원의 차이를 전제로 직무 공백 방지라는 부분 대응을 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "summary_overgeneralization",
+      "finding": "요약에서 세 후보 모두를 헌법 시행 당시 재직자와 후임자 선거·임명이라는 구조로 묶어 필리핀의 별도 입법 조치, 임명·자격 구비 및 제한된 1년 조건을 희석함.",
+      "action": "공통된 연속성 원칙과 각 후보의 종료 조건을 분리하여 요약함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

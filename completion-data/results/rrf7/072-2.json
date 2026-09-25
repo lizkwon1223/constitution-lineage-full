@@ -1,0 +1,145 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_072",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_029",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "도입 문형('左의 事項은 國務會議의 議決을 經하여야')이 거의 동일하고, 계엄안·해엄안, 조약안, 행정각부 간 연락사항과 권한 문제, 공무원 임면, 기타 중요 정책의 수립·운영 등 열거 항목이 다수 대응한다. 다만 권한 분쟁/획정, 임면 대상 범위, 회부 사안의 주체에서 차이가 있어 비교 범위는 해당 항목으로 한정한다.",
+      "evidence": [
+        {
+          "element": "의결 요건 도입 문형과 심의기관",
+          "target_field": "original_text",
+          "target_quote": "左의 事項은 國務會議의 議決을 經하여야한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "左의 事項은 國務會議의 議決을 經하여야 함",
+          "commonality": "열거 사항을 '국무회의의 의결을 경하여야' 한다는 동일한 기관명·문형을 쓴다.",
+          "difference": "대상은 종결형 '한다'의 헌법 조문이고 후보는 '함'의 약헌 표기이며, 열거 항목 수(13개 대 7개)가 크게 다르다."
+        },
+        {
+          "element": "계엄 관련 의안",
+          "target_field": "original_text",
+          "target_quote": "戒嚴案, 解嚴案",
+          "candidate_field": "original_text",
+          "candidate_quote": "戒嚴案 解嚴案",
+          "commonality": "계엄안과 해엄안을 한 항목으로 묶어 국무회의 의결사항으로 든다.",
+          "difference": "후보는 같은 호에 '恩赦案'을 함께 두나, 대상은 사면 관련 사항을 별도 호(영예수여, 사면, 감형, 복권)로 분리한다."
+        },
+        {
+          "element": "행정각부 간 조정 사항",
+          "target_field": "original_text",
+          "target_quote": "行政各部間의 連絡事項과 權限의 劃定",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政 各部間의 連絡事項 及 權限 爭議",
+          "commonality": "각부 간 연락사항과 권한 문제를 하나의 의결사항으로 규정한다.",
+          "difference": "대상은 권한의 '획정'(사전적 배분 확정)을, 후보는 권한 '쟁의'(분쟁 해결)를 규율 대상으로 삼는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률안·예산안·계엄안·선전안·강화안·조약안 등 의안 목록이 겹치나, 의결 주체가 합의제 내각(국무회의)이 아니라 입법원이어서 대상 조문의 규율 구조와 주체가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "내각 합의체(행정원회의)가 법률안·예산안·계엄안·선전안·강화안·조약안 및 기타 중요사항, 각부 공동관계 사항을 의결한다는 점에서 대상 조문의 항목 구성·심의기관 구조와 구체적으로 대응한다. 다만 입법원 제출 전 심의라는 절차적 한정과 임면·청원 등 항목의 부재는 차이다.",
+      "evidence": [
+        {
+          "element": "대외·재정·계엄 관련 의안의 일괄 열거",
+          "target_field": "original_text",
+          "target_quote": "條約案, 宣戰, 講和 其他 重要한 對外政策에 關한 事項",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律案，預算案，戒嚴案，大赦案，宣戰案，媾和案，條約案及其他重要事項",
+          "commonality": "조약·선전·강화 등 대외 의안과 법률안·예산안·계엄안을 내각 합의체의 의결사항으로 함께 열거한다.",
+          "difference": "후보는 이를 '입법원에 제출할' 의안으로 한정하고 대사안을 포함하는 반면, 대상은 제출 상대를 명시하지 않고 대통령령안·헌법개정안 등을 추가한다."
+        },
+        {
+          "element": "합의체 의결 절차",
+          "target_field": "workbook_text_ko",
+          "target_quote": "좌의 사항은 국무회의의 의결을 경하여야한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "提出於行政院會議議決之",
+          "commonality": "열거된 중요사항을 내각 합의체 회의에 부쳐 의결하도록 하는 절차 요건을 둔다.",
+          "difference": "후보는 행정원장·각부회 수장에게 제출 의무를 지우는 형식이고, 대상은 사항 자체가 국무회의 의결을 거쳐야 한다는 객체 중심 규정이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_064",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의안 목록은 유사하나 주체가 입법원의 의결권 규정이어서 국무회의 의결사항 열거라는 대상 조문의 구조와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_061",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'左列事項應經行政會議議決'이라는 도입 문형과, 법률안·예산안·계엄안·조약안 등 의안 열거 및 '각원이 제의한 사항'이라는 잔여 조항이 대상의 제1문·제13호와 구체적으로 대응한다. 다만 심의기관 명칭(행정회의)과 입법원 제출 전제, 임면·청원 항목 부재는 차이다.",
+      "evidence": [
+        {
+          "element": "열거 사항의 의결 요건 도입부",
+          "target_field": "original_text",
+          "target_quote": "左의 事項은 國務會議의 議決을 經하여야한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "左列事項應經行政會議議決",
+          "commonality": "'좌(열)의 사항은 ~회의의 의결을 거쳐야 한다'는 동일한 구문으로 열거형 의결사항 조항을 연다.",
+          "difference": "심의기관이 대상은 국무회의, 후보는 행정회의이며, 후보의 각 호는 대부분 '입법원에 제출하는' 의안으로 한정된다."
+        },
+        {
+          "element": "구성원 제출 사항이라는 잔여 조항",
+          "target_field": "original_text",
+          "target_quote": "其他 國務總理 또는 國務委員이 提出하는 事項",
+          "candidate_field": "original_text",
+          "candidate_quote": "六、行政院副院長各政務委員各部各委員會提議之事項。",
+          "commonality": "내각 구성원이 제의·제출한 사항을 포괄적 잔여 의결사항으로 두는 점이 같다.",
+          "difference": "제출 주체가 대상은 국무총리·국무위원인 반면, 후보는 부원장·정무위원·각부·각위원회이며 총통·원장 교의 사항을 별도 호로 둔다."
+        },
+        {
+          "element": "대외 의안 항목",
+          "target_field": "workbook_text_ko",
+          "target_quote": "조약안, 선전, 강화 기타 중요한 대외정책에 관한 사항",
+          "candidate_field": "original_text",
+          "candidate_quote": "三、提出於立法院之宣戰案、媾和案、條約案、及其他關於重要國際事項之議案。",
+          "commonality": "선전·강화·조약과 '기타 중요한 대외(국제) 사항'을 한 항목으로 묶어 내각 회의 의결대상으로 삼는다.",
+          "difference": "후보는 '입법원에 제출하는 의안'으로 한정하나 대상은 제출처 제한 없이 대외정책 사항 일반을 포함한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_010",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방과 주 사이의 입법·집행 권한 배분 목록으로, 내각 합의체의 의결사항 열거라는 대상 조문의 규율 대상과 다르다. 열거형 목록이라는 형식적 유사성만 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_107",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'左列事項' 열거 문형만 유사할 뿐 내용은 중앙·지방 간 입법 및 집행 권한 배분이어서 국무회의 의결사항과 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "국정의 기본적 계획과 정책(제1호)",
+    "헌법개정안·대통령령안(제3호)",
+    "결산안, 재정상의 긴급처분안, 예비비지출(제4호)",
+    "임시국회의 집회요구(제5호)",
+    "군사에 관한 중요사항(제7호)",
+    "영예수여·사면·감형·복권의 세분(제8호)",
+    "정부에 제출 또는 회부된 청원의 심사(제10호)",
+    "대법관·검찰총장·심계원장·국립대학총장·대사·공사·국군총사령관·국군참모총장 등 구체적 직위와 중요 국영기업 관리자의 임면(제11호)"
+  ],
+  "limitations": [
+    "문언 대응만 검토했고 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "중화민국 계열 후보는 한문 원문이어서 항목 대응 판단에 표기 차이가 개입할 수 있다."
+  ],
+  "short_answer": "조선임시약헌 제29조가 '左의 事項은 國務會議의 議決을 經하여야'라는 도입 문형과 기관명까지 일치하고 계엄안·해엄안, 조약안, 행정각부 간 연락사항 및 권한 문제, 공무원 임면, 기타 중요 정책의 수립·운영 등 다수 항목에서 대상과 대응한다. 중화민국 五五憲草 제61조는 '左列事項應經行政會議議決'이라는 동일 구문과 법률안·예산안·계엄안·대외 의안 열거, 내각 구성원 제의 사항이라는 잔여 조항에서, 중화민국헌법 제58조는 내각 합의체가 법률안·예산안·계엄안·선전·강화·조약안 및 각부 공동관계 사항을 의결한다는 점에서 각각 구체적 대응을 보인다. 반면 중화민국헌법 제63조와 五五憲草 제64조는 같은 의안 목록을 쓰되 주체가 입법원이고, 제107조와 오스트리아 제10조는 권한 배분 목록이어서 열거 형식 외 대응이 없다. 국정 기본계획, 헌법개정안·대통령령안, 예비비·결산, 임시국회 집회요구, 청원 심사, 구체적 고위직 임면 목록 등은 제시 후보로 설명되지 않는다. 이상은 문언상 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

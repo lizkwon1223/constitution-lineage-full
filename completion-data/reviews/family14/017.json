@@ -1,0 +1,58 @@
+{
+  "article": 17,
+  "reviewed_at": "2026-09-22T15:17:12.591895+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "21ac30587b1f982201917e2bdfe06c65ae5f8e5381e18957a2df196b9988d7d7",
+  "input_sha256": "a03cdd97e673fe5a44d1436eb99dbc3983720ed3bc61839f4d9c32373b275f59",
+  "responses": [
+    {
+      "job_id": "017_e5032e344e58_r1",
+      "repeat": 1,
+      "sha256": "cdc6b72d2f561fe184ba7d8de418049f3384f4122183cad1a0939d3ba568f15d",
+      "assessment": "일본의 세 항 배열, 五五憲草의 여성·아동 노동 특별보호, 프랑스의 권리·의무 병렬, 바이마르의 특별보호 문형은 지지됨. 바이마르 인용 오자와 프랑스의 참여권을 전면적 결정 위임처럼 요약한 부분을 보완해야 함."
+    },
+    {
+      "job_id": "017_e5032e344e58_r2",
+      "repeat": 2,
+      "sha256": "bfe97486399078e3944ff36ec1129f2b37b215f345abf78b031b2f8996c77afa",
+      "assessment": "핵심 비교는 타당함. 프랑스의 집단적 결정 참여와 국가의 근로조건 입법을 양자택일 관계로 읽지 않도록 한정해야 함."
+    },
+    {
+      "job_id": "017_e5032e344e58_r3",
+      "repeat": 3,
+      "sha256": "9787d28493298c1a00863e5c9d7573e906056a8f7b2ca8e14aa5ecad531b4cfe",
+      "assessment": "핵심 세 후보 및 바이마르의 비선택 이유는 원문에 근거함. 프랑스의 참여권을 법률유보와 배타적으로 대비한 요약은 보완 필요함."
+    }
+  ],
+  "synthesis": "일본 제27조는 국민의 근로 권리·의무, 근로조건 기준의 법률 규정, 아동 혹사 금지라는 순서가 대응함. 대상은 임금·시간·휴식 예시를 생략하고 여자와 소년의 특별보호를 명시함. 五五憲草 제124조는 여성·아동 노동자에 대한 연령·신체상태에 맞춘 특별보호를 규정함. 프랑스 전문은 근로 의무와 일자리 취득권, 대표를 통한 근로조건 집단 결정 참여를 각각 보장함. 바이마르 제157조는 노동력 일반의 특별보호와 통일 노동법의 형성 과제이므로 보호 대상과 규율 형식의 차이를 유지함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_157",
+      "type": "quote_typo",
+      "severity": "minor",
+      "finding": "인용은 Arbeitrecht이나 원문은 Arbeitsrecht임. 같은 응답이 오자 가능성을 스스로 언급하였지만 원인용이 정확해지는 것은 아님.",
+      "action": "원응답은 보존하고 해설 인용만 정확한 Arbeitsrecht로 제시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "type": "participation_as_exclusive_authority",
+      "severity": "material",
+      "finding": "요약에서 근로조건을 노동자 대표의 집단적 결정에 맡긴다고 표현함. 원문은 노동자가 대표를 통해 집단 결정에 참여한다는 권리이며 법률로 기준을 정하는 방식의 배제를 말하지 않음.",
+      "action": "집단적 결정 참여권과 법정 기준은 다른 규율 요소이며 병존 가능하다는 범위에서 비교함."
+    }
+  ],
+  "limits": [
+    "여성·아동의 연령과 신체상태에 따라 특별보호한다는 기준은 보호 내용의 조정 기준으로 읽으며, 일정 연령·상태를 충족해야만 보호받는다는 문언으로 바꾸지 않음.",
+    "이미 일본·프랑스에서 확인된 권리·의무 병렬을 다른 후보에 드물다는 이유로 미설명 요소에 합산하지 않음.",
+    "대상에 없는 근로의무 위반 제재나 절차를 응답의 누락으로 세지 않음."
+  ]
+}

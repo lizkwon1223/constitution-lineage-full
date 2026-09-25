@@ -1,0 +1,152 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_089",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "천연자원의 허가·특허(concession)와 정당한 보상을 전제로 한 수용·공공소유 전환을 규정하여 대상 조문이 전제하는 제85조~제88조의 규율 영역(특허, 수용)과 주제상 겹친다. 그러나 대상 조문은 그 실체 규정 자체가 아니라 다른 조문(제15조제3항)을 준용한다는 참조·준용 규정이어서, 특허 취소나 준용이라는 규율 형식의 대응은 확인되지 않는다. 주제 중복만으로는 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_133",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정재판소의 처분 취소·형 확정 등 행정소송 절차를 규정한 조항으로, 조문 번호를 열거한다는 점 외에 대상 조문의 준용 구조나 특허 취소·수용과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "현행법령의 효력 존속에 관한 경과규정으로, 대상 조문의 준용 지시나 특허 취소·권리 수용과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_169",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "특정 조항의 시행시기와 관세·소비세 징수의 과도기 처리를 정한 규정으로, 대상 조문의 준용 구조와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_035",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주거·서류·소지품에 대한 영장주의 규정으로, 다른 조문의 예외를 원용할 뿐 준용 지시나 특허·수용과의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_111",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "여러 조문 번호를 열거하여 그 조항들과 연동시키는 입법기술이라는 점은 유사하나, 효과가 전시·사변 시 기본권 조항의 효력 정지로서 대상 조문의 '준용'(다른 조항의 적용 확장)과 방향이 반대이므로 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_088",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조문을 열거하되 시행일 예외를 정하는 부칙 규정으로, 대상 조문의 준용 효과와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_056",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "하위 법령·결정의 헌법·법령 저촉 시 폐지 권한을 정한 규정으로, 준용 지시 구조와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_014",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 불체포특권 규정으로 대상 조문과 규율 대상·형식 모두 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_070",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "열거된 조문의 규칙을 다른 기관에 '동일한 조건으로 적용'하게 하는 참조 규정으로 문형상 유사하나, 적용 대상이 기관(프랑스연합의회)의 조직·운영 규칙이고 대상 조문처럼 개별 처분(특허 취소·수용 등)의 경우에 특정 조항을 준용시키는 구조는 아니어서 선택 범위 밖으로 둔다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_099",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'일정한 경우에 이 헌법 제○조의 규정을 적용한다'는 참조규정 문형이 대상 조문의 '제15조제3항의 규정을 준용한다'와 구체적으로 대응한다. 다만 원용 대상(탄핵 절차 대 손실보상 성격의 조항)과 요건(감찰원의 탄핵 제기 대 특허 취소·권리 수용)은 달라 문형·입법기술 차원의 대응으로 한정한다.",
+      "evidence": [
+        {
+          "element": "참조규정 문형(특정 조문의 규정을 준용/적용)",
+          "target_field": "original_text",
+          "target_quote": "第15條第3項의 規定을 準用한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "適用本憲法第九十五條，第九十七條，及第九十八條之規定",
+          "commonality": "특정 조문을 지정하여 그 규정을 다른 사안에 적용·준용하도록 지시하는 동일한 조문 구조와 한자 용어('規定'+'準用/適用')를 사용한다",
+          "difference": "대상은 하나의 항(제15조제3항)을 '준용'하는 반면 후보는 세 개 조문을 그대로 '적용'하며, 원용되는 규범의 성격이 다르다"
+        },
+        {
+          "element": "적용 계기가 되는 사안의 지정",
+          "target_field": "original_text",
+          "target_quote": "第85條 乃至 第88條에 依하여 特許를 取消하거나 權利를 收用 使用 또는 制限하는 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "監察院對於司法院或考試院人員失職或違法之彈劾",
+          "commonality": "참조규정을 적용할 구체적 사안(행위 유형)을 앞부분에 특정하여 제시한다",
+          "difference": "대상은 경제조항에 따른 특허 취소·권리 수용·사용·제한이라는 재산권 침해 처분을, 후보는 감찰원의 탄핵이라는 국가기관 절차를 계기로 삼는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XXI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "수정 제18조 폐지와 비준 기한을 정한 조항으로, 대상 조문의 준용 구조와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_062",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조세 부과·세율 변경의 법률주의와 국채·계약의 의회 협찬 규정으로, 대상 조문의 준용 지시 및 수용·사용·제한과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_111",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…에 관한 규정을 준용한다'는 준용 조항의 어법이 대상 조문 후단과 그대로 대응하여 문형 비교에 유용하다. 다만 준용 대상이 시(市)자치에 대한 현(縣) 규정 전체이고 적용 계기도 제도 전반이어서, 개별 처분 시 특정 항을 준용하는 대상 조문과는 범위·요건이 다르다.",
+      "evidence": [
+        {
+          "element": "준용 지시 문형",
+          "target_field": "original_text",
+          "target_quote": "規定을 準用한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "準用關於縣之規定",
+          "commonality": "다른 조문의 규정을 그대로 끌어와 적용하도록 하는 '準用+規定'의 동일한 표현 구조",
+          "difference": "대상은 개별 침해처분 시 특정 항(제15조제3항)을 준용하나, 후보는 시 자치제도 전반에 현 관련 규정군을 준용한다"
+        },
+        {
+          "element": "준용의 적용 범위 한정 방식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "제85조 내지 제88조에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "市之自治除本節規定外",
+          "commonality": "준용이 작동하는 범위를 앞부분에서 조문·절 단위로 한정한다",
+          "difference": "대상은 조문 범위를 적용 계기로 열거하고, 후보는 본절 규정이 없는 경우의 보충적 준용이라는 조건 구조를 취한다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'特許를 取消'라는 수익적 처분의 취소 요건",
+    "권리의 '收用 使用 또는 制限'이라는 세 가지 침해 유형의 병렬",
+    "제15조제3항 준용에 따른 구체적 효과(보상 등)"
+  ],
+  "limitations": [
+    "대상 조문은 참조규정이므로 원용되는 제15조제3항·제85조~제88조의 내용이 제시되지 않아, 보상·수용 요건 차원의 대응 여부는 제공 본문만으로 판단할 수 없다.",
+    "선택은 문언·문형상의 대응에 근거한 것이며 역사적 참조·영향 관계를 확정하는 것은 아니다."
+  ],
+  "short_answer": "대상 조문은 실체적 규율이 아니라 제85조~제88조에 따른 처분 시 제15조제3항을 준용시키는 참조규정이다. 후보 중 중화민국헌법 제99조('適用本憲法第九十五條…之規定')와 五五憲草 제111조('準用關於縣之規定')가 '특정 조문의 규정을 준용·적용한다'는 문형에서 구체적으로 대응하여 비교에 유용하다. 프랑스 제4공화국헌법 제70조도 조문 열거형 적용규정이지만 기관 운영규칙의 확장이라는 점에서 일반적 유사에 그치고, 프로이센 1850년 헌법 제111조는 열거 조문의 효력 정지로 방향이 반대다. 필리핀헌법 제12조는 특허·수용·정당한 보상이라는 주제는 겹치나 준용 구조가 없어 선택하지 않았다. 대응은 어디까지나 입법기술·문형 차원이며 역사적 영향의 확정은 아니다."
+}

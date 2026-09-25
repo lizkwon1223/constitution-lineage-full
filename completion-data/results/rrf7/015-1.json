@@ -1,0 +1,131 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_015",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'공공복리(公共の福祉)'라는 일반 용어와 권리 남용 금지 취지만 겹칠 뿐, 재산권의 내용·한계, 수용·사용·제한, 보상 등 대상 조문의 구체적 규율 요소와 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_015",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'財產權'을 '保障'한다는 어휘·주제는 일치하나, 생존권·노동권과 묶은 선언적 보장에 그치고 내용·한계의 법률유보, 행사의 공공복리 적합, 수용·사용·제한과 보상이라는 대상 조문의 규율 구조가 전혀 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_153",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "보장 선언→내용·한계의 법률 규율→공익을 위한 박탈과 상당한 보상→재산권 행사의 공익 봉사라는 3중 구조가 대상 조문의 3개 항과 거의 항별로 대응하여 후속 비교에 유용하다.",
+      "evidence": [
+        {
+          "element": "재산권 보장과 내용·한계의 법률 규율",
+          "target_field": "original_text",
+          "target_quote": "財産權은 保障된다. 그 內容과 限界는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Eigentum wird von der Verfassung gewährleistet. Sein Inhalt und seine Schranken ergeben sich aus den Gesetzen.",
+          "commonality": "보장 선언 직후 '내용과 한계'를 법률 차원에 맡기는 두 문장 구성이 동일하다.",
+          "difference": "후보는 보장 주체를 '헌법에 의해'로 명시하고 내용·한계가 법률로부터 '도출된다'고 서술하는 반면, 대상은 보장 주체를 적지 않고 '법률로써 정한다'는 능동적 형성 문형을 쓴다."
+        },
+        {
+          "element": "재산권 행사의 공공복리 적합 의무",
+          "target_field": "original_text",
+          "target_quote": "財産權의 行使는 公共福利에 適合하도록 하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Eigentum verpflichtet. Sein Gebrauch soll zugleich Dienst sein für das Gemeine Beste.",
+          "commonality": "소유(재산)의 '사용/행사'를 공익에 결부시키는 의무 조항을 별도로 둔 점이 공통된다.",
+          "difference": "후보는 '소유권은 의무를 진다'는 선언과 '공익에 대한 봉사'라는 적극적 표현인 데 비해, 대상은 '공공복리에 적합하도록'이라는 적합성 기준으로 완화·정식화하였다."
+        },
+        {
+          "element": "공익상 침해와 상당한 보상",
+          "target_field": "original_text",
+          "target_quote": "公共必要에 依하여 國民의 財産權을 收用, 使用 또는 制限함은 法律의 定하는 바에 依하여 相當한 補償을 支給함으로써 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Eine Enteignung kann nur zum Wohle der Allgemeinheit und auf gesetzlicher Grundlage vorgenommen werden. Sie erfolgt gegen angemessene Entschädigung",
+          "commonality": "공익 목적 + 법률적 근거 + '상당한/적정한(angemessene) 보상'이라는 세 요건의 결합이 대응한다.",
+          "difference": "후보의 대상 행위는 '공용수용(Enteignung)'에 한정되나 대상은 수용·사용·제한을 병렬하며, 후보에 있는 제국법률에 의한 예외, 보상액 분쟁의 통상법원 제소, 라이히의 주·지자체 수용 규정은 대상에 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_029",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "재산권 내용을 공공복리에 적합하도록 법률로 정한다는 문형과, 정당한 보상 아래 공공목적 사용을 허용하는 보상 조항이 대상 제1·2·3항 요소와 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "내용의 법률 규율과 공공복리 적합",
+          "target_field": "original_text",
+          "target_quote": "그 內容과 限界는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "財産権の内容は、公共の福祉に適合するやうに、法律でこれを定める。",
+          "commonality": "재산권의 '내용'을 법률로 정한다는 법률유보 문형과 '공공복리(公共の福祉)' 용어가 공통된다.",
+          "difference": "후보는 공공복리 적합성을 '내용의 법률 규율'의 기준으로 삼는 한 문장인 반면, 대상은 내용·한계의 법률유보(제1항)와 '행사'의 공공복리 적합(제2항)을 분리하고 '한계'를 추가하였다."
+        },
+        {
+          "element": "보상과 공공목적 사용",
+          "target_field": "original_text",
+          "target_quote": "相當한 補償을 支給함으로써 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "私有財産は、正当な補償の下に、これを公共のために用ひることができる。",
+          "commonality": "공공목적을 위한 재산 침해를 보상과 결부시키는 구조이며, '사용'이라는 침해 유형을 포함한다.",
+          "difference": "후보는 보상 수준을 '정당한(正当な)'으로, 대상은 '상당한'으로 표현하고, 대상은 '법률의 정하는 바에 의하여'라는 법률유보와 수용·제한까지 병렬하며 '공공필요'라는 요건어를 쓴다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_151",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "경제생활 질서의 정의 원칙, 경제적 자유, 영업의 자유에 관한 조항으로 재산권 보장·수용·보상이라는 대상 조문의 규율 요소와 대응하지 않는다. 'Gemeinwohl'이라는 공익 용어만 일반적으로 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_154",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상속권 보장과 상속재산에 대한 국가 지분을 다루며, '법률에 따라 보장된다'는 상용 문형 외에 대상 조문의 내용·한계, 공공복리 적합, 수용·보상과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공공복리 사유 + 법률에 따른 규율 + 보상을 조건으로 '수용되거나 제한될 수 있다'는 침해 유형의 병렬이 대상 제3항과 구체적으로 대응한다. 다만 대응 범위는 제3항에 한정된다.",
+      "evidence": [
+        {
+          "element": "공익 요건·법률유보·보상하의 수용 및 제한",
+          "target_field": "original_text",
+          "target_quote": "公共必要에 依하여 國民의 財産權을 收用, 使用 또는 制限함은 法律의 定하는 바에 依하여 相當한 補償을 支給함으로써 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Es kann nur aus Gründen des öffentlichen Wohles gegen vorgängige in dringenden Fällen wenigstens vorläufig festzustellende Entschädigung nach Maaßgabe des Gesetzes entzogen oder beschränkt werden.",
+          "commonality": "공익 사유, 법률에 따른 규율, 보상 지급을 조건으로 '박탈(수용) 또는 제한'을 병렬 열거하는 요건 구조가 대응한다.",
+          "difference": "후보는 사전보상(및 긴급시 잠정 확정 보상)이라는 시기·절차 요건을 두고 침해 유형에 '사용'이 없으며 보상의 정도를 '상당한'으로 한정하지 않는다. 대상은 보상 정도를 '상당한'으로 정하고 '사용'을 추가하며 사전성 요건은 두지 않는다."
+        },
+        {
+          "element": "재산권 보장 선언 문형",
+          "target_field": "original_text",
+          "target_quote": "財産權은 保障된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Eigenthum ist unverletzlich.",
+          "commonality": "조문 첫머리에서 재산(소유)권의 지위를 한 문장으로 선언한 뒤 침해 요건을 잇는 배치가 같다.",
+          "difference": "후보는 '불가침'이라는 방어권적 선언이고 내용·한계의 법률유보가 없으나, 대상은 '보장된다'로 쓰고 곧바로 내용·한계를 법률에 유보한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'公共必要'라는 요건어의 특정 표현(후보들은 공공복리·공익·공공목적 등으로 표현)",
+    "재산권 주체를 '國民'으로 한정한 제3항의 문언",
+    "수용·사용·제한 세 유형을 한 문장에 모두 병렬한 구성(후보들에는 각각 일부만 등장)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토하였으며, 실제 기초 과정에서의 참조 여부·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어 후보의 의미 비교는 제공된 원문과 첨부 번역의 범위 내에서만 수행하였다."
+  ],
+  "short_answer": "바이마르 헌법 제153조가 '보장 선언 → 내용·한계의 법률 규율 → 공익 목적·법률 근거·상당한 보상 → 재산권 행사의 공익성'이라는 항별 구조 전반에서 대상 조문과 가장 넓게 대응한다. 일본국헌법 제29조는 '재산권의 내용을 공공복리에 적합하도록 법률로 정한다'는 문형과 '보상 하의 공공목적 사용'에서, 프로이센 헌법 제9조는 '공익 사유 + 법률에 따른 규율 + 보상 하의 수용 또는 제한'이라는 요건 결합에서 각각 부분적으로 대응한다. 차이로는 보장 주체(헌법 명시 여부), 공공복리를 '내용 규율 기준'으로 둘지 '행사 의무'로 둘지, 침해 유형에 '사용'을 포함하는지, 보상의 정도(상당한/정당한/사전보상)와 분쟁 시 법원 제소 등 절차 규정의 유무가 있다. 중화민국헌법 제15조와 일본국헌법 제12조는 보장·공공복리라는 일반적 어휘만 겹치고, 바이마르 제151·154조는 규율 대상이 달라 선택하지 않았다. 이상은 문언 대응 판단이며 역사적 참조의 확정은 아니다."
+}

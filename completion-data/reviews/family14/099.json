@@ -1,0 +1,64 @@
+{
+  "article": 99,
+  "reviewed_at": "2026-09-22T16:32:43.919782+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "6c5cd4fc40daea3da413770c1a862603f8e616e5e52f4041e7c9f72f425304d2",
+  "input_sha256": "2d8038f98829a3b72a4233a60b09e1c89082a953ea9f50fa7b761420d4fc1822",
+  "responses": [
+    {
+      "job_id": "099_a7d8edd3c0a7_r1",
+      "repeat": 1,
+      "sha256": "bebda17467c304be68fe91833eee8cc81825a83f61574a08c6861e3be8bc6ee6",
+      "assessment": "공포 기준 시행과 법률 의존 규정의 유예를 잘 구분함. 다른 시행 예외 후보의 부분 비교는 보완 가능함."
+    },
+    {
+      "job_id": "099_a7d8edd3c0a7_r2",
+      "repeat": 2,
+      "sha256": "ed7c634afd7a061388f8bbe887da0ef2da66757de6dcc33324ac5c530f009c21",
+      "assessment": "주요 구조 대응은 적절함. 바이마르가 예외 없이 전면 시행한다고 확장한 표현과 약헌의 부분 대응 배제를 보정해야 함."
+    },
+    {
+      "job_id": "099_a7d8edd3c0a7_r3",
+      "repeat": 3,
+      "sha256": "0d1cfea8ea9fcec2dba960e44a0827c54b731e92424a3fd7edd0c8520cb402e5",
+      "assessment": "시행일·유예 조건·공포 주체를 체계적으로 구분함. 대비되는 시행 방식도 유용한 보조 비교로 남길 수 있음."
+    }
+  ],
+  "synthesis": "바이마르 제181조와 프로이센 제88조는 공포일 시행에 대응하며 후자는 일부 조문의 시행을 별도 조건에 연결함. 약헌 제56조와 일본 제100조도 공포 기준 시행을 정하나 각각 30일·6개월의 간격을 둠. 중화민국 제175조는 별도 실시절차의 법정 및 제헌기관의 준비절차 의정에 대응하지만 해당 헌법규정의 시행을 법률 시행 때까지 늦추는 효과는 명시하지 않음. 필리핀과 오스트리아의 차등 시행도 기능적 비교가 가능하나 조건과 유예·선시행 방향이 다름. 제헌국회 의장을 공포 주체로 특정한 결합과 법률 없이는 실현 불가한 규정이라는 포괄 기준은 별도 차이임.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "type": "unsupported_unrestricted_effect",
+      "finding": "바이마르 제181조에 단서가 없다는 이유로 헌법이 예외 없이 전면 시행된다고 단정함. 한 조문의 원칙만으로 다른 조문의 시행 예외 부재까지 확정할 수 없음.",
+      "action": "제181조가 공포일 시행 원칙을 정한다고 한정함.",
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_181",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "selection_threshold",
+      "finding": "약헌의 공포 기준 시행을 기간과 단서 차이 때문에 배제함. 일본의 공포 후 6개월 시행을 부분 선택한 기준과 일관되지 않음.",
+      "action": "공포 기준 시행의 직접 대응과 기간 차이를 병기함.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_056",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "필리핀·오스트리아의 차등 시행을 조건·방향 차이 때문에 일반 주제에만 한정함.",
+      "action": "원칙·예외의 시행 구조를 한정된 보조 비교로 남김.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

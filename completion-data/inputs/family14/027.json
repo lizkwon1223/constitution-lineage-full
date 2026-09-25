@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_027",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "27",
+    "original_text": "公務員은 主權을 가진 國民의 受任者이며 언제든지 國民에 對하여 責任을 진다. 國民은 不法行爲를 한 公務員의 罷免을 請願할 權利가 있다.\n公務員의 職務上 不法行爲로 因하여 損害를 받은 者는 國家 또는 公共團體에 對하여 賠償을 請求할 수 있다. 但, 公務員 自身의 民事上이나 刑事上의 責任이 免除되는 것은 아니다.",
+    "workbook_text_ko": "공무원은 주권을 가진 국민의 수임자이며 언제든지 국민에 대하여 책임을 진다. 국민은 불법행위를 한 공무원의 파면을 청원할 권리가 있다.\n공무원의 직무상 불법행위로 인하여 손해를 받은 자는 국가 또는 공공단체에 대하여 배상을 청구할 수 있다. 단, 공무원 자신의 민사상이나 형사상의 책임이 면제되는 것은 아니다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_131",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "131",
+      "original_text": "Verletzt ein Beamter in Ausübung der ihm anvertrauten öffentlichen Gewalt die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in deren Dienste der Beamte steht. Der Rückgriff gegen den Beamten bleibt vorbehalten. Der ordentliche Rechtsweg darf nicht ausgeschlossen werden.\nDie nähere Regelung liegt der zuständigen Gesetzgebung ob.",
+      "workbook_text_ko": "공무원이 자신에게 위임된 공권을 행사함에 있어 제삼자에 대해 부담하는 직무상의 의무를 위반했을 경우, 그 책임은 원칙적으로 해당 공무원을 임명한 국가 또는 공공단체에 있다. 당해 공무원에 대한 구상은 저해되지 않는다. 통상소송의 방법이 금지되어서는 안 된다.\n상세한 사항은 관할 입법기관이 정한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XI",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XI",
+      "original_text": "Section 1. A Civil Service embracing all branches and subdivisions of the Government shall be provided by law. Appointments in the Civil Service, except as to those which are policy-determining, primarily confidential or highly technical in nature, shall be made only according to merit and fitness, to be determined as far as practicable by competitive examination.\nSec. 2. Officers and employees in the Civil Service, including members of the armed forces, shall not engage directly or indirectly in partisan political activities or take part in any election except to vote.\nSec. 3. No officer or employee of the Government shall receive additional or double compensation unless specifically authorized by law.\nSec. 4. No officer or employee in the Civil Service shall be removed or suspended except for cause as provided by law.",
+      "workbook_text_ko": "제1절. 정부의 모든 부문과 하부기관을 포괄하는 공무원제도를 법률로 정한다. 정책 결정적 성격의 직, 임명권자와의 특별한 신임관계를 주된 성격으로 하는 직 또는 고도의 기술적 성격을 가진 직을 제외하고, 공무원 임용은 오직 능력과 적합성에 따라 이루어져야 하며 이는 가능한 한 경쟁시험으로 판단한다.\n제2절. 군인을 포함한 공무원과 직원은 정당 편향적 정치활동에 직접 또는 간접으로 종사하거나 투표 외의 방법으로 선거에 참여할 수 없다.\n제3절. 정부의 공무원이나 직원은 법률이 특별히 허용하지 않는 한 추가 또는 이중 보수를 받을 수 없다.\n제4절. 공무원이나 직원은 법률이 정한 사유에 의하지 않고는 면직되거나 정직되지 않는다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_006",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "6",
+      "original_text": "Les ministres sont solidairement responsables devant les chambres de la politique générale du Gouvernement, et individuellement de leurs actes personnels. - Le Président de la République n'est responsable que dans le cas de haute trahison.",
+      "workbook_text_ko": "장관은 양원에 대해서 정부의 전체적인 정책에 대해서 연대책임을 지\n며, 각자 자신의 행위에 대해서는 개별적으로 책임을 진다.\n공화국대통령은 대반역죄의 경우를 제외하고 책임을 묻지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_017",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "17",
+      "original_text": "何人も、公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる。",
+      "workbook_text_ko": "누구든지 공무원의 불법행위로 인하여 손해를 입었을 때에는 법률이 정하는 바에 따라 국가 또는 공공단체에 배상을 청할 수 있다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_009",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "9",
+      "original_text": "天皇ハ法律ヲ執行スル為ニ又ハ公共ノ安寧秩序ヲ保持シ及臣民ノ幸福ヲ増進スル為ニ必要ナル命令ヲ発シ又ハ発セシム但シ命令ヲ以テ法律ヲ変更スルコトヲ得ス",
+      "workbook_text_ko": "천황은 법률을 집행하기 위하여, 또는 공공의 안녕질서를 유지하고 신민의 행복을 증진하기 위하여 필요한 명령을 발하거나 발하게 한다. 다만, 명령으로 법률을 변경할 수 없다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_025",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "25",
+      "original_text": "公民은 主權機關에 請願 또는 申訴를 提出할 수 있다.\n公民은 主權機關 公務員의 職務上 非法的 行爲에 對하여 申訴할 수 있으며 그 結果로 입은 損害에 對하여 賠償을 請求할 수 있다.",
+      "workbook_text_ko": "공민은 주권기관에 청원 또는 신소를 제출할 수 있다.\n공민은 주권기관 공무원의 직무상 비법적 행위에 대하여 신소할 수 있으며 그 결과로 입은 손해에 대하여 배상을 청구할 수 있다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_023",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "23",
+      "original_text": "(1) Alle mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung oder der Gerichtsbarkeit betrauten Personen sind für jeden bei der Ausübung ihrer Tätigkeit durch vorsätzliche oder grobfahrlässige Rechtsverletzung wem immer zugefügten Schaden haftbar. Der Bund, die Länder oder die Gemeinden haften für die Rechtsverletzungen der von ihnen bestellten Personen.\n(2) Das Nähere regelt ein Bundesgesetz.",
+      "workbook_text_ko": "(1) 연방·주 또는 지방자치단체의 행정이나 재판 업무를 맡은 모든 사람은 그 활동을 수행하면서 고의 또는 중대한 과실에 의한 위법행위로 누구에게든 가한 모든 손해에 대하여 책임을 진다. 연방·주 또는 지방자치단체는 자신이 임명한 사람의 위법행위에 대하여 책임을 진다.\n(2) 자세한 사항은 연방법률로 정한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_097",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "97",
+      "original_text": "Die Bedingungen, unter welchen öffentliche Civil- und Militairbeamte wegen durch Ueberschreitung ihrer Amtsbefugnisse verübter Rechtsverletzungen gerichtlich in Anspruch genommen werden können, bestimmt das Gesetz. Eine vorgängige Genehmigung der vorgesetzten Dienstbehörde darf jedoch nicht verlangt werden.",
+      "workbook_text_ko": "일반 공무원과 군공무원이\n직무상 권한을 넘어 행한 법위반행위를\n이유로 재판상 책임을 추궁당할(소추되거나 제소될) 수 있는 요건은\n법률로 정한다. 그러나 상급 관청의\n사전 허가는 요구될 수 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_079",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "79",
+      "original_text": "(1) Die Staatsbeamten können wider ihren Willen nur unter den gesetzlich vorgeschriebenen Voraussetzungen und Formen entlassen, einstweilig oder endgültig in den Ruhestand oder in ein anderes Amt mit geringerem Gehalte versetzt werden.\n(2) Für ihre vermögensrechtlichen Ansprüche und für die ihrer Hinterbliebenen steht der Rechtsweg offen.",
+      "workbook_text_ko": "(1) 국가공무원은 법률이 정한 요건과 형식에 따라서만 본인의 의사에 반하여 면직되거나 일시적 또는 최종적으로 퇴직하거나 보수가 더 적은 다른 직으로 전임될 수 있다.\n(2) 국가공무원과 그 유족의 재산상 청구권에 대해서는 사법적 구제의 길이 열려 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_024",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "24",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "違法的으로 人民의 自由 또는 權利를 侵害한 公務員은 法律에 依하여 懲戒를 받는 外에 刑事上 및 民事上의 責任을지지 않으면 아니 된다. 害를 받은 人民은 그 損害에 關하여 法律의 定하는 바에 依하여 國家에 對하여 賠償을 請求할 수 있다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_II",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "II",
+      "original_text": "Section. 1.\nThe executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows\nEach State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.\nThe Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted. The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President. But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President.\nThe Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.\nNo Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.\nIn Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.\nThe President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.\nBefore he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—\"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.\"\nSection. 2.\nThe President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.\nHe shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.\nThe President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.\nSection. 3.\nHe shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States.\nSection. 4.\nThe President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.",
+      "workbook_text_ko": "제1항\n행정권은 합중국 대통령에게 속한다. 대통령의 임기는 4년\n으로 하며, 동일한 임기로 선임된 부통령과 함께 다음과\n같은 방법에 의하여 선출된다.\n각 주는 그 주의 주의회가 정하는 바에 따라, 그 주가 연\n방의회에 보낼 수 있는 상원의원과 하원의원의 총수와\n같은 수의 선거인을 임명한다. 다만, 상원의원이나 하원\n의원, 또는 합중국의 위임 또는 유급 공직에 있는 자는\n선거인이 될 수 없다.\n선거인은 각기 자기 주에서 회합하여 비밀 투표에 의하\n여 2인을 선거하되, 그 중 적어도 1인은 선거인과 동일\n한 주의 주민이 아니어야 한다. 선거인은 모든 득표자들\n의 명부와 각 득표자의 득표수를 기재한 표를 작성하여\n서명하고 증명한 다음, 봉인하여 상원 의장 앞으로 합중\n국 정부 소재지로 송부한다. 상원 의장은 상원의원 및\n하원의원들 앞에서 모든 증명서를 개봉하며, 그 후에 투표가 계표(計票)된다. 최고 득표자의 득표수가 임명된 선거인 총수의 과\n반수가 되었을 때에는 그가 대통령으로 당선된다. 과반\n수 득표자가 2인 이상이 되고, 그 득표수가 동수일 경우\n에는 하원이 즉시 비밀 투표로 그 중의 1인을 대통령으\n로 선임해야 한다. 과반수 득표자가 없을 경우에는 하원\n이 동일한 방법으로 최다 득표자 5명중에서 대통령을 선\n임한다. 다만, 이러한 방법으로 대통령을 선거할 때에는\n투표는 주 단위로 하고, 각 주는 1표의 투표권을 가지며,\n그 선거에 필요한 정족수는 전체 주의 3분의 2의 주로부\n터 1명 또는 그 이상의 의원의 출석으로 성립되며, 선출\n을 위해서는 전체 주의 과반수의 찬성이 필요하다. 어떤\n경우에서도, 대통령을 선출하고 난 후에 선거인의 투표에서 최다수의 득표를 한 자를 부통령으로 한다. 다만, 동수의 득표자가 2인\n이상 있을 때에는 상원이 비밀 투표로 그 중에서 부통령\n을 선출한다.\n연방의회는 선거인들의 선임 시기와 이들의 투표일을 결\n정할 수 있으며, 이 투표일은 합중국 전역 어디서나 같은\n날이 되어야 한다.\n출생에 의한 합중국 시민 또는 이 헌법의 채택 시에 합중국 시민인 자가 아니면 대통령으로 선임될 자격이 없다. 연령이 35세에 미달한 자, 또는 14년간 합중국 내의\n주민이 아닌 자도 대통령으로 선임될 자격이 없다.\n대통령이 면직, 사망, 사직하거나 또는 그 권한 및 직무\n를 수행할 능력을 상실할 경우에, 대통령의 직무는 부통\n령에게 이양된다. 연방의회는 대통령과 부통령 양쪽 모\n두의 면직, 사망, 사직 또는 직무 수행 불능의 경우를 법\n률로 규정할 수 있으며, 그러한 경우에 대통령의 직무를\n수행할 공무원을 정할 수 있다. 이 공무원은 대통령의\n직무 수행 불능이 제거되거나 대통령이 새로 선임될 때\n까지 대통령의 직무를 대행한다.\n대통령은 그 직무 수행에 대한 대가로 정기적으로 보수\n를 받으며, 그 보수는 임기 중에 인상 또는 인하되지 않\n는다. 대통령은 그 임기 중에 합중국 또는 어느 주로부터\n도 그 밖의 어떠한 보수도 받아서는 안 된다.\n대통령은 그 직무 수행을 시작하기에 앞서 다음과 같은\n선서 또는 확약을 하여야 한다. “나는 합중국 대통령의\n직무를 성실히 수행하며, 나의 최선의 능력을 다하여 미\n국 헌법을 보전하고 보호하고 수호할 것을 엄숙히 선서\n(또는 확약)한다.”\n제2항\n대통령은 합중국 육･해군의 총사령관, 그리고 각 주의\n민병이 합중국의 현역에 소집되었을 때에 그 민병대의\n총사령관이 된다. 대통령은 각 소관 직무 사항에 관하여\n행정 각 부처 장관에게 문서에 의한 견해를 요구할 수\n있다. 대통령은 합중국에 대한 범죄에 관하여 탄핵의 경\n우를 제외하고 형의 집행 정지 및 사면을 명할 수 있는\n권한을 가진다.\n대통령은 상원의 권고와 동의를 얻어 조약을 체결하는\n권한을 가진다. 다만, 이 경우에는 상원의 출석 의원 3분\n의 2이상의 찬성을 얻어야 한다. 대통령은 대사, 그 밖의\n공사 및 영사, 연방대법원 법관 그리고 그 임명에 관하\n여 이 헌법에 특별한 규정이 없으나 이후에 법률로 정하\n는 그 밖의 모든 합중국 공무원을 지명하고 상원의 권고\n와 동의를 얻어 임명한다. 다만, 연방의회는 적당하다고\n인정되는 하급공무원 임명권을 법률에 의하여 대통령에\n게 단독으로 또는 법원에 또는 각 부처 장관에게 부여할\n수 있다.\n대통령은 상원의 휴회 중에 생기는 모든 결원을 임명에\n의하여 충원하는 권한을 가진다. 다만, 그 임명은 다음\n회기가 종료될 때에 효력을 상실한다.\n제3항\n대통령은 연방의 상황에 관하여 수시로 연방의회에 보고하\n고, 필요하고도 적절하다고 판단되는 시책의 심의를 연방\n의회에 권고해야 한다. 특별한 경우에 대통령은 상하 양원\n또는 그 중의 한 원을 소집할 수 있으며, 휴회의 시기에 관\n하여 양원 간의 의견이 일치되지 아니하는 때에는 대통령\n이 적당하다고 인정할 때까지 휴회하게 할 수 있다. 대통령\n은 대사와 그 밖의 외교 사절을 접수하며, 법률이 충실하게\n집행되도록 하며, 또 합중국의 모든 공무원에게 임명장을 수여한다.\n제4항\n대통령, 부통령 그리고 합중국의 모든 문관은 반역죄, 수\n뢰죄, 또는 그 밖의 중대한 범죄 및 중대한 비행(非行)으로 탄핵소추를 받고 유죄 판결을 받은 경우 그 직에서 면직된다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_007",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "7",
+      "original_text": "朝鮮國民은 國家機關에 對하여 左記 各項의 要求權을 享有함\n一 立法議院에 請願하는 權利\n二 政府主席 及 行政機關에 許願하는 權利\n三 違法行政處分에 對한 裁判을 要求하는 權利\n四 法院에 提訴하며 法官의 審判을 받는 權利",
+      "workbook_text_ko": "조선 국민은 국가기관에 대하여 아래 각 항의 요구권을 향유함.\n1. 입법의원에 청원하는 권리\n2. 정부주석 및 행정기관에 허원하는 권리\n3. 위법 행정처분에 대한 재판을 요구하는 권리\n4. 법원에 제소하며 법관의 심판을 받는 권리"
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_026",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "26",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律懲戒外，應負刑事及民事責任，被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "공무원이 위법하게 인민의 자유나 권리를 침해한 때에는 법률에 따른 징계 외에 형사상 및 민사상 책임을 져야 한다. 피해를 입은 인민은 자신이 입은 손해에 대하여 법률에 따라 국가에 배상을 청구할 수도 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_088",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "88",
+      "original_text": "La coordination de l'activité des fonctionnaires de l'Etat, la représentation des intérêts nationaux et le contrôle administratif des collectivités territoriales sont assurés, dans le cadre départemental, par les délégués du Gouvernement, désignés en Conseil des ministres.",
+      "workbook_text_ko": "국가공무원(fonctionnaire de l'État)의 활동의 조정, 국가이익의 대표\n(représentation des intérêts nationaux)와 지방공공단체의 행정감독\n(contrôle administratif)은 현의 범위 내에서는 국무회의가 임명한 정부위\n원(délégué du Gouvernement)이 보장한다."
+    }
+  ]
+}

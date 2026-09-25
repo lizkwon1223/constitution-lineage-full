@@ -1,0 +1,180 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_087",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "재산권 보장·공공복리 적합성·정당보상 수용을 규율할 뿐, 중요 기업의 국영·공영화나 사영 특허, 대외무역 통제라는 대상 조문의 규율 요소와 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "화폐·신용·은행, 우편·전신·전화, 철도·항공 교통, 보험 등 대상 조문의 업종 열거와 어휘가 겹치나, 이는 연방의 입법·집행 관할 배분 목록일 뿐 해당 기업을 국영·공영으로 한다는 소유·경영 형태 규율이 아니어서 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_055",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 조문 제2항의 '대외무역의 국가 통제'와 운수·체신 등 국가기관 관리라는 요소에 대응하는 항목이 열거되어 있어 후속 비교에 유용하다. 다만 대응 범위는 대외무역·국가운수체신 항목에 한정되고, 사영 특허·특허 취소 부분은 대응이 없다.",
+      "evidence": [
+        {
+          "element": "대외무역에 대한 국가의 통제",
+          "target_field": "original_text",
+          "target_quote": "對外貿易은 國家의 統制下에 둔다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "二. 對外貿易의 管理",
+          "commonality": "대외무역을 사인의 자유에 맡기지 않고 국가가 관리·통제 대상으로 삼는다는 점이 같다.",
+          "difference": "대상 조문은 '국가의 통제하에 둔다'는 원칙을 선언하는 형식인 반면, 후보는 내각의 임무 열거 중 한 항목으로 관리 주체를 내각으로 특정한다."
+        },
+        {
+          "element": "운수·통신 등 기간부문의 공적 운영",
+          "target_field": "workbook_text_ko",
+          "target_quote": "중요한 운수, 통신, 금융, 보험, 전기, 수리, 수도, 까스 및 공공성을 가진 기업은 국영 또는 공영으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "六. 國家産業, 商業機關·農村經理機關 및 國家運輸·遞信機關의 指導",
+          "commonality": "운수·체신 등 기간부문을 국가가 담당·관장하는 영역으로 전제한다는 점에서 겹친다.",
+          "difference": "대상은 기업의 경영형태를 국영 또는 공영으로 정하는 실체 규정이고, 후보는 이미 국가기관인 산업·운수·체신기관에 대한 내각의 '지도' 권한 규정이다. 또한 금융·보험·전기·수도·까스 등 구체적 열거는 후보에 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'대규모의 주요 공장 및 광산의 국영 또는 국가 관리'라는 국영 표현과 주요 생활필수품 통제관리 등 통제경제적 발상이 겹치나, 대상 조문의 핵심인 업종 열거형 국·공영 지정, 사영 특허와 그 취소의 법률유보, 대외무역 통제라는 구체적 규율 요소의 대응은 없고 생활균등권의 정책 목록이라는 조문 성격도 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_048",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국왕의 전쟁·강화·조약 체결권과 통상조약에 대한 의회 동의를 규율할 뿐, 기업의 국공영이나 대외무역 통제와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법률안 제출·공포, 사면, 군 지휘, 공무원 임명 등 집행권 규정으로 대상 조문의 경제질서 규율과 접점이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제6절이 국가의 산업·운수·통신수단 설치·운영과 공익사업의 공공소유 전환을 규정해 주제상 근접하나, 대상 조문이 '국영 또는 공영으로 한다'는 당위적 지정과 사영 특허·취소의 법률유보를 두는 데 비해 후보는 국가의 재량적 권능과 정당보상부 이전을 규정하여 규율 방식·효과가 다르고, 열거 업종과 대외무역 통제의 대응도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산 편성·승인 절차 규정으로 대상 조문의 기업 국공영·사영 특허·대외무역 통제와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_144",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공용사업 등의 '공영 원칙'과 법률에 의한 민간 경영 허용이라는 문형이 대상 제1항의 국·공영 지정 및 사영 특허의 법률유보와 구체적으로 대응한다. 다만 대외무역 통제와 특허 취소 부분은 대응이 없다.",
+      "evidence": [
+        {
+          "element": "공공성 있는 기업의 공영 지정",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公用事業及其他有獨佔性之企業，以公營為原則",
+          "commonality": "공공성·독점성을 가진 기업을 공영(공적 경영) 대상으로 삼는 원칙 규정이라는 점이 같다.",
+          "difference": "대상은 운수·통신·금융·보험 등 업종을 열거하고 '국영 또는 공영'을 단정적으로 정하는 반면, 후보는 '公用事業及其他有獨佔性'이라는 일반적 기준과 '以公營為原則'이라는 원칙 형식만 둔다."
+        },
+        {
+          "element": "법률에 의한 사영 허용",
+          "target_field": "original_text",
+          "target_quote": "公共必要에 依하여 私營을 特許하거나 또는 그 特許를 取消함은 法律의 定하는 바에 依하여 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "其經法律許可者，得由國民經營之",
+          "commonality": "공영 원칙의 예외로 법률에 근거하여 민간(국민)의 경영을 허용한다는 구조가 같다.",
+          "difference": "대상은 '공공필요'라는 요건과 특허의 '취소'까지 법률유보에 포섭하나, 후보는 법률 허가에 의한 국민 경영만 규정하고 허가의 요건·취소 절차를 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_028",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조약의 국내법 우월과 폐기 통고 절차 규정이며, 통상조약 언급은 조약 폐기 권한의 예외일 뿐 대외무역의 국가 통제와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_011",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의 공과금 허용성과 징수방식에 관한 제국 입법원칙 규정으로, 통상관계·수출장려금 언급이 있으나 대상 조문의 기업 국공영·대외무역 통제와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_123",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공영 원칙 + 필요시 사영 특허'라는 문형이 대상 제1항과 거의 같은 구조로 대응하며, 특허된 사영사업에 대한 사후 조치(관리·공영 전환)를 규정한 점도 대상의 특허 취소 규정과 비교 지점을 제공한다. 대응 범위는 제1항에 한정되고 대외무역 조항은 설명하지 못한다.",
+      "evidence": [
+        {
+          "element": "공공성·독점성 기업의 공영 지정",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公用事業及其他有獨占性之企業，以國家公營爲原則",
+          "commonality": "공용·독점적 성격의 기업을 국가의 공영 대상으로 삼는 원칙 규정으로 어휘와 구조가 유사하다.",
+          "difference": "대상은 운수·통신·금융·보험·전기·수리·수도·까스 등 업종을 구체적으로 열거하고 '국영 또는 공영'으로 이원화하나, 후보는 열거 없이 '國家公營'만 원칙으로 제시한다."
+        },
+        {
+          "element": "사영 특허의 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공공필요에 의하여 사영을 특허하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "但因必要，得特許國民私營之",
+          "commonality": "'특허'라는 용어로 예외적 사영을 허용하는 점, 그 요건을 '필요'로 규정하는 점이 대응한다.",
+          "difference": "대상은 요건을 '公共必要'로 명시하고 특허와 그 취소를 모두 법률유보에 둔 반면, 후보는 단순히 '必要'라 하고 국방상 긴급수요 시 임시관리·법률에 의한 공영 전환과 적당한 보상을 별도로 규정한다."
+        },
+        {
+          "element": "특허 후 사영의 종료 방식",
+          "target_field": "original_text",
+          "target_quote": "그 特許를 取消함은 法律의 定하는 바에 依하여 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "並得依法律收歸公營，但應予以適當之補償",
+          "commonality": "일단 허용된 사영을 법률에 따라 다시 공적 영역으로 회수할 수 있게 하는 점이 공통된다.",
+          "difference": "대상은 '특허의 취소'라는 행정행위 형식만 규정하고 보상이나 발동 사유를 두지 않으나, 후보는 국방상 긴급수요라는 사유와 적당한 보상 지급을 요건으로 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "형사절차 보장과 정당보상부 공용수용 규정으로, 대상 조문의 기업 경영형태 지정·특허 제도와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 집행명령권과 명령에 의한 법률 변경 금지 규정으로, '공공'이라는 용어만 겹칠 뿐 대상 조문과 대응하는 규율 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "운수·통신·금융·보험·전기·수리·수도·까스라는 구체적 업종 열거 방식",
+    "'국영 또는 공영'의 이원적 경영주체 구분",
+    "특허의 '취소'까지 명시적으로 법률유보에 포함시킨 문형(보상 규정 없음)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 확정하지 않았다.",
+    "제공된 후보 본문만을 근거로 판단했고, 중화민국 헌법 관련 후보는 한자 원문과 제시된 번역문 사이의 차이를 추가 검증하지 못했다."
+  ],
+  "short_answer": "대상 조문 제1항과 문언·구조가 가장 구체적으로 대응하는 후보는 중화민국 五五憲草 제123조와 중화민국헌법 제144조로, 공용·독점성 기업의 공영 원칙과 법률(필요)에 따른 사영 특허라는 이중 구조가 공통된다. 다만 대상은 운수·통신·금융·보험·전기·수리·수도·까스 등 업종을 열거하고 '국영 또는 공영'으로 이원화하며 특허의 취소까지 법률유보에 포섭한 반면, 두 후보는 일반적 기준만 두고 五五憲草는 국방상 긴급수요와 보상을 별도 요건으로 둔다. 제2항의 대외무역 국가통제는 조선민주주의인민공화국헌법안 제55조 제2호('對外貿易의 管理')와 대응하나, 후보는 이를 내각의 임무로 규정한다는 점에서 주체와 조문 성격이 다르다. 필리핀헌법 제12조 제6절과 오스트리아 연방헌법 제10조는 주제·업종 어휘가 겹치지만 각각 재량적 권능과 연방 관할 배분이어서 규율 방식이 달라 선택하지 않았다. 이상은 문언상 대응 관계일 뿐 실제 참조 여부를 확정하는 것은 아니다."
+}

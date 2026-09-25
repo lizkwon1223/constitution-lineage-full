@@ -1,0 +1,76 @@
+{
+  "article": 66,
+  "reviewed_at": "2026-09-22T16:12:21.783280+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "dcd4a2bda59c48ea2215e5df39f65b04524a36444f62ef4c0296a6c30d717704",
+  "input_sha256": "e4de6d9754d97b37e425bd2057db94bbf5990e136a62e95b0638bc85ed8b2929",
+  "responses": [
+    {
+      "job_id": "066_02ac8ab92016_r1",
+      "repeat": 1,
+      "sha256": "89ca42571af17232591a510edb9302881f5c13915c2c868c31cd5946eb577a0e",
+      "assessment": "문서주의·부서 주체·군사 확장을 적절히 구분함. 중화민국과 오스트리아의 부분 대응 배제는 보완 검토 대상임."
+    },
+    {
+      "job_id": "066_02ac8ab92016_r2",
+      "repeat": 2,
+      "sha256": "699d561091282bdcc9ce8917a8f62038328e50dffe8b41a13019a7c0f4fff1fc",
+      "assessment": "선택적 부서와 병합 부서, 유효요건과 책임을 잘 구분함. 요약의 공통점은 후보별 주체 차이를 유지해야 함."
+    },
+    {
+      "job_id": "066_02ac8ab92016_r3",
+      "repeat": 3,
+      "sha256": "d8bc2ac1f23a2bc8368c661a61e95913df5c435eb27647dfd626c74b3a9004d8",
+      "assessment": "주요 요소 대조는 적절함. 약헌의 부서를 유효성 효과로까지 설명한 부분은 원문보다 넓음."
+    }
+  ],
+  "synthesis": "문서 작성 의무, 총리와 관계국무위원의 병합 부서, 군사사항 적용을 분리함. 약헌 제30조는 국무 문서와 총장·위원의 부서에, 프랑스 제38조는 총리와 장관의 병합 부서에 대응함. 바이마르 제50조는 군사사항 적용을 명시하되 수상 또는 관할 장관의 선택적 부서와 유효성·책임을 정함. 오스트리아도 선택적 부서를 정하며, 중화민국 제37조는 원장 단독 또는 원장과 관계 부회장의 결합을 허용함. 대통령 행위의 부서라는 부분 대응은 프로이센·프랑스 1875년에도 존재함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "type": "selection_threshold",
+      "finding": "중화민국 제37조와 오스트리아 제67조의 구체적인 부서 주체·대상 대응을 다른 요건 때문에 배제함.",
+      "action": "부분 대응과 선택적·병합 요건 차이를 병기함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "프로이센 제44조·프랑스 1875년 제3조의 포괄적 부서 요건을 장관 1인이라는 차이로 일반 유사에 한정함.",
+      "action": "총리 부서 부재를 표시한 부분 대응으로 보완함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "non_target_unexplained",
+      "finding": "효력·책임 규정의 부재를 설명되지 않는 대상 요소로 제시함.",
+      "action": "대상에 없는 추가 분석 주제임을 표시함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "unsupported_legal_effect",
+      "finding": "약헌과 대상의 부서 공통점에 유효·정당화 효과를 넣으나 두 조문은 이를 명시하지 않음.",
+      "action": "문서에 필요한 관여 절차라는 수준으로 한정함.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

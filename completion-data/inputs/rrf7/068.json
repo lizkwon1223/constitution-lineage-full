@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_068",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "68",
+    "original_text": "國務院은 大統領과 國務總理 其他의 國務委員으로 組織되는 合議體로서 大統領의 權限에 屬한 重要 國策을 議決한다.",
+    "workbook_text_ko": "국무원은 대통령과 국무총리 기타의 국무위원으로 조직되는 합의체로서 대통령의 권한에 속한 중요 국책을 의결한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_066",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "66",
+      "original_text": "内閣は、法律の定めるところにより、その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する。\n２　内閣総理大臣その他の国務大臣は、文民でなければならない。\n３　内閣は、行政権の行使について、国会に対し連帯して責任を負ふ。",
+      "workbook_text_ko": "①내각은 법률이 정하는 바에 따라 수장인 내각총리대신과 그 밖의 국무대신으로 구성한다.\n②내각총리대신 그 밖의 국무대신은 문민(文民)이어야 한다.\n③내각은 행정권의 행사에 관하여 국회에 대하여 연대하여 책임을 진다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_027",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "27",
+      "original_text": "政府主席은 國務總長의 推薦에 依하여 國務委員 中에서 行政 各部長을 任命함\n行政各部의 組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "정부주석은 국무총장의 추천에 의하여 국무위원 중에서 행정 각 부장을 임명함.\n행정 각 부의 조직 및 권한은 법률로써 정함."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_026",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "26",
+      "original_text": "國務總長 及 國務委員은 政府主席이 任命하되 立准議院의 認准을 要함 國務委員은 十人 以上 十五人 以內로 함",
+      "workbook_text_ko": "국무총장 및 국무위원은 정부주석이 임명하되 입법의원의 인준을 요함. 국무위원은 10인 이상 15인 이내로 함."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_025",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "25",
+      "original_text": "國務會議는 國務總長 及 國務委員으로써 組織함",
+      "workbook_text_ko": "국무회의는 국무총장 및 국무위원으로써 조직함."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_028",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "28",
+      "original_text": "國務總長은 國務委員의 首班으로서 國務會議의 議長이 되며 行政 各部長을 統轄함",
+      "workbook_text_ko": "국무총장은 국무위원의 수반으로서 국무회의의 의장이 되며 행정 각 부장을 통할함."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_030",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "30",
+      "original_text": "政府主席이 署名한 法律、命令 及 條約의 發表 其他 國務에 關한 文書에는 國務總長 及 各國務委員 또는 主務行政部長이 副署하여야 함 副署로써 立法議院에 對하여 責任을 짐",
+      "workbook_text_ko": "정부주석이 서명한 법률·명령 및 조약의 발표, 기타 국무에 관한 문서에는 국무총장 및 각 국무위원 또는 주무 행정부장이 부서하여야 함. 부서로써 입법의원에 대하여 책임을 짐."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_046",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "46",
+      "original_text": "Le président du Conseil et les ministres choisis par lui sont nommés par décret du président de la République.",
+      "workbook_text_ko": "국무총리와 국무총리가 선임한 장관은 공화국대통령의 데크레\n(décret)로 임명한다."
+    }
+  ]
+}

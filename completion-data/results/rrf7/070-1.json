@@ -1,0 +1,93 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_070",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_025",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국무회의의 구성원(국무총장·국무위원)을 정할 뿐, 대상 조문의 핵심인 의장·부의장 지위 배분이나 대통령·국무총리의 관계를 규율하지 않는다. '국무회의'라는 기관 명칭만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'부의장(vice-président)'이라는 표현이 등장하나 이는 국민의회 의장의 직무를 대행하는 자를 가리키는 것으로, 국무회의 내부의 의장·부의장 서열을 정한 대상 조문과 규율 대상(대통령 궐위·직무대행 절차)이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_052",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회 해산 시 내각의 직무속행, 국무총리·내무장관 지명, 총선거 일정에 관한 규정으로 국무회의 의장·부의장 지위와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_047",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무총리의 법률집행·임명권·군지휘권과 부서 절차를 정한 조항으로, 국무회의 의장직 및 대통령 보좌라는 대상 조문의 규율 요소와 문언상 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_032",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수인 대통령이 국무회의(각의)를 주재한다는 제1항의 규율 요소가 직접 대응한다. 다만 부의장 지위나 총리의 보좌 의무는 없고 회의록 작성·보관 의무가 추가된다는 점에서 대응 범위를 제1항에 한정한다.",
+      "evidence": [
+        {
+          "element": "대통령의 국무회의 주재 지위",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國務會議의 議長이 된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président de la République préside le Conseil des ministres.",
+          "commonality": "대통령이 합의제 각료회의를 주재하는 지위에 있음을 헌법에 명시한다.",
+          "difference": "대상은 '의장이 된다'는 지위 부여 형식이고 후보는 '주재한다'는 작용 규정이며, 후보에는 부의장 지위 규정이 없고 대신 회의록 작성·보관 의무('Il fait établir et conserve les procès-verbaux des séances.')가 부가된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_055",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무총리 궐위 시 국무회의가 구성원 1인에게 직무를 임시 수행시키는 절차 규정으로, 상시적 의장·부의장 지위를 정한 대상 조문과 요건·효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_028",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'國務會議의 議長이 되며'라는 문형과 국무회의 수장 지위 규정이 그대로 대응한다. 다만 후보에서는 의장이 대통령이 아니라 국무총장이고, 부의장이나 대통령 보좌 규정이 없다는 점에서 대응은 의장 지위 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "국무회의 의장 지위의 문형",
+          "target_field": "original_text",
+          "target_quote": "國務會議의 議長이 된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務會議의 議長이 되며",
+          "commonality": "'국무회의의 의장이 된다'는 동일한 한자 문형으로 회의 주재자의 지위를 부여한다.",
+          "difference": "주체가 다르다. 대상은 대통령이 의장이고 국무총리가 부의장이나, 후보는 국무총장이 의장이며 부의장 규정이 없다."
+        },
+        {
+          "element": "국무회의 내 서열·통할 관계",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국무총리는 대통령을 보좌하며 국무회의의 부의장이 된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務總長은 國務委員의 首班으로서 國務會議의 議長이 되며 行政 各部長을 統轄함",
+          "commonality": "국무총리(총장)급 직위의 국무회의 내 지위를 명시한다는 점이 공통된다.",
+          "difference": "대상에서 국무총리는 대통령을 보좌하는 부의장에 그치나, 후보에서 국무총장은 국무위원의 수반이자 의장이며 행정각부장 통할권까지 가진다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "국무총리가 대통령을 '보좌'한다는 보좌 의무 규정",
+    "국무총리에게 국무회의 '부의장' 지위를 부여하는 부분(후보들에는 국무회의 부의장 제도가 나타나지 않음)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했을 뿐, 실제 참조·계수 관계의 역사적 확정은 제공된 본문만으로 판단할 수 없다.",
+    "프랑스 헌법 후보는 원문(프랑스어)과 한국어 번역문을 함께 제시받았으므로 용어 대응 판단에 번역 의존 가능성이 있다."
+  ],
+  "short_answer": "검토 결과 프랑스 제4공화국헌법 제32조와 조선임시약헌 제28조가 후속 비교에 유용하다. 전자는 '대통령이 국무회의를 주재한다'는 점에서 제1항의 규율 요소와, 후자는 '國務會議의 議長이 되며'라는 한자 문형과 직접 대응한다. 다만 프랑스 제32조에는 부의장 규정이 없고 회의록 작성·보관 의무가 추가되며, 약헌 제28조는 의장이 대통령이 아니라 국무총장이고 그에게 행정각부 통할권까지 부여한다는 점에서 주체와 효과가 다르다. 국무총리의 '대통령 보좌' 의무와 '국무회의 부의장' 지위는 제시된 후보들로 설명되지 않는다. 문언상 대응이 곧 역사적 참조를 입증하는 것은 아니다."
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_049",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "49",
+    "original_text": "國會議員은 現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며 會期前에 逮捕 또는 拘禁되었을 때에는 國會의 要求가 있으면 會期中 釋放된다.",
+    "workbook_text_ko": "국회의원은 현행범을 제한 외에는 회기중 국회의 동의없이 체포 또는 구금되지 아니하며 회기전에 체포 또는 구금되었을 때에는 국회의 요구가 있으면 회기중 석방된다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_022",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "22",
+      "original_text": "Aucun membre du Parlement ne peut, pendant la durée de son mandat, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la Chambre dont il fait partie, sauf le cas de flagrant délit. La détention ou la poursuite d'un membre du Parlement est suspendue si la Chambre dont il fait partie le requiert.",
+      "workbook_text_ko": "국회의원은 임기 중 소속한 원의 허락이 없으면 중죄 또는 경죄사건\n에서 소추되거나 또는 체포되지 아니한다. 다만, 현행범인(flagrant délit)인\n경우에는 그러하지 아니하다. 국회의원의 구류(détention) 또는 소추는 소\n속하는 원의 청구가 있을 때에는 정지된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_073",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "73",
+      "original_text": "立法委員除現行犯外，非經立法院許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "입법위원은 현행범인 경우를 제외하고는 입법원의 허가 없이 체포되거나 구금되지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_074",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "74",
+      "original_text": "立法委員，除現行犯外，非經立法院許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "立法委員은 現行犯의 境遇를 除外하고는 立法院의 許可없이 逮捕 또는 拘禁되지 아니한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_034",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "34",
+      "original_text": "國民代表除現行犯外，在會期中非經國民大會許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "국민대표는 현행범인 경우를 제외하고는 회기 중 국민대회의 허가 없이 체포되거나 구금되지 않는다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_018",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "18",
+      "original_text": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함\n議員은 院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함",
+      "workbook_text_ko": "의원은 내란·외환에 관한 범죄 또는 현행범 이외에는 회기 중 원의 허락 없이 체포·심문을 받지 아니함.\n의원은 원내에서 행한 발언 및 표결에 대하여 원외에서 책임을 지지 아니함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_033",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "33",
+      "original_text": "國民大會代表，除現行犯外，在會期中，非經國民大會許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "國民大會代表는 現行犯의 境遇를 除外하고는 會期中 國民大會의 許可없이 逮捕 또는 拘禁되지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_050",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "50",
+      "original_text": "両議院の議員は、法律の定める場合を除いては、国会の会期中逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。",
+      "workbook_text_ko": "양원의 의원은 법률이 정하는 경우를 제외하고는 국회 회기 중에 체포되지 않으며 회기 전에 체포된 의원은 소속 원(院)의 요구가 있으면 회기 중에 석방하여야 한다."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_088",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "88",
+    "original_text": "國防上 또는 國民生活上 緊切한 必要에 依하여 私營企業을 國有 또는 公有로 移轉하거나 또는 그 經營을 統制, 管理함은 法律이 定하는 바에 依하여 行한다.",
+    "workbook_text_ko": "국방상 또는 국민생활상 긴절한 필요에 의하여 사영기업을 국유 또는 공유로 이전하거나 또는 그 경영을 통제, 관리함은 법률이 정하는 바에 의하여 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_004",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "4",
+      "original_text": "國民은 左記 各項 政策의 確立實施에 依하여 生活均等權을 享有함\n一 國民의 基本生活을 確保할 計劃經濟의 樹立\n二 主要한 生活必需品의 統制管理와 合理的 物價政策의 樹立\n三 稅制의 整理와 累進率의 强化\n四 農民本位의 土地 再分配\n五 大規模의 主要工場 及 鑛山의 國營 또는 國家 管理\n六 勞働者의 生活을 安定키 爲한 最低賃金制의 確立\n七 主要企業의 經營管理에 從業員代表 參與\n八 俸給者의 生活을 安定시키기 爲한 家族給與制의 確立\n九 重要工場內에 保健 衛生 敎育 及 娛樂施設의 整備\n十 失業保險 廢疾保險 其他 社會保險制의 實施",
+      "workbook_text_ko": "국민은 아래 각 항 정책의 확립·실시에 의하여 생활균등권을 향유함.\n1. 국민의 기본생활을 확보할 계획경제의 수립\n2. 주요한 생활필수품의 통제관리와 합리적 물가정책의 수립\n3. 세제의 정리와 누진율의 강화\n4. 농민 본위의 토지 재분배\n5. 대규모의 주요 공장 및 광산의 국영 또는 국가 관리\n6. 노동자의 생활을 안정시키기 위한 최저임금제의 확립\n7. 주요 기업의 경영관리에 종업원 대표 참여\n8. 봉급자의 생활을 안정시키기 위한 가족급여제의 확립\n9. 중요 공장 내에 보건·위생·교육 및 오락 시설의 정비\n10. 실업보험·폐질보험, 기타 사회보험제의 실시"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_144",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "144",
+      "original_text": "公用事業及其他有獨佔性之企業，以公營為原則，其經法律許可者，得由國民經營之。",
+      "workbook_text_ko": "公用事業과 其他獨占의 性格을 가진 企業은 公營을 原則으로 하고 其中法律에 依하여 許可된 것은 國民이 이를 經營할 수 있다"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_107",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "107",
+      "original_text": "左列事項，由中央立法並執行之：\n一、外交。\n二、國防與國防軍事。\n三、國籍法，及刑事民事商事之法律。\n四、司法制度。\n五、航空，國道，國有鐵路，航政，郵政及電政。\n六、中央財政與國稅。\n七、國稅與省稅縣稅之劃分。\n八、國營經濟事業。\n九、幣制及國家銀行。\n十、度量衡。\n十一、國際貿易政策。\n十二、涉外之財政經濟事項。\n十三、其他依本憲法所定關於中央之事項。",
+      "workbook_text_ko": "左記事項은 中央에서 立法하여 이를 執行한다.\n  1.  外交\n  2.  國防과 國防軍事\n  3.  國籍法과 刑事, 民事, 商事의 法律\n  4.  司法制度\n  5.  航空, 國道, 國有鐵道, 航海, 郵便 및 電信.\n  6,  中央財政과 國稅\n  7,  國稅와 省稅또는 縣稅와의 分劃\n  8,  國營經濟事業\n  9,  貨幣制度와 國立銀行\n  10,  度量衡\n  11,  國際貿易政策\n  12,  外國과 關聯되는 財政 및 經濟事項\n  13,  其他 이 憲法에 依하여 規定된 中央에 關한 事項"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_149",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "149",
+      "original_text": "金融機構，應依法受國家之管理。",
+      "workbook_text_ko": "金融機關은 法律의 定하는 바에 의하여 國家의 管理를 받는다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_121",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "121",
+      "original_text": "國家對於私人之財富及私營事業，認爲有妨害國民生計之均衡發展時，得依法律節制之。",
+      "workbook_text_ko": "국가는 개인의 재산과 사영사업이 국민 생계의 균형 있는 발전을 방해한다고 인정하는 때에는 법률에 따라 이를 제한할 수 있다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_156",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "156",
+      "original_text": "Das Reich kann durch Gesetz, unbeschadet der Entschädigung, in sinngemäßer Anwendung der für Enteignung geltenden Bestimmungen, für die Vergesellschaftung geeignete private wirtschaftliche Unternehmungen in Gemeineigentum überführen. Es kann sich selbst, die Länder oder die Gemeinden an der Verwaltung wirtschaftlicher Unternehmungen und Verbände beteiligen oder sich daran in anderer Weise einen bestimmenden Einfluß sichern.\nDas Reich kann ferner im Falle dringenden Bedürfnisses zum Zwecke der Gemeinwirtschaft durch Gesetz wirtschaftliche Unternehmungen und Verbände auf der Grundlage der Selbstverwaltung zusammenschließen mit dem Ziele, die Mitwirkung aller schaffenden Volksteile zu sichern, Arbeitgeber und Arbeitnehmer an der Verwaltung zu beteiligen und Erzeugung, Herstellung, Verteilung, Verwendung, Preisgestaltung sowie Ein- und Ausfuhr der Wirtschaftsgüter nach gemeinwirtschaftlichen Grundsätzen zu regeln.\nDie Erwerbs- und Wirtschaftsgenossenschaften und deren Vereinigungen sind auf ihr Verlangen unter Berücksichtigung ihrer Verfassung und Eigenart in die Gemeinwirtschaft einzugliedern.",
+      "workbook_text_ko": "독일제국은 법률에 준하여 공용징수에 적용되는 규정을 유추 적용하여 사회화에 적합한 사적 경제기업의 보상을 지급하고 공유로 이관시킬 수 있다. 제국은 스스로 또는 주나 시·읍·면으로 하여금 경제적 기업과 단체의 관리에 참여하게 하거나, 다른 방법으로 이에 대하여 결정적인 영향력을 확보할 수 있다.\n제국은 긴급한 필요가 있을 경우, 모든 생산에 종사하는 계층의 협력을 확보하고 사용자와 피용자를 관리에 참가시키며 경제적 재화의 생산, 제조, 분배, 소비, 가격형성 및 수출입을 공공경제의 원칙에 따라 규율할 목적을 갖고 공공경제의 목적을 위해 법률에 따라 자치의 기초 위에 경제적 기업과 경제적 단체를 통합할 수 있다.\n영업 및 경제협동조합과 그 연합회는 요청이 있는 경우 규약과 특색을 고려하여 공공경제에 편입된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_123",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "123",
+      "original_text": "公用事業及其他有獨占性之企業，以國家公營爲原則，但因必要，得特許國民私營之。\n國家對於前項特許之私營事業，因國防上之緊急需要，得臨時管理之，並得依法律收歸公營，但應予以適當之補償。",
+      "workbook_text_ko": "공익사업과 그 밖에 독점성을 가진 기업은 국가가 공영하는 것을 원칙으로 한다. 다만, 필요한 때에는 국민의 사영을 특허할 수 있다.\n국가는 국방상의 긴급한 필요가 있을 때 전항에 따라 특허한 사영사업을 임시로 관리할 수 있으며, 법률에 따라 공영으로 전환할 수 있다. 다만, 적절한 보상을 하여야 한다."
+    }
+  ]
+}

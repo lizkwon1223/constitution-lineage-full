@@ -1,0 +1,130 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_063",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_039",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「依法」 + 「須經立法院之通過或追認」이라는 '법률에 의한 권한 행사 + 의회 동의' 문형은 대상 조문 제2항의 구조와 닮았으나, 규율 대상이 계엄 선포·해엄이어서 사면·감형·복권이라는 대상 요소와 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통(대통령)은 법률에 의하여 대사·특사·감형·복권의 권한을 행사한다'는 주체·조건·권한 열거가 대상 제1항과 거의 그대로 대응하여 문언 비교에 유용하다.",
+      "evidence": [
+        {
+          "element": "주체와 권한 열거(사면·감형·복권)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 赦免, 減刑과 復權을 命한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法行使大赦，特赦，減刑及復權之權。",
+          "commonality": "국가원수가 법률에 따라 사면계 권한(감형·복권 포함)을 행사한다는 동일한 구성",
+          "difference": "후보는 大赦·特赦를 분리 열거하고 '권한을 행사한다(行使…之權)'로 표현하나, 대상은 '사면'으로 포괄하고 '명한다'로 규정"
+        },
+        {
+          "element": "조건(법률유보)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法",
+          "commonality": "권한 행사를 법률에 따르도록 하는 조건이 동일",
+          "difference": "후보 원문은 '依法'으로 간결하며, 대상은 '법률의 정하는 바에 의하여'로 풀어 규정"
+        },
+        {
+          "element": "일반사면의 의회 동의 요건",
+          "target_field": "original_text",
+          "target_quote": "一般赦免을 命함에는 國會의 同意를 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法行使大赦，特赦，減刑及復權之權。",
+          "commonality": "대사(일반사면)를 권한 목록에 포함한다는 점만 공통",
+          "difference": "후보에는 대사에 대한 입법원 동의 등 별도 절차 요건이 전혀 없어, 대상 제2항의 국회 동의 요건은 대응하지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_123",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "현민의 창제·복결권 및 현장 선거·파면권에 관한 지방자치 규정으로, 대통령의 사면권과 규율 요소가 겹치지 않는다. '依法律'이라는 상용 표현만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'總統依法…'이라는 법률유보형 대통령 권한 문형은 유사하지만, 내용이 문무관 임면이어서 사면·감형·복권 및 일반사면 동의 요건과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 은사권과 함께 '일반사면(amnistie)은 법률에 의해서만 허용된다'는 특칙을 두어, 대상 조문의 '개별 사면권 + 일반사면에 대한 가중 요건'이라는 2단 구조와 대응한다. 다만 가중 요건의 형식(법률 vs 국회 동의)이 다르다.",
+      "evidence": [
+        {
+          "element": "일반사면에 대한 가중 요건",
+          "target_field": "original_text",
+          "target_quote": "一般赦免을 命함에는 國會의 同意를 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi.",
+          "commonality": "대통령의 일반적 사면권과 달리 일반사면(amnistie)에는 입법부가 관여하는 별도 요건을 둠",
+          "difference": "후보는 '법률에 의해서만' 부여되도록 하여 입법행위 자체를 요구하나, 대상은 대통령이 명하되 국회의 동의를 얻도록 하는 절차로 규정"
+        },
+        {
+          "element": "주체와 사면권",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 사면, 감형과 복권을 명한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Il a le droit de faire grâce",
+          "commonality": "국가원수에게 개별적 은사권을 귀속시킴",
+          "difference": "후보는 은사권만 언급하고 감형·복권을 열거하지 않으며, 권한 행사에 '법률의 정하는 바에 의하여'라는 법률유보가 붙어 있지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_005",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "하원 해산과 상원 동의에 관한 규정으로, 사면·감형·복권이라는 대상 권한과 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_049",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 대통령 사면권, 제2항 일반사면(대사면)의 가중 요건이라는 조문 분할 구조가 대상 조문과 정확히 대응한다. 다만 요건이 '법률'인 점, 감형·복권 열거가 없는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "조문 구조(사면권 + 일반사면 특칙)",
+          "target_field": "original_text",
+          "target_quote": "一般赦免을 命함에는 國會의 同意를 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Reichsamnestien bedürfen eines Reichsgesetzes.",
+          "commonality": "제1항에서 대통령 사면권을 정한 뒤 별도 항에서 일반사면에만 입법부 관여를 요구하는 2단 구성",
+          "difference": "후보는 '제국법률을 필요로 한다'는 법률형식 요구인 반면, 대상은 대통령의 명령행위에 대한 '국회의 동의'라는 절차 요건"
+        },
+        {
+          "element": "주체와 권한 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 사면, 감형과 복권을 명한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident übt für das Reich das Begnadigungsrecht aus.",
+          "commonality": "대통령이 사면권을 행사한다는 주체·권한 설정",
+          "difference": "후보는 사면권(Begnadigungsrecht)만 포괄적으로 규정하고 감형·복권을 열거하지 않으며, '법률의 정하는 바에 의하여'라는 법률유보 문구도 없음"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'감형과 복권'을 사면과 병렬 열거하면서 동시에 '법률의 정하는 바에 의하여'라는 법률유보를 붙인 제1항의 결합 형태(중화민국 제40조는 열거는 있으나 동의 요건이 없고, 프랑스·바이마르는 열거가 없음)",
+    "일반사면에 대해 '법률'이 아니라 '국회의 동의'라는 절차를 택한 점"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며, 실제 참조·계수 여부 등 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "프랑스 제3조는 사면 관련 부분 외에 법률 제안·공포, 군 통수, 임면 등 다수 사항을 포함한 복합 조문이므로 대응 범위를 사면 부분으로 한정했다."
+  ],
+  "short_answer": "검토 결과 중화민국헌법 제40조, 프랑스 1875년 공권력조직법 제3조(사면 부분), 바이마르헌법 제49조가 대상 조문과 구체적으로 대응한다. 중화민국 제40조는 '總統依法…減刑及復權'으로 법률유보와 감형·복권 열거가 제1항과 거의 일치하나 일반사면에 대한 동의 요건이 없다. 프랑스 제3조와 바이마르 제49조는 개별 은사권과 별도로 일반사면(amnistie/Reichsamnestie)에 입법부 관여를 요구하는 2단 구조를 보여 제2항과 대응하지만, 요건이 '법률'인 반면 대상은 '국회의 동의'라는 절차를 택한 점이 다르다. 중화민국 제39조·제41조는 '依法' 문형과 의회 동의 구조가 유사할 뿐 규율 대상이 계엄·임면이어서 선택하지 않았고, 제123조와 프랑스 제5조는 무관하다. 이상은 문언 대응에 관한 판단이며 실제 참조 여부를 확정하는 것은 아니다."
+}

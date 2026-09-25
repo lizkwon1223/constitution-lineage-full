@@ -1,0 +1,112 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_044",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_054",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체를 '국무대신 및 정부위원'으로 병기하고 의회 출석·발언 권한을 규정하는 점이 대상 조문 전단(국무총리·국무위원과 정부위원의 출석·의견진술권)과 구체적으로 대응한다. 다만 국회 요구 시 출석답변 의무는 없다.",
+      "evidence": [
+        {
+          "element": "주체(정부위원 포함)",
+          "target_field": "original_text",
+          "target_quote": "國務總理, 國務委員과 政府委員은",
+          "candidate_field": "original_text",
+          "candidate_quote": "国務大臣及政府委員ハ",
+          "commonality": "국무를 담당하는 각료급 인사와 '정부위원'을 함께 출석 주체로 열거하는 구성이 일치한다.",
+          "difference": "대상은 국무총리를 별도로 앞세우고 국무위원을 두는 반면, 후보는 국무대신만 규정한다."
+        },
+        {
+          "element": "출석·발언 권한",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 意見을 陳述하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "各議院ニ出席シ及発言スルコトヲ得",
+          "commonality": "의회에 출석하여 발언(의견 진술)할 수 있는 권한을 인정한다.",
+          "difference": "후보는 '何時タリトモ(언제든지)' 각 원에 대한 권한으로 규정하고 질문 응답을 명시하지 않으며, 대상과 달리 출석 의무 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민의회 비회기 중 의장단의 국회 소집 권한과 소집 의무를 다루는 조항으로, 각료의 의회 출석·답변 문제와 규율 대상이 다르다. '청구가 있을 때에는 …하여야 한다'는 문형만 유사하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "출석·발언 권한과 '요구가 있을 때 출석하여야 한다'는 의무를 한 조문에서 이단 구조로 규정하는 점이 대상 조문의 전·후단 구조와 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "출석답변 의무(후단)",
+          "target_field": "original_text",
+          "target_quote": "國會의 要求가 있을 때에는 出席答辯하여야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "答弁又は説明のため出席を求められたときは、出席しなければならない",
+          "commonality": "의회의 요구가 있는 경우 답변을 위해 출석할 의무를 부과한다.",
+          "difference": "후보는 '답변 또는 설명'을 목적으로 명시하고 출석 의무만 규정하나, 대상은 '출석답변'으로 답변 자체를 의무 내용에 포함한다."
+        },
+        {
+          "element": "출석·발언 권한 및 주체",
+          "target_field": "original_text",
+          "target_quote": "國務總理, 國務委員과 政府委員은 國會에 出席하여 意見을 陳述하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣総理大臣その他の国務大臣は、両議院の一に議席を有すると有しないとにかかはらず、何時でも議案について発言するため議院に出席することができる",
+          "commonality": "총리와 국무위원(국무대신)이 의회에 출석하여 발언할 수 있는 권한을 규정한다.",
+          "difference": "후보는 주체에 정부위원을 포함하지 않고 의석 보유 여부 단서와 '의안에 대하여'라는 발언 대상 제한을 두는 반면, 대상은 정부위원을 포함하고 질문 응답 권한을 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_053",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각료의 양원 출석과 데크레로 임명된 위원의 보좌를 규정해 주제상 유사하나, 의무의 방향이 '장관이 요구하면 청취되어야 한다'로 반대이고 의회 요구에 따른 출석답변 의무가 없어 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "정부 인원을 회의에 출석시켜 질의에 응하게 하는 점에서 주제가 겹치나, 주체가 입법원의 각종 위원회이고 형식이 '요청(邀請)'이며 사회 관계인사까지 포함하는 등 대상 조문의 각료 출석권·출석답변 의무 구조와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_071",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'출석(열석)하여 의견을 진술할 수 있다'는 권한 문형이 대상 조문 전단과 직접 대응한다. 다만 주체와 의무 규정 유무에서 차이가 커 대응 범위는 전단의 의견진술권에 한정된다.",
+      "evidence": [
+        {
+          "element": "의견진술권 문형",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 意見을 陳述하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院開會時，關係院院長及各部會首長得列席陳述意見",
+          "commonality": "입법기관 회의에 출석(열석)하여 의견을 진술할 수 있다는 권한 규정 형식이 같다.",
+          "difference": "후보의 주체는 관계 각원 원장과 각 부·회 수장이고 '개회 시'라는 시기 제한이 있으며, 질문 응답 권한이나 의회 요구에 따른 출석답변 의무가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_034",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'列席하여 意見을 陳述'이라는 표현이 대상의 '出席하여 意見을 陳述'과 어구상 겹치지만, 출석 대상이 국무회의이고 주체가 감찰위원이며 감찰위원의 직무 규정이 조문의 중심이어서 국회에 대한 출석·답변 규율과는 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'질문에 응답할 수 있으며'라는 질문응답 권한을 권리로 명시한 부분(ROC 67조의 備詢은 위원회의 요청에 응하는 구조로 다름)",
+    "국무총리·국무위원·정부위원 세 주체를 동시에 열거한 구성 전체"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "프랑스 조문은 원문(불어)과 제공 번역을 함께 읽었으나 번역 의존 위험이 있어 선택 근거로 삼지 않았다."
+  ],
+  "short_answer": "대상 조문은 각료·정부위원의 국회 출석·의견진술·질문응답 권한(전단)과 국회 요구 시 출석답변 의무(후단)의 이단 구조를 가진다. 후보 중 일본 1889년 헌법 제54조는 '국무대신 및 정부위원'이라는 주체 병기와 출석·발언 권한에서, 일본국헌법 제63조는 출석·발언 권한과 '요구가 있을 때 출석하여야 한다'는 의무의 결합 구조에서 구체적으로 대응한다. 중화민국헌법 제71조는 '出席(列席)하여 意見을 陳述'이라는 권한 문형이 전단과 대응하나 주체와 시기 제한, 의무 부재에서 차이가 있어 대응 범위가 전단에 한정된다. 프랑스 제12조는 규율 대상이 전혀 다르고, 제53조·중화민국 제67조·조선임시약헌 제34조는 주제상 유사하나 의무 방향·요청 주체·출석 대상 기관이 달라 선택하지 않았다. 이상은 문언 대응일 뿐 역사적 참조의 확정은 아니다."
+}

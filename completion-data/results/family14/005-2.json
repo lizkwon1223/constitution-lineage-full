@@ -1,0 +1,173 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_005",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 '국가'를 주체로 '모든 생활부면'에 걸쳐 '향상 및 증진'에 노력할 의무를 규정하여, 대상 조문의 '모든 영역'·'공공복리의 향상'·국가 의무 문형과 부분적으로 대응한다. 다만 보호 대상이 사회복지·사회보장·공중위생으로 특정되어 자유·평등·창의와는 다르다.",
+      "evidence": [
+        {
+          "element": "적용 범위(모든 영역/생활부면)와 국가 의무",
+          "target_field": "original_text",
+          "target_quote": "政治, 經濟, 社會, 文化의 모든 領域에 있어서",
+          "candidate_field": "original_text",
+          "candidate_quote": "国は、すべての生活部面について",
+          "commonality": "국가를 주체로 하여 생활·활동의 전 영역을 포괄 범위로 삼는 서술 방식",
+          "difference": "대상은 정치·경제·사회·문화를 열거하고, 후보는 '생활부면'이라는 포괄어만 사용"
+        },
+        {
+          "element": "공공복리 향상 목적의 국가 작용",
+          "target_field": "original_text",
+          "target_quote": "公共福利의 向上을 爲하여 이를 保護하고 調整하는 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない",
+          "commonality": "복지의 '향상'을 목적으로 국가에 작위 의무를 부과하는 구조",
+          "difference": "후보는 사회복지·사회보장·공중위생이라는 특정 정책영역의 노력의무이고, 대상은 각인의 자유·평등·창의를 '보호·조정'하는 의무로 규율 대상과 수단이 다름"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "납세의무 규정으로, '의무'라는 상용어만 겹치고 국가의 기본권 보장·조정 의무와는 규율 요소가 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국민의 생활균등권과 이를 위한 정책 열거라는 점에서 사회국가적 지향은 유사하나, 주체가 국민의 권리 향유이고 구체 정책 목록 형태여서 대상 조문의 '국가 의무+자유·평등·창의 존중' 문형과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제5절이 '인민 전체의 복지와 경제적 안정을 보장하기 위한 사회정의의 향상'을 국가의 책무로 선언하여, 대상 조문의 공공복리 향상을 위한 국가의 보호·조정 의무와 목적·주체 면에서 대응한다. 대응 범위는 이 한 절에 한정된다.",
+      "evidence": [
+        {
+          "element": "공공복리 향상을 위한 국가의 책무",
+          "target_field": "original_text",
+          "target_quote": "公共福利의 向上을 爲하여 이를 保護하고 調整하는 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+          "commonality": "전체 인민의 복지 향상을 국가가 담당해야 할 과제로 선언하는 강령적 조항",
+          "difference": "후보는 '사회정의의 향상'을 국가의 관심사(concern)로 두는 데 그치고 개인의 자유·평등·창의의 존중·보장 및 '조정' 권능은 언급하지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_151",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "개인의 (경제적) 자유를 확보하면서 공공복지(Gemeinwohl)의 우월한 요구에 따라 그 한계를 정하는 구조가, 대상 조문의 '각인의 자유 보장 + 공공복리 향상을 위한 보호·조정'이라는 이중 구조와 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "개인의 자유 보장",
+          "target_field": "original_text",
+          "target_quote": "各人의 自由, 平等과 創意를 尊重하고 保障하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "In diesen Grenzen ist die wirtschaftliche Freiheit des Einzelnen zu sichern.",
+          "commonality": "개별 개인의 자유를 국가가 확보·보장한다는 선언",
+          "difference": "후보는 '경제적' 자유에 한정되고 평등·창의는 포함하지 않으며, 보장이 정의원칙의 한계 '내에서'만 인정됨"
+        },
+        {
+          "element": "공공복리를 이유로 한 제한·조정",
+          "target_field": "original_text",
+          "target_quote": "公共福利의 向上을 爲하여 이를 保護하고 調整하는 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "im Dienst überragender Forderungen des Gemeinwohls",
+          "commonality": "공공복리를 근거로 개인의 자유에 개입할 수 있다는 규율 요소",
+          "difference": "후보는 '법률상의 강제'가 허용되는 요건(권리 실현 또는 공공복지의 중대한 요구)으로 구성되고, 대상은 국가의 일반적 보호·조정 '의무'로 구성됨"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_PREAMBLE",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'promote the general Welfare'가 공공복리 증진 관념과 겹치지만 헌법 제정 목적의 열거일 뿐, 국가 의무의 주체·요건·효과에 관한 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 권한 규정으로 대상 조문의 기본권 보장·공공복리 조항과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'정치·경제·사회·문화' 생활부문의 열거와 그 모든 부문에서의 평등 보장이라는 점에서 대상 조문 전단의 열거 문형 및 '평등' 요소와 구체적으로 대응한다. 다만 주체·형식(공민의 동등한 권리 vs 국가의 의무)이 다르다.",
+      "evidence": [
+        {
+          "element": "영역 열거와 평등",
+          "target_field": "original_text",
+          "target_quote": "政治, 經濟, 社會, 文化의 모든 領域에 있어서",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家 政治·經濟·社會·文化生活部門에 있어서 同等한 權利를 가진다",
+          "commonality": "정치·경제·사회·문화를 같은 순서로 열거하고 그 전 영역에서의 평등을 규정",
+          "difference": "후보는 성별·민족별·신앙 등 차별금지 사유를 전제로 공민의 '동등한 권리'를 규정하는 권리조항이고, 대상은 자유·창의까지 포함해 국가의 존중·보장·보호·조정 의무를 규정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_046",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주수상과 국무장관의 책임 규정으로 대상 조문과 규율 요소가 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "종교의 자유와 시민적 권리·의무의 관계 규정으로, 대상 조문의 포괄적 국가 의무 조항과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_024",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자유·권리의 보장과 '공공이익' 관련성이라는 관념은 유사하지만, 후보는 열거되지 않은 자유의 보장과 법률유보를 정한 보충조항으로 대상의 국가 의무 선언 문형과는 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_169",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가가 문화·경제·사회 사업을 적극 시행·부조할 의무를 정한 점은 유사하나, 대상이 변강지구 각 민족으로 한정되고 개인의 자유·평등·창의 존중 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'정치적·경제적·사회적 원칙', '모든 영역에서의 평등', '국가가 개인과 가족의 발전에 필요한 조건을 보장' 등 유사 관념이 산재하지만, 각 문구의 주체·대상(법률이 여성에게 보장 등)이 달라 대상 조문의 단일 문형과 구체적으로 대응하지는 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법 앞의 평등과 특권 배제를 정한 평등조항으로 '평등' 요소만 겹치고, 모든 영역에서의 자유·창의 보장 및 공공복리를 위한 국가의 보호·조정 의무와는 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'創意(창의)'의 존중·보장이라는 요소",
+    "자유·평등을 '保護하고 調整'한다는 국가의 조정 권능 문언",
+    "국가가 자유·평등·창의를 '尊重'한다는 표현"
+  ],
+  "limitations": [
+    "문언상의 대응 여부만 검토했으며 어느 후보가 실제 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "필리핀헌법·프랑스 제4공화국헌법 등 일부 후보는 조항 전체가 여러 절로 이루어져, 대응은 인용한 특정 절에 한정된다.",
+    "독일·프랑스어 후보의 의미 파악에는 제공된 원문 문언 범위 내에서만 판단했다."
+  ],
+  "short_answer": "검토할 만한 후보는 바이마르헌법 제151조(개인 자유의 확보와 공공복지를 근거로 한 개입), 일본국헌법 제25조 제2항(국가의 모든 생활부면에 걸친 향상 노력의무), 필리핀헌법 제2조 제5절(인민 복지 보장을 위한 사회정의 향상을 국가의 책무로 선언), 조선민주주의인민공화국헌법안 제11조(정치·경제·사회·문화 부문 열거와 평등)이다. 공통점은 각각 '각인의 자유 보장+공공복리에 의한 조정'의 이중 구조, '모든 영역'에 걸친 국가 의무와 '향상' 목적, 복지 향상의 국가 책무 선언, 정치·경제·사회·문화의 동일한 열거 문형이다. 차이로는 바이마르는 경제적 자유에 한정되고 법률상 강제의 허용요건 형식이며, 일본국헌법은 사회복지·사회보장·공중위생이라는 특정 정책영역의 노력의무, 필리핀은 국가의 '관심사'라는 강령적 표현, 북한 초안은 국가 의무가 아니라 공민의 '동등한 권리'라는 점이다. '창의'의 존중과 자유·평등을 '보호·조정'한다는 문언은 제시 후보로 충분히 설명되지 않는다. 이상은 문언 대응에 관한 판단이며 역사적 참조 관계의 확정은 아니다."
+}

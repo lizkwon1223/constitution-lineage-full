@@ -1,0 +1,87 @@
+{
+  "article": 49,
+  "reviewed_at": "2026-09-22T15:50:50.977214+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "8725042519195f63eef3aca1e24d59eb09108628c9ea4c775c6c78b1fcb6ddd5",
+  "input_sha256": "2001bc5d7dbff4f16fa68a2595798eb44f829fbe9b6614b3a5998623497734af",
+  "responses": [
+    {
+      "job_id": "049_3293076d314c_r1",
+      "repeat": 1,
+      "sha256": "0837d1ae7622fac0592a4fcf05d04bee01a7194e3ad51ba084d0aeab77e1dada",
+      "assessment": "전단의 현행범·의회 허가와 후단의 요구·석방 대응을 잘 구분함. 종합답변이 중화민국 제74조에 회기 요건을 포함시키고 프랑스 1946년·오스트리아의 요구에 따른 해제 구조를 없다고 축약한 점은 보정이 필요함."
+    },
+    {
+      "job_id": "049_3293076d314c_r2",
+      "repeat": 2,
+      "sha256": "b60affcbfc789eb8c7d785ffaaedebb915356667cc2e782333e673a26a819b68",
+      "assessment": "주요 후보의 보호기간·처분·예외를 정확히 대조함. 후보 배열 순서 위반은 형식 문제이며 14개 후보 검토 누락은 아님. 프로이센 1850년의 유사 구조를 배제한 기준은 재검토 대상임."
+    },
+    {
+      "job_id": "049_3293076d314c_r3",
+      "repeat": 3,
+      "sha256": "90804554edb299e07ee862c705a8e11466eb09c504c7cd90b0bc71382a6bcd02",
+      "assessment": "주요 인용과 차이 설명이 대체로 원문에 부합함. 프랑스 1946년·오스트리아·프로이센 1850년의 구체적 부분 대응을 다른 추가 규정 때문에 제외한 기준은 좁게 적용됨."
+    }
+  ],
+  "synthesis": "중화민국 1936년 제34조는 현행범 예외·회기·허가·체포 또는 구금의 조합에 대응하며, 1946년 제74조는 같은 구조에서 회기 한정을 명시하지 않음. 일본 제50조는 회기 전 체포, 소속 원의 요구, 회기 중 석방의 조건과 효과에 직접 대응함. 일본 1889년과 약헌은 내란·외환죄를 추가 예외로 둠. 프랑스·독일어권 후보의 소추·조사·구금 정지나 해제는 대상의 석방과 문언이 다르지만 신체구속 해소의 대응까지 부정할 이유는 없음. 회기·임기·입법기 및 현행범·익일 체포를 구분함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "ROC1946_PROM1947_ART_074",
+      "type": "summary_overstatement",
+      "severity": "material",
+      "finding": "종합답변의 전단 대응 묶음에 회기 중 요건을 포함했으나 이 후보는 회기 한정을 두지 않음. 후보별 증거에서는 이를 정확히 구분함.",
+      "action": "회기 요건은 1936년 초안에만 있는 것으로 분리함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": null,
+      "type": "summary_contradiction",
+      "severity": "material",
+      "finding": "프랑스 1946년 제22조와 오스트리아 제57조에 석방 요구 구조가 없다고 종합했으나, 후보별 설명은 의회 요구에 따른 구류 정지·해제를 인정함.",
+      "action": "없는 것은 대상과 동일한 회기 전 체포·회기 중 석방 조건임을 명확히 함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "프랑스 1946년·오스트리아의 현행범 예외·의회 허가·요구에 따른 해제 구조를 기간 차이로 배제함. 북한 제44조도 현행범과 의회 승인이라는 전단의 부분 대응을 제공함.",
+      "action": "기간·처분 차이와 실제 존재하는 조건 구조를 별도로 비교함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "PR1850_ORIGINAL_ART_084",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "선택된 바이마르 제37조와 가까운 회기 중 허가·요구 시 해제 구조를 추가 보호 범위와 익일 체포 예외 때문에 배제함.",
+      "action": "중복되는 구체 구조를 병기하고 선택 빈도만으로 중요도를 판단하지 않음."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": null,
+      "type": "candidate_order",
+      "severity": "minor",
+      "finding": "14개 후보의 검토는 모두 있으나 입력 순서와 출력 순서가 다름.",
+      "action": "표시는 후보 ID로 연결하고 원응답 순서를 별도로 보존함."
+    }
+  ],
+  "limits": [
+    "정지·해제와 석방의 용어 차이를 구금 상태가 실제 해소되는지와 분리하여 읽음."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_052",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "52",
+    "original_text": "大統領이 事故로 因하여 職務를 遂行할 수 없을 때에는 副統領이 그 權限을 代行하고 大統領, 副統領 모다 事故로 因하여 그 職務를 遂行할 수 없을 때에는 國務總理가 그 權限을 代行한다.",
+    "workbook_text_ko": "대통령이 사고로 인하여 직무를 수행할 수 없을 때에는 부통령이 그 권한을 대행하고 대통령, 부통령 모다 사고로 인하여 그 직무를 수행할 수 없을 때에는 국무총리가 그 권한을 대행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_049",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "49",
+      "original_text": "總統缺位時，由副總統繼任，至總統任期屆滿為止。總統副總統均缺位時，由行政院院長代行其職權，並依本憲法第三十條之規定，召集國民大會臨時會，補選總統副總統，其任期以補足原任總統未滿之任期為止。總統因故不能視事時，由副總統代行其職權。總統副總統均不能視事時，由行政院院長代行其職權。",
+      "workbook_text_ko": "總統이 闕位된 때에는 總統의 任期滿了時까지 副總統이 職務를 繼承한다. 總統과 副總統이 모두다 闕位된 때에는 行政院長이 그 職務를 代行하고 同時에 이 憲法 第30條의 規定에 依하여 國民大會의 臨時會가 召集되어 總統과 副總統을 補選한다. 이 總統과 副總統의 任期는 原任總統의 未滿의 任期를 補足함에 끄친다. 總統이 事故로 因하여 視務하지 못하는 때에는 副總統이 그 職權을 代行한다. 總統과 副總統이 모다 視務하지 못하는 때에는 行政院長이 그 職權을 代行한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_064",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "64",
+      "original_text": "(1) Wenn der Bundespräsident verhindert oder wenn seine Stelle dauernd erledigt ist, gehen alle Funktionen des Bundespräsidenten auf den Bundeskanzler über.\n(2) Dieser hat im Fall der dauernden Erledigung der Stelle des Bundespräsidenten sofort die Bundesversammlung zur Neuwahl des Bundespräsidenten einzuberufen.",
+      "workbook_text_ko": "(1) 연방대통령이 직무를 수행할 수 없거나 그 직위가 영구적으로 궐위되면 연방대통령의 모든 직무는 연방총리에게 이전한다.\n(2) 연방대통령직이 영구적으로 궐위된 경우 연방총리는 새 연방대통령을 선출하기 위하여 즉시 연방총회를 소집하여야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_050",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "50",
+      "original_text": "總統於任滿之日解職。如屆期次任總統尚未選出，或選出後總統副總統均未就職時，由行政院院長代行總統職權。",
+      "workbook_text_ko": "總統은 任期滿了日에 解職된다. 萬一 後任總統이 그때까지 選出되지 아니하거나 또는 選出後 아직 總統과 副總統이 모다 就任하지 않을 때에는 行政院長이 職權을 代行한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_064",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "64",
+      "original_text": "(1) Wenn der Bundespräsident verhindert oder wenn seine Stelle dauernd erledigt ist, gehen alle Funktionen des Bundespräsidenten zunächst auf den Bundeskanzler über. Dauert die Verhinderung voraussichtlich länger als zwanzig Tage, so ist die Vertretung bundesgesetzlich zu regeln.\n(2) Im Fall der dauernden Erledigung der Stelle des Bundespräsidenten hat die Bundesregierung sofort die Wahl des neuen Bundespräsidenten anzuordnen und der Bundeskanzler nach erfolgter Wahl die Bundesversammlung unverzüglich zur Angelobung des Bundespräsidenten einzuberufen.",
+      "workbook_text_ko": "(1) 연방대통령이 직무를 수행할 수 없거나 그 직위가 영구적으로 궐위되면 연방대통령의 모든 직무는 우선 연방총리에게 이전한다. 직무수행 불능이 20일을 넘게 계속될 것으로 예상되면 대리에 관하여 연방법률로 정하여야 한다.\n(2) 연방대통령직이 영구적으로 궐위된 경우 연방정부는 즉시 새 연방대통령의 선거를 명하여야 하며, 선거 후 연방총리는 연방대통령의 취임선서를 위하여 지체 없이 연방총회를 소집하여야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_024",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "24",
+      "original_text": "副主席은 政府主席을 輔佐하고 主席이 事故가 있을 때에는 그 職權을 代行함",
+      "workbook_text_ko": "부주석은 정부주석을 보좌하고 주석에게 사고가 있을 때에는 그 직권을 대행함."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_051",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "51",
+      "original_text": "總統缺位時，由副總統繼其任。\n總統因故不能視事時，由副總統代行其職權，總統副總統均不能視事時，由行政院院長代行其職權。",
+      "workbook_text_ko": "총통이 궐위된 때에는 부총통이 그 직을 승계한다.\n총통이 사유로 직무를 수행할 수 없는 때에는 부총통이 그 직권을 대행한다. 총통과 부총통이 모두 직무를 수행할 수 없는 때에는 행정원 원장이 그 직권을 대행한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_055",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "55",
+      "original_text": "En cas de vacance par décès ou pour toute autre cause, le Conseil des ministres charge un de ses membres d'exercer provisoirement les fonctions de président du Conseil des ministres.",
+      "workbook_text_ko": "사망 기타 모든 원인으로 국무총리가 궐위된 때에는 국무회의는 국무\n총리의 직무를 일시적으로 집행하는 것을 내각 구성원의 1인에게 담당케\n한다."
+    }
+  ]
+}

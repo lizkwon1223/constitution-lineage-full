@@ -1,0 +1,141 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_096",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_118",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방자치를 법률에 맡긴다는 점만 공유할 뿐, 대상 조문의 자치사무·위임사무 처리, 재산 관리, 자치규정 제정이라는 구체적 규율 요소가 전혀 없고 적용 대상도 직할시로 한정된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_118",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'연방·주 법률의 한계 안에서' 재산을 보유·취득·처분한다는 점에서 재산 관련 요소와 법률 한계 요소가 겹치지만, 대상 조문은 재산의 '관리'만을 짧게 규정할 뿐 경제적 사업 운영·예산 자주운영·공과금 징수권 같은 경제주체 규정을 두지 않으며, 위임사무 처리와 자치규정 제정이라는 핵심 요소도 대응하지 않아 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_070",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방자치단체와 그 연합체의 자기 사무 자치권 보장이라는 일반적 자치 보장 규정으로, 법률의 규율(감독)을 전제한다는 점만 유사하다. 위임사무 처리·재산 관리·자치규정 제정이라는 대상 조문의 열거적 규율 요소는 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_094",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(지방공공단체/지방자치단체)·재산 관리·사무 처리·'법률(법령)의 범위 내' 자치입법 제정이라는 네 요소가 같은 순서와 문형으로 대응하여 후속 비교에 유용하다. 다만 국가 위임 행정사무 처리 부분은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "재산 관리와 사무 처리",
+          "target_field": "original_text",
+          "target_quote": "行政事務를 處理하며 財産을 管理한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その財産を管理し、事務を処理し、及び行政を執行する権能を有し",
+          "commonality": "지방단체가 재산을 관리하고 사무를 처리한다는 권한 내용을 같은 문형으로 병렬 규정한다.",
+          "difference": "후보는 '행정을 집행하는 권능'까지 포함하고 사무를 한정하지 않는 반면, 대상은 자치사무와 국가 위임 행정사무로 사무를 구분·한정한다."
+        },
+        {
+          "element": "자치입법권의 근거와 한계",
+          "target_field": "original_text",
+          "target_quote": "地方自治團體는 法令의 範圍內에서 自治에 關한 規程을 制定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律の範囲内で条例を制定することができる",
+          "commonality": "상위 규범의 범위 내에서 지방단체가 자치입법을 제정할 수 있다는 수권 형식이 동일하다.",
+          "difference": "한계 기준이 대상은 '법령'(법률+명령)인 반면 후보는 '법률'이고, 제정 대상도 대상은 '자치에 관한 규정', 후보는 '조례'로 표현이 다르다."
+        },
+        {
+          "element": "수권의 규범적 한계 위치",
+          "target_field": "workbook_text_ko",
+          "target_quote": "지방자치단체는 법령의 범위내에서 그 자치에 관한 행정사무",
+          "candidate_field": "original_text",
+          "candidate_quote": "地方公共団体は、その財産を管理し",
+          "commonality": "주체를 문두에 두고 권한을 열거하는 조문 구조가 같다.",
+          "difference": "대상은 '법령의 범위내에서'라는 한계를 사무처리·재산관리 단계에도 앞세우나, 후보는 그 한계를 조례 제정에만 붙인다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_127",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률의 제한 범위 내'라는 한계 설정과 지방단체 자치권 보장이라는 점에서 유사하나, 자치권을 선언하는 데 그치고 재산 관리·위임사무·자치규정 제정 등 구체적 규율 요소가 없어 문형 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_072",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "지방기관의 임무를 14개 항목으로 상세 열거하는 방식으로, 자치권·자치입법권을 포괄적으로 수권하는 대상 조문과 규율 방식이 대조적이다. 재산 보호·조세 징수 등 항목도 대상의 '재산 관리'와 성격이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법원과 행정기관의 권한 획정 및 권한쟁의 재판에 관한 규정으로, 지방자치와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_104",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방자치사항의 범위와 그 법률유보를 정할 뿐, 자치단체의 사무 처리·재산 관리·자치규정 제정이라는 대상 조문의 권한 열거와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_088",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방공공단체에 대한 국가의 행정감독과 정부위원 임명을 규정한 것으로 감독 측면만 관련될 뿐, 대상 조문의 자치사무·위임사무 처리와 자치입법 수권에 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_061",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정재판소 관할과 사법재판소의 수리 제한에 관한 규정으로, 지방자치단체의 권한과 관련이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XVI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "독립 이행에 따른 재산권·채무 승계 조항으로, 지방자치단체가 언급되나 그 권한 규정이 아니어서 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법령을 집행하며 소관 행정사무를 처리'라는 표현이 겹치나, 주체가 자치단체가 아니라 도장·시장·군장·면장 등 개별 기관장이고 내용도 지방자치행정에 대한 감독이어서 대상 조문의 단체 권한 수권 구조와 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원의 법률발의권과 예산법률 선의권에 관한 규정으로 지방자치와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_IV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주 간 신뢰·범죄인 인도·신주 가입·연방 재산 처분 등 연방제 규정으로, 지방자치단체의 사무 처리 및 자치입법과 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'國家가 委任한 行政事務'(국가 위임사무)의 처리를 자치단체 권한으로 명시한 부분",
+    "자치사무와 위임사무를 구분하여 병렬 규정한 이원적 사무 구조"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했고 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 불가능하다.",
+    "오스트리아·프로이센·바이마르 후보는 독일어 원문과 제공 번역을 함께 읽고 판단했으며, 번역 차이에 따른 해석 여지가 남는다."
+  ],
+  "short_answer": "일본국헌법 제94조가 주체·재산 관리·사무 처리·'법률(법령)의 범위 내' 자치입법 제정이라는 요소에서 문형과 배열까지 가장 밀접하게 대응하여 선택하였다. 다만 대상 조문은 사무를 자치사무와 국가 위임 행정사무로 구분하고 한계 기준을 '법령'으로 넓힌 점, 자치입법을 '조례'가 아니라 '자치에 관한 규정'으로 표현한 점이 다르다. 바이마르 제127조·프로이센(1920) 제70조·오스트리아 제118조는 '법률의 한계 내 자치' 또는 재산 관련 요소가 부분적으로 겹치지만, 위임사무·자치규정 제정 등 구체적 규율 요소가 없어 일반적 유사에 그친다. 북한 초안 제72조는 임무 열거형 규율로 대조적이며, 프로이센(1850)·일본(1889)·필리핀·프랑스 상원조직법·미국 제4조는 주제 자체가 다르다. 국가 위임 행정사무 처리 요소는 제시된 후보로 설명되지 않았다."
+}

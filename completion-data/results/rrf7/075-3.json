@@ -1,0 +1,82 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_075",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 '행정각부의 조직 …은 법률로써 정함'으로 대상 조문과 주어·규율대상·문형이 거의 그대로 대응한다. 다만 대상은 '직무범위', 후보는 '권한'을 병렬항목으로 삼고, 후보는 각부장 임명절차 항을 함께 규정한다.",
+      "evidence": [
+        {
+          "element": "규율대상(행정각부의 조직)과 법률유보 문형",
+          "target_field": "original_text",
+          "target_quote": "行政各部의 組織과 職務範圍는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部의 組織 及 權限은 法律로써 定함",
+          "commonality": "'행정각부'를 주어로 하여 그 조직 등을 법률로 정하도록 하는 법률유보 규정이며 어순과 어휘가 거의 일치한다.",
+          "difference": "병렬 항목이 대상은 '職務範圍', 후보는 '權限'이고, 연결어가 '과' 대 '及', 종결이 '定한다' 대 '定함'이다."
+        },
+        {
+          "element": "조문 구성 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "행정각부의 조직과 직무범위는 법률로써 정한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國務總長의 推薦에 依하여 國務委員 中에서 行政 各部長을 任命함",
+          "commonality": "행정각부에 관한 규율을 담은 조문이라는 점이 공통된다.",
+          "difference": "후보는 각부장 임명 주체·절차(정부주석, 국무총장 추천, 국무위원 중)를 함께 규정하나 대상 조문에는 임명 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…之組織，以法律定之' 문형은 공통이나 대상 기관이 고시원으로 다르고 '직무범위' 요소가 없어 일반적 법률유보 상용문형의 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법원 조직에 관한 동일 문형이나 기관과 규율범위가 달라 상용문형 유사에 불과하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법원·각급법원 조직에 관한 규정으로 대상의 행정각부 조직·직무범위와 주체 및 범위가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법기관 조직의 법률유보로 문형만 유사하고 행정각부라는 대상 기관 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_106",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "감찰원 조직에 관한 동일 문형일 뿐 대상 기관과 '직무범위' 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "행정원(내각 전체) 조직의 법률유보로 행정부 관련성은 있으나, 대상의 '행정각부' 단위 및 '직무범위'와는 규율단위가 달라 상용문형 유사로 본다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'職務範圍'라는 표현 자체(후보 중에는 '權限'만 대응)"
+  ],
+  "limitations": [
+    "문언 대응만 확인한 것이며 실제 참조·기초 경위 등 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "중화민국헌법 후보들의 한국어 번역문은 비교 보조로만 참고했다."
+  ],
+  "short_answer": "조선임시약헌 제27조 제2항이 '행정각부의 조직 및 권한은 법률로써 정함'으로 대상 조문과 주어·규율대상·문형이 거의 일치하여 후속 비교에 유용하다. 차이는 병렬항목이 '직무범위' 대 '권한'이라는 점과, 후보가 각부장 임명 주체·절차를 함께 규정한다는 점이다. 중화민국 계열 후보들은 '…之組織，以法律定之'라는 동일 법률유보 문형을 공유하지만 대상 기관이 입법원·사법원·고시원·감찰원·행정원으로 각각 달라 상용문형 수준의 일반적 유사에 머문다. 특히 행정원 조항도 내각 전체 조직을 다루어 '행정각부' 단위 규율과는 층위가 다르다. 문언 대응 확인일 뿐 역사적 참조 여부는 확정하지 않는다."
+}

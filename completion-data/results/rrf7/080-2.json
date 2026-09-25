@@ -1,0 +1,140 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_080",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_078",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법관(재판관)의 파면 사유를 한정하는 소극적 문형이 일치하고, 대상 조문의 사유 중 '탄핵'이 후보에서 파면의 유일 사유로 규정되어 부분 대응한다. 다만 형벌·징계에 의한 파면, 정직·감봉 효과는 대응하지 않으므로 대응 범위는 '탄핵에 의한 파면' 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "사유 한정 문형(탄핵)",
+          "target_field": "original_text",
+          "target_quote": "彈劾, 刑罰 또는 懲戒處分에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "公の弾劾によらなければ罷免されない",
+          "commonality": "탄핵에 의하지 않으면 법관을 파면할 수 없다는 신분보장의 소극적 서술 구조가 공통된다.",
+          "difference": "후보는 파면 사유를 공적 탄핵(및 심신장해 재판) 한정으로 두고 형벌·징계를 파면 사유로 들지 않으며, 대상은 탄핵·형벌·징계처분 세 가지를 병렬한다."
+        },
+        {
+          "element": "효과(파면·정직·감봉)",
+          "target_field": "original_text",
+          "target_quote": "罷免, 停職 또는 減俸되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判官の懲戒処分は、行政機関がこれを行ふことはできない",
+          "commonality": "징계처분과 법관 신분 불이익을 헌법 차원에서 통제하려는 취지가 겹친다.",
+          "difference": "후보는 징계의 '주체'(행정기관 배제)를 규율하나, 대상은 징계처분을 오히려 감봉·정직의 허용 근거로 삼고 효과 목록(파면·정직·감봉)을 열거한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'法官'을 주어로 하여 형벌·징계처분을 면직(파면) 사유로 한정하고 정직·감봉을 별도로 보장하는 규율 요소가 대상 조문의 사유·효과 구성과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "사유(형벌·징계처분)",
+          "target_field": "original_text",
+          "target_quote": "刑罰 또는 懲戒處分에 依하지 아니하고는 罷免",
+          "candidate_field": "original_text",
+          "candidate_quote": "法官非受刑罰或懲戒處分，或禁治產之宣告，不得免職",
+          "commonality": "법관은 형벌 또는 징계처분에 의하지 않고는 면직(파면)되지 않는다는 요건이 일치한다.",
+          "difference": "후보는 금치산 선고를 추가 사유로 두고 탄핵을 들지 않으며, 용어도 '免職'이고 대상은 '罷免'이며 탄핵을 첫 사유로 둔다."
+        },
+        {
+          "element": "효과(정직·감봉)",
+          "target_field": "original_text",
+          "target_quote": "停職 또는 減俸되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "非依法律不得停職轉任或減俸",
+          "commonality": "정직과 감봉을 파면과 구분하여 별도로 보장 대상에 포함시킨 점이 공통된다.",
+          "difference": "후보는 정직·전임·감봉의 요건을 '법률에 의할 것'으로 두어 파면 요건과 분리하나, 대상은 전임을 빼고 탄핵·형벌·징계라는 동일 요건을 파면·정직·감봉에 일괄 적용한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_044",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'法官은 … 에 依하지 아니하면/아니하고는 … 할 수 없음'이라는 한국어 문형과 형벌·징계처분을 사유로 한 신분보장 구조가 대상과 직접 대응한다.",
+      "evidence": [
+        {
+          "element": "주체·사유·문형",
+          "target_field": "original_text",
+          "target_quote": "法官은 彈劾, 刑罰 또는 懲戒處分에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "法官은 刑의 宣告 또는 法律에 依한 懲戒處分에 依하지 아니하면",
+          "commonality": "법관을 주체로 하여 형사처벌과 징계처분을 신분 박탈의 한정 사유로 삼는 동일한 국문 소극형 문형이다.",
+          "difference": "후보는 사유에 탄핵이 없고 징계처분에 '법률에 의한'이라는 한정을 붙인다."
+        },
+        {
+          "element": "효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "파면, 정직 또는 감봉되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "意思에 反하여 免官할 수 없음",
+          "commonality": "보호 효과가 법관의 신분 상실 방지라는 점에서 공통된다.",
+          "difference": "후보는 '의사에 반한 면관'만 금지하여 정직·감봉을 포함하지 않고, 본인 의사라는 조건을 추가한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법관의 면직 사유 한정과 정직·감봉 보장을 두 문장으로 나눈 구성이 대상 조문의 사유·효과 요소와 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "사유(형사·징계처분)와 면직",
+          "target_field": "original_text",
+          "target_quote": "刑罰 또는 懲戒處分에 依하지 아니하고는 罷免",
+          "candidate_field": "original_text",
+          "candidate_quote": "非受刑事或懲戒處分，或禁治產之宣告，不得免職",
+          "commonality": "형사처벌 또는 징계처분을 받지 않는 한 법관을 면직(파면)할 수 없다는 요건 구조가 일치한다.",
+          "difference": "후보는 금치산 선고를 추가하고 탄핵을 사유로 열거하지 않으며, 법관을 終身職으로 선언하는 전제를 둔다."
+        },
+        {
+          "element": "효과(정직·감봉)",
+          "target_field": "original_text",
+          "target_quote": "停職 또는 減俸되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "非依法律，不得停職，轉任或減俸",
+          "commonality": "정직과 감봉을 헌법상 보장 대상 불이익으로 명시한 점이 공통된다.",
+          "difference": "후보는 이들 불이익의 요건을 '법률에 의할 것'으로 하여 면직 요건과 달리 규정하고 전임을 포함하나, 대상은 전임을 제외하고 파면과 동일한 세 사유를 요구한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_052",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총통의 형사소추 제한 규정으로 주체(총통)와 규율 대상(형사소추 면제)이 달라 법관 신분보장과 대응하지 않는다. '罷免' 어휘가 겹칠 뿐이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…에 의하지 아니하고는 …되지 아니한다'는 소극적 보장 문형만 유사할 뿐, 주체(누구든지)와 보호법익(생명·자유, 형벌)이 달라 법관 신분보장의 구체적 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_102",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "감찰위원의 체포·구금 제한 규정으로 주체·효과가 모두 달라 대상 조문의 요소를 설명하지 못한다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'彈劾'과 '刑罰'·'懲戒處分'을 동일 문장 안에 세 사유로 병렬한 구성(일본 78조는 탄핵만, 중화민국·약헌 조항은 형벌·징계만 규정)",
+    "파면·정직·감봉 세 효과 모두에 동일한 세 사유를 일괄 적용하는 방식(후보들은 면직과 정직·감봉의 요건을 분리)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 경위 등 역사적 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "일본국헌법 후보는 원문(일본어) 기준으로 비교했으며 세부 어감 판단에 번역 의존이 일부 있을 수 있다."
+  ],
+  "short_answer": "대상 조문은 법관 신분보장을 사유(탄핵·형벌·징계처분)와 효과(파면·정직·감봉)의 두 축으로 규정한다. 사유 중 형벌·징계처분과 효과 중 면직·정직·감봉 부분은 중화민국 五五憲草 81조 및 중화민국헌법 81조와 구체적으로 대응하고, 국문 문형과 형벌·징계 사유는 조선임시약헌 44조와 대응한다. 사유 중 '탄핵'은 일본국헌법 78조가 파면의 한정 사유로 규정한 부분과만 대응하되, 후보는 심신장해 재판 예외와 행정기관 징계 금지를 별도로 두는 점이 다르다. 중화민국 계열은 금치산 선고·전임을 포함하고 정직·감봉을 '법률에 의할 것'으로 분리하는 반면 대상은 세 사유를 세 효과에 일괄 적용한다. 다만 이는 문언상 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

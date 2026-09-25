@@ -1,0 +1,229 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_042",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "조약을 유형별로 열거하여 의회 관여를 요구하는 문형이 대응한다. 특히 평화(강화)조약·통상조약·국가재정을 구속하는 조약의 3항목이 대상 조문의 열거와 겹친다. 다만 대상은 국회의 '동의권' 형식인 반면 후보는 양원 의결 전에는 조약이 확정되지 않는다는 효력요건 형식이다.",
+      "evidence": [
+        {
+          "element": "동의 대상 조약의 열거(강화·통상·재정부담)",
+          "target_field": "original_text",
+          "target_quote": "講和條約, 通商條約, 國家 또는 國民에게 財政的 負擔을 지우는 條約",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les traités de paix, de commerce, les traités qui engagent les finances de l'Etat",
+          "commonality": "강화조약·통상조약·국가재정에 부담을 지우는 조약을 병렬 열거하는 방식이 일치한다.",
+          "difference": "후보는 재정 구속 대상을 '국가재정'으로만 한정하나 대상 조문은 '국가 또는 국민'을 함께 들고, 후보에 있는 인적 신분·재외 프랑스인 소유권 조약 항목은 대상에 없다."
+        },
+        {
+          "element": "의회 관여의 법적 형식",
+          "target_field": "original_text",
+          "target_quote": "批准과 宣戰布告에 對하여 同意權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "ne sont définitifs qu'après avoir été votés par les deux chambres",
+          "commonality": "일정 유형의 조약에 대해 입법부의 의사 없이는 효력이 완성되지 않는다는 점에서 통제 취지가 같다.",
+          "difference": "대상은 국회에 '동의권'이라는 권한을 부여하는 구성이고 선전포고까지 포함하나, 후보는 양원 '표결'을 확정 요건으로 정하고 선전포고는 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정의 발의·비준 절차 규정으로, 조약 비준 동의나 선전포고와 규율 대상이 다르다. 'ratified'라는 용어만 겹칠 뿐 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_012",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "입법기관의 권한 목록 안에서 '조약'과 '선전'에 대한 '동의'를 한 항목으로 묶은 점이 대상 조문의 결합 방식과 대응한다. 다만 조약 유형의 열거가 없고 '체결'에 대한 동의라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "조약과 선전에 대한 동의권의 결합",
+          "target_field": "original_text",
+          "target_quote": "條約의 批准과 宣戰布告에 對하여 同意權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "五 條約締結 及 宣戰媾和에 對한 同意",
+          "commonality": "조약 관련 사항과 선전(전쟁 개시) 사항을 함께 묶어 입법부의 '동의' 대상으로 규정한 구성이 같다.",
+          "difference": "후보는 조약 '체결'에 대한 동의이고 강화(媾和)까지 동의 대상에 포함하며 조약 유형을 열거하지 않는다. 대상은 조약 '비준'에 대한 동의이고 여섯 유형을 한정 열거하며 강화는 조약 유형(강화조약)으로만 다룬다."
+        },
+        {
+          "element": "규정 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회는 국제조직에 관한 조약",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院은 國權의 最高機關이며 唯一한 立法機關으로서 左의 權限을 行함",
+          "commonality": "입법부를 주어로 하여 그 권한을 열거하는 조문 구성이다.",
+          "difference": "후보는 예산·결산·탄핵 등 일반 권한 목록의 한 호로 규정하나, 대상은 조약 비준 동의와 선전포고만을 별도 조문으로 독립시켰다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약 체결에 국회 승인을 요구한다는 점은 같으나, 조약 유형의 열거·선전포고·동의권 형식 등 대상 조문의 구체적 규율 요소와의 대응이 없고 예산 준용 절차만 정한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_064",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법기관 권한 목록에 선전안·강화안·조약안을 함께 둔 점은 유사하나, 조약 유형의 열거가 없고 '동의'가 아니라 안건 '의결' 권한으로 구성되어 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_048",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "통상조약과 '국가에 부담 또는 개별 국민에게 의무를 지우는 조약'을 의회 동의 대상으로 특정한 부분이 대상 조문의 '통상조약, 국가 또는 국민에게 재정적 부담을 지우는 조약'과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "국가 또는 국민에게 부담을 지우는 조약 유형",
+          "target_field": "original_text",
+          "target_quote": "通商條約, 國家 또는 國民에게 財政的 負擔을 지우는 條約",
+          "candidate_field": "original_text",
+          "candidate_quote": "sofern es Handelsverträge sind, oder wenn dadurch dem Staate Lasten oder einzelnen Staatsbürgern Verpflichtungen auferlegt werden",
+          "commonality": "통상조약과, 국가 및 개개 국민에게 부담·의무를 지우는 조약을 의회 동의가 필요한 유형으로 특정한다.",
+          "difference": "후보는 국민에 대한 부담을 '의무(Verpflichtungen)' 일반으로 넓게 규정하는 반면 대상은 '재정적 부담'으로 한정하고, 후보는 동의를 조약의 효력요건(Gültigkeit)으로 삼는다."
+        },
+        {
+          "element": "선전포고와의 관계",
+          "target_field": "original_text",
+          "target_quote": "宣戰布告에 對하여 同意權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der König hat das Recht, Krieg zu erklären und Frieden zu schließen",
+          "commonality": "선전(전쟁선포)과 조약 문제를 한 조문에서 함께 다룬다.",
+          "difference": "후보에서 선전·강화는 국왕의 전속 권한으로 의회 동의 대상이 아니지만, 대상 조문은 선전포고를 국회 동의 대상으로 삼는다(주체·통제 방향의 반대)."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국제조직에 관한 조약·강화조약·통상조약·국가재정을 구속하는 조약·국내법을 수정하는 조약이라는 열거가 대상 조문의 조약 유형 목록과 항목 단위로 대응한다. 다만 대상은 국회 동의권 규정이고 후보는 법률에 의한 비준을 확정 요건으로 정한다.",
+      "evidence": [
+        {
+          "element": "조약 유형의 열거 목록",
+          "target_field": "original_text",
+          "target_quote": "國際組織에 關한 條約, 相互援助에 關한 條約, 講和條約, 通商條約, 國家 또는 國民에게 財政的 負擔을 지우는 條約",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les traités relatifs à l'organisation internationale, les traités de paix, de commerce, les traités qui engagent les finances de l'Etat",
+          "commonality": "국제조직 관련 조약을 첫머리에 두고 강화·통상·국가재정 구속 조약을 이어 열거하는 순서와 항목이 대응한다.",
+          "difference": "대상에는 '상호원조에 관한 조약'이 추가되고 재정부담 주체에 '국민'이 포함되는 반면, 후보에는 사람의 신분·재외 프랑스인 소유권·영토 할양 조약이 포함된다."
+        },
+        {
+          "element": "입법사항에 관한 조약",
+          "target_field": "original_text",
+          "target_quote": "立法事項에 關한 條約의 批准",
+          "candidate_field": "original_text",
+          "candidate_quote": "ceux qui modifient les lois internes françaises",
+          "commonality": "국내 법률과 관련되는(법률을 수정하는) 조약을 의회 관여 대상으로 별도 항목화한다.",
+          "difference": "후보는 '국내법을 수정하는' 조약으로 좁게 표현하고 그 효과는 법률에 의한 비준 요구인 반면, 대상은 '입법사항에 관한' 조약의 비준에 대한 국회 동의권으로 규정한다."
+        },
+        {
+          "element": "의회 관여의 효과·형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "비준과 선전포고에 대하여 동의권을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "ne sont définitifs qu'après avoir été ratifiés en vertu d'une loi",
+          "commonality": "열거된 조약은 입법부의 의사가 개입되어야 비로소 효력이 완성된다는 통제 구조를 공유한다.",
+          "difference": "후보는 '법률에 의거한 비준'이라는 절차이고 선전포고를 규정하지 않는 반면, 대상은 국회의 동의권으로 구성하고 선전포고를 포함한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_055",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무대신의 보필과 부서에 관한 규정으로 조약 비준 동의·선전포고와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'제국입법의 대상과 관계있는 조약'에 의회 동의를 요구하는 부분이 대상의 '입법사항에 관한 조약' 항목과 구체적으로 대응하고, 선전·강화를 같은 조문에서 다룬다. 다만 선전에 대한 통제 방식이 법률 형식이라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "입법사항에 관한 조약의 동의",
+          "target_field": "original_text",
+          "target_quote": "立法事項에 關한 條約",
+          "candidate_field": "original_text",
+          "candidate_quote": "Verträge mit fremden Staaten, die sich auf Gegenstände der Reichsgesetzgebung beziehen, bedürfen der Zustimmung des Reichstags",
+          "commonality": "입법의 대상(입법사항)에 관계되는 조약을 의회 동의가 필요한 조약으로 특정하는 규율이 같다.",
+          "difference": "후보는 이 유형과 동맹만을 규정하고 조약 유형의 열거 목록이 없으며, 동의의 대상이 '비준'이 아니라 조약 일반이다."
+        },
+        {
+          "element": "선전포고에 대한 통제",
+          "target_field": "original_text",
+          "target_quote": "宣戰布告에 對하여 同意權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Kriegserklärung und Friedensschluß erfolgen durch Reichsgesetz",
+          "commonality": "전쟁 개시에 입법부의 의사가 필요하도록 한 점이 같다.",
+          "difference": "후보는 선전·강화를 제국법률이라는 형식으로 행하도록 하는 반면, 대상은 대통령의 선전포고에 대한 국회의 동의권으로 구성한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_049",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약 비준이 등장하나 주체가 최고인민회의 상임위원회이고 비준 자체를 그 임무로 정하므로, 입법부가 비준에 '동의'하는 대상 조문의 구조 및 조약 유형 열거와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법원의 의결 권한 목록에 선전안·강화안·조약안을 포함하나, 조약 유형의 열거나 비준에 대한 동의권 형식이 없어 일반적 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_050",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률을 변경하는 내용의 국가조약에 국민의회 승인을 요구하는 점에서 '입법사항에 관한 조약'과 취지가 통하나, 조약 유형 열거가 없고 정치적 조약 전체를 별도 기준으로 삼으며 선전포고 규정이 없어 구체적 대응 범위가 좁다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_029",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'입법사항에 관한 조약'이라는 기준 하나에 한정해 문언 대응이 뚜렷하다. 다만 조약 유형 열거, 비준 동의, 선전포고 부분은 대응하지 않으므로 비교 범위를 이 요소로 한정한다.",
+      "evidence": [
+        {
+          "element": "입법사항에 관한 조약의 의회 관여",
+          "target_field": "original_text",
+          "target_quote": "立法事項에 關한 條約의 批准",
+          "candidate_field": "original_text",
+          "candidate_quote": "Staatsverträge bedürfen seiner Genehmigung, wenn sie sich auf Gegenstände der Gesetzgebung beziehen",
+          "commonality": "조약이 입법사항(입법의 대상)에 관한 것일 때 의회의 동의·승인을 요구하는 기준이 같다.",
+          "difference": "후보는 이 한 가지 기준만 두고 승인을 조약 일반에 요구하며, 대상은 이를 여섯 유형 중 하나로 열거하고 '비준'에 대한 동의권으로 구성한다. 또한 후보는 주(州)의회 권한 규정이고 선전포고를 포함하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XIV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안·비준 절차 규정으로 조약 동의권과 규율 대상이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'상호원조에 관한 조약'이라는 조약 유형(바이마르 제45조의 'Bündnisse'가 동맹 조약을 언급하나 상호원조 조약이라는 명칭·범주로는 후보에 나타나지 않음)",
+    "조약의 '비준'이라는 단계를 특정하여 국회가 동의권을 가진다는 권한부여 형식(후보들은 대체로 효력요건·승인·의결 형식)",
+    "대통령 등 조약 체결 주체에 관한 규정이 대상 조문에는 없다는 점(후보들은 대체로 원수의 체결권과 함께 규정)"
+  ],
+  "limitations": [
+    "문언상 대응만을 검토한 것이며 실제 참조·영향 관계의 확정은 제공 본문만으로는 불가능하다.",
+    "프랑스·프로이센·바이마르 후보의 세부 의미는 원문 문언 범위에서만 판단했고, 번역문에 의존한 추론은 배제했다.",
+    "후보 목록에 없는 다른 조문의 영향 가능성은 판단할 수 없다."
+  ],
+  "short_answer": "프랑스 제4공화국헌법 제27조가 국제조직 관련 조약·강화·통상·국가재정 구속 조약·국내법 수정 조약을 순서대로 열거하여 대상 조문의 조약 유형 목록과 가장 폭넓게 대응하고, 프랑스 1875년 제8조는 그 원형에 해당하는 강화·통상·재정 조약 열거를 보여준다. 프로이센 1850년 제48조는 '통상조약'과 '국가 또는 국민에게 부담을 지우는 조약'이라는 항목에서, 프로이센 1920년 제29조와 바이마르 제45조는 '입법사항에 관한 조약'이라는 기준에서 각각 구체적 대응을 보인다. 조선임시약헌 제12조 제5호는 조약과 선전에 대한 입법부의 '동의'를 하나로 묶은 구성이 대상의 결합 방식과 일치한다. 다만 대상은 국회의 '비준 동의권'이라는 권한부여 형식이고 선전포고를 동의 대상에 포함하는 반면, 프랑스·프로이센계 후보들은 조약의 효력요건 또는 원수 권한 형식이며 선전 통제 방식이 다르다. '상호원조에 관한 조약'은 제시된 후보 문언에서 대응 항목을 확인하지 못했다."
+}

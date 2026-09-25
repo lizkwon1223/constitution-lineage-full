@@ -1,0 +1,99 @@
+{
+  "article": 35,
+  "reviewed_at": "2026-09-22T15:36:13.051539+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "88639f142d7deeaf4eba8482b9e815dd9477942ff96a33649f755fda01bd8e1e",
+  "input_sha256": "29a0a85d685096909f2f96a5e2be96c50a8a954bddc4e8d6aedb91bc3691b58e",
+  "responses": [
+    {
+      "job_id": "035_5482d47b1c1c_r1",
+      "repeat": 1,
+      "sha256": "a09dd7f6010bb4c6f664229990fab1e3089edd970f6331f92fc32d24a3ef2a3e",
+      "assessment": "약헌·오스트리아의 4분의 1 요구와 의장 소집, 중화민국의 국가원수·의원 요구, 일본의 임시긴급 요건, 프랑스의 대통령 관련 당연집회라는 주요 대응은 타당함. 프랑스 1946년·프로이센 자유주의 요구에 따른 의장 측 소집도 비율 차이를 명시한 보충 대응으로 읽을 수 있음. 일부 정족수 설명은 분모와 비율을 혼용함."
+    },
+    {
+      "job_id": "035_5482d47b1c1c_r2",
+      "repeat": 2,
+      "sha256": "af7a15c25c69ddb21c4c5b7828cb0fae348d598041a91583442d810570e61063",
+      "assessment": "핵심 다섯 후보의 대응 및 소집·공고 차이를 대체로 정확히 구분함. 폐회중이라는 표현 자체는 프랑스 1946년 후보에 있으므로 완전히 미설명인 요소와 대통령 선거에 따른 당연집회라는 미대응 결합을 구별해야 함."
+    },
+    {
+      "job_id": "035_5482d47b1c1c_r3",
+      "repeat": 3,
+      "sha256": "c746579102307b6b159a843fd70512d74f418fcb6add7f35103401b72dc40b40",
+      "assessment": "주요 비교는 유지할 수 있으나 지체없이라는 표현을 미설명으로 둔 것은 프랑스의 immédiatement 및 오스트리아의 sofort와 어긋남. 국가원수 요청이라는 요약을 오스트리아 연방정부 요구에도 적용한 부분과 정족수 비율을 분모라 부른 부분을 보정해야 함."
+    }
+  ],
+  "synthesis": "제1항의 임시긴급 필요 문구는 일본 1889년 제43조와 직접 대응함. 약헌 제15조는 재적의원 4분의 1 이상 또는 행정수반 요청에 따라 의장이 임시회를 여는 조합에서 가장 밀접하며 소집과 집회 공고라는 표현이 다름. 오스트리아 제28조는 휴회 후 의원 4분의 1 이상 또는 연방정부 요구에 따른 의장의 즉시 재소집을, 중화민국 제69조는 총통 또는 의원 4분의 1 요구에 따른 임시회 개회를 규정함. 프랑스 1946년 제12조와 프로이센 자유주 제38조도 요구 주체와 의장 측 소집의 부분 대응이 있으나 비율·기관이 다름. 제2항은 프랑스 1875년 7월 법률 제3조의 대통령 사망·사직 시 즉시·당연 집회 및 대통령 선거를 위한 집회와 대응함. 제헌헌법의 부통령 선거 사유, 폐회 중이라는 조건과 당연집회의 결합, 의장의 공고 형식은 별도로 구분되는 요소임.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_003",
+      "type": "unexplained_classification",
+      "severity": "material",
+      "finding": "지체없이를 미설명 요소로 두지만 후보의 immédiatement를 자체 증거에서 즉시로 대응시킴.",
+      "action": "시간 요소는 직접 대응으로 정정함. 오스트리아의 sofort도 별도 재소집 절차에서 같은 시간적 표현임을 구별해 표시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "프랑스 1946년 제12조·프로이센 자유주 제38조의 의원 비율 또는 행정부 요구에 따른 의장 측 소집을 비율·기관 차이 때문에 일반 유사성에 한정함.",
+      "action": "소집 구조의 보충 대응으로 제시하고 요구 비율 및 행사 기관의 차이를 유지함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "denominator_terminology",
+      "severity": "minor",
+      "finding": "3분의 1·5분의 1·5분의 2 등 요구 비율을 정족수 분모라고 표현함.",
+      "action": "요구 비율과 그 계산 기준인 재적의원·대표·구성원 집합을 구별함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_012",
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "폐회중이라는 조건을 미설명 요소로 제시하지만 프랑스 후보에도 의회가 회의 중이 아닐 때라는 조건이 있음.",
+      "action": "조건 자체의 대응과 대통령·부통령 선거에 따른 당연집회라는 결합의 차이를 나눔."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "AT1920_ORIGINAL_ART_028",
+      "type": "summary_overgeneralization",
+      "severity": "minor",
+      "finding": "요약에서 국가원수의 요청이라는 구조에 오스트리아를 함께 넣지만 원문 요구 주체는 연방정부임.",
+      "action": "공통 범주는 행정부 측 요구로 표현하고 국가원수·정부주석·연방정부를 구별함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "ROC1946_PROM1947_ART_069",
+      "type": "evidence_span",
+      "severity": "minor",
+      "finding": "행정수반 요청의 증거 인용이 사유가 있으면 임시회를 열 수 있다는 서두에 그치고 실제 總統之咨請를 포함하지 않음.",
+      "action": "근거 인용을 실제 총통 요청 항목으로 연결함."
+    }
+  ],
+  "limits": [
+    "재적의원이라는 명시 여부와 의원 전체를 가리키는 구성원 표현의 기능을 구분하되 근거 없이 서로 다른 계산 분모라고 단정하지 않음.",
+    "부통령이 해당 후보에 언급되지 않은 사실과 그 헌법 전체에 직위가 존재하지 않는다는 판단을 구별함."
+  ]
+}

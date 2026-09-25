@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_060",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "60",
+    "original_text": "大統領은 重要한 國務에 關하여 國會에 出席하여 發言하거나 또는 書翰으로 意見을 表示한다.",
+    "workbook_text_ko": "대통령은 중요한 국무에 관하여 국회에 출석하여 발언하거나 또는 서한으로 의견을 표시한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_037",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "37",
+      "original_text": "Le président de la République communique avec le Parlement par des messages adressés à l'Assemblée nationale.",
+      "workbook_text_ko": "공화국대통령은 국민의회에 보낸 친서로 국회와 연락을 취한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_072",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "72",
+      "original_text": "内閣総理大臣は、内閣を代表して議案を国会に提出し、一般国務及び外交関係について国会に報告し、並びに行政各部を指揮監督する。",
+      "workbook_text_ko": "내각총리대신은 내각을 대표하여 의안을 국회에 제출하고, 일반국무 및 외교관계에 대하여 국회에 보고하며, 행정 각부를 지휘･감독한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_032",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "32",
+      "original_text": "Le président de la République préside le Conseil des ministres. Il fait établir et conserve les procès-verbaux des séances.",
+      "workbook_text_ko": "공화국대통령은 국무회의를 주재한다. 대통령은 국무회의의 기록을\n작성케 하고 이를 보관한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_071",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "71",
+      "original_text": "立法院開會時，關係院院長及各部會首長得列席陳述意見。",
+      "workbook_text_ko": "立法院 開會時에 關係各院의 院長과 各部 및 會의 長은 立法院에 出席하여 意見을 陳述할 수 있다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_006",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "6",
+      "original_text": "Le Président de la République communique avec les chambres par des messages qui sont lus à la tribune par un ministre. - Les ministres ont leur entrée dans les deux chambres et doivent être entendus quand ils le demandent. Ils peuvent se faire assister par des commissaires désignés, pour la discussion d'un projet de loi déterminé, par décret du Président de la République.",
+      "workbook_text_ko": "공화국대통령은 교서로 양원과 연락한다. 교서는 장관이 연단(tribune)\n에서 낭독한다.\n장관은 양원에 출입할 수 있으며, 장관이 요구할 때에는 그 의견을 청취하여야 한\n다. 장관은 일정한 정부제출법안의 심의에 대해서 공화국대통령의 명령(décret)으로 임명한 위원이 보좌할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_029",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "29",
+      "original_text": "Le président de la République est élu par le Parlement.\nIl est élu pour sept ans. Il n'est rééligible qu'une fois.",
+      "workbook_text_ko": "공화국대통령은 국회가 선출한다.\n공화국대통령의 임기는 7년으로 한다. 공화국대통령은 1회에 한하여 재선\n될 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_063",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "63",
+      "original_text": "内閣総理大臣その他の国務大臣は、両議院の一に議席を有すると有しないとにかかはらず、何時でも議案について発言するため議院に出席することができる。又、答弁又は説明のため出席を求められたときは、出席しなければならない。",
+      "workbook_text_ko": "내각총리대신 그 밖의 국무대신은 양원 내 의석보유 여부에 관계없이 언제든지 의안에 대하여 발언하기 위하여 각 원(院)에 출석할 수 있다. 또한 답변 또는 설명을 위하여 출석을 요구받은 때에는 출석하여야 한다."
+    }
+  ]
+}

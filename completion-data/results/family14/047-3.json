@@ -1,0 +1,239 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_047",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_087",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법관의 종신임명과 판결에 의한 파면·정직·전보를 규율하는 사법부 신분보장 조항으로, 탄핵재판소의 설치·구성·의결정족수·판결 효과라는 대상 조문의 규율 요소와 대응이 없다. '파면'이라는 용어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_147",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "소장·부소장과 정해진 인원의 재판관으로 특별재판소를 구성하고 세부는 법률로 정한다는 점에서 구성 방식의 일반적 유사성은 있으나, 재판관은 연방대통령이 임명하고 의회 구성원은 오히려 겸직이 금지되어 '국회의원 5인이 심판관' 구조와 반대이며, 정족수·판결 효과·대통령 심판 특례에 대응 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령·장관에 대한 소추와 심판기관을 나누고 절차를 법률로 정한다는 점에서 탄핵제도 일반의 유사성은 있으나, 심판기관이 기존 상원이어서 별도 탄핵재판소 설치·혼합 구성·3분의 2 정족수·파면 한정 효과 등 대상 조문의 구체적 요소와는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_012",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원과 법관을 인원수까지 명시하여 혼합 구성하는 특별재판소를 두고 자세한 사항을 법률로 정한다는 점에서, 대상 조문 제1·2항의 '법률로써 설치'와 '대법관 5인·국회의원 5인' 혼합 구성 방식과 구체적 문형 대응이 있다. 다만 대응 범위는 설치 형식과 구성 방식에 한정된다.",
+      "evidence": [
+        {
+          "element": "심판기관의 혼합 구성(법관+의원)과 인원 명시",
+          "target_field": "original_text",
+          "target_quote": "大法官 5人과 國會議員 5人이 審判官이 된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Wahlprüfungsgericht erkennt auf Grund öffentlicher mündlicher Verhandlungen durch drei Mitglieder des Landtags und zwei richterliche Mitglieder.",
+          "commonality": "의회 구성원과 법관을 각각 정해진 인원으로 혼합 편성하여 심판부를 구성한다는 규율 방식이 같다.",
+          "difference": "후보는 선거 유효성 심사기관이며 의원 3명·법관 2명(불균등)이고 법관은 최고행정재판소 구성원이다. 대상은 탄핵사건 심판기관으로 대법관 5인·국회의원 5인의 대등 구성이며 재판장 직무자를 별도로 정한다."
+        },
+        {
+          "element": "법률에 의한 설치·규율",
+          "target_field": "original_text",
+          "target_quote": "法律로써 彈劾裁判所를 設置한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Nähere wird durch Gesetz geregelt.",
+          "commonality": "특별재판소에 관한 구체적 사항을 법률에 위임한다는 점이 공통된다.",
+          "difference": "후보는 재판소를 헌법이 직접 설치하고 '자세한 사항'만 법률에 위임하는 구조이고, 대상은 재판소의 설치 자체를 법률로 하도록 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_055",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정원장의 지명·동의 임명과 궐위 시 직무대리를 규율하는 조항으로 탄핵심판과 무관하다. '부원장의 직무대리'가 대상의 '부통령이 재판장의 직무를 행한다'와 표현상 유사해 보이나 규율 대상과 효과가 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_092",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "탄핵절차에서 '但'을 사용하여 총통·부총통 등 최고직위에 대해서만 별도의 가중 요건을 두는 문형이, 대상 제2항 단서의 대통령·부통령 심판 특례와 구조적으로 대응한다. 대응 범위는 최고직위에 대한 특례 설정 방식과 분수 요건의 사용에 한정된다.",
+      "evidence": [
+        {
+          "element": "대통령·부통령에 대한 특례(단서) 설정",
+          "target_field": "original_text",
+          "target_quote": "但, 大統領과 副統領을 審判할 때에는 大法院長이 裁判長의 職務를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "但對於總統副總統及行政立法司法考試監察各院院長副院長之彈劾案，須有監察委員十人以上之提議",
+          "commonality": "국가원수·부원수를 대상으로 하는 탄핵에 대하여는 일반 사건과 달리 단서로 특별한 요건을 규정한다.",
+          "difference": "후보의 특례는 탄핵안 제출 단계의 제의·심사 인원 가중이고 대상은 심판 단계에서 재판장을 대법원장으로 교체하는 것이다. 특례 대상 직위 범위도 후보가 훨씬 넓다."
+        },
+        {
+          "element": "분수 형식의 의결 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "탄핵판결은 심판관 3분지 2이상의 찬성이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "全體監察委員二分一以上之審查決定",
+          "commonality": "탄핵 관련 결정을 구성원 총수에 대한 분수 요건으로 정한다.",
+          "difference": "분모와 단계가 다르다. 후보는 전체 감찰위원 2분의 1 이상의 '심사·결정'으로 탄핵안을 제출하는 요건이고, 대상은 심판관 3분의 2 이상의 찬성으로 '탄핵판결'을 하는 요건이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "탄핵에 3분의 2 이상의 찬성을 요구하고 그 대상에 정부의 주석·부주석 등 최고직위를 포함시킨다는 점에서 대상 제2·3항의 요소와 구체적으로 대응한다. 다만 후보는 의회 의결 정족수이고 대상은 재판소 심판관의 판결 정족수라는 점에서 대응 범위가 한정된다.",
+      "evidence": [
+        {
+          "element": "탄핵의 3분의 2 찬성 요건",
+          "target_field": "original_text",
+          "target_quote": "彈劾判決은 審判官 3分之 2以上의 贊成이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "彈劾이나 議員의 除名은 在籍議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成이 있어야 함",
+          "commonality": "탄핵의 성립에 3분의 2 이상의 찬성이라는 가중 정족수를 요구하는 표현이 같다.",
+          "difference": "분모가 다르다. 후보는 재적의원 3분의 2 출석과 출석의원 3분의 2 찬성이라는 의회 의결 정족수이고, 대상은 별도 탄핵재판소 심판관 총수의 3분의 2 찬성으로 하는 판결 정족수이다. 후보에는 재판소 설치·판결 효과 규정이 없다."
+        },
+        {
+          "element": "탄핵 대상에 원수·부원수 포함",
+          "target_field": "workbook_text_ko",
+          "target_quote": "단, 대통령과 부통령을 심판할 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席 副主席 國務總長 及 國務委員에 對한 彈劾",
+          "commonality": "최고집행권자와 그 차석까지 탄핵의 대상으로 명시한다.",
+          "difference": "후보는 탄핵 대상 직위를 열거할 뿐이고, 대상 조문은 그 심판 시 재판장이 교체된다는 절차 특례를 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_041",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 장애·공석 시 직무대행과 후임 선출을 규율하는 조항으로, 탄핵재판소의 설치·구성·정족수·판결 효과와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_059",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령·수상·장관에 대한 탄핵을 일반법원이 아닌 별도의 국가법원에서 다루게 하고 세부를 법률에 위임한다는 점이 대상 제1항의 구조와 대응한다. 다만 가중 다수는 소추 단계 요건이고 판결 효과 규정이 없어 대응 범위는 심판기관 분리와 법률 위임에 한정된다.",
+      "evidence": [
+        {
+          "element": "탄핵 전담 심판기관과 법률 위임",
+          "target_field": "original_text",
+          "target_quote": "彈劾事件을 審判하기 爲하여 法律로써 彈劾裁判所를 設置한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "vor dem Staatsgerichtshof für das Deutsche Reich anzuklagen",
+          "commonality": "탄핵사건을 일반 재판기관이 아닌 별도의 국가적 재판기관에 맡기는 구조가 공통된다.",
+          "difference": "후보의 국가법원은 헌법상 이미 존재하는 기관으로 탄핵 외 사항도 다루고 조문 초점은 의회의 소추권에 있다. 대상은 탄핵사건 심판을 위한 탄핵재판소의 설치를 법률에 맡기고 그 구성까지 헌법이 정한다."
+        },
+        {
+          "element": "세부 사항의 법률 위임",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률로써 탄핵재판소를 설치한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Nähere regelt das Reichsgesetz über den Staatsgerichtshof.",
+          "commonality": "탄핵심판기관에 관한 사항을 법률로 정하도록 하는 위임 문형이 있다.",
+          "difference": "후보는 소추 절차 등 '세부 사항'의 위임이고, 대상은 재판소의 설치 근거 자체를 법률로 삼는다. 후보의 가중 다수(의원 100명 서명·헌법개정 다수)는 소추 요건이고 대상의 3분의 2는 판결 요건이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_059",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "재판의 대심·판결 공개와 그 정지를 규율하는 조항으로, 탄핵재판소 설치·구성·정족수·효과와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령 심판 시 대법원장이 주재한다는 특례, 가중 다수의 유죄 요건, 판결 효과를 파면에 한정하면서 별도의 법적 책임은 면제되지 않는다는 단서까지 대상 제2~4항의 여러 요소와 문형 수준에서 대응한다.",
+      "evidence": [
+        {
+          "element": "대통령 심판 시 재판장 교체 특례",
+          "target_field": "original_text",
+          "target_quote": "但, 大統領과 副統領을 審判할 때에는 大法院長이 裁判長의 職務를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside.",
+          "commonality": "대통령을 심판할 때에는 대법원장이 재판을 주재하도록 하는 특례가 동일하다.",
+          "difference": "후보는 대통령만을 대상으로 하고 통상 주재자는 국민의회(입법부) 자체이며, 대상은 부통령 심판까지 포함하고 통상 재판장은 부통령이다."
+        },
+        {
+          "element": "탄핵판결 효과의 한정과 별도 책임 유지",
+          "target_field": "original_text",
+          "target_quote": "彈劾判決은 公職으로부터 罷免함에 그친다. 但, 이에 依하여 民事上이나 刑事上의 責任이 免除되는 것은 아니다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+          "commonality": "탄핵판결의 효과를 공직 파면으로 한정하고, 단서로써 그와 별도의 법적 책임이 그대로 남는다고 규정하는 구조가 같다.",
+          "difference": "후보는 파면 외에 공직 취임 자격박탈까지 포함하고 잔존 책임을 '법률에 따른 기소·재판·처벌'로 표현한다. 대상은 자격박탈을 두지 않고 잔존 책임을 '민사상이나 형사상의 책임'으로 명시한다."
+        },
+        {
+          "element": "가중 다수의 의결 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "탄핵판결은 심판관 3분지 2이상의 찬성이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "No person shall be convicted without the concurrence of three-fourths of all the Members who do not belong to the Commission on Impeachment.",
+          "commonality": "탄핵의 유죄·파면 결정에 가중된 분수 다수를 요구한다.",
+          "difference": "분모와 비율이 다르다. 후보는 탄핵위원회에 속하지 않는 전체 의원의 4분의 3(소추는 위원 3분의 2)이고, 대상은 탄핵재판소 심판관 3분의 2이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'탄핵재판소를 설치한다'는 기관 창설 문형과 탄핵에 관한 사항의 법률 위임이 대상 제1항과 거의 직접 대응한다. 다만 구성 주체(양원 의원만)와 심판 대상(파면 소추된 재판관)이 달라 대응 범위는 제1항의 설치·법률 위임 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "탄핵재판소 설치와 법률 위임",
+          "target_field": "original_text",
+          "target_quote": "彈劾事件을 審判하기 爲하여 法律로써 彈劾裁判所를 設置한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判するため、両議院の議員で組織する弾劾裁判所を設ける",
+          "commonality": "'…을 재판(심판)하기 위하여 탄핵재판소를 설치한다'는 목적+기관창설 문형과 '탄핵재판소'라는 기관 명칭이 일치한다.",
+          "difference": "후보의 탄핵재판소는 국회가 설치하고 양원 의원만으로 조직되며 심판 대상은 파면 소추된 재판관이다. 대상은 법률로써 설치하고 대법관 5인·국회의원 5인의 혼합 구성이며 심판 대상은 탄핵사건 일반이다."
+        },
+        {
+          "element": "세부 사항의 법률 유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률로써 탄핵재판소를 설치한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "弾劾に関する事項は、法律でこれを定める",
+          "commonality": "탄핵제도의 구체적 사항을 법률에 맡기는 법률유보가 공통된다.",
+          "difference": "후보는 설치 주체를 헌법이 정하고 '탄핵에 관한 사항'을 별항으로 법률에 위임하나, 대상은 재판소의 설치 자체를 법률로 하면서 구성·정족수·효과는 헌법에서 직접 정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_081",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "재판소의 선거에 의한 구성과 판사 해임(소환)을 규율하는 조항으로, 탄핵심판기관의 설치·정족수·판결 효과와 구체적 대응이 없다. 특별재판소의 법령 유보라는 일반적 표현만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제4항이 대통령·부통령 및 문관이 탄핵소추와 유죄판결로 파면된다고 정해 탄핵 대상과 파면 효과 면에서 일반적 유사성이 있으나, 해당 조문에는 탄핵재판소의 설치·구성, 재판장, 3분의 2 정족수, 판결 효과의 한정과 민·형사 책임 유지에 관한 규율이 없어 구체적 대응으로 보기 어렵다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "통상의 경우 부통령이 탄핵재판소 재판장의 직무를 행한다는 규정",
+    "대법관 5인과 국회의원 5인이라는 대등(5:5) 구성 방식",
+    "잔존 책임을 '민사상이나 형사상의 책임'으로 병기한 표현",
+    "탄핵재판소를 헌법이 직접 설치하지 않고 '법률로써' 설치하도록 한 방식"
+  ],
+  "limitations": [
+    "제공된 본문만 비교한 문언상 대응 분석이며, 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 확정할 수 없다.",
+    "미국 헌법은 제2조만 제시되어 탄핵심판 절차(상원 심판·정족수 등)를 담은 부분이 본문에 없어 비교가 제한된다.",
+    "후보 일부는 한국어 번역문이 함께 제시되었으나 근거 인용은 원문을 기준으로 삼았다."
+  ],
+  "short_answer": "필리핀헌법 제9조는 대통령 심판 시 대법원장 주재, 가중 다수 요건, 판결 효과를 파면에 한정하고 별도 책임은 면제되지 않는다는 단서까지 대상 제2~4항과 다층적으로 대응하며, 일본국헌법 제64조는 '탄핵재판소를 설치한다'는 기관 창설 문형과 법률 위임에서 제1항과 직접 대응한다. 프로이센 자유주헌법 제12조는 의원과 법관을 인원수까지 명시해 혼합 구성하는 특별재판소 방식에서, 바이마르 제59조는 탄핵을 별도 국가법원에 맡기고 세부를 법률에 위임하는 구조에서 부분적으로 대응한다. 조선임시약헌 제14조는 탄핵의 3분의 2 찬성 요건과 주석·부주석을 대상에 포함시킨 점, 五五憲草 제92조는 단서로 총통·부총통에 대한 특례를 두는 문형에서 대응하되, 각각 분모(재적·출석의원, 전체 감찰위원)와 단계(의결·제출 vs 판결)가 다르다. 부통령이 통상 재판장이 되는 원칙과 5:5 대등 구성, '민사상이나 형사상의 책임' 병기는 제시 후보로 설명되지 않는다. 이상은 문언상 대응 검토이며 실제 참조 여부의 확정은 아니다."
+}

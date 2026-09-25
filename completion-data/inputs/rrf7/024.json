@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_024",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "24",
+    "original_text": "刑事被告人은 相當한 理由가 없는 限 遲滯없이 公開裁判을 받을 權利가 있다.\n刑事被告人으로서 拘禁되었던 者가 無罪判決을 받은 때에는 法律의 定하는 바에 依하여 國家에 對하여 補償을 請求할 수 있다.",
+    "workbook_text_ko": "형사피고인은 상당한 이유가 없는 한 지체없이 공개재판을 받을 권리가 있다.\n형사피고인으로서 구금되었던 자가 무죄판결을 받은 때에는 법률의 정하는 바에 의하여 국가에 대하여 보상을 청구할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_024",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "24",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "違法的으로 人民의 自由 또는 權利를 侵害한 公務員은 法律에 依하여 懲戒를 받는 外에 刑事上 및 民事上의 責任을지지 않으면 아니 된다. 害를 받은 人民은 그 損害에 關하여 法律의 定하는 바에 依하여 國家에 對하여 賠償을 請求할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_037",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "37",
+      "original_text": "すべて刑事事件においては、被告人は、公平な裁判所の迅速な公開裁判を受ける権利を有する。\n２　刑事被告人は、すべての証人に対して審問する機会を充分に与へられ、又、公費で自己のために強制的手続により証人を求める権利を有する。\n３　刑事被告人は、いかなる場合にも、資格を有する弁護人を依頼することができる。被告人が自らこれを依頼することができないときは、国でこれを附する。",
+      "workbook_text_ko": "①모든 형사사건에서 피고인은 공평한 재판소에 의하여 신속한 공개재판을 받을 권리를 가진다.\n②형사피고인은 모든 증인에 대하여 심문할 기회를 충분히 부여받고, 공적 비용으로 자기를 위하여 강제적 절차에 따라 증인을 요구할 권리를 가진다.\n③형사피고인은 어떠한 경우에도 자격을 가진 변호인에게 의뢰할 수 있다. 피고인 스스로 이를 의뢰할 수 없을 때에는 국가가 변호인을 선임한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_017",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "17",
+      "original_text": "何人も、公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる。",
+      "workbook_text_ko": "누구든지 공무원의 불법행위로 인하여 손해를 입었을 때에는 법률이 정하는 바에 따라 국가 또는 공공단체에 배상을 청할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_040",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "40",
+      "original_text": "何人も、抑留又は拘禁された後、無罪の裁判を受けたときは、法律の定めるところにより、国にその補償を求めることができる。",
+      "workbook_text_ko": "누구든지 억류 또는 구금된 후 무죄판결을 받았을 때에는 법률이 정하는 바에 따라 국가에 그 보상을 청할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_026",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "26",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律懲戒外，應負刑事及民事責任，被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "공무원이 위법하게 인민의 자유나 권리를 침해한 때에는 법률에 따른 징계 외에 형사상 및 민사상 책임을 져야 한다. 피해를 입은 인민은 자신이 입은 손해에 대하여 법률에 따라 국가에 배상을 청구할 수도 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_034",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "34",
+      "original_text": "何人も、理由を直ちに告げられ、且つ、直ちに弁護人に依頼する権利を与へられなければ、抑留又は拘禁されない。又、何人も、正当な理由がなければ、拘禁されず、要求があれば、その理由は、直ちに本人及びその弁護人の出席する公開の法廷で示されなければならない。",
+      "workbook_text_ko": "누구든지 이유를 지체 없이 고지 받고 또한 즉시 변호인에게 의뢰할 권리가 부여되지 아니하고는 억류 또는 구금되지 아니한다. 또한 누구든지 정당한 이유 없이 구금되지 아니하며, 요구가 있으면 지체 없이 구금의 이유를 본인 및 그 변호인이 출석하는 공개된 법정에서 제시하여야 한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_VI",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "VI",
+      "original_text": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.",
+      "workbook_text_ko": "모든 형사 소추에서, 피고인은 범죄가 행하여진 주 및 법률\n이 미리 정하는 지역의 공정한 배심에 의한 신속한 공개 재판을\n받을 권리, 기소의 성질과 이유에 관하여 고지 받을 권리,\n자기에게 불리한 증인과 대질 심문을 할 권리, 자기에게 유\n리한 증인 확보를 위해 강제 절차를 제공 받을 권리, 자신\n의 변호를 위하여 변호인의 도움을 받을 권리를 가진다."
+    }
+  ]
+}

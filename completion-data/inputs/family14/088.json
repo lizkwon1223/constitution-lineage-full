@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_088",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "88",
+    "original_text": "國防上 또는 國民生活上 緊切한 必要에 依하여 私營企業을 國有 또는 公有로 移轉하거나 또는 그 經營을 統制, 管理함은 法律이 定하는 바에 依하여 行한다.",
+    "workbook_text_ko": "국방상 또는 국민생활상 긴절한 필요에 의하여 사영기업을 국유 또는 공유로 이전하거나 또는 그 경영을 통제, 관리함은 법률이 정하는 바에 의하여 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_027",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "27",
+      "original_text": "日本臣民ハ其ノ所有権ヲ侵サルヽコトナシ\n２　公益ノ為必要ナル処分ハ法律ノ定ムル所ニ依ル",
+      "workbook_text_ko": "일본 신민은 그 소유권을 침해당하지 않는다.\n② 공익을 위하여 필요한 처분은 법률이 정하는 바에 따른다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XIX",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XIX",
+      "original_text": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.\nCongress shall have power to enforce this article by appropriate legislation.",
+      "workbook_text_ko": "합중국 시민의 투표권은 성별을 이유로 합중국이나 주에\n의하여 거부 또는 제한되지 않는다.\n연방의회는 적절한 입법에 의하여 이 조를 시행할 권한을\n가진다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_004",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "4",
+      "original_text": "國民은 左記 各項 政策의 確立實施에 依하여 生活均等權을 享有함\n一 國民의 基本生活을 確保할 計劃經濟의 樹立\n二 主要한 生活必需品의 統制管理와 合理的 物價政策의 樹立\n三 稅制의 整理와 累進率의 强化\n四 農民本位의 土地 再分配\n五 大規模의 主要工場 及 鑛山의 國營 또는 國家 管理\n六 勞働者의 生活을 安定키 爲한 最低賃金制의 確立\n七 主要企業의 經營管理에 從業員代表 參與\n八 俸給者의 生活을 安定시키기 爲한 家族給與制의 確立\n九 重要工場內에 保健 衛生 敎育 及 娛樂施設의 整備\n十 失業保險 廢疾保險 其他 社會保險制의 實施",
+      "workbook_text_ko": "국민은 아래 각 항 정책의 확립·실시에 의하여 생활균등권을 향유함.\n1. 국민의 기본생활을 확보할 계획경제의 수립\n2. 주요한 생활필수품의 통제관리와 합리적 물가정책의 수립\n3. 세제의 정리와 누진율의 강화\n4. 농민 본위의 토지 재분배\n5. 대규모의 주요 공장 및 광산의 국영 또는 국가 관리\n6. 노동자의 생활을 안정시키기 위한 최저임금제의 확립\n7. 주요 기업의 경영관리에 종업원 대표 참여\n8. 봉급자의 생활을 안정시키기 위한 가족급여제의 확립\n9. 중요 공장 내에 보건·위생·교육 및 오락 시설의 정비\n10. 실업보험·폐질보험, 기타 사회보험제의 실시"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_144",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "144",
+      "original_text": "公用事業及其他有獨佔性之企業，以公營為原則，其經法律許可者，得由國民經營之。",
+      "workbook_text_ko": "公用事業과 其他獨占의 性格을 가진 企業은 公營을 原則으로 하고 其中法律에 依하여 許可된 것은 國民이 이를 經營할 수 있다"
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_043",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "43",
+      "original_text": "Das Nähere wird durch Gesetz geregelt.",
+      "workbook_text_ko": "자세한 사항은 법률로 정한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_031",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "31",
+      "original_text": "Die Bedingungen, unter welchen Korporationsrechte ertheilt oder verweigert werden, bestimmt das Gesetz.",
+      "workbook_text_ko": "법인의 권리가 부여되거나\n인정되지 않는 요건은 법률로 정한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "8",
+      "original_text": "Les chambres auront le droit, par délibérations séparées prises dans chacune à la majorité absolue des voix, soit spontanément, soit sur la demande du Président de la République, de déclarer qu'il y a lieu de réviser les lois constitutionnelles. - Après que chacune des deux chambres aura pris cette résolution, elles se réuniront en Assemblée nationale pour procéder à la révision. - Les délibérations portant révision des lois constitutionnelles, en tout ou en partie, devront être prises à la majorité absolue des membres composant l'Assemblée nationale. - Toutefois, pendant la durée des pouvoirs conférés par la loi du 20 novembre 1873 à M. le maréchal de Mac-Mahon, cette révision ne peut avoir lieu que sur proposition du Président de la République.",
+      "workbook_text_ko": "양원은 자발적으로 또는 공화국대통령의 청구에 근거하여 각별로 심의\n하며, 각별의 투표의 절대다수로 헌법법률(loi constitutionnelle)을 개정할 필요가\n있다고 선언할 권한을 가진다.\n양원이 이러한 결정을 한 후, 양원은 개정작업에 착수하기 위해서 국민의\n회에 합동한다.\n전면적이든 부분적이든 헌법법률을 개정하는 결의는 국민의회를 구성하는\n자의 절대다수로 하여야 한다.\n그러나 1873년 11월 20일의 법률로 마크 마옹 원수(maréchal de\nMac-Mahon)에게 권한이 위임된 동안은 공화국대통령의 제안에 의거하지\n아니하면 헌법법률을 개정할 수 없다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_156",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "156",
+      "original_text": "Das Reich kann durch Gesetz, unbeschadet der Entschädigung, in sinngemäßer Anwendung der für Enteignung geltenden Bestimmungen, für die Vergesellschaftung geeignete private wirtschaftliche Unternehmungen in Gemeineigentum überführen. Es kann sich selbst, die Länder oder die Gemeinden an der Verwaltung wirtschaftlicher Unternehmungen und Verbände beteiligen oder sich daran in anderer Weise einen bestimmenden Einfluß sichern.\nDas Reich kann ferner im Falle dringenden Bedürfnisses zum Zwecke der Gemeinwirtschaft durch Gesetz wirtschaftliche Unternehmungen und Verbände auf der Grundlage der Selbstverwaltung zusammenschließen mit dem Ziele, die Mitwirkung aller schaffenden Volksteile zu sichern, Arbeitgeber und Arbeitnehmer an der Verwaltung zu beteiligen und Erzeugung, Herstellung, Verteilung, Verwendung, Preisgestaltung sowie Ein- und Ausfuhr der Wirtschaftsgüter nach gemeinwirtschaftlichen Grundsätzen zu regeln.\nDie Erwerbs- und Wirtschaftsgenossenschaften und deren Vereinigungen sind auf ihr Verlangen unter Berücksichtigung ihrer Verfassung und Eigenart in die Gemeinwirtschaft einzugliedern.",
+      "workbook_text_ko": "독일제국은 법률에 준하여 공용징수에 적용되는 규정을 유추 적용하여 사회화에 적합한 사적 경제기업의 보상을 지급하고 공유로 이관시킬 수 있다. 제국은 스스로 또는 주나 시·읍·면으로 하여금 경제적 기업과 단체의 관리에 참여하게 하거나, 다른 방법으로 이에 대하여 결정적인 영향력을 확보할 수 있다.\n제국은 긴급한 필요가 있을 경우, 모든 생산에 종사하는 계층의 협력을 확보하고 사용자와 피용자를 관리에 참가시키며 경제적 재화의 생산, 제조, 분배, 소비, 가격형성 및 수출입을 공공경제의 원칙에 따라 규율할 목적을 갖고 공공경제의 목적을 위해 법률에 따라 자치의 기초 위에 경제적 기업과 경제적 단체를 통합할 수 있다.\n영업 및 경제협동조합과 그 연합회는 요청이 있는 경우 규약과 특색을 고려하여 공공경제에 편입된다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XII",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XII",
+      "original_text": "Section 1. All agricultural, timber, and mineral lands of the public domain, waters, minerals, coal, petroleum, and other mineral oils, all forces of potential energy, and other natural resources of the Philippines belong to the State, and their disposition, exploitation, development, or utilization shall be limited to citizens of the Philippines, or to corporations or associations at least sixty per centum of the capital of which is owned by such citizens, subject to any existing right, grant, lease, or concession at the time of the inauguration of the Government established under this Constitution. Natural resources, with the exception of public agricultural land, shall not be alienated, and no license, concession, or lease for the exploitation, development, or utilization of any of the natural resources shall be granted for a period exceeding twenty-five years, renewable for another twenty-five years, except as to water rights for irrigation, water supply, fisheries, or industrial uses other than the development of water power, in which cases beneficial use may be the measure and the limit of the grant.\nSec. 2. No private corporation or association may acquire, lease, or hold public agricultural lands in excess of one thousand and twenty-four hectares, nor may any individual acquire such lands by purchase in excess of one hundred and forty-four hectares, or by lease in excess of one thousand and twenty-four hectares, or by homestead in excess of twenty-four hectares. Lands adapted to grazing, not exceeding two thousand hectares, may be leased to an individual, private corporation, or association.\nSec. 3. The National Assembly may determine by law the size of private agricultural land which individuals, corporations, or associations may acquire and hold, subject to rights existing prior to the enactment of such law.\nSec. 4. The National Assembly may authorize, upon payment of just compensation, the expropriation of lands to be subdivided into small lots and conveyed at cost to individuals.\nSec. 5. Save in cases of hereditary succession, no private agricultural land shall be transferred or assigned except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain in the Philippines.\nSec. 6. The State may, in the interest of national welfare and defense, establish and operate industries and means of transportation and communication, and, upon payment of just compensation, transfer to public ownership utilities and other private enterprises to be operated by the Government.",
+      "workbook_text_ko": "제1절. 필리핀의 모든 공유 농지·산림지·광물지, 수역·광물·석탄·석유 및 그 밖의 광유, 모든 잠재적 에너지원과 그 밖의 천연자원은 국가에 속한다. 그 처분·개발·개량 또는 이용은 필리핀 국민이나 자본의 적어도 60퍼센트를 그 국민이 소유한 법인·단체에 한정하되, 이 헌법에 따라 설립된 정부의 출범 당시 존재하는 권리·불하·임대차 또는 특허를 존중한다. 공유 농지를 제외한 천연자원은 양도할 수 없으며, 천연자원의 개발·개량·이용에 관한 허가·특허·임대차는 25년을 넘는 기간으로 부여할 수 없고 추가로 25년간 갱신할 수 있다. 다만, 관개·급수·어업 또는 수력 개발 이외의 산업 용도를 위한 수리권은 예외로 하며, 이 경우에는 유익한 이용을 권리 부여의 기준과 한도로 삼을 수 있다.\n제2절. 민간 법인이나 단체는 1,024헥타르를 넘는 공유 농지를 취득·임차 또는 보유할 수 없다. 개인은 매수로 144헥타르, 임차로 1,024헥타르, 자영농지 불하로 24헥타르를 넘는 공유 농지를 취득할 수 없다. 방목에 적합한 토지는 2,000헥타르를 넘지 않는 범위에서 개인·민간 법인 또는 단체에 임대할 수 있다.\n제3절. 국민의회는 그 법률 제정 전에 존재하던 권리를 존중하면서, 개인·법인·단체가 취득·보유할 수 있는 사유 농지의 면적을 법률로 정할 수 있다.\n제4절. 국민의회는 정당한 보상을 지급하고 토지를 수용하여 작은 필지로 분할한 뒤 원가로 개인에게 양도하도록 허가할 수 있다.\n제5절. 상속의 경우를 제외하고는 필리핀의 공유지를 취득·보유할 자격이 있는 개인·법인·단체가 아닌 자에게 사유 농지를 이전하거나 양도할 수 없다.\n제6절. 국가는 국민복리와 국방을 위하여 산업시설과 운송·통신수단을 설치·운영할 수 있으며, 정당한 보상을 지급하고 공익사업과 그 밖의 민간기업을 공공 소유로 전환하여 정부가 운영하게 할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_021",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "21",
+      "original_text": "Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "국회의원은 그 직무상 표명한 의견 또는 표결을 이유로 소추되거나\n수사를 받거나 체포ㆍ구류되거나(détenu) 또는 재판을 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_084",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "84",
+      "original_text": "あらたに租税を課し、又は現行の租税を変更するには、法律又は法律の定める条件によることを必要とする。",
+      "workbook_text_ko": "새로운 조세를 부과하거나 현행 조세를 변경할 경우에는 법률 또는 법률이 정하는 조건에 따라야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_123",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "123",
+      "original_text": "公用事業及其他有獨占性之企業，以國家公營爲原則，但因必要，得特許國民私營之。\n國家對於前項特許之私營事業，因國防上之緊急需要，得臨時管理之，並得依法律收歸公營，但應予以適當之補償。",
+      "workbook_text_ko": "공익사업과 그 밖에 독점성을 가진 기업은 국가가 공영하는 것을 원칙으로 한다. 다만, 필요한 때에는 국민의 사영을 특허할 수 있다.\n국가는 국방상의 긴급한 필요가 있을 때 전항에 따라 특허한 사영사업을 임시로 관리할 수 있으며, 법률에 따라 공영으로 전환할 수 있다. 다만, 적절한 보상을 하여야 한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_126",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "126",
+      "original_text": "Kein Mitglied des Rechnungshofes darf an der Leitung und Verwaltung von Unternehmungen beteiligt sein, die dem Bund oder den Ländern Rechnung zu legen haben oder zum Bund oder einem Land in einem Subventions- oder Vertragsverhältnis stehen. Ausgenommen sind Unternehmungen, die ausschließlich die Förderung humanitärer Bestrebungen oder der wirtschaftlichen Verhältnisse von öffentlichen Angestellten oder deren Angehörigen zum Zweck haben.",
+      "workbook_text_ko": "감사원의 구성원은 연방 또는 주에 회계보고 의무를 지거나 연방 또는 주와 보조금 관계나 계약관계에 있는 기업의 지휘 및 경영에 참여할 수 없다. 다만 인도적 활동 또는 공무원이나 그 가족의 경제적 사정 개선만을 목적으로 하는 기업은 제외한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_027",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "27",
+      "original_text": "公民은 憲法 및 法令을 遵守하여야 한다.\n憲法에 規定한 法的秩序를 變更 또는 破壞하기 위하여 憲法에서 賦與한 權利를 利用함은 國家에 對한 重大한 罪惡이며 法的으로 處罰을 받는다.",
+      "workbook_text_ko": "공민은 헌법 및 법령을 준수하여야 한다.\n헌법에 규정한 법적 질서를 변경 또는 파괴하기 위하여 헌법에서 부여한 권리를 이용함은 국가에 대한 중대한 죄악이며 법적으로 처벌을 받는다."
+    }
+  ]
+}

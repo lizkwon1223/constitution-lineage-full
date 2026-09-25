@@ -1,0 +1,79 @@
+{
+  "article": 60,
+  "reviewed_at": "2026-09-22T16:07:53.311441+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "806a8944375eea41e19c4ab566b0a7347290a75630d3b18ba12dd166236aa641",
+  "input_sha256": "0f896e561477db9b0402ffefd5c12bd1a6613f8219f8da29c9277d5d6debfe5f",
+  "responses": [
+    {
+      "job_id": "060_1a6ef5873892_r1",
+      "repeat": 1,
+      "sha256": "f48ee03babb9ccf20130a975a99dadf3e91298cf79505e7b381553f73b1a6ce2",
+      "assessment": "서면 전달과 출석·발언을 나누어 비교함. 프랑스의 교서 규정을 유일한 연락 방식이나 직접 출석의 부정으로 확정한 표현은 좁혀야 함."
+    },
+    {
+      "job_id": "060_1a6ef5873892_r2",
+      "repeat": 2,
+      "sha256": "3a8a456c1358b015d8436dbd3ac710862e3e96bce9a5b72f546c3b10b11ca0e1",
+      "assessment": "프랑스와 일본 1889년의 부분 대응을 포착함. 같은 출석·발언 요소가 있는 다른 후보를 배제한 기준은 일관성 검토가 필요함."
+    },
+    {
+      "job_id": "060_1a6ef5873892_r3",
+      "repeat": 3,
+      "sha256": "579af11165011dab9659a640a48b24a632ca4102e14808bdba1fc677754accf7",
+      "assessment": "대통령의 서한 방식 대응은 적절함. 프랑스 두 조문의 내용을 합쳐 제37조에도 장관 낭독 절차가 있는 것처럼 요약하지 않아야 함."
+    }
+  ],
+  "synthesis": "제60조의 핵심은 대통령이 중요한 국무에 관하여 직접 출석·발언하거나 서한으로 의견을 표시하는 선택적 구성임. 프랑스 두 조문은 대통령의 교서 전달에 대응함. 1875년 제6조는 장관의 출석·청취도 함께 정하나, 대통령에게 두 방법을 선택하게 한 규정과는 주체가 다름. 일본 두 조문·중화민국 제71조·프로이센 제60조의 출석·발언도 주체 차이를 전제로 한 부분 대응임. 미국·필리핀의 국정보고는 의사 전달 기능에 관련되지만 두 전달 방법을 명시하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_037",
+      "type": "unsupported_exclusivity",
+      "severity": "minor",
+      "finding": "교서에 의한 연락을 정한 문장을 유일한 소통 방식으로 단정함.",
+      "action": "제공 조문은 교서 방식을 명시하고 직접 출석을 언급하지 않는다고 표현함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_037",
+      "type": "cross_candidate_conflation",
+      "severity": "material",
+      "finding": "요약에서 프랑스 조문들에 장관 낭독 절차가 있다고 묶어 설명함. 이 절차는 1875년 제6조에 있고 1946년 제37조에는 없음.",
+      "action": "두 프랑스 조문의 추가 절차를 분리함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "minor",
+      "finding": "장관 주체라는 차이를 인정한 프랑스의 출석 규정은 선택하면서 유사한 일본·프로이센·중화민국의 출석·발언은 회차마다 선택 기준이 달라짐.",
+      "action": "전체 일치와 전달 방식의 부분 대응을 구분하여 병기함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "outside_source_inference",
+      "severity": "minor",
+      "finding": "국회라는 문구만으로 단원제 전체 구조를 확정하거나 조문에 없는 의회 요구권의 부재를 일반화함.",
+      "action": "이 조문에 명시된 기관·방식과 명시되지 않은 절차만 설명함."
+    }
+  ],
+  "limits": [
+    "교서와 서한은 문서 전달의 기능적 대응이며 용어 자체의 완전한 동일성은 확정하지 않음."
+  ]
+}

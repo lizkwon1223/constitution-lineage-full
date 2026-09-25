@@ -1,0 +1,179 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_021",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "전문은 평등·노동·사회보장·국제관계 원칙을 열거할 뿐 청원권이나 국가의 심사의무에 관한 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "납세의무 조항으로 조문 번호만 같을 뿐 청원권과 규율 내용이 일치하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_016",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "인민의 청원권을 인정한다는 점은 겹치나, 청원·소원·소송을 묶어 열거할 뿐 대상 조문의 '문서로써'라는 방식 요건이나 국가의 심사의무 같은 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_081",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "청원서·상주문의 처리 절차를 다루지만 주체가 의회 각 원이고, 국민의 청원권 보장이나 국가의 심사의무 규정이 아니어서 요소 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_053",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민의회 조사위원회 설치와 관청의 증거조사 협력의무에 관한 조항으로 청원권과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공민이 주권기관에 청원을 제출할 수 있다'는 문형이 '국민이 국가 각기관에 대하여 청원할 권리'와 주체·상대기관·행위 면에서 대응한다. 다만 문서 요건과 국가의 심사의무는 없어 대응 범위를 청원 제출권에 한정한다.",
+      "evidence": [
+        {
+          "element": "청원의 상대 기관과 청원 제출권",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 國家 各機關에 對하여 文書로써 請願을 할 權利가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 主權機關에 請願 또는 申訴를 提出할 수 있다.",
+          "commonality": "개인이 국가(주권)기관에 대하여 청원을 제기할 수 있음을 권리로 정한 점이 같다.",
+          "difference": "대상은 '국가 각기관'을 폭넓게 지시하고 '문서로써'라는 형식요건을 두며 권리로 명시하는 반면, 후보는 '주권기관'에 한정하고 신소를 병기하며 형식요건이 없고 '할 수 있다'는 가능규정이다."
+        },
+        {
+          "element": "국가 측 후속 효과",
+          "target_field": "original_text",
+          "target_quote": "請願에 對하여 國家는 審査할 義務를 진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 主權機關 公務員의 職務上 非法的 行爲에 對하여 申訴할 수 있으며 그 結果로 입은 損害에 對하여 賠償을 請求할 수 있다.",
+          "commonality": "청원·신소 제기에 대응하는 국가 측 처리 내지 구제의 효과를 함께 규정하려는 구조가 유사하다.",
+          "difference": "대상은 국가의 '심사 의무'라는 절차적 의무를 규정하나, 후보는 공무원 위법행위에 대한 신소와 손해배상 청구권이라는 별개의 구제수단을 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "주의회가 접수한 진정서를 내각에 이송하고 설명을 요구하는 처리 절차 규정으로, 국민의 청원권 자체나 국가의 심사의무와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_018",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "청원권을 인정하지만 '법률에 따라'라는 법률유보와 소원·소송의 병렬 열거가 중심이고, 문서 요건·심사의무 등 대상의 구체적 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가정책 원칙 선언 조항으로 청원권 규정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_126",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'서면으로' 청원한다는 형식요건과 '관할관청 또는 국민대표기관'이라는 상대기관 지정이 대상의 '문서로써'·'국가 각기관'과 구체적으로 대응한다. 다만 국가의 심사의무 규정은 없고 공동행사 규정이 추가되어 있다.",
+      "evidence": [
+        {
+          "element": "청원의 형식요건(문서)",
+          "target_field": "original_text",
+          "target_quote": "文書로써 請願을 할 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "das Recht, sich schriftlich mit Bitten oder Beschwerden",
+          "commonality": "청원을 서면(문서) 형식으로 하도록 요구하며 이를 권리로 구성한 점이 같다.",
+          "difference": "후보는 청원(Bitten)과 소원(Beschwerden)을 병기하나 대상은 '청원'만 규정한다."
+        },
+        {
+          "element": "청원의 상대 기관",
+          "target_field": "original_text",
+          "target_quote": "國家 各機關에 對하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "an die zuständige Behörde oder an die Volksvertretung",
+          "commonality": "행정관청과 의회를 포함한 국가기관을 청원 상대방으로 삼는다.",
+          "difference": "후보는 '관할관청 또는 국민대표기관'으로 상대를 특정·열거하는 반면, 대상은 '국가 각기관'으로 포괄한다."
+        },
+        {
+          "element": "주체와 부가 규정",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "Jeder Deutsche hat das Recht",
+          "commonality": "국적을 기준으로 한 모든 국민에게 청원권을 인정한다.",
+          "difference": "후보는 개인·다수 공동행사 규정을 두는 반면, 대상은 이를 두지 않고 대신 국가의 심사의무를 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "생존권과 국가의 사회보장 노력의무 조항으로 청원권과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률 공포와 재의요구 절차 규정으로 청원권과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가기관에 대하여' 국민이 청원하는 권리를 규정한 점에서 주체·상대기관·권리 구성이 직접 대응한다. 다만 청원 상대를 입법의원·정부주석 및 행정기관으로 나누어 열거하고 재판청구권까지 포함하며, 문서 요건과 심사의무는 없다.",
+      "evidence": [
+        {
+          "element": "주체와 청원 상대 기관",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 國家 各機關에 對하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮國民은 國家機關에 對하여 左記 各項의 要求權을 享有함",
+          "commonality": "국민이 '국가기관에 대하여' 권리를 가진다는 동일한 문형으로 청원의 상대를 국가기관 일반으로 설정한다.",
+          "difference": "후보는 입법의원 청원·행정기관 허원·행정재판 요구·법원 제소를 항목별로 열거하는 반면, 대상은 '국가 각기관'에 대한 청원권 하나로 통합한다."
+        },
+        {
+          "element": "청원권의 내용",
+          "target_field": "workbook_text_ko",
+          "target_quote": "청원을 할 권리가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "一 立法議院에 請願하는 權利",
+          "commonality": "'청원하는 권리'라는 동일한 표현으로 권리를 명시한다.",
+          "difference": "후보의 청원은 입법의원에 한정되고 행정기관에 대하여는 '허원'으로 구분하나, 대상은 기관 구분 없이 문서에 의한 청원권으로 일원화하고 국가의 심사의무를 덧붙인다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_IV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방과 주의 관계·주민 특권·신주 가입 등에 관한 조항으로 청원권과 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "청원에 대한 국가의 '심사할 의무'라는 국가 측 처리의무 규정",
+    "'문서로써'라는 형식요건과 '국가 각기관' 포괄 지시의 결합 방식"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로는 불가능하다.",
+    "독일어·중국어 후보의 의미 파악에 일부 병기된 번역문을 참고하였으므로 번역 의존 가능성이 있다."
+  ],
+  "short_answer": "대상 조문의 '문서로써'와 '국가 각기관'이라는 요소는 바이마르헌법 제126조의 'schriftlich'와 '관할관청 또는 국민대표기관'에 구체적으로 대응하고, '국민은 국가기관에 대하여 …청원하는 권리'라는 문형은 조선임시약헌 제7조와 직접 겹친다. 북조선 헌법안 제25조도 '주권기관에 청원을 제출'하는 권리 구성에서 대응하나 형식요건이 없다. 중화민국 헌법 제16조·오오헌초 제18조는 청원권을 소원·소송과 병렬 열거할 뿐이고, 프로이센 1850년 제81조·1920년 제27조는 의회의 청원 처리절차를 규율하여 요소 대응이 약하다. 특히 '청원에 대하여 국가는 심사할 의무를 진다'는 제2문은 제시된 후보 어디에서도 대응 문언을 찾기 어려우며, 이는 참조 부재의 확정이 아니라 본 후보군 한계다."
+}

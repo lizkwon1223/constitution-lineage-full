@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_050",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "50",
+    "original_text": "國會議員은 國會內에서 發表한 意見과 表決에 關하여 外部에 對하여 責任을 지지 아니한다.",
+    "workbook_text_ko": "국회의원은 국회내에서 발표한 의견과 표결에 관하여 외부에 대하여 책임을 지지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_052",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "52",
+      "original_text": "両議院ノ議員ハ議院ニ於テ発言シタル意見及表決ニ付院外ニ於テ責ヲ負フコトナシ但シ議員自ラ其ノ言論ヲ演説刊行筆記又ハ其ノ他ノ方法ヲ以テ公布シタルトキハ一般ノ法律ニ依リ処分セラルヘシ",
+      "workbook_text_ko": "양원의 의원은 원내에서 발언한 의견과 표결에 관하여 원외에서 책임을 지지 않는다. 다만, 의원이 자신의 언론을 연설·간행·필기 또는 그 밖의 방법으로 스스로 공표한 때에는 일반 법률에 따라 처분받는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_051",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "51",
+      "original_text": "両議院の議員は、議院で行つた演説、討論又は表決について、院外で責任を問はれない。",
+      "workbook_text_ko": "양원의 의원은 원내에서 행한 연설, 토론 또는 표결에 관하여 원외에서 책임을 지지 아니한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_035",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "35",
+      "original_text": "Kein Mitglied des Staatsrats darf zu irgendeiner Zeit wegen seiner Abstimmung oder wegen der in Ausübung seines Amtes getanen Äußerungen gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden.",
+      "workbook_text_ko": "국가평의회 의원은 표결이나 직무 수행 중의 발언으로 인하여 어느 때에도 재판상 또는 직무상 소추를 받거나 그 밖에 회의체 밖에서 책임을 추궁당하지 않는다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "13",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "어느 원의 어떤 의원도 그 직무행사에서 그가 표명한 의견 또는 투표\n에 대해서 소추를 받거나 추궁되지 아니한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_021",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "21",
+      "original_text": "Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "국회의원은 그 직무상 표명한 의견 또는 표결을 이유로 소추되거나\n수사를 받거나 체포ㆍ구류되거나(détenu) 또는 재판을 받지 아니한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_057",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "57",
+      "original_text": "(1) Die Mitglieder des Nationalrates können wegen der in Ausübung dieses Berufes geschehenen Abstimmungen niemals, wegen der in diesem Beruf gemachten Äußerungen nur vom Nationalrat verantwortlich gemacht werden.\n(2) Kein Mitglied des Nationalrates darf wegen einer strafbaren Handlung – den Fall der Ergreifung auf frischer Tat bei Verübung eines Verbrechens ausgenommen – ohne Zustimmung des Nationalrates verhaftet oder sonst behördlich verfolgt werden.\n(3) Im Fall der Ergreifung auf frischer Tat hat die Behörde dem Präsidenten des Nationalrates sogleich die geschehene Verhaftung bekanntzugeben.\n(4) Wenn es der Nationalrat verlangt, muß die Haft aufgehoben oder die Verfolgung überhaupt auf die Dauer der Gesetzgebungsperiode aufgeschoben werden.\n(5) Die Immunität der Organe des Nationalrates, deren Funktion über die Gesetzgebungsperiode hinausgeht, bleibt für die Dauer dieser Funktion bestehen.",
+      "workbook_text_ko": "(1) 국민의회 의원은 직무를 수행하며 한 표결에 대하여 어떠한 경우에도 책임을 추궁당하지 않으며, 그 직무상 한 발언에 대하여는 국민의회에 의해서만 책임을 추궁당할 수 있다.\n(2) 국민의회 의원은 중죄를 범하는 현장에서 체포된 경우를 제외하고, 국민의회의 동의 없이 범죄행위로 체포되거나 그 밖에 관청의 소추를 받을 수 없다.\n(3) 현행범으로 체포한 경우 관청은 체포 사실을 즉시 국민의회 의장에게 알려야 한다.\n(4) 국민의회가 요구하면 구금을 해제하거나 소추 전부를 입법기 동안 연기하여야 한다.\n(5) 직무가 입법기 이후까지 계속되는 국민의회 기관의 면책·불체포특권은 그 직무가 계속되는 동안 존속한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_VI",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "VI",
+      "original_text": "Section 1. The Legislative power shall be vested in a National Assembly. The Members of the National Assembly shall not exceed one hundred and twenty, shall be chosen every three years, and shall be apportioned among the several provinces as nearly as may be according to the number of their respective inhabitants, but each province shall have at least one Member. The National Assembly shall by law make an apportionment within three years after the return of every enumeration, and not otherwise. Until such apportionment shall have been made, the National Assembly shall consist of ninety-eight Members, of whom eighty-seven shall be elected by the representative districts as now provided by law; and three by the Mountain Province, and one by each of the other eight existing special provinces. The Members of the National Assembly in the provinces of Sulu, Lanao, and Cotabato shall be chosen as may be determined by law; in all other provinces they shall be elected by the qualified voters therein.\nSec. 2. No person shall be a Member of the National Assembly unless he has been five years a citizen of the Philippines, is at least thirty years of age, and, at the time of his election, a qualified elector, and a resident of the province in which he is chosen for not less than one year immediately prior to his election.\nSec. 3. (1) In case of vacancy in the National Assembly a special election may be called in the corresponding district, in the manner prescribed by law, but the Member thus elected shall serve only for the unexpired term.\n(2) Elections for the National Assembly shall be held on the dates fixed by law.\n(3) The National Assembly shall convene in regular session once every year, on the second Monday of the month immediately following that on which the election of its Members was held, unless a different date is fixed by law. The National Assembly may be called in special session at any time by the President to consider general legislation or only such subjects as he may designate. No special session shall continue longer than thirty days and no regular session longer than one hundred days, exclusive of Sundays.\n(4) The National Assembly shall choose its Speaker, a secretary, a sergeant-at-arms, and such other officers as may be required. A majority of all the Members shall constitute a quorum to do business, but a smaller number may adjourn from day to day, and may compel the attendance of absent Members, in such manner and under such penalties as the National Assembly may provide.\n(5) The National Assembly may determine the rules of its proceedings, punish its Members for disorderly behavior, and, with the concurrence of two-thirds, expel a Member. It shall keep a Journal of its proceedings, and from time to time publish the same, excepting such parts as may in its judgment require secrecy; and the yeas and nays on any question shall, at the request of one-fifth of its Members present, be entered in the Journal.\nSec. 4. There shall be an Electoral Commission composed of three Justices of the Supreme Court designated by the Chief Justice, and of six Members chosen by the National Assembly, three of whom shall be nominated by the party having the largest number of votes, and three by the party having the second largest number of votes therein. The senior Justice in the Commission shall be its Chairman. The Electoral Commission shall be the sole judge of all contests relating to the election, returns, and qualifications of the Members of the National Assembly.\nSec. 5. The Members of the National Assembly shall, unless otherwise provided by law, receive an annual compensation of five thousand pesos each including per diems and other emoluments or allowances and exclusive only of travelling expenses to and from their respective districts when attending sessions of the National Assembly. No increase in said compensation shall take effect until after the expiration of the full term of the Members of the National Assembly elected subsequent to the approval of such increase. The Speaker of the National Assembly shall receive an annual compensation of sixteen thousand pesos until otherwise provided by law.\nSec. 6. The Members of the National Assembly shall in all cases except treason, felony, and breach of the peace, be privileged from arrest during their attendance at the sessions of the National Assembly, and in going to and returning from the same; and for any speech or debate therein, they shall not be questioned in any other place.\nSec. 7. The National Assembly shall elect from among its Members, on the basis of proportional representation of the political parties therein, a Commission on Appointments and a Commission on Impeachment, each to consist of twenty-one members. These Commissions shall be constituted within thirty days after the National Assembly shall have been organized with the election of its Speaker, and shall meet only while the National Assembly is in session, at the call of their respective Chairmen or a majority of their members, to discharge such powers and functions as are herein conferred upon them.\nSec. 8. (1) No Member of the National Assembly may hold any other office or employment in the Government without forfeiting his seat, nor shall any such Member during the time for which he was elected, be appointed to any civil office which may have been created or the emoluments whereof shall have been increased while he was a Member of the National Assembly.\n(2) No Member of the National Assembly shall directly or indirectly be financially interested in any contract with the Government or any subdivision or instrumentality thereof, or in any franchise or special privilege granted by the National Assembly during his term of office; nor shall any such Member appear as counsel before the Electoral Commission or any court in any civil case wherein the Government or any subdivision or instrumentality thereof is the adverse party, or collect any fee for his appearance in any administrative proceedings or in any criminal case wherein an officer or employee of the Government is accused of an offense committed in relation to his office. No Member of the Commission on Appointments of the National Assembly shall appear as counsel before any court inferior to the Supreme Court.\nSec. 9. (1) The President shall submit within fifteen days of the opening of each regular session of the National Assembly a budget of receipts and expenditures, which shall be the basis of the general appropriation bill. The National Assembly may not increase the appropriations recommended by the President for the operation of the Government as specified in the Budget, except the appropriations for the National Assembly and the Judicial Department. The form of the Budget and the information that it should contain shall be prescribed by law.\n(2) No provision or enactment shall be embraced in the general appropriation, unless it relates specifically to some particular appropriation in the bill; and any such provision or enactment shall be limited in its operation to such appropriation.\nSec. 10. The heads of departments upon their own initiative or upon the request of the National Assembly may appear before and be heard by the National Assembly on any matter pertaining to their departments, unless the public interest shall require otherwise and the President shall so state in writing.\nSec. 11. (1) Every bill which shall have passed the National Assembly shall, before it becomes a law, be presented to the President. If he approve the same, he shall sign it; but if not, he shall return it with his objections to the National Assembly, which shall enter the objections at large on its Journal and proceed to reconsider it. If, after such reconsideration, two-thirds of all the Members of the National Assembly shall agree to pass the bill, it shall become a law. In all such cases the votes of the National Assembly shall be determined by yeas and nays, and the names of the Members voting for and against shall be entered on the Journal. If any bill shall not be returned by the President as herein provided within twenty days (Sundays excepted) after it shall have been presented to him, the same shall become a law in like manner as if he had signed it, unless the National Assembly by adjournment prevent its return, in which case it shall become a law unless vetoed by the President within thirty days after adjournment.\n(2) The President shall have the power to veto any particular item or items of an appropriation bill, but the veto shall not affect the item or items to which he does not object. When a provision of an appropriation bill affects one or more items of the same, the President cannot veto the provision without at the same time vetoing the particular item or items to which it relates. The item or items objected to shall not take effect except in the manner heretofore provided as to bills returned to the National Assembly without the approval of the President. If the veto refers to a bill or any item of an appropriation bill which appropriates a sum in excess of ten per centum of the total amount voted in the appropriation bill for the general expenses of the Government for the preceding year, or if it should refer to a bill authorizing an increase of the public debt, the same shall not become a law unless approved by three-fourths of all the Members of the National Assembly.\n(3) The President shall have the power to veto any separate item or items in a revenue or tariff bill, and the item or items vetoed shall not take effect except in the manner provided as to bills vetoed by the President.\nSec. 12. (1) No bill which may be enacted into law shall embrace more than one subject which shall be expressed in the title of the bill.\n(2) No bill shall be passed or become a law unless it shall have been printed and copies thereof in its final form furnished the Members at least three calendar days prior to its passage by the National Assembly, except when the President shall have certified to the necessity of its immediate enactment. Upon the last reading of a bill no amendment thereof shall be allowed, and the question upon its final passage shall be taken immediately thereafter, and the yeas and nays entered on the Journal.\nSec. 13. (1) All money collected on any tax levied for a special purpose shall be treated as a special fund and paid out for such purpose only. If the purpose for which a special fund was created has been fulfilled or abandoned, the balance, if any, shall be transferred to the general funds of the Government.\n(2) No money shall be paid out of the Treasury except in pursuance of an appropriation made by law.\n(3) No public money or property shall ever be appropriated, applied, or used, directly or indirectly, for the use, benefit, or support of any sect, church, denomination, sectarian institution, or system of religion, or for the use, benefit, or support of any priest, preacher, minister, or other religious teacher or dignitary as such, except when such priest, preacher, minister, or dignitary is assigned to the armed forces or to any penal institution, orphanage, or leprosarium.\nSec. 14. (1) The rule of taxation shall be uniform.\n(2) The National Assembly may by law authorize the President, subject to such limitations and restrictions as it may impose, to fix within specified limits, tariff rates, import or export quotas, and tonnage and wharfage dues.\n(3) Cemeteries, churches, and parsonages or convents appurtenant thereto, and all lands, buildings, and improvements used exclusively for religious, charitable, or educational purposes shall be exempt from taxation.\nSec. 15. The National Assembly shall, with the concurrence of two-thirds of all its Members, have the sole power to declare war.\nSec. 16. In times of war or other national emergency, the National Assembly may by law authorize the President, for a limited period and subject to such restrictions as it may prescribe, to promulgate rules and regulations to carry out a declared national policy.",
+      "workbook_text_ko": "第一條 立法權은 國民議會에 附與한다. 國民議會의 議員數는 120명을 超過치 못하는 것이며 3년식 改選하여 거의 全州의 人口를 標準으로 하야 割當된다. 그리하여 此時 全州에는 적어도 1명의 議員을 有하는 것으로 함. 國民議會는 各州人口調査報告接受後 3개년 이내에 法律로써 各州議員을 割當으로 정하는 것으로 하며 此期間外에는 割當하지 못함. 前記 割當實施까지 國民議會는 98명의 議員으로 되며 其中 87명은 現行法에 의한 代議員選擧區에서 選擧하는 것으로서 또 3명은 山嶽州로부터, 8명은 其他의 8特別州로부터 各1名式 選擧하는 것으로 한다. 슬루, 라나오 及 고다바도州 國民議員에 관해서는 法律에 의하야 정할 規定에 基準하야 選任한다. 其他의 州에 있어서는 各選擧區內에 있어서 有資格選擧人에 의하야 選擧하는 것으로 함.\n第二條 國民議會에 議員일 者는 30歲 이상이고 比律賓市民으로서 5개년을 경과하야 選擧當時 選擧資格을 有하고 且 其選出되는 州內에 被選擧直前 1개년 이상 居住한 者에 한함.\n第三條\n一. 議席에 缺員이 生한 時는 法律의 所定함에 의하야 當該選擧區에서 特別選擧를 行하여 이를 補缺할 수 있음. 但 此際 補缺選擧議員의 任期는 前任者의 殘存期間中에 한함.\n二. 國民議會의 議員選擧는 法律의 정한 時日에 이를 行함.\n三. 國民議會는 每年1回 通常 議會를 召集한다. 法律에 別段規定없는 한 國民議會議員 選擧가 行하여진 달의 翌月第2 月曜日로써 定함. 大統領은 何時든지 一般法案 혹은 大統領의 指定하는 特別議案을 審議키 위하여 國民議會에 對하야 臨時議會를 召集함을 得함. 臨時議會의 期日은 30일을 넘지 못함. 通常 議會의 期間은 日曜日을 제외하고 百日을 超越치 못함.\n四. 國民議會는 議長, 書記官, 守衛長及必要할 其他의 役員을 選出할지다. 全議員의 過半數로써 議事決定의 定員數로 함. 그리하야 出席議員이 此에 未達한 경우엔 其小數로써 每日 延會할 수 있으며 또 國民議會의 規定한 方法 혹은 處罰로서 缺席議員의 出席을 强要할 수 있음.\n五. 國民議會는 議事進行規則 並 議員의 無秩序行爲에 대한 議員處罰規則을 決定하야 3分之2의 동의로써 議員을 除名함을 得함. 國民議會는 議事를 記錄하야 秘密을 要하겠다고 생각하는 부분을 除하고 時時로 이것을 公表할지어다. 議事에 대한 贊否는 出席議員의 5分之1의 요구있을 時 議事錄할<223> 지어다.\n第四條 選擧委員會는 大審院長의 任命하는 大審院判事 3名 及 國民議會의 選任한 議員 6名으로서 組織함. 國民議會選任의 6名 中 3名은 最大 投票數를 가진 第一黨이 推薦하고 他 3名은 次位投票數를 가진 第二黨이 推薦함. 上席判事를 委員長으로 함. 選擧委員會는 國民議會議員의 選擧, 選擧報告 及 資格에 관한 모든 係爭의 대한 유일의 判定機關으로 함.\n第五條 國民議會의 議員은 法律에 別段規定없는 限日當 及 其他의 報酬 혹은 給與를 포함하여 各歲費라 하여 五千比를 受함. 但 國民議會에 出席키 위하여 各 選擧區로부터 往復旅費는 따로 支給할 지어다. 歲費의 增額은 이를 가결한 後에 選擧된 國民議會員의 全任期完了後가 아니면 實施함이 없다. 國民議會議長은 法律에 別段規定 없는 한 歲費 一萬六千比를 受함으로 함.\n第六條 國民議會議員은 如何한 境遇라 할지라도 議會出席中 及 往復途中에 잇서서 逮捕함이 없다. 단 反逆罪, 重罪 혹은 治安紊亂罪를 범한 경우에는 此限에 不在함. 또 議會에서 演說 혹은 討論에 관하야 他所에서 訊問함이 없음.\n第七條 國民議會는 各黨員의 比率에 준하여 議員中에서 各 21名으로 되는 任命委員會 及 彈劾委員會를 選定함. 如斯한 委員會는 國民議會가 議長의 選擧로써 組織된 후 30日이내에 설정하여서 各 委員長 혹은 委員 過半數의 召集으로서 附與된 權限 及 任務를 遂行하기 위하야 議會開會中에 있어서만 會議를 開催하는 것으로 함.\n第八條\n一. 國民議會議員은 議席을 喪失치 않으면 政府의 他官職 又는 職務에 就任을 못함. 또 其 任期 中에는 其가 國民議會議員으로 在職하는 동안 新設되었거나 또는 報酬가 增額된 如何한 文官職에도 任命치 안는 것으로 함.\n二. 國民議會員은 其 任期 中에 있어 直接 혹은 間接으로 政府 혹은 其 官署의 契約 及 國民議會에서 許可될 特許 혹은 特權에 대하야 財政的에는 關係치 못하는 것으로 함. 또 議員은 辯護人으로서 選擧擧委員會에 出頭하야 혹은 政府 及 其從屬機關을 상대로 하는 民事訴訟에 있어 如何한 判所에라도 辯護人으로서 出廷치 못함으로 함. 혹은 또 如何한 行政手續 又는 政府官吏나 使用人이 其職務遂行上에 關聯하야 起한 犯罪로 訴追된 刑事事件에 出廷한 境遇에 대한 手數料를 徵收치 못함으로 함. 國民議會 任命委員會議員은 大審院를 除外하는 他下級裁判所에 辯護人으로서 出廷치 못함.\n第九條\n一. 大統領은 通常議會開會後 15日이내에 經費割當案의 기초로 될 歲出入總豫算案을 提出할 事. 國民議會는 大統領의 指示한 豫算案에 示한 行政費割當을 增額함을 不得함. 但 國民議會 及 司法部에 대한 割當은 此限에 不在함. 豫算案並其說明書樣式은 法律로써 規定함.\n二. 如何한 規定 혹은 法令이라 할지라도 總豫算案中의 特定割當에 關係없는 限 豫算案에 包含됨이 없다. 特定割當에 關係있는 規定 혹은 法令은 當該割當에만 適用하는 것이다.\n第十條 各 省長官 其 發意 혹은 國民議會에 요구에 의하여 議會에 出席하고 所管事務에 관하야 說明함을 得함. 但 一般의 利益이 이에 反할 時 大統領의 文書로써<224> 右意志를 示한 境遇 此限에 不在함.\n第十一條\n一. 國民議會를 通過한 各 法案은 法律로서 施行됨에 先하야 大統領에 提出할 事 大統領 此를 可할 時난 이에 署名코 不然이면 其 反對意見을 附하여 國民議會에 回付할 事. 國民議會는 議事錄中에 其反對意見을 全部 記錄하고 此를 再審할 事. 만약 再審後 全議員의 3分之2가 同案 通過에 同意할 時난 法律로 됨. 此等 모든 境遇에 議員의 投票는 贊否로서 決定함. 贊否議員의 姓名은 議事錄中에 記錄함. 法案이 大統領에 提出後 20日이내에(日曜日을 除함) 大統領으로부터 議會에 회부치 않는 時난 裁可署名의 時와 同樣法律로 된다. 만약 國民議會閉會로 인하야 20日이내에 大統領의 回付를 妨害할 時난 議會閉會 後30日이내에 大統領으로부터 拒否치 안는 한 法律노 된다.\n二. 大統領은 豫算案中의 一項目 혹은 數項을 拒否할 權限을 有함. 然이나 其拒否는 其他의 반대치 않는 一項目 혹은 數項目에 影響을 미치지 않음으로 함. 豫算案의 어느 規定이 一項目 혹은 數項目에 관련하는 경우 大統領은 其 關係하는 特殊項目 혹은 數項目을 拒否치 않고 同規定을 拒否치 못함. 반대한 一項目 혹은 數項目은 大統領의 不裁可에 의하야 議會에 返付된 法案에 관한 本 憲法中의 規定과 同樣의 方法에 依치 않으면 效力을 發生치 못함. 만약 其拒否가 前年度政府總歲出案의 一割을 超過하는 金額을 割當하는 法案 혹은 割當案의 一項目에 關係하는 경우 혹은 拒否가 公債의 增發을 許可하는 法案에 關係하는 경우엔 國民議會 全議員의 4分之3의 協贊을 得지 못하는 한 法律로서의 效果를 發生치 못함으로 함.\n三. 大統領은 歲入 혹은 關稅法案에 包含하는 一項目 혹은 數項目을 拒否할 權限을 有함. 그리하여 拒否한 項目은 大統領의 拒否한 法案에 관한 規定에 依치 않으면 効力를 發生함이 없음으로 함.\n第十二條\n一. 法案은 한 主題를 超過하여 包含치 않을 것. 그리하여 其內容은 法案의 題目中에 明示할 事.\n二. 法案은 모다 이것을 印刷에 附하야 完成寫本으로 하여 議會를 通過할 적어도 3日前에 이것을 各議員에 配布치 않을 지면 通過 혹은 制定함이 없음. 但 大統領이 卽時 制定의 必要를 認定할 時난 此限에 不在함. 法案最後朗讀際는 其 修正을 許치 않는다. 且 最後通過에 관한 表決은 直時 此를 行하여 贊否는 議事錄에 記載할 事.\n第十三條\n一. 特殊目的으로 課稅徵收한 金額은 特別基金으로서 취급하야 其目的에 한하여 支出함으로 함. 特殊基金의 目的이 完了하거나 혹은 放棄한 경우의 剩余는 政府의 一般基金에 繰入함으로 함.\n二. 如何한 支出이라 할지라도 法律의 所定한 割當에 據치 않고 國庫에서 支出함이 없음.\n三. 公金 又난 公共의 財産은 直接 又난 間接을 不問코 宗敎, 敎會, 敎派, 宗敎的 機關 혹은 宗敎制度의 支持利用 혹은 利益을 위하여 又난 僧侶 宣敎師, 牧師 諸 宗敎師 혹은 此種職業의 것의 利用 혹은 利益을 위하야 割當을 하여 又난 使用함을 不得함. 但 如斯한 僧侶 宣敎師 傳導師 혹은 牧師가 軍隊, 監獄孤兒院(254頁에 계속) <225> 혹은 癩療養所에 赴任된 경우에난 此限에 不在함.\n第十四條\n一. 稅制는 一律할 事.\n二. 國民議會는 法律로써 大統領에 대하여 國民議會가 課하는 制限 及 拘束下에 特殊限度內에 있어서 關稅率輸出 又는 輸入割當 及 噸稅埠頭稅를 定할 權限할 附與함을 得함.\n三. 墓地, 寺院 及 此에 附屬한 牧師의 住宅 혹은 修道院, 其他 宗敎 及 慈善事業 혹은 敎育의 目的으로 專用되는 모든 土地建物 並 施設에 대해서는 免稅함.\n第十五條 國民議會는 全議員의 3分之2의 贊同을 어더 宣戰을 布告할 專屬的 權限을 有함.\n第十六條 戰爭 又는 其他의 國家의 非常時 境遇에 있어서 國民議會는 法律로써 大統領에 대하여 일정의 期間 國民議會가 定하는 制限內에서 宣言한 國家政策遂行을 위한 法規를 制定公布할 權限을 賦與함을 得함.<254>\n<221-225, 254>"
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_084",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "84",
+      "original_text": "Sie können für ihre Abstimmungen in der Kammer niemals, für ihre darin ausgesprochenen Meinungen nur innerhalb der Kammer auf den Grund der Geschäftsordnung (Art. 78.) zur Rechenschaft gezogen werden.\nKein Mitglied einer Kammer kann ohne deren Genehmigung während der Sitzungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, außer wenn es bei Ausübung der That oder im Laufe des nächstfolgenden Tages nach derselben ergriffen wird.\nGleiche Genehmigung ist bei einer Verhaftung wegen Schulden nothwendig.\nJedes Strafverfahren gegen ein Mitglied der Kammer und eine jede Untersuchungs- oder Civilhaft wird für die Dauer der Sitzungsperiode aufgehoben, wenn die betreffende Kammer es verlangt.",
+      "workbook_text_ko": "양원의 의원은 각 원에서의\n표결에 대해서는 절대로 책임을 추\n궁당하지 않으며, 원(院) 안에서 행한\n의견 표명에 대해서는 오로지 각 원\n내에서만 의사규칙(제78조)에 근거하\n여 책임을 추궁당할 수 있다.\n각 원의 의원은, 현행범 또는 범행\n후 다음날 중에 잡힌 경우를 제외하고,\n회기중 각 원의 동의 없이는, 형벌에\n처해질 수 있는 행위임을 이유로 수사를\n받거나 체포될 수 없다.\n그와 같은 동의는 채무로 인한 구\n금에도 필요하다.\n의회의 해당 원(院)이 요청하는 경우\n에는, 회기동안 그 소속 의원에 대한\n모든 형사절차, 미결구금(未決拘禁)\n이나 민사 구금이 정지된다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "I",
+      "original_text": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",
+      "workbook_text_ko": "연방의회는 국교의 수립에 관한 법률이나 자유로운 신앙 행위를 금지하는 법률을 제정할 수 없다. 또한 언론･출판의 자유\n나 평화로이 집회할 수 있는 국민의 권리 및 고충의 구제\n를 위하여 정부에 청원할 수 있는 권리를 제한하는 법률을\n제정할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_072",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "72",
+      "original_text": "立法委員於院內之言論及表決，對外不負責任。",
+      "workbook_text_ko": "입법위원은 원내의 발언과 표결에 관하여 대외적으로 책임을 지지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_073",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "73",
+      "original_text": "立法委員在院內所為之言論及表決，對院外不負責任。",
+      "workbook_text_ko": "立法委員은 院內에서 行한 言論과 表決에 關하여 院外에 對하여 責任을 지지 아니한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_018",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "18",
+      "original_text": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함\n議員은 院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함",
+      "workbook_text_ko": "의원은 내란·외환에 관한 범죄 또는 현행범 이외에는 회기 중 원의 허락 없이 체포·심문을 받지 아니함.\n의원은 원내에서 행한 발언 및 표결에 대하여 원외에서 책임을 지지 아니함."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_036",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "36",
+      "original_text": "Kein Mitglied des Reichstags oder eines Landtags darf zu irgendeiner Zeit wegen seiner Abstimmung oder wegen der in Ausübung seines Berufs getanen Äußerungen gerichtlich oder dienstlich verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden.",
+      "workbook_text_ko": "제국의회 혹은 주 의회의 소속 의원은 어느 때에도 자신의 표결 또는 직무 수행 중에 행한 발언을 이유로 사법적으로 혹은 직무상 소추를 받지 아니하며 기타 집회 밖에서의 책임을 지지 아니한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_004",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "4",
+      "original_text": "一切 主權機關의 代議員은 選擧者앞에서 自己事業活動에 對하여 責任을 진다. 選擧者는 自己가 選擧한 代議員이 그 信任을 喪失한 境遇에는 任期前에 召還할 수 있다.",
+      "workbook_text_ko": "일체 주권기관의 대의원은 선거자 앞에서 자기 사업활동에 대하여 책임을 진다. 선거자는 자기가 선거한 대의원이 그 신임을 상실한 경우에는 임기 전에 소환할 수 있다."
+    }
+  ]
+}

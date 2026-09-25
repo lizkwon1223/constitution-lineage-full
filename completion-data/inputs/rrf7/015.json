@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_015",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "15",
+    "original_text": "財産權은 保障된다. 그 內容과 限界는 法律로써 定한다.\n財産權의 行使는 公共福利에 適合하도록 하여야 한다.\n公共必要에 依하여 國民의 財産權을 收用, 使用 또는 制限함은 法律의 定하는 바에 依하여 相當한 補償을 支給함으로써 行한다.",
+    "workbook_text_ko": "재산권은 보장된다. 그 내용과 한계는 법률로써 정한다.\n재산권의 행사는 공공복리에 적합하도록 하여야 한다.\n공공필요에 의하여 국민의 재산권을 수용, 사용 또는 제한함은 법률의 정하는 바에 의하여 상당한 보상을 지급함으로써 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_012",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "12",
+      "original_text": "この憲法が国民に保障する自由及び権利は、国民の不断の努力によつて、これを保持しなければならない。又、国民は、これを濫用してはならないのであつて、常に公共の福祉のためにこれを利用する責任を負ふ。",
+      "workbook_text_ko": "이 헌법이 국민에게 보장하는 자유 및 권리는 국민의 부단한 노력에 의하여 지켜나가야 한다. 또한 국민은 이를 남용하여서는 아니 되며 항상 공공복리를 위하여 이를 이용할 책임을 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_015",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "15",
+      "original_text": "人民之生存權，工作權及財產權，應予保障。",
+      "workbook_text_ko": "人民의 生存權, 勞動權 및 財産權은 保障되어야 한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_153",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "153",
+      "original_text": "Das Eigentum wird von der Verfassung gewährleistet. Sein Inhalt und seine Schranken ergeben sich aus den Gesetzen.\nEine Enteignung kann nur zum Wohle der Allgemeinheit und auf gesetzlicher Grundlage vorgenommen werden. Sie erfolgt gegen angemessene Entschädigung, soweit nicht ein Reichsgesetz etwas anderes bestimmt. Wegen der Höhe der Entschädigung ist im Streitfalle der Rechtsweg bei den ordentlichen Gerichten offen zu halten, soweit Reichsgesetze nichts anderes bestimmen. Enteignung durch das Reich gegenüber Ländern, Gemeinden und gemeinnützigen Verbänden kann nur gegen Entschädigung erfolgen.\nEigentum verpflichtet. Sein Gebrauch soll zugleich Dienst sein für das Gemeine Beste.",
+      "workbook_text_ko": "소유권은 헌법에 의해 보장된다. 내용과 한계는 법률로 명시된다.\n공용징수는 공공복지를 위해서 아울러 법률의 기초에 입각해서만 가능하다. 공용징수는 제국의 법률에 별도의 규정이 없는 한 적당한 보상을 지급하고 이루어진다.\n보상액에 관해 분쟁이 있을 경우는 제국의 법률에 별도의 규정이 없는 한 통상법원에 제소하는 방도가 있어야만 한다.\n주, 시·읍·면 및 공익단체에 대한 제국의 공용징수는 보상을 지급하는 경우에만 행할 수 있다.\n소유권에는 의무가 따른다. 소유권의 사용은 동시에 공익에 대한 봉사여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_029",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "29",
+      "original_text": "財産権は、これを侵してはならない。\n２　財産権の内容は、公共の福祉に適合するやうに、法律でこれを定める。\n３　私有財産は、正当な補償の下に、これを公共のために用ひることができる。",
+      "workbook_text_ko": "①재산권을 침해하여서는 아니 된다.\n②재산권의 내용은 공공복리에 적합하도록 법률로 정한다.\n③사유재산은 정당한 보상 하에 공공목적으로 사용할 수 있다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_151",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "151",
+      "original_text": "Die Ordnung des Wirtschaftslebens muß den Grundsätzen der Gerechtigkeit mit dem Ziele der Gewährleistung eines menschenwürdigen Daseins für alle entsprechen. In diesen Grenzen ist die wirtschaftliche Freiheit des Einzelnen zu sichern.\nGesetzlicher Zwang ist nur zulässig zur Verwirklichung bedrohter Rechte oder im Dienst überragender Forderungen des Gemeinwohls.\nDie Freiheit des Handels und Gewerbes wird nach Maßgabe der Reichsgesetze gewährleistet.",
+      "workbook_text_ko": "경제생활의 질서는 모든 자에게 인간으로서의 가치 있는 생활을 보장할 목적을 갖는 정의의 원칙에 적합하지 않으면 안 된다.\n이러한 제한 내에서도 개인의 경제적 자유는 확보되어야 한다.\n법률상의 강제는 위협당한 권리의 실현을 위하거나 또는 공공복지의 중대한 요구에 부응하기 위해서만 허용된다.\n상업 및 영업의 자유는 제국의 법률에 따라 보장된다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_154",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "154",
+      "original_text": "Das Erbrecht wird nach Maßgabe des bürgerlichen Rechtes gewährleistet.\nDer Anteil des Staates am Erbgut bestimmt sich nach den Gesetzen.",
+      "workbook_text_ko": "상속권은 민법에 따라 보장된다.\n상속재산에 대한 국가의 몫은 법률에 따라 정한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_009",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "9",
+      "original_text": "Das Eigenthum ist unverletzlich. Es kann nur aus Gründen des öffentlichen Wohles gegen vorgängige in dringenden Fällen wenigstens vorläufig festzustellende Entschädigung nach Maaßgabe des Gesetzes entzogen oder beschränkt werden.",
+      "workbook_text_ko": "소유권은 불가침이다. 그것은\n오로지 공공복리의 사유로만 법률에\n따라, 사전보상을 함으로써 [그리고]\n긴급한 경우에는 적어도 잠정적으로\n확정된 보상을 제공함으로써, 수용되\n거나 제한될 수 있다."
+    }
+  ]
+}

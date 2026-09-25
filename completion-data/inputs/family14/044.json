@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_044",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "44",
+    "original_text": "國務總理, 國務委員과 政府委員은 國會에 出席하여 意見을 陳述하고 質問에 應答할 수 있으며 國會의 要求가 있을 때에는 出席答辯하여야 한다.",
+    "workbook_text_ko": "국무총리, 국무위원과 정부위원은 국회에 출석하여 의견을 진술하고 질문에 응답할 수 있으며 국회의 요구가 있을 때에는 출석답변하여야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "US1787_ORIGINAL_ART_V",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "V",
+      "original_text": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.",
+      "workbook_text_ko": "연방의회는 상･하 양원의 3분의 2가 이 헌법에 대한 개정\n의 필요성을 인정할 때에는 헌법 개정을 발의해야 하며, 모\n든 주의 3분의 2 이상의 주의회의 요청이 있을 때에도 개\n정 발의를 위한 헌법회의를 소집해야 한다. 어느 경우에나\n연방의회가 제의하는 비준의 방법으로서 모든 주의 4분의\n3의 주의회에 의한 비준, 또는 모든 주의 4분의 3의 주 헌\n법회의에 의한 비준 중 어느 하나에 따라 비준되는 때에는\n모든 점에서 이 헌법의 일부로서 효력이 발생한다. 다만, 1808년\n전에 이루어지는 개정은 어떠한 방법으로도 제1조 제9항\n제1호 및 제4호에 변경을 가져올 수 없다. 어느 주도 그 주\n의 동의 없이는 상원에서의 동등한 투표권을 박탈당하지\n않는다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_054",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "54",
+      "original_text": "国務大臣及政府委員ハ何時タリトモ各議院ニ出席シ及発言スルコトヲ得",
+      "workbook_text_ko": "국무대신과 정부위원은 언제든지 각 원에 출석하여 발언할 수 있다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_075",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "75",
+      "original_text": "Die Mitglieder der Bundesregierung sowie die von ihnen entsendeten Vertreter sind berechtigt, an allen Beratungen des Nationalrates, des Bundesrates und der Bundesversammlung sowie der Ausschüsse dieser Vertretungskörper teilzunehmen, an den Beratungen des Hauptausschusses des Nationalrates jedoch nur auf besondere Einladung. Sie müssen auf ihr Verlangen jedesmal gehört werden. Der Nationalrat, der Bundesrat und die Bundesversammlung sowie deren Ausschüsse können die Anwesenheit der Mitglieder der Bundesregierung verlangen.",
+      "workbook_text_ko": "연방정부 구성원과 그들이 보낸 대표는 국민의회·연방참사원·연방총회 및 이 대표기관들의 위원회가 하는 모든 심의에 참여할 권리를 가진다. 다만 국민의회 주(主)위원회의 심의에는 특별한 초청이 있는 경우에만 참여할 수 있다. 이들이 요구하면 언제나 발언을 들어야 한다. 국민의회·연방참사원·연방총회 및 그 위원회는 연방정부 구성원의 출석을 요구할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_012",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "12",
+      "original_text": "Quand l'Assemblée nationale ne siège pas, son bureau, contrôlant l'action du Cabinet, peut convoquer le Parlement ; il doit le faire à la demande du tiers des députés ou à celle du président du Conseil des ministres.",
+      "workbook_text_ko": "국민의회가 개최되지 아니한 때에는 그 의장단은 내각의 활동을 감독하며, 국회를 소집할 수 있다. 국민의회 의원의 3분의 1의 청구 또는 국무총\n리(Président du Conseil des Ministres)의 청구가 있을 때에는 의장단은 국\n회를 소집하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_063",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "63",
+      "original_text": "内閣総理大臣その他の国務大臣は、両議院の一に議席を有すると有しないとにかかはらず、何時でも議案について発言するため議院に出席することができる。又、答弁又は説明のため出席を求められたときは、出席しなければならない。",
+      "workbook_text_ko": "내각총리대신 그 밖의 국무대신은 양원 내 의석보유 여부에 관계없이 언제든지 의안에 대하여 발언하기 위하여 각 원(院)에 출석할 수 있다. 또한 답변 또는 설명을 위하여 출석을 요구받은 때에는 출석하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_059",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "59",
+      "original_text": "行政院院長副院長、政務委員、各部部長、各委員會委員長，各對總統負其責任。",
+      "workbook_text_ko": "행정원 원장·부원장, 정무위원, 각 부 부장 및 각 위원회 위원장은 각각 총통에 대하여 책임을 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_071",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "71",
+      "original_text": "立法院開會時，關係院院長及各部會首長得列席陳述意見。",
+      "workbook_text_ko": "立法院 開會時에 關係各院의 院長과 各部 및 會의 長은 立法院에 出席하여 意見을 陳述할 수 있다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_024",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "24",
+      "original_text": "Der Landtag und jeder seiner Ausschüsse können die Anwesenheit jedes Ministers verlangen. Die Minister und die von ihnen bestellten Beauftragten haben zu den Sitzungen des Landtags und seiner Ausschüsse Zutritt. Sie können jederzeit, auch außerhalb der Tagesordnung, das Wort ergreifen. Sie unterstehen der Ordnungsgewalt des Vorsitzenden.",
+      "workbook_text_ko": "주의회와 각 위원회는 어느 장관에게나 출석을 요구할 수 있다. 장관과 그들이 임명한 수임자는 주의회 및 그 위원회의 회의에 출석할 수 있다. 이들은 언제든지 의사일정에 없는 사항에 대해서도 발언할 수 있다. 이들은 회의 의장(위원장 포함)의 질서유지권에 따른다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_065",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "65",
+      "original_text": "Den Vorsitz im Reichsrat und in seinen Ausschüssen führt ein Mitglied der Reichsregierung. Die Mitglieder der Reichsregierung haben das Recht und auf Verlangen die Pflicht, an den Verhandlungen des Reichsrats und seiner Ausschüsse teilzunehmen. Sie müssen während der Beratung auf Verlangen jederzeit gehört werden.",
+      "workbook_text_ko": "제국상원과 산하 위원회의 위원장은 제국정부 소속 위원이 맡는다. 제국정부의 소속 위원은 제국상원과 산하 위원회의 심의에 참석할 권리가 있으며, 요청이 있는 경우 이에 대한 의무를 이행해야 한다.\n제국정부 소속 위원이 요청하면 심의 중 언제라도 그 의견을 들어야 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_060",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "60",
+      "original_text": "Die Minister, so wie die zu ihrer Vertretung abgeordneten Staatsbeamten haben Zutritt zu jeder Kammer und müssen auf ihr Verlangen zu jeder Zeit gehört werden.\nJede Kammer kann die Gegenwart der Minister verlangen.\nDie Minister haben in einer oder der anderen Kammer nur dann Stimmrecht, wenn sie Mitglieder derselben sind.",
+      "workbook_text_ko": "장관과 장관의 대리인으로\n파견되는 국가관료는 의회의 각 원에\n출석할 수 있고 그들이 요구하면 언제든지 그 발언을 들어야 한다.\n의회의 각 원은 장관의 출석을 요\n구할 수 있다.\n장관은 그가 해당 원의 의원일 경우에만\n의회의 한 원 또는 다른 원에서 표결\n권을 가진다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_006",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "6",
+      "original_text": "Le Président de la République communique avec les chambres par des messages qui sont lus à la tribune par un ministre. - Les ministres ont leur entrée dans les deux chambres et doivent être entendus quand ils le demandent. Ils peuvent se faire assister par des commissaires désignés, pour la discussion d'un projet de loi déterminé, par décret du Président de la République.",
+      "workbook_text_ko": "공화국대통령은 교서로 양원과 연락한다. 교서는 장관이 연단(tribune)\n에서 낭독한다.\n장관은 양원에 출입할 수 있으며, 장관이 요구할 때에는 그 의견을 청취하여야 한\n다. 장관은 일정한 정부제출법안의 심의에 대해서 공화국대통령의 명령(décret)으로 임명한 위원이 보좌할 수 있다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_034",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "34",
+      "original_text": "監察委員은 政府主席을 輔佐하여 官公務員의 彈劾 及 懲戒에 關한 事項과 政府의 會計監査에 關한 事項을 管理하고 國務會議에 列席하여 意見을 陳述함",
+      "workbook_text_ko": "감찰위원은 정부주석을 보좌하여 관공무원의 탄핵 및 징계에 관한 사항과 정부의 회계감사에 관한 사항을 관리하고 국무회의에 열석하여 의견을 진술함."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_058",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "58",
+      "original_text": "內閣은 다음의 成員으로서 構成한다.\n一. 首相\n二. 副首相\n三. 國家計劃委員會 委員長\n四. 相\n1. 民族保衛相\n2. 國家檢閱相\n3. 內務相\n4. 外務相\n5. 産業相\n6. 農林相\n7. 商業相\n8. 交通相\n9. 財政相\n10. 敎育相\n11. 遞信相\n12. 司法相\n13. 文化宣傳相\n14. 勞動相\n15. 保健相\n16. 都市經營相\n17. 無任所相\n內閣은 그에 直屬하는 事務局 및 必要한 境遇에는 適當한 部署를 設置할 수 있다.",
+      "workbook_text_ko": "내각은 다음의 성원으로서 구성한다.\n1. 수상\n2. 부수상\n3. 국가계획위원회 위원장\n4. 상\n1. 민족보위상\n2. 국가검열상\n3. 내무상\n4. 외무상\n5. 산업상\n6. 농림상\n7. 상업상\n8. 교통상\n9. 재정상\n10. 교육상\n11. 체신상\n12. 사법상\n13. 문화선전상\n14. 노동상\n15. 보건상\n16. 도시경영상\n17. 무임소상\n내각은 그에 직속하는 사무국 및 필요한 경우에는 적당한 부서를 설치할 수 있다."
+    }
+  ]
+}

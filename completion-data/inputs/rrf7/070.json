@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_070",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "70",
+    "original_text": "大統領은 國務會議의 議長이 된다.\n國務總理는 大統領을 輔佐하며 國務會議의 副議長이 된다.",
+    "workbook_text_ko": "대통령은 국무회의의 의장이 된다.\n국무총리는 대통령을 보좌하며 국무회의의 부의장이 된다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_025",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "25",
+      "original_text": "國務會議는 國務總長 及 國務委員으로써 組織함",
+      "workbook_text_ko": "국무회의는 국무총장 및 국무위원으로써 조직함."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_041",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "41",
+      "original_text": "En cas d'empêchement dûment constaté par un vote du Parlement, en cas de vacance par décès, démission ou toute autre cause, le président de l'Assemblée nationale assure provisoirement l'intérim des fonctions de président de la République ; il sera remplacé dans ses fonctions par un vice-président.\nLe nouveau président de la République est élu dans les dix jours, sauf ce qui est dit à l'article précédent.",
+      "workbook_text_ko": "국회의 표결로 정식으로 확인된 장애의 경우ㆍ사망ㆍ사직 또는 기타 모든 원\n인에 의한 공석의 경우에 국민의회의장은 공화국대통령의 직무대행\n(intérim des fonctions)을 임시로 한다. 국민의회 의장의 직무는 부의장\n(vice-président)이 대행한다.\n새로운 공화국대통령은 전조의 경우를 제외하고 10일 이내에 선출한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_052",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "52",
+      "original_text": "En cas de dissolution, le Cabinet, à l'exception du président du Conseil et du ministre de l'intérieur, reste en fonction pour expédier les affaires courantes.\nLe président de la République désigne le président de l'Assemblée nationale comme président du Conseil. Celui-ci désigne le nouveau ministre de l'intérieur en accord avec le bureau de l'Assemblée nationale. Il désigne comme ministres d'Etat des membres des groupes non représentés au Gouvernement.\nLes élections générales ont lieu vingt jours au moins, trente jours au plus après la dissolution.\nL'Assemblée nationale se réunit de plein droit le troisième jeudi qui suit son élection.",
+      "workbook_text_ko": "해산의 경우, 국무총리와 내무장관(ministre de l'Intérieur)을 제외하\n고 내각은 일상 업무를 수행하기 위하여 직무를 속행한다.\n공화국대통령은 국민의회 의장을 국무총리로서 지명한다. 이 국무총리는\n국민의회의 의장단의 동의에 근거하여 새로운 내무장관을 지명한다. 국무\n총리는 정부에 대표를 두지 아니한 (의회) 교섭단체의 구성원을 국무장관(ministre\nd'État)으로서 지명한다.\n해산 후 20일부터 30일까지의 기간에 총선거(élections générales)를 실시한다.\n국민의회는 총선거 후의 제3 목요일에 당연히 집회한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_047",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "47",
+      "original_text": "Le président du Conseil des ministres assure l'exécution des lois.\nIl nomme à tous les emplois civils et militaires, sauf ceux prévus par les articles 30, 46 et 84.\nLe président du Conseil assure la direction des forces armées et coordonne la mise en oeuvre de la défense nationale.\nLes actes du président du Conseil des ministres prévus au présent article sont contresignés par les ministres intéressés.",
+      "workbook_text_ko": "국무총리는 법률의 집행을 확실히 한다.\n국무총리는 제30조, 제46조와 제84조에 정한 자를 제외하고, 모든 일반공무\n원과 군공무원(emplois civils et militaires)을 임명한다.\n국무총리는 군대의 지휘를 담당하고 또 국방(défense nationale)의 실행을\n조정한다.\n본조에 정한 국무총리의 문서는 관계 장관이 부서한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_032",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "32",
+      "original_text": "Le président de la République préside le Conseil des ministres. Il fait établir et conserve les procès-verbaux des séances.",
+      "workbook_text_ko": "공화국대통령은 국무회의를 주재한다. 대통령은 국무회의의 기록을\n작성케 하고 이를 보관한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_055",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "55",
+      "original_text": "En cas de vacance par décès ou pour toute autre cause, le Conseil des ministres charge un de ses membres d'exercer provisoirement les fonctions de président du Conseil des ministres.",
+      "workbook_text_ko": "사망 기타 모든 원인으로 국무총리가 궐위된 때에는 국무회의는 국무\n총리의 직무를 일시적으로 집행하는 것을 내각 구성원의 1인에게 담당케\n한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_028",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "28",
+      "original_text": "國務總長은 國務委員의 首班으로서 國務會議의 議長이 되며 行政 各部長을 統轄함",
+      "workbook_text_ko": "국무총장은 국무위원의 수반으로서 국무회의의 의장이 되며 행정 각 부장을 통할함."
+    }
+  ]
+}

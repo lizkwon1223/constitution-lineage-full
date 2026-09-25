@@ -1,0 +1,82 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_075",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 '행정각부의 조직'과 '법률로써 정함'이라는 규율 대상·수단·문형에서 대상 조문과 거의 그대로 대응한다. 다만 대상 조문은 '직무범위'를, 후보는 '권한'을 규정하고, 후보 제1항의 각부장 임명 절차는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "규율 대상(행정각부의 조직)",
+          "target_field": "original_text",
+          "target_quote": "行政各部의 組織",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部의 組織",
+          "commonality": "행정각부의 조직을 법정사항으로 삼는 대상이 동일하다",
+          "difference": "후보는 같은 조에 각부장 임명 절차(주석·국무총장 추천)를 함께 규정하나 대상 조문은 조직·직무범위만 다룬다"
+        },
+        {
+          "element": "법정주의 문형 및 병렬 항목",
+          "target_field": "original_text",
+          "target_quote": "組織과 職務範圍는 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "組織 及 權限은 法律로써 定함",
+          "commonality": "조직에 더해 또 하나의 사항을 병렬시키고 '법률로써 정한다'는 동일 어법으로 규율한다",
+          "difference": "병렬 항목이 '직무범위'와 '권한'으로 다르고 어미(定한다/定함)가 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…의 조직은 법률로 정한다'는 일반 법정주의 문형만 같고, 대상 기관(고시원)과 병렬 항목(직무범위 없음)이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법원 조직에 관한 동일 문형일 뿐이며 행정각부·직무범위와의 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법원·각급 법원 조직의 법정주의로, 두 항목을 병렬한다는 형식적 유사성만 있고 주체와 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법기관 조직의 법률유보 문형만 공통되고 행정각부·직무범위와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_106",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "감찰원 조직에 대한 동일 문형이나 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "행정 계통 기관이라는 점은 가깝지만 대상이 '행정원' 자체의 조직이고 각부의 직무범위 규정이 없어 구체적 대응이 약하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'직무범위'라는 표현 자체(후보들은 '권한' 또는 조직만 규정)"
+  ],
+  "limitations": [
+    "문언 대응만 확인했을 뿐 실제 참조 여부 등 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "중화민국 계열 후보들은 '…之組織，以法律定之' 상용 문형이어서 개별 조문 특정이 어렵다."
+  ],
+  "short_answer": "조선임시약헌 제27조 제2항이 '행정각부의 조직 및 권한은 법률로써 정함'으로 규율 대상·수단·문형이 대상 조문과 가장 밀접하게 대응하여 후속 비교 대상으로 유용하다. 공통점은 행정각부의 조직을 법률사항으로 삼고 조직에 또 하나의 사항을 병렬시키는 구조이며, 차이는 병렬 항목이 '직무범위'와 '권한'으로 다르고 후보는 같은 조에 각부장 임명 절차를 함께 둔 점이다. 중화민국 헌법·五五憲草 조문들은 '…의 조직은 법률로 정한다'는 일반 법정주의 문형만 공유하고 대상 기관이 고시원·입법원·사법원·감찰원·행정원으로 달라 일반적 유사에 그친다. 행정원 조항도 행정계통이라는 점 외에 각부 직무범위와의 대응이 없다. 이상은 문언상 대응 판단이며 실제 참조 여부를 확정하는 것은 아니다."
+}

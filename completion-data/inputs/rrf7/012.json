@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_012",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "12",
+    "original_text": "모든 國民은 信仰과 良心의 自由를 가진다.\n國敎는 存在하지 아니하며 宗敎는 政治로부터 分離된다.",
+    "workbook_text_ko": "모든 국민은 신앙과 양심의 자유를 가진다.\n국교는 존재하지 아니하며 종교는 정치로부터 분리된다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_135",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "135",
+      "original_text": "Alle Bewohner des Reichs genießen volle Glaubens- und Gewissensfreiheit. Die ungestörte Religionsübung wird durch die Verfassung gewährleistet und steht unter staatlichem Schutz. Die allgemeinen Staatsgesetze bleiben hiervon unberührt.",
+      "workbook_text_ko": "제국의 모든 주민은 신앙 및 양심의 완전한 자유를 향유한다. 종교행사는 방해됨이 없도록 헌법에 의해서 보장되며 국가의 보호를 받는다. 국가의 일반 법률은 이로 인해 법적 효력을 상실해서는 안 된다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_013",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "13",
+      "original_text": "人民有信仰宗教之自由。",
+      "workbook_text_ko": "人民은 宗敎를 信仰하는 自由를 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_020",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "20",
+      "original_text": "信教の自由は、何人に対してもこれを保障する。いかなる宗教団体も、国から特権を受け、又は政治上の権力を行使してはならない。\n２　何人も、宗教上の行為、祝典、儀式又は行事に参加することを強制されない。\n３　国及びその機関は、宗教教育その他いかなる宗教的活動もしてはならない。",
+      "workbook_text_ko": "①종교의 자유는 누구에게나 이를 보장한다. 어떠한 종교단체도 국가로부터 특권을 받거나 정치적 권력을 행사하여서는 아니 된다.\n②누구든지 종교상의 행위, 축전, 의식 또는 행사에 참가할 것을 강요받지 아니한다.\n③국가 및 그 기관은 종교교육 그 밖의 어떠한 종교적 활동도 하여서는 아니 된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_015",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "15",
+      "original_text": "人民有信仰宗教之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 종교 신앙의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_013",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "13",
+      "original_text": "すべて国民は、個人として尊重される。生命、自由及び幸福追求に対する国民の権利については、公共の福祉に反しない限り、立法その他の国政の上で、最大の尊重を必要とする。",
+      "workbook_text_ko": "모든 국민은 개인으로서 존중된다. 생명, 자유 및 행복추구에 대한 국민의 권리는 공공복리에 반하지 아니하는 한 입법 그 밖의 국정에 있어 최대한 존중된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_022",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "22",
+      "original_text": "何人も、公共の福祉に反しない限り、居住、移転及び職業選択の自由を有する。\n２　何人も、外国に移住し、又は国籍を離脱する自由を侵されない。",
+      "workbook_text_ko": "①누구든지 공공복리에 반하지 아니하는 한 거주･이전 및 직업선택의 자유를 가진다.\n②누구든지 외국에 이주하거나 국적을 이탈할 자유를 침해받지 아니한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_014",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "14",
+      "original_text": "公民은 信仰 및 宗敎儀式擧行의 自由를 가진다.",
+      "workbook_text_ko": "공민은 신앙 및 종교의식 거행의 자유를 가진다."
+    }
+  ]
+}

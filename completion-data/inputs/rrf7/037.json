@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_037",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "37",
+    "original_text": "國會는 憲法 또는 國會法에 特別한 規定이 없는 限 그 在籍議員의 過半數의 出席과 出席議員의 過半數로써 議決을 行한다.\n議長은 議決에 있어서 表決權을 가지며 可否同數인 境遇에는 決定權을 가진다.",
+    "workbook_text_ko": "국회는 헌법 또는 국회법에 특별한 규정이 없는 한 그 재적의원의 과반수의 출석과 출석의원의 과반수로써 의결을 행한다.\n의장은 의결에 있어서 표결권을 가지며 가부동수인 경우에는 결정권을 가진다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_056",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "56",
+      "original_text": "両議院は、各々その総議員の三分の一以上の出席がなければ、議事を開き議決することができない。\n２　両議院の議事は、この憲法に特別の定のある場合を除いては、出席議員の過半数でこれを決し、可否同数のときは、議長の決するところによる。",
+      "workbook_text_ko": "①양원은 각각 그 재적의원 3분의 1 이상이 출석하지 아니하면 개의하여 의결할 수 없다.\n②양원은 이 헌법에 특별한 규정이 있는 경우를 제외하고는 출석의원의 과반수로 의결하고 가부 동수인 경우에는 의장이 결정하는 바에 따른다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_058",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "58",
+      "original_text": "Die Reichsregierung faßt ihre Beschlüsse mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.",
+      "workbook_text_ko": "제국정부는 과반수를 확보한 경우에는 의결권을 행사한다. 가부동수인 경우, 의장이 행사하는 표가 최종 의결권을 행사한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_032",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "32",
+      "original_text": "Zu einem Beschlusse des Reichstags ist einfache Stimmenmehrheit erforderlich, sofern die Verfassung kein anderes Stimmenverhältnis vorschreibt. Für die vom Reichstag vorzunehmenden Wahlen kann die Geschäftsordnung Ausnahmen zulassen.\nDie Beschlußfähigkeit wird durch die Geschäftsordnung geregelt.",
+      "workbook_text_ko": "헌법상 표의 구성 비율을 달리 정하지 않는 한, 제국의회가 의결권을 행사하기 위해서는 단순과반수를 확보해야 한다. 단, 제국의회가 행하는 선거에 대해서는 의사규칙으로 예외를 둘 수 있다.\n의결정족수는 의사규칙으로 정하도록 한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XIV",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XIV",
+      "original_text": "Section 1. The National Assembly, by a vote of three-fourths of all its Members, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 국민의회는 재적의원 4분의 3의 표결로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_016",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "16",
+      "original_text": "立法議院은 本法에 따른 規定이 없는 限 在籍議員 過半數의 出席으로 開會하고 議事는 出席議員 過半數로써 決함",
+      "workbook_text_ko": "입법의원은 본법에 따른 규정이 없는 한 재적의원 과반수의 출석으로 개회하고 의사는 출석의원 과반수로써 결정함."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_080",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "80",
+      "original_text": "Keine der beiden Kammern kann einen Beschluß fassen, wenn nicht die Mehrheit der gesetzlichen Anzahl ihrer Mitglieder anwesend ist. Jede Kammer faßt ihre Beschlüsse nach absoluter Stimmenmehrheit, vorbehaltlich der durch die Geschäftsordnung für Wahlen etwa zu bestimmenden Ausnahmen.",
+      "workbook_text_ko": "의회 각 원은 의원 법정수의\n과반수가 출석하지 않은 경우에는\n의결할 수 없다. 각 원은, 가령 의\n사규칙으로 [원내]선거에 관해 별도\n로 정하는 예외를 제외하고는, 절대\n과반수로 의결한다."
+    }
+  ]
+}

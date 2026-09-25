@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_077",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "77",
+    "original_text": "法官은 憲法과 法律에 依하여 獨立하여 審判한다.",
+    "workbook_text_ko": "법관은 헌법과 법률에 의하여 독립하여 심판한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_088",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "88",
+      "original_text": "考試委員須超出黨派以外，依據法律獨立行使職權。",
+      "workbook_text_ko": "考試委員은 黨派를 超越하고 法律에 依據하여 獨立하여 職權을 行使하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_080",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "80",
+      "original_text": "法官依法律獨立審判。",
+      "workbook_text_ko": "법관은 법률에 따라 독립하여 재판한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_102",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "102",
+      "original_text": "Die Richter sind unabhängig und nur dem Gesetz unterworfen.",
+      "workbook_text_ko": "법관은 독립적이며, 법률에만 복종한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_080",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "80",
+      "original_text": "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。",
+      "workbook_text_ko": "法官은 黨派를 超越하고 法律에 依據하여 獨立하여 裁判하며 如何한 干涉도 받지 아니한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_008",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "8",
+      "original_text": "(1) Die Rechtspflege wird durch unabhängige, nur den Gesetzen unterworfene Gerichte ausgeübt.\n(2) Die Urteile werden im Namen des Volkes verkündet und vollstreckt.",
+      "workbook_text_ko": "(1) 사법은 독립하여 오직 법률에만 구속되는 법원이 행사한다.\n(2) 판결은 국민의 이름으로 선고하고 집행한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_042",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "42",
+      "original_text": "法官은法律에 依하야 良心에 비취워 獨立하여 審判함",
+      "workbook_text_ko": "법관은 법률에 의하여 양심에 비추어 독립하여 심판함."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_076",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "76",
+      "original_text": "すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。\n２　特別裁判所は、これを設置することができない。行政機関は、終審として裁判を行ふことができない。\n３　すべて裁判官は、その良心に従ひ独立してその職権を行ひ、この憲法及び法律にのみ拘束される。",
+      "workbook_text_ko": "①모든 사법권은 최고재판소 및 법률이 정하는 바에 따라 설치되는 하급재판소에 속한다.\n②특별재판소는 설치할 수 없다. 행정기관은 종심(終審)으로서 재판을 할 수 없다.\n③모든 재판관은 양심에 따라 독립하여 그 직권을 행사하며 헌법 및 법률에만 구속된다."
+    }
+  ]
+}

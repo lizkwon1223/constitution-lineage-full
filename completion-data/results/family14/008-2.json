@@ -1,0 +1,227 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_008",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "신체·주거·언론·재산·신교 등 법률유보형 자유권 목록만 규정하고, 대상 조문의 평등원칙·차별금지·특수계급 폐지·영전의 비특권성 어느 요소와도 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "차별사유(성별·신앙 등)를 열거하고 정치·경제·사회 등 생활영역을 병렬 나열하여 동등한 지위를 보장하는 문형이 대상 제1항과 구체적으로 대응한다. 다만 '법률앞에 평등' 선언과 제2·3항(특수계급·영전)에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "차별사유 열거",
+          "target_field": "original_text",
+          "target_quote": "性別, 信仰 또는 社會的 身分에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "性別·民族別·信仰·技術·財産·知識程度의 如何를 不問하고",
+          "commonality": "성별과 신앙을 포함한 사유를 열거해 그에 따른 불평등을 배제한다.",
+          "difference": "대상은 사회적 신분을 들고, 후보는 민족별·기술·재산·지식정도까지 열거해 사유 목록의 범위가 다르다."
+        },
+        {
+          "element": "보장이 미치는 생활영역",
+          "target_field": "original_text",
+          "target_quote": "政治的, 經濟的, 社會的 生活의 모든 領域에 있어서 差別을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家 政治·經濟·社會·文化生活部門에 있어서 同等한 權利를 가진다",
+          "commonality": "정치·경제·사회 영역을 병렬로 열거해 그 전 영역에서 동등한 지위를 규정한다.",
+          "difference": "대상은 '차별을 받지 아니한다'는 금지형이고 후보는 '동등한 권리를 가진다'는 부여형이며, 후보는 문화생활부문을 추가한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "신분(속인법상 지위)을 이유로 권리·자유를 거부·제한하지 못한다는 점에서 차별금지의 취지는 겹치나, 대상의 평등선언·차별사유 열거·특수계급·영전 규율과 규율 구조가 다르고 식민지 시민의 신분법 문제에 특화되어 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_077",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "성별을 이유로 한 불이익 배제라는 요소가 겹치지만, 적용범위가 국가공무원 임명 자격에 한정되어 대상의 일반적 평등·차별금지 조항과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_024",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "열거되지 않은 기타 자유·권리의 헌법상 보장과 법률유보를 정한 규정으로, 평등·차별금지·특수계급·영전과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대배심·이중위험·자기부죄 금지·적법절차·정당보상 수용 등 형사절차와 재산권 규정으로, 대상 조문의 평등 관련 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 발언·표결에 관한 면책특권 규정으로 대상의 평등·차별금지·영전 규율과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법의 평등한 보호(1항)와 귀족 칭호 수여 법률 금지·외국으로부터의 칭호 수령 제한(9항)이 주제상 겹치나, 대상처럼 차별사유를 열거하지 않고 특수계급 창설 금지·영전의 비특권성이라는 문형도 갖추지 않아 요소 대응이 느슨하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_015",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'훈장 및 기타 영전의 수여'라는 어구가 겹치지만, 이는 천황의 수여 권한을 규정한 것으로 수여의 효과를 영예에 한정하고 특권 창설을 부인하는 대상 제3항과 규율 방향이 반대이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률 앞에 평등' 선언에 이어 신분적 특권의 불인정을 병치하는 두 문장 구성이 대상 제1항 전단 및 제2항과 구체적으로 대응한다. 다만 차별사유 열거·생활영역 열거·영전 조항에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "법률 앞의 평등 선언",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律앞에 平等이며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Preußen sind vor dem Gesetze gleich.",
+          "commonality": "국민 전체를 주체로 '법률 앞의 평등'을 선언하는 동일한 문형이다.",
+          "difference": "후보는 평등 선언에 그치고 대상처럼 성별·신앙·사회적 신분을 사유로 한 차별금지를 이어 붙이지 않는다."
+        },
+        {
+          "element": "신분적 특권·특수계급의 부인",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Standesvorrechte finden nicht statt.",
+          "commonality": "신분에 따른 특권·특수계급을 인정하지 않는다는 부인 규정이다.",
+          "difference": "대상은 '제도'의 불인정에 더해 장래의 창설까지 금지하나, 후보는 기존 신분특권의 불인정만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법 앞의 평등 선언과 출생·성별·신분·계급·신앙에 따른 특권 배제를 결합한 구성이 대상 제1항의 사유 열거 및 제2항의 특수계급 부인과 부분적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "평등 선언과 사유별 특권 배제",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律앞에 平等이며 性別, 信仰 또는 社會的 身分에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Bundesbürger sind vor dem Gesetz gleich. Vorrechte der Geburt, des Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind ausgeschlossen.",
+          "commonality": "법 앞의 평등을 선언한 뒤 성별·신분·신앙을 사유로 든다는 점이 겹친다.",
+          "difference": "후보는 그 사유에 따른 '특권'을 배제하는 형식이고, 대상은 정치·경제·사회 생활 전 영역에서의 '차별금지'로 효과를 정한다. 후보는 출생·계급을 추가로 든다."
+        },
+        {
+          "element": "계급 관련 특권 배제",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며 如何한 形態로도 이를 創設하지 못한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Vorrechte der Geburt, des Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind ausgeschlossen",
+          "commonality": "신분·계급에 결부된 특권을 헌법상 배제한다.",
+          "difference": "대상은 '제도'의 불인정과 장래 창설 금지라는 이중 규율인 반면 후보는 특권의 배제만을 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_109",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법률 앞의 평등, 출생·신분에 따른 공법상 특권 폐지, 훈장·영전 관련 규율이라는 세 요소가 대상 제1~3항의 편성과 대응한다. 다만 영전 조항의 효과(수여 금지 대 특권 부인)는 다르다.",
+      "evidence": [
+        {
+          "element": "법률 앞의 평등",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律앞에 平等이며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Deutschen sind vor dem Gesetze gleich.",
+          "commonality": "국민 전체를 주체로 법률 앞의 평등을 첫머리에 선언한다.",
+          "difference": "후보는 남녀의 동일한 공민권을 별도 문장으로 두는 반면 대상은 성별을 차별금지 사유로 열거한다."
+        },
+        {
+          "element": "신분적 특권·특수계급 부인",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며 如何한 形態로도 이를 創設하지 못한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Öffentlich-rechtliche Vorrechte oder Nachteile der Geburt oder des Standes sind aufzuheben.",
+          "commonality": "출생·신분에 기초한 특권적 지위를 헌법으로 배제한다는 취지가 공통된다.",
+          "difference": "후보는 기존 특권·불이익의 '폐지'와 귀족칭호 수여 금지로 구체화하고, 대상은 특수계급 '제도'의 불인정과 창설금지로 포괄 규정한다."
+        },
+        {
+          "element": "훈장·영전의 규율",
+          "target_field": "original_text",
+          "target_quote": "勳章과 其他 榮典의 授與는 오로지 그 받은 者의 榮譽에 限한 것이며 如何한 特權도 創設되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Orden und Ehrenzeichen dürfen vom Staat nicht verliehen werden.",
+          "commonality": "훈장 등 영전을 평등조항 안에서 함께 다룬다.",
+          "difference": "후보는 국가의 수여 자체를 금지하나, 대상은 수여를 허용하되 효과를 영예에 한정하고 특권 창설을 부인한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "차별사유 열거, 생활영역 병렬, 특수·귀족 계급 제도 불인정, 영전의 무특권이라는 세 항의 구성과 문형이 대상 조문과 항 단위로 대응한다.",
+      "evidence": [
+        {
+          "element": "평등 선언과 차별금지 사유·영역",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律앞에 平等이며 性別, 信仰 또는 社會的 身分에 依하여 政治的, 經濟的, 社會的 生活의 모든 領域에 있어서 差別을 받지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、法の下に平等であつて、人種、信条、性別、社会的身分又は門地により、政治的、経済的又は社会的関係において、差別されない。",
+          "commonality": "'모든 국민은 법 앞에 평등'에 이어 성별·사회적 신분 등 사유와 정치적·경제적·사회적 영역을 열거해 차별금지를 규정하는 동일 문형이다.",
+          "difference": "후보는 인종·신조·문지를 열거하나 대상은 '신앙'을 들고, 대상은 '생활의 모든 영역'으로 범위를 확장한 표현을 쓴다."
+        },
+        {
+          "element": "특수계급 제도의 불인정",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며 如何한 形態로도 이를 創設하지 못한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "華族その他の貴族の制度は、これを認めない。",
+          "commonality": "특권적 신분제도를 '제도'로서 인정하지 않는다는 규정을 독립 항으로 둔다.",
+          "difference": "후보는 화족·귀족이라는 기존 제도를 특정해 불인정하는 데 그치고, 대상은 '사회적 특수계급'으로 일반화하며 장래의 창설까지 금지한다."
+        },
+        {
+          "element": "영전 수여의 효과",
+          "target_field": "original_text",
+          "target_quote": "勳章과 其他 榮典의 授與는 오로지 그 받은 者의 榮譽에 限한 것이며 如何한 特權도 創設되지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "栄誉、勲章その他の栄典の授与は、いかなる特権も伴はない。",
+          "commonality": "훈장 기타 영전의 수여에 어떠한 특권도 결부되지 않는다는 효과 규정이 어구 수준에서 대응한다.",
+          "difference": "후보는 효력을 수여 대상자의 '일대(一代)'로 한정하는 규정을 덧붙이는 반면, 대상은 효과를 '그 받은 자의 영예에 한한 것'으로 표현하고 특권의 '창설'을 부인한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "열거되지 않은 기타 자유·권리에 대한 헌법 보장 규정으로, 평등·차별금지·특수계급·영전 요소와 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'오로지 그 받은 자의 영예에 한한 것'이라는 영전 효과의 적극적 한정 표현",
+    "차별금지 사유로 '신앙'을 채택하고 인종·문지를 제외한 선택",
+    "'여하한 형태로도 이를 창설하지 못한다'는 장래 창설 금지의 문언"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며, 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어·중국어 후보는 원문 문언을 기준으로 비교했고 워크북 번역문의 어감 차이는 반영하지 않았다."
+  ],
+  "short_answer": "일본국헌법 제14조가 세 개 항의 구성(차별금지 사유·영역 열거, 특권적 신분제도 불인정, 영전의 무특권)에서 대상 조문과 가장 촘촘하게 대응한다. 바이마르헌법 제109조는 법률 앞 평등·출생과 신분에 따른 특권 폐지·훈장 관련 규율이라는 소재 편성이 유사하나 영전에 대해서는 수여 자체를 금지해 효과가 반대이다. 프로이센헌법 제4조와 오스트리아 연방헌법 제7조는 '법(률) 앞의 평등' 선언에 신분·계급 특권의 배제를 병치하는 문형에서 제1항 전단 및 제2항과 대응한다. 북조선 헌법안 제11조는 성별·신앙 등 사유 열거와 정치·경제·사회 생활영역의 병렬이라는 점에서 제1항과 대응하지만 평등 선언과 영전 조항은 없다. 이들은 모두 문언상 대응이며, 실제 참조 관계의 확정은 제공 본문만으로는 불가능하다."
+}

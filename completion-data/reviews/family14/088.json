@@ -1,0 +1,64 @@
+{
+  "article": 88,
+  "reviewed_at": "2026-09-22T16:26:09.898411+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "0436ffc6cb94426aee690ccb60d034094db72ec30f231512915a999f832394ef",
+  "input_sha256": "388f511339a86c391ffc3378d9188f20c706068893b2bef4648b9cccd016b076",
+  "responses": [
+    {
+      "job_id": "088_536a8eb3a01c_r1",
+      "repeat": 1,
+      "sha256": "69b6d85dbc5ae29127af4d890cb8d8a6ac3cf9d1e38eb9b1ef566713ecce59e2",
+      "assessment": "목적·긴절한 필요·이전·관리의 요소를 잘 구분함. 국영과 국유의 개념 차이는 공통점에서도 유지해야 함."
+    },
+    {
+      "job_id": "088_536a8eb3a01c_r2",
+      "repeat": 2,
+      "sha256": "8fb3872bf7acbb04c8a0f8f11f255f2578a5e7a17265ac2dca7588124fc9ab10",
+      "assessment": "바이마르의 긴급 필요가 기업 통합에 붙는 조건임을 정확히 구별함. 공영을 공유로 바로 치환하지 않아야 함."
+    },
+    {
+      "job_id": "088_536a8eb3a01c_r3",
+      "repeat": 3,
+      "sha256": "17dba769fd5ebe71c27456e29bab65782553f81f16bbd07f6c228d5f6a75aae2",
+      "assessment": "핵심 요소 대조는 적절하나 필리핀 제4절의 의회 수권을 제6절 기업 이전에 적용한 부분은 오류임."
+    }
+  ],
+  "synthesis": "필리핀 제12조 제6절은 국민복리·국방 목적의 사영기업 공공소유 이전과 정부 운영에 대응하며 정당보상을 명시함. 바이마르 제156조는 법률상 공유 이전과 경영 참여·영향력 확보를 나누고, 긴급 필요는 별도의 기업·단체 통합 조치에 붙임. 중화민국 초안 제123조는 특허된 사영사업을 대상으로 국방상 긴급수요에 따른 임시 관리와 법률에 의한 공영 전환을 정함. 약헌의 국영·국가 관리는 운영·관리 수단의 부분 대응임. 국영·공영은 경영 형태이고 국유·공유는 소유 귀속이므로 같은 효과로 치환하지 않음. 대상 조문에 보상 문구가 없다는 사실은 확인되지만 보상 배제를 뜻한다고 단정하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "type": "cross_clause_conflation",
+      "finding": "필리핀 기업의 공공소유 이전을 국민의회의 수권 방식이라고 설명하나 제6절은 국가의 권한이며 의회 수권은 토지 관련 제4절임.",
+      "action": "제6절의 행위 주체와 제4절의 절차를 분리함.",
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "ownership_operation_conflation",
+      "finding": "약헌의 국영·국가 관리 또는 중화민국의 공영 전환을 공통점에서 곧바로 국가 소유·공적 소유 이전으로 설명함.",
+      "action": "경영·관리 수단과 소유권 이전을 구별하여 대응 강도를 조정함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "국민생활상 필요의 병렬을 미설명 요소로 넣으면서 필리핀의 국민복리와 직접 대응한다고 인정함.",
+      "action": "대응이 전혀 없는 요소와 어휘·정도 차이를 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

@@ -1,0 +1,111 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_064",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(원수)·근거(依法)·행위(계엄 선포)가 그대로 대응하는 단문 규정으로, 문형과 규율 요소가 거의 일치한다. 다만 해엄(解嚴) 선포까지 포함하는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "계엄 선포 권한의 주체와 근거",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴",
+          "commonality": "국가원수가 법률에 따라 계엄을 선포한다는 주체·근거·행위 구성이 동일하다.",
+          "difference": "대상은 '대통령', 후보는 '총통'이며, 대상은 단문 1항으로 끝나는 반면 후보는 같은 문장에서 해엄까지 규정한다."
+        },
+        {
+          "element": "계엄 해제에 관한 규율 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 계엄을 선포한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "宣布戒嚴解嚴",
+          "commonality": "계엄 관련 권한을 원수에게 집중시키는 취지가 공통된다.",
+          "difference": "후보는 해엄 선포를 명시하나 대상 조문에는 해제에 관한 문언이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'總統依法…' 문형만 공유할 뿐 대상 요소는 계엄이 아니라 문무관 임면으로 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "동일한 '依法' 문형이나 권한 내용이 사면·감형·복권으로 대상 조문의 계엄과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_037",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률 공포·명령 발포와 부서 요건을 다루어 대상 조문의 계엄 선포와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법안제출·공포·은사·군대지휘·임명·부서를 열거할 뿐 계엄 선포에 대한 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통은 법률이 정하는 바에 의하여 계엄을 선포한다'는 전단이 대상 조문과 주체·근거·행위에서 직접 대응한다. 다만 입법원의 동의·추인 및 해엄 요구라는 절차적 통제가 대상에는 없다.",
+      "evidence": [
+        {
+          "element": "계엄 선포의 주체·근거·행위",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 戒嚴을 宣布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴",
+          "commonality": "원수가 법률에 의거해 계엄을 선포한다는 문형과 규율 요소가 일치한다.",
+          "difference": "주체가 대통령과 총통으로 다르고, 대상은 선포 요건 외 부가 절차를 두지 않는다."
+        },
+        {
+          "element": "의회의 동의·추인 등 절차적 통제",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 계엄을 선포한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但須經立法院之通過或追認",
+          "commonality": "계엄 선포를 법적 통제 아래 두려는 취지를 공유한다.",
+          "difference": "후보는 입법원의 통과·추인을 헌법상 요건으로 명시하나, 대상은 이를 '법률의 정하는 바'에 위임하고 의회 동의 절차를 규정하지 않는다."
+        },
+        {
+          "element": "계엄 해제 요구권",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院認為必要時，得決議移請總統解嚴",
+          "commonality": "계엄 존속에 관한 규율 영역을 다룬다는 점에서 관련된다.",
+          "difference": "후보는 의회의 해엄 요구 결의를 규정하지만 대상 조문에는 해당 효과·절차가 전혀 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_042",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法' 문형만 유사하고 영전 수여라는 별개 권한을 규율한다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "계엄의 종류·요건·효력을 정할 '법률'의 내용 위임 범위",
+    "계엄 선포에 대한 국회의 관여나 해제 절차가 대상 조문에 없는 이유"
+  ],
+  "limitations": [
+    "제시된 본문만으로는 문언 대응 여부만 확인할 수 있고 실제 참조·계수의 역사적 사실은 확정할 수 없다.",
+    "후보의 한국어 워크북 번역이 대상 조문과 동일한 관용구로 옮겨져 있어 문형 유사성이 과대평가될 수 있으므로 원문(依法) 기준으로 비교했다."
+  ],
+  "short_answer": "계엄 선포를 직접 규율하는 五五憲草 제40조와 중화민국헌법 제39조가 대상 조문과 문언상 대응한다. 두 후보 모두 '總統依法宣布戒嚴'이라는 주체·근거·행위 구성을 공유하여 '대통령은 법률의 정하는 바에 의하여 계엄을 선포한다'와 거의 동일한 문형을 보인다. 다만 五五憲草는 해엄 선포까지 함께 규정하고, 1947년 헌법 제39조는 입법원의 통과·추인 요건과 해엄 요구 결의라는 절차적 통제를 추가한 반면, 대상 조문은 이러한 의회 관여나 해제 절차를 두지 않고 세부 사항을 법률에 위임한다. 나머지 후보들은 '依法' 문형이나 원수 권한 열거라는 일반적 유사성만 있을 뿐 계엄이라는 규율 대상이 다르다. 이 대응은 문언 차원의 것이며 실제 참조 여부는 제공 자료만으로 확정할 수 없다."
+}

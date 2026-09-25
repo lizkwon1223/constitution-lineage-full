@@ -1,0 +1,90 @@
+{
+  "article": 53,
+  "reviewed_at": "2026-09-22T15:54:01.991829+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "bd59803105e6aab41525682b51adab8c13ef4e4bac4d0f16b4ff0c69f48e6624",
+  "input_sha256": "2f20d2a6b13137c328ecf6a6a140d893403610b0d3ea51aa32276ced3cf2e1e8",
+  "responses": [
+    {
+      "job_id": "053_0c9871a81cf4_r1",
+      "repeat": 1,
+      "sha256": "5cc90db701e197b1f05e6bc2072118ddd4393bd9b9a32345e97062b8137798c4",
+      "assessment": "약헌의 선거·정족수·결선, 미국의 분리투표와 부통령 재선출 등을 잘 포착함. 약헌의 최초 선거 한정이 종합답변에서 생략되고 필리핀 겸임을 반대 규율로 단정함. 프로이센 의석 상실을 영구적인 직위 양립 금지로 읽은 부분도 수정이 필요함."
+    },
+    {
+      "job_id": "053_0c9871a81cf4_r2",
+      "repeat": 2,
+      "sha256": "30e68f06dcf2937c87453e3fce745d0497d487381f8dbe71f8b3f3d6d1c238f8",
+      "assessment": "선거 주체·이중 정족수·3단계 투표를 분리하고 약헌의 최초 선거 예외를 증거에서 명확히 구분함. 종합답변에서도 그 적용 범위를 유지해야 하며 필리핀의 내각 겸임과 국무총리 겸직은 구별해야 함."
+    },
+    {
+      "job_id": "053_0c9871a81cf4_r3",
+      "repeat": 3,
+      "sha256": "ec040dd8c1a0cf2cb094ccd6d4ad68b166ba1bdada0dd560d72dfa26324e6b89",
+      "assessment": "약헌의 최초 선거 단서와 두 단계·세 단계 차이를 후보별로 잘 설명함. 프로이센의 재선 가능한 의석 상실 및 필리핀의 내각원·부처장 겸임에 관한 해석은 보정이 필요함."
+    }
+  ],
+  "synthesis": "약헌 제19조의 의회 선거·무기명·재적 3분의 2 출석·출석 3분의 2 득표·상위 2인 결선은 구체적으로 대응함. 다만 국민투표 선거가 원칙이고 해당 의회 절차는 시행 후 최초 선거의 예외임. 제헌헌법은 일반적인 국회 선거를 정하고 한 번의 추가 투표 후 결선으로 가는 3단계를 둠. 미국 수정 제12조의 별개 투표와 부통령의 상위 2인 상원 선출, 오스트리아의 과반 미달 시 결선은 범위를 한정해 비교함. 출석·당선의 분모와 선거·개정·해임의 적용 사안을 구분함. 대통령·부통령의 국무총리·국회의원 겸직 금지는 부처장 겸임이나 재선 가능한 의석 상실과 동일한 규칙이 아님.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_019",
+      "type": "summary_qualification_omission",
+      "severity": "material",
+      "finding": "증거란에서는 최초 선거 한정과 국민투표 원칙을 설명하지만 종합답변은 의회 선거 대응을 그 한정 없이 요약함.",
+      "action": "약헌의 최초 선거 예외라는 적용 범위를 핵심 해설에 항상 병기함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "type": "office_conflation",
+      "severity": "material",
+      "finding": "부통령의 내각원·행정부처장 겸임 허용을 대통령·부통령의 국무총리·국회의원 겸직 금지와 반대 방향이라고 단정함. 비교되는 겸임 직위가 다름.",
+      "action": "직위 조합이 다른 규정으로 설명하고 직접 모순이라고 표현하지 않음."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "PR1850_ORIGINAL_ART_078",
+      "type": "effect_misinterpretation",
+      "severity": "material",
+      "finding": "공직 취임에 따른 의석·표결권 상실을 공직과 의원직의 양립 불가로 설명함. 원문은 새로운 선거로 의원 지위를 회복하는 길을 인정하므로 영구적 불겸직과 동일하지 않음.",
+      "action": "공직 취임에 따른 의석 상실 및 재선 필요 규정과 겸직 금지를 분리함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "minor",
+      "finding": "프랑스 두 조문의 의회에 의한 대통령 선출을 나머지 절차 부재 때문에 선택하지 않음. 다른 회차는 해당 요소에 한정해 선택함.",
+      "action": "선출 주체의 부분 대응을 병기함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "AT1920_1929RECAST1930_ART_060",
+      "type": "selection_threshold",
+      "severity": "minor",
+      "finding": "과반 미달 시 상위 2인 결선 구조를 국민 직접선거라는 차이 때문에 제외함.",
+      "action": "선출 주체와 결선 구조를 별도 요소로 비교함."
+    }
+  ],
+  "limits": [
+    "약헌 원문에 남은 판독 표지 最■[初]는 입력 상태 그대로 보존함.",
+    "총원·재적, 출석의원·유효투표·주 수를 동일한 분모로 취급하지 않음."
+  ]
+}

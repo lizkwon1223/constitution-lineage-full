@@ -1,0 +1,78 @@
+{
+  "article": 22,
+  "reviewed_at": "2026-09-22T15:23:23.967347+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "483d6dca039bddb9b40c1337f46d4a45a4bc6471e050d6217e91305f4d4893f1",
+  "input_sha256": "6d37ed2df35aae6af936ef8d56963c6e5ed120e7a89906ef731da5b92a39e884",
+  "responses": [
+    {
+      "job_id": "022_39d3f29b0ced_r1",
+      "repeat": 1,
+      "sha256": "305ee36b2f47c5d07945f9d90d138f2aa1dd7d0cff769ed60b49589d9fd04cd6",
+      "assessment": "법정법관 보장을 일본 1889년·프로이센·오스트리아와, 일반적 재판받을 권리를 일본 1946년과 연결한 주요 판단은 타당함. 프로이센의 예외법원 금지와 오스트리아의 법정 요건 아래 허용을 요약에서 명확히 나눌 필요가 있음. 국민이라는 주체 표기의 차이를 독립된 미설명 요소로 강조하는 것은 과도함."
+    },
+    {
+      "job_id": "022_39d3f29b0ced_r2",
+      "repeat": 2,
+      "sha256": "1cffff1357cef2394d348c433d00375ecb51ec977a7fcffa5bd8301eee2d55be",
+      "assessment": "주요 네 후보의 대응 범위는 타당함. 프랑스 1875년 제12조 검토가 누락되어 14개 후보 전체에 대한 응답으로는 불완전함. 일본 제32조의 주체는 국민에 한정되지 않는 何人も이며, 법관 법정성을 명시하지 않았다는 사실을 이를 요구하지 않는다는 결론으로 확대하지 않아야 함."
+    },
+    {
+      "job_id": "022_39d3f29b0ced_r3",
+      "repeat": 3,
+      "sha256": "941d1fbf3b575a9be83da6e3a2c1ac9acfda7ca27407321e14550fbee48da00a",
+      "assessment": "법정법관·재판권·법률에 의한 재판을 나눈 핵심 분석은 타당함. 프랑스 1875년 제12조 검토가 누락됨. 모든 국민이라는 표기의 고유성을 과장하지 않고 신민·누구든지라는 주체 표현과 범위의 차이로 정리할 필요가 있음."
+    }
+  ],
+  "synthesis": "일본 1889년 제24조는 법률이 정한 재판관의 재판을 받을 권리라는 문형에서 가장 직접적으로 대응함. 프로이센 제7조와 오스트리아 제83조 제2항도 법정법관에게서 이탈되지 않을 지위를 보장함. 다만 프로이센은 예외법원과 특별위원회를 금지하고 오스트리아는 형사절차법이 정한 경우 예외법원을 허용하므로 두 후보의 추가 규율은 서로 다름. 일본 1946년 제32조는 재판소에서 재판을 받을 권리에 대응하며 주체를 누구든지로 표현함. 제헌헌법의 법률에 의한 재판이라는 준거 요소는 제시 후보의 법원 조직·관할 법률유보 또는 소송 제기권과 구분됨. 프랑스 후보는 대통령·장관 등의 소추·재판 절차에 관한 것으로 일반적인 재판청구권과 직접 대응하지 않으나, 2·3회 응답은 해당 후보를 아예 검토하지 않았으므로 미선택으로 집계하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_012",
+      "type": "missing_candidate_review",
+      "severity": "material",
+      "finding": "제공된 프랑스 1875년 제12조에 대한 후보 검토가 없음.",
+      "action": "판단 누락으로 표시하고 부정 판단과 구분함. 해당 원문은 소추·특별 재판기관의 절차를 규율한다는 사후 검토를 별도로 붙임."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "subject_precision",
+      "severity": "minor",
+      "finding": "모든 국민이라는 표기와 적극적 권리 형식을 미설명 요소로 강조하지만 신민 일반 또는 누구든지라는 보장 주체와 부분 대응함.",
+      "action": "표현 및 권리 주체 범위의 차이로 정리하며 보편성 자체가 대상에만 있다고 표현하지 않음."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "AT1920_1929RECAST1930_ART_083",
+      "type": "summary_precision",
+      "severity": "minor",
+      "finding": "요약에서 프로이센·오스트리아의 예외법원 규율을 함께 압축하여 금지와 허용의 차이가 흐려짐.",
+      "action": "프로이센은 금지, 오스트리아는 법정 경우 허용임을 구분함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_032",
+      "type": "scope_precision",
+      "severity": "minor",
+      "finding": "共에서 국민 일반이라고 서술하고 법관 법정성을 요구하지 않는다고 표현함. 원문은 何人も이며 그 추가 요건을 별도로 명시하지 않음.",
+      "action": "주체는 누구든지로 적고 해당 조문에서 명시하지 않았다는 관찰로 한정함."
+    }
+  ],
+  "limits": [
+    "법원 조직의 법률유보와 개별 재판의 법률 적합성을 동일한 보장으로 취급하지 않음.",
+    "박탈 금지형과 권리 부여형의 문장 차이만으로 권리의 실효성이나 강약을 판단하지 않음."
+  ]
+}

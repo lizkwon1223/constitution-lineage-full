@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_066",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "66",
+    "original_text": "大統領의 國務에 關한 行爲는 文書로 하여야 하며 모든 文書에는 國務總理와 關係國務委員의 副署가 있어야 한다. 軍事에 關한 것도 또한 같다.",
+    "workbook_text_ko": "대통령의 국무에 관한 행위는 문서로 하여야 하며 모든 문서에는 국무총리와 관계국무위원의 부서가 있어야 한다. 군사에 관한 것도 또한 같다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_038",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "38",
+      "original_text": "Chacun des actes du président de la République doit être contresigné par le président du Conseil des ministres et par un ministre.",
+      "workbook_text_ko": "공화국대통령의 문서는 각각 국무총리(Président du Conseil des\nMinistres)와 1인의 장관이 부서하여야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_047",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "47",
+      "original_text": "Le président du Conseil des ministres assure l'exécution des lois.\nIl nomme à tous les emplois civils et militaires, sauf ceux prévus par les articles 30, 46 et 84.\nLe président du Conseil assure la direction des forces armées et coordonne la mise en oeuvre de la défense nationale.\nLes actes du président du Conseil des ministres prévus au présent article sont contresignés par les ministres intéressés.",
+      "workbook_text_ko": "국무총리는 법률의 집행을 확실히 한다.\n국무총리는 제30조, 제46조와 제84조에 정한 자를 제외하고, 모든 일반공무\n원과 군공무원(emplois civils et militaires)을 임명한다.\n국무총리는 군대의 지휘를 담당하고 또 국방(défense nationale)의 실행을\n조정한다.\n본조에 정한 국무총리의 문서는 관계 장관이 부서한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_030",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "30",
+      "original_text": "政府主席이 署名한 法律、命令 及 條約의 發表 其他 國務에 關한 文書에는 國務總長 及 各國務委員 또는 主務行政部長이 副署하여야 함 副署로써 立法議院에 對하여 責任을 짐",
+      "workbook_text_ko": "정부주석이 서명한 법률·명령 및 조약의 발표, 기타 국무에 관한 문서에는 국무총장 및 각 국무위원 또는 주무 행정부장이 부서하여야 함. 부서로써 입법의원에 대하여 책임을 짐."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_026",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "26",
+      "original_text": "國務總長 及 國務委員은 政府主席이 任命하되 立准議院의 認准을 要함 國務委員은 十人 以上 十五人 以內로 함",
+      "workbook_text_ko": "국무총장 및 국무위원은 정부주석이 임명하되 입법의원의 인준을 요함. 국무위원은 10인 이상 15인 이내로 함."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_066",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "66",
+      "original_text": "内閣は、法律の定めるところにより、その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する。\n２　内閣総理大臣その他の国務大臣は、文民でなければならない。\n３　内閣は、行政権の行使について、国会に対し連帯して責任を負ふ。",
+      "workbook_text_ko": "①내각은 법률이 정하는 바에 따라 수장인 내각총리대신과 그 밖의 국무대신으로 구성한다.\n②내각총리대신 그 밖의 국무대신은 문민(文民)이어야 한다.\n③내각은 행정권의 행사에 관하여 국회에 대하여 연대하여 책임을 진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_003",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "3",
+      "original_text": "天皇の国事に関するすべての行為には、内閣の助言と承認を必要とし、内閣が、その責任を負ふ。",
+      "workbook_text_ko": "천황의 국사에 관한 모든 행위는 내각의 조언과 승인을 필요로 하며, 내각이 그 책임을 진다."
+    }
+  ]
+}

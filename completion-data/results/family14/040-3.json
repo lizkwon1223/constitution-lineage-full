@@ -1,0 +1,218 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_040",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_074",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "이의(Einspruch)→재의결→3분의 2 다수→대통령의 공포라는 흐름이 대상 조문의 이의·환부·재의·확정 구조와 형식적으로 닮았으나, 이의 주체가 집행부(대통령)가 아니라 제국상원(Reichsrat)이고, 재의결 불일치 시 국민표결이라는 전혀 다른 해결수단이 결합되어 있으며 기간도 2주·3개월로 다르다. 정족수도 '3분의 2 다수'뿐이어서 재적 2/3 출석+출석 2/3 찬성이라는 대상의 이중 요건과 규율 요소가 일치하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_061",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제3항의 '특별한 규정이 없는 한 일정 기간 경과로 효력 발생'이라는 시행일 규율과, 법률 공포 기한 규정이 구체적으로 대응한다. 다만 기간(14일/1개월)과 기산점, 공포 주체가 다르므로 대응 범위는 시행일·공포기한 요소에 한정한다.",
+      "evidence": [
+        {
+          "element": "법률의 시행일(특별 규정 유보)",
+          "target_field": "original_text",
+          "target_quote": "法律은 特別한 規定이 없는 限 公布日로부터 20日을 經過함으로써 效力을 發生한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Wenn das Gesetz nichts anderes bestimmt, tritt es mit dem vierzehnten Tage nach Ausgabe des die Verkündung enthaltenden Stückes der Gesetzsammlung in Kraft.",
+          "commonality": "법률에 다른 정함이 없으면 일정 일수 경과 후 당연히 효력이 발생한다는 보충규정 형식이 같다.",
+          "difference": "기간이 20일과 14일로 다르고, 기산점이 '공포일'과 '공포를 수록한 법령집 발행일'로 다르다."
+        },
+        {
+          "element": "공포 기한",
+          "target_field": "original_text",
+          "target_quote": "政府로 移送되어 15日 以內에 大統領이 公布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Gesetze sind binnen Monatsfrist zu verkünden.",
+          "commonality": "법률 공포에 확정된 기한을 두어 공포를 의무화한다.",
+          "difference": "기한이 15일과 1개월로 다르고, 공포 주체가 대통령과 주내각(Staatsministerium)으로 다르며, 후보에는 이송·환부·기간도과 확정 효과가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_073",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'재적(총원) 3분의 2 이상 출석 + 출석의원 3분의 2 이상'이라는 이중 정족수 문형이 대상의 재의결 요건과 수치·분모까지 일치한다. 다만 적용 국면이 헌법개정 의결이어서 대응은 정족수 문형 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "재의결 정족수(재적 2/3 출석·출석 2/3 찬성)",
+          "target_field": "original_text",
+          "target_quote": "國會의 在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院ハ各々其ノ総員三分ノ二以上出席スルニ非サレハ議事ヲ開クコトヲ得ス出席議員三分ノ二以上ノ多数ヲ得ルニ非サレハ改正ノ議決ヲ為スコトヲ得ス",
+          "commonality": "의사정족수를 총원(재적) 3분의 2, 의결정족수를 출석의원 3분의 2로 이중 설정하는 동일한 수치·분모 구조다.",
+          "difference": "후보는 칙명에 의한 헌법개정안 의결 요건이고 양원 각각에 적용되며, 대상은 대통령 환부 후 법률안 재의결 요건으로서 가결 시 '법률로서 확정'되는 효과가 붙는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법령을 일정 기간(5일) 내에 공포한다는 점만 겹치고, 공포 주체가 최고인민회의 상임위원회 위원장·서기장의 서명 공포이며 이의·환부·재의·기간도과 확정 등 대상의 핵심 규율 요소가 전혀 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_071",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법기관이 송부한 의결안을 총통이 도달 후 30일 내 공포한다는 단순 공포기한 규정으로, 기간·기산점이 다르고 이의서 환부·재의·확정 효과가 없어 공포기한이라는 일반적 주제 공통에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'정부로의 이송'을 기산점으로 한 대통령의 공포기한과, 그 기간 내에 이유를 붙인 문서로 의회에 재심의를 요구하는 구조가 대상의 제1항 전단·단서와 구체적으로 대응한다. 다만 2/3 재의결에 의한 확정과 기간도과 확정 효과는 후보에 없다.",
+      "evidence": [
+        {
+          "element": "이송 기산 공포기한",
+          "target_field": "original_text",
+          "target_quote": "國會에서 議決된 法律案은 政府로 移送되어 15日 以內에 大統領이 公布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Président de la République promulgue les lois dans le mois qui suit la transmission au Gouvernement de la loi définitivement adoptée.",
+          "commonality": "확정 의결된 법률이 정부로 이송된 때를 기산점으로 삼아 대통령이 정해진 기간 내에 공포한다는 구성이 같다.",
+          "difference": "기간이 15일과 1개월로 다르고, 후보에는 긴급선언 시 3일 공포 특칙이 있으며 기간 도과의 효과 규정이 없다."
+        },
+        {
+          "element": "이의에 의한 재의 요구",
+          "target_field": "original_text",
+          "target_quote": "異議가 있는 때에는 大統領은 異議書를 附하여 國會로 還付하고 國會는 再議에 附한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "le Président de la République peut, par un message motivé, demander aux deux chambres une nouvelle délibération qui ne peut être refusée",
+          "commonality": "공포기간 내에 대통령이 이유를 붙인 문서로 의회에 재심의를 요구하고 의회가 이를 반드시 다시 심의하는 점이 같다.",
+          "difference": "후보는 '이유를 붙인 교서'에 의한 재심의 요구이고 양원을 상대로 하며, 재의결 정족수(2/3)나 재의결 시 법률 확정이라는 효과를 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_072",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'입법기관 통과 → 집행부로 이송 → 일정 기간 내 총통 공포'라는 제1항 전단의 문형이 매우 유사하고 단서로 이의 절차를 유보하는 형식도 닮았다. 다만 기간·기산점과 재의 절차의 내용은 다르므로 대응은 제1항 전단에 한정된다.",
+      "evidence": [
+        {
+          "element": "의결 법률안의 이송과 공포기한",
+          "target_field": "original_text",
+          "target_quote": "國會에서 議決된 法律案은 政府로 移送되어 15日 以內에 大統領이 公布한다. 但,",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院法律案通過後，移送總統及行政院，總統應於收到後十日內公布之，但",
+          "commonality": "법률안 통과 후 집행부로 이송하고 대통령(총통)이 정해진 기간 내에 공포하며, 단서로 예외 절차를 붙이는 문장 구성이 같다.",
+          "difference": "기간이 15일과 10일이고 기산점이 '정부 이송'과 '총통 수리'로 다르며, 이송처가 총통과 행정원 양자이고 이의 절차는 별도 조문(제57조) 원용에 그친다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_036",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "이송 기산 공포기한, 이유를 붙인 문서에 의한 재심의 요구, 기간 내 공포가 없을 때의 보충 규율이라는 세 요소가 대상 제1항과 항목별로 대응한다. 다만 공포 해태의 효과 처리 방식이 근본적으로 다르다.",
+      "evidence": [
+        {
+          "element": "이송 기산 공포기한",
+          "target_field": "original_text",
+          "target_quote": "政府로 移送되어 15日 以內에 大統領이 公布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président de la République promulgue les lois dans les dix jours qui suivent la transmission au Gouvernement de la loi définitivement adoptée.",
+          "commonality": "확정 의결된 법률의 정부 이송을 기산점으로 대통령이 단기간 내에 공포하도록 한다.",
+          "difference": "기간이 15일과 10일이고, 후보에는 긴급선언 시 5일 단축 규정이 있다."
+        },
+        {
+          "element": "공포기간 도과 시의 처리",
+          "target_field": "original_text",
+          "target_quote": "法律案이 政府로 移送된 後 15日以內에 公布 또는 還付되지 아니하는 때에도 그 法律案은 法律로서 確定된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "A défaut de promulgation par le président de la République dans les délais fixés par la présente Constitution, il y sera pourvu par le président de l'Assemblée nationale.",
+          "commonality": "대통령이 정해진 기간 내에 공포하지 않는 경우를 명시적으로 규율하여 법률의 성립이 좌절되지 않게 한다.",
+          "difference": "대상은 기간 도과로 법률안이 당연히 '법률로서 확정'되는 효과를 두지만, 후보는 국민의회 의장이 대신 공포하는 절차적 대체를 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 임기·선출·권한 일반을 규정할 뿐, 제시된 본문에 법률안 공포기한·환부·재의·시행일에 관한 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_051",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국왕의 의회 소집·해산과 그에 따른 선거·소집 기한 규정으로, 법률안 공포·재의 절차와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_013",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "입법기관 의결 법률의 집행부 송부, 15일이라는 동일한 공포기한, 이의서에 의한 재의 요구, 출석의원 3분의 2 찬성 재의결이라는 규율 요소가 문형까지 근접하게 대응한다. 다만 재의결의 효과 구성과 재적 2/3 출석 요건, 기간도과 확정 규정에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "의결 법률의 이송과 15일 공포기한",
+          "target_field": "original_text",
+          "target_quote": "國會에서 議決된 法律案은 政府로 移送되어 15日 以內에 大統領이 公布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院에서 成立된 法律은 政府主席에게 送附하여야 하며 政府主席은 그 送附를 받은 後 十五日 以內에 此를 公布하여야 함",
+          "commonality": "입법기관에서 성립·의결된 법률을 집행부 수반에게 보내고 15일이라는 동일한 기한 내에 공포하게 한다.",
+          "difference": "기산점이 '정부로 이송'과 '정부주석이 송부를 받은 후'로 다르고, 공포 주체가 대통령과 정부주석이다."
+        },
+        {
+          "element": "이의서에 의한 재의",
+          "target_field": "original_text",
+          "target_quote": "大統領은 異議書를 附하여 國會로 還付하고 國會는 再議에 附한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 前項의 期間內에 理由를 附한 異議書로써 立議院에 對하여 그 再議를 求할 수 있음",
+          "commonality": "집행부 수반이 공포기간 내에 이유를 붙인 이의서를 통해 입법기관의 재의를 구하는 절차가 같다.",
+          "difference": "대상은 법률안의 '환부'와 국회의 재의 회부를 의무적으로 규정하는 데 비해, 후보는 재의를 '구할 수 있음'이라는 요구권 형식이다."
+        },
+        {
+          "element": "재의결 정족수와 효과",
+          "target_field": "original_text",
+          "target_quote": "出席議員 3分之 2以上의 贊成으로 前과 同一한 議決을 한 때에는 그 法律案은 法律로서 確定된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "出席議員 三分之二 以上의 贊成으로 原案대로 議決한 境遇에는 다시 再議를 求할 수 없음",
+          "commonality": "출석의원 3분의 2 이상 찬성으로 원안대로 다시 의결하면 집행부의 이의가 더 이상 관철되지 않는다는 점이 같다.",
+          "difference": "대상은 재적의원 3분의 2 이상 출석 요건을 추가하고 그 효과를 '법률로서 확정'으로 규정하지만, 후보는 '다시 재의를 구할 수 없음'이라는 소극적 효과만 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_042",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의결 법률안의 송부, 이유를 붙인 이의, 재의결 후 인증·공포라는 흐름은 닮았으나 이의 주체가 주·직능참사원이고 재의결 요건도 '의원 절반 이상 출석'으로 달라, 대상의 대통령 환부·2/3 재의결과 규율 요소가 일치하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "출석의원 3분의 2 이상 재가결로 법률이 성립한다는 점은 겹치지만, 이는 양원 간 의견 불일치 해소 절차이지 집행부의 이의·환부에 따른 재의가 아니며 공포기한·시행일 규정도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령·의원 임기 개시와 승계, 연방의회 집회일에 관한 규정으로 법률안 공포·재의 절차와 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제2항의 '확정된 법률을 지체없이 공포하여야 한다'는 확정법률에 대한 별도의 즉시 공포 의무",
+    "환부 자체가 없는 경우까지 포함하여 '공포 또는 환부되지 아니하는 때' 법률안이 당연히 법률로 확정된다는 효과(후보들은 대체공포·성립 불발 등 다른 처리를 둠)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "독일어·프랑스어·중국어 후보는 원문을 인용했으나 의미 대조 과정에서 제공된 번역문에 일부 의존했다."
+  ],
+  "short_answer": "대상 제40조는 (가) 이송 후 15일 내 공포, (나) 이의서 환부·재의, (다) 재적 2/3 출석·출석 2/3 찬성 재의결에 의한 확정, (라) 기간 도과 확정, (마) 공포일로부터 20일 시행이라는 요소로 나뉜다. 조선임시약헌 제13조가 (가)(나)와 출석 2/3 재의결까지 문형 수준에서 가장 근접하게 대응하고, 프랑스 1875년 제7조와 1946년 제36조는 '정부 이송 기산 공포기한 + 이유를 붙인 문서에 의한 재심의 요구'에, 1946년 제36조는 추가로 공포 해태 시의 처리에 대응한다. 중화민국헌법 제72조는 '통과→이송→기간 내 총통 공포, 단서' 문형에, 프로이센 자유주헌법 제61조는 (마)의 시행일 보충규정과 공포기한에, 대일본제국헌법 제73조는 (다)의 재적 2/3 출석·출석 2/3 찬성이라는 이중 정족수 수치에 각각 한정적으로 대응한다. 바이마르 제74조·오스트리아 제42조·일본국헌법 제59조는 이의·재의결 구조가 유사하나 이의 주체가 제2원이거나 정족수 분모가 달라 일반적 유사에 그친다. 다만 이상은 문언 대응일 뿐 역사적 참조의 확정은 아니며, 제2항의 '지체없는 공포 의무'는 후보로 충분히 설명되지 않는다."
+}

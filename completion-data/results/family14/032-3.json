@@ -1,0 +1,199 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_032",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "하원을 보통선거로 선출하고 그 조건을 선거법에 위임한다는 점에서 주제는 겹치나, 평등·직접·비밀의 열거가 없고 양원제 구성·상원 특별법 위임이 중심이어서 대상 조문의 구체적 규율 요소와의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회 조직을 법률로 정한다는 위임만 규정할 뿐, 대상 조문 제2항의 위임 대상인 '선거에 관한 사항'과 제1항의 선거원칙 열거가 없어 대응 범위가 일반적 수준에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_095",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "평등·직접·비밀 등 선거원칙 열거가 나타나지만 주의회(주 입법기관) 구성과 비례대표·선거구 배분을 규율하는 조항으로, 대상 조문의 국회 구성 문형 및 법률 위임 구조와의 구체적 대응은 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "선거방법·피선거자격 등을 법률로 정한다는 위임이 있으나, 양원의 선출기반·의원정수·개선 방식 등 대상 조문에 없는 사항이 중심이고 선거원칙 4요소 열거가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회의 의결정족수와 예외에 관한 규정으로, 의원 선출방식이나 선거사항의 법률유보와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_035",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공선된 의원으로써 조직한다'는 구성 문형이 거의 그대로 대응하여 제1항 문형 비교에 유용하다. 다만 선거원칙의 헌법 명시 여부와 대상 기관(중의원/국회)에서 차이가 있어 그 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "의회 구성 문형(공선 의원으로 조직)",
+          "target_field": "original_text",
+          "target_quote": "公選된 議員으로써 組織한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公選セラレタル議員ヲ以テ組織ス",
+          "commonality": "선거로 뽑힌 의원으로 의회를 조직한다는 동일한 구성 문형을 사용한다.",
+          "difference": "대상은 단원인 '國會'를 대상으로 하고 선거원칙 4요소를 헌법에 직접 열거하나, 후보는 양원 중 '衆議院'만을 대상으로 하고 원칙 없이 선거법에 전부 위임한다."
+        },
+        {
+          "element": "선거사항의 법률 위임",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 選擧에 關한 事項은 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "選挙法ノ定ムル所ニ依リ",
+          "commonality": "의원 선출의 구체적 사항을 법률(선거법)에 맡긴다는 위임 구조가 공통된다.",
+          "difference": "대상은 위임을 별도의 제2항으로 독립시켰고 위임 대상을 '선거에 관한 사항'으로 포괄 표현한 반면, 후보는 본문 안에서 '선거법이 정하는 바에 따라'라는 방식으로 공선의 근거를 지시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안·비준 절차 규정으로 대상 조문의 국회 구성 및 선거사항 법률유보와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2항의 '선거에 관한 사항은 법률로써 정한다'와 문형·규율 내용이 직접 대응하므로 제2항 비교에 유용하다. 제1항의 선거원칙 열거에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "선거사항의 법률유보(제2항)",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 選擧에 關한 事項은 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員の選挙に関する事項は、法律でこれを定める",
+          "commonality": "의원 선거에 관한 사항 전반을 법률로 정하도록 하는 포괄적 법률유보 문형이 동일하다.",
+          "difference": "후보는 '선거구, 투표방법' 등 예시를 열거하고 대상 기관이 양원(両議院)인 반면, 대상은 예시 없이 단원제 국회의원의 선거사항만을 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_010",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "선거원칙 열거와 '공선된 의원으로써 조직함'이라는 구성 문형이 함께 대응하여 제1항 전체와 비교 가치가 크다. 다만 비밀선거/무기명투표 표현과 법률위임의 배치에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "선거원칙 열거 + 구성 문형",
+          "target_field": "original_text",
+          "target_quote": "普通, 直接, 平等, 秘密選擧에 依하여 公選된 議員으로써 組織한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "普通 平等 直接 無記名投票의 方法으로 公選된 議員으로써 組織함",
+          "commonality": "선거원칙을 열거한 뒤 '공선된 의원으로써 조직'한다는 동일한 어법으로 입법기관 구성을 규정한다.",
+          "difference": "대상은 '보통·직접·평등·비밀선거'로 순서와 용어가 다르고, 후보는 '무기명투표의 방법'으로 표현한다. 기관도 '입법의원'과 '국회'로 다르다."
+        },
+        {
+          "element": "선거법(법률) 위임의 위치",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 선거에 관한 사항은 법률로써 정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "別로이 定하는 選擧法에 依하여",
+          "commonality": "선거의 구체적 사항을 별도의 선거법(법률)에 맡긴다는 점이 공통된다.",
+          "difference": "대상은 이를 독립된 제2항의 포괄적 법률유보로 두었고, 후보는 제1항 본문 안에 '별로이 정하는 선거법에 의하여'로 삽입하였다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_072",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "의원을 선거인(Wahlmänner)을 통해 뽑는 간접선거를 전제하여 대상의 '직접' 선거원칙과 대비되며, 선거법 위임 부분도 조세 징수 도시 처리 등 이질적 내용을 포함한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_028",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "보통·평등·직접의 원칙 열거가 겹치나, '무기명투표'로 비밀선거를 대체하고 국민대표 선거방법만 규정할 뿐 의회 구성 문형과 법률유보 조항이 없어 선택 범위에 넣지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'보통·평등·직접·비밀' 네 원칙의 열거와 세부사항의 선거법 위임이라는 2단 구조가 대응한다. 다만 비례대표 원칙·선거연령·선거일 규정은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "선거원칙 4요소 열거",
+          "target_field": "original_text",
+          "target_quote": "普通, 直接, 平等, 秘密選擧에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "in allgemeiner, gleicher, unmittelbarer und geheimer Wahl",
+          "commonality": "보통·평등·직접·비밀이라는 네 가지 선거원칙을 헌법 본문에 나란히 열거한다.",
+          "difference": "후보는 여기에 더해 20세 이상 남녀의 비례대표 원칙과 선거일(일요일·공휴일) 요건을 규정하는 반면, 대상은 원칙 열거에 그치고 선거권 연령·대표제 방식을 규정하지 않는다."
+        },
+        {
+          "element": "세부사항의 법률 위임",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 선거에 관한 사항은 법률로써 정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Nähere bestimmt das Reichswahlgesetz.",
+          "commonality": "선거원칙을 헌법에 두고 구체적 사항은 별도 선거법률에 위임하는 2단 구성이 같다.",
+          "difference": "후보는 '제국선거법률'이라는 특정 법률을 지정하고, 대상은 '법률로써'라는 일반적 형식으로 위임한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "주민에 의한 상원의원 선출 구성 규정이라는 점에서 주제가 겹치지만, 의원정수·임기·결원 보충 절차가 중심이고 선거원칙 열거나 선거사항의 포괄적 법률유보가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_067",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "선거원칙 열거 후 '선출한 대의원으로서 구성한다'와 별도 항의 선거 법령 위임이라는 2항 구조가 대상과 병렬적으로 대응한다. 다만 규율 대상 기관이 각급 인민위원회로 달라 대응 범위를 그 구조·문형에 한정한다.",
+      "evidence": [
+        {
+          "element": "선거원칙 열거 + 구성 문형",
+          "target_field": "original_text",
+          "target_quote": "普通, 直接, 平等, 秘密選擧에 依하여 公選된 議員으로써 組織한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다",
+          "commonality": "네 가지 선거원칙에 의거해 선출된 구성원으로 합의기관을 구성한다는 동일한 문형을 취한다.",
+          "difference": "대상은 '보통'과 '비밀선거'를 동일 열거에 넣고 대상이 국회·의원인 반면, 후보는 '일반적'이라 표현하고 비밀투표를 별도 방법으로 서술하며 대상이 각급 인민위원회·대의원이다."
+        },
+        {
+          "element": "선거의 법령(법률) 위임을 별도 항으로 규정",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 선거에 관한 사항은 법률로써 정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "各級 人民委員會의 選擧는 따로 法令으로서 規定한다",
+          "commonality": "선거에 관한 사항을 제2항에서 별도 규범에 위임하는 조문 배치가 같다.",
+          "difference": "대상은 위임 형식이 '법률'이고 위임 대상이 '국회의원의 선거에 관한 사항'인 반면, 후보는 '법령'으로 위임하고 대상이 각급 인민위원회 선거이다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'보통, 직접, 평등, 비밀'이라는 대상 특유의 열거 순서",
+    "단원제 '국회' 전체를 공선 의원만으로 조직한다는 점(양원 중 일원만 공선하는 후보들과 달리 예외·비공선 구성원을 두지 않음)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 실제 참조·기초 과정의 역사적 영향은 제공된 본문만으로 확정할 수 없다.",
+    "일부 후보는 원문이 외국어여서 열거 원칙의 어감 비교에 제공 번역문 이해가 개입될 수 있다."
+  ],
+  "short_answer": "대상 조문은 (1) 선거원칙 4요소 열거 + 공선 의원으로 조직, (2) 선거사항의 법률유보라는 2단 구조를 가진다. 이 중 구성 문형은 일본 1889년 헌법 제35조와 조선임시약헌 제10조가, 원칙 열거와 법률 위임의 2단 구조는 바이마르헌법 제22조와 북조선 헌법안 제67조가, 제2항의 포괄적 법률유보 문형은 일본국헌법 제47조가 각각 구체적으로 대응한다. 다만 기관(중의원·입법의원·인민위원회·양원)과 '비밀선거/무기명투표/비밀투표' 표현, 비례대표·선거연령 등 부수 규율에서 차이가 있다. 프랑스 1875·1946년 조문과 중화민국 제76조 등은 선거의 법률위임이라는 일반적 유사성에 그치고, 프로이센 1850년 제72조는 간접선거라는 점에서 대비된다. 위 대응은 문언상 병렬 관계일 뿐 역사적 참조의 확정은 아니다."
+}

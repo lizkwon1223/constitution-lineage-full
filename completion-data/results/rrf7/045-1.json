@@ -1,0 +1,121 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_045",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_055",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원 자격 문제의 원내 처리와 의원 신분 박탈에 대한 3분의 2 가중요건이라는 두 요소가 대상 조문 제1항(자격심사)·제2항(제명 정족수)과 문언상 대응한다. 다만 분모가 출석의원이라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "의원 자격에 대한 의회의 판단 권한",
+          "target_field": "original_text",
+          "target_quote": "國會는 議員의 資格을 審査하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院は、各々その議員の資格に関する争訟を裁判する",
+          "commonality": "의원의 자격 문제를 의회 스스로 처리하도록 정한 점이 같다",
+          "difference": "대상은 단원제 국회의 '심사'로 규정하나 후보는 양원이 각각 '쟁송을 재판'하는 형식이고, 대상에는 자격상실 결정의 정족수 규정이 자격심사와 직접 결합되어 있지 않다"
+        },
+        {
+          "element": "의원 신분 박탈의 가중 정족수",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 贊成이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員の議席を失はせるには、出席議員の三分の二以上の多数による議決を必要とする",
+          "commonality": "의원의 의석·신분을 박탈하는 결정에 3분의 2 이상의 가중다수를 요구하는 점이 같다",
+          "difference": "분모가 대상은 재적의원, 후보는 출석의원이며, 후보는 자격쟁송에 따른 의석상실을, 대상은 제명을 대상으로 한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_092",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "감찰원의 공무원 탄핵안 제출 절차와 정족수를 규율하는 조문으로, 의회의 자격심사·의사규칙·의원 징벌·제명이라는 대상 요소와 규율 대상·주체가 다르다. 제의·심사 인원수 요건이 나오나 의원 제명 정족수와는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_056",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의사 개의·의결 정족수 조문으로, 대상 조문의 자격심사·규칙제정·징벌·제명 요소와 직접 대응하는 규율이 없다. '의사'라는 주제어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_055",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법 수정 절차의 가중 정족수 조항으로, 3분의 2라는 수치와 '재적의원' 표현은 겹치나 규율 대상이 개헌이어서 의원 제명과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "회의·절차 및 내부규율에 관한 규칙 제정권, 의원 징벌권, 제명 시 3분의 2 가중다수라는 세 요소가 대상 조문의 구성과 순서까지 대응한다. 분모(출석의원)와 징벌사유 한정 여부가 다르다.",
+      "evidence": [
+        {
+          "element": "의사에 관한 규칙 제정권",
+          "target_field": "original_text",
+          "target_quote": "議事에 關한 規則을 制定하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "その会議その他の手続及び内部の規律に関する規則を定め",
+          "commonality": "의회가 스스로 회의·절차에 관한 규칙을 정하는 권한을 규정한 점이 같다",
+          "difference": "후보는 '회의 기타 절차 및 내부규율'로 범위를 세분하고, 대상은 '의사에 관한 규칙'으로 포괄 표현한다"
+        },
+        {
+          "element": "의원 징벌 권한",
+          "target_field": "original_text",
+          "target_quote": "議員의 懲罰을 決定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "院内の秩序をみだした議員を懲罰することができる",
+          "commonality": "의회가 의원을 징벌할 수 있다는 권한 규정이 같다",
+          "difference": "후보는 '원내 질서를 문란케 한 의원'으로 징벌 대상을 한정하나 대상 조문은 사유 제한 문언이 없다"
+        },
+        {
+          "element": "제명의 가중 정족수",
+          "target_field": "original_text",
+          "target_quote": "議員을 除名함에는 在籍議員 3分之 2以上의 贊成이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員を除名するには、出席議員の三分の二以上の多数による議決を必要とする",
+          "commonality": "'의원을 제명함에는 … 3분의 2 이상'이라는 동일한 문형과 대상(제명)이 일치한다",
+          "difference": "분모가 대상은 재적의원, 후보는 출석의원이며, 후보는 단서(但し) 형식으로 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'의원의 제명'에 대해 '재적의원 3분의 2'라는 기준을 명시적으로 결합한 점에서 대상 제2항과 규율 대상·수치·분모 표현이 대응한다. 다만 후보는 재적 2/3 출석과 출석 2/3 찬성의 이중 요건이고 탄핵과 병기된다는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "의원 제명의 정족수와 분모 표현",
+          "target_field": "original_text",
+          "target_quote": "議員을 除名함에는 在籍議員 3分之 2以上의 贊成이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員의 除名은 在籍議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成이 있어야 함",
+          "commonality": "의원 제명에 3분의 2 가중요건을 두고 '재적의원 3분의 2'라는 표현을 쓰는 점이 같다",
+          "difference": "대상은 재적의원 3분의 2의 '찬성'이라는 단일 요건이나, 후보는 재적 3분의 2 출석 + 출석 3분의 2 찬성의 이중 요건이며 정부주석 등에 대한 탄핵과 함께 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_016",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "일반 개회·의결 정족수(과반수) 조항으로, 대상의 자격심사·규칙제정·징벌·제명 가중정족수 요소와 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'자격을 심사하고'라는 표현을 쟁송·재판 형식이 아닌 심사 형식으로 규정한 점",
+    "자격심사·규칙제정·징벌을 하나의 항에 병렬 열거한 단원제 국회 구성 방식"
+  ],
+  "limitations": [
+    "문언상 대응만을 검토한 것으로 실제 참조·계수 관계의 역사적 확정은 아니다.",
+    "제공된 후보 본문 외의 자료를 사용하지 않았으므로 다른 조문과의 대응 가능성은 판단 범위 밖이다."
+  ],
+  "short_answer": "일본국헌법 제58조는 회의·절차 규칙 제정권, 의원 징벌권, 제명 시 3분의 2 가중다수라는 세 요소가 대상 조문의 구성과 문형에 그대로 대응하여 가장 밀접하다. 일본국헌법 제55조는 의원 자격 문제의 원내 처리와 의석 박탈의 3분의 2 요건에서 대상 제1항·제2항과 부분 대응한다. 조선임시약헌 제14조는 '의원의 제명'에 '재적의원 3분의 2'라는 분모 표현을 결합한 점에서 대상 제2항과 대응하되, 재적 2/3 출석과 출석 2/3 찬성의 이중 요건이라는 차이가 있다. 일본 두 조문은 분모가 출석의원이어서 대상의 재적의원 기준과 구별되며, 제58조는 징벌 사유를 원내 질서문란으로 한정한다. 나머지 후보(五五憲草 제92조, 일본국헌법 제56조, 약헌 제55·16조)는 탄핵 절차나 일반 의결정족수에 관한 것으로 구체적 대응이 없다."
+}

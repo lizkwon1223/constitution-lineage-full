@@ -1,0 +1,202 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_035",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "정기회·임시회 구분과 '대의원 3분의1 이상의 요청'에 의한 임시회 소집이라는 점에서 주제가 겹치나, 정족수 분모(3분의1)와 소집 주체(상임위원회 결정)가 대상 조문(4분지1, 대통령 또는 의원 요구+의장 공고)과 다르고 대통령·부통령 선거를 위한 당연집회 규정도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회 해산권과 해산 후 재선거 기한을 규율하며, 임시회 소집 요구나 당연집회와 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령·부통령 선거와 승계를 국민의회 절차로 규율하는 점에서 대상 제2항의 소재와 닿아 있으나, 선거 사유 발생 시 의회가 '지체없이 당연히 집회'한다는 집회 발동 규율은 없고 임시회 소집 요구 정족수도 다루지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회 소집·폐회 주체(국왕)와 해산 후 집회 기한을 규정할 뿐, 임시긴급 필요·의원 요구 정족수·의장의 공고 절차와 같은 구체적 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'의장은 의원 5분의1 또는 주내각이 요구하면 소집하여야 한다'는 문형이 유사하지만 정족수 분모(5분의1)와 대상 기관(국가평의회)이 달라, 동일 문형에서 정족수까지 일치하는 다른 후보들에 비해 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방의회의 연례 집회와 대통령·부통령 당선자 관련 규율을 담지만, 임시회 소집 요구 정족수나 선거 사유 발생 시 당연집회와 직접 대응하는 요소는 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임시 국민대회 소집을 '대표 5분의2 이상의 동의' 또는 '총통'이라는 두 경로로 규정해 발동 주체 구성이 유사하나, 정족수 분모(5분의2)와 자행 소집 방식, 의장 공고 절차 부재 등에서 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_054",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국가에 긴급한 필요가 있을 때' 내각이 참의원 긴급집회를 요구한다는 점에서 긴급 필요 요건이 겹치지만, 요구 주체(내각)·대상(참의원)·사후 동의 효력 규정이 달라 대상 조문의 임시회 공고 구조와 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "폐회 중 의장단이 의원 3분의1 또는 국무총리의 청구가 있으면 국회를 소집하여야 한다는 문형이 유사하나, 정족수 분모(3분의1)와 소집 주체(의장단)가 달라 정족수까지 일치하는 다른 후보보다 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_028",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'의원 4분의 1 이상 또는 정부의 요구가 있으면 의장이 (즉시) 소집한다'는 정족수·요구주체·소집주체의 조합이 대상 제1항과 구체적으로 대응한다. 다만 대상의 '임시긴급의 필요' 요건과 대통령이라는 요구 주체, 공고 형식은 범위 밖이다.",
+      "evidence": [
+        {
+          "element": "임시회 소집 요구 정족수",
+          "target_field": "original_text",
+          "target_quote": "國會의 在籍議員 4分之 1以上의 要求",
+          "candidate_field": "original_text",
+          "candidate_quote": "wenn wenigstens ein Viertel seiner Mitglieder",
+          "commonality": "재적의원 4분의 1 이상의 요구를 집회 발동 정족수로 삼는다.",
+          "difference": "대상은 '재적의원'을 명시하고 임시회(集會 公告)에 연결되며, 후보는 휴회 후 재소집(Wiedereinberufung)에 관한 규정이다."
+        },
+        {
+          "element": "소집(공고) 주체로서의 의장",
+          "target_field": "original_text",
+          "target_quote": "議長은 國會의 臨時會의 集會를 公告한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dieser ist verpflichtet, den Nationalrat sofort einzuberufen",
+          "commonality": "요구가 있으면 의장이 집회를 발동하는 의무적 구조.",
+          "difference": "후보는 의장이 '즉시 소집'할 의무를, 대상은 의장이 '집회를 공고'하는 형식을 규정한다."
+        },
+        {
+          "element": "요구 주체의 이원 구성",
+          "target_field": "original_text",
+          "target_quote": "大統領 또는 國會의 在籍議員 4分之 1以上의 要求",
+          "candidate_field": "original_text",
+          "candidate_quote": "oder die Bundesregierung es verlangt",
+          "commonality": "의원 정족수와 행정부 측 기관이 병렬적 요구 주체로 규정된다.",
+          "difference": "대상은 행정부 측 주체를 '대통령' 개인으로, 후보는 '연방정부'라는 합의체로 정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_043",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제1항 冒頭의 '臨時緊急의 必要가 있을 때에는'과 사실상 동일한 문언('臨時緊急ノ必要アル場合ニ於テ')으로 임시회 소집 요건을 규정한다. 다만 요구 주체·정족수·공고 절차는 후보에 없어 대응 범위는 요건 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "임시회 개회 요건 문언",
+          "target_field": "original_text",
+          "target_quote": "臨時緊急의 必要가 있을 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "臨時緊急ノ必要アル場合ニ於テ常会ノ外臨時会ヲ召集スヘシ",
+          "commonality": "'임시긴급의 필요'라는 동일 표현을 임시회 소집의 요건으로 사용한다.",
+          "difference": "후보는 소집 주체를 명시하지 않고 상회(常会) 외의 임시회 소집 의무와 회기 결정을 칙명에 맡기는 반면, 대상은 대통령 또는 재적의원 4분지1 이상의 요구와 의장의 공고 절차를 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_003",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령 선거를 실시할 사유(임기 만료·사망·사직)가 생긴 때 의회가 '당연히'(de plein droit) 집회한다는 규율이 대상 제2항의 '지체없이 當然히 集會한다'와 구체적으로 대응한다. 대응 범위는 제2항에 한정된다.",
+      "evidence": [
+        {
+          "element": "선거 사유 발생 시 당연집회",
+          "target_field": "original_text",
+          "target_quote": "國會는 遲滯없이 當然히 集會한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "les deux chambres se réunissent immédiatement et de plein droit",
+          "commonality": "대통령직 관련 사유가 발생하면 별도 소집행위 없이 즉시·당연히 집회한다는 효과를 규정한다.",
+          "difference": "후보의 발동 사유는 대통령의 사망 또는 사직이고 주체는 양원이며, 대상은 국회 폐회 중 대통령 '또는 부통령' 선거 사유 발생을 요건으로 하는 단원 국회의 집회다."
+        },
+        {
+          "element": "대통령 선거를 위한 집회",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령 또는 부통령의 선거를 행할 사유가 발생한 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "les chambres devront être réunies en Assemblée nationale pour procéder à l'élection du nouveau Président",
+          "commonality": "대통령 선거 실시를 목적으로 의회가 집회하도록 정한다.",
+          "difference": "후보는 임기 종료 1개월 전이라는 기한과 소집 없을 때 15일 전 당연집회를 정하는 반면, 대상은 기한 없이 '폐회 중 사유 발생'을 요건으로 하고 부통령 선거도 포함한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_015",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'재적의원 4분의1 이상의 요구 또는 정부주석의 요청에 의하여 의장이 임시회를 소집'이라는 정족수·요구주체·소집주체 구성이 대상 제1항과 문형까지 밀접하게 대응한다. 다만 '임시긴급의 필요' 요건과 '공고' 형식, 제2항은 범위 밖이다.",
+      "evidence": [
+        {
+          "element": "임시회 소집의 요구 정족수와 소집 주체",
+          "target_field": "original_text",
+          "target_quote": "國會의 在籍議員 4分之 1以上의 要求에 依하여 議長은 國會의 臨時會의 集會를 公告한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院 臨時會는 在籍議員 四分之一 以上의 要求나 또는 政府主席의 要請에 依하여 議長이 召集함",
+          "commonality": "재적의원 4분의1 이상의 요구와 행정수반의 요청을 병렬 발동 사유로 삼고, 의장이 임시회를 발동한다는 구조가 동일하다.",
+          "difference": "후보는 행정수반을 '정부주석'으로 하고 의장이 '소집'하는 반면, 대상은 '대통령'의 요구에 따라 의장이 집회를 '공고'하며 앞머리에 '임시긴급의 필요' 요건을 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_069",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "임시회 개회 사유를 '총통의 요청'과 '입법위원 4분의1 이상의 요구'로 병렬 열거하여 대상 제1항의 요구 주체·정족수 조합과 구체적으로 대응한다. 다만 의장의 공고 절차와 긴급 필요 요건, 제2항은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "임시회 발동 사유의 병렬 구성",
+          "target_field": "original_text",
+          "target_quote": "大統領 또는 國會의 在籍議員 4分之 1以上의 要求",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法委員四分之一以上之請求",
+          "commonality": "의원 4분의1 이상의 요구를 임시회 개회 사유로 규정한다.",
+          "difference": "후보는 '입법위원'을 기준으로 하고 재적 여부를 명시하지 않으며, 대상은 '재적의원'을 분모로 명시한다."
+        },
+        {
+          "element": "행정수반의 요청에 의한 임시회",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령 또는 국회의 재적의원 4분지 1이상의 요구에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院遇有左列情事之一時，得開臨時會",
+          "commonality": "행정수반(총통/대통령)의 요청이 의원 정족수 요구와 나란히 임시회 개회 사유가 된다.",
+          "difference": "후보는 입법원이 임시회를 '열 수 있다'는 권능 형식이고 소집·공고 주체를 정하지 않으나, 대상은 의장이 집회를 공고하도록 절차 주체를 지정한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "의장이 임시회 집회를 '公告'한다는 형식(소집이 아닌 공고 절차)",
+    "'국회 폐회중'이라는 시점 요건과 결합된 당연집회",
+    "부통령 선거 사유까지 포함하는 집회 사유의 범위",
+    "'임시긴급의 필요' 요건과 요구 정족수·공고 절차가 한 문장에 결합된 구성"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했고 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로는 판단할 수 없다.",
+    "외국어 후보(독일어·프랑스어·중국어·일본어)의 대응 판단 일부는 제시된 번역문 이해에 의존한다.",
+    "동일 문형(의장+의원 정족수+행정부 요구)이 여러 후보에 분포하여 특정 후보의 우선성은 확정할 수 없다."
+  ],
+  "short_answer": "대상 제1항은 KR1947 조선임시약헌 제15조, 중화민국헌법 제69조, 오스트리아 연방헌법 제28조와 '재적의원 4분의1 이상의 요구 또는 행정수반의 요구에 의한 임시회 발동'이라는 정족수·주체 구성에서 구체적으로 대응하고, 冒頭의 '임시긴급의 필요'라는 문언은 대일본제국헌법 제43조와 사실상 동일하다. 제2항의 '지체없이 당연히 집회한다'는 프랑스 1875년 공권력 관계 헌법률 제3조의 'de plein droit' 당연집회 및 대통령 선거를 위한 집회 규정과 대응한다. 다만 소집 주체가 상임위원회·의장단·국왕인 후보들(NK1948 제38조, FR1946 제12조, PR1920 제38조, PR1850 제51조)은 정족수 분모나 기관이 달라 일반적 유사에 머문다. 의장이 집회를 '공고'하는 형식, 폐회 중이라는 시점 요건, 부통령 선거 사유 포함은 어느 후보로도 충분히 설명되지 않는다. 이상은 문언상 대응 관계이며 실제 참조 여부의 확정은 아니다."
+}

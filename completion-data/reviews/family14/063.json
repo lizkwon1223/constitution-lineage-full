@@ -1,0 +1,44 @@
+{
+  "article": 63,
+  "reviewed_at": "2026-09-22T16:10:47.170451+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "a0c6c31835ac47c967be2cd09a500f77df32be972324730bc958bf404c737ecf",
+  "input_sha256": "9477d1aca2863bc9d2a7ae2f395ccc109e68483bfd43722472273eef467363a6",
+  "responses": [
+    {
+      "job_id": "063_639e85458959_r1",
+      "repeat": 1,
+      "sha256": "e1a1c006190f49eecd208f1f79e4c63ad9f3794df8b7becc4fef7473c69394a2",
+      "assessment": "은사 유형·명령 형식·일반사면 동의를 요소별로 구분함. 프로이센과 프랑스 1946년의 입법 통제 부분 대응은 보완할 수 있음."
+    },
+    {
+      "job_id": "063_639e85458959_r2",
+      "repeat": 2,
+      "sha256": "f26deace11b08be777afc2d364e0cf7ea6f0e74b399515b442f3337923ca9f8c",
+      "assessment": "일반사면의 국회 동의와 법률 형식 요구를 구별한 핵심 설명은 원문에 부합함."
+    },
+    {
+      "job_id": "063_639e85458959_r3",
+      "repeat": 3,
+      "sha256": "010f674f2d46e78ec6256ec50d387d97f494c43f830a98b4e6f075bb022bcb29",
+      "assessment": "명령·권한 행사·인증의 차이와 필리핀의 동의 요건을 적절히 구별함."
+    }
+  ],
+  "synthesis": "사면·감형·복권의 열거와 법률 근거는 중화민국 두 조문에, 명한다는 술어는 일본 제16조와 약헌 제22조에 대응함. 일반사면에 대한 의회 동의는 필리핀 제7조 제11절 제6항과 직접 대응함. 바이마르·프랑스 1875년은 사면권과 일반사면 특칙을 구분하되 후자에 법률 형식을 요구함. 프로이센 제54조와 프랑스 1946년 제19조도 이 입법 통제 요소를 보완함. 일본 제7조의 인증은 사면의 명령과 구별됨.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "법률 형식의 일반사면 통제를 바이마르·프랑스 1875년에서는 선택하면서 프로이센·프랑스 1946년에서는 주체·전체 구성 차이로 배제함.",
+      "action": "일반사면 통제의 부분 대응을 병기하되 동의와 법률 제정의 차이를 유지함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

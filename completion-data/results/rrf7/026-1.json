@@ -1,0 +1,83 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_026",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'모든 국민'과 '법률에 따라(nach Maßgabe der Gesetze)'라는 일반적 문형만 겹칠 뿐, 규율 대상이 공공부담(조세적 기여)의 의무이고 공무담임이라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률에 따라 공무에 복무한다(依法律服公務)'는 규율 대상(공무)과 법률유보 방식이 대상 조문의 '법률의 정하는 바에 의하여 공무를 담임'과 직접 대응한다. 다만 의무로 규정한 점에서 권리로 규정한 대상 조문과 성격이 다르므로, 대응 범위는 '공무+법률유보'라는 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "규율 대상(공무)과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 公務를 擔任할",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法律服公務",
+          "commonality": "공무에 관한 국민의 지위를 법률이 정하는 바에 맡기는 법률유보 구조와 '공무'라는 대상 표현이 일치한다.",
+          "difference": "대상 조문은 공무를 '담임할 권리'로 구성하나, 후보는 공무에 '복무할 의무'로 구성한다."
+        },
+        {
+          "element": "주체 및 효과(권리/의무)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有依法律服公務之義務。",
+          "commonality": "일반 국민(인민) 전체를 수범자로 삼아 공무와의 관계를 헌법에 명시한다.",
+          "difference": "주체 표기가 '국민' 대 '人民'으로 다르고, 효과가 권리 부여 대 의무 부과로 정반대이며, 대상 조문에는 의무 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "근로의 권리·의무와 근로조건 기준을 규율하여 공무담임이라는 대상 요소와 규율 내용이 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'すべて国民は、法律の定めるところにより…権利を有する'라는 법률유보형 권리 문형이 대상 조문의 문형과 닮았으나, 규율 대상이 교육이어서 공무담임이라는 구체적 규율 요소의 대응은 없고 상용 문형의 일치에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_020",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'人民有依法律…之義務' 문형은 공유하나 대상이 병역이고 효과가 의무여서, 공무담임권이라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률유보 문형만 공유할 뿐 규율 대상이 납세 의무여서 공무담임 권리와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_019",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法律…之義務' 문형은 유사하지만 규율 대상이 납세 의무로 공무담임권과 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "공무 관계를 '의무'가 아닌 '담임할 권리'로 구성한 점",
+    "'담임'이라는 용어 자체의 문언적 연원"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며, 실제 참조·기초 과정의 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "'법률의 정하는 바에 의하여'류 표현은 여러 후보에 공통되는 상용 문형이어서 이것만으로는 특정 후보와의 연결을 입증하지 못한다."
+  ],
+  "short_answer": "대상 조문의 '법률의 정하는 바에 의하여 공무를 담임'이라는 요소와 구체적으로 대응하는 후보는 중화민국 五五憲草 제23조('人民有依法律服公務之義務')뿐이다. 두 조문은 '공무'라는 규율 대상과 법률유보 방식, 일반 국민(인민)을 수범자로 삼는 점에서 일치한다. 그러나 대상 조문은 이를 권리로 부여하는 반면 후보는 의무로 부과하여 효과가 정반대이고, 주체 표기도 '국민'과 '人民'으로 다르다. 일본국헌법 제26조 등은 '법률이 정하는 바에 의하여 …권리를 가진다'는 문형만 유사할 뿐 공무담임이라는 규율 대상의 대응이 없어 선택하지 않았다. 문언 대응이 곧 역사적 참조의 확정을 뜻하지는 않는다."
+}

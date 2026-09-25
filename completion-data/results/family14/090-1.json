@@ -1,0 +1,129 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_090",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_084",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조세 관련 사항을 법률로 정한다는 점은 겹치나, 규율 대상이 조세의 '종목과 세율'이 아니라 주(州)의 조세행정 조직·감독관청 권한·정산·행정비용 보상 등 연방-주 간 조세행정 절차이다. 조세법률주의의 실체적 요소(종목·세율)와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공과금 분야에서 연방과 주의 '권한 배분'을 별도의 연방헌법률로 정한다는 규정으로, 조세의 종목·세율을 법률로 정한다는 대상 조문과 규율 요소(권한배분 대 과세요건, 헌법률 대 법률)가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'조세의 종목'과 '세율'이라는 규율 대상, '법률로써 정한다'는 형식 요건, 문장 구조가 거의 그대로 일치한다. 문언상 대응이 가장 구체적이어서 후속 비교에 유용하다(다만 문언 일치가 곧 역사적 계수의 확정은 아니다).",
+      "evidence": [
+        {
+          "element": "규율 대상(조세의 종목과 세율)",
+          "target_field": "original_text",
+          "target_quote": "租稅의 種目과 稅率",
+          "candidate_field": "original_text",
+          "candidate_quote": "租税의 種目 及 稅率",
+          "commonality": "법률로 정해야 할 사항을 조세의 '종목'과 '세율' 두 가지로 특정하는 점이 동일하다.",
+          "difference": "연결어가 '과'와 '及'으로 표기상 다를 뿐 내용 차이는 확인되지 않는다."
+        },
+        {
+          "element": "형식 요건(법률유보)과 효과",
+          "target_field": "original_text",
+          "target_quote": "法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律로써 此를 定함",
+          "commonality": "과세요건을 법률로써 정하도록 하는 동일한 문형('法律로써 … 定')을 사용한다.",
+          "difference": "약헌은 지시대명사 '此를'을 넣고 종결어미가 '定함'인 구식 표기이며, 제헌헌법은 '定한다'로 간결화되었다. 의무주체(입법기관)나 예외·절차 규정은 양쪽 모두 명시하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "재정법률의 선의(先議) 원내 절차에 관한 규정으로, 조세 종목·세율의 법률유보라는 대상 요소와 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "과세의 일률성(Sec.14(1))과 국회가 법률로 대통령에게 관세율 등을 일정 한도 내에서 정하도록 위임할 수 있다는 규정(Sec.14(2))이 있어 세율과 법률의 관계를 다루지만, 대상 조문은 종목·세율의 법률전속을 선언할 뿐 위임이나 일률성 요건을 두지 않아 규율 요소가 어긋난다(오히려 위임 허용은 대조적이다).",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_043",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'세부는 법률로 정한다'는 일반적 법률유보 문형만 공유할 뿐, 조세의 종목·세율이라는 구체적 규율 대상이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_029",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "공민의 납세의무를 경제적 형편이라는 기준에 따라 규정하는 의무조항으로, 과세요건의 법률유보를 정한 대상 조문과 주체(공민 대 입법자)·성격(의무 대 형식요건)이 대조된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'법률이 정하는 바에 따라'라는 표현은 겹치지만, 규율 내용은 국민의 납세의무이며 조세의 종목·세율을 법률로 정한다는 과세권 제한과는 주체·효과가 다르다(제헌헌법 납세의무 조항과 비교할 사안).",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_021",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "인민의 납세의무를 규정한 조항으로, 법률에 근거한다는 점만 유사하고 종목·세율의 법률전속이라는 대상 요소와는 규율 방향이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_089",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법원 조직의 법률유보 규정으로, 조세와 무관하며 '법률로 정한다'는 상용 문형만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "사법원·각급 법원 조직의 법률유보 규정으로, '法律로써 定한다'는 문형만 공유할 뿐 규율 대상이 조세가 아니다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_021",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "신민의 납세의무 조항으로, 법률 준거라는 점만 유사하고 조세의 종목·세율을 법률로 정한다는 요건과는 주체와 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회의 조세·관세 부과징수 권한과 세입법안 절차, 관세의 통일성 등을 규정해 조세의 입법사항성이라는 큰 틀은 공유하나, '종목과 세율'을 법률로 정한다는 간결한 법률유보 문형과 직접 대응하는 구체적 문언은 확인되지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_086",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "코뮌·현·해외영토의 범위와 조직을 법률로 정한다는 규정으로, 조세와 무관하고 법률유보 문형만 유사하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다.",
+    "후보 중 일부(필리핀헌법 등)는 장문이어서 조세 관련 조항만 발췌 비교했다."
+  ],
+  "short_answer": "대상 조문과 구체적으로 대응하는 후보는 조선임시약헌 제50조뿐이다. '조세의 종목 及 세율'이라는 규율 대상과 '法律로써 … 定'이라는 문형이 사실상 동일하고, 차이는 '及/과', '此를 定함/定한다' 같은 표기·어미에 그친다. 일본 1889년 제21조, 일본국헌법 제30조, 五五憲草 제21조, 북조선 초안 제29조는 납세'의무'를 규정한 것이어서 주체와 규율 방향이 대조적이고, 바이마르 제84조·오스트리아 제13조는 조세행정·권한배분을 다뤄 과세요건과 다르다. 프로이센 제43·89조, 중화민국 제82조, 프랑스 제4공화국 제86조는 '법률로 정한다'는 상용 문형만 겹치므로 선택하지 않았다. 문언 일치가 곧 역사적 참조의 확정은 아님을 유의한다."
+}

@@ -1,0 +1,75 @@
+{
+  "article": 21,
+  "reviewed_at": "2026-09-22T15:22:33.454214+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "28dc596775096e6c031e7c033e7e80c45ecc6201798330da30dc60b29398eec1",
+  "input_sha256": "52deeedaf33c84564e8146564d19697ec959f7dbf71666ca61c9680571c73ade",
+  "responses": [
+    {
+      "job_id": "021_a37d34454850_r1",
+      "repeat": 1,
+      "sha256": "0aa7cd20deb941c4b7d5aae4348f76fe0aaabc8b3385885632e922225836be1f",
+      "assessment": "바이마르의 서면 청원권, 약헌의 국가기관에 대한 요구권과 청원권이라는 핵심 대응 및 심사의무의 차이를 적절히 구분함. 북한 후보는 주체·기관·청원 제출이라는 부분 대응이 있어 2·3회와 선택 기준 차이가 있음. 국가 각기관이라는 표현 전체를 미설명 요소로 두는 것은 약헌과의 대응을 충분히 반영하지 못함."
+    },
+    {
+      "job_id": "021_a37d34454850_r2",
+      "repeat": 2,
+      "sha256": "9c716684ff6a03aef21b8da8a34af82a6d0d5d7ff21205f7026b848990547b72",
+      "assessment": "서면 방식, 수신기관, 권리 주체, 국가의 심사의무를 나눈 비교가 타당함. 북한의 주권기관을 국가기관 일반과 그대로 동일시하지 않는 표현이 필요함. 프로이센 의회의 이송·설명요구 권한과 국가의 심사의무를 구분한 점은 정확함."
+    },
+    {
+      "job_id": "021_a37d34454850_r3",
+      "repeat": 3,
+      "sha256": "862fd055e60d6395823d0f6577b302e627ad45d67b4dd49308bccb58cd5483e2",
+      "assessment": "주요 대응 및 대응이 확인되지 않는 심사의무를 분리한 결론은 타당함. 북한의 배상청구권은 위법한 직무행위로 인한 손해의 구제이며 청원에 대한 후속 처리 효과로 묶기에는 법적 연결이 다름."
+    }
+  ],
+  "synthesis": "바이마르 제126조는 국민이 관할관청 또는 국민대표기관에 서면으로 청원·소원할 권리를 가진다는 점에서 주체·형식·수신기관이 대응함. 약헌 제7조는 국가기관에 대한 요구권이라는 공통 문형 아래 입법의원 청원, 행정기관 허원, 재판 요구를 구별함. 북한 초안 제25조도 공민의 주권기관에 대한 청원 제출권이라는 부분에 대응하나 서면 방식이나 심사의무를 명시하지 않음. 중화민국 두 후보는 청원권을 다른 구제권과 함께 간략히 열거함. 제헌헌법의 국가 심사의무는 제시된 후보에서 직접 대응하는 문언이 확인되지 않으며, 프로이센 의회의 청원 이송·설명요구 권한과 동일한 효과로 볼 수 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_025",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "공민·주권기관·청원 제출의 구체적 대응을 인정하면서도 다른 구제수단의 병기와 서면 요건 부재를 이유로 일반 유사성으로만 분류함.",
+      "action": "2·3회의 선택과 함께 부분 대응 인정 기준의 차이로 기록함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_007",
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "국가 각기관이라는 포괄 표현을 미설명 요소로 두지만 약헌의 국가기관 및 기관별 요구권과 상당 부분 대응함.",
+      "action": "기관별 권리의 구분을 단일 청원권으로 통합한 차이로 한정함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_025",
+      "type": "scope_precision",
+      "severity": "minor",
+      "finding": "주권기관을 국가기관 일반으로 그대로 표현함.",
+      "action": "주권기관이라는 원문 명칭을 유지하고 정확한 기관 범위는 해당 문언만으로 확정하지 않음."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_025",
+      "type": "legal_linkage",
+      "severity": "minor",
+      "finding": "공무원 위법행위 손해배상을 청원·신소 제기에 대응하는 국가 측 후속 효과로 묶음.",
+      "action": "심사의무와 별개의 위법행위 구제수단이라는 차이를 중심으로 정리함."
+    }
+  ],
+  "limits": [
+    "심사의무의 대응 부재는 선택된 14개 후보 안에서의 관찰임.",
+    "약헌의 청원과 허원을 하나의 동일 용어로 바꾸지 않음."
+  ]
+}

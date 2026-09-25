@@ -1,0 +1,93 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_041",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_086",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "예산(안)에 대하여 의회가 '審議'와 '議決'을 한다는 규율 요소가 직접 대응한다. 다만 일본국헌법 제86조는 내각의 예산 작성·제출 의무를 주어로 삼아 규정하는 반면, 대상 조문은 국회를 주어로 삼아 심의·결정 권한을 선언하는 형식이어서 문형과 규율 주체가 다르다.",
+      "evidence": [
+        {
+          "element": "심의·결정(의결)의 대상이 예산(안)이라는 점",
+          "target_field": "original_text",
+          "target_quote": "國會는 豫算案을 審議決定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、毎会計年度の予算を作成し、国会に提出して、その審議を受け議決を経なければならない。",
+          "commonality": "국회가 예산(안)을 심의하고 의결·결정한다는 점이 공통된다.",
+          "difference": "대상 조문은 '예산안'을 국회의 심의결정 객체로 삼아 국회를 주어로 두지만, 후보는 '예산'을 내각이 작성·제출할 의무의 객체로 두고 국회 심의·의결은 내각의 절차적 요건으로 규정한다."
+        },
+        {
+          "element": "심의와 결정(의결)의 결합 표현",
+          "target_field": "workbook_text_ko",
+          "target_quote": "심의결정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その審議を受け議決を経なければならない",
+          "commonality": "'심의'와 '의결(결정)'을 연결하여 예산 확정 절차를 표현한다.",
+          "difference": "후보는 '審議를 받고 議決을 거쳐야 한다'는 의무·절차 규정이고, 대상은 '심의결정한다'는 국회 권한의 단정적 서술이다. 또 후보는 매 회계연도라는 시간적 조건을 명시하나 대상에는 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'預算案'이라는 용어는 겹치나, 규율 내용은 행정원의 제출 주체와 회계연도 개시 3개월 전이라는 기한이어서, 국회의 심의·결정 권한을 정한 대상 조문과 규율 요소(주체·효과)가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산 의결을 다루지만 중의원 선의권과 양원 불일치 시 중의원 우월이라는 양원제 절차 규정이어서, 국회의 예산 심의·결정을 단문으로 선언한 대상 조문과 구체적 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의회를 주어로 하여 '預算案'을 '議決'하는 권한을 규정한다는 점에서 주체·객체·효과의 대응이 뚜렷하다. 다만 후보는 법률안·계엄안 등 여러 의결사항을 열거한 권한 조항이고 대상은 예산안만을 단독 조문으로 규정한 점이 다르다.",
+      "evidence": [
+        {
+          "element": "의회가 예산안을 의결(심의결정)한다는 권한 배분",
+          "target_field": "original_text",
+          "target_quote": "國會는 豫算案을 審議決定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院有議決法律案，預算案",
+          "commonality": "의회(국회/입법원)가 '豫算案'을 의결·결정하는 주체라는 점이 일치하고, 한자 용어 '預(豫)算案'도 공통된다.",
+          "difference": "후보는 '…之權'으로 권한을 열거적으로 부여하며 법률안·계엄안·대사안 등 다수 사항을 병렬하나, 대상은 예산안만을 대상으로 '심의결정한다'는 행위 서술형으로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_016",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 예산안을 다룬다는 주제는 겹치나, 후보는 국민의회가 예산법안을 회부받는다는 점과 예산법의 내용 제한·조직법률 위임을 규정하므로, 심의·결정 권한 자체를 정한 대상 조문과 효과 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_020",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공화국평의회의 의견 제출 기간과 제2독회 절차에 관한 규정으로, 예산은 기간 단축의 예시로만 언급될 뿐 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_015",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법안의 위원회 심사와 위원회 구성·권한에 관한 규정으로 예산안 심의·결정 권한과 직접 대응하는 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'심의결정'이라는 단일 술어로 국회 권한을 선언하는 간결한 문형",
+    "예산안의 제출 주체·제출 기한 등 절차 요소를 대상 조문이 전혀 규정하지 않은 점"
+  ],
+  "limitations": [
+    "제공된 조문 문언만으로 비교한 것이므로 문언상 대응 여부만 확인되고 실제 참조·계수 관계는 확정할 수 없다.",
+    "프랑스 조문은 원문(프랑스어)과 제공 번역을 함께 읽었으나 선택하지 않았으므로 번역 의존 문제는 결론에 영향을 주지 않는다."
+  ],
+  "short_answer": "검토할 만한 후보는 일본국헌법 제86조와 중화민국헌법 제63조이다. 제86조는 국회가 예산을 '審議'하고 '議決'한다는 요소가, 제63조는 의회가 '預算案'을 '議決'하는 권한 주체라는 요소가 대상 조문과 구체적으로 대응한다. 차이로는 제86조가 내각을 주어로 한 예산 작성·제출 의무와 회계연도 조건을 함께 규정하는 절차 조항인 점, 제63조가 법률안·계엄안 등 다수 사항을 병렬한 권한 열거 조항인 점이 있고, 대상 조문은 예산안만을 객체로 하여 국회의 심의결정을 단문으로 선언한다. 중화민국헌법 제59조와 프랑스 제4공화국헌법 제16조는 예산안 제출·회부라는 다른 규율 요소를 담아 일반적 유사성에 그친다. 이상은 문언상 대응 판단이며 역사적 영향의 확정은 아니다."
+}

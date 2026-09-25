@@ -1,0 +1,199 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_088",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "소유권 제한 처분을 법률에 유보하는 일반적 법률유보 문형(‘法律ノ定ムル所ニ依ル’)만 대상 조문의 ‘法律이 定하는 바에 依하여 行한다’와 겹친다. 사영기업의 국유·공유 이전, 경영 통제·관리라는 구체적 규율 요소가 없어 문형 상용어 수준의 유사성에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XIX",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "성별에 따른 선거권 차별 금지와 연방의회의 시행입법 권한 규정으로, 기업의 국·공유화나 경영 통제라는 대상 조문의 규율 대상과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘國營 또는 國家 管理’, ‘統制管理’라는 어휘와 규율 내용이 대상 조문의 ‘國有 또는 公有로 移轉’ 및 ‘經營을 統制, 管理’와 구체적으로 대응한다. 다만 약헌 조항은 생활균등권 실현을 위한 정책 열거 형식이고 법률유보 문언이 없다는 점에서 대응 범위는 어휘·규율대상에 한정된다.",
+      "evidence": [
+        {
+          "element": "기업의 국유·국가관리",
+          "target_field": "original_text",
+          "target_quote": "私營企業을 國有 또는 公有로 移轉하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "五 大規模의 主要工場 及 鑛山의 國營 또는 國家 管理",
+          "commonality": "사적 기업(공장·광산)을 국가 소유 또는 국가 경영으로 전환하는 조치를 헌법 차원에서 규정한다.",
+          "difference": "대상 조문은 ‘國有 또는 公有’로 지방적 공유까지 포함하고 개별적 이전 요건(긴절한 필요)을 두는 반면, 후보는 ‘대규모 주요 공장 및 광산’으로 객체를 특정한 정책 목표 열거이고 공유 주체가 국가로 한정된다."
+        },
+        {
+          "element": "경영의 통제·관리",
+          "target_field": "original_text",
+          "target_quote": "그 經營을 統制, 管理함은",
+          "candidate_field": "original_text",
+          "candidate_quote": "二 主要한 生活必需品의 統制管理와 合理的 物價政策의 樹立",
+          "commonality": "‘統制管理’라는 동일 어휘로 국가에 의한 통제·관리 조치를 규정한다.",
+          "difference": "후보의 통제관리 객체는 생활필수품(물자)이고 물가정책과 결합되어 있는 반면, 대상 조문의 객체는 사영기업의 경영이며 법률유보 아래 놓인다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_144",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공용사업·독점성 기업의 공영 원칙과 법률에 의한 사영 허가를 규정하여 주제(기업의 공영·법률유보)는 겹치나, 방향이 반대(원칙 공영·예외 사영)이고 대상 조문의 ‘국방상 또는 국민생활상 긴절한 필요’라는 요건이나 사영기업의 국·공유 이전·경영통제 절차와 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "‘상세는 법률로 정한다’는 일반 위임 문언만 있어 대상 조문의 실체적 규율 요소(사영기업의 국·공유 이전, 경영 통제·관리, 긴절한 필요)와 대응할 내용이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법인격(단체권) 부여·거부 요건의 법률유보 규정으로, 사영기업의 국유화·경영통제와는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 절차 규정으로 대상 조문의 경제질서·기업 국공유화 규율과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_156",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘사적 경제기업을 공유로 이전’, ‘기업 경영에의 참여·영향력 확보’, ‘긴급한 필요’, ‘법률에 의하여’라는 네 요소가 대상 조문의 구조와 구체적으로 대응한다. 다만 보상 규정과 자치 기초의 공동경제 통합 등은 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "사영기업의 공유 이전",
+          "target_field": "original_text",
+          "target_quote": "私營企業을 國有 또는 公有로 移轉하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "private wirtschaftliche Unternehmungen in Gemeineigentum überführen",
+          "commonality": "사적 경제기업을 공적 소유로 이전할 수 있음을 법률에 근거하여 규정한다.",
+          "difference": "후보는 ‘사회화에 적합한’ 기업으로 객체를 한정하고 수용 규정 유추 및 보상(unbeschadet der Entschädigung)을 명시하는 반면, 대상 조문은 보상 문언이 없고 객체 제한 대신 ‘긴절한 필요’ 요건을 둔다."
+        },
+        {
+          "element": "긴급·긴절한 필요 요건과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "緊切한 必要에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "im Falle dringenden Bedürfnisses zum Zwecke der Gemeinwirtschaft durch Gesetz",
+          "commonality": "긴급한 필요를 요건으로 하여 법률에 의한 국가의 경제적 개입을 허용한다.",
+          "difference": "후보의 긴급 필요는 공동경제 목적의 기업·단체 ‘통합’ 조치에 붙은 요건이고, 대상 조문은 국방상·국민생활상 필요를 소유 이전과 경영 통제·관리 전반의 요건으로 삼는다."
+        },
+        {
+          "element": "경영에 대한 통제·관리",
+          "target_field": "workbook_text_ko",
+          "target_quote": "그 경영을 통제, 관리함은",
+          "candidate_field": "original_text",
+          "candidate_quote": "an der Verwaltung wirtschaftlicher Unternehmungen und Verbände beteiligen oder sich daran in anderer Weise einen bestimmenden Einfluß sichern",
+          "commonality": "소유 이전에 이르지 않고도 기업 경영에 국가·공공주체가 개입하여 지배적 영향을 미칠 수 있게 한다.",
+          "difference": "후보는 제국·주·시읍면의 ‘참여’ 및 영향력 확보 형식인 데 비해, 대상 조문은 ‘통제·관리’라는 일방적 규제 형식이며 법률이 정하는 바에 따르도록 일괄 유보한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제6절이 ‘국민복리와 국방을 위하여’ 공익사업과 민간기업을 공적 소유로 이전하고 정부가 운영하도록 하는 점에서, 대상 조문의 목적요건(국방상·국민생활상)과 사영기업의 국·공유 이전 및 경영 관리와 구체적으로 대응한다. 다만 제1~5절의 천연자원·토지 규정은 대응 범위 밖이다.",
+      "evidence": [
+        {
+          "element": "목적 요건(국방·국민생활)",
+          "target_field": "original_text",
+          "target_quote": "國防上 또는 國民生活上 緊切한 必要에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "The State may, in the interest of national welfare and defense",
+          "commonality": "국방과 국민의 복리·생활이라는 두 목적을 병렬적으로 들어 기업에 대한 국가 개입의 요건으로 삼는다.",
+          "difference": "후보에는 ‘긴절한(긴급한) 필요’라는 정도 요건이 없고, 국가가 스스로 산업·운수·통신을 설치·운영할 권한까지 함께 규정한다."
+        },
+        {
+          "element": "사영기업의 공적 소유 이전과 운영",
+          "target_field": "original_text",
+          "target_quote": "私營企業을 國有 또는 公有로 移轉하거나 또는 그 經營을 統制, 管理함",
+          "candidate_field": "original_text",
+          "candidate_quote": "upon payment of just compensation, transfer to public ownership utilities and other private enterprises to be operated by the Government",
+          "commonality": "공익사업 및 그 밖의 사영기업을 공적 소유로 이전하여 정부가 운영하게 하는 조치를 규정한다.",
+          "difference": "후보는 ‘정당한 보상’ 지급을 명문 조건으로 하고 국민의회의 수권 방식(제4절 등 입법 수권)을 취하는 반면, 대상 조문은 보상 언급 없이 ‘법률이 정하는 바에 의하여 행한다’고만 하고 소유 이전 외에 경영의 통제·관리 유형을 별도로 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 면책특권 규정으로 대상 조문과 규율 대상·효과가 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_084",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조세의 부과·변경에 관한 법률유보 규정으로, 법률에 따른다는 형식만 유사할 뿐 조세 종목·세율 문제이므로 기업의 국공유화 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_123",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 ‘國防上之緊急需要’를 요건으로 사영사업을 임시 관리하고 법률에 따라 공영으로 회수하도록 규정하여, 대상 조문의 국방상 긴절한 필요·경영 관리·법률에 의한 국유화와 문언 및 규율 요소가 밀접히 대응한다. 다만 보상 규정과 특허 사영사업이라는 객체 한정은 다르다.",
+      "evidence": [
+        {
+          "element": "국방상 긴급한 필요와 경영의 관리",
+          "target_field": "original_text",
+          "target_quote": "國防上 또는 國民生活上 緊切한 必要에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "因國防上之緊急需要，得臨時管理之",
+          "commonality": "국방상의 긴급한 필요를 요건으로 국가가 사영사업의 경영을 관리할 수 있게 한다.",
+          "difference": "후보는 요건을 국방상 필요로만 한정하고 관리도 ‘임시’ 관리인 반면, 대상 조문은 국민생활상 필요를 병기하고 통제·관리에 기한 제한을 두지 않는다."
+        },
+        {
+          "element": "법률에 의한 공유화",
+          "target_field": "original_text",
+          "target_quote": "國有 또는 公有로 移轉하거나 또는 그 經營을 統制, 管理함은 法律이 定하는 바에 依하여 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "並得依法律收歸公營，但應予以適當之補償",
+          "commonality": "사영사업을 공적 소유·경영으로 전환하는 조치를 법률에 의하도록 유보한다.",
+          "difference": "후보는 ‘적당한 보상’을 단서로 요구하고 대상 객체를 전항의 특허 사영사업으로 한정하는 데 비해, 대상 조문은 보상 문언이 없고 사영기업 일반을 대상으로 하며 ‘國有 또는 公有’를 병렬한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_126",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "감사원 구성원의 기업 경영 참여 금지라는 겸직·이해충돌 규정으로, 국가의 기업 국공유화 권한과 규율 목적이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공민의 헌법·법령 준수의무와 권리남용 처벌 규정으로 대상 조문과 대응 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "‘公有’(국가 아닌 공공단체 소유)까지 병렬한 소유 주체 구성",
+    "보상에 관한 언급이 전혀 없는 점(후보들은 대체로 보상 또는 수용규정 준용을 명시)",
+    "‘統制’와 ‘管理’를 병렬한 개입 유형의 구분"
+  ],
+  "limitations": [
+    "문언상의 대응 관계만 확인한 것이며, 실제 기초 과정에서의 참조 여부나 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "바이마르헌법·필리핀헌법 등은 원문 외에 제공된 번역문을 대조에 참고했으므로 번역 표현에 따른 유사성 과대평가 가능성이 있다."
+  ],
+  "short_answer": "조선임시약헌 제4조(제2·5호), 바이마르헌법 제156조, 필리핀헌법 제12조 제6절, 중화민국 五五憲草 제123조가 후속 비교에 유용한 후보다. 공통점은 ①사영기업을 국·공유로 이전하는 조치, ②소유 이전에 이르지 않는 경영의 통제·관리(임시 관리·행정 참여), ③국방·국민복리라는 목적요건 및 긴급·긴절한 필요, ④법률유보라는 네 요소가 각기 부분적으로 대응한다는 점이다. 차이는 바이마르·필리핀·五五憲草가 모두 보상(정당한 보상, 수용규정 준용, 적당한 보상)을 명시하는 반면 대상 조문은 보상 문언이 없고, 객체 한정(사회화 적합 기업, 특허 사영사업, 대규모 공장·광산)이 각기 다르며 공유 주체도 국가로 한정되거나 지방단체까지 포함되는 등 구성이 다르다는 점이다. 일본제국헌법 제27조·중화민국헌법 제144조는 법률유보 문형이나 공영 원칙이라는 일반적 유사성에 그쳐 선택하지 않았다. 이는 문언 대응의 확인일 뿐 역사적 참조의 확정은 아니다."
+}

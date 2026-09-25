@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_002",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "2",
+    "original_text": "大韓民國의 主權은 國民에게 있고 모든 權力은 國民으로부터 나온다.",
+    "workbook_text_ko": "대한민국의 주권은 국민에게 있고 모든 권력은 국민으로부터 나온다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_ORIGINAL_ART_001",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "1",
+      "original_text": "Österreich ist eine demokratische Republik. Ihr Recht geht vom Volk aus.",
+      "workbook_text_ko": "오스트리아는 민주공화국이다. 그 법은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_082",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "82",
+      "original_text": "(1) Alle Gerichtsbarkeit geht vom Bund aus.\n(2) Die Urteile und Erkenntnisse werden im Namen der Republik verkündet und ausgefertigt.",
+      "workbook_text_ko": "(1) 모든 재판권은 연방으로부터 나온다.\n(2) 판결과 결정은 공화국의 이름으로 선고하고 작성한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "1",
+      "original_text": "Das Deutsche Reich ist eine Republik.\nDie Staatsgewalt geht vom Volke aus.",
+      "workbook_text_ko": "독일제국은 공화국이다.\n국가권력은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_002",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "2",
+      "original_text": "朝鮮의 主權은 國民 全體에 屬함",
+      "workbook_text_ko": "조선의 주권은 국민 전체에 속함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_002",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "2",
+      "original_text": "中華民國之主權屬於國民全體。",
+      "workbook_text_ko": "中華民國의 主權은 國民全體에 屬한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_002",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "2",
+      "original_text": "中華民國之主權，屬於國民全體。",
+      "workbook_text_ko": "중화민국의 주권은 국민 전체에 속한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_001",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "1",
+      "original_text": "Österreich ist eine demokratische Republik. Ihr Recht geht vom Volk aus.",
+      "workbook_text_ko": "오스트리아는 민주공화국이다. 그 법은 국민으로부터 나온다."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_086",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "86",
+    "original_text": "農地는 農民에게 分配하며 그 分配의 方法, 所有의 限度, 所有權의 內容과 限界는 法律로써 定한다.",
+    "workbook_text_ko": "농지는 농민에게 분배하며 그 분배의 방법, 소유의 한도, 소유권의 내용과 한계는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1936_DRAFT_ART_126",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "126",
+      "original_text": "國家爲謀農業之發展，及農民之福利，應充裕農村經濟，改善農村生活，並以科學方法提高農民耕作效能。\n國家對於農產品之種類數量及分配，得調節之。",
+      "workbook_text_ko": "국가는 농업의 발전과 농민의 복리를 위하여 농촌경제를 충실하게 하고 농촌생활을 개선하며, 과학적 방법으로 농민의 경작 효율을 높여야 한다.\n국가는 농산물의 종류·수량 및 분배를 조절할 수 있다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XIII",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XIII",
+      "original_text": "SECTION 1. All agricultural, timber, and mineral lands of the public domain, waters, minerals, coal, petroleum, and other mineral oils, all forces of potential energy, and other natural resources of the Philippines belong to the State, and their disposition, exploitation, development, or utilization shall be limited to citizens of the Philippines, or to corporations or associations at least sixty per centum of the capital of which is owned by such citizens, subject to any existing right, grant, lease, or concession at the time of the inauguration of the Government established under this Constitution. Natural resources, with the exception of public agricultural land, shall not be alienated, and no license, concession, or lease for the exploitation, development, or utilization of any of the natural resources shall be granted for a period exceeding twenty-five years, renewable for another twenty-five years, except as to water rights for irrigation, water supply, fisheries, or industrial uses other than the development of water power, in which cases beneficial use may be the measure and the limit of the grant.\nSEC. 2. No private corporation or association may acquire, lease, or hold public agricultural lands in excess of one thousand and twenty-four hectares, nor may any individual acquire such lands by purchase in excess of one hundred and forty-four hectares, or by lease in excess of one thousand and twenty-four hectares, or by homestead in excess of twenty-four hectares. Lands adapted to grazing, not exceeding two thousand hectares, may be leased to an individual, private corporation, or association.\nSEC. 3. The Congress of the Philippines may determine by law the size of private agricultural land which individuals, corporations, or associations may acquire and hold, subject to rights existing prior to the enactment of such law.\nSEC. 4. The Congress of the Philippines may authorize, upon payment of just compensation, the expropriation of lands to be subdivided into small lots and conveyed at cost to individuals.\nSEC. 5. Save in cases of hereditary succession, no private agricultural land shall be transferred or assigned except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain in the Philippines.\nSEC. 6. The State may, in the interest of national welfare and defense, establish and operate industries and means of transportation and communication, and, upon payment of just compensation, transfer to public ownership utilities and other private enterprises to be operated by the Government.",
+      "workbook_text_ko": "제1절. 필리핀의 모든 공유 농지·산림지·광물지, 수역·광물·석탄·석유 및 그 밖의 광유, 모든 잠재적 에너지원과 그 밖의 천연자원은 국가에 속한다. 그 처분·개발·개량 또는 이용은 필리핀 국민이나 자본의 적어도 60퍼센트를 그 국민이 소유한 법인·단체에 한정하되, 이 헌법에 따라 설립된 정부의 출범 당시 존재하는 권리·불하·임대차 또는 특허를 존중한다. 공유 농지를 제외한 천연자원은 양도할 수 없으며, 천연자원의 개발·개량·이용에 관한 허가·특허·임대차는 25년을 넘는 기간으로 부여할 수 없고 추가로 25년간 갱신할 수 있다. 다만, 관개·급수·어업 또는 수력 개발 이외의 산업 용도를 위한 수리권은 예외로 하며, 이 경우에는 유익한 이용을 권리 부여의 기준과 한도로 삼을 수 있다.\n제2절. 민간 법인이나 단체는 1,024헥타르를 넘는 공유 농지를 취득·임차 또는 보유할 수 없다. 개인은 매수로 144헥타르, 임차로 1,024헥타르, 자영농지 불하로 24헥타르를 넘는 공유 농지를 취득할 수 없다. 방목에 적합한 토지는 2,000헥타르를 넘지 않는 범위에서 개인·민간 법인 또는 단체에 임대할 수 있다.\n제3절. 필리핀 의회는 그 법률 제정 전에 존재하던 권리를 존중하면서, 개인·법인·단체가 취득·보유할 수 있는 사유 농지의 면적을 법률로 정할 수 있다.\n제4절. 필리핀 의회는 정당한 보상을 지급하고 토지를 수용하여 작은 필지로 분할한 뒤 원가로 개인에게 양도하도록 허가할 수 있다.\n제5절. 상속의 경우를 제외하고는 필리핀의 공유지를 취득·보유할 자격이 있는 개인·법인·단체가 아닌 자에게 사유 농지를 이전하거나 양도할 수 없다.\n제6절. 국가는 국민복리와 국방을 위하여 산업시설과 운송·통신수단을 설치·운영할 수 있으며, 정당한 보상을 지급하고 공익사업과 그 밖의 민간기업을 공공 소유로 전환하여 정부가 운영하게 할 수 있다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "8",
+      "original_text": "Le Président de la République négocie et ratifie les traités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent. - Les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ne sont définitifs qu'après avoir été votés par les deux chambres. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.",
+      "workbook_text_ko": "공화국대통령은 조약을 교섭하고 비준한다. 국가의 이익과 안전\n(l'intérêt et la sûreté de l'État)이 그것을 허락할 때에는 즉시조약의 교섭과\n비준을 양원에 보고한다.\n평화조약, 통상조약, 국가재정을 구속하는 조약, 개인의 신분과 외국에\n있는 프랑스인의 소유권에 관한 조약은 양원에서 채택한 후가 아니면 확정\n되지 아니한다. 영토의 어떠한 할양ㆍ교환ㆍ부가도 법률에 의하지 아니하\n면 할 수 없다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_153",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "153",
+      "original_text": "Das Eigentum wird von der Verfassung gewährleistet. Sein Inhalt und seine Schranken ergeben sich aus den Gesetzen.\nEine Enteignung kann nur zum Wohle der Allgemeinheit und auf gesetzlicher Grundlage vorgenommen werden. Sie erfolgt gegen angemessene Entschädigung, soweit nicht ein Reichsgesetz etwas anderes bestimmt. Wegen der Höhe der Entschädigung ist im Streitfalle der Rechtsweg bei den ordentlichen Gerichten offen zu halten, soweit Reichsgesetze nichts anderes bestimmen. Enteignung durch das Reich gegenüber Ländern, Gemeinden und gemeinnützigen Verbänden kann nur gegen Entschädigung erfolgen.\nEigentum verpflichtet. Sein Gebrauch soll zugleich Dienst sein für das Gemeine Beste.",
+      "workbook_text_ko": "소유권은 헌법에 의해 보장된다. 내용과 한계는 법률로 명시된다.\n공용징수는 공공복지를 위해서 아울러 법률의 기초에 입각해서만 가능하다. 공용징수는 제국의 법률에 별도의 규정이 없는 한 적당한 보상을 지급하고 이루어진다.\n보상액에 관해 분쟁이 있을 경우는 제국의 법률에 별도의 규정이 없는 한 통상법원에 제소하는 방도가 있어야만 한다.\n주, 시·읍·면 및 공익단체에 대한 제국의 공용징수는 보상을 지급하는 경우에만 행할 수 있다.\n소유권에는 의무가 따른다. 소유권의 사용은 동시에 공익에 대한 봉사여야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_143",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "143",
+      "original_text": "中華民國領土內之土地屬於國民全體。人民依法取得之土地所有權，應受法律之保障與限制。私有土地應照價納稅，政府並得照價收買。\n附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。\n土地價值非因施以勞力資本而增加者，應由國家徵收土地增值稅，歸人民共享之。\n國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則，並規定其適當經營之面積。",
+      "workbook_text_ko": "中華民國領土內의 土地는 國民全體에 屬한다. 法律의 定하는 바에 依하여 人民이 取得하는 土地所有權은 法律의 保障과 制限을 받는다. 私有土地는 그 價格을 따라 納稅하여야하고 政府는 價格에 따라 이를 買收할 수 있다.\n  土地에 附着한 鑛物과 經濟上公衆의 利用에 供할 수 있는 天然力은 國家의 所有에 屬하며 人民이 取得하는 土地所有權으로 因하여 影響을 받지 아니한다\n  勞力과 資本을 要하지 아니하고 그 價値가 增價한 土地에 對하여 國家는 土地增値稅를 徵收할 것이며 이는人民이 다같이享有 하여야 한다. 國家는 土地의 分配와 整理에 있어서 自作農 및 自身이 土地를 使用하는 人民을 扶植함을 原則으로 하고 또 그 適當한 經營面積을 規定하여야 한다"
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_042",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "42",
+      "original_text": "Das Recht der freien Verfügung über das Grundeigenthum unterliegt keinen anderen Beschränkungen, als denen der allgemeinen Gesetzgebung. Die Theilbarkeit des Grundeigenthums und die Ablösbarkeit der Grundlasten wird gewährleistet.\nFür die todte Hand sind Beschränkungen des Rechts, Liegenschaften zu erwerben und über sie zu verfügen, zulässig.\nAufgehoben ohne Entschädigung sind:\n1) Die Gerichtsherrlichkeit, die gutsherrliche Polizei und obrigkeitliche Gewalt, sowie die gewissen Grundstücken zustehenden Hoheitsrechte und Privilegien;\n2) die aus diesen Befugnissen, aus der Schutzherrlichkeit, der früheren Erbunterthänigkeit, der früheren Steuer- und Gewerbeverfassung herstammenden Verpflichtungen.\nMit den aufgehobenen Rechten fallen auch die Gegenleistungen und Lasten weg, welche den bisherigen Berechtigten dafür oblagen.\nBei erblicher Ueberlassung eines Grundstückes ist nur die Uebertragung des vollen Eigenthums zulässig; jedoch kann auch hier ein fester ablösbarer Zins vorbehalten werden.\nDie weitere Ausführung dieser Bestimmungen bleibt besonderen Gesetzen vorbehalten.",
+      "workbook_text_ko": "토지소유권의 자유로운 처분권은 일반 법률의 제정에 의한 제한\n이외에는 어떠한 제한도 받지 않는다.\n토지소유권의 분할가능성과 토지부담의\n변제에 의한 해소가능성은 보장된다.\n사수(死手: 양도불능 소유권) 제도\n에 있어서는 부동산을 취득하고 처분하는 권리의 제한이 허용된다.\n보상 없이 폐지되는 것들은 다음\n과 같다:\n1. 영주재판권, 영주의 경찰권\n및 관헌적 권력, 그리고 일정 토지에\n귀속하는 고권과 특권;\n2. 이러한 권한들, 보호영주의 지위,\n종전의 세습농노신분, 종전의 조세 및\n영업 체계로부터 유래하는 각종 의무들.\n폐지되는 권리들과 함께 종래 권한\n있는 자가 책임지고 있던 반대급부\n와 부담도 아울러 소멸한다.\n토지를 세습적으로 양여할 때에는\n오로지 완전한 소유권의 양도만이\n허용된다; 그러나 이 때에도 변제로\n해소될 수 있는 확정 차임은 유보될\n수 있다.\n이들 규정의 구체적 실행은 특별\n법에 유보한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_027",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "27",
+      "original_text": "日本臣民ハ其ノ所有権ヲ侵サルヽコトナシ\n２　公益ノ為必要ナル処分ハ法律ノ定ムル所ニ依ル",
+      "workbook_text_ko": "일본 신민은 그 소유권을 침해당하지 않는다.\n② 공익을 위하여 필요한 처분은 법률이 정하는 바에 따른다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_071",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "71",
+      "original_text": "(1) Der Staat gliedert sich in Provinzen.\n(2) Die Gliederung der Provinzen in Kreise, Städte, Landgemeinden und andere Gemeindeverbände sowie die Verfassung, die Rechte und Pflichten der Gemeindeverbände werden durch Gesetz geregelt.",
+      "workbook_text_ko": "(1) 국가는 도로 구분한다.\n(2) 도를 군·시·농촌 자치단체 및 그 밖의 자치단체 연합체로 구분하는 것과 자치단체 연합체의 조직·권리·의무는 법률로 정한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_006",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "6",
+      "original_text": "前 日本國家와 日本人의 所有土地 및 朝鮮人地主의 所有土地는 沒收한다. 小作制度는 永遠히 廢止한다.\n土地는 自己의 勞力으로 耕作하는 者만이 가질 수 있다.\n土地所有의 最大限度는 五町步 또는 二十町步로 한다.\n土地所有의 最大限度는 地域 및 條件에 따라서 따로 法令으로서 規定한다.\n土地의 個人所有와 아울러 國家 및 協同團體도 土地를 所有할 수 있다. 國家와 協同團體의 土地所有面積에는 制限이 없다.\n國家는 勞力農民의 利益을 特히 保護하며 經濟的 政策이 許하는 여러가지 方法으로 그들을 幇助한다.",
+      "workbook_text_ko": "전 일본국가와 일본인의 소유토지 및 조선인 지주의 소유토지는 몰수한다. 소작제도는 영원히 폐지한다.\n토지는 자기의 노력으로 경작하는 자만이 가질 수 있다.\n토지소유의 최대한도는 5정보 또는 20정보로 한다.\n토지소유의 최대한도는 지역 및 조건에 따라서 따로 법령으로서 규정한다.\n토지의 개인소유와 아울러 국가 및 협동단체도 토지를 소유할 수 있다. 국가와 협동단체의 토지소유면적에는 제한이 없다.\n국가는 노력농민의 이익을 특히 보호하며 경제적 정책이 허하는 여러 가지 방법으로 그들을 방조한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_040",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "40",
+      "original_text": "地方自治團體의 區域組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "지방자치단체의 구역·조직 및 권한은 법률로써 정함."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_081",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "81",
+      "original_text": "Durch Bundesgesetz wird geregelt, inwieweit die Länder bei der Ergänzung, Verpflegung und Unterbringung des Heeres und der Beistellung seiner sonstigen Erfordernisse mitwirken.",
+      "workbook_text_ko": "군대의 충원·급양·숙영 및 그 밖의 필요물자 제공에 주가 참여하는 범위는 연방법률로 정한다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_PREAMBLE",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": null,
+      "original_text": "We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.",
+      "workbook_text_ko": "우리 합중국 국민은 더욱 완벽한 연방을 형성하고, 정의를\n확립하고, 국내의 안녕을 보장하며, 공동의 방위를 도모하고,\n일반복지를 증진하고, 우리와 우리의 후손들에게 자유의 축복\n을 확보할 목적으로 이 미합중국 헌법을 제정한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_086",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "86",
+      "original_text": "Le cadre, l'étendue, le regroupement éventuel et l'organisation des communes et départements, territoires d'outre-mer, sont fixés par la loi.",
+      "workbook_text_ko": "코뮌ㆍ현ㆍ해외영토의 범위ㆍ면적ㆍ재편과 조직은 법률로 정한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_029",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "29",
+      "original_text": "財産権は、これを侵してはならない。\n２　財産権の内容は、公共の福祉に適合するやうに、法律でこれを定める。\n３　私有財産は、正当な補償の下に、これを公共のために用ひることができる。",
+      "workbook_text_ko": "①재산권을 침해하여서는 아니 된다.\n②재산권의 내용은 공공복리에 적합하도록 법률로 정한다.\n③사유재산은 정당한 보상 하에 공공목적으로 사용할 수 있다."
+    }
+  ]
+}

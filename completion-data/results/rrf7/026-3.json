@@ -1,0 +1,101 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_026",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'모든 국민'과 '법률에 따라(nach Maßgabe der Gesetze)'라는 일반 문형은 겹치나, 규율 대상이 공공부담(조세적 기여)의 분담 의무여서 공무 담임의 권리라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률에 의하여'라는 조건과 '공무(服公務)'라는 규율 대상이 구체적으로 대응한다. 다만 권리가 아니라 의무로 구성되어 있어 효과면에서 정반대이므로, 문언적 대응 범위는 '依法律+公務' 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "규율 대상(공무)과 법률유보 조건",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 公務를 擔任할",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法律服公務",
+          "commonality": "공무에 관한 국민의 지위를 법률이 정하는 바에 따르도록 하는 법률유보 구조와 '공무'라는 대상 용어가 일치한다.",
+          "difference": "대상은 '담임할 권리'로 구성한 반면 후보는 '服公務之義務'로 의무를 부과한다."
+        },
+        {
+          "element": "주체 및 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 법률의 정하는 바에 의하여 공무를 담임할 권리가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有依法律服公務之義務。",
+          "commonality": "주체를 개별 신분 구분 없이 일반적으로 정하고, 법률에 의한 구체화를 전제로 한 단문 구조를 취한다.",
+          "difference": "주체 표기가 '國民'과 '人民'으로 다르고, 효과가 권리 부여와 의무 부담으로 반대된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "근로의 권리·의무와 근로조건 기준, 아동 혹사 금지를 규율하여 공무 담임이라는 대상 요소와 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'모든 국민+법률이 정하는 바에 의하여+권리를 가진다'라는 문형이 대상 조문과 요소별로 대응한다. 다만 권리의 내용(교육 수급)과 '능력에 따라'라는 추가 조건은 대상에 없으므로 대응 범위를 문형과 법률유보부 권리 구성에 한정한다.",
+      "evidence": [
+        {
+          "element": "주체와 법률유보부 권리 문형",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、法律の定めるところにより、",
+          "commonality": "'모든 국민'이라는 포괄적 주체 설정과 '법률이 정하는 바에 의하여'라는 법률유보 문구가 동일한 위치·순서로 나타난다.",
+          "difference": "후보는 이어서 '그 능력에 따라 동등하게'라는 추가 조건을 두지만 대상에는 능력·평등 관련 부가 조건이 없다."
+        },
+        {
+          "element": "효과(권리 부여 형식)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공무를 담임할 권리가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "教育を受ける権利を有する",
+          "commonality": "의무가 아닌 권리 부여로 문장을 마무리하는 구성이 같다.",
+          "difference": "권리의 내용이 공무 담임과 교육 수급으로 전혀 다르며, 후보 제2항은 보호자의 취학 의무·무상 의무교육까지 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_020",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法律'이라는 법률유보 문형은 겹치지만 규율 대상이 병역 의무여서 공무 담임의 권리와 대응하지 않는다. 제시된 한국어 대역문이 대상과 유사한 것은 번역 문투의 문제다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률이 정하는 바에 따라'라는 문구는 공통되나 효과가 납세 의무 부담이어서 권리 조항인 대상과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_019",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法律'+의무 구성의 상용 문형만 공유하고 대상 조문의 공무 담임 권리와 대응하는 구체적 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'담임(擔任)'이라는 어휘 자체와, 공직 취임 기회를 권리로 명시한 구성(후보 중 공무를 권리로 규정한 예는 없음)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·기초 과정의 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "일부 후보의 한국어 대역문이 대상 조문과 유사해 보이는 것은 번역 문투에 기인할 수 있어 원문 기준으로 판단했다."
+  ],
+  "short_answer": "검토할 만한 후보는 중화민국 五五憲草 제23조와 일본국헌법 제26조다. 전자는 '依法律'이라는 법률유보와 '公務'라는 규율 대상이 대상 조문과 직접 겹치지만, 효과가 권리가 아니라 '服公務之義務'로 정반대다. 후자는 '모든 국민은 법률이 정하는 바에 의하여 …권리를 가진다'라는 주체·조건·효과의 문형이 대상과 요소별로 일치하나 권리의 내용이 교육이며 '능력에 따라'라는 조건과 제2항의 취학 의무·무상교육이 추가된다. 나머지 후보(바이마르 제134조, 일본 제27·30조, 중화민국 제19·20조)는 법률유보 상용 문형만 공유하고 대상은 납세·병역·근로·공공부담으로 달라 선택하지 않았다. 이는 문언 대응 수준의 판단이며 역사적 참조 여부를 확정하는 것은 아니다."
+}

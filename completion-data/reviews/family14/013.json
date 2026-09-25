@@ -1,0 +1,80 @@
+{
+  "article": 13,
+  "reviewed_at": "2026-09-22T15:14:30.030169+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "44835d8c3238759f534f531591c9b290a769c977c08b251d52f4048e566dc4b9",
+  "input_sha256": "313afe10ff161243108a47ed412e26bc31aee98b98a42afdbd9d899eef9c01e2",
+  "responses": [
+    {
+      "job_id": "013_1cbe030b88d0_r1",
+      "repeat": 1,
+      "sha256": "743a871447e419c2c793e364f51a0b079d2543162fc66827e8e08d8b7d6e7c97",
+      "assessment": "약헌·일본1889·五五憲草의 법률 유보와 열거 비교는 타당함. 프로이센1850의 출판 제한 입법 유보를 보완하고 필리핀의 결사와 언론·출판·집회 규정을 구별해야 함."
+    },
+    {
+      "job_id": "013_1cbe030b88d0_r2",
+      "repeat": 2,
+      "sha256": "2eae87dbff83dbc1ae59a6cca0ac876cd3ab29fb7a494ef1d1210e75dbbe7485",
+      "assessment": "세 선택 후보의 핵심 비교는 타당함. 집회·결사에 한정된 五五憲草는 선택하면서 출판 제한의 법률 유보가 명시된 프로이센1850은 제외한 기준이 일관되지 않음."
+    },
+    {
+      "job_id": "013_1cbe030b88d0_r3",
+      "repeat": 3,
+      "sha256": "3fb5a7c3b80a64f2d7c54c44925095be6dbcca02ee9d0c484b7db976ca7a714a",
+      "assessment": "핵심 대응은 지지됨. 미설명 요소에서 出版이라는 용어가 후보에 없는 듯 기술한 것은 일본1946·북한안의 원문과 맞지 않음. 필리핀의 두 조항도 나누어 읽어야 함."
+    }
+  ],
+  "synthesis": "약헌의 언론·저작·간행·집회·결사와 법률에 의하지 않은 제한 금지 문형이 가장 가까움. 일본1889는 같은 자유군을 법률의 범위 안에서 보유한다고 규정함. 五五憲草는 집회·결사, 프로이센1850은 출판 제한의 입법 유보라는 부분 대응을 각각 보임. 일본1946·북한안은 언론·출판·집회·결사를 함께 열거하지만 법률 유보가 해당 문장에 없음. 미국·필리핀의 제한 입법 금지는 법률에 근거 없는 제한 금지와 형식이 다르며, 필리핀의 결사 조항은 법에 반하지 않는 목적이라는 별도 조건을 두므로 한꺼번에 같은 입법금지 규정으로 묶으면 안 됨.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PR1850_ORIGINAL_ART_027",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "출판 제한은 입법에 의해서만 가능하다는 직접 대응을 다른 자유의 부재 때문에 제외함. 집회·결사만 규정한 五五憲草를 부분 대응으로 선택한 기준과 일관성이 약함.",
+      "action": "출판 제한의 법률 유보를 부분 대응으로 보완하고 검열은 별도로 금지한다는 차이를 명시함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": null,
+      "type": "false_unexplained_element",
+      "severity": "material",
+      "finding": "미설명 요소에서 후보들은 저작·간행·인행 등만 쓴다고 하였으나 일본1946 제21조와 북한안 제13조에 出版이 그대로 존재함.",
+      "action": "出版이라는 어휘 자체를 미설명으로 두지 않음. 네 자유와 법률 유보를 결합한 구성의 차이만 따로 검토함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "type": "scope_overgeneralization",
+      "severity": "material",
+      "finding": "제6호와 제8호를 함께 입법금지 형식으로 묶음. 제6호의 결사 자유는 법에 반하지 않는 목적을 조건으로 한 제한 금지이며 제8호와 다름.",
+      "action": "결사의 목적 조건과 언론·출판·집회 제한 법률의 제정 금지를 분리하여 비교함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_016",
+      "type": "sentence_structure",
+      "severity": "minor",
+      "finding": "쉼표로 연결된 한 문장을 두 문장이라고 설명함.",
+      "action": "자유 선언과 법률 유보의 두 절로 수정함."
+    }
+  ],
+  "limits": [
+    "법률 유보와 제한 입법 금지의 형식 차이를 기본권 보장의 목적 자체가 반대라는 판단으로 확대하지 않음.",
+    "저작·간행을 출판으로 통합했다는 표현은 두 문언의 배열 차이에 관한 해석이며 실제 수정 과정이나 직접 계수를 확인한 것은 아님."
+  ]
+}

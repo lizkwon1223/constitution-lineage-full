@@ -1,0 +1,98 @@
+{
+  "article": 69,
+  "reviewed_at": "2026-09-22T16:15:19.925481+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "4224615d08bcfe64515ba4bdf31ba3a3ab7e1bf8d4387fb72e607df28f599fd4",
+  "input_sha256": "81a71cf99b5e1edf45444ff8465309d5b330177e0c2775d7e8c573cbb945bb1f",
+  "responses": [
+    {
+      "job_id": "069_1ff75c1c5b15_r1",
+      "repeat": 1,
+      "sha256": "84b6ab88c0ee1cc0417c3102ccb95fcd5e20682dd99548224b4ff5afcd40668f",
+      "assessment": "임명·승인, 인원 구간, 새 의회 절차의 대응을 구분함. 프로이센 후보 한 건이 누락됨."
+    },
+    {
+      "job_id": "069_1ff75c1c5b15_r2",
+      "repeat": 2,
+      "sha256": "903a84a79dde8854a6c7f7310b31e60dedf5cdb041acfd1f04b8356e1fc4eafd",
+      "assessment": "약헌의 상한·하한과 총리 산입의 명시 여부를 적절히 구분함. 프랑스 신임 선행 요건의 예외를 보완해야 함."
+    },
+    {
+      "job_id": "069_1ff75c1c5b15_r3",
+      "repeat": 3,
+      "sha256": "2a045a48d13ffe54710517ad29ff235de7ab74c7021963ccfcbd68a367350539",
+      "assessment": "임명과 입법부 동의의 부분 대응을 포착함. 군 장교 임명과 현역 군인의 각료 취임 제한을 반대 규정으로 읽은 점은 보정이 필요함."
+    }
+  ],
+  "synthesis": "약헌 제26조는 수반 임명과 입법기관 인준, 각료 정수의 상·하한이라는 결합에 대응함. 상한은 15명으로 같고 하한은 10명과 8명으로 다르며, 약헌은 총장 합산 여부를 명시하지 않음. 프랑스 제45조는 새 입법기 개시 시 총리 지명과 의회 신임을 정하나 기존 임명 재승인과 동일하지 않음. 그 신임 선행 규정에는 의회 집회를 방해하는 불가항력 예외가 있음. 오스트리아·중화민국의 대통령 임명은 제청 요건의 차이를 전제로 부분 대응함. 현역 군인 배제와 총리 합산 기준은 이 후보들에서 직접 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "type": "missing_review",
+      "finding": "프로이센 제57조 후보 검토가 누락됨.",
+      "action": "누락을 미선택으로 추정하지 않음.",
+      "candidate_id": "PR1850_ORIGINAL_ART_057",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "qualification_omission",
+      "finding": "프랑스의 신임 선행 요건을 설명하면서 의회 집회를 불가능하게 하는 불가항력 예외를 빠뜨림.",
+      "action": "원칙과 예외를 함께 설명함.",
+      "candidate_id": "FR1946_ORIGINAL_ART_045",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "중화민국의 각료 임명을 제청 요건 때문에 배제하면서 동일한 제청 조건이 있는 오스트리아는 선택함.",
+      "action": "임명 주체의 부분 대응과 제청 절차 차이를 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "false_contrast",
+      "finding": "필리핀의 군 장교 임명권과 현역 군인의 총리·각료 임명 제한을 반대 방향이라고 설명함. 서로 다른 직위로의 임명임.",
+      "action": "임명 대상 직위를 구별함.",
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "scope_precision",
+      "finding": "약헌 정수를 총장 제외 국무위원만의 수라고 확정함. 원문은 총장 합산 여부를 명시하지 않음.",
+      "action": "총장 산입 여부 불명으로 표시함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "unsupported_unrestricted_power",
+      "finding": "제청 요건의 미기재를 제청 없는 대통령 단독 임명으로 일반화함.",
+      "action": "이 조문 자체에 제청을 명시하지 않았다고 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

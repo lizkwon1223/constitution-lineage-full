@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_065",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "65",
+    "original_text": "大統領은 勳章 其他 榮譽를 授與한다.",
+    "workbook_text_ko": "대통령은 훈장 기타 영예를 수여한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1850_ORIGINAL_ART_050",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "50",
+      "original_text": "Dem Könige steht die Verleihung von Orden und anderen mit Vorrechten nicht verbundenen Auszeichnungen zu.\nEr übt das Münzrecht nach Maaßgabe des Gesetzes.",
+      "workbook_text_ko": "훈장 그리고 기타, 특권과\n결합되지 않은, 영전의 수여권은 국\n왕에게 속한다.\n국왕은 법률에 따라 화폐주조권을\n행사한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_015",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "15",
+      "original_text": "天皇ハ爵位勲章及其ノ他ノ栄典ヲ授与ス",
+      "workbook_text_ko": "천황은 작위·훈장 및 그 밖의 영전을 수여한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_043",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "43",
+      "original_text": "總統依法授與榮典。",
+      "workbook_text_ko": "총통은 법률에 따라 영전을 수여한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_031",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "31",
+      "original_text": "Le président de la République est tenu informé des négociations internationales. Il signe et ratifie les traités.\nLe président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères ; les ambassadeurs et les envoyés extraordinaires étrangers sont accrédités auprès de lui.",
+      "workbook_text_ko": "공화국대통령은 국제교섭에 대해서 계속 보고를 받는다. 공화국대통령은\n조약에 서명하고, 조약을 비준한다.\n공화국대통령은 외국주재의 대사와 특사에게 보내는 신임장을 수여하고,\n주프랑스 대사와 특사는 대통령에게 신임장을 제정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_042",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "42",
+      "original_text": "總統依法授與榮典。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 榮典을 授與한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_022",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "22",
+      "original_text": "政府主席은 國家를 代表하고 行政權을 統轄하며 左의 權限을 行함\n一 法律案의 提出\n二 法律의 公布\n三 法律에서 一定한 範圍를 定하야 委任을 받은 命令 及 法律 執行에 必要한 命令의 制定 公布\n四 職制 及 俸給基準의 制定\n五 陸海空軍의 統轄\n六 條約締結 及 宣戰媾和\n七 外國大使 公使 及 領事의 接受\n八 本法 其他 法律이 定하는 바에 依한 公務員의 任免 及 監督\n九 勳章 其他 榮典의 授與\n十 大赦 特赦 減刑 及 復權의 命令\n十一 法律의 定한 바에 依한 戒嚴의 宣布",
+      "workbook_text_ko": "정부주석은 국가를 대표하고 행정권을 통할하며 아래의 권한을 행함.\n1. 법률안의 제출\n2. 법률의 공포\n3. 법률에서 일정한 범위를 정하여 위임을 받은 명령 및 법률 집행에 필요한 명령의 제정·공포\n4. 직제 및 봉급기준의 제정\n5. 육해공군의 통할\n6. 조약 체결 및 선전·강화\n7. 외국 대사·공사 및 영사의 접수\n8. 본법, 기타 법률이 정하는 바에 의한 공무원의 임면 및 감독\n9. 훈장, 기타 영전의 수여\n10. 대사·특사·감형 및 복권의 명령\n11. 법률이 정한 바에 의한 계엄의 선포"
+    }
+  ]
+}

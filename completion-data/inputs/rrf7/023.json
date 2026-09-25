@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_023",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "23",
+    "original_text": "모든 國民은 行爲時의 法律에 依하여 犯罪를 構成하지 아니하는 行爲에 對하여 訴追를 받지 아니하며 또 同一한 犯罪에 對하여 두 번 處罰되지 아니한다.",
+    "workbook_text_ko": "모든 국민은 행위시의 법률에 의하여 범죄를 구성하지 아니하는 행위에 대하여 소추를 받지 아니하며 또 동일한 범죄에 대하여 두 번 처벌되지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_031",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "31",
+      "original_text": "何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。",
+      "workbook_text_ko": "누구든지 법률에서 정하는 절차에 의하지 아니하고는 그 생명 또는 자유를 박탈당하거나 그 밖의 형벌을 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_013",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "13",
+      "original_text": "すべて国民は、個人として尊重される。生命、自由及び幸福追求に対する国民の権利については、公共の福祉に反しない限り、立法その他の国政の上で、最大の尊重を必要とする。",
+      "workbook_text_ko": "모든 국민은 개인으로서 존중된다. 생명, 자유 및 행복추구에 대한 국민의 권리는 공공복리에 반하지 아니하는 한 입법 그 밖의 국정에 있어 최대한 존중된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_039",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "39",
+      "original_text": "何人も、実行の時に適法であつた行為又は既に無罪とされた行為については、刑事上の責任を問はれない。又、同一の犯罪について、重ねて刑事上の責任を問はれない。",
+      "workbook_text_ko": "누구든지 실행 당시에 적법하였던 행위 또는 이미 무죄가 된 행위에 대하여 형사상 책임을 지지 아니한다.\n또한 동일한 범죄에 대하여 거듭 형사상의 책임을 지지 아니한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "13",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "어느 원의 어떤 의원도 그 직무행사에서 그가 표명한 의견 또는 투표\n에 대해서 소추를 받거나 추궁되지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_033",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "33",
+      "original_text": "何人も、現行犯として逮捕される場合を除いては、権限を有する司法官憲が発し、且つ理由となつてゐる犯罪を明示する令状によらなければ、逮捕されない。",
+      "workbook_text_ko": "누구든지, 현행범으로 체포되는 경우를 제외하고는, 권한이 있는 사법관헌이 발부하고 이유가 되는 범죄를 명시한 영장에 의하지 아니하고는 체포되지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_014",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "14",
+      "original_text": "すべて国民は、法の下に平等であつて、人種、信条、性別、社会的身分又は門地により、政治的、経済的又は社会的関係において、差別されない。\n２　華族その他の貴族の制度は、これを認めない。\n３　栄誉、勲章その他の栄典の授与は、いかなる特権も伴はない。栄典の授与は、現にこれを有し、又は将来これを受ける者の一代に限り、その効力を有する。",
+      "workbook_text_ko": "①모든 국민은 법 앞에 평등하며, 인종, 신조(信條), 성별, 사회적 신분 또는 가문에 의하여 정치적･경제적 또는 사회적 관계에 있어서 차별받지 아니한다.\n②화족(華族) 그 밖의 귀족제도는 인정하지 아니한다.\n③영예, 훈장 그 밖의 영전의 수여에는 어떠한 특권도 따르지 아니한다. 영전의 수여는 현재 이를 가지고 있거나 장래 이를 받을 자의 당대에 한하여 그 효력이 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_018",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "18",
+      "original_text": "何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+      "workbook_text_ko": "누구든지 어떠한 노예적 구속도 받지 아니한다. 또 범죄로 인하여 처벌받는 경우를 제외하고는 강제노역을 받지 아니한다."
+    }
+  ]
+}

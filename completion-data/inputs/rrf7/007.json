@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_007",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "7",
+    "original_text": "批准公布된 國際條約과 一般的으로 承認된 國際法規는 國內法과 同一한 效力을 가진다.\n外國人의 法的地位는 國際法과 國際條約의 範圍內에서 保障된다.",
+    "workbook_text_ko": "비준공포된 국제조약과 일반적으로 승인된 국제법규는 국내법과 동일한 효력을 가진다.\n외국인의 법적지위는 국제법과 국제조약의 범위내에서 보장된다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_009",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "9",
+      "original_text": "Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteile des Bundesrechtes.",
+      "workbook_text_ko": "일반적으로 승인된 국제법의 규칙은 연방법의 구성부분으로서 효력을 가진다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_027",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "27",
+      "original_text": "Les traités relatifs à l'organisation internationale, les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ceux qui modifient les lois internes françaises, ainsi que ceux qui comportent cession, échange, adjonction de territoire, ne sont définitifs qu'après avoir été ratifiés en vertu d'une loi.\nNulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.",
+      "workbook_text_ko": "국제기구에 관한 조약ㆍ평화조약ㆍ통상조약ㆍ국가재정(finances de\nl'État)을 구속하는 조약, 사람의 신분(état des personnes)과 외국에 있는 프랑스인의 소유권(droits de propriété)에 관련된 조약, 프랑스의 국내법(loi\ninterne)을 수정하는 것과 영토의 할양ㆍ교환ㆍ부가를 포함하는 것은, 법률에 의거하여 비준된 후가 아니면 확정적인 것이 되지 아니한다.\n영토의 어떠한 할양ㆍ교환ㆍ부가도 이해관계 있는 주민(population\nintéressée)의 동의가 없으면 유효한 것이 아니다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_098",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "98",
+      "original_text": "この憲法は、国の最高法規であつて、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。\n２　日本国が締結した条約及び確立された国際法規は、これを誠実に遵守することを必要とする。",
+      "workbook_text_ko": "①헌법은 국가의 최고법규로서, 이에 반하는 법률, 명령, 조칙 및 국무에 관한 그 밖의 행위 전부 또는 일부는 그 효력이 없다.\n②일본이 체결한 조약 및 확립된 국제법규는 이를 성실하게 준수하여야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_028",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "28",
+      "original_text": "Les traités diplomatiques régulièrement ratifiés et publiés ayant une autorité supérieure à celle des lois internes, leurs dispositions ne peuvent être abrogées, modifiées ou suspendues qu'à la suite d'une dénonciation régulière, notifiée par voie diplomatique. Lorsqu'il s'agit d'un des traités visés à l'article 27, la dénonciation doit être autorisée par l'Assemblée nationale, exception faite pour les traités de commerce.",
+      "workbook_text_ko": "적법하게 비준되고 또 공포된 외교조약은 국내법에 우월하는 권위를 가지므로, 그 규정은 외교적 수단으로 통지된 정식의 통고(dénonciation\nrégulière) 후가 아니면 철폐ㆍ수정ㆍ정지될 수 없다. 제27조에 규정한 조약\n이 문제가 될 때에는 통고는 국민의회가 허가하여야 한다. 다만, 통상조약\n에 대해서는 예외로 한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_009",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "9",
+      "original_text": "Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteile des Bundesrechtes.",
+      "workbook_text_ko": "일반적으로 승인된 국제법의 규칙은 연방법의 구성부분으로서 효력을 가진다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_026",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "26",
+      "original_text": "Les traités diplomatiques régulièrement ratifiés et publiés ont force de loi dans le cas même où ils seraient contraires à des lois françaises, sans qu'il soit besoin pour en assurer l'application d'autres dispositions législatives que celles qui auraient été nécessaires pour assurer leur ratification.",
+      "workbook_text_ko": "적법하게 비준․공포된 외교조약은 프랑스의 법률(lois françaises)에\n반하는 경우에도 법률로서의 효력을 가진다. 조약의 적용을 확보하기 위하여, 그 비준을 확보하는 데 필요하였던 법률 규정 외에 다른 법률 규정을 필요로 하지 아니한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_031",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "31",
+      "original_text": "Le président de la République est tenu informé des négociations internationales. Il signe et ratifie les traités.\nLe président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères ; les ambassadeurs et les envoyés extraordinaires étrangers sont accrédités auprès de lui.",
+      "workbook_text_ko": "공화국대통령은 국제교섭에 대해서 계속 보고를 받는다. 공화국대통령은\n조약에 서명하고, 조약을 비준한다.\n공화국대통령은 외국주재의 대사와 특사에게 보내는 신임장을 수여하고,\n주프랑스 대사와 특사는 대통령에게 신임장을 제정한다."
+    }
+  ]
+}

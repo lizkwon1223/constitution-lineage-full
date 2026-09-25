@@ -1,0 +1,95 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_068",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 행정기관의 구성원을 '수반(총리)+기타 국무위원(국무대신)'으로 열거하고 '組織한다'는 동일 문형으로 규정하는 점에서 구성 요소가 구체적으로 대응한다. 다만 대통령의 구성원 포함, 합의체 규정, 중요 국책 의결권은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "기관의 구성(조직) 방식",
+          "target_field": "original_text",
+          "target_quote": "大統領과 國務總理 其他의 國務委員으로 組織되는",
+          "candidate_field": "original_text",
+          "candidate_quote": "その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する",
+          "commonality": "수반격 총리와 '기타 국무위원/국무대신'을 열거해 기관을 '組織'한다는 구성 문형이 일치한다.",
+          "difference": "대상은 대통령까지 구성원에 포함하고 총리를 수장으로 규정하지 않으나, 후보는 내각총리대신을 '首長'으로 명시하고 원수는 구성원에서 제외한다. 또한 후보는 '법률이 정하는 바에 따라'라는 법률유보를 둔다."
+        },
+        {
+          "element": "기관의 권한·기능",
+          "target_field": "original_text",
+          "target_quote": "大統領의 權限에 屬한 重要 國策을 議決한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、行政権の行使について、国会に対し連帯して責任を負ふ",
+          "commonality": "기관 구성 규정에 이어 그 기관의 지위·작용을 같은 조문에서 함께 규정한다.",
+          "difference": "대상은 대통령 권한사항에 대한 '의결'이라는 합의제 심의·의결 효과를 정하는 반면, 후보는 행정권 행사에 대한 국회에 대한 연대책임을 정하여 규율 대상과 효과가 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정각부장의 임명 절차와 행정각부 조직의 법률유보를 정한 규정으로, 대상 조문의 국무원 구성과 의결권에 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국무총장·국무위원이라는 직명은 겹치나, 내용은 임명권자·인준절차·정수에 관한 것으로 대상의 기관 구성·의결권 규율과는 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 국무기관의 구성원을 열거하고 '~으로써 組織함'으로 규정하는 문형이 대상의 구성 부분과 직접 대응한다. 대응 범위는 구성 규정에 한정되며 의결권·대통령의 구성원 지위는 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "기관의 구성(조직) 방식",
+          "target_field": "original_text",
+          "target_quote": "國務總理 其他의 國務委員으로 組織되는",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務會議는 國務總長 及 國務委員으로써 組織함",
+          "commonality": "총리격 수반과 국무위원을 열거하여 국무기관을 '組織'한다는 구성 문형과 용어(국무위원)가 대응한다.",
+          "difference": "대상은 대통령을 구성원에 포함하고 기관명이 '국무원'이며 '합의체'임을 명시하는 반면, 후보는 국무총장·국무위원만으로 구성되는 '국무회의'로 원수를 구성원에서 제외한다. 후보에는 의결 권한에 관한 문언이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_028",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국무총장의 수반 지위와 국무회의 의장직을 정한 규정으로 주제는 인접하나, 대상 조문의 구성원 열거 문형이나 중요 국책 의결이라는 효과와 구체적 대응은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "부서와 그에 따른 입법의원에 대한 책임을 정한 규정으로, 대상 조문의 기관 구성·의결권과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_046",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "총리와 장관이라는 직위가 등장하나 내용은 대통령 데크레에 의한 임명 절차로, 대상의 합의체 구성과 중요 국책 의결이라는 요소에 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "대통령이 국무원의 구성원이 된다는 점",
+    "'合議體'라는 기관 성격의 명시",
+    "'大統領의 權限에 屬한 重要 國策'이라는 의결 대상의 한정",
+    "의결이라는 효과(심의가 아닌 의결)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로는 불가하다.",
+    "일본국헌법 제66조와 조선임시약헌 제25조는 구성 문형이 유사하나 어느 쪽이 직접적 원형인지는 판단할 수 없다."
+  ],
+  "short_answer": "대상 조문의 구성 부분('총리 기타 국무위원으로 조직')에 대해서는 일본국헌법 제66조 제1항과 조선임시약헌 제25조가 구체적 문형·용어 대응을 보여 후속 비교에 유용하다. 두 후보 모두 수반과 국무위원(국무대신)을 열거하여 기관을 '組織'한다는 동일 구조를 취한다. 그러나 대상은 대통령을 구성원에 포함하고 기관을 '합의체'로 명시하며 '대통령의 권한에 속한 중요 국책을 의결'하는 효과를 규정하는데, 이 부분은 두 후보에 대응 문언이 없다. 나머지 약헌 조항들과 프랑스 제4공화국헌법 제46조는 임명·부서·의장직 등 다른 규율 요소를 다루어 선택하지 않았다. 문언 대응의 확인일 뿐 역사적 영향의 확정은 아니다."
+}

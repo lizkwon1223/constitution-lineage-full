@@ -1,0 +1,130 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_011",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "군사재판 관할 배제에 관한 조항으로, 통신의 비밀 보호라는 대상 조문의 규율 대상과 무관하다. '除…外' 형태의 예외 문형만 유사할 뿐 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_021",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'통신의 비밀'이라는 보호법익과 '침해받지 아니한다'는 소극적 보장 문형이 직접 대응한다. 다만 법률유보 문구가 없고 표현의 자유·검열 금지와 함께 규정된다는 점에서 범위는 제한된다.",
+      "evidence": [
+        {
+          "element": "보호법익(통신의 비밀)",
+          "target_field": "original_text",
+          "target_quote": "通信의 秘密을 侵害받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "通信の秘密は、これを侵してはならない",
+          "commonality": "통신의 비밀을 침해할 수 없다는 소극적 보장 형식이 동일하다.",
+          "difference": "후보는 표현의 자유·검열 금지와 한 조문에 묶여 있고, 침해 금지의 수범자를 국가로 향한 금지형('侵してはならない')으로 적은 반면 대상은 국민을 주어로 한 수동형이다."
+        },
+        {
+          "element": "제한 근거(법률유보)",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "検閲は、これをしてはならない。通信の秘密は、これを侵してはならない。",
+          "commonality": "둘 다 통신의 비밀 침해를 원칙적으로 금지한다.",
+          "difference": "대상은 법률에 의한 제한을 허용하는 법률유보를 두었으나, 후보는 법률유보 없이 절대적 금지 형식이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률에 의한 예외를 제외하고 비밀을 침해당하지 아니한다'는 법률유보부 소극적 보장 문형이 대상 조문과 구조적으로 거의 일치한다.",
+      "evidence": [
+        {
+          "element": "법률유보 + 침해 금지 문형",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는 通信의 秘密을 侵害받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律ニ定メタル場合ヲ除ク外信書ノ秘密ヲ侵サルヽコトナシ",
+          "commonality": "법률에 근거한 경우에만 비밀 침해가 허용된다는 법률유보와, 권리주체를 주어로 한 '침해당하지 아니한다'는 수동형 보장 구조가 같다.",
+          "difference": "후보는 '法律ニ定メタル場合ヲ除ク外'(법률이 정한 경우를 제외하고)로 예외 방식이고 대상은 '法律에 依하지 아니하고는'으로 근거 방식이다."
+        },
+        {
+          "element": "보호객체 범위",
+          "target_field": "original_text",
+          "target_quote": "通信의 秘密",
+          "candidate_field": "original_text",
+          "candidate_quote": "信書ノ秘密",
+          "commonality": "사적 의사전달의 비밀을 보호한다는 점이 공통된다.",
+          "difference": "후보는 '信書'(서신)로 한정되나 대상은 '통신'으로 더 넓다."
+        },
+        {
+          "element": "권리주체",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本臣民ハ",
+          "commonality": "국적 보유자를 주체로 삼는다.",
+          "difference": "대상은 '모든 국민', 후보는 '신민'으로 주체 개념과 지위 전제가 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률에 정한 절차에 의하지 아니하고는'이라는 유보 문형은 유사하나, 보호대상이 생명·자유 박탈과 형벌이어서 통신의 비밀과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_018",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노예적 구속·강제노역 금지 조항으로 보호법익과 제한 요건이 대상 조문과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_011",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "기본적 인권 총칙 규정으로, 통신의 비밀이라는 개별 보호법익이나 법률유보 문형의 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "통신의 비밀을 보호하면서 '법률에 의하지 않고는' 제한할 수 없다는 법률유보를 명시하여, 대상 조문의 보호법익과 유보 요건이 함께 대응한다.",
+      "evidence": [
+        {
+          "element": "법률유보",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "非依法律不得限制之",
+          "commonality": "법률에 근거하지 않은 제한을 금지하는 동일한 법률유보 표현을 쓴다.",
+          "difference": "후보는 '제한'의 근거를 규율하는 능동적 금지문이고, 대상은 '침해받지 아니한다'는 권리주체 중심 수동형이다."
+        },
+        {
+          "element": "보호법익과 권리형식",
+          "target_field": "original_text",
+          "target_quote": "通信의 秘密을 侵害받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有祕密通訊之自由",
+          "commonality": "통신의 비밀을 헌법상 보호대상으로 삼는다.",
+          "difference": "후보는 '비밀통신의 자유를 가진다'는 적극적 권리부여 형식이고 주체가 '人民'인 반면, 대상은 침해 금지형이고 주체가 '모든 국민'이다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'모든 국민'이라는 주체 표현의 구체적 연원",
+    "침해 시의 구제·절차·효과에 관한 규정 부재"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 실제 참조·계수의 역사적 사실은 제공 본문만으로 확정할 수 없다.",
+    "후보 원문과 병기된 번역문 간 표현 차이가 있어 비교는 원문 문언을 기준으로 했다."
+  ],
+  "short_answer": "대일본제국헌법 제26조는 '법률이 정한 경우를 제외하고 비밀을 침해당하지 아니한다'는 법률유보부 수동형 보장 구조가 대상 조문과 거의 그대로 대응하여 가장 가까운 비교 대상이다. 중화민국 五五憲草 제14조는 통신의 비밀을 보호하면서 '非依法律不得限制之'라는 법률유보를 명시한 점에서 대응하나, 권리부여형 문형과 '人民' 주체라는 차이가 있다. 일본국헌법 제21조 제2항은 '통신의 비밀' 침해 금지라는 보호법익이 일치하지만 법률유보가 없는 절대적 금지형이라는 점에서 조건 요소가 다르다. 나머지 후보들은 군사재판·적법절차·노예적 구속·기본권 총칙에 관한 것으로 통신의 비밀이라는 규율 대상과 구체적 대응이 없다. 이상은 문언 대응에 관한 판단이며 역사적 영향의 확정은 아니다."
+}

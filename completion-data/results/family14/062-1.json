@@ -1,0 +1,207 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_062",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_091",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'任免'이라는 용어만 공유한다. 임면 주체가 검사총장이고 대상이 도·시·군검사로 한정되며, 헌법·법률의 근거 유보 문구도 없어 대상 조문의 규율 요소(대통령의 포괄적 공무원 임면권)와 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_046",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 공무원을 임면한다는 주체·권한 구조와 법률에 의한 유보를 결합한 문형이 대응한다. 다만 임면 대상의 열거(공무원·장교)와 임면권 위임 조항은 대상 조문에 없어 대응 범위를 임면 주체와 법률 유보에 한정한다.",
+      "evidence": [
+        {
+          "element": "임면 주체와 권한",
+          "target_field": "original_text",
+          "target_quote": "大統領은",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident ernennt und entläßt die Reichsbeamten",
+          "commonality": "대통령을 임면권의 주체로 규정한다",
+          "difference": "후보는 임면 대상을 '제국공무원과 장교'로 명시하나 대상 조문은 '공무원'으로 포괄한다"
+        },
+        {
+          "element": "법률에 의한 유보",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "soweit nicht durch Gesetz etwas anderes bestimmt ist",
+          "commonality": "임면권 행사가 법률에 의해 규율·제한된다는 점",
+          "difference": "대상은 헌법과 법률이 정하는 바에 '의하여'라는 적극적 근거 형식이고, 후보는 법률로 달리 정하지 않는 한이라는 소극적 예외 형식이며 헌법은 언급되지 않는다"
+        },
+        {
+          "element": "임면권의 위임 여부",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공무원을 임면한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Er kann das Ernennungs- und Entlassungsrecht durch andere Behörden ausüben lassen.",
+          "commonality": "임면권의 행사 방식을 조문에서 다룬다",
+          "difference": "후보는 다른 관청에 임면권 행사를 맡길 수 있는 위임 규정을 두지만, 대상 조문에는 위임 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_015",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "공무원의 선정·파면을 국민의 고유 권리로 규정하여, 임면 주체가 대통령인 대상 조문과 주체·성격(기본권 조항 대 대통령 권한 조항)이 정면으로 다르다. 소재만 '공무원'으로 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 모든 문·무관을 임명한다는 권한 규정이 있으나 '임명'만 규정하고 면직(임면)이나 헌법·법률에 의한 근거 유보 문구가 없으며, 대통령 권한을 열거한 목록 조문이라는 점에서 대상 조문의 단일 문형과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'본법 기타 법률이 정하는 바에 의한 공무원의 임면'이라는 표현이 대상 조문의 '헌법과 법률의 정하는 바에 의하여 공무원을 임면한다'와 임면 대상 표기('공무원'), 근거 유보(헌법=본법 + 법률), 임면 문형에서 구체적으로 대응한다. 다만 후보는 권한 열거식이고 '감독'까지 포함하므로 대응 범위를 해당 호에 한정한다.",
+      "evidence": [
+        {
+          "element": "임면 대상과 근거 유보",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律의 定하는 바에 依하여 公務員을 任免한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法 其他 法律이 定하는 바에 依한 公務員의 任免 及 監督",
+          "commonality": "헌법(본법)과 법률이 정하는 바에 의하여 '공무원'을 임면한다는 근거 유보와 대상 표기가 일치한다",
+          "difference": "후보는 임면에 '감독'을 더하고, 조문 형식이 권한 열거의 한 호이다"
+        },
+        {
+          "element": "임면 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國家를 代表하고 行政權을 統轄하며",
+          "commonality": "국가원수 겸 행정수반이 임면권을 보유하는 구조",
+          "difference": "주체 명칭이 정부주석이며, 대표·행정통할 권한과 함께 여러 권한이 한 조문에 통합되어 있다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공무원 임명권을 규정하나 상원의 권고와 동의라는 절차 요건, 하급공무원 임명권의 법률상 배분 등이 핵심이며, 대상 조문의 '헌법과 법률의 정하는 바에 의하여 임면한다'는 단문형과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 임명권을 규정하지만 임명위원회 동의, 계급별 대상 열거, 휴회 중 임명 등 절차·조건 중심이며 면직을 포함한 포괄적 '임면' 문형과 헌법·법률 유보의 대응은 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_041",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'總統依法任免…'는 대통령이 법에 의하여 임면한다는 주체·권한·근거 유보·문형이 대상 조문과 단문 구조로 거의 일대일 대응한다. 다만 임면 대상이 '文武官員'으로 특정되고 헌법은 근거로 언급되지 않는다.",
+      "evidence": [
+        {
+          "element": "주체·근거·임면 문형",
+          "target_field": "original_text",
+          "target_quote": "大統領은 憲法과 法律의 定하는 바에 依하여 公務員을 任免한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法任免文武官員",
+          "commonality": "국가원수가 법에 의하여 관원을 임면한다는 단문 구조가 일치한다",
+          "difference": "근거가 '依法'(법률)만이고 대상은 문무관원으로, 대상 조문의 '헌법과 법률' 병렬 및 포괄적 '공무원'과 다르다"
+        },
+        {
+          "element": "근거 유보 문구",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "workbook_text_ko",
+          "candidate_quote": "法律의 定하는 바에 依하여",
+          "commonality": "'법률의 정하는 바에 의하여'라는 표현이 문자 그대로 겹친다",
+          "difference": "후보 측 인용은 한국어 번역문이어서 문언 일치가 번역 선택에 의존하며, 원문 '依法'은 헌법을 포함하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_066",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방대통령의 공무원 임명권을 전제하지만 조문의 규율 대상은 그 권한의 위임이며, 임면(면직 포함)과 헌법·법률 유보라는 대상 조문 요소와의 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_052",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공무원 임명권 규정이지만 주체가 주내각이고 임명만 규정하며 법률 유보 문구도 없어 대상 조문과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_042",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "ROC1946 제41조와 동일한 문언으로, 국가원수가 법에 의하여 관원을 임면한다는 단문형이 대상 조문과 대응한다. 대응 범위는 주체·근거 유보·임면 동사 구조에 한정된다.",
+      "evidence": [
+        {
+          "element": "주체·근거·임면 문형",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律의 定하는 바에 依하여 公務員을 任免한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法任免文武官員",
+          "commonality": "'…법에 의하여 …임면한다'는 최소 요건형 단문 구조",
+          "difference": "근거에 헌법이 빠지고 대상이 문무관원으로 한정된다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국왕이 장관을 임면한다는 규정으로 임면 문형은 겹치지만 대상이 장관에 한정되고 법률 유보가 없어 포괄적 공무원 임면권 규정과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_010",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'문무관을 임면한다'는 임면 문형과 함께 '이 헌법 또는 다른 법률'이라는 헌법·법률 병렬 유보가 대상 조문의 '헌법과 법률의 정하는 바에 의하여'와 구체적으로 대응한다. 다만 주체가 천황이고 관제·봉급 결정권이 함께 규정되며 유보가 '특례' 형식이라는 점은 다르다.",
+      "evidence": [
+        {
+          "element": "헌법·법률 병렬 유보",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "此ノ憲法又ハ他ノ法律ニ特例ヲ掲ケタルモノハ",
+          "commonality": "임면권의 한계를 헌법과 법률을 병렬로 들어 설정한다",
+          "difference": "후보는 헌법·법률에 '특례'가 있으면 그에 따른다는 단서(예외) 형식이고, 대상은 헌법·법률에 의거한다는 적극적 근거 형식이다"
+        },
+        {
+          "element": "임면 대상과 동사",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공무원을 임면한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "文武官ヲ任免ス",
+          "commonality": "임명과 면직을 합친 '임면' 권한을 한 문장으로 규정",
+          "difference": "대상이 문무관으로 표기되고, 주체가 천황이며 관제·봉급 제정권이 같은 조문에 결합되어 있다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_084",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 임명권을 다루지만 사법관에 한정되고 최고평의회의 추천이라는 절차가 핵심이어서, 포괄적 공무원 임면과 헌법·법률 유보라는 대상 요소와 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'헌법과 법률'을 근거로 병렬 제시하면서 예외·단서 없이 적극적 수권 형식만 취한 점(약헌·JP1889에 부분 대응은 있으나 완전한 대응형은 확인되지 않음)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 어느 후보가 실제 기초 과정에 영향을 주었는지는 제공된 본문만으로 확정할 수 없다.",
+    "ROC1946 후보의 한국어 혼용 번역문과의 문구 일치는 번역 선택에 의존하므로 원문 대응과 구분하였다."
+  ],
+  "short_answer": "검토 가치가 있는 후보는 조선임시약헌 제22조 제8호, 대일본제국헌법 제10조, 중화민국헌법 제41조 및 五五憲草 제42조, 바이마르헌법 제46조다. 공통점은 국가원수(또는 행정수반)가 법령에 근거하여 공무원을 '임면'한다는 단문형 권한 규정이며, 특히 약헌은 '본법 기타 법률이 정하는 바에 의한 공무원의 임면'으로 근거 유보와 '공무원'이라는 포괄적 대상 표기가, JP1889는 '이 헌법 또는 다른 법률'이라는 헌법·법률 병렬 유보가 대응한다. 차이로는 주체(정부주석·천황·총통·제국대통령), 대상 범위(문무관원, 제국공무원과 장교, 장관 등), 유보 형식(적극적 수권 대 단서·예외형), 부가 요소(감독권, 관제·봉급 제정권, 임면권 위임)가 있다. 미국·필리핀·프랑스·오스트리아·프로이센·프랑스 제4공화국 조항은 동의 절차, 특정 직위, 위임 등 다른 규율 요소가 중심이어서 선택하지 않았고, 일본국헌법 제15조는 임면 주체를 국민으로 하는 대조 사례다. 이상은 문언상 대응 판단이며 역사적 참조 여부의 확정은 아니다."
+}

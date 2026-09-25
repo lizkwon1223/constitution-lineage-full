@@ -1,0 +1,210 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_091",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_129",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조세·공채·전매 등 개별 재정행위의 의결 요건을 열거한 조항으로, 총수입·총지출의 예산 편성·제출, 계속비, 증액·신비목 금지라는 대상 조문의 규율 요소와 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "감사원장의 임명·권한·불복 절차에 관한 결산·감사 조항으로, 예산 편성·의결 절차를 다루는 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_099",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가의 모든 수입·지출을 매년 사전에 추계하여 예산에 편입한다는 점은 제1항과 주제상 겹치지만, 확정 방식이 '법률'이고 제출 주체·시기, 계속비, 증액 금지 등 대상 조문의 구체 요소가 없어 후속 비교의 추가 이점이 적다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 발의·비준 절차 조항으로 예산과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "정부(행정원)가 차년도 예산안을 입법기관에 제출한다는 구조는 유사하나, 제출 시기 기준이 '회계연도 개시 3개월 전'으로 대상의 '정기회개회초'와 다르고, 의결 효과·계속비·증액 금지 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방정부가 수입·지출 예산안을 의회에 제출한다는 점은 겹치지만, 제출 시기(회계연도 종료 10주 전), 예산 불성립시 잠정집행, 예정외 지출의 사후승인 등 대상 조문에 없는 규율이 중심이어서 구체적 문형 대응은 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_085",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "총수입·총지출의 회계연도별 예산 편입(제1항), 특별한 경우 1년을 넘는 지출 승인(계속비에 대응하는 제2항), 동의 없는 지출 증액·신규 편성 금지(제3항)의 세 요소가 모두 대응한다. 다만 동의 주체가 정부가 아니라 제국상원이라는 점이 핵심 차이다.",
+      "evidence": [
+        {
+          "element": "총수입·총지출의 회계연도별 예산 편성",
+          "target_field": "original_text",
+          "target_quote": "政府는 國家의 總收入과 總支出을 會計年度마다 豫算으로 編成하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Einnahmen und Ausgaben des Reichs müssen für jedes Rechnungsjahr veranschlagt und in den Haushaltsplan eingestellt werden.",
+          "commonality": "국가의 모든 수입과 지출을 회계연도 단위로 예산에 편성·편입하도록 하는 포괄성 요구가 일치한다.",
+          "difference": "대상은 편성 주체를 '정부'로 명시하고 국회 의결을 요구하나, 후보는 주체를 명시하지 않고 예산을 '법률'로 확정하는 구조다."
+        },
+        {
+          "element": "계속지출(계속비)의 허용",
+          "target_field": "original_text",
+          "target_quote": "特別히 繼續支出의 必要가 있을 때에는 年限을 定하여 繼續費로서 國會의 議決을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Ausgaben werden in der Regel für ein Jahr bewilligt; sie können in besonderen Fällen auch für eine längere Dauer bewilligt werden.",
+          "commonality": "1년 단위 원칙의 예외로 특별한 경우 복수 연도에 걸친 지출 승인을 인정한다.",
+          "difference": "대상은 '연한을 정하여 계속비로서' 국회 의결을 얻는 형식을 명시하나, 후보는 '더 긴 기간' 승인 가능이라고만 하고 연한 설정 절차를 규정하지 않는다."
+        },
+        {
+          "element": "증액·신비목 설치 금지",
+          "target_field": "original_text",
+          "target_quote": "國會는 政府의 同意없이는 政府가 提出한 支出豫算 各項의 金額을 增加하거나 또는 新費目을 設置할 수 없다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichstag kann im Entwurfe des Haushaltsplans ohne Zustimmung des Reichsrats Ausgaben nicht erhöhen oder neu einsetzen.",
+          "commonality": "의회가 동의 없이는 예산안의 지출을 증액하거나 새로 편성할 수 없다는 금지 문형이 거의 동일하다.",
+          "difference": "동의 주체가 대상에서는 '정부'이고 후보에서는 '제국상원(Reichsrat)'이며, 후보는 그 동의를 제74조 절차로 대체할 수 있다는 예외를 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산법률의 선(先)제출·선의결을 정한 양원 관계 규정으로, 정부의 예산 제출·의결, 계속비, 증액 금지라는 대상 요소와 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_094",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'매년 (집행부가) 편성하여 (의회의) 승인을 받아야 한다'는 문형이 유사하지만, 효과가 '승인'이고 총수입·총지출 포괄성, 제출 시기, 계속비, 증액 금지 등 구체 요소가 모두 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가의 세출세입을 매년 예산으로써 의회의 협찬을 거친다'는 제1항 문형이 대상 제1항의 '국가의 총수입과 총지출을 회계연도마다 예산으로 편성하여 국회의 의결을 얻어야 한다'와 구조적으로 대응한다. 다만 제2항은 초과·예산외 지출의 사후 승낙으로 대상의 계속비·증액금지와 다르다.",
+      "evidence": [
+        {
+          "element": "국가 세입·세출의 연도별 예산과 의회 의결",
+          "target_field": "original_text",
+          "target_quote": "國家의 總收入과 總支出을 會計年度마다 豫算으로 編成하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "国家ノ歳出歳入ハ毎年予算ヲ以テ帝国議会ノ協賛ヲ経ヘシ",
+          "commonality": "국가의 세입·세출 전체를 매년 예산의 형식으로 의회의 의결(협찬)에 부치는 원칙이 동일하다.",
+          "difference": "대상은 편성·제출 주체를 정부로 명시하고 '정기회개회초 제출'과 '의결'을 요구하나, 후보는 주체·제출시기 규정 없이 '협찬'을 거치도록만 한다."
+        },
+        {
+          "element": "예산 외 지출의 처리(대상의 계속비 규정과의 대비)",
+          "target_field": "original_text",
+          "target_quote": "特別히 繼續支出의 必要가 있을 때에는 年限을 定하여 繼續費로서 國會의 議決을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "予算ノ款項ニ超過シ又ハ予算ノ外ニ生シタル支出アルトキハ後日帝国議会ノ承諾ヲ求ムルヲ要ス",
+          "commonality": "예산의 통상적 연도 편성 외의 지출에 대해 별도의 의회 의결·승낙 절차를 두는 점에서 접점이 있다.",
+          "difference": "대상은 사전에 연한을 정한 '계속비' 의결이고, 후보는 관·항 초과 또는 예산외 지출의 '사후 승낙'으로 시점과 성질이 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_086",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "집행부가 매 회계연도 예산을 작성하여 의회에 제출하고 의결을 거쳐야 한다는 주체·절차·효과의 연쇄가 대상 제1항과 밀접하게 대응한다. 다만 총수입·총지출 포괄 문구, 제출 시기, 계속비, 증액 금지는 없다.",
+      "evidence": [
+        {
+          "element": "예산 편성 주체·제출·의결 절차",
+          "target_field": "original_text",
+          "target_quote": "會計年度마다 豫算으로 編成하여 每年 國會의 定期會開會初에 國會에 提出하여 그 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、毎会計年度の予算を作成し、国会に提出して、その審議を受け議決を経なければならない。",
+          "commonality": "회계연도별 예산을 집행부가 작성하여 의회에 제출하고 의결을 거치도록 하는 절차 구조가 동일하다.",
+          "difference": "주체가 대상은 '정부', 후보는 '내각'이고, 대상은 제출 시기를 '정기회개회초'로 특정하는 반면 후보는 시기 규정이 없으며 '심의'를 함께 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_051",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'매년 예산을 편성하여 …의 의결을 얻어야 한다'는 문형과 '의결' 용어가 대상 제1항과 직접 대응한다. 다만 편성 주체가 정부주석이고 총수입·총지출 포괄, 제출 시기, 계속비, 증액금지 요소가 없어 대응 범위는 제1항 골격에 한정된다.",
+      "evidence": [
+        {
+          "element": "매년 예산 편성과 입법기관의 의결",
+          "target_field": "original_text",
+          "target_quote": "豫算으로 編成하여 每年 國會의 定期會開會初에 國會에 提出하여 그 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "每年 豫算을 編成하여 立法議院의 議決을 얻어야 함",
+          "commonality": "집행부가 매년 예산을 편성하고 입법기관의 '의결'을 얻어야 한다는 문형·효과가 일치한다.",
+          "difference": "주체가 대상은 '정부', 후보는 '정부주석'이며, 후보에는 총수입·총지출 포괄성, 제출 시기(정기회개회초), 계속비, 증액·신비목 금지가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가의 모든 수입·지출을 매 회계연도 추계하여 예산에 반영한다는 제1항 요소와, 특별한 경우 1년을 넘는 지출 승인을 허용하는 계속비 대응 요소가 함께 나타난다. 다만 의회의 증액·신비목 금지 조항은 없고 예산은 법률로 확정된다.",
+      "evidence": [
+        {
+          "element": "총수입·총지출의 회계연도별 예산 편성",
+          "target_field": "original_text",
+          "target_quote": "國家의 總收入과 總支出을 會計年度마다 豫算으로 編成하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Einnahmen und Ausgaben des Staates müssen für jedes Rechnungsjahr veranschlagt und auf den Haushaltsplan gebracht werden.",
+          "commonality": "국가 수입·지출 전부를 회계연도 단위로 추계하여 예산에 편입하도록 하는 포괄성 요구가 동일하다.",
+          "difference": "후보는 예산을 회계연도 개시 전 '법률'로 확정하며 제출 주체·시기 규정이 없고, 대상은 정부 제출과 국회 의결로 규정한다."
+        },
+        {
+          "element": "계속지출(계속비)의 허용",
+          "target_field": "original_text",
+          "target_quote": "特別히 繼續支出의 必要가 있을 때에는 年限을 定하여 繼續費로서 國會의 議決을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Ausgaben werden in der Regel für ein Jahr bewilligt; sie können in besonderen Fällen auch für eine längere Dauer bewilligt werden.",
+          "commonality": "연 단위 승인 원칙의 예외로 특별한 경우 장기 지출 승인을 허용한다는 취지가 대응한다.",
+          "difference": "대상은 '연한을 정하여 계속비로서' 국회 의결을 얻는 형식을 요구하는 반면, 후보는 기간 설정 방식·명칭을 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_017",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "예산 심의에서 예정 지출의 증액이나 새로운 지출의 창설을 금지하는 문언이 대상 제3항과 구체적으로 대응한다. 다만 금지 형식이 '의원 제안의 제출 금지'이고 정부 동의라는 해제 조건이 없다는 점에서 범위가 제3항에 한정된다.",
+      "evidence": [
+        {
+          "element": "지출 증액·신비목 설치 금지",
+          "target_field": "original_text",
+          "target_quote": "政府가 提出한 支出豫算 各項의 金額을 增加하거나 또는 新費目을 設置할 수 없다",
+          "candidate_field": "original_text",
+          "candidate_quote": "aucune proposition tendant à augmenter les dépenses prévues ou à créer des dépenses nouvelles ne pourra être présentée lors de la discussion du budget",
+          "commonality": "예산 심의 단계에서 예정된 지출의 증액과 새로운 지출(비목) 창설을 금지하는 규율이 일치한다.",
+          "difference": "대상은 '정부의 동의'가 있으면 가능한 상대적 금지이고 금지 대상은 국회의 의결행위이지만, 후보는 의원 제안의 제출 자체를 금지하는 절대적 형식이며 동의 예외가 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "예산안을 '매년 국회의 정기회개회초'에 제출하도록 한 제출 시기 규정",
+    "계속비에 관하여 '연한을 정하여'라는 기간 명시 요건",
+    "'총수입과 총지출'을 정부가 편성한다는 주체 명시와 국회 '의결'이라는 효과 표현의 결합 형태"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "독일어·프랑스어·일본어 후보의 일부 판단은 제공된 원문 문형 대조에 의존하며, 번역문 표현 차이에서 오는 해석 여지가 있다."
+  ],
+  "short_answer": "대상 조문의 세 요소는 각각 다른 후보에 대응한다. 제1항의 '총수입·총지출을 회계연도마다 예산에 편성'은 바이마르 제85조·프로이센 자유주 제63조와, '집행부가 매년 편성하여 의회 의결을 얻는' 절차는 일본 1889년 제64조, 일본국헌법 제86조, 조선임시약헌 제51조와 대응한다. 제2항의 계속비는 바이마르 제85조 및 프로이센 자유주 제63조의 '특별한 경우 1년을 넘는 지출 승인'과, 제3항의 증액·신비목 금지는 바이마르 제85조 제4항과 프랑스 1946년 제17조와 문형이 겹친다. 다만 동의 주체(정부 vs 제국상원), 확정 형식(의결 vs 법률), 금지 형식(상대적 금지 vs 제안 제출 금지)에서 차이가 있다. 정기회 개회초 제출 시기와 '연한을 정하여'라는 계속비 요건은 제시된 후보로 설명되지 않으며, 이상은 문언 대응일 뿐 역사적 영향의 확정은 아니다."
+}

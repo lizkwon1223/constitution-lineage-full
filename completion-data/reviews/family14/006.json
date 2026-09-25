@@ -1,0 +1,78 @@
+{
+  "article": 6,
+  "reviewed_at": "2026-09-22T15:09:33.195285+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "5062eb7d046199169d5e027e436f98a3ca7dab1ed0991939f75554d69050f271",
+  "input_sha256": "bd5305e45f9358ee806058ba8be9415009d83325b705e07be6a154dc80aad894",
+  "responses": [
+    {
+      "job_id": "006_d1d38bc707a2_r1",
+      "repeat": 1,
+      "sha256": "244a17319005a169279e6c7c73d256b4214f94507d6155a9349efc5a1e6eaadd",
+      "assessment": "전쟁 부인과 군의 사명을 나누어 다섯 후보의 부분 대응을 제시한 핵심은 타당함. 선전 권한을 침략전쟁 부인과 반대로 본 부분 및 신성함과 최우선성의 혼용은 수정 필요함."
+    },
+    {
+      "job_id": "006_d1d38bc707a2_r2",
+      "repeat": 2,
+      "sha256": "0b058d0ce285a51c7dca89fcec41bdc89e48efbb57a45b76582191bb45808a9f",
+      "assessment": "핵심 대응과 추가 임무·전력 불보유의 차이는 지지됨. 일본1889의 선전 권한을 침략전쟁 부인과 반대로 본 대조 분류는 근거가 부족함."
+    },
+    {
+      "job_id": "006_d1d38bc707a2_r3",
+      "repeat": 3,
+      "sha256": "ada1b8c660185c0e36838ac8f5d9158697e2e025b2e9fb60e8e9b2d2cb369128",
+      "assessment": "핵심 대응과 일본1889의 권한 배분 구별은 타당함. 군대를 방위 주체로 명시한 점이 미설명이라는 문장은 같은 응답의 북한안·오스트리아 비교와 충돌함."
+    }
+  ],
+  "synthesis": "전쟁 부인은 필리핀의 국책 수단, 일본의 국제분쟁 해결 수단, 프랑스의 정복 목적이라는 각 한정어를 유지하여 비교해야 함. 군의 사명은 북한안의 자주권·인민의 자유 옹호, 오스트리아의 국경 보호, 필리핀 정부의 국가 방위 의무와 부분 대응함. 신성한 의무와 제1의무는 같은 수식이 아니며 군과 정부라는 주체도 다름. 선전 권한의 귀속은 전쟁의 허용 범위와 다른 문제이므로 침략전쟁 부인과 논리적으로 반대라고 단정할 수 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "JP1889_ORIGINAL_ART_013",
+      "type": "false_contrast",
+      "severity": "material",
+      "finding": "천황의 선전 권한 배분을 침략전쟁 부인과 반대 방향이라고 단정함. 권한의 귀속만으로 침략전쟁 허용 여부를 알 수 없음.",
+      "action": "전쟁 관련 권한 배분 조항으로 구별하며 반대 내용이라는 설명을 제거함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": null,
+      "type": "internal_inconsistency",
+      "severity": "material",
+      "finding": "미설명 요소에서 군을 방위 주체로 명시한 점을 후보로 설명할 수 없다고 하였으나 북한안의 군 조직 목적과 오스트리아 연방군 임무를 근거로 이미 비교함.",
+      "action": "미설명 요소는 신성한 의무 및 고유 명칭·정확한 문장 구성 등 실제 남은 부분으로 한정함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_II",
+      "type": "qualifier_equivalence",
+      "severity": "minor",
+      "finding": "공통점에서 국가방위를 최우선적 의무로 성격 규정한다고 하였으나 대상은 신성한 의무이며 우선순위를 명시하지 않음.",
+      "action": "방위의 의무화만 공통점으로 남기고 신성함과 prime의 수식 차이를 명시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_009",
+      "type": "subject_precision",
+      "severity": "minor",
+      "finding": "공통점을 국가가 주체라고 요약하였으나 일본 원문의 문법상 선언 주체는 日本国民임.",
+      "action": "헌법상 전쟁 포기 선언으로 공통점을 기술하고 주체 표기는 원문대로 구분함."
+    }
+  ],
+  "limits": [
+    "침략과 정복의 모든 법적 범위가 동일하다는 의미로 확대하지 않음. 국경 보호와 국토방위도 표현 차이를 유지함.",
+    "일본 제9조의 현재 운용이나 판례, 자위권의 구체적 범위는 이 비교에서 판단하지 않음."
+  ]
+}

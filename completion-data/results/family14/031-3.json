@@ -1,0 +1,142 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_031",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_005",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회(Parlement)의 양원 구성만을 규정하고 입법권의 귀속·행사 주체를 정하는 문형이 아니어서, 대상 조문의 '입법권은 …가 행한다'는 수권 문형과 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_024",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "입법권의 행사 주체를 명시하는 수권 문형이라는 점은 같으나, 연방 차원의 입법으로 범위가 한정되고 국민의회가 주·직능참사원과 '공동으로' 행사한다는 조건이 부가되어 단일 기관이 무조건 행사하는 대상 조문과 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_062",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'입법권은 …가 행사한다'는 문형은 유사하나 국왕과 양원의 공동 행사, 법률에 대한 삼자 합치, 재정법안 제출 순서 등 조건·절차가 덧붙어 있어 단문 수권 규정인 대상 조문과 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_033",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'입법권은 … 행사한다'는 동일한 한국어 단문 수권 문형으로, 주어(기관명)와 '오직 …만이'라는 배타성 수식의 유무에서만 갈린다. 문언상 대응이 뚜렷하여 후속 비교에 유용하다.",
+      "evidence": [
+        {
+          "element": "입법권의 귀속 주체와 단문 수권 문형",
+          "target_field": "original_text",
+          "target_quote": "立法權은 國會가 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法權은 오직 最高人民會議만이 行使한다.",
+          "commonality": "'입법권'을 주어로 두고 단일 대의기관이 이를 행사한다고 한 문장으로 규정하는 동일한 구문 형식",
+          "difference": "대상은 주체가 '국회'이고 아무 수식이 없으나, 후보는 '최고인민회의'를 주체로 하며 '오직 …만이'라는 배타적 독점 수식을 두고 동사도 '行使'로 표현"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XIV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정의 발의 정족수와 국민투표 비준 절차를 규정한 조항으로, 입법권 귀속 규정과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_005",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'立法権ヲ行フ'라는 어구가 대상의 '立法權은 … 行한다'와 동일한 동사 용법으로 대응한다. 다만 행사 주체가 천황이고 의회의 협찬이 조건으로 붙는 점에서 대비되므로, 대응 범위는 '입법권+행(行)'의 문형과 주체 지정 방식에 한정한다.",
+      "evidence": [
+        {
+          "element": "입법권 행사의 동사 표현",
+          "target_field": "original_text",
+          "target_quote": "立法權은 國會가 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法権ヲ行フ",
+          "commonality": "'입법권을 행(行)한다'는 동일 한자어 동사 구성으로 입법권 행사를 규정",
+          "difference": "대상은 국회가 단독으로 행사하나, 후보는 천황이 행사 주체이고 의회는 협찬하는 지위에 그침"
+        },
+        {
+          "element": "행사의 조건(협찬 유무)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "입법권은 국회가 행한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇ハ帝国議会ノ協賛ヲ以テ立法権ヲ行フ",
+          "commonality": "입법권 행사에 의회가 관여함을 헌법 본문에서 명시",
+          "difference": "대상은 조건 없이 국회에 입법권을 귀속시키는 반면, 후보는 '帝国議会ノ協賛ヲ以テ'라는 조건을 붙여 의회를 보조적 동의기관으로 위치시킴"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'유일한 입법기관'이라는 표현으로 입법권의 귀속을 밝히는 점은 겹치지만, 국권 최고기관 선언과 11개 권한 열거가 중심이어서 대상 조문의 단문 수권 규정과 구성 요소가 크게 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "입법권의 행사 주체를 정하는 수권 문형이나, 하원·상원 양원이 행사한다는 복수 주체 규정과 선출·구성 방식에 관한 후속 문장이 결합되어 있어 단일 기관 단문 규정인 대상 조문과 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_083",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가 재정 처리 권한의 행사 근거(국회 의결)를 정한 규정으로 입법권 귀속과는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "세부사항의 법률 위임을 정한 일반 조항으로 대상 조문과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XIX",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "성별에 따른 선거권 차별 금지와 연방의회의 시행입법 권한 조항으로, 입법권의 일반적 귀속 규정과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법권을 행사하는 기관을 명시하는 점은 공통되나, 주체가 중앙정부의 최고기관인 입법원이고 국민대회에 대한 책임이라는 별도 효과가 부가되어 대상의 단순 수권 문형과 차이가 크다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'입법권을 행사한다'는 표현이 겹치지만 최고입법기관 지위, 인민 선거로 구성되는 입법위원, 인민 대표 자격 등 부가 요소가 중심이어서 문형 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "제국과 주 사이의 입법권 배분과 이의제기권을 다루는 연방제 조항으로, 단일 기관에 입법권을 귀속시키는 대상 조문과 규율 목적이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'국회'라는 단일 기관 명칭 자체의 채택",
+    "아무런 조건·예외·배타성 수식 없이 입법권을 귀속시키는 극단적 단문 형식"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 제공 본문 외의 자료가 없어 실제 참조·영향 관계는 확정할 수 없다.",
+    "프랑스·오스트리아·중화민국 후보의 원문 의미 판단은 제공된 번역문에 부분적으로 의존한다."
+  ],
+  "short_answer": "대상 조문은 '입법권은 국회가 행한다'는 조건 없는 단문 수권 규정이다. 후보 중 조선민주주의인민공화국헌법안 제33조는 '입법권은 오직 최고인민회의만이 행사한다'로 동일한 한국어 문형을 보여 주며, 주체와 '오직 …만이'라는 배타성 수식 유무에서만 갈린다. 대일본제국헌법 제5조는 '立法権ヲ行フ'라는 동일 동사 용법이 대응하지만 행사 주체가 천황이고 제국의회의 협찬이 조건으로 붙는 점에서 대비된다. 프랑스 공권력조직법 제1조, 오스트리아 제24조, 프로이센 1850년 제62조, 중화민국 두 조문과 조선임시약헌 제12조는 입법권 행사 주체를 명시한다는 점은 같으나 양원·공동행사·최고기관 지위·권한 열거 등 부가 요소가 중심이어서 선택하지 않았다. 문언 대응이 확인된 것과 실제 역사적 참조는 별개이며 본 검토는 전자에 한정된다."
+}

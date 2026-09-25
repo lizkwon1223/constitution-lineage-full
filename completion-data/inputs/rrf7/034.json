@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_034",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "34",
+    "original_text": "國會의 定期會는 每年 1回 12月 20日에 集會한다. 當該日이 公休日인 때에는 그 翌日에 集會한다.",
+    "workbook_text_ko": "국회의 정기회는 매년 1회 12월 20일에 집회한다. 당해일이 공휴일인 때에는 그 익일에 집회한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_017",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "17",
+      "original_text": "(1) Der Landtag versammelt sich am Sitze des Staatsministeriums.\n(2) Zur ersten Tagung nach jeder Neuwahl tritt er zusammen am dreißigsten Tage nach Beginn der Wahlperiode, falls ihn nicht das Staatsministerium früher beruft.\n(3) Im übrigen versammelt sich der Landtag in jedem Jahre am zweiten Dienstag des November. Der Präsident des Landtags muß ihn früher berufen, wenn es das Staatsministerium oder mindestens ein Fünftel der Mitglieder des Landtags verlangt.\n(4) Der Landtag bestimmt den Schluß der Tagung und den Tag des Wiederzusammentritts.",
+      "workbook_text_ko": "(1) 주의회는 주내각 소재지에서 집회한다.\n(2) 새로 선거할 때마다 첫 회기는 주내각이 더 일찍 소집하지 않는 한 의회 임기가 시작된 후 제30일에 집회한다.\n(3) 그 밖에 주의회는 매년 11월 둘째 화요일에 집회한다. 주내각 또는 주의회 의원 5분의 1 이상이 요구하면 주의회 의장은 더 일찍 소집하여야 한다.\n(4) 주의회는 회기의 종료와 다시 집회할 날을 정한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_023",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "23",
+      "original_text": "Der Reichstag wird auf vier Jahre gewählt. Spätestens am sechzigsten Tage nach ihrem Ablauf muß die Neuwahl stattfinden.\nDer Reichstag tritt zum ersten Male spätestens am dreißigsten Tage nach der Wahl zusammen.",
+      "workbook_text_ko": "제국의회는 4년 임기로 선출된다. 임기 종료 후 늦어도 60일 이내에 새로운 선거가 개최되어야 한다.\n제국의회는 선거 후 늦어도 30일 이내에 처음으로 집회한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_098",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "98",
+      "original_text": "L'Assemblée nationale se réunira de plein droit le troisième jeudi qui suivra les élections générales.\nLe Conseil de la République se réunira le troisième mardi suivant son élection. La présente Constitution entrera en vigueur à partir de cette date.\nJusqu'à la réunion du Conseil de la République, l'organisation des pouvoirs publics sera régie par la loi du 2 novembre 1945, l'Assemblée nationale ayant les attributions conférées par cette loi à l'Assemblée nationale constituante.",
+      "workbook_text_ko": "국민의회는 총선거(élection générale) 후의 제3 목요일에 당연히 집회\n한다.\n공화국평의회는 그 선거 후의 제3 화요일에 집회한다. 이 헌법은 그 날로부\n터 효력을 가진다.\n공화국평의회의 집회까지는 공권력의 조직(organisation des pouvoirs publics)은 1945년 11월 2일의 법률로 운영하며, 국민의회는 이 법률로 헌\n법제정국민의회에 부여된 권한을 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_052",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "52",
+      "original_text": "国会の常会は、毎年一回これを召集する。",
+      "workbook_text_ko": "국회의 정기회는 매년 1회 소집된다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_029",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "29",
+      "original_text": "國民大會於每屆總統任滿前九十日集會，由總統召集之。",
+      "workbook_text_ko": "國民大會는 各期總統의 任期가 滿了하기 90日前에 集會하며 總統이 이를 召集한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_068",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "68",
+      "original_text": "立法院會期，每年兩次，自行集會，第一次自二月至五月底，第二次自九月至十二月底，必要時得延長之。",
+      "workbook_text_ko": "立法院의 會期는 每年2次이며, 스스로 集會한다. 第1次는 2月부터 5月末까지 第2次는 9月부터 12月末까지 이며 必要할 때에는 이를 延長할 수 있다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "1",
+      "original_text": "Le Sénat et la Chambre des députés se réunissent chaque année le second mardi de janvier, à moins d'une convocation antérieure faite par le Président de la République. - Les deux chambres doivent être réunies en session cinq mois au moins chaque année. La session de l'une commence et finit en même temps que celle de l'autre. - Le dimanche qui suivra la rentrée, des prières publiques seront adressées à Dieu dans les églises et dans les temples pour appeler son secours sur les travaux des assemblées.",
+      "workbook_text_ko": "상원과 하원은 공화국대통령에 의한 사전의 소집이 없는 한, 매년 1월\n의 제2 화요일에 집회한다.\n양원은 매년 적어도 5개월의 회기로 집회하여야 한다. 한쪽 원의 회기는 다\n른 원의 회기와 동시에 개회하고 폐회한다.\n개회 직후의 일요일에 교회와 성당에서 의회의 작업에 대해서 신의 조력을\n구하고, 신에게 공적 기도(prières publiques)를 드린다."
+    }
+  ]
+}

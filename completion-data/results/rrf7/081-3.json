@@ -1,0 +1,141 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_081",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항의 심사대상 열거(명령·규칙·처분)와 '최종적' 심사권한을 최고법원에 두는 문형이 구체적으로 대응한다. 다만 법률의 위헌심사를 최고법원이 아닌 헌법위원회에 맡긴 점은 정반대이므로 대응 범위는 제1항에 한정된다.",
+      "evidence": [
+        {
+          "element": "심사대상 열거와 최종심사권의 귀속",
+          "target_field": "original_text",
+          "target_quote": "命令, 規則과 處分이 憲法과 法律에 違反되는 與否를 最終的으로 審査할 權限이 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "命令、規則又は処分が憲法に適合するかしないかを決定する権限を有する終審裁判所である",
+          "commonality": "명령·규칙·처분의 헌법적합성을 최고법원(대법원/최고재판소)이 최종(종심)으로 판단한다는 규율 요소와 열거 방식이 일치한다.",
+          "difference": "일본은 '一切の法律'까지 같은 조항에서 최고재판소의 심사대상으로 삼지만, 대한민국은 법률의 위헌 여부를 제2항에서 헌법위원회로 분리하고, 심사기준도 '헌법과 법률'로 넓혔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_140",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법률의 위헌 여부가 '재판의 전제'가 될 때 법원의 제청으로 별도 헌법심판기관이 결정한다는 구조가 제2항과 구체적으로 대응한다. 다만 제청주체와 결정의 효과(폐지·공고·소급 규율)는 크게 다르다.",
+      "evidence": [
+        {
+          "element": "재판의 전제성에 따른 법원의 제청",
+          "target_field": "original_text",
+          "target_quote": "法律이 憲法에 違反되는 與否가 裁判의 前提가 되는 때에는 法院은 憲法委員會에 提請하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "auf Antrag des Obersten Gerichtshofes oder des Verwaltungsgerichtshofes, sofern ein solches Gesetz die Voraussetzung eines Erkenntnisses des antragstellenden Gerichtshofes bildet",
+          "commonality": "법률이 당해 재판의 전제(Voraussetzung)가 되는 경우 법원의 신청(제청)으로 위헌 여부를 심판기관이 판단하는 조건·절차 요소가 대응한다.",
+          "difference": "오스트리아는 제청주체를 최고법원과 행정재판소로 한정하고 정부·직권 신청도 병렬로 두는 반면, 대한민국은 일반 '법원'이 제청하며 정부 신청 경로가 없다."
+        },
+        {
+          "element": "위헌판단기관의 결정에 따른 재판",
+          "target_field": "workbook_text_ko",
+          "target_quote": "그 결정에 의하여 재판한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Verfassungsgerichtshof erkennt über Verfassungswidrigkeit eines Bundes- oder Landesgesetzes",
+          "commonality": "일반 법원이 스스로 법률의 위헌을 판단하지 않고 전담 기관의 위헌 판단에 따른다는 권한 배분이 공통된다.",
+          "difference": "오스트리아 결정은 법률의 폐지(Aufhebung)와 공고·실효기한 등 일반적 효력을 규정하나, 대한민국 조문은 당해 재판의 기준이 된다는 점만 정하고 효력 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_091",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법위원회'라는 별도 합의제 기관을 두고 국가 제2·제1 고위직이 위원장을 맡으며 의회가 선출한 위원으로 구성한다는 조직 규정의 문형이 제3항과 대응한다. 다만 구성원의 출신과 기관의 심사대상은 다르다.",
+      "evidence": [
+        {
+          "element": "헌법위원회의 위원장",
+          "target_field": "original_text",
+          "target_quote": "憲法委員會는 副統領을 委員長으로 하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Comité constitutionnel est présidé par le président de la République.",
+          "commonality": "위헌 관련 심사를 담당하는 '헌법위원회'를 두고 행정부 수반급 고위직이 그 의장을 맡도록 명시하는 구조가 같다.",
+          "difference": "프랑스는 대통령이 주재하나 대한민국은 부통령이 위원장이다."
+        },
+        {
+          "element": "위원 구성",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법관 5인과 국회의원 5인의 위원으로 구성한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "sept membres élus par l'Assemblée nationale au début de chaque session annuelle à la représentation proportionnelle des groupes, et choisis en dehors de ses membres, trois membres élus dans les mêmes conditions par le Conseil de la République",
+          "commonality": "양원/기관별로 정해진 인원수의 위원을 배분하여 합의제 헌법위원회를 구성하는 방식이 유사하다.",
+          "difference": "프랑스는 양원 의장과 양원이 선출하되 의원 아닌 자로 뽑은 7인·3인으로 구성하는 데 비해, 대한민국은 대법관 5인과 국회의원 5인으로 사법부·입법부를 동수로 배치한다."
+        },
+        {
+          "element": "헌법위원회의 심사대상",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률이 헌법에 위반되는 여부",
+          "candidate_field": "original_text",
+          "candidate_quote": "examine si les lois votées par l'Assemblée nationale supposent une révision de la Constitution",
+          "commonality": "의회가 의결한 법률과 헌법의 관계를 헌법위원회가 심사한다는 점이 공통된다.",
+          "difference": "프랑스는 재판 계속과 무관하게 법률이 헌법개정을 요하는지를 심사하는 사전적 절차이나, 대한민국은 구체적 재판의 전제가 된 법률의 위헌 여부를 사후적으로 결정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "위원 3분의 2 의결이라는 정족수 표현이 겹치나, 대상이 탄핵소추이고 기관·효과가 전혀 달라 제4항의 위헌결정 정족수와 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_089",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "일반 법원이 스스로 법률의 효력을 심사하지 못하고 절차를 중단해 헌법재판소에 신청한다는 권한배분·제청 문형이 제2항과 부분적으로 대응한다. 다만 제89조 제2항의 신청대상은 명령의 '위법성'이어서 명령·규칙 심사를 대법원에 맡긴 제1항과는 오히려 반대이므로, 대응 범위는 법률 심사권 배제와 제청 절차의 형식에 한정된다.",
+      "evidence": [
+        {
+          "element": "법원의 법률 위헌심사권 배제와 제청",
+          "target_field": "original_text",
+          "target_quote": "法院은 憲法委員會에 提請하여 그 決定에 依하여 裁判한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Prüfung der Gültigkeit gehörig kundgemachter Gesetze steht den Gerichten nicht zu.",
+          "commonality": "일반 법원이 법률의 효력(위헌 여부)을 스스로 확정하지 못하고 전담기관의 판단에 따르도록 권한을 배분하는 원칙이 공통된다.",
+          "difference": "오스트리아는 법원의 법률심사권을 전면 부정하는 원칙 규정만 두고, 대한민국은 전제성이 있는 경우 법원의 제청권을 적극적으로 인정한다."
+        },
+        {
+          "element": "제청 절차의 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법원은 헌법위원회에 제청하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "so hat es das Verfahren zu unterbrechen und den Antrag auf Aufhebung dieser Verordnung beim Verfassungsgerichtshof zu stellen",
+          "commonality": "법원이 재판 도중 스스로 판단하지 않고 헌법심판기관에 신청(제청)하는 절차 구조가 유사하다.",
+          "difference": "오스트리아의 신청대상은 명령의 위법성과 그 폐지이며 절차중단 의무를 명시하는 반면, 대한민국은 법률의 위헌 여부만을 제청대상으로 하고 명령·규칙 심사는 대법원이 최종적으로 담당한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_140",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법재판소의 법률 위헌심판을 규정하나 신청주체가 연방·주정부이고 전제성도 헌법재판소 자신의 재판에 관한 것이어서, 일반 법원의 제청을 요건으로 하는 대상 제2항과 구체적 대응이 약하다(1929년 개정판 제140조가 이 점을 더 직접 다룬다).",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_032",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민대회의 선거·파면·법률발안·헌법개정 권한 목록으로, 위헌심사 기관·절차·정족수 등 대상 조문의 규율 요소와 대응하는 부분이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제4항의 '위원 3분지 2 이상의 찬성'이라는 위헌결정 가중정족수(후보 중 동일 취지의 위헌결정 정족수 규정 없음)",
+    "제5항의 '헌법위원회의 조직과 절차는 법률로써 정한다'는 법률유보",
+    "제1항의 심사기준을 '헌법과 법률' 양자로 삼아 처분의 위법성까지 포함시킨 점"
+  ],
+  "limitations": [
+    "문언 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "오스트리아·프랑스 후보는 원문(독일어·프랑스어) 인용을 기준으로 비교했고, 세부 함의는 제공 번역문에 의존한 부분이 있다."
+  ],
+  "short_answer": "일본국헌법 제81조는 명령·규칙·처분의 헌법적합성을 최고법원이 최종(종심)으로 심사한다는 점에서 대상 제1항과 문언·열거 방식이 직접 대응한다. 오스트리아 1929년 개정판 제140조 제1항은 법률이 '재판의 전제'가 될 때 법원의 신청으로 헌법재판소가 위헌을 판단하는 구조로 제2항과 대응하며, 제89조는 법원의 법률심사권 배제와 절차중단·신청 형식이라는 한정된 범위에서 대응한다. 프랑스 제4공화국헌법 제91조는 '헌법위원회'라는 명칭, 고위직의 위원장직, 기관별 정수 배분 구성이라는 조직 규정 문형에서 제3항과 대응하나 위원의 출신과 심사대상(헌법개정 요부)이 다르다. 필리핀헌법 제9조의 3분의 2 정족수는 탄핵이라는 다른 맥락이어서 제4항의 위헌결정 정족수와는 용어만 겹친다. 위헌결정 가중정족수와 조직·절차의 법률유보는 제시된 후보로 설명되지 않는다."
+}

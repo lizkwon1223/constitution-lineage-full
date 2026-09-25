@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_018",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "18",
+    "original_text": "勤勞者의 團結, 團體交涉과 團體行動의 自由는 法律의 範圍內에서 保障된다.\n營利를 目的으로 하는 私企業에 있어서는 勤勞者는 法律의 定하는 바에 依하여 利益의 分配에 均霑할 權利가 있다.",
+    "workbook_text_ko": "근로자의 단결, 단체교섭과 단체행동의 자유는 법률의 범위내에서 보장된다.\n영리를 목적으로 하는 사기업에 있어서는 근로자는 법률의 정하는 바에 의하여 이익의 분배에 균점할 권리가 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_151",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "151",
+      "original_text": "Die Ordnung des Wirtschaftslebens muß den Grundsätzen der Gerechtigkeit mit dem Ziele der Gewährleistung eines menschenwürdigen Daseins für alle entsprechen. In diesen Grenzen ist die wirtschaftliche Freiheit des Einzelnen zu sichern.\nGesetzlicher Zwang ist nur zulässig zur Verwirklichung bedrohter Rechte oder im Dienst überragender Forderungen des Gemeinwohls.\nDie Freiheit des Handels und Gewerbes wird nach Maßgabe der Reichsgesetze gewährleistet.",
+      "workbook_text_ko": "경제생활의 질서는 모든 자에게 인간으로서의 가치 있는 생활을 보장할 목적을 갖는 정의의 원칙에 적합하지 않으면 안 된다.\n이러한 제한 내에서도 개인의 경제적 자유는 확보되어야 한다.\n법률상의 강제는 위협당한 권리의 실현을 위하거나 또는 공공복지의 중대한 요구에 부응하기 위해서만 허용된다.\n상업 및 영업의 자유는 제국의 법률에 따라 보장된다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_159",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "159",
+      "original_text": "Die Vereinigungsfreiheit zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen ist für jedermann und für alle Berufe gewährleistet. Alle Abreden und Maßnahmen, welche diese Freiheit einzuschränken oder zu behindern suchen, sind rechtswidrig.",
+      "workbook_text_ko": "노동조건과 경제조건을 유지하고, 개선하기 위한 결사의 자유는 모든 개인과 모든 직업에 대해서 보장된다. 이 자유를 제한하고 또는 방해하고자 하는 모든 합의 및 조치는 위법이다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_030",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "30",
+      "original_text": "Alle Preußen haben das Recht, sich zu solchen Zwecken, welche den Strafgesetzen nicht zuwiderlaufen, in Gesellschaften zu vereinigen.\nDas Gesetz regelt, insbesondere zur Aufrechthaltung der öffentlichen Sicherheit, die Ausübung des in diesem und in dem vorstehenden Artikel (29.) gewährleisteten Rechts.\nPolitische Vereine können Beschränkungen und vorübergehenden Verboten im Wege der Gesetzgebung unterworfen werden.",
+      "workbook_text_ko": "모든 프로이센인은 형법에\n위반되지 않는 목적으로 단체를 결\n성할 권리를 가진다.\n법률은 특히 공공의 안전을 유지하\n기 위하여 본조와 전조(제29조)에 보\n장된 권리의 행사를 규제한다.\n정치적 결사에는 입법에 의하여 제한\n과 일시적 금지가 부과될 수 있다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_012",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "12",
+      "original_text": "Die Freiheit des religiösen Bekenntnisses, der Vereinigung zu Religionsgesellschaften (Art. 30. und 31.) und der gemeinsamen häuslichen und öffentlichen Religionsübung wird gewährleistet. Der Genuß der bürgerlichen und staatsbürgerlichen Rechte ist unabhängig von dem religiösen Bekenntnisse. Den bürgerlichen und staatsbürgerlichen Pflichten darf durch die Ausübung der Religionsfreiheit kein Abbruch geschehen.",
+      "workbook_text_ko": "종교적 신앙 고백, 종교단체\n결성(제30조와 제31조) 그리고 가정\n및 공개적인 곳에서 공동으로 하는\n종교활동의 자유는 보장된다. 시민적\n권리와 국민의 권리의 향유는 종교적\n신앙의 고백에 영향받지 않는다. 시민\n적 의무와 국민의 의무는 종교의 자\n유의 행사에 의해 어떠한 손상도 입어서는 안 된다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_005",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "5",
+      "original_text": "Die persönliche Freiheit ist gewährleistet. Die Bedingungen und Formen, unter welchen eine Beschränkung derselben, insbesondere eine Verhaftung zulässig ist, werden durch das Gesetz bestimmt.",
+      "workbook_text_ko": "신체의 자유는 보장된다. 어\n떠한 조건과 방식으로 그 제한이, 특히\n신체구속이 허용되는지는 법률로 정\n한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_028",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "28",
+      "original_text": "勤労者の団結する権利及び団体交渉その他の団体行動をする権利は、これを保障する。",
+      "workbook_text_ko": "근로자의 단결권, 단체교섭권 그 밖의 단체행동권을 보장한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_160",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "160",
+      "original_text": "Wer in einem Dienst- oder Arbeitsverhältnis als Angestellter oder Arbeiter steht, hat das Recht auf die zur Wahrnehmung staatsbürgerlicher Rechte und, soweit dadurch der Betrieb nicht erheblich geschädigt wird, zur Ausübung ihm übertragener öffentlicher Ehrenämter nötige freie Zeit. Wieweit ihm der Anspruch auf Vergütung erhalten bleibt, bestimmt das Gesetz.",
+      "workbook_text_ko": "근로관계 또는 노동관계에 있는 종업원 또는 노동자는 공민권의 행사와 작업에 현저한 지장이 없는 한 그에게 위탁된 공적인 명예직의 수행에 필요한 자유 시간을 가질 권리가 있다. 어느 정도의 보수청구권을 갖는가 하는 것은 법률로 정한다."
+    }
+  ]
+}

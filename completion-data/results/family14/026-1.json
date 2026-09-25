@@ -1,0 +1,151 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_026",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제2절이 '법률로' 군복무 또는 민간복무(civil service)를 요구할 수 있다고 하여 '법률+공무'라는 소재가 겹치나, 이는 국민에게 부과하는 의무(may be required)이고 대상 조문은 공무를 담임할 '권리'를 보장하는 것이어서 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'nach Maßgabe der Gesetze'라는 법률유보 상용구만 겹치고, 내용은 공적 부담(조세·공공부담)에 대한 자력 비례 기여 의무여서 공무담임권과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'人民有依法律服公務之…'라는 구조에서 주체(인민/국민), 법률유보('依法律'/'法律의 定하는 바에 依하여'), 규율 대상('公務')이 구체적으로 대응한다. 다만 효과가 의무인지 권리인지가 정반대이므로 대응 범위는 주체·법률유보·공무라는 요소에 한정된다. 문언상 대응일 뿐 역사적 참조 여부는 확정할 수 없다.",
+      "evidence": [
+        {
+          "element": "규율 대상(공무)과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 公務를 擔任할",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法律服公務",
+          "commonality": "공무를 대상으로 하면서 그 내용·요건을 법률에 위임하는 법률유보 구조가 같다.",
+          "difference": "대상은 공무를 '담임할' 지위 취득을 말하고, 후보는 공무에 '복무'하는 것을 가리켜 행위 태양이 다르다."
+        },
+        {
+          "element": "주체와 효과",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有",
+          "commonality": "일반 국민(인민) 전체를 주체로 삼는 일반조항 형식이다.",
+          "difference": "대상은 '권리가 있다'는 권리보장 규정이고, 후보는 '之義務'로 끝나는 의무부과 규정이어서 효과가 반대이다. 또한 대상은 '모든'이라는 전칭 수식이 붙는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_023",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "교육·강습 시설에 대한 국가 감독과 공립교사의 공무원 지위를 정한 규정으로, 국민 일반의 공무담임권과 주체·대상·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_015",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…權利를 가진다'는 권리보장 형식만 유사하고, 국가기관 등에서의 동일노동 동일보수라는 규율 내용은 공무담임권과 다르며 법률유보 문구도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_009",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'法律이 定하는 바에 依한'이라는 법률유보 문구가 대상의 '法律의 定하는 바에 依하여'와 유사하나, 후보는 교육·납세·병역·노동의 의무 열거이고 공무담임에 관한 항목이 없어 상용구 이상의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_078",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "이미 임용된 국가공무원의 선서 의무를 정한 규정으로, 국민의 공무담임 권리와 주체·효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_021",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'法律ノ定ムル所ニ従ヒ'라는 법률유보 문형이 유사하지만 규율 대상이 납세 의무여서, 공무담임이라는 대상 요소와 조세 종목·의무라는 후보 요소를 혼동해서는 안 된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'すべて国民は、法律の定めるところにより…権利を有する'는 대상 조문의 '모든 국민은 법률의 정하는 바에 의하여 …권리가 있다'와 주체 전칭·법률유보·권리보장이라는 문형이 그대로 대응한다. 다만 보장 대상이 교육을 받을 권리여서 대응 범위는 문형과 권리형식에 한정된다.",
+      "evidence": [
+        {
+          "element": "주체·법률유보·권리형식 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、法律の定めるところにより",
+          "commonality": "'모든 국민'이라는 전칭 주체에 이어 법률유보 구절을 배치하는 문장 구성이 동일하다.",
+          "difference": "대상은 일본어 원문이 아닌 한국어 문언이며, 법률유보가 걸리는 실체가 공무담임과 교육으로 서로 다르다."
+        },
+        {
+          "element": "효과(권리 보장)",
+          "target_field": "original_text",
+          "target_quote": "權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "権利を有する",
+          "commonality": "법률유보를 전제로 국민에게 권리를 부여하는 효과 규정이라는 점이 같다.",
+          "difference": "후보는 '능력에 따라 동등하게'라는 배분 기준과 제2항의 취학 의무·무상교육을 함께 규정하지만, 대상은 그런 부가 요건이나 의무 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법률공포·사면·군통수·문무관 임명 등 국가기관 권한 규정으로, 국민의 공무담임권과 주체·권한 성격이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_047",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무총리의 공무원 임명권 등 집행부 권한 규정이며, 임명 주체 측 권한과 국민의 담임 권리는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_018",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정의 법률적합성 원칙과 행정관청의 명령권을 정한 규정으로, 국민 개인의 권리 조항과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_IV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주 상호간 신뢰·특권면책·범죄인 인도·신주 가입 등 연방주의 규정으로, 공무담임권과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_019",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'人民有依法律…之義務' 문형이 ROC1936 초안과 같으나 규율 대상이 납세 의무여서, 공무담임이라는 대상 요소와는 소재가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'擔任'(공직 취임·피선거 자격을 포함하는 담임)이라는 구체적 표현과 그 범위를 직접 설명하는 후보 문언은 확인되지 않는다",
+    "공무담임을 국민의 '권리'로 규정한 조합(권리+공무)을 그대로 갖춘 후보는 제시되지 않았다"
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언상 대응 여부만 판단할 수 있고 실제 참조·영향 관계는 확정할 수 없다",
+    "ROC1936 초안은 효과가 의무여서 권리 규정으로의 전환 경위는 본문만으로 알 수 없다"
+  ],
+  "short_answer": "대상 조문은 '모든 국민 + 법률유보 + 공무담임 권리'의 세 요소로 구성된다. 후보 중 ROC1936 五五憲草 제23조가 '依法律'과 '公務'라는 구체적 규율 요소에서, 일본국헌법 제26조가 '모든 국민은 법률의 정하는 바에 의하여 …권리가 있다'는 문형에서 각각 부분적으로 대응한다. 다만 전자는 효과가 '의무'로 정반대이고 후자는 보장 대상이 교육을 받을 권리여서, 대응 범위는 각각 법률유보·공무라는 소재와 문형·권리형식에 한정된다. ROC1946 제19조, 일본 1889년 제21조, 조선임시약헌 제9조는 동일한 법률유보 상용구를 쓰지만 대상이 납세 등 의무여서 선택하지 않았다. 이는 모두 문언상 대응 관찰일 뿐 역사적 참조의 확정은 아니다."
+}

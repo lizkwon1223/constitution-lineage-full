@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_030",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "30",
+    "original_text": "모든 國民은 法律의 定하는 바에 依하여 國土防衛의 義務를 진다.",
+    "workbook_text_ko": "모든 국민은 법률의 정하는 바에 의하여 국토방위의 의무를 진다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_ORIGINAL_ART_022",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "22",
+      "original_text": "Alle Organe des Bundes, der Länder und der Gemeinden sind im Rahmen ihres gesetzmäßigen Wirkungsbereiches zur wechselseitigen Hilfeleistung verpflichtet.",
+      "workbook_text_ko": "연방·주 및 지방자치단체의 모든 기관은 법정 권한의 범위에서 서로 원조할 의무가 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_062",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "62",
+      "original_text": "Les membres de l'Union française mettent en commun la totalité de leurs moyens pour garantir la défense de l'ensemble de l'Union. Le Gouvernement de la République assume la coordination de ces moyens et la direction de la politique propre à préparer et à assurer cette défense.",
+      "workbook_text_ko": "프랑스연합의 구성체는 연합 전체의 방위를 보장하기 위하여 공동으\n로 그 수단 전체를 행사한다. 공화국정부는 그 수단의 조정과 그 방위를 준\n비하고 확보하기 위하여 적절한 정책의 지휘를 인수한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_020",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "20",
+      "original_text": "日本臣民ハ法律ノ定ムル所ニ従ヒ兵役ノ義務ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률이 정하는 바에 따라 병역의 의무를 진다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_028",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "28",
+      "original_text": "公民은 祖國을 保衛하여야 한다.\n祖國의 保衛는 公民의 最大義務인 同時에 最大榮譽, 祖國과 人民을 背叛하는 것은 最大의 罪惡이며 嚴重한 刑罰에 依하여 處斷된다.",
+      "workbook_text_ko": "공민은 조국을 보위하여야 한다.\n조국의 보위는 공민의 최대의무인 동시에 최대영예, 조국과 인민을 배반하는 것은 최대의 죄악이며 엄중한 형벌에 의하여 처단된다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_034",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "34",
+      "original_text": "Alle Preußen sind wehrpflichtig. Den Umfang und die Art dieser Pflicht bestimmt das Gesetz.",
+      "workbook_text_ko": "모든 프로이센인은 병역의\n의무를 진다. 이 의무의 범위와 이행\n방법은 법률로 정한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_132",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "132",
+      "original_text": "Jeder Deutsche hat nach Maßgabe der Gesetze die Pflicht zur Übernahme ehrenamtlicher Tätigkeiten.",
+      "workbook_text_ko": "모든 독일인은 법률에 따라 명예직의 일을 수임해야 할 의무를 진다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_078",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "78",
+      "original_text": "Jeder Staatsbeamte hat einen Eid dahin zu leisten, daß er das ihm übertragene Amt unparteiisch nach bestem Wissen und Können verwalten und die Verfassung gewissenhaft beobachten wolle.",
+      "workbook_text_ko": "모든 국가공무원은 맡은 직을 공정하게, 자신의 지식과 능력을 다하여 수행하고 헌법을 성실히 준수할 것을 선서하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_023",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "23",
+      "original_text": "人民有依法律服公務之義務。",
+      "workbook_text_ko": "인민은 법률에 따라 공무에 복무할 의무를 진다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "II",
+      "original_text": "SECTION 1. The Philippines is a republican state. Sovereignty resides in the people and all government authority emanates from them.\nSEC. 2. The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.\nSEC. 3. The Philippines renounces war as an instrument of national policy, and adopts the generally accepted principles of international law as a part of the law of the Nation.\nSEC. 4. The natural right and duty of parents in the rearing of the youth for civic efficiency should receive the aid and support of the Government.\nSEC. 5. The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+      "workbook_text_ko": "제1절. 필리핀은 공화국이다. 주권은 국민에게 있으며 모든 정부권한은 국민에게서 나온다.\n제2절. 국가의 방위는 정부의 으뜸가는 의무이며, 이 의무를 이행하기 위하여 모든 국민에게 법률로 직접적인 군복무 또는 민간복무를 요구할 수 있다.\n제3절. 필리핀은 국가정책의 수단으로서 전쟁을 포기하고 일반적으로 승인된 국제법 원칙을 국내법의 일부로 받아들인다.\n제4절. 청소년을 유능한 시민으로 양육하는 부모의 천부적 권리와 의무는 정부의 원조와 지원을 받아야 한다.\n제5절. 모든 국민의 복지와 경제적 안정을 보장하기 위한 사회정의의 증진은 국가가 힘써야 할 일이다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_009",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "9",
+      "original_text": "國民은 左記 各項의 義務에 服從하여야 함\n一 法律이 定하는 바에 依한 敎育의 義務\n二 法律이 定하는 바에 依한 納稅의 義務\n三 法律이 定하는 바에 依한 兵役의 義務\n四 法律이 定하는 바에 依한 勞働의 義務",
+      "workbook_text_ko": "국민은 아래 각 항의 의무에 복종하여야 함.\n1. 법률이 정하는 바에 의한 교육의 의무\n2. 법률이 정하는 바에 의한 납세의 의무\n3. 법률이 정하는 바에 의한 병역의 의무\n4. 법률이 정하는 바에 의한 노동의 의무"
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_VI",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "VI",
+      "original_text": "All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.\nThis Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.\nThe Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.",
+      "workbook_text_ko": "이 헌법이 채택되기 전에 계약된 모든 채무와 체결된 모든\n약정은 이 헌법에서도 연합규약에서와 마찬가지로 합중\n국에 대하여 유효하다.\n이 헌법과 이 헌법에 준거하여 제정되는 합중국의 법률\n그리고 합중국의 권한에 의하여 체결되었거나 체결될 모\n든 조약은 이 국가의 최고법이며, 모든 주의 법관은, 어\n느 주의 헌법이나 법률 중 이에 반하는 규정이 있을지라\n도, 이 최고법에 구속된다.\n앞서 언급한 상원 및 하원의원, 각 주의 주의회 의원, 합\n중국 및 각 주의 행정관 및 사법관은 선서 또는 확약에\n의하여 이 헌법을 옹호할 의무가 있다. 다만, 미합중국의\n어떠한 관직 또는 위임에 의한 공직에도 그 자격 요건으\n로서 종교상의 심사는 요구되지 않는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_030",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "30",
+      "original_text": "国民は、法律の定めるところにより、納税の義務を負ふ。",
+      "workbook_text_ko": "국민은 법률이 정하는 바에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_020",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "20",
+      "original_text": "人民有依法律服兵役之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 兵役에 服務하는 義務를 진다."
+    }
+  ]
+}

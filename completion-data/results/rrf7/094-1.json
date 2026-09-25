@@ -1,0 +1,103 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_094",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "회계연도를 기준으로 한 기한 설정이라는 점은 겹치나, 규율 대상이 '연방정부의 예산안 제출기한(종료 8주 전)'인 반면 대상 조문은 '국회의 예산 의결기한(회계연도 개시 전)'이고, 의결 불성립 시의 가예산 절차도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산법률의 선의권(하원 우선 제출·의결)이라는 양원 간 권한배분 문제로, 의결기한·가예산이라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_086",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산이 회계연도별로 편성되어 의회의 의결을 거쳐야 한다는 일반 원칙은 공통되나, 시기(개시 전)·의결 불성립 시 가예산이라는 구체적 규율 요소가 없고 주체도 내각의 작성·제출 의무에 초점이 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항 후단이 '회계연도 개시 전에 예산을 확정한다'는 시기 요소를 대상 조문 제1문과 구체적으로 대응시킨다. 다만 확정 형식(법률)과 의결 불성립 시 처리는 다르므로 대응 범위를 제1문에 한정한다.",
+      "evidence": [
+        {
+          "element": "예산 확정 시기(회계연도 개시 전)",
+          "target_field": "original_text",
+          "target_quote": "國會는 會計年度가 開始되기까지에 豫算을 議決하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dieser wird vor Beginn des Rechnungsjahrs durch ein Gesetz festgestellt.",
+          "commonality": "예산은 회계연도가 시작되기 전에 확정되어야 한다는 기한 규범을 둔 점",
+          "difference": "대상은 국회의 '의결'이라는 의회 행위로 규정하나, 후보는 '법률(Gesetz)'로 확정한다는 형식을 지정한다"
+        },
+        {
+          "element": "의결 불성립 시의 처리",
+          "target_field": "workbook_text_ko",
+          "target_quote": "예산이 의결되지 못한 때에는 국회는 1개월이내의 가예산을 의결하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Ausgaben werden in der Regel für ein Jahr bewilligt; sie können in besonderen Fällen auch für eine längere Dauer bewilligt werden.",
+          "commonality": "예산 승인 기간을 연 단위 원칙과 예외적 기간으로 나누어 규율하는 발상",
+          "difference": "후보의 예외는 '1년보다 긴 기간'의 지출승인이고, 대상의 예외는 의결 지연 시 '1개월 이내'의 단기 가예산이어서 방향과 요건이 반대이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "회계연도 개시를 기준으로 한 기한 규정이나, 대상 직위·행위가 '행정원의 예산안 제출(3개월 전)'로서 국회의 의결기한 및 가예산 의결과는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_051",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제3항이 '회계연도 내에 예산이 승인되지 않은 경우'라는 조건과 그에 따른 단기 잠정 재정운영이라는 효과를 규정하여, 대상 조문 제2문의 조건·효과 구조와 구체적으로 대응한다. 다만 잠정운영의 방식·기간·주체가 다르므로 대응 범위를 제2문의 구조에 한정한다.",
+      "evidence": [
+        {
+          "element": "예산 미의결이라는 조건",
+          "target_field": "original_text",
+          "target_quote": "不得已한 事由로 因하여 豫算이 議決되지 못한 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "vom Nationalrat nicht vor Ablauf des Finanzjahres verfassungsmäßig genehmigt",
+          "commonality": "기한 내 예산이 의회에서 확정되지 못한 상황을 명시적 요건으로 삼는 점",
+          "difference": "대상은 '부득이한 사유'라는 사유 요건을 추가하나, 후보는 정부의 적시 제출과 잠정 법률 부재를 요건으로 삼는다"
+        },
+        {
+          "element": "잠정 재정운영의 기간과 절차",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회는 1개월이내의 가예산을 의결하고 그 기간내에 예산을 의결하여야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "so sind in den ersten zwei Monaten des folgenden Finanzjahres die Steuern, Abgaben und Gefälle nach den bestehenden Vorschriften einzuheben",
+          "commonality": "본예산 확정 전 일정 기간 동안의 잠정적 재정집행 근거를 헌법에 두는 점",
+          "difference": "대상은 국회가 별도로 '가예산'을 의결하는 절차이고 기간은 1개월인 반면, 후보는 의회 의결 없이 헌법이 직접 2개월간 기존 규정·제출안에 따른 집행을 허용하고 월 12분의 1의 상한을 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산 의결에 30일이라는 기간을 설정한 점에서 표면적 유사성이 있으나, 그 기간은 참의원 미의결 시 중의원 의결을 국회 의결로 보는 양원관계 규율이며, 회계연도 개시 기한이나 가예산과는 규율 대상이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'부득이한 사유'라는 예외 요건의 명문화",
+    "국회가 스스로 '가예산'을 별도 의결하는 절차와 그 1개월 기한",
+    "가예산 기간 내에 본예산을 의결해야 한다는 후속 의무"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 실제 참조·영향 관계는 제공 본문만으로 확정할 수 없다",
+    "독일어·일본어·중국어 후보의 해석은 제시된 원문과 병기 번역에 의존한다"
+  ],
+  "short_answer": "프로이센 자유주헌법 제63조 제2항의 '회계연도 개시 전 예산 확정' 규정은 대상 제1문의 의결기한 요소와, 오스트리아 개정헌법 제51조 제3항의 '기한 내 미승인 시 단기 잠정 재정운영'은 대상 제2문의 조건·효과 구조와 구체적으로 대응한다. 다만 프로이센은 '법률에 의한 확정' 형식을, 오스트리아는 의회의 별도 의결 없이 헌법이 직접 2개월간 12분의 1 기준 집행을 허용하는 방식을 취해, 국회가 1개월 이내 가예산을 '의결'하는 대상 조문과 절차·기간이 다르다. 오스트리아 1920년 원판 제51조, 중화민국 제59조, 일본국헌법 제86조는 예산안 제출 주체·기한에 관한 규정이어서 의결기한과 혼동해서는 안 된다. 프랑스 상원 조직법 제8조와 일본국헌법 제60조는 양원 간 예산 선의권·의결 우월 문제로 규율 요소가 다르다. '부득이한 사유'와 가예산 의결 절차 자체는 제시된 후보로 설명되지 않는다."
+}

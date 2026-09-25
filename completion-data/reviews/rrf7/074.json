@@ -1,0 +1,45 @@
+{
+  "article": 74,
+  "reviewer": "Codex",
+  "recorded_at": "2026-09-22T16:55:17.139068+00:00",
+  "method": "Post-generation, non-blind comparison against the supplied texts; no API key or additional external model calls.",
+  "scope": "제74조 대상·상위7 후보 원문·번역과 3회 응답 전체를 대조하고, 군별14의 북한 초안 제64조 원문 및 선택 횟수를 확인함.",
+  "synthesis": "상위7의 세 응답이 제시 후보에 지원되는 대응이 없다고 한 판단은 대체로 타당함. 다만 전체 자료에 대응이 없다는 뜻은 아님. 군별14에서 3/3 선택된 북한 초안 제64조는 전체 RRF 39위로 상위7 입력에 포함되지 않았음. 후보 선정 단계에서 실질적 부분 대응이 누락된 사례임.",
+  "issues": [
+    {
+      "kind": "후보 선정 누락",
+      "finding": "북한 초안 제64조의 相은 自己 權限內에서 義務的으로 實行되어야할 省令 또는 規則을 公布할 수 있다는 부처 장의 권한 범위 내 명령·규칙 제정이라는 부분에 대응함. 국무총리와 직권·특별위임 구분까지 대응하는 것은 아님."
+    },
+    {
+      "kind": "적절한 구별",
+      "finding": "프랑스 제54조의 총리 권한 위임, 약헌 제30조의 부서, 일본 제72조·약헌 제28조의 행정부 지휘는 그 자체로 총리령·부령 발령권을 규정하지 않음. 세 응답은 이러한 차이를 구별함."
+    },
+    {
+      "kind": "원문 한정",
+      "finding": "義務的으로 實行되어야할은 명령·규칙의 구속성을 수식함. 상이 언제나 공포할 의무가 있다는 뜻으로 바꾸어 읽지 않음."
+    }
+  ],
+  "response_assessments": {},
+  "limits": [
+    "검색 후보 구성의 차이를 보여 주는 사례이며 모든 미제시 후보를 전수 의미 평가한 결과는 아님."
+  ],
+  "dossier_sha256": "8f06eb7b0edf5567f65a30691af5696599ca9ef672e0ac21da8733d35ddcdbf2",
+  "input_sha256": "2d971c8bee5f9c045ee31accd8e8489692541769fe61971886e74732b1a3a33f",
+  "responses": [
+    {
+      "repeat": 1,
+      "job_id": "074_0f2d7630ceee_r1",
+      "sha256": "c49eafe0663719c6c6187d8f71af5d3fce0ecd96ee44cfd86314d1da45a7747e"
+    },
+    {
+      "repeat": 2,
+      "job_id": "074_0f2d7630ceee_r2",
+      "sha256": "b1c2fd46e89fd2942c711f64e99751127c241281c68ca6198efdd51786cb5020"
+    },
+    {
+      "repeat": 3,
+      "job_id": "074_0f2d7630ceee_r3",
+      "sha256": "1ad87cb77acaaad2c0858ac68e0e5f85da4ed4a444b025d699157e51fae1ab45"
+    }
+  ]
+}

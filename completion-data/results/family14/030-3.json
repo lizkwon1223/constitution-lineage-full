@@ -1,0 +1,200 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_030",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방·주·지방자치단체 기관 간 상호원조 의무 규정으로, 주체가 국가기관이고 내용도 국토방위와 무관하다. '법정 권한 범위'라는 한정어가 있으나 국민의 의무 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'방위' 주제는 겹치나 의무 주체가 프랑스연합 구성체(국가 단위)이고, 수단의 공동행사와 정부의 조정·지휘를 규율한다. 국민 개인의 의무나 법률유보 문형이 없어 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법안제출·공포·은사·군대지휘·관리임명 등 권한 규정으로, 국민의 의무를 규율하는 대상 조문과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'전체 국민(신민) + 법률이 정하는 바에 따라 + …의 의무를 진다'는 문형과 법률유보 구조가 구체적으로 대응한다. 다만 의무의 대상이 '병역'으로 특정되어 있어 대상 조문의 '국토방위'보다 좁다는 점에 한정하여 유용하다.",
+      "evidence": [
+        {
+          "element": "의무 주체와 법률유보",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本臣民ハ法律ノ定ムル所ニ従ヒ",
+          "commonality": "국민(신민) 전체를 주체로 삼고 의무의 내용·범위를 법률에 위임하는 유보 문형이 동일하다.",
+          "difference": "대상은 '모든 국민'으로 일반화되어 있고 후보는 '일본 신민'이라는 신민 개념을 쓴다."
+        },
+        {
+          "element": "의무의 대상과 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국토방위의 의무를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "兵役ノ義務ヲ有ス",
+          "commonality": "군사적 방위 관련 부담을 국민의 헌법상 의무로 선언하는 효과가 같다.",
+          "difference": "후보는 '병역'이라는 특정 복무의무이고, 대상은 병역에 한정되지 않는 '국토방위' 의무로 표현되어 포섭 범위가 넓다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_028",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공민의 조국 보위 의무를 규정해 방위의무라는 주제는 겹치지만, 법률유보가 없고 최대의무·최대영예 선언과 배반에 대한 형벌 처단이라는 상이한 요소로 구성되어 있어 문언상 규율 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_034",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'모든 (국민) …의 의무를 진다'는 일반적 의무선언과 그 범위·방법을 법률로 정한다는 법률유보의 2단 구조가 대상 조문의 '법률의 정하는 바에 의하여'와 대응한다. 다만 의무 내용이 병역으로 특정된 점에 한정한다.",
+      "evidence": [
+        {
+          "element": "의무 주체와 법률유보",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Preußen sind wehrpflichtig. Den Umfang und die Art dieser Pflicht bestimmt das Gesetz.",
+          "commonality": "국민 전체를 주체로 의무를 선언하고 그 구체적 내용을 법률에 맡기는 구성이 같다.",
+          "difference": "후보는 의무 선언과 법률유보를 두 문장으로 분리하고 '범위와 이행 방법'을 명시하는데, 대상은 한 문장 안의 '법률의 정하는 바에 의하여'로 포괄한다."
+        },
+        {
+          "element": "의무의 대상",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국토방위의 의무를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Preußen sind wehrpflichtig",
+          "commonality": "국방 관련 부담을 전 국민의 헌법상 의무로 정한다.",
+          "difference": "후보는 병역의무(wehrpflichtig)로 특정되고, 대상은 '국토방위'라는 더 포괄적 표현을 쓴다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_132",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'모든 독일인은 법률에 따라 …의무를 진다'는 문형은 유사하나 의무 내용이 명예직 수임으로 국토방위와 무관하여, 문형 대응만 남고 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_078",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원의 선서 의무 규정으로 주체(공무원)와 내용(선서)이 모두 달라 대상 조문과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_023",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'인민은 법률에 따라 …의무를 진다'는 법률유보 문형이 같으나 의무 내용이 공무 복무여서 국토방위와 대응하지 않는다. 같은 헌법 계열의 병역조항(후보 ROC1946 제20조)이 더 직접적 대응이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2절이 '국가의 방위'를 헌법상 의무로 정하고 그 이행을 위해 법률로 모든 국민에게 군복무 또는 민간복무를 요구할 수 있게 한 점에서, 병역에 국한되지 않는 '국토방위 의무 + 법률유보'라는 대상 조문의 구조와 대응한다. 다만 방위의무의 일차적 주체를 정부로 규정한 부분은 대상과 다르므로 비교 범위를 제2절에 한정한다.",
+      "evidence": [
+        {
+          "element": "의무의 대상(국토방위)과 법률유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여 국토방위의 의무를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.",
+          "commonality": "국가방위를 헌법상 의무로 명시하고 국민에 대한 구체적 부담은 법률에 위임한다는 점이 같으며, 병역에 한정되지 않는 넓은 방위부담을 전제한다.",
+          "difference": "후보는 방위의무의 일차적 주체를 '정부'로 두고 국민에게는 법률로 '요구할 수 있다'는 가능규정(may be required)을 두는데, 대상은 국민이 직접 의무를 진다고 확정적으로 규정한다. 또 후보는 군복무·민간복무를 예시하나 대상은 내용을 특정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률이 정하는 바에 의한 …의 의무'라는 동일한 한국어 문언 형식으로 국민의 의무를 열거하고 그중 병역의무를 포함한다. 대상 조문의 주체·법률유보·의무형식과 직접 대응하되, 열거형 구성과 '병역' 특정이라는 차이에 한정하여 유용하다.",
+      "evidence": [
+        {
+          "element": "법률유보 문형",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律이 定하는 바에 依한 兵役의 義務",
+          "commonality": "의무의 내용을 법률에 위임하는 한국어 문언('법률이 정하는 바에 의한/의하여')이 사실상 동일하다.",
+          "difference": "후보는 명사형 열거('…의 의무')이고 대상은 '의무를 진다'는 서술형 단일 조문이다."
+        },
+        {
+          "element": "의무의 대상",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국토방위의 의무를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國民은 左記 各項의 義務에 服從하여야 함",
+          "commonality": "국민을 주체로 하는 헌법상 의무를 규정한다.",
+          "difference": "후보는 교육·납세·병역·노동 의무를 함께 열거하고 방위의무를 '병역'으로 특정하며 '복종하여야 함'이라는 표현을 쓰는데, 대상은 '국토방위'라는 포괄 표현의 단일 의무 조문이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_VI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "채무 승계·최고법규성·공직자 선서와 종교심사 금지 규정으로, 국민의 국토방위 의무와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국민은 법률이 정하는 바에 따라 …의 의무를 진다'는 문형이 대상 조문과 거의 그대로 일치한다. 다만 의무의 대상이 납세로서 국토방위와 다르므로, 대응 범위는 주체·법률유보·서술형 의무 문형에 한정한다.",
+      "evidence": [
+        {
+          "element": "주체·법률유보·의무 서술 문형",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "国民は、法律の定めるところにより",
+          "commonality": "국민을 주체로 하여 '법률이 정하는 바에 따라'라는 유보를 앞세우고 '의무를 진다'로 맺는 문장 구조가 동일하다.",
+          "difference": "후보의 의무 대상은 '납세'이고 대상 조문은 '국토방위'로 규율 내용이 전혀 다르며, 대상은 '모든'이라는 전칭 수식어를 추가한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'인민은 법률에 따라 병역에 복무할 의무를 진다'는 규정으로 주체·법률유보·의무 서술이 대상 조문과 대응한다. 의무 대상이 병역으로 특정된 범위에서만 비교가 유효하다.",
+      "evidence": [
+        {
+          "element": "주체·법률유보·의무 서술",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律의 定하는 바에 依하여 國土防衛의 義務를 진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有依法律服兵役之義務。",
+          "commonality": "국민(인민) 일반을 주체로 법률에 의한 국방 관련 복무의무를 간결한 한 문장으로 규정한다.",
+          "difference": "후보는 '병역 복무'로 의무를 특정하고 주체를 '人民'이라 하며, 대상은 '모든 국민'의 '국토방위' 의무로 표현 범위가 더 넓다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'병역'이 아니라 '국토방위'라는 포괄적 표현을 국민의 의무로 정한 선택(후보 중 PH1935 제2절의 군복무·민간복무 병기만 부분적으로 대응)",
+    "'모든'이라는 전칭 수식어의 사용"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했고, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "후보 중 독일어·프랑스어·영어 조문은 원문과 함께 제시된 번역문에 의존한 이해가 일부 포함될 수 있다."
+  ],
+  "short_answer": "대상 조문은 '모든 국민 + 법률유보 + 방위의무'의 3요소로 구성되며, 이 구조에 구체적으로 대응하는 후보는 JP1889 제20조, PR1850 제34조, ROC1946 제20조, KR1947 조선임시약헌 제9조(병역의무 항), PH1935 제2조 제2절, JP1946 제30조이다. 앞의 네 후보는 법률유보 문형과 국방 관련 복무의무가 함께 대응하지만 의무 대상을 '병역'으로 특정하는 점이 다르고, 특히 조선임시약헌은 한국어 문언('법률이 정하는 바에 의한')이 거의 동일하나 열거형이다. PH1935 제2절은 병역에 한정되지 않는 '국가방위' 의무와 법률에 의한 군복무·민간복무 요구를 함께 두어 '국토방위'라는 포괄 표현과 가장 가깝지만, 방위의무의 일차 주체를 정부로 하고 국민 부담은 가능규정으로 둔 점이 다르다. JP1946 제30조는 문형이 사실상 일치하나 의무 대상이 납세여서 대응 범위를 주체·법률유보·서술 형식에 한정해야 한다. NK1948 제28조, ROC1936 제23조, 바이마르 제132조는 주제 또는 문형만 부분적으로 겹치며, 나머지 후보는 주체와 규율 내용이 달라 대응이 없고, 이상은 문언 대응 판단일 뿐 역사적 참조의 확정은 아니다."
+}

@@ -1,0 +1,75 @@
+{
+  "article": 28,
+  "reviewed_at": "2026-09-22T15:28:24.848285+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "e0e24b637c198cf76ab995bbdf62ea7ddba07e338bea4d5d83995a08ec5b091b",
+  "input_sha256": "3be8406deabc648fa9fc386aba33fe43e6047b629b0dc914ddc3fc6e542f0ceb",
+  "responses": [
+    {
+      "job_id": "028_0f492ca5f634_r1",
+      "repeat": 1,
+      "sha256": "0538700d402fc35dc9e713c4316c860dccbb9a9d80633d06d933c7f4ef207468",
+      "assessment": "중화민국 초안의 기타 권리 보장과 중화민국 헌법의 제한 목적·필요성 요건을 구분한 주요 판단은 타당함. 일본 제12조가 국민의 권리 유지·남용금지·이용 책임을 정한다는 차이도 원문에 부합함. 공공복리의 역사적 어원은 미설명 대상 요소와 구분해야 함."
+    },
+    {
+      "job_id": "028_0f492ca5f634_r2",
+      "repeat": 2,
+      "sha256": "f414ca1b5520718f31b20bf880cf429a282bedcd324cd61c9ff3c94afdfb88a7",
+      "assessment": "선택 후보의 보장 요건과 제한 요건의 위치 차이를 체계적으로 설명함. 다만 요약에 필요한 최소한이라는 문구를 더했으며 대상 원문에는 필요한 경우라고만 되어 있음. 비례심사의 세부 기준을 이 문언만으로 확정하지 않아야 함."
+    },
+    {
+      "job_id": "028_0f492ca5f634_r3",
+      "repeat": 3,
+      "sha256": "b96a08b46e6c03fc84515d8a3b32e3e7895be7185afc5ed76ad9a45390fa25b8",
+      "assessment": "주요 두 후보의 대응은 타당함. 중화민국 제23조가 열거된 권리의 제한을 규정한다는 사실은 미열거 권리 보장과 반대되는 것이 아님. 프랑스의 특정 신분에 따른 제한 금지를 어떠한 이유도 제한 사유가 될 수 없다는 표현으로 넓힌 부분을 수정해야 함."
+    }
+  ],
+  "synthesis": "제1항은 미열거를 이유로 자유·권리를 경시하지 못하게 하고, 제2항은 제한법률의 목적과 필요성을 한정함. 중화민국 초안 제24조의 기타 자유·권리 보장은 제1항과 대응하지만 사회질서·공공이익을 방해하지 않을 것을 보장 조건으로 둠. 중화민국 헌법 제23조는 사회질서 유지·공공이익 증진을 위해 필요한 경우라는 제한 구조에 직접 대응하며 타인의 자유 침해 방지와 긴급위난 회피를 추가함. 이 후보의 열거 권리라는 적용 범위는 제헌헌법보다 문언상 좁지만 미열거 권리의 부정을 뜻하지 않음. 일본 제12조는 공공복리라는 개념을 공유하나 국민의 권리 유지·남용금지·이용 책임을 규정하므로 제한입법의 조건과 같은 규율로 볼 수 없음. 이러한 차이 때문에 후보가 선택되지 않았다는 사실을 역사적 참조 가능성의 부정으로 사용하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": null,
+      "type": "added_standard",
+      "severity": "material",
+      "finding": "요약에서 필요한 경우를 필요 최소한의 제한입법으로 바꾸어 원문에 없는 최소성 기준을 덧붙임.",
+      "action": "필요성 요건으로 표현하고 구체적인 비례심사 기준은 별도 해석 문제로 남김."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "ROC1946_PROM1947_ART_023",
+      "type": "false_opposition",
+      "severity": "material",
+      "finding": "열거 권리를 대상으로 한 제한 조항이 미열거 권리 불경시와 반대 방향이라고 설명함.",
+      "action": "적용 범위의 차이로 정리하며 미열거 권리를 부정한다는 함의를 제거함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_082",
+      "type": "scope_overstatement",
+      "severity": "minor",
+      "finding": "Ce statut ne peut en aucun cas를 어떠한 이유도 제한 사유가 될 수 없다고 옮김. 제한 사유가 될 수 없는 것은 해당 속인법상 지위임.",
+      "action": "해당 지위는 어떤 경우에도 시민의 권리 제한 사유가 될 수 없다고 정정함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": null,
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "공공복리 용어가 어느 계열에서 왔는지를 미설명 대상 요소로 제시함.",
+      "action": "문언 대응의 남은 요소와 역사적 유래라는 별도 연구 질문을 구분함."
+    }
+  ],
+  "limits": [
+    "필요하다는 문언과 최소침해 원칙의 완성된 심사 체계는 구분함.",
+    "입법 금지형 문장만으로 실제 법해석상 모든 제한이 절대적으로 배제되는지 확정하지 않음."
+  ]
+}

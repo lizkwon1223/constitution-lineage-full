@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_085",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "85",
+    "original_text": "鑛物 其他 重要한 地下資源, 水産資源, 水力과 經濟上 利用할 수 있는 自然力은 國有로 한다. 公共必要에 依하여 一定한 期間 그 開發 또는 利用을 特許하거나 또는 特許를 取消함은 法律의 定하는 바에 依하여 行한다.",
+    "workbook_text_ko": "광물 기타 중요한 지하자원, 수산자원, 수력과 경제상 이용할 수 있는 자연력은 국유로 한다. 공공필요에 의하여 일정한 기간 그 개발 또는 이용을 특허하거나 또는 특허를 취소함은 법률의 정하는 바에 의하여 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1936_DRAFT_ART_123",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "123",
+      "original_text": "公用事業及其他有獨占性之企業，以國家公營爲原則，但因必要，得特許國民私營之。\n國家對於前項特許之私營事業，因國防上之緊急需要，得臨時管理之，並得依法律收歸公營，但應予以適當之補償。",
+      "workbook_text_ko": "공익사업과 그 밖에 독점성을 가진 기업은 국가가 공영하는 것을 원칙으로 한다. 다만, 필요한 때에는 국민의 사영을 특허할 수 있다.\n국가는 국방상의 긴급한 필요가 있을 때 전항에 따라 특허한 사영사업을 임시로 관리할 수 있으며, 법률에 따라 공영으로 전환할 수 있다. 다만, 적절한 보상을 하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_117",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "117",
+      "original_text": "中華民國領域內之土地，屬於國民全體，其經人民依法律取得所有權者，其所有權受法律之保障及限制。國家對於人民取得所有權之土地，得按照土地所有權人申報或政府估定之地價，依法律征稅或徵收之。\n土地所有權人，對於其所有土地，負充分使用之義務。",
+      "workbook_text_ko": "중화민국 영역 안의 토지는 국민 전체에 속한다. 인민이 법률에 따라 소유권을 취득한 경우 그 소유권은 법률의 보장과 제한을 받는다. 국가는 인민이 소유권을 취득한 토지에 대하여 토지소유권자가 신고하거나 정부가 평가한 지가에 따라 법률에 의하여 과세하거나 수용할 수 있다.\n토지소유권자는 그 소유 토지를 충분히 이용할 의무를 진다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XIII",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XIII",
+      "original_text": "SECTION 1. All agricultural, timber, and mineral lands of the public domain, waters, minerals, coal, petroleum, and other mineral oils, all forces of potential energy, and other natural resources of the Philippines belong to the State, and their disposition, exploitation, development, or utilization shall be limited to citizens of the Philippines, or to corporations or associations at least sixty per centum of the capital of which is owned by such citizens, subject to any existing right, grant, lease, or concession at the time of the inauguration of the Government established under this Constitution. Natural resources, with the exception of public agricultural land, shall not be alienated, and no license, concession, or lease for the exploitation, development, or utilization of any of the natural resources shall be granted for a period exceeding twenty-five years, renewable for another twenty-five years, except as to water rights for irrigation, water supply, fisheries, or industrial uses other than the development of water power, in which cases beneficial use may be the measure and the limit of the grant.\nSEC. 2. No private corporation or association may acquire, lease, or hold public agricultural lands in excess of one thousand and twenty-four hectares, nor may any individual acquire such lands by purchase in excess of one hundred and forty-four hectares, or by lease in excess of one thousand and twenty-four hectares, or by homestead in excess of twenty-four hectares. Lands adapted to grazing, not exceeding two thousand hectares, may be leased to an individual, private corporation, or association.\nSEC. 3. The Congress of the Philippines may determine by law the size of private agricultural land which individuals, corporations, or associations may acquire and hold, subject to rights existing prior to the enactment of such law.\nSEC. 4. The Congress of the Philippines may authorize, upon payment of just compensation, the expropriation of lands to be subdivided into small lots and conveyed at cost to individuals.\nSEC. 5. Save in cases of hereditary succession, no private agricultural land shall be transferred or assigned except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain in the Philippines.\nSEC. 6. The State may, in the interest of national welfare and defense, establish and operate industries and means of transportation and communication, and, upon payment of just compensation, transfer to public ownership utilities and other private enterprises to be operated by the Government.",
+      "workbook_text_ko": "제1절. 필리핀의 모든 공유 농지·산림지·광물지, 수역·광물·석탄·석유 및 그 밖의 광유, 모든 잠재적 에너지원과 그 밖의 천연자원은 국가에 속한다. 그 처분·개발·개량 또는 이용은 필리핀 국민이나 자본의 적어도 60퍼센트를 그 국민이 소유한 법인·단체에 한정하되, 이 헌법에 따라 설립된 정부의 출범 당시 존재하는 권리·불하·임대차 또는 특허를 존중한다. 공유 농지를 제외한 천연자원은 양도할 수 없으며, 천연자원의 개발·개량·이용에 관한 허가·특허·임대차는 25년을 넘는 기간으로 부여할 수 없고 추가로 25년간 갱신할 수 있다. 다만, 관개·급수·어업 또는 수력 개발 이외의 산업 용도를 위한 수리권은 예외로 하며, 이 경우에는 유익한 이용을 권리 부여의 기준과 한도로 삼을 수 있다.\n제2절. 민간 법인이나 단체는 1,024헥타르를 넘는 공유 농지를 취득·임차 또는 보유할 수 없다. 개인은 매수로 144헥타르, 임차로 1,024헥타르, 자영농지 불하로 24헥타르를 넘는 공유 농지를 취득할 수 없다. 방목에 적합한 토지는 2,000헥타르를 넘지 않는 범위에서 개인·민간 법인 또는 단체에 임대할 수 있다.\n제3절. 필리핀 의회는 그 법률 제정 전에 존재하던 권리를 존중하면서, 개인·법인·단체가 취득·보유할 수 있는 사유 농지의 면적을 법률로 정할 수 있다.\n제4절. 필리핀 의회는 정당한 보상을 지급하고 토지를 수용하여 작은 필지로 분할한 뒤 원가로 개인에게 양도하도록 허가할 수 있다.\n제5절. 상속의 경우를 제외하고는 필리핀의 공유지를 취득·보유할 자격이 있는 개인·법인·단체가 아닌 자에게 사유 농지를 이전하거나 양도할 수 없다.\n제6절. 국가는 국민복리와 국방을 위하여 산업시설과 운송·통신수단을 설치·운영할 수 있으며, 정당한 보상을 지급하고 공익사업과 그 밖의 민간기업을 공공 소유로 전환하여 정부가 운영하게 할 수 있다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XII",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XII",
+      "original_text": "Section 1. All agricultural, timber, and mineral lands of the public domain, waters, minerals, coal, petroleum, and other mineral oils, all forces of potential energy, and other natural resources of the Philippines belong to the State, and their disposition, exploitation, development, or utilization shall be limited to citizens of the Philippines, or to corporations or associations at least sixty per centum of the capital of which is owned by such citizens, subject to any existing right, grant, lease, or concession at the time of the inauguration of the Government established under this Constitution. Natural resources, with the exception of public agricultural land, shall not be alienated, and no license, concession, or lease for the exploitation, development, or utilization of any of the natural resources shall be granted for a period exceeding twenty-five years, renewable for another twenty-five years, except as to water rights for irrigation, water supply, fisheries, or industrial uses other than the development of water power, in which cases beneficial use may be the measure and the limit of the grant.\nSec. 2. No private corporation or association may acquire, lease, or hold public agricultural lands in excess of one thousand and twenty-four hectares, nor may any individual acquire such lands by purchase in excess of one hundred and forty-four hectares, or by lease in excess of one thousand and twenty-four hectares, or by homestead in excess of twenty-four hectares. Lands adapted to grazing, not exceeding two thousand hectares, may be leased to an individual, private corporation, or association.\nSec. 3. The National Assembly may determine by law the size of private agricultural land which individuals, corporations, or associations may acquire and hold, subject to rights existing prior to the enactment of such law.\nSec. 4. The National Assembly may authorize, upon payment of just compensation, the expropriation of lands to be subdivided into small lots and conveyed at cost to individuals.\nSec. 5. Save in cases of hereditary succession, no private agricultural land shall be transferred or assigned except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain in the Philippines.\nSec. 6. The State may, in the interest of national welfare and defense, establish and operate industries and means of transportation and communication, and, upon payment of just compensation, transfer to public ownership utilities and other private enterprises to be operated by the Government.",
+      "workbook_text_ko": "제1절. 필리핀의 모든 공유 농지·산림지·광물지, 수역·광물·석탄·석유 및 그 밖의 광유, 모든 잠재적 에너지원과 그 밖의 천연자원은 국가에 속한다. 그 처분·개발·개량 또는 이용은 필리핀 국민이나 자본의 적어도 60퍼센트를 그 국민이 소유한 법인·단체에 한정하되, 이 헌법에 따라 설립된 정부의 출범 당시 존재하는 권리·불하·임대차 또는 특허를 존중한다. 공유 농지를 제외한 천연자원은 양도할 수 없으며, 천연자원의 개발·개량·이용에 관한 허가·특허·임대차는 25년을 넘는 기간으로 부여할 수 없고 추가로 25년간 갱신할 수 있다. 다만, 관개·급수·어업 또는 수력 개발 이외의 산업 용도를 위한 수리권은 예외로 하며, 이 경우에는 유익한 이용을 권리 부여의 기준과 한도로 삼을 수 있다.\n제2절. 민간 법인이나 단체는 1,024헥타르를 넘는 공유 농지를 취득·임차 또는 보유할 수 없다. 개인은 매수로 144헥타르, 임차로 1,024헥타르, 자영농지 불하로 24헥타르를 넘는 공유 농지를 취득할 수 없다. 방목에 적합한 토지는 2,000헥타르를 넘지 않는 범위에서 개인·민간 법인 또는 단체에 임대할 수 있다.\n제3절. 국민의회는 그 법률 제정 전에 존재하던 권리를 존중하면서, 개인·법인·단체가 취득·보유할 수 있는 사유 농지의 면적을 법률로 정할 수 있다.\n제4절. 국민의회는 정당한 보상을 지급하고 토지를 수용하여 작은 필지로 분할한 뒤 원가로 개인에게 양도하도록 허가할 수 있다.\n제5절. 상속의 경우를 제외하고는 필리핀의 공유지를 취득·보유할 자격이 있는 개인·법인·단체가 아닌 자에게 사유 농지를 이전하거나 양도할 수 없다.\n제6절. 국가는 국민복리와 국방을 위하여 산업시설과 운송·통신수단을 설치·운영할 수 있으며, 정당한 보상을 지급하고 공익사업과 그 밖의 민간기업을 공공 소유로 전환하여 정부가 운영하게 할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_118",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "118",
+      "original_text": "附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。",
+      "workbook_text_ko": "토지에 부착된 광물과 경제적으로 공중의 이용에 제공할 수 있는 자연력은 국가의 소유이며, 인민의 토지소유권 취득으로 영향을 받지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_146",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "146",
+      "original_text": "國家應運用科學技術，以興修水利，增進地力，改善農業環境，規劃土地利用，開發農業資源，促成農業之工業化。",
+      "workbook_text_ko": "國家는 科學技術을 運用하여서 水利를 興修하고 地力을 增進하며 農業環境을 改善하고 土地利用을 規劃 하며 農業資源을 開發하고 農業의 工業化를 促成하여야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_143",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "143",
+      "original_text": "中華民國領土內之土地屬於國民全體。人民依法取得之土地所有權，應受法律之保障與限制。私有土地應照價納稅，政府並得照價收買。\n附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有，不因人民取得土地所有權而受影響。\n土地價值非因施以勞力資本而增加者，應由國家徵收土地增值稅，歸人民共享之。\n國家對於土地之分配與整理，應以扶植自耕農及自行使用土地人為原則，並規定其適當經營之面積。",
+      "workbook_text_ko": "中華民國領土內의 土地는 國民全體에 屬한다. 法律의 定하는 바에 依하여 人民이 取得하는 土地所有權은 法律의 保障과 制限을 받는다. 私有土地는 그 價格을 따라 納稅하여야하고 政府는 價格에 따라 이를 買收할 수 있다.\n  土地에 附着한 鑛物과 經濟上公衆의 利用에 供할 수 있는 天然力은 國家의 所有에 屬하며 人民이 取得하는 土地所有權으로 因하여 影響을 받지 아니한다\n  勞力과 資本을 要하지 아니하고 그 價値가 增價한 土地에 對하여 國家는 土地增値稅를 徵收할 것이며 이는人民이 다같이享有 하여야 한다. 國家는 土地의 分配와 整理에 있어서 自作農 및 自身이 土地를 使用하는 人民을 扶植함을 原則으로 하고 또 그 適當한 經營面積을 規定하여야 한다"
+    }
+  ]
+}

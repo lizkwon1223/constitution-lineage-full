@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_042",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "42",
+    "original_text": "國會는 國際組織에 關한 條約, 相互援助에 關한 條約, 講和條約, 通商條約, 國家 또는 國民에게 財政的 負擔을 지우는 條約, 立法事項에 關한 條約의 批准과 宣戰布告에 對하여 同意權을 가진다.",
+    "workbook_text_ko": "국회는 국제조직에 관한 조약, 상호원조에 관한 조약, 강화조약, 통상조약, 국가 또는 국민에게 재정적 부담을 지우는 조약, 입법사항에 관한 조약의 비준과 선전포고에 대하여 동의권을 가진다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "8",
+      "original_text": "Le Président de la République négocie et ratifie les traités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent. - Les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ne sont définitifs qu'après avoir été votés par les deux chambres. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.",
+      "workbook_text_ko": "공화국대통령은 조약을 교섭하고 비준한다. 국가의 이익과 안전\n(l'intérêt et la sûreté de l'État)이 그것을 허락할 때에는 즉시조약의 교섭과\n비준을 양원에 보고한다.\n평화조약, 통상조약, 국가재정을 구속하는 조약, 개인의 신분과 외국에\n있는 프랑스인의 소유권에 관한 조약은 양원에서 채택한 후가 아니면 확정\n되지 아니한다. 영토의 어떠한 할양ㆍ교환ㆍ부가도 법률에 의하지 아니하\n면 할 수 없다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_V",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "V",
+      "original_text": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.",
+      "workbook_text_ko": "연방의회는 상･하 양원의 3분의 2가 이 헌법에 대한 개정\n의 필요성을 인정할 때에는 헌법 개정을 발의해야 하며, 모\n든 주의 3분의 2 이상의 주의회의 요청이 있을 때에도 개\n정 발의를 위한 헌법회의를 소집해야 한다. 어느 경우에나\n연방의회가 제의하는 비준의 방법으로서 모든 주의 4분의\n3의 주의회에 의한 비준, 또는 모든 주의 4분의 3의 주 헌\n법회의에 의한 비준 중 어느 하나에 따라 비준되는 때에는\n모든 점에서 이 헌법의 일부로서 효력이 발생한다. 다만, 1808년\n전에 이루어지는 개정은 어떠한 방법으로도 제1조 제9항\n제1호 및 제4호에 변경을 가져올 수 없다. 어느 주도 그 주\n의 동의 없이는 상원에서의 동등한 투표권을 박탈당하지\n않는다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_012",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "12",
+      "original_text": "立法議院은 國權의 最高機關이며 唯一한 立法機關으로서 左의 權限을 行함\n一 法律의 制定\n二 豫算의 議定\n三 決算의 審査\n四 國債의 募集 及 國庫 負擔이 될 契約의 議決\n五 條約締結 及 宣戰媾和에 對한 同意\n六 大赦 特赦 減刑 及 復權에 對한 同意\n七 政府主席、副主席、國務總長 及 國務委員에 對한 彈劾의 議決\n八 政府에 對한 建議\n九 請願의 受理\n十 議員의 資格審査 及 懲罰\n十一 議事規則의 制定",
+      "workbook_text_ko": "입법의원은 국권의 최고기관이며 유일한 입법기관으로서 아래의 권한을 행함.\n1. 법률의 제정\n2. 예산의 의정\n3. 결산의 심사\n4. 국채의 모집 및 국고 부담이 될 계약의 의결\n5. 조약 체결 및 선전·강화에 대한 동의\n6. 대사·특사·감형 및 복권에 대한 동의\n7. 정부주석·부주석·국무총장 및 국무위원에 대한 탄핵의 의결\n8. 정부에 대한 건의\n9. 청원의 수리\n10. 의원의 자격심사 및 징벌\n11. 의사규칙의 제정"
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_061",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "61",
+      "original_text": "条約の締結に必要な国会の承認については、前条第二項の規定を準用する。",
+      "workbook_text_ko": "조약 체결에 필요한 국회 승인에 대하여는 제60조제2항의 규정을 준용한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_064",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "64",
+      "original_text": "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案、及其他關於重要國際事項之權。",
+      "workbook_text_ko": "입법원은 법률안·예산안·계엄안·대사안·선전안·강화안·조약안 및 그 밖의 중요한 국제사항을 의결할 권한을 가진다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_048",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "48",
+      "original_text": "Der König hat das Recht, Krieg zu erklären und Frieden zu schließen, auch andere Verträge mit fremden Regierungen zu errichten. Letztere bedürfen zu ihrer Gültigkeit der Zustimmung der Kammern, sofern es Handelsverträge sind, oder wenn dadurch dem Staate Lasten oder einzelnen Staatsbürgern Verpflichtungen auferlegt werden.",
+      "workbook_text_ko": "국왕은 전쟁선포권과 강화\n체결권, 그리고 외국정부와 기타 조\n약을 체결할 권한을 가진다. 후자의\n조약은, 그것이 통상조약이거나 그\n조약의 체결로 인해 국가에 부담을\n지우는 경우 또는 개개의 국민들에\n게 의무를 부과하는 경우인 한, 그\n효력을 얻기 위해서 의회 양원의 동\n의를 얻어야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_027",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "27",
+      "original_text": "Les traités relatifs à l'organisation internationale, les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ceux qui modifient les lois internes françaises, ainsi que ceux qui comportent cession, échange, adjonction de territoire, ne sont définitifs qu'après avoir été ratifiés en vertu d'une loi.\nNulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.",
+      "workbook_text_ko": "국제기구에 관한 조약ㆍ평화조약ㆍ통상조약ㆍ국가재정(finances de\nl'État)을 구속하는 조약, 사람의 신분(état des personnes)과 외국에 있는 프랑스인의 소유권(droits de propriété)에 관련된 조약, 프랑스의 국내법(loi\ninterne)을 수정하는 것과 영토의 할양ㆍ교환ㆍ부가를 포함하는 것은, 법률에 의거하여 비준된 후가 아니면 확정적인 것이 되지 아니한다.\n영토의 어떠한 할양ㆍ교환ㆍ부가도 이해관계 있는 주민(population\nintéressée)의 동의가 없으면 유효한 것이 아니다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_055",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "55",
+      "original_text": "国務各大臣ハ天皇ヲ輔弼シ其ノ責ニ任ス\n２　凡テ法律勅令其ノ他国務ニ関ル詔勅ハ国務大臣ノ副署ヲ要ス",
+      "workbook_text_ko": "각 국무대신은 천황을 보필하고 그 책임을 진다.\n② 모든 법률·칙령 및 그 밖의 국무에 관한 조칙에는 국무대신의 부서가 필요하다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "45",
+      "original_text": "Der Reichspräsident vertritt das Reich völkerrechtlich. Er schließt im Namen des Reichs Bündnisse und andere Verträge mit auswärtigen Mächten. Er beglaubigt und empfängt die Gesandten.\nKriegserklärung und Friedensschluß erfolgen durch Reichsgesetz.\nBündnisse und Verträge mit fremden Staaten, die sich auf Gegenstände der Reichsgesetzgebung beziehen, bedürfen der Zustimmung des Reichstags.",
+      "workbook_text_ko": "국제법상으로 제국대통령은 독일제국을 대표한다. 제국대통령은 독일제국의 이름으로 외국 세력과의 동맹을 비롯하여 그 밖의 조약을 체결한다. 제국대통령은 외교관을 파견하고 접견한다.\n전쟁선포와 강화(講和)는 제국법률로 한다.\n제국입법의 대상과 관계가 있는 외국과의 동맹 및 조약은 제국의회의 동의가 필요하다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_049",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "49",
+      "original_text": "最高人民會議 常任委員會는 다음의 任務를 가진다.\n一. 最高人民會議의 召集\n二. 憲法 및 法令의 實施에 對한 監督 現行法令의 解釋 및 政令의 公布\n三. 憲法 및 法令에 抵觸되는 內閣의 決定 指示의 廢止\n四. 最高人民會議가 採擇한 法令의 公布\n五. 特赦權의 行使\n六. 最高人民會議 休會中 首相의 提議에 依한 相의 任免 및 이에 對한 次期人民會議의 承認의 要求\n七. 勳章 또는 名譽稱號의 授與\n八. 外國과의 條約批准\n九. 外國에 駐在하는 大使 公使의 任命 및 召還\n十. 外國使臣의 信任狀 및 解任狀의 接受",
+      "workbook_text_ko": "최고인민회의 상임위원회는 다음의 임무를 가진다.\n1. 최고인민회의의 소집\n2. 헌법 및 법령의 실시에 대한 감독 현행법령의 해석 및 정령의 공포\n3. 헌법 및 법령에 저촉되는 내각의 결정 지시의 폐지\n4. 최고인민회의가 채택한 법령의 공포\n5. 특사권의 행사\n6. 최고인민회의 휴회 중 수상의 제의에 의한 상의 임면 및 이에 대한 차기인민회의의 승인의 요구\n7. 훈장 또는 명예칭호의 수여\n8. 외국과의 조약비준\n9. 외국에 주재하는 대사 공사의 임명 및 소환\n10. 외국사신의 신임장 및 해임장의 접수"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_063",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "63",
+      "original_text": "立法院有議決法律案，預算案，戒嚴案，大赦案，宣戰案，媾和案，條約案及國家其他重要事項之權。",
+      "workbook_text_ko": "立法院은 法律案, 豫算案, 戒嚴案, 大赦案, 宣戰案, 講和案, 條約案 및 國家의 其他 重要事項을 議決하는 權限을 가진다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_050",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "50",
+      "original_text": "(1) Alle politischen Staatsverträge, andere nur, sofern sie gesetzändernden Inhalt haben, bedürfen zu ihrer Gültigkeit der Genehmigung durch den Nationalrat.\n(2) Auf Beschlüsse des Nationalrates über die Genehmigung von Staatsverträgen werden die Bestimmungen des Artikels 42, Absatz 1 bis 4, und, wenn durch den Staatsvertrag ein Verfassungsgesetz geändert wird, die Bestimmungen des Artikels 44, Absatz 1, sinngemäß angewendet.",
+      "workbook_text_ko": "(1) 모든 정치적 국가조약과, 그 밖의 국가조약 중 법률을 변경하는 내용을 가진 것은 유효하기 위하여 국민의회의 승인을 받아야 한다.\n(2) 국가조약 승인에 관한 국민의회의 의결에는 제42조 제1항부터 제4항까지를 준용하며, 국가조약이 헌법률을 변경하는 경우에는 제44조 제1항도 준용한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_029",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "29",
+      "original_text": "(1) Der Landtag beschließt über die Gesetze nach Maßgabe dieser Verfassung; er genehmigt den Haushaltsplan in Einnahme und Ausgabe; er stellt die Grundsätze für die Verwaltung der Staatsangelegenheiten auf und überwacht ihre Ausführung. Staatsverträge bedürfen seiner Genehmigung, wenn sie sich auf Gegenstände der Gesetzgebung beziehen.\n(2) Der Landtag gibt sich seine Geschäftsordnung im Rahmen dieser Verfassung.",
+      "workbook_text_ko": "(1) 주의회는 이 헌법에 따라 법률을 의결하고 예산의 세입과 세출을 승인하며, 국가사무의 관리 원칙을 정하고 그 집행을 감독한다. 국가 간 조약이 입법사항에 관한 것인 때에는 주의회의 승인이 필요하다.\n(2) 주의회는 이 헌법의 범위 안에서 자신의 의사규칙을 정한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XIV",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XIV",
+      "original_text": "Section 1. The National Assembly, by a vote of three-fourths of all its Members, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 국민의회는 재적의원 4분의 3의 표결로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_076",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조직을 법률(특별법)로 정한다는 법률유보 문형은 겹치나, 대상은 일반 사법권의 귀속과 대법원·하급법원 조직·법관 자격 전반을 규율하는 반면 후보는 탄핵을 다루는 사법고등법원의 조직과 절차에 한정된다. 대상 법원이 다르고 절차 규율까지 포함한다는 점에서 구체적 대응으로 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "최고법원 1개와 하급법원이라는 심급 구조는 유사하나, 후보는 하급법원의 '설치' 주체를 연방의회로 명시(ordain and establish)하고 조직 법정주의나 법관 자격의 법률유보를 두지 않는다. 또한 후보의 대부분은 관할권·배심·반역죄로 대상 조문과 규율 범위가 크게 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VIII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "사법권이 하나의 대법원과 법률로 설치되는 하급법원에 속한다는 구조(제1절)와 법관 자격을 법률로 정하도록 하는 요소(제8절)가 대상 조문 제2·3문의 규율 요소와 각각 대응한다. 다만 자격 규율의 대상 직위와 요건 명시 방식이 다르므로 그 범위에 한정해 비교 가치가 있다.",
+      "evidence": [
+        {
+          "element": "최고법원·하급법원 구조와 법률유보",
+          "target_field": "original_text",
+          "target_quote": "最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Judicial power shall be vested in one Supreme Court and in such inferior courts as may be established by law.",
+          "commonality": "단일 최고법원과 하급법원이라는 심급 구조를 두고 하급법원을 법률사항으로 삼는 점이 같다.",
+          "difference": "후보는 하급법원의 '설치'를 법률로 정하고 사법권 귀속 규정과 결합되어 있으나, 대상은 대법원과 하급법원의 '조직'을 법률로 정한다고 하여 규율 객체가 다르다."
+        },
+        {
+          "element": "법관 자격의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法官의 資格은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The National Assembly shall prescribe the qualifications of judges of inferior courts",
+          "commonality": "법관의 자격을 법률(입법기관의 규율)에 위임하는 요소가 공통된다.",
+          "difference": "후보는 하급법원 판사에 한정하고 국민의회를 주체로 명시하며 국적·변호사 자격이라는 최저요건을 헌법에 직접 규정하나, 대상은 모든 법관의 자격을 조건 없이 법률에 포괄 위임한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_083",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원의 조직을 (연방)법률로 정한다는 점은 겹치지만, 후보는 관할까지 함께 법정하고 법정법관 원칙·예외법원 제한이라는 다른 규율에 무게가 있으며 사법권 귀속 주체나 법관 자격 조항이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_081",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "재판소를 선거로 구성하고 판사 해임을 선거기관의 소환에 맡기는 구성 원리는 법관으로 조직된 법원과 법률유보를 택한 대상 조문과 반대 방향이다. 특별재판소 구성만 법령사항으로 두는 점도 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_076",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "사법권 귀속과 최고재판소·하급재판소의 이원 구조, 하급법원의 법률유보라는 문형이 대상 제1·2문과 대응한다. 다만 특별재판소 금지·행정기관 종심 금지·재판관 독립 규정은 대상 조문에 없고, 대상의 '법관으로써 조직된 법원'과 '법관 자격 법정' 요소는 후보에 없다.",
+      "evidence": [
+        {
+          "element": "최고법원·하급법원 구조와 법률유보",
+          "target_field": "original_text",
+          "target_quote": "最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。",
+          "commonality": "최고법원과 하급법원을 구분하고 하급법원을 법률사항으로 삼는 구조가 같다.",
+          "difference": "후보는 사법권의 '귀속'과 하급재판소의 '설치'를 법률에 위임하는 한 문장인 반면, 대상은 사법권 귀속(제1문)과 대법원·하급법원 '조직'의 법률유보(제2문)를 분리한다."
+        },
+        {
+          "element": "사법권 행사 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "사법권은 법관으로써 조직된 법원이 행한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。",
+          "commonality": "사법권의 행사·귀속 주체를 법원(재판소)으로 명시하는 점이 공통된다.",
+          "difference": "대상은 '법관으로써 조직된 법원'이라는 구성요건을 덧붙이나, 후보는 최고재판소와 하급재판소라는 기관 열거로 귀속을 정하고 법관 구성 요건은 언급하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법을 법원이 행사한다는 주체 규정은 문형상 유사하나, 후보의 초점은 법원의 독립과 법률 기속, 판결의 국민 명의 선고에 있고 조직·법관 자격의 법률유보나 심급 구조가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_057",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'사법권은 …법원이 행한다'는 주체·동사 구성과 '재판소의 구성은 법률로 정한다'는 조직 법정주의가 대상 제1·2문과 문형상 밀접히 대응한다. 다만 천황의 이름이라는 정당화 요소, 심급 구분과 법관 자격 조항의 유무에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "사법권 행사 주체 문형",
+          "target_field": "original_text",
+          "target_quote": "司法權은 法官으로써 組織된 法院이 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "司法権ハ天皇ノ名ニ於テ法律ニ依リ裁判所之ヲ行フ",
+          "commonality": "사법권의 행사 주체를 법원(재판소)으로 지정하는 문형이 일치한다.",
+          "difference": "후보는 '천황의 이름으로 법률에 따라'라는 정당화·기속 요건을 붙이는 반면, 대상은 '법관으로써 조직된'이라는 구성요건을 붙이고 천황 관련 문구가 없다."
+        },
+        {
+          "element": "법원 조직의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判所ノ構成ハ法律ヲ以テ之ヲ定ム",
+          "commonality": "법원의 조직(구성)을 법률사항으로 정하는 규율 형식이 같다.",
+          "difference": "후보는 재판소 일반의 구성만 규정하고 최고법원·하급법원의 구분이나 법관 자격의 법률유보를 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_103",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "재판권을 법원이 행사한다는 점만 겹치고, 후보는 제국법원과 주법원이라는 연방적 관할 배분을 다룰 뿐 조직의 법률유보나 법관 자격 규정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "입법권의 행사기관과 상원 구성의 특별법 위임을 다루는 조문으로, 사법권 귀속·법원 조직·법관 자격이라는 대상 요소와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'각급 법원의 조직은 법률로 정한다'는 조직 법정주의가 대상 제2문과 겹치나, 사법원이라는 별도 기관을 전제하고 사법권 귀속 주체나 법관 자격 규정을 두지 않아 대응 범위가 한 요소에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_041",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'사법권은 법관으로써 조직된 법원이 행한다'는 문장이 어휘 단위까지 거의 동일하고, 법원 조직과 법관 자격을 법률로 정한다는 두 요소도 그대로 대응한다. 다만 대상은 최고법원인 대법원과 하급법원의 구분을 추가하고 조직·자격을 별개 문장으로 나눈 점이 다르다.",
+      "evidence": [
+        {
+          "element": "사법권 행사 주체",
+          "target_field": "original_text",
+          "target_quote": "司法權은 法官으로써 組織된 法院이 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "司法權은 法官으로써 組織된 法院이 此를 行함",
+          "commonality": "주체(법관으로 조직된 법원)와 효과(사법권 행사)의 표현이 사실상 동일하다.",
+          "difference": "종결 어법('行한다' 대 '此를 行함')만 다르다."
+        },
+        {
+          "element": "법원 조직·법관 자격의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法官의 資格은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "法院의 組織 及 法官의 資格은 法律로써 此를 定함",
+          "commonality": "법원 조직과 법관 자격을 모두 법률사항으로 삼는 규율이 일치한다.",
+          "difference": "후보는 두 사항을 한 문장에 묶고 법원을 일반적으로 지칭하나, 대상은 '최고법원인 대법원과 하급법원'으로 심급을 명시하고 조직과 자격을 별도 문장으로 분리한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각급 법원 조직의 법률유보라는 한 요소만 겹치고, 사법원 중심의 기관 구성을 전제하며 사법권의 귀속 주체나 법관 자격 규정이 없어 구체적 대응 폭이 좁다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원의 조직을 법률로 정한다는 단문만 두고 있어 대상 제2문과 주제가 겹치지만, 심급 구분·사법권 귀속 주체·법관 자격 등 대상의 다른 요소에 대응하는 규율이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'최고법원인 대법원'이라는 명칭 확정(최고법원=대법원 동일시) 표현",
+    "사법권 행사 주체를 '법관으로써 조직된' 법원으로 한정하는 구성요건과 법관 자격 법정주의의 결합 형식(약헌 외 후보에서는 통합적으로 나타나지 않음)"
+  ],
+  "limitations": [
+    "문언 대응만 검토했으며 실제 참조·영향 관계의 역사적 확정은 제공 본문만으로는 불가능하다.",
+    "일부 후보(일본·프로이센·오스트리아·중화민국)는 원문 언어가 달라 대응 판단에 번역문 이해가 개입할 수 있다."
+  ],
+  "short_answer": "조선임시약헌 제41조는 '사법권은 법관으로써 조직된 법원이 행함'과 '법원의 조직 및 법관의 자격은 법률로써 정함'이 대상 조문과 거의 그대로 대응해 가장 밀접한 비교 대상이다. 대일본제국헌법 제57조는 사법권 행사 주체 문형과 '재판소의 구성은 법률로 정한다'는 조직 법정주의에서, 일본국헌법 제76조와 필리핀헌법 제8조 제1절은 최고법원·하급법원의 이원 구조와 하급법원의 법률유보에서 각각 대응한다. 필리핀헌법 제8절은 법관 자격의 법률 위임 요소와도 부분적으로 겹치나 하급법원 판사로 한정되고 국적·변호사 요건을 헌법이 직접 정하는 점이 다르다. 미국 헌법 제3조·프로이센 제89조·오스트리아 제83조·중화민국 제82조 등은 조직 또는 심급 구조 중 한 요소만 겹치고 주체나 규율 객체가 달라 선택하지 않았다. 이상은 문언상 대응이며 실제 참조 여부의 확정은 아니다."
+}

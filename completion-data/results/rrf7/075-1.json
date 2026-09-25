@@ -1,0 +1,91 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_075",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 '行政各部의 組織 及 權限은 法律로써 定함'으로 대상 조문과 규율 객체(행정각부), 규율 사항(조직·권한/직무범위), 규율 방식(법률로써 정함), 문형이 거의 그대로 대응한다. 다만 '權限'과 '職務範圍'의 용어 차이 및 후보 제1항의 임명 규정 유무 차이가 있어 대응 범위는 제2항에 한정된다.",
+      "evidence": [
+        {
+          "element": "규율 객체(행정각부)와 법률유보 문형",
+          "target_field": "original_text",
+          "target_quote": "行政各部의 組織과 職務範圍는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部의 組織 及 權限은 法律로써 定함",
+          "commonality": "'행정각부'를 주어로 삼아 그 조직 사항을 법률로 정하도록 하는 법률유보 문형이 동일하다",
+          "difference": "후보는 '及'·'定함'의 표기를 쓰고, 대상은 '과'·'정한다'로 서술한다"
+        },
+        {
+          "element": "법률로 정할 사항의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "조직과 직무범위",
+          "candidate_field": "original_text",
+          "candidate_quote": "組織 及 權限",
+          "commonality": "조직 외에 각부가 담당하는 사무의 범위까지 법률사항으로 포함시킨다",
+          "difference": "후보는 '權限'(권한)으로, 대상은 '職務範圍'(직무범위)로 표현하여 개념 초점이 권한 부여인지 사무 범위인지에서 갈린다"
+        },
+        {
+          "element": "조문 구성",
+          "target_field": "original_text",
+          "target_quote": "行政各部의 組織과 職務範圍는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國務總長의 推薦에 依하여 國務委員 中에서 行政 各部長을 任命함",
+          "commonality": "행정각부 관련 규율이라는 주제 영역이 겹친다",
+          "difference": "후보는 각부장 임명 절차(주석 임명·국무총장 추천·국무위원 중 선임)를 함께 규정하나 대상 조문에는 임명 주체·절차가 전혀 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'以法律定之'라는 조직법정주의 문형만 공통될 뿐, 대상은 행정각부이고 후보는 考試院이며 직무범위에 관한 규율도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법원의 조직을 법률로 정한다는 일반적 조직법정 문형만 겹치고, 규율 대상 기관과 직무범위 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법원 및 각급 법원의 조직에 관한 법률유보로, 문형은 유사하나 대상 기관이 사법기관이고 직무범위 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법원·각급 법원 조직의 법률유보로 주제 영역이 다르며, 공통점은 '以法律定之'의 상용 문형에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_106",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "감찰원 조직의 법률유보로, 규율 객체가 대상 조문과 다르고 직무범위 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "행정부 조직이라는 점에서 주제상 가장 가깝지만 객체는 합의제 최고행정기관인 行政院이고 '행정각부'와 '직무범위'에 해당하는 규율이 없어 조직법정 문형의 일반적 유사에 머문다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'職務範圍'라는 용어 자체(후보 중에서는 조선임시약헌의 '權限'이 가장 근접하나 동일 용어는 아님)"
+  ],
+  "limitations": [
+    "문언 대응만 확인한 것이며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다",
+    "중화민국헌법 후보들의 '以法律定之' 문형은 동 헌법 내 여러 조문에 반복되는 상용구여서 개별 조문과의 특정적 연결을 판단하기 어렵다"
+  ],
+  "short_answer": "조선임시약헌 제27조 제2항이 '行政各部의 組織 及 權限은 法律로써 定함'으로 대상 조문과 객체·규율사항·문형이 거의 일치하여 후속 비교에 가장 유용하다. 공통점은 '행정각부'를 대상으로 조직 및 사무 범위를 법률사항으로 유보하는 구조이며, 차이는 '權限'과 '職務範圍'라는 용어 선택, 그리고 후보 제1항의 각부장 임명 절차 규정이 대상 조문에는 없다는 점이다. 중화민국헌법·五五憲草의 각 조문들은 '以法律定之'라는 조직법정 상용 문형을 공유하지만 규율 객체가 考試院·立法院·司法院·監察院·行政院으로 각각 다르고 직무범위에 관한 규율이 없어 일반적 유사에 그친다. 이는 문언상 대응 판단이며 실제 참조 여부의 역사적 확정은 아니다."
+}

@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_103",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "103",
+    "original_text": "이 憲法施行時에 在職하고 있는 公務員은 이 憲法에 依하여 選擧 또는 任命된 者가 그 職務를 繼承할 때까지 繼續하여 職務를 行한다.",
+    "workbook_text_ko": "이 헌법시행시에 재직하고 있는 공무원은 이 헌법에 의하여 선거 또는 임명된 자가 그 직무를 계승할 때까지 계속하여 직무를 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_175",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "175",
+      "original_text": "本憲法規定事項，有另定實施程序之必要者，以法律定之。\n本憲法施行之準備程序由制定憲法之國民大會議定之。",
+      "workbook_text_ko": "이 憲法에 規定된 事項으로서 따로 施行節次를 定할 必要가 있는 것은 法律로써 이를 定한다.\n이 憲法施行의 準備節次는 憲法을 制定한 國民大會가 이를 議定한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_004",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "4",
+      "original_text": "天皇ハ国ノ元首ニシテ統治権ヲ総攬シ此ノ憲法ノ条規ニ依リ之ヲ行フ",
+      "workbook_text_ko": "천황은 국가의 원수로서 통치권을 총람하고, 이 헌법의 조규에 따라 이를 행사한다."
+    },
+    {
+      "article_id": "FR1875_L18750224_ORIGINAL_ART_010",
+      "version_id": "FR1875_L18750224_ORIGINAL",
+      "document_title": "프랑스 상원 조직법",
+      "article_no": "10",
+      "original_text": "Il sera procédé à l'élection du Sénat un mois avant l'époque fixée par l'Assemblée nationale pour sa séparation. - Le Sénat entrera en fonctions et se constituera le jour même où l'Assemblée nationale se séparera.",
+      "workbook_text_ko": "해산(séparation)을 위하여 국민의회가 정한 시기의 1개월 전에 상원\n선거를 실시한다.\n상원은 국민의회가 해산하는 바로 그날 직무를 개시하고 구성된다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_109",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "109",
+      "original_text": "Die bestehenden Steuern und Abgaben werden forterhoben, und alle Bestimmungen der bestehenden Gesetzbücher, einzelnen Gesetze und Verordnungen, welche der gegenwärtigen Verfassung nicht zuwiderlaufen, bleiben in Kraft, bis sie durch ein Gesetz abgeändert werden.",
+      "workbook_text_ko": "현행의 조세와 공과금은\n계속하여 징수되고, 현행의 법전, 개별\n법률, 명령의 모든 규정들은 이 헌법에\n반하지 않는 한 새로운 법률에 의해\n개정될 때까지 계속 효력을 지닌다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_051",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "51",
+      "original_text": "最高人民會議를 解散한 境遇에 있어서 最高人民會議 常任委員會는 새 最高人民會議 常任委員會가 選擧될 때까지 自己任務를 繼續 遂行한다.",
+      "workbook_text_ko": "최고인민회의를 해산한 경우에 있어서 최고인민회의 상임위원회는 새 최고인민회의 상임위원회가 선거될 때까지 자기 임무를 계속 수행한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_103",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "103",
+      "original_text": "この憲法施行の際現に在職する国務大臣、衆議院議員及び裁判官並びにその他の公務員で、その地位に相応する地位がこの憲法で認められてゐる者は、法律で特別の定をした場合を除いては、この憲法施行のため、当然にはその地位を失ふことはない。但し、この憲法によつて、後任者が選挙又は任命されたときは、当然その地位を失ふ。",
+      "workbook_text_ko": "헌법 시행 당시 재직 중인 국무대신, 중의원 의원 및 재판관과 그 밖의 공무원으로서 그 지위에 상응하는 지위가 이 헌법에서 인정되고 있는 사람은 법률에 특별한 규정이 있는 경우를 제외하고는 이 헌법의 시행으로 당연히 그 지위를 상실하지는 아니한다. 다만, 이 헌법에 의하여 후임자가 선출 또는 임명된 때에는 당연히 그 지위를 상실한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_051",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "51",
+      "original_text": "總統缺位時，由副總統繼其任。\n總統因故不能視事時，由副總統代行其職權，總統副總統均不能視事時，由行政院院長代行其職權。",
+      "workbook_text_ko": "총통이 궐위된 때에는 부총통이 그 직을 승계한다.\n총통이 사유로 직무를 수행할 수 없는 때에는 부총통이 그 직권을 대행한다. 총통과 부총통이 모두 직무를 수행할 수 없는 때에는 행정원 원장이 그 직권을 대행한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_176",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "176",
+      "original_text": "Alle öffentlichen Beamten und Angehörigen der Wehrmacht sind auf diese Verfassung zu vereidigen. Das Nähere wird durch Verordnung des Reichspräsidenten bestimmt.",
+      "workbook_text_ko": "전체 공무원과 군대 소속인은 이 헌법에 서약해야 한다. 세부사항은 제국대통령의 명령으로 정한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XV",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XV",
+      "original_text": "Section 1. The first election of the officers provided in this Constitution and the inauguration of the Government of the Commonwealth of the Philippines shall take place as provided in Public Act Numbered One hundred and twenty-seven of the Congress of the United States, approved March twenty-four, nineteen hundred and thirty-four.\nSec. 2. All laws of the Philippine Islands shall continue in force until the inauguration of the Commonwealth of the Philippines; thereafter, such laws shall remain operative, unless inconsistent with this Constitution, until amended, altered, modified, or repealed by the National Assembly, and all references in such laws to the Government or officials of the Philippine Islands shall be construed, in so far as applicable, to refer to the Government and corresponding officials under this Constitution.\nSec. 3. All courts existing at the time of the adoption of this Constitution shall continue and exercise their jurisdiction, until otherwise provided by law in accordance with this Constitution. and all cases, civil and criminal, pending in said courts, shall be heard, tried, and determined under the laws then in force.\nSec. 4. All officers and employees in the existing Government of the Philippine Islands shall continue in office until the National Assembly shall provide otherwise, but all officers whose appointments are by this Constitution vested in the President shall vacate their respective offices upon the appointment and qualification of their successors, if such appointment is made within a period of one year from the date of the inauguration of the Commonwealth of the Philippines.\nSec. 5. The Members of the National Assembly for the Mountain Province shall be elected as may be provided by law. The voters of municipalities and municipal districts formerly belonging to a special province and now forming part of regular provinces shall vote in the election for Members of the National Assembly in such districts as may be provided by law.\nSec. 6. The provisions of this Constitution, except those contained in this article and in Article V, and those which refer to the election and qualifications of officers to be elected under this Constitution, shall not take effect until the inauguration of the Commonwealth of the Philippines.",
+      "workbook_text_ko": "제1절. 이 헌법이 규정한 공직자의 최초 선거와 필리핀 코먼웰스 정부의 출범은 1934년 3월 24일 승인된 미국 연방의회 공법 제127호가 정하는 바에 따른다.\n제2절. 필리핀 군도의 모든 법률은 필리핀 코먼웰스 출범 때까지 계속 효력을 가진다. 그 후에도 이 헌법에 위배되지 않는 한 국민의회가 개정·변경·수정 또는 폐지할 때까지 효력을 유지한다. 그 법률에서 필리핀 군도 정부나 공무원을 언급한 것은 적용 가능한 범위에서 이 헌법에 따른 정부와 그에 상응하는 공무원을 가리키는 것으로 해석한다.\n제3절. 이 헌법 채택 당시 존재하는 모든 법원은 이 헌법에 따라 법률로 달리 정할 때까지 존속하며 관할권을 행사한다. 그 법원에 계속 중인 모든 민사·형사사건은 당시 시행되는 법률에 따라 심리·재판·결정한다.\n제4절. 현 필리핀 군도 정부의 모든 공무원과 직원은 국민의회가 달리 정할 때까지 재직한다. 다만, 이 헌법이 대통령에게 임명권을 부여한 직의 공무원은 필리핀 코먼웰스 출범일부터 1년 이내에 후임자가 임명되는 경우 그 후임자의 임명과 취임요건 구비로 퇴직한다.\n제5절. 마운틴주의 국민의회 의원은 법률이 정하는 바에 따라 선출한다. 종전에 특별주에 속하였다가 현재 일반주의 일부를 이루는 지방자치단체와 지방자치구의 유권자는 법률이 정하는 선거구에서 국민의회 의원 선거에 투표한다.\n제6절. 이 헌법의 규정 중 이 장과 제V장에 포함된 규정 및 이 헌법에 따라 선출할 공직자의 선거·자격에 관한 규정을 제외한 나머지는 필리핀 코먼웰스 출범 전에는 효력이 발생하지 않는다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_084",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "84",
+      "original_text": "Die bestehenden Steuern und Abgaben werden bis zu ihrer Änderung oder Aufhebung forterhoben.",
+      "workbook_text_ko": "기존의 조세와 공과금은 변경되거나 폐지될 때까지 계속 징수한다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_II",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "II",
+      "original_text": "Section. 1.\nThe executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows\nEach State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.\nThe Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted. The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President. But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; A quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President.\nThe Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.\nNo Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.\nIn Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.\nThe President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.\nBefore he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—\"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.\"\nSection. 2.\nThe President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.\nHe shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.\nThe President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.\nSection. 3.\nHe shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States.\nSection. 4.\nThe President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.",
+      "workbook_text_ko": "제1항\n행정권은 합중국 대통령에게 속한다. 대통령의 임기는 4년\n으로 하며, 동일한 임기로 선임된 부통령과 함께 다음과\n같은 방법에 의하여 선출된다.\n각 주는 그 주의 주의회가 정하는 바에 따라, 그 주가 연\n방의회에 보낼 수 있는 상원의원과 하원의원의 총수와\n같은 수의 선거인을 임명한다. 다만, 상원의원이나 하원\n의원, 또는 합중국의 위임 또는 유급 공직에 있는 자는\n선거인이 될 수 없다.\n선거인은 각기 자기 주에서 회합하여 비밀 투표에 의하\n여 2인을 선거하되, 그 중 적어도 1인은 선거인과 동일\n한 주의 주민이 아니어야 한다. 선거인은 모든 득표자들\n의 명부와 각 득표자의 득표수를 기재한 표를 작성하여\n서명하고 증명한 다음, 봉인하여 상원 의장 앞으로 합중\n국 정부 소재지로 송부한다. 상원 의장은 상원의원 및\n하원의원들 앞에서 모든 증명서를 개봉하며, 그 후에 투표가 계표(計票)된다. 최고 득표자의 득표수가 임명된 선거인 총수의 과\n반수가 되었을 때에는 그가 대통령으로 당선된다. 과반\n수 득표자가 2인 이상이 되고, 그 득표수가 동수일 경우\n에는 하원이 즉시 비밀 투표로 그 중의 1인을 대통령으\n로 선임해야 한다. 과반수 득표자가 없을 경우에는 하원\n이 동일한 방법으로 최다 득표자 5명중에서 대통령을 선\n임한다. 다만, 이러한 방법으로 대통령을 선거할 때에는\n투표는 주 단위로 하고, 각 주는 1표의 투표권을 가지며,\n그 선거에 필요한 정족수는 전체 주의 3분의 2의 주로부\n터 1명 또는 그 이상의 의원의 출석으로 성립되며, 선출\n을 위해서는 전체 주의 과반수의 찬성이 필요하다. 어떤\n경우에서도, 대통령을 선출하고 난 후에 선거인의 투표에서 최다수의 득표를 한 자를 부통령으로 한다. 다만, 동수의 득표자가 2인\n이상 있을 때에는 상원이 비밀 투표로 그 중에서 부통령\n을 선출한다.\n연방의회는 선거인들의 선임 시기와 이들의 투표일을 결\n정할 수 있으며, 이 투표일은 합중국 전역 어디서나 같은\n날이 되어야 한다.\n출생에 의한 합중국 시민 또는 이 헌법의 채택 시에 합중국 시민인 자가 아니면 대통령으로 선임될 자격이 없다. 연령이 35세에 미달한 자, 또는 14년간 합중국 내의\n주민이 아닌 자도 대통령으로 선임될 자격이 없다.\n대통령이 면직, 사망, 사직하거나 또는 그 권한 및 직무\n를 수행할 능력을 상실할 경우에, 대통령의 직무는 부통\n령에게 이양된다. 연방의회는 대통령과 부통령 양쪽 모\n두의 면직, 사망, 사직 또는 직무 수행 불능의 경우를 법\n률로 규정할 수 있으며, 그러한 경우에 대통령의 직무를\n수행할 공무원을 정할 수 있다. 이 공무원은 대통령의\n직무 수행 불능이 제거되거나 대통령이 새로 선임될 때\n까지 대통령의 직무를 대행한다.\n대통령은 그 직무 수행에 대한 대가로 정기적으로 보수\n를 받으며, 그 보수는 임기 중에 인상 또는 인하되지 않\n는다. 대통령은 그 임기 중에 합중국 또는 어느 주로부터\n도 그 밖의 어떠한 보수도 받아서는 안 된다.\n대통령은 그 직무 수행을 시작하기에 앞서 다음과 같은\n선서 또는 확약을 하여야 한다. “나는 합중국 대통령의\n직무를 성실히 수행하며, 나의 최선의 능력을 다하여 미\n국 헌법을 보전하고 보호하고 수호할 것을 엄숙히 선서\n(또는 확약)한다.”\n제2항\n대통령은 합중국 육･해군의 총사령관, 그리고 각 주의\n민병이 합중국의 현역에 소집되었을 때에 그 민병대의\n총사령관이 된다. 대통령은 각 소관 직무 사항에 관하여\n행정 각 부처 장관에게 문서에 의한 견해를 요구할 수\n있다. 대통령은 합중국에 대한 범죄에 관하여 탄핵의 경\n우를 제외하고 형의 집행 정지 및 사면을 명할 수 있는\n권한을 가진다.\n대통령은 상원의 권고와 동의를 얻어 조약을 체결하는\n권한을 가진다. 다만, 이 경우에는 상원의 출석 의원 3분\n의 2이상의 찬성을 얻어야 한다. 대통령은 대사, 그 밖의\n공사 및 영사, 연방대법원 법관 그리고 그 임명에 관하\n여 이 헌법에 특별한 규정이 없으나 이후에 법률로 정하\n는 그 밖의 모든 합중국 공무원을 지명하고 상원의 권고\n와 동의를 얻어 임명한다. 다만, 연방의회는 적당하다고\n인정되는 하급공무원 임명권을 법률에 의하여 대통령에\n게 단독으로 또는 법원에 또는 각 부처 장관에게 부여할\n수 있다.\n대통령은 상원의 휴회 중에 생기는 모든 결원을 임명에\n의하여 충원하는 권한을 가진다. 다만, 그 임명은 다음\n회기가 종료될 때에 효력을 상실한다.\n제3항\n대통령은 연방의 상황에 관하여 수시로 연방의회에 보고하\n고, 필요하고도 적절하다고 판단되는 시책의 심의를 연방\n의회에 권고해야 한다. 특별한 경우에 대통령은 상하 양원\n또는 그 중의 한 원을 소집할 수 있으며, 휴회의 시기에 관\n하여 양원 간의 의견이 일치되지 아니하는 때에는 대통령\n이 적당하다고 인정할 때까지 휴회하게 할 수 있다. 대통령\n은 대사와 그 밖의 외교 사절을 접수하며, 법률이 충실하게\n집행되도록 하며, 또 합중국의 모든 공무원에게 임명장을 수여한다.\n제4항\n대통령, 부통령 그리고 합중국의 모든 문관은 반역죄, 수\n뢰죄, 또는 그 밖의 중대한 범죄 및 중대한 비행(非行)으로 탄핵소추를 받고 유죄 판결을 받은 경우 그 직에서 면직된다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_058",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "58",
+      "original_text": "本法 施行時에 現在職 公務員으로서 그에 相應한 地位가 本法에 規定되어 있는 者는 本法에 依하여 後任者가 選擧 또는 任命될 때까지 繼續 在職함",
+      "workbook_text_ko": "본법 시행 시에 현재 재직하는 공무원으로서 그에 상응한 지위가 본법에 규정되어 있는 자는 본법에 의하여 후임자가 선거 또는 임명될 때까지 계속 재직함."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_020",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "20",
+      "original_text": "Unter der Leitung der Volksbeauftragten führen nach den Bestimmungen der Gesetze auf Zeit gewählte Organe oder ernannte berufsmäßige Organe die Bundes- oder die Landesverwaltung. Sie sind, soweit nicht durch die Verfassung des Bundes oder der Länder anderes bestimmt wird, an die Weisungen ihrer vorgesetzten Volksbeauftragten gebunden und diesen für ihre amtliche Tätigkeit verantwortlich.",
+      "workbook_text_ko": "국민수임자의 지휘 아래, 법률의 규정에 따라 일정한 임기로 선출된 기관 또는 임명된 직업적 기관이 연방행정 또는 주행정을 수행한다. 이들은 연방 또는 주의 헌법에 달리 정함이 없는 한 상급 국민수임자의 지시에 구속되며, 자신의 직무활동에 대하여 그에게 책임을 진다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_106",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "106",
+      "original_text": "La présente Constitution sera promulguée par le président du Gouvernement provisoire de la République dans les deux jours qui suivront la date de la promulgation des résultats du référendum et dans la forme suivante :\n\" L'Assemblée nationale constituante a adopté,\n\" Le peuple français a adopté,\n\" Le président du Gouvernement provisoire de la République promulgue la Constitution dont la teneur suit :\n\" (Texte de la Constitution)\n« La présente Constitution, délibérée et adoptée par l'Assemblée nationale constituante, approuvée par le peuple français, sera exécutée comme loi de l'Etat ».",
+      "workbook_text_ko": "이 헌법은 공화국 임시정부대표(président du Gouvernement\nprovisoire de la République)에 의해서 국민투표의 결과 발표 후 2일 이내\n에 다음과 같은 형식으로 공포한다.\n다음과 같은 내용의 헌법을 헌법제정국민의회가 채택하고,\n프랑스인민이 승인하고,\n공화국 임시정부대표가 공포하는,\n(헌법의 조문)\n헌법제정국민의회가 심의하고, 채택하고, 프랑스인민이 승인한 이 헌\n법은 국가의 법률로서 집행한다 ."
+    }
+  ]
+}

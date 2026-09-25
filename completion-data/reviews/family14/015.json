@@ -1,0 +1,67 @@
+{
+  "article": 15,
+  "reviewed_at": "2026-09-22T15:15:37.181986+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "840d09ecb9d21c947586c7b870e82ab129bfa4531083bedaf673fe28c27e76ae",
+  "input_sha256": "45e5b2fed1e45144dd9bc2bacdc13be946a8c1c81f4b86b34eb750b9357fca93",
+  "responses": [
+    {
+      "job_id": "015_98828b964307_r1",
+      "repeat": 1,
+      "sha256": "30c3ef8cf62ad541c37262250aba753647573a59b356c0eba784648f1a7a2d8b",
+      "assessment": "세 주요 후보의 요소 대응은 타당하나 바이마르와 순서까지 같다는 요약·선택 이유는 원문 배열과 다름. 세부 근거는 순서 차이를 이미 인정함. 미국의 공공용 수용·보상 부분 대응도 보완할 가치가 있음."
+    },
+    {
+      "job_id": "015_98828b964307_r2",
+      "repeat": 2,
+      "sha256": "d39bfab0238bf587da4fd1dd4e8c32328f860a05a32ee0f3233923003ae95978",
+      "assessment": "바이마르·일본·프로이센의 조건·보상·행사 기준 차이는 대체로 정확함. 미국 수정 제5조의 부분 대응을 다른 요소의 부재 때문에 제외한 기준은 보완 필요함."
+    },
+    {
+      "job_id": "015_98828b964307_r3",
+      "repeat": 3,
+      "sha256": "83772ecdde6c42e913491e3fd3414aa902d79faa3c489b8ead79e6833338031b",
+      "assessment": "미국의 공공용 수용과 보상까지 포함한 네 후보 비교는 원문으로 지지됨. 일본의 用ひる를 법적 침해 유형으로 오직 사용만 허용한다는 뜻으로 확대하지 않아야 함."
+    }
+  ],
+  "synthesis": "바이마르 제153조는 보장과 내용·한계의 법률 규정, 공익 목적 수용과 보상, 소유권의 공익적 사용이라는 세 요소를 모두 담으나 대상과 둘째·셋째 부분의 순서가 다름. 일본 제29조의 공공복리 기준은 내용 결정에, 대상의 기준은 행사에 연결됨. 프로이센1850은 공공복리 사유·법률·사전보상과 수용 또는 제한을, 미국 수정 제5조는 공공용 수용과 정당한 보상을 규정함. 바이마르의 보상 예외·쟁송 조항, 프로이센의 긴급시 잠정 확정, 대상의 수용·사용·제한 세 표현을 각각 구별함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_153",
+      "type": "ordering_error",
+      "severity": "material",
+      "finding": "선택 이유와 요약은 세 요소가 순서대로 겹친다고 하나 바이마르는 수용·보상 뒤에 소유권의 공익적 사용을 두고, 대상은 행사 의무 뒤에 수용·보상을 둠. 같은 응답의 세부 차이 설명은 이를 인정함.",
+      "action": "요소 대응과 배열 차이를 나누어 서술함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "공공용 수용과 정당한 보상이라는 직접 대응을 인정하면서 다른 항의 부재와 형사절차 조항 안의 위치 때문에 일반적 유사성에 한정함.",
+      "action": "제3항의 수용·보상 부분 대응으로 남김. 1회만 선택되었다는 이유로 종합에서 제외하지 않음."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_117",
+      "type": "unsupported_contrast",
+      "severity": "minor",
+      "finding": "보상 대신 신고·평가 지가 기준을 둔다고 하여 지가 기준과 보상을 대립시킴. 원문은 신고·평가 지가에 따른 과세 또는 수용을 규정함.",
+      "action": "보상 문형이 대상과 같지 않다는 사실과 수용 가액의 기준을 나누어 기술함."
+    }
+  ],
+  "limits": [
+    "일본의 用ひる는 표현 차이로 비교하며 수용을 법적으로 포함하지 않는다고 단정하지 않음.",
+    "프로이센의 불가침이라는 첫 문장을 절대적 재산권 보장으로 읽지 않음. 바로 다음 문장에 수용·제한 조건이 있음.",
+    "중화민국1946의 재산권 보장 선언도 첫 문장의 보조 대응으로 남길 수 있으나 세 요소 전체를 설명하지는 않음."
+  ]
+}

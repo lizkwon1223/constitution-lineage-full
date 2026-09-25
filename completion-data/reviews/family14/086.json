@@ -1,0 +1,86 @@
+{
+  "article": 86,
+  "reviewed_at": "2026-09-22T16:26:09.854186+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "1c034dc0221e68143ad931e2889bb5baf7cfbcaea5be2cec3c2eafbdde0495fd",
+  "input_sha256": "20778fe1ffe4dd0f4b3950a37b9d3d4bb25df9d49583948209ac21782d47bdbe",
+  "responses": [
+    {
+      "job_id": "086_f2057ee9ad6e_r1",
+      "repeat": 1,
+      "sha256": "f01a71ea8a394962c71e4641e40b5804043d83adfd2d4a8a2da0984a4fc36cba",
+      "assessment": "바이마르의 내용·한계 병렬과 토지분배 후보의 차이를 잘 포착함. 적정 경영면적을 소유 상한과 동일시하지 않아야 함."
+    },
+    {
+      "job_id": "086_f2057ee9ad6e_r2",
+      "repeat": 2,
+      "sha256": "d7e5c59f0c11f83de9cb5b61a28969c432bc02b131ad4851d82d4b5196a0ac22",
+      "assessment": "핵심 대응을 포착했으나 중화민국 후보 검토가 누락되고 대상의 소유 형태·행위 주체를 추가한 부분이 있음."
+    },
+    {
+      "job_id": "086_f2057ee9ad6e_r3",
+      "repeat": 3,
+      "sha256": "17a7466cf7a47239796edc2646d964c0bef7d8f48dd19071f38f21563bbf9d63",
+      "assessment": "농지 분배와 소유 자격 제한을 구별함. 중화민국의 적정 면적 및 북한의 몰수 문언은 정밀화해야 함."
+    }
+  ],
+  "synthesis": "바이마르 제153조는 소유권의 내용과 한계를 법률에 맡기는 병렬 문형에 직접 대응함. 일본 제29조도 재산권 내용의 법정이라는 부분에 대응하므로 한계라는 단어가 없다는 이유로 전부 배제할 필요는 없음. 중화민국 제143조는 자경농과 직접 사용자를 육성하는 토지 분배·정리 원칙 및 적정 경영면적을 정하며, 적정 면적이 곧 소유의 최대한도라는 뜻은 아님. 북한 제6조는 경작자의 소유 자격·소유 상한과 국가·협동단체의 예외를, 필리핀 제13조는 사유농지 면적의 법정 및 보상 수용 후 소필지의 원가 양도를 정함. 제헌헌법은 농민 분배를 선언하되 구체 방식·대가·면적 수치는 법률에 맡기거나 이 조문에서 밝히지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "type": "missing_review",
+      "finding": "중화민국 제143조가 요약에는 등장하지만 후보별 검토에서 누락됨.",
+      "action": "선택·미선택을 추정하지 않고 검토 누락으로 표시함.",
+      "candidate_id": "ROC1946_PROM1947_ART_143",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "type": "scope_conflation",
+      "finding": "적정 경영면적을 농지 소유의 상한으로 공통화함. 적정 규모·경영·소유 상한은 동일한 개념이 아님.",
+      "action": "규모 규율의 부분 대응과 상한·소유의 차이를 명시함.",
+      "candidate_id": "ROC1946_PROM1947_ART_143",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "일본의 재산권 내용 법정을 한계 문구와 농지 분배가 없다는 이유로 배제함.",
+      "action": "후단의 직접 부분 대응을 인정함.",
+      "candidate_id": "JP1946_ORIGINAL_ART_029",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "unsupported_added_word",
+      "finding": "북한의 몰수를 무상 몰수라고 원문에 명시된 것처럼 설명함. 제공 문언에는 무상이라는 말이 없음.",
+      "action": "몰수라고 인용하고 무상 여부의 별도 해석을 구분함.",
+      "candidate_id": "NK1948_DRAFT_19480428_ART_006",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "target_scope_inference",
+      "finding": "제헌헌법의 농지를 사유농지 분배 한도로 한정하고 분배 주체도 국가로 명시된 것처럼 설명함.",
+      "action": "대상에 명시되지 않은 소유 형태와 행위 주체를 추가하지 않음.",
+      "candidate_id": null,
+      "severity": "material"
+    }
+  ],
+  "limits": []
+}

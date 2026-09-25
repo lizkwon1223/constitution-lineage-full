@@ -1,0 +1,103 @@
+{
+  "article": 30,
+  "reviewed_at": "2026-09-22T15:30:54.475724+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "ba66a38cd6da671b4ce456c32c5700308e189f1e7311c97ec9f861283e5d9494",
+  "input_sha256": "6952a54517b66f734d5e635ac191b5201fe174359274afeb8ea93bdaf67e2b01",
+  "responses": [
+    {
+      "job_id": "030_49f8bbdbee9e_r1",
+      "repeat": 1,
+      "sha256": "cd89a7f4d7f34192113d40c40c00fab5afbf60f8ee423a9690fccc7ac0299aab",
+      "assessment": "병역 조항들과 필리핀의 방위 관련 복무, 북한의 조국 보위 의무라는 주요 부분 대응은 타당함. 일본 납세 조항 선택은 상용 문형에만 의존함. 프로이센은 국민 전체·병역·법률 구체화가 모두 있어 두 문장이라는 차이만으로 대응을 낮게 평가할 이유가 부족함. 북한의 형벌은 배반에 관한 것이며 방위 의무 위반 일반의 형벌로 확대하지 않아야 함."
+    },
+    {
+      "job_id": "030_49f8bbdbee9e_r2",
+      "repeat": 2,
+      "sha256": "96d9a37aad2cc33444265ac31a661e83f27f5d084809dad02bfece45fa6fb74f",
+      "assessment": "병역과 포괄적 방위 의무의 차이 및 필리핀의 정부 의무와 국민 복무를 구분한 점은 유용함. 납세 조항의 선택 근거는 약하며 프로이센·북한의 구체적인 부분 대응을 보충할 필요가 있음. 모든이라는 표현은 필리핀과 프로이센에 실제로 있음."
+    },
+    {
+      "job_id": "030_49f8bbdbee9e_r3",
+      "repeat": 3,
+      "sha256": "f5173fe24d27d8fe8cae2cab32819c62a85c9acbf08a878bb36cc3ff7f6291a0",
+      "assessment": "프로이센의 병역·법률유보 대응을 포함한 핵심 비교는 타당함. 일본 납세 조항은 상용 문형으로 한정해야 함. 북한도 조국 보위 자체를 공민 의무로 명시하므로 포괄적 방위 의무를 미설명으로 남기는 것은 부정확함. 선택한 프로이센·필리핀에 전칭 주체 표현이 있는데도 모든을 미설명 요소로 적음."
+    }
+  ],
+  "synthesis": "일본 1889년 제20조, 중화민국 제20조, 약헌 제9조의 병역 항목, 프로이센 제34조는 국민의 국방 관련 의무와 법률에 의한 구체화라는 요소에 대응함. 병역은 특정 복무 형태이며 제헌헌법은 국토방위라는 포괄 표현을 사용함. 필리핀 제II조 제2절은 국가 방위를 정부의 중요한 의무로 규정하고 그 이행을 위해 모든 국민에게 법률로 군복무 또는 민간복무를 요구할 수 있게 함. 북한 제28조는 공민의 조국 보위 의무에 대응하지만 법률유보 문구가 없고 조국·인민에 대한 배반의 형벌을 별도로 둠. 일본 제30조의 납세의무는 문장 틀만 비슷하므로 실질적 대응의 근거로 삼기 어려움. 방위 의무의 포괄성과 모든 국민이라는 표현은 후보들에서 부분적으로 설명되며, 정확한 용어의 역사적 유래는 문언 비교와 별도의 연구 문제임.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "type": "unsupported_substantive_selection",
+      "severity": "material",
+      "finding": "납세의무를 국민·법률유보·의무라는 상용 문형만으로 구체적 대응으로 선택함.",
+      "action": "원선택을 보존하되 일반 문형 유사성으로 제한하고 방위 의무의 대응 근거와 구별함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "PR1850_ORIGINAL_ART_034",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "국민 전체의 병역의무와 범위·방법의 법률 구체화를 인정하면서 두 문장 구성 등을 이유로 일반 유사성에 한정함.",
+      "action": "3회의 선택과 함께 병역·법률유보의 부분 대응을 보충함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_028",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "공민의 조국 보위 의무라는 직접적인 부분 대응을 법률유보 부재와 추가 규정 때문에 일반 유사성으로만 평가함.",
+      "action": "1회의 선택과 함께 방위 의무 내용의 대응을 보충하고 부가 규율은 차이로 구분함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_classification",
+      "severity": "material",
+      "finding": "모든이라는 표현을 미설명 요소로 두지만 필리핀 all citizens, 프로이센 Alle Preußen이 대응함.",
+      "action": "전칭 주체 표현은 대응하는 요소로 정리함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_028",
+      "type": "sanction_scope",
+      "severity": "minor",
+      "finding": "요약·이유에서 방위 의무 위반에 형벌이 부과된다고 압축함. 원문은 조국과 인민에 대한 배반을 형벌 사유로 적음.",
+      "action": "형벌 사유를 배반으로 정확히 특정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "type": "modifier_precision",
+      "severity": "minor",
+      "finding": "prime duty of government를 정부가 일차적·으뜸 의무주체라는 식으로 표현함. prime은 의무의 중요성을 수식함.",
+      "action": "국가 방위는 정부의 중요한 의무이며 국민 복무는 그 이행 수단이라는 문장 구조로 정리함."
+    }
+  ],
+  "limits": [
+    "의무의 포괄적 표현과 실제 법률상 복무 범위를 동일하게 취급하지 않음.",
+    "프랑스연합 구성체를 해당 조문만으로 모두 독립국가라고 특정하지 않음."
+  ]
+}

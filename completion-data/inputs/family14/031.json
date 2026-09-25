@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_031",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "31",
+    "original_text": "立法權은 國會가 行한다.",
+    "workbook_text_ko": "입법권은 국회가 행한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_005",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "5",
+      "original_text": "Le Parlement se compose de l'Assemblée nationale et du Conseil de la République.",
+      "workbook_text_ko": "국회는 국민의회(Assemblée nationale)와 공화국 평의회(Conseil de la\nRépublique)로 구성한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_024",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "24",
+      "original_text": "Die Gesetzgebung des Bundes übt der Nationalrat gemeinsam mit dem Länder- und Ständerat aus.",
+      "workbook_text_ko": "연방의 입법권은 국민의회가 주·직능참사원과 공동으로 행사한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_062",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "62",
+      "original_text": "Die gesetzgebende Gewalt wird gemeinschaftlich durch den König und durch zwei Kammern ausgeübt.\nDie Uebereinstimmung des Königs und beider Kammern ist zu jedem Gesetze erforderlich.\nFinanzgesetz-Entwürfe und Staatshaushalts-Etats werden zuerst der zweiten Kammer vorgelegt; letztere werden von der ersten Kammer im Ganzen angenommen oder abgelehnt.",
+      "workbook_text_ko": "입법권은 국왕과 의회 양원\n이 공동으로 행사한다.\n모든 법률에는 국왕과 의회 양원\n의 합치가 필요하다.\n재정법안과 국가예산안은 먼저 제2원\n에 제출된다; 예산은 제1원이 그 전체\n로서 승인하거나 거부한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_033",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "33",
+      "original_text": "立法權은 오직 最高人民會議만이 行使한다.",
+      "workbook_text_ko": "입법권은 오직 최고인민회의만이 행사한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XIV",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XIV",
+      "original_text": "Section 1. The National Assembly, by a vote of three-fourths of all its Members, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 국민의회는 재적의원 4분의 3의 표결로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_005",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "5",
+      "original_text": "天皇ハ帝国議会ノ協賛ヲ以テ立法権ヲ行フ",
+      "workbook_text_ko": "천황은 제국의회의 협찬으로 입법권을 행사한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_012",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "12",
+      "original_text": "立法議院은 國權의 最高機關이며 唯一한 立法機關으로서 左의 權限을 行함\n一 法律의 制定\n二 豫算의 議定\n三 決算의 審査\n四 國債의 募集 及 國庫 負擔이 될 契約의 議決\n五 條約締結 及 宣戰媾和에 對한 同意\n六 大赦 特赦 減刑 及 復權에 對한 同意\n七 政府主席、副主席、國務總長 及 國務委員에 對한 彈劾의 議決\n八 政府에 對한 建議\n九 請願의 受理\n十 議員의 資格審査 及 懲罰\n十一 議事規則의 制定",
+      "workbook_text_ko": "입법의원은 국권의 최고기관이며 유일한 입법기관으로서 아래의 권한을 행함.\n1. 법률의 제정\n2. 예산의 의정\n3. 결산의 심사\n4. 국채의 모집 및 국고 부담이 될 계약의 의결\n5. 조약 체결 및 선전·강화에 대한 동의\n6. 대사·특사·감형 및 복권에 대한 동의\n7. 정부주석·부주석·국무총장 및 국무위원에 대한 탄핵의 의결\n8. 정부에 대한 건의\n9. 청원의 수리\n10. 의원의 자격심사 및 징벌\n11. 의사규칙의 제정"
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "1",
+      "original_text": "Le pouvoir législatif s'exerce par deux assemblées : la Chambre des députés et le Sénat. - La Chambre des Députés est nommée par le suffrage universel, dans les conditions déterminées par la loi électorale. - La composition, le mode de nomination et les attributions du Sénat seront réglés par une loi spéciale.",
+      "workbook_text_ko": "입법권은 하원(Chambre des députés)과 상원(Sénat) 양원이 행사한다.\n하원은 선거법이 정한 조건에 따라 보통선거로 임명한다.\n상원의 구성ㆍ임명방법과 임무는 특별법으로 정한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_083",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "83",
+      "original_text": "国の財政を処理する権限は、国会の議決に基いて、これを行使しなければならない。",
+      "workbook_text_ko": "국가의 재정을 처리하는 권한은 국회의 의결에 기하여 행사하여야 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_043",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "43",
+      "original_text": "Das Nähere wird durch Gesetz geregelt.",
+      "workbook_text_ko": "자세한 사항은 법률로 정한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XIX",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XIX",
+      "original_text": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.\nCongress shall have power to enforce this article by appropriate legislation.",
+      "workbook_text_ko": "합중국 시민의 투표권은 성별을 이유로 합중국이나 주에\n의하여 거부 또는 제한되지 않는다.\n연방의회는 적절한 입법에 의하여 이 조를 시행할 권한을\n가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_063",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "63",
+      "original_text": "立法院爲中央政府行使立法權之最高機關，對國民大會負其責任。",
+      "workbook_text_ko": "입법원은 중앙정부의 입법권을 행사하는 최고기관으로서 국민대회에 대하여 책임을 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_062",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "62",
+      "original_text": "立法院為國家最高立法機關，由人民選舉之立法委員組織之，代表人民行使立法權。",
+      "workbook_text_ko": "立法院은 國家의 最高立法機關이며 人民이 選擧하는 立法委員으로써 組織되고 人民을 代表하여 立法權을 行使한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_012",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "12",
+      "original_text": "Solange und soweit das Reich von seinem Gesetzgebungsrechte keinen Gebrauch macht, behalten die Länder das Recht der Gesetzgebung. Dies gilt nicht für die ausschließliche Gesetzgebung des Reichs.\nGegen Landesgesetze, die sich auf Gegenstände des Artikel 7 Ziffer 13 beziehen, steht der Reichsregierung, sofern dadurch das Wohl der Gesamtheit im Reiche berührt wird, ein Einspruchsrecht zu.",
+      "workbook_text_ko": "제국이 입법권을 행사하지 않는 동안 그리고 그 범위에서 주는 입법권을 보유한다. 단, 배타적 입법권은 제외한다.\n제7조제13호에 명시된 대상과 관계된 주법률이 제국 전체의 복리에 영향을 미치는 경우 제국정부는 이의제기권을 가진다."
+    }
+  ]
+}

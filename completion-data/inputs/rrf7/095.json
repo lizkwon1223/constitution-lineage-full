@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_095",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "95",
+    "original_text": "國家의 收入支出의 決算은 每年 審計院에서 檢査한다.\n政府는 審計院의 檢査報告와 함께 決算을 次年度의 國會에 提出하여야 한다.\n審計院의 組織과 權限은 法律로써 定한다.",
+    "workbook_text_ko": "국가의 수입지출의 결산은 매년 심계원에서 검사한다.\n정부는 심계원의 검사보고와 함께 결산을 차년도의 국회에 제출하여야 한다.\n심계원의 조직과 권한은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_068",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "68",
+      "original_text": "Die Rechnungen über den Haushaltsplan werden von der Oberrechnungskammer geprüft und festgestellt. Die allgemeine Rechnung über den Haushalt jedes Jahres und eine Übersicht der Staatsschulden werden mit den Bemerkungen der Oberrechnungskammer zur Entlastung des Finanzministers dem Landtage vorgelegt.",
+      "workbook_text_ko": "예산에 관한 결산은 최고회계검사원이 심사하여 확정한다. 매년 예산의 총결산과 국가채무 개요는 재무장관의 책임 해제를 위하여 최고회계검사원의 의견과 함께 주의회에 제출한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_072",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "72",
+      "original_text": "国家ノ歳出歳入ノ決算ハ会計検査院之ヲ検査確定シ政府ハ其ノ検査報告ト倶ニ之ヲ帝国議会ニ提出スヘシ\n２　会計検査院ノ組織及職権ハ法律ヲ以テ之ヲ定ム",
+      "workbook_text_ko": "국가의 세출·세입 결산은 회계검사원이 검사하여 확정하고, 정부는 그 검사보고와 함께 제국의회에 제출하여야 한다.\n② 회계검사원의 조직과 직권은 법률로 정한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_054",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "54",
+      "original_text": "政府主席은 歲出歳入의 決算을 監察委員長의 審査를 바든 後에 그 審査 報告와 함께 此를 立法議院에 提出하여야 함",
+      "workbook_text_ko": "정부주석은 세출·세입의 결산을 감찰위원장의 심사를 받은 후에 그 심사 보고와 함께 이를 입법의원에 제출하여야 함."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_104",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "104",
+      "original_text": "Zu Etats-Ueberschreitungen ist die nachträgliche Genehmigung der Kammern erforderlich.\nDie Rechnungen über den Staatshaushalts-Etat werden von der Ober-Rechnungskammer geprüft und festgestellt. Die allgemeine Rechnung über den Staatshaushalt jeden Jahres, einschließlich einer Uebersicht der Staatsschulden, wird mit den Bemerkungen der Ober-Rechnungskammer zur Entlastung der Staatsregierung den Kammern vorgelegt.\nEin besonderes Gesetz wird die Einrichtung und die Befugnisse der Ober-Rechnungskammer bestimmen.",
+      "workbook_text_ko": "예산의 초과는 의회 양원의\n사후 승인을 필요로 한다.\n국가예산의 결산은 최고회계감사원에\n의해 심사되고 확정된다. 매년의 일반\n예산결산은 국채의 개요를 포함하여\n최고회계감사원의 의견서와 함께 정\n부의 면책을 위해 의회 양원에 제출\n된다.\n최고회계감사원의 제도와 그 권한은\n특별법으로 정한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_090",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "90",
+      "original_text": "国の収入支出の決算は、すべて毎年会計検査院がこれを検査し、内閣は、次の年度に、その検査報告とともに、これを国会に提出しなければならない。\n２　会計検査院の組織及び権限は、法律でこれを定める。",
+      "workbook_text_ko": "①국가의 수입･지출의 결산은 매년 회계검사원이 이를 모두 검사하고, 내각은 다음 연도에 그 검사보고와 함께 이를 국회에 제출하여야 한다.\n②회계검사원의 조직과 권한은 법률로 정한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_099",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "99",
+      "original_text": "Alle Einnahmen und Ausgaben des Staats müssen für jedes Jahr im Voraus veranschlagt und auf den Staatshaushalts-Etat gebracht werden.\nLetzterer wird jährlich durch ein Gesetz festgestellt.",
+      "workbook_text_ko": "국가의 모든 수입과 지출은\n매년 사전에 예측치를 내어 국가예\n산에 산입되어야 한다.\n예산은 매년 법률에 의해 확정된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_086",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "86",
+      "original_text": "内閣は、毎会計年度の予算を作成し、国会に提出して、その審議を受け議決を経なければならない。",
+      "workbook_text_ko": "내각은 매 회계연도의 예산을 작성하여 국회에 제출하고, 그 심의와 의결을 거쳐야 한다."
+    }
+  ]
+}

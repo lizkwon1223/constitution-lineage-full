@@ -1,0 +1,123 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_056",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2항의 '궐위된 때에는 즉시 후임자를 선거한다'는 규율과 사유를 불문한 궐위 시 즉시 후임 대통령 선거라는 구조가 구체적으로 대응한다. 다만 선거 주체(양원)와 궐위 중 행정권 귀속 규정은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "궐위 시 즉시 후임자 선거",
+          "target_field": "original_text",
+          "target_quote": "大統領 또는 副統領이 闕位된 때에는 卽時 그 後任者를 選擧한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "En cas de vacance par décès ou pour toute autre cause, les deux chambres procèdent immédiatement à l'élection d'un nouveau Président.",
+          "commonality": "궐위 사유를 한정하지 않고(사망 기타 사유) 즉시 후임자 선거를 실시하도록 하는 점",
+          "difference": "후보는 선거 주체를 '양원'으로 명시하고 대통령만을 대상으로 하나, 대상은 선거 주체를 이 조문에 두지 않고 대통령·부통령 모두를 대상으로 한다"
+        },
+        {
+          "element": "궐위 기간의 권한 처리",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령 또는 부통령이 궐위된 때에는 즉시 그 후임자를 선거한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dans l'intervalle, le Conseil des ministres est investi du pouvoir exécutif.",
+          "commonality": "궐위 상황을 규율 대상으로 삼는 점",
+          "difference": "후보는 궐위 기간 국무회의의 행정권 행사까지 규정하나 대상 조문에는 그러한 권한대행 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "영구 궐위 시 '즉시' 새 대통령 선거를 실시하도록 하는 요소가 대상 제2항과 대응한다. 다만 선거를 '명하는' 주체(연방정부)와 직무대행·취임선서 절차는 대상에 없어 대응 범위는 즉시성 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "궐위 시 즉시 후임자 선거",
+          "target_field": "original_text",
+          "target_quote": "大統領 또는 副統領이 闕位된 때에는 卽時 그 後任者를 選擧한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "hat die Bundesregierung sofort die Wahl des neuen Bundespräsidenten anzuordnen",
+          "commonality": "직위가 궐위되면 지체 없이(즉시) 새 대통령 선거를 실시하도록 하는 점",
+          "difference": "후보는 연방정부가 선거를 '명령'하는 절차를 두고 일시적 직무수행 불능과 영구 궐위를 구분하나, 대상은 선거 실시 자체만 정하고 부통령 궐위도 함께 규율한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "새 대통령 선거 시기를 다루지만 국민의회 해산 중이라는 특수 상황에서 현직 대통령 임기 연장과 총선 후 10일 내 선거를 규정하는 것으로, 대상의 임기만료 전 30일 기준이나 궐위 시 즉시 선거와 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령·부통령과 그 후임자를 함께 다루는 점은 겹치나, 내용은 임기 종료·개시 시점과 당선자 사망·자격미비 시 직무대행에 관한 것이고 임기만료 전 선거기한이나 궐위 시 즉시 선거 규정은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "임기만료 전 '30일'이라는 수치와 임기만료 전에 후임 대통령을 선거한다는 문형이 대상 제1항과 직접 대응한다. 다만 기간 설정의 방향(상한·하한)과 선거 주체가 다르다.",
+      "evidence": [
+        {
+          "element": "임기만료 전 후임자 선거 기한(30일)",
+          "target_field": "original_text",
+          "target_quote": "任期가 滿了되는 때에는 늦어도 그 任期가 滿了되기 30日前에 그 後任者를 選擧한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Trente jours au plus, quinze jours au moins avant l'expiration des pouvoirs du président de la République, le Parlement procède à l'élection du nouveau président.",
+          "commonality": "대통령 임기만료를 기준으로 그 이전에 후임 대통령 선거를 실시하도록 하고 '30일'이라는 기간을 쓰는 점",
+          "difference": "후보는 만료 전 30일~15일의 기간창(30일보다 이르게는 불가, 15일보다 늦게는 불가)을 두고 선거 주체를 국회로 명시하나, 대상은 '늦어도 30일 전'이라는 최소 선행기간만 두고 선거 주체를 이 조문에 명시하지 않으며 부통령도 함께 규율한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_003",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "임기 종료 전 일정 기간(1개월) 내 후임 대통령 선거와 사망·사직 시 즉시 절차 개시라는 두 요소가 대상 두 항의 구조와 각각 대응한다. 다만 후보는 양원의 집회 의무 형식이고 기간은 1개월·15일 보충규정이다.",
+      "evidence": [
+        {
+          "element": "임기만료 전 후임자 선거",
+          "target_field": "workbook_text_ko",
+          "target_quote": "임기가 만료되기 30일전에 그 후임자를 선거한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Un mois avant le terme légal des pouvoirs du Président de la République, les chambres devront être réunies en Assemblée nationale pour procéder à l'élection du nouveau Président.",
+          "commonality": "임기 종료 시점을 기준으로 그 전에 후임 대통령 선거를 실시하도록 기간을 정한 점",
+          "difference": "후보는 '1개월 전' 양원의 국민의회 합동 집회 의무로 규정하고 소집이 없으면 15일 전 당연 집회라는 보충규정을 두나, 대상은 '늦어도 30일 전' 선거 실시만 정하고 집회·보충규정이 없으며 부통령도 포함한다"
+        },
+        {
+          "element": "궐위·사고 시 즉시성",
+          "target_field": "original_text",
+          "target_quote": "闕位된 때에는 卽時 그 後任者를 選擧한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "En cas de décès ou de démission du Président de la République, les deux chambres se réunissent immédiatement et de plein droit.",
+          "commonality": "대통령의 사망·사직 등으로 자리가 비면 지체 없이 후임 선출 절차에 들어가도록 하는 점",
+          "difference": "후보는 사유를 사망·사직으로 예시하고 '즉시 집회'라는 절차를 정하나, 대상은 사유를 '궐위'로 포괄하고 즉시 '선거' 실시를 직접 명한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_049",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "대통령·부통령 궐위를 함께 규율하는 주제는 겹치지만, 총통 궐위 시 부총통 계임·행정원장 대행이라는 승계 방식을 원칙으로 하고 둘 다 궐위된 때에만 보선을 두어, 궐위 즉시 후임자를 선거하는 대상의 해법과 대조된다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "부통령 궐위 시에도 동일하게 후임자를 선거한다는 부통령 포함 규율(후보들은 대통령 중심이거나 승계 방식으로 처리)",
+    "'늦어도 30일 전'이라는 최소 선행기간 형식(후보들은 상·하한 기간창 또는 집회기일 형식)",
+    "선거 주체를 이 조문에 명시하지 않은 점"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·기초 과정의 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "오스트리아·중화민국 후보는 원문 이해에 워크북 번역을 부분적으로 참고할 수밖에 없어 세부 뉘앙스 판단에 한계가 있다."
+  ],
+  "short_answer": "대상 제1항(임기만료 전 후임자 선거 기한)에는 프랑스 제4공화국헌법 제39조('30일')와 1875년 7월 16일 법률 제3조('1개월 전' 선거를 위한 양원 집회)가 구체적으로 대응한다. 대상 제2항(궐위 시 즉시 선거)에는 1875년 2월 25일 법률 제7조(사망 기타 사유의 궐위 시 양원의 즉시 선거)와 오스트리아 제64조 제2항(영구 궐위 시 즉시 선거 명령)이 대응한다. 다만 프랑스 조항들은 선거 주체를 양원·국회로 명시하고 기간도 상한·하한 형태(30일보다 이르지 않게, 15일보다 늦지 않게)여서 '늦어도 30일 전'이라는 대상의 최소 선행기간과 방향이 다르며, 오스트리아는 선거를 명하는 주체와 직무대행 절차를 함께 둔다. 중화민국 제49조는 궐위를 승계·대행으로 해결하여 대상과 대조되고, 미국 수정 제20조와 프랑스 제40조는 임기 개시·해산기 특칙을 다뤄 규율 요소가 어긋난다. 문언 대응은 확인되나 역사적 참조 여부는 본 자료만으로 확정할 수 없다."
+}

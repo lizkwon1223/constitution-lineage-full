@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_051",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "51",
+    "original_text": "大統領은 行政權의 首班이며 外國에 對하여 國家를 代表한다.",
+    "workbook_text_ko": "대통령은 행정권의 수반이며 외국에 대하여 국가를 대표한다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_ORIGINAL_ART_065",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "65",
+      "original_text": "(1) Der Bundespräsident vertritt die Republik nach außen, empfängt und beglaubigt die Gesandten, genehmigt die Bestellung der fremden Konsuln, bestellt die konsularischen Vertreter der Republik im Ausland und schließt die Staatsverträge ab.\n(2) Weiter stehen ihm – außer den ihm nach anderen Bestimmungen dieser Verfassung übertragenen Befugnissen – zu:\na) die Ernennung der Bundesangestellten, einschließlich der Offiziere, und der sonstigen Bundesfunktionäre, die Verleihung von Amtstiteln an solche;\nb) die Schaffung und Verleihung von Berufstiteln;\nc) für Einzelfälle: die Begnadigung der von den Gerichten rechtskräftig Verurteilten, die Milderung und Umwandlung der von den Gerichten ausgesprochenen Strafen, die Nachsicht von Rechtsfolgen und die Tilgung von Verurteilungen im Gnadenweg, ferner die Niederschlagung des strafgerichtlichen Verfahrens bei den von Amts wegen zu verfolgenden strafbaren Handlungen;\nd) die Erklärung unehelicher Kinder zu ehelichen auf Ansuchen der Eltern.\n(3) Inwieweit dem Bundespräsidenten außerdem noch Befugnisse hinsichtlich Gewährung von Ehrenrechten, außerordentlichen Zuwendungen, Zulagen und Versorgungsgenüssen, Ernennungs- oder Bestätigungsrechten und sonstigen Befugnissen in Personalangelegenheiten zustehen, bestimmen besondere Gesetze.",
+      "workbook_text_ko": "(1) 연방대통령은 대외적으로 공화국을 대표하고, 외교사절을 접수·신임하며, 외국 영사의 임명을 승인하고, 재외 공화국 영사대표를 임명하며, 국가조약을 체결한다.\n(2) 연방대통령은 이 헌법의 다른 규정이 부여한 권한 외에 다음 권한도 가진다.\na) 장교를 포함한 연방공무원과 그 밖의 연방직무자의 임명 및 이들에 대한 직함의 수여.\nb) 직업상 명예칭호의 창설 및 수여.\nc) 개별 사건에서 법원의 확정판결을 받은 사람에 대한 사면, 법원이 선고한 형의 감경 및 변경, 은사에 의한 법적 불이익의 면제와 유죄판결 기록의 말소, 그리고 직권으로 소추하는 범죄행위의 형사재판절차 중지.\nd) 부모의 신청에 따라 혼인 외 출생자를 혼인 중 출생자로 선언하는 것.\n(3) 연방대통령이 명예상의 권리, 특별급여·수당 및 부양급여의 부여, 임명권 또는 인준권, 그 밖의 인사사항에 관한 권한을 추가로 어느 범위까지 가지는지는 특별법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_035",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "35",
+      "original_text": "總統為國家元首，對外代表中華民國。",
+      "workbook_text_ko": "總統은 國家의 元首이며 外國에 對하여 中華民國을 代表한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_076",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "76",
+      "original_text": "Le représentant du Gouvernement dans chaque territoire ou groupe de territoires est le dépositaire des pouvoirs de la République. Il est le chef de l'administration du territoire.\nIl est responsable de ses actes devant le Gouvernement.",
+      "workbook_text_ko": "각 영토 또는 영토의 집단에서의 정부의 대표는 공화국의 권력의 수\n탁자이다. 그 대표는 영토의 행정의 수반이다.\n그 대표는 자기의 행위에 대해서 정부에 책임을 진다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_049",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "49",
+      "original_text": "Das Staatsministerium vertritt den Staat nach außen.",
+      "workbook_text_ko": "주내각은 대외적으로 국가를 대표한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_022",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "22",
+      "original_text": "政府主席은 國家를 代表하고 行政權을 統轄하며 左의 權限을 行함\n一 法律案의 提出\n二 法律의 公布\n三 法律에서 一定한 範圍를 定하야 委任을 받은 命令 及 法律 執行에 必要한 命令의 制定 公布\n四 職制 及 俸給基準의 制定\n五 陸海空軍의 統轄\n六 條約締結 及 宣戰媾和\n七 外國大使 公使 及 領事의 接受\n八 本法 其他 法律이 定하는 바에 依한 公務員의 任免 及 監督\n九 勳章 其他 榮典의 授與\n十 大赦 特赦 減刑 及 復權의 命令\n十一 法律의 定한 바에 依한 戒嚴의 宣布",
+      "workbook_text_ko": "정부주석은 국가를 대표하고 행정권을 통할하며 아래의 권한을 행함.\n1. 법률안의 제출\n2. 법률의 공포\n3. 법률에서 일정한 범위를 정하여 위임을 받은 명령 및 법률 집행에 필요한 명령의 제정·공포\n4. 직제 및 봉급기준의 제정\n5. 육해공군의 통할\n6. 조약 체결 및 선전·강화\n7. 외국 대사·공사 및 영사의 접수\n8. 본법, 기타 법률이 정하는 바에 의한 공무원의 임면 및 감독\n9. 훈장, 기타 영전의 수여\n10. 대사·특사·감형 및 복권의 명령\n11. 법률이 정한 바에 의한 계엄의 선포"
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "45",
+      "original_text": "Der Reichspräsident vertritt das Reich völkerrechtlich. Er schließt im Namen des Reichs Bündnisse und andere Verträge mit auswärtigen Mächten. Er beglaubigt und empfängt die Gesandten.\nKriegserklärung und Friedensschluß erfolgen durch Reichsgesetz.\nBündnisse und Verträge mit fremden Staaten, die sich auf Gegenstände der Reichsgesetzgebung beziehen, bedürfen der Zustimmung des Reichstags.",
+      "workbook_text_ko": "국제법상으로 제국대통령은 독일제국을 대표한다. 제국대통령은 독일제국의 이름으로 외국 세력과의 동맹을 비롯하여 그 밖의 조약을 체결한다. 제국대통령은 외교관을 파견하고 접견한다.\n전쟁선포와 강화(講和)는 제국법률로 한다.\n제국입법의 대상과 관계가 있는 외국과의 동맹 및 조약은 제국의회의 동의가 필요하다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_031",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "31",
+      "original_text": "Le président de la République est tenu informé des négociations internationales. Il signe et ratifie les traités.\nLe président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères ; les ambassadeurs et les envoyés extraordinaires étrangers sont accrédités auprès de lui.",
+      "workbook_text_ko": "공화국대통령은 국제교섭에 대해서 계속 보고를 받는다. 공화국대통령은\n조약에 서명하고, 조약을 비준한다.\n공화국대통령은 외국주재의 대사와 특사에게 보내는 신임장을 수여하고,\n주프랑스 대사와 특사는 대통령에게 신임장을 제정한다."
+    }
+  ]
+}

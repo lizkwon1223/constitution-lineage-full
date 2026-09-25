@@ -1,0 +1,94 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_101",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정의 발의·국민투표 승인·공포 절차를 규정한 조항으로, 제헌국회의 특별법 제정권이나 소급 처벌과 규율 요소가 겹치지 않는다. '국회'라는 기관 명칭만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_097",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'헌법제정국민의회(Assemblée nationale constituante)'라는 제헌의회를 언급하는 경과규정이라는 점은 유사하나, 내용은 예외적 사정에서의 소집 주체·절차에 관한 것이어서 특별법 제정 권한·처벌 대상·시점 한정 등 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_112",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "省의 자치법 제정 권한과 헌법 저촉 금지에 관한 규정으로, 제헌국회의 처벌 특별법 제정과 규율 대상이 다르다. '制定…法' 형식만 공유한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법을 제정한 (국민)대회/국회'라는 제헌기관을 주체로 지목하여 헌법 시행 관련 사항을 스스로 정하도록 하는 보칙적 문형이 대상 조문의 주체 규정과 구체적으로 대응한다. 다만 권한의 내용(준비절차 의정 vs 처벌 특별법 제정)은 다르므로 대응 범위는 주체 지정 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "권한 주체(제헌의회의 특정)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "由制定憲法之國民大會議定之",
+          "commonality": "헌법을 제정한 그 의회 자체를 주체로 명시하여 헌법 시행과 관련된 일정 사항을 처리할 권능을 부여하는 보칙 문형이다.",
+          "difference": "후보는 국민대회가 '헌법시행 준비절차'를 의정하는 것이고, 대상은 국회가 '처벌 특별법'을 제정하는 입법권한이다. 처벌 대상·시점 한정도 후보에는 없다."
+        },
+        {
+          "element": "법률에 의한 별도 규율",
+          "target_field": "original_text",
+          "target_quote": "處罰하는 特別法을 制定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "有另定實施程序之必要者，以法律定之",
+          "commonality": "헌법 본문과 별도로 법률을 따로 두어 규율하도록 유보하는 구조이다.",
+          "difference": "후보는 시행절차를 정하는 일반 법률 유보이고, 대상은 특정 시점 이전의 행위를 처벌하는 형사 특별법 제정 권한이라는 점에서 효과가 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_122",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "縣의 자치법 제정과 헌법·省자치법 저촉 금지에 관한 규정으로, 대상 조문의 주체·처벌 목적·시점 한정과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법 시행 관련 경과·보칙 조항으로서 '헌법 시행에 필요한 법률의 제정'을 허용한다는 점에서 보칙적 성격은 유사하나, 주체가 특정 제헌의회가 아니고 내용도 시행 준비행위의 시기적 허용에 그쳐 처벌 특별법 제정 권한과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_113",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "형사 영역의 규율을 헌법 본문 대신 '특별법(ein besonderes Gesetz)'에 맡기는 경과적 문형이 대상 조문의 '처벌하는 특별법 제정' 부분과 구체적으로 대응한다. 다만 주체·소급 처벌·시점 한정에서는 대응이 없어 범위를 특별법 유보 문형에 한정한다.",
+      "evidence": [
+        {
+          "element": "처벌 규율의 특별법 유보",
+          "target_field": "original_text",
+          "target_quote": "處罰하는 特別法을 制定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "ein besonderes Gesetz ergehen",
+          "commonality": "범죄·처벌에 관한 사항을 헌법이 직접 정하지 않고 별도의 '특별법'으로 규율하도록 예정하는 경과규정 형식이다.",
+          "difference": "후보는 형법 개정 전까지 언론·출판·도화에 의한 범법행위를 대상으로 하는 시한적 규율이고 주체를 명시하지 않는 반면, 대상은 제헌국회를 주체로 특정 시점 이전의 반민족행위를 소급 처벌하는 권한을 부여한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "단기 4278년 8월 15일 이전이라는 소급 적용 시점의 한정",
+    "'악질적인 반민족행위'라는 처벌 대상 행위의 특정",
+    "소급입법 허용이라는 예외적 효과"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "후보 원문 인용을 기준으로 비교했고, 번역문에 의존한 판단은 배제했다."
+  ],
+  "short_answer": "대상 조문은 제헌국회를 주체로 삼아 1945년 8월 15일 이전의 반민족행위를 처벌하는 특별법 제정권을 부여하는 보칙이다. 후보 중 중화민국헌법 제175조는 '制定憲法之國民大會'를 주체로 명시해 헌법 시행 관련 사항을 스스로 정하게 하는 문형에서, 프로이센헌법 제113조는 형사 사항을 'besonderes Gesetz'로 유보하는 문형에서 각각 부분적으로 대응한다. 다만 전자는 시행준비절차 의정, 후자는 형법 개정 전 표현범죄 규율로서 권한 내용과 대상이 달라 대응 범위는 주체 지정 문형과 특별법 유보 문형에 한정된다. 일본국헌법 제96·100조, 프랑스 제97조, 중화민국 제112·122조는 개정절차·시행기일·지방자치법 제정에 관한 것으로 구체적 대응이 없다. 소급 처벌 시점과 '악질적인 반민족행위'라는 대상 행위의 특정은 제시된 후보로 설명되지 않는다."
+}

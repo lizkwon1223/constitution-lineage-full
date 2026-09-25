@@ -1,0 +1,122 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_013",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_021",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "보장 대상 자유의 목록(집회·결사·언론·출판)은 대상 조문과 겹치지만, 문형이 '법률에 의하지 아니하고는 제한받지 아니한다'는 법률유보형이 아니라 '보장한다'는 무유보형 보장이고, 검열 금지·통신비밀이라는 별도 규율이 추가되어 규율 구조가 대조적이다. 주제 중복만으로는 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제4호가 '법률에 의하지 아니한 … 제한을 받지 않는 자유'라는 문형과 언론·집회·결사 열거에서 대상 조문과 거의 동일한 규율 구조를 보인다. 다만 대상은 단일 조문으로 독립시킨 반면 후보는 자유권 열거의 한 호이다.",
+      "evidence": [
+        {
+          "element": "법률유보 문형(법률에 의하지 아니한 제한 금지)",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律에 依하지 아니한 言論 著作 刊行 集會 及 結社의 制限을 받지 않는 自由",
+          "commonality": "'법률에 의하지 아니한 제한을 받지 않는다'는 소극적 법률유보 표현이 일치한다.",
+          "difference": "대상은 '제한받지 아니한다'는 서술형 금지 규정이고, 후보는 '…받지 않는 자유'라는 자유권 열거 항목 형식이다."
+        },
+        {
+          "element": "보호 대상 자유의 열거",
+          "target_field": "original_text",
+          "target_quote": "言論, 出版, 集會, 結社의 自由",
+          "candidate_field": "original_text",
+          "candidate_quote": "言論 著作 刊行 集會 及 結社",
+          "commonality": "언론·집회·결사를 묶어 하나의 항에서 규율한다.",
+          "difference": "후보는 '著作 刊行'(저작·간행)으로 세분하고, 대상은 '出版'으로 통합한다."
+        },
+        {
+          "element": "권리주체",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "國民은 左記 各項에 依하여 自由權을 享有함",
+          "commonality": "권리주체를 '국민'으로 설정한다.",
+          "difference": "대상은 '모든 국민'으로 보편성을 강조하고, 후보는 총칙적 향유 선언 뒤에 호별 열거 방식을 취한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_016",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'非依法律不得限制之'라는 법률유보 문형과 집회·결사 자유의 대응이 구체적이다. 다만 대응 범위는 집회·결사 부분에 한정되며 언론·출판은 별조(제13조)에 있다.",
+      "evidence": [
+        {
+          "element": "집회·결사 자유의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "集會, 結社의 自由를 制限받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有集會結社之自由，非依法律不得限制之。",
+          "commonality": "집회·결사의 자유를 법률에 의하지 않으면 제한할 수 없다는 규율이 동일하다.",
+          "difference": "주체가 '人民'이고, 권리 보유 선언(有…之自由)과 제한금지를 두 문장으로 나눈 반면 대상은 한 문장의 소극적 서술이다. 또 대상은 언론·출판까지 한 조문에 포괄한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_029",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "언론·저작·인행·집회·결사를 한 조문에 열거하고 법률에 의한 제약을 전제한 점에서 열거 구성이 대응하나, '법률의 범위 내에서 자유를 가진다'는 적극적 유보형이어서 대상의 '법률에 의하지 아니하고는 제한받지 아니한다'와 규율 방향이 다르다. 열거 구성 대응에 한정해 선택한다.",
+      "evidence": [
+        {
+          "element": "자유 열거 구성과 법률 관련성",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는 言論, 出版, 集會, 結社의 自由를 制限받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本臣民ハ法律ノ範囲内ニ於テ言論著作印行集会及結社ノ自由ヲ有ス",
+          "commonality": "언론·출판(인행)·집회·결사를 한 조문에 묶어 열거하고 법률과의 관계를 명시한다.",
+          "difference": "주체가 '臣民'이며, 후보는 '법률의 범위 내에서 자유를 가진다'는 적극적 법률유보인 반면 대상은 법률 없는 제한을 금지하는 소극적 형식이다. 후보에는 '著作'이 포함된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "생명·자유 박탈과 형벌에 관한 적법절차 규정으로, 표현·집회·결사 자유의 법률유보라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_014",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'非依法律不得限制之'라는 법률유보 상용 문형만 공유할 뿐 보호 대상이 비밀통신이어서 대상 조문의 언론·출판·집회·결사와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_013",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "언론·출판 자유에 대한 '非依法律不得限制之' 법률유보가 대상 조문의 언론·출판 부분과 구체적으로 대응한다. 다만 집회·결사는 포함하지 않아 대응 범위가 제한된다.",
+      "evidence": [
+        {
+          "element": "언론·출판 자유의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "言論, 出版",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有言論著作及出版之自由，非依法律不得限制之。",
+          "commonality": "언론·출판의 자유를 법률에 의하지 않으면 제한할 수 없다고 규정한다.",
+          "difference": "주체가 '人民'이고 '著作'이 추가되며, 권리 선언과 제한금지를 분리한 2문 구성이다. 집회·결사는 대상과 달리 별조(제16조)에서 규율한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'모든 國民'이라는 보편적 주체 표현을 단일 문장에서 사용한 방식",
+    "언론·출판·집회·결사 네 자유를 하나의 조문으로 통합하면서 저작 등 세부 항목을 생략한 편성"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며, 어느 후보가 실제로 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "한문·일문 후보의 해석은 제시된 원문 표현에 한정해 비교했다."
+  ],
+  "short_answer": "조선임시약헌 제6조 제4호는 '법률에 의하지 아니한 언론·집회·결사의 제한을 받지 않는 자유'라는 소극적 법률유보 문형과 열거 구성에서 대상 조문과 가장 밀접히 대응한다. 五五憲草 제13조와 제16조는 '非依法律不得限制之' 문형으로 각각 언론·출판, 집회·결사 부분에 나누어 대응하며, 대상은 이를 한 조문에 통합한 점이 다르다. 대일본제국헌법 제29조는 동일한 자유 열거를 보이나 '법률의 범위 내에서 자유를 가진다'는 적극적 유보형이라는 점에서 대응 범위를 열거 구성에 한정했다. 일본국헌법 제21조는 같은 자유를 다루지만 법률유보 없는 보장과 검열 금지를 두어 대조적이고, 제31조와 五五憲草 제14조는 규율 대상이 달라 선택하지 않았다. 이상은 문언 대응일 뿐 역사적 영향의 확정은 아니다."
+}

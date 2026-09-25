@@ -1,0 +1,70 @@
+{
+  "article": 16,
+  "reviewed_at": "2026-09-22T15:16:35.651473+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "bf49ca68d49b46cad39a179317f4e2f2d63c3cca211848926f4b2f0d448a50ec",
+  "input_sha256": "01eea4171026214c8390f90c202dd79d1f8816e8b386bfcb53e5ceedcb1ec6a1",
+  "responses": [
+    {
+      "job_id": "016_66bca237e16d_r1",
+      "repeat": 1,
+      "sha256": "8b31a38cecfd1a6cef9d0651c74288809680259b8d13d7e31a20e67ec6d8775a",
+      "assessment": "교육권·의무무상·국가감독·제도 법정주의의 분해와 선택 후보의 핵심 비교는 타당함. 프랑스와 비교하면서 대상 무상을 초등에 한정한 설명, 약헌을 권리규정이 아니라고 한 설명은 수정 필요함."
+    },
+    {
+      "job_id": "016_66bca237e16d_r2",
+      "repeat": 2,
+      "sha256": "13eafad45a7456daff50f5ea366019d8fadaad6522171ade50881f31231d22e2",
+      "assessment": "감독 네 후보 및 일본·중화민국·북한안의 주요 비교는 타당함. 적어도를 상한처럼 읽어 프랑스의 부분 대응을 제외하고 약헌의 명시적 균등권을 지운 판단을 보완해야 함."
+    },
+    {
+      "job_id": "016_66bca237e16d_r3",
+      "repeat": 3,
+      "sha256": "76367e08d420c4d1f24777e79a24b8e3a91b1ed301e1f3ec99e6e7a50359b965",
+      "assessment": "핵심 대응은 지지됨. 초등교육 한정을 전제로 한 프랑스 비선택 및 약헌의 개인 권리와 정책을 양자택일로 처리한 설명은 한정해야 함."
+    }
+  ],
+  "synthesis": "일본 제26조는 모든 국민의 균등한 교육권과 의무교육 무상, 북한안은 교육권·초등 의무제 및 빈곤층 무료교육을 규정함. 필리핀 제XIII조 제5절은 적어도 무상 공립 초등교육의 제공과 모든 교육기관의 국가 감독을 한 절에 결합함. 감독은 바이마르·프로이센1850·五五憲草에서도 직접 대응함. 프랑스 전문은 교육에의 균등한 접근과 모든 단계의 무상 공교육을 규정하므로 보조 대응으로 남김. 대상의 적어도는 초등을 최소 범위로 정하며 그 이후의 무상을 배제하지 않음. 교육제도 자체를 법률로 정한다는 문구는 제시된 후보에 직접 대응이 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "type": "minimum_as_ceiling",
+      "severity": "material",
+      "finding": "대상은 적어도 초등교육이라고 했으나 초등교육으로 한정한다고 설명함. 2·3회차는 이 한정을 프랑스 비선택 근거로 사용함.",
+      "action": "초등을 최소 보장 범위로 수정함. 프랑스의 모든 단계 공교육과 대상의 최소 범위·공사립 미구분을 차이로 제시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_005",
+      "type": "false_right_policy_dichotomy",
+      "severity": "material",
+      "finding": "약헌은 정책 실시를 매개로 균등권을 향유한다고 명시하는데 권리 규정이 아니고 정책 목록일 뿐이라고 단정함.",
+      "action": "정책의 확립·실시를 통해 향유하는 문화·후생 균등권과 교육권의 직접 선언을 구별함. 균등권 표현 자체를 제거하지 않음."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "type": "unexplained_inconsistency",
+      "severity": "minor",
+      "finding": "미설명 요소는 후보들이 의무성과 무상성 중 하나씩만 대응하는 경향이라고 하나 일본 제26조는 의무교육과 무상을 함께 명시함.",
+      "action": "의무·무상 결합은 확인됨으로 정리하고 적어도 초등교육이라는 구체적 최소 범위의 차이만 남김."
+    }
+  ],
+  "limits": [
+    "북한안의 빈곤층 무료교육과 전문학교·대학 대다수 학생의 국비제를 모두 기록함. 두 제도의 내용·혜택이 완전히 같다고도, 후자가 없다고도 단정하지 않음.",
+    "일본의 능력에 따라라는 문구는 조건·기준으로 비교하며 그 자체로 평등권을 부인하는 의미라고 단정하지 않음.",
+    "약헌 제5조 입력의 첫머리는 民國으로 저장되어 있음. 이를 원응답에서 임의 교정하지 않으며 자료 표기의 확인 과제로 남김."
+  ]
+}

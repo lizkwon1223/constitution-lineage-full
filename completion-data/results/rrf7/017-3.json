@@ -1,0 +1,111 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_017",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_023",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "교육·강습 시설의 국가 감독과 공립교사의 공무원 지위를 다루며, 근로의 권리·의무나 근로조건 기준과는 규율 대상이 다르다. '권리와 의무를 가진다'는 문형만 우연히 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(모든 국민), 근로의 권리와 의무의 동시 규정, 근로조건 기준의 법률유보, 연소자 보호라는 3항 구성이 항별로 대응한다. 다만 문언상 대응이며 역사적 영향의 확정은 아니다.",
+      "evidence": [
+        {
+          "element": "주체와 권리·의무의 병치",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 勤勞의 權利와 義務를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、勤労の権利を有し、義務を負ふ。",
+          "commonality": "모든 국민을 주체로 근로의 권리와 의무를 한 문장에서 함께 규정",
+          "difference": "대상은 권리·의무를 '가진다'로 일괄하고, 후보는 권리는 '有し', 의무는 '負ふ'로 동사를 나눔"
+        },
+        {
+          "element": "근로조건 기준의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "勤勞條件의 基準은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "賃金、就業時間、休息その他の勤労条件に関する基準は、法律でこれを定める。",
+          "commonality": "근로조건의 '기준'을 법률로 정하도록 하는 동일한 규율 구조",
+          "difference": "후보는 임금·취업시간·휴식이라는 예시적 항목을 열거하나 대상은 '근로조건의 기준'만 포괄적으로 규정"
+        },
+        {
+          "element": "연소자 보호",
+          "target_field": "original_text",
+          "target_quote": "女子와 少年의 勤勞는 特別한 保護를 받는다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "児童は、これを酷使してはならない。",
+          "commonality": "미성년 노동에 대한 별도 항의 보호 규정을 둠",
+          "difference": "대상은 여자를 포함하고 '특별한 보호를 받는다'는 보호 수령 형식이나, 후보는 아동에 한정하고 '혹사 금지'라는 금지 규범 형식"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_152",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "근로(工作)를 다루지만 국가의 적절한 근로기회 제공 의무를 규정한 국가 급부 조항으로, 대상의 권리·의무 병치, 근로조건 법률유보, 여자·소년 보호와는 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_157",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'특별한 보호'라는 표현과 노동법 제정 언급이 대상의 보호·법률유보와 주제상 유사하지만, 보호 대상이 여자·소년이 아닌 '노동력' 일반이고 권리·의무 병치도 없어 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "교육을 받을 권리와 취학 의무에 관한 조항으로, 근로의 권리·의무나 근로조건과는 규율 대상이 다르다. 권리·의무 병치 문형만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_153",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "여자·미성년 노동에 대한 '특별한 보호'라는 요소가 문언상 뚜렷이 대응하고, 노동자 보호 법률 제정도 법률유보와 부분적으로 겹친다. 선택 범위는 제3항 보호 요소에 한정한다.",
+      "evidence": [
+        {
+          "element": "여자와 소년의 근로에 대한 특별한 보호",
+          "target_field": "original_text",
+          "target_quote": "女子와 少年의 勤勞는 特別한 保護를 받는다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "婦女兒童從事勞動者，應按其年齡及身體狀態，予以特別之保護。",
+          "commonality": "여성과 미성년의 노동에 대해 '특별한 보호'를 명시하는 별도 문장을 둠",
+          "difference": "후보는 연령·신체 상태라는 보호의 기준과 국가의 보호 부여(予以) 구조를 명시하나, 대상은 기준 없이 보호를 받는다는 수령 형식만 규정"
+        },
+        {
+          "element": "근로 관련 법률유보",
+          "target_field": "original_text",
+          "target_quote": "勤勞條件의 基準은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "應制定保護勞工及農民之法律",
+          "commonality": "근로에 관한 사항을 법률로 규율하도록 함",
+          "difference": "후보는 노동자·농민 보호 법률 제정과 정책 실시라는 국가 의무이고 대상은 근로조건 '기준'의 법률유보로, 대상 범위와 규범 형식이 다름"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "생존권과 사회복지·사회보장 증진 노력 의무를 규정한 조항으로, 근로의 권리·의무, 근로조건 기준, 여자·소년 보호와 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "근로의 '의무'를 국민에게 부과하는 취지 자체(중화민국·바이마르 후보에는 대응 없음)",
+    "'여자'를 소년과 함께 보호 대상으로 묶은 구성이 일본국헌법 제27조 제3항에는 없음"
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언상 대응 관계만 확인할 수 있고, 실제 참조·영향 관계는 확정할 수 없다.",
+    "프로이센헌법·바이마르헌법은 독일어 원문으로, 번역문 대조 없이는 어휘 수준의 미세한 대응 판단에 한계가 있다."
+  ],
+  "short_answer": "일본국헌법 제27조는 '모든 국민의 근로의 권리와 의무', '근로조건 기준의 법률유보', '미성년 노동 보호'라는 3항 구성이 대상 조문과 항별로 대응하여 후속 비교에 가장 유용하다. 중화민국헌법 제153조는 '婦女兒童'의 노동에 대한 '特別之保護' 문언이 대상의 '여자와 소년의 근로는 특별한 보호를 받는다'와 구체적으로 대응하므로 제3항에 한정해 선택한다. 다만 일본 조문은 아동 '혹사 금지'라는 금지형이고 여자를 포함하지 않으며, 중화민국 조문은 연령·신체 상태 기준과 국가의 보호 부여 구조를 취하는 점이 다르다. 바이마르헌법 제157조의 '노동력의 특별한 보호'는 주제상 유사하나 보호 대상이 일반 노동력이어서 구체적 대응이 약하다. 이상은 문언상 대응 확인이며 역사적 영향의 확정은 아니다."
+}

@@ -1,0 +1,200 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_078",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "장관에 대한 국가재판소 소추 절차와 국가재판소 구성의 법률위임을 규정할 뿐, 대법원장 임명권자·의회 승인이라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_079",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "최고 사법기관 수장의 임명을 국가원수가 하되 별도 기관의 동의를 요건으로 하는 구조가 구체적으로 대응한다. 다만 동의 주체와 '지명 후 동의' 절차 구성에서 차이가 있어 그 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "임명권자와 동의 요건",
+          "target_field": "original_text",
+          "target_quote": "大統領이 任命하고 國會의 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "由總統提名，經監察院同意任命之",
+          "commonality": "국가원수가 사법부 수장 인사를 하되 다른 기관의 동의·승인을 필수 요건으로 삼는다",
+          "difference": "대상은 대통령이 임명한 뒤 국회 승인을 얻는 형식이나, 후보는 총통이 '지명'하고 감찰원 동의를 거쳐 임명하며 동의 주체가 의회가 아닌 감찰원이다"
+        },
+        {
+          "element": "대상 직위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법원장인 법관은",
+          "candidate_field": "original_text",
+          "candidate_quote": "司法院設院長副院長各一人",
+          "commonality": "최고 사법기관 수장의 임명절차를 개별 조문으로 규정한다",
+          "difference": "후보는 원장뿐 아니라 부원장 및 대법관 전원의 임명까지 함께 규율하고 정원(각 1인)을 명시하나, 대상은 대법원장 한 직위만 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출 방식·임기·재선을 규정한 조문으로, 사법부 수장 임명이라는 대상 요소와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_087",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법관을 국가원수가 임명한다는 점만 겹치고, 대상 조문의 핵심인 대법원장 특정과 의회 승인 요건이 없으며 오히려 신분보장 규정에 초점이 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VIII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 임명하되 의회 소속 기관의 동의를 얻는다는 요건이 구체적으로 대응한다. 다만 대상 범위(대법원 구성원 전원·하급법원 판사)와 동의 주체(임명위원회)에서 차이가 있어 그 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "임명권자와 입법부 측 동의",
+          "target_field": "original_text",
+          "target_quote": "大統領이 任命하고 國會의 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "shall be appointed by the President with the consent of the Commission on Appointments of the National Assembly",
+          "commonality": "대통령 임명에 입법부 계통 기관의 동의를 결합한 이중 요건",
+          "difference": "후보는 국민의회 내 '임명위원회'의 동의이고 대법원 구성원 전원과 모든 하급법원 판사에 적용되나, 대상은 국회 자체의 승인이며 대법원장에 한정된다"
+        },
+        {
+          "element": "대법원장 직위의 구별",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법원장인 법관",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Supreme Court shall be composed of a Chief Justice and ten Associate Justices",
+          "commonality": "대법원장을 다른 대법관과 구별되는 직위로 인식한다",
+          "difference": "후보는 구성 조항에서만 구별하고 임명절차는 동일하게 규율하나, 대상은 대법원장 임명에만 국회 승인을 요구한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'대법원장인 법관'이라는 직위 표현(최고재판소의 장인 재판관)과 임명 문형이 구체적으로 대응한다. 다만 임명권자와 지명 주체 구조가 달라 그 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "대상 직위의 표현 방식",
+          "target_field": "original_text",
+          "target_quote": "大法院長인 法官",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高裁判所の長たる裁判官",
+          "commonality": "최고법원의 장을 '장인 법관(재판관)'으로 표현하여 법관 신분과 원장 지위를 결합한 문형",
+          "difference": "후보는 최고재판소, 대상은 대법원이라는 기관 명칭 차이가 있다"
+        },
+        {
+          "element": "임명 절차의 이원 구조",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령이 임명하고 국회의 승인을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇は、内閣の指名に基いて",
+          "commonality": "임명 행위자와 별도의 기관 의사(지명·승인)를 결합하여 단독 임명을 배제한다",
+          "difference": "후보는 천황이 내각의 '지명'에 구속되어 임명하는 구조이나, 대상은 대통령이 임명하고 사후적으로 국회 '승인'을 요구하는 구조로 개입 기관(내각 대 국회)과 개입 방식(지명 대 승인)이 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대법원 법관 임명에 의회 일원의 동의를 요구하는 요소가 구체적으로 대응한다. 다만 동의 주체가 상원이고 대법원장만을 특정하지 않는 점에서 대응 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "임명에 대한 의회 동의",
+          "target_field": "original_text",
+          "target_quote": "大統領이 任命하고 國會의 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court",
+          "commonality": "대통령의 대법원 법관 임명에 의회의 동의를 요건으로 결합한다",
+          "difference": "후보는 양원 중 상원의 '권고와 동의'이며 대사·영사 등 다수 공직을 포괄하고 지명-동의-임명 순서이나, 대상은 국회 전체의 승인이고 대법원장 한 직위에 한정된다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_094",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…의 승인을 받아야 한다'는 문형만 유사할 뿐 규율 대상이 국가예산 편성이어서 인사 임명 요소와의 대응은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_077",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "사법원장을 총통이 임명한다는 점은 겹치나, 의회 동의 요건이 없고 임기와 국민대회에 대한 책임을 규정하여 대상 조문의 핵심 요건(국회 승인)과 대비된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_086",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 법관 임명이라는 주제는 겹치지만, 개입 기관이 연방정부·합의부 임용추천이고 의회 승인 요건이나 대법원장 특정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_043",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "최고법원장을 행정수반이 임명하되 입법기관의 인준을 요한다는 규율이 문형과 요건 모두에서 밀접하게 대응한다. 다만 임명권자 명칭과 나머지 법관 임명절차 포함 여부에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "최고법원장 임명과 입법기관 동의",
+          "target_field": "original_text",
+          "target_quote": "大法院長인 法官은 大統領이 任命하고 國會의 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高法院長은 政府主席이 任命하되 立法議院의 認准을 要함",
+          "commonality": "최고법원 수장을 행정수반이 임명하되 입법기관의 인준·승인을 필수 요건으로 하는 동일한 문장 구조",
+          "difference": "임명권자가 정부주석 대 대통령, 동의기관이 입법의원 대 국회이며, 용어도 '인준을 요함' 대 '승인을 얻어야 한다'로 다르다"
+        },
+        {
+          "element": "규율 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법원장인 법관은",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高法院院長 及 其法官 以外의 法官은 最高法院의 推薦에 依하여 政府主席이 任命함",
+          "commonality": "최고법원 수장과 그 밖의 법관 임명을 구분하여 취급한다",
+          "difference": "후보는 같은 조문에서 나머지 법관의 최고법원 추천 임명까지 규정하나, 대상 조문은 대법원장 임명만을 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "선거심사법원의 구성과 절차에 관한 규정으로, 대법원장 임명·국회 승인이라는 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_084",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 사법관 임명이라는 주제는 겹치나, 사법관직최고평의회 추천이라는 다른 통제기관을 두고 의회 승인이나 대법원장 특정 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_064",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산의 의회 협찬·사후 승낙을 규정한 조문으로, '승인' 용어만 겹칠 뿐 임명 절차와의 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "동의기관이 단원제 '국회' 전체라는 점(후보들은 상원·감찰원·임명위원회·입법의원 등으로 상이)",
+    "임명 후 승인인지 승인 후 임명인지에 관한 시점 구성",
+    "대법원장 이외 법관의 임명절차를 이 조문에 두지 않은 편성"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 실제 참조·계수 여부는 확정할 수 없다.",
+    "제공된 후보 본문 외의 자료를 사용하지 않았고, 일부 후보는 조문 전체가 아닌 관련 문구만 대응한다."
+  ],
+  "short_answer": "대상 조문의 핵심 요소는 '대법원장인 법관'이라는 직위 특정, 대통령의 임명, 국회 승인이라는 요건이다. 조선임시약헌 제43조는 '최고법원장은 정부주석이 임명하되 입법의원의 인준을 요함'으로 문형과 요건이 가장 밀접히 대응하고, 일본국헌법 제6조 제2항은 '최고재판소의 장인 재판관'이라는 직위 표현이 대응한다. 중화민국헌법 제79조, 필리핀헌법 제8장 제5절, 미국헌법 제2조는 국가원수 임명에 별도 기관(감찰원·임명위원회·상원)의 동의를 결합한 구조에서 구체적으로 대응하나, 동의 주체와 적용 대상 직위의 범위가 다르다. 프랑스 제4공화국헌법 제84조, 오스트리아 제86조, 프로이센 제87조는 법관 임명이라는 주제만 겹치고 의회 승인 요건이 없어 선택하지 않았다. 이상은 문언 대응일 뿐 역사적 참조의 확정은 아니다."
+}

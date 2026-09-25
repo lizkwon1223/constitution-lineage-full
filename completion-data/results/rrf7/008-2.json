@@ -1,0 +1,169 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_008",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항의 '법률앞에 평등' 선언과 성별·신앙 등 사유에 따른 특권/차별 배제라는 규율 요소가 문언상 대응한다. 다만 영전·훈장 조항(제3항)과 '차별을 받지 아니한다'는 금지형 구성은 대응하지 않아 비교 범위를 제1·2항 일부로 한정한다.",
+      "evidence": [
+        {
+          "element": "법 앞의 평등 선언",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律앞에 平等이며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Bundesbürger sind vor dem Gesetz gleich.",
+          "commonality": "모든 국민(연방시민)이 법 앞에 평등하다는 총칙적 선언을 첫 문장에 둔다.",
+          "difference": "주체가 '국민' 대 '연방시민(Bundesbürger)'으로 연방국가 구조를 전제하는 점이 다르다."
+        },
+        {
+          "element": "차별사유·신분특권 배제",
+          "target_field": "original_text",
+          "target_quote": "性別, 信仰 또는 社會的 身分에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Vorrechte der Geburt, des Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind ausgeschlossen.",
+          "commonality": "성별·신앙(신조)·신분을 명시적으로 열거한다.",
+          "difference": "오스트리아는 '특권(Vorrechte)의 배제'라는 특권 부정 형식이고 출생·계급을 포함하는 반면, 대상 조문은 '차별을 받지 아니한다'는 차별금지 형식이며 생활영역을 열거한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "자유권 목록(체포·수색·언론·신교 등)을 법률유보 형식으로 규정할 뿐, 평등·차별금지·특수계급·영전에 관한 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "차별사유 열거(성별·신앙 등)와 정치·경제·사회 생활 부문이라는 적용영역 열거가 제1항과 구체적으로 대응한다. 다만 제2·3항(특수계급·영전)에 대응하는 규정은 없어 비교 범위를 제1항으로 한정한다.",
+      "evidence": [
+        {
+          "element": "차별사유 열거",
+          "target_field": "original_text",
+          "target_quote": "性別, 信仰 또는 社會的 身分에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "性別·民族別·信仰·技術·財産·知識程度의 如何를 不問하고",
+          "commonality": "성별과 신앙을 포함한 사유를 열거하여 그에 따른 차등을 배제한다.",
+          "difference": "후보는 민족별·기술·재산·지식정도를 열거하고 사회적 신분을 들지 않으며, '불문하고' 형식인 반면 대상은 '사회적 신분'을 들고 '~에 의하여 차별을 받지 아니한다'는 금지형이다."
+        },
+        {
+          "element": "적용 생활영역",
+          "target_field": "original_text",
+          "target_quote": "政治的, 經濟的, 社會的 生活의 모든 領域에 있어서 差別을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家 政治·經濟·社會·文化生活部門에 있어서 同等한 權利를 가진다",
+          "commonality": "정치·경제·사회 영역을 열거하여 평등의 적용범위를 특정한다.",
+          "difference": "후보는 '문화'를 추가하고 '동등한 권리를 가진다'는 권리부여형 효과인 반면, 대상은 '모든 영역'을 포괄하며 차별금지형 효과이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법 앞의 평등과 신분적 특권 부정이라는 일반 명제는 겹치나, 차별사유 열거·생활영역·영전 규정이 없고 공직 접근 평등이라는 다른 요소를 규율하여 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "1929년 개정판과 동일 문언으로, 평등 선언과 성별·신앙·신분·계급에 따른 특권 배제가 제1항 및 특수계급 부정 취지와 대응한다. 영전·훈장 규율은 없어 대응 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "법 앞의 평등 선언",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 법률앞에 평등이며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Bundesbürger sind vor dem Gesetz gleich.",
+          "commonality": "평등 원칙을 조문 첫 문장에 총칙으로 선언한다.",
+          "difference": "주체가 연방시민이며, 대상 조문과 달리 차별금지의 구체적 영역 열거가 없다."
+        },
+        {
+          "element": "특수계급·신분특권 부정",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Vorrechte der Geburt, des Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind ausgeschlossen.",
+          "commonality": "신분·계급에 기한 특권적 지위를 헌법상 배제한다.",
+          "difference": "후보는 '특권의 배제'만 규정하고, 대상은 '제도' 자체의 불인정과 장래 창설금지까지 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_109",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "평등 선언, 출생·신분 특권 폐지, 훈장·영전 관련 규율이라는 세 요소가 대상 조문의 3개 항 구성과 부분적으로 대응한다. 다만 훈장 수여 자체를 금지하는 효과는 대상과 반대 방향이어서 대응 범위를 문형·소재 차원으로 한정한다.",
+      "evidence": [
+        {
+          "element": "신분·출생 특권 폐지",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며 如何한 形態로도 이를 創設하지 못한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Öffentlich-rechtliche Vorrechte oder Nachteile der Geburt oder des Standes sind aufzuheben. Adelsbezeichnungen gelten nur als Teil des Namens und dürfen nicht mehr verliehen werden.",
+          "commonality": "신분적 특권 제도를 부정하고 장래의 수여·창설을 금지한다.",
+          "difference": "바이마르는 기존 공법상 특권·불이익의 '폐지'와 귀족칭호의 명칭화라는 경과규정을 두는 반면, 대상은 제도의 전면 불인정과 형태 불문 창설금지를 선언한다."
+        },
+        {
+          "element": "훈장·영전의 효과",
+          "target_field": "original_text",
+          "target_quote": "勳章과 其他 榮典의 授與는 오로지 그 받은 者의 榮譽에 限한 것이며 如何한 特權도 創設되지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Orden und Ehrenzeichen dürfen vom Staat nicht verliehen werden.",
+          "commonality": "훈장·영전을 특권 창출의 수단으로 삼지 않으려는 규율 대상이 같다.",
+          "difference": "바이마르는 국가의 수여 자체를 금지(및 외국 훈장 수령 금지)하는 반면, 대상은 수여를 허용하되 효력을 수령자의 영예에 한정하고 특권 창설만 부정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "3개 항의 배열(평등·차별금지 / 특수계급·귀족제도 부정 / 영전 수여와 특권 부정)과 개별 문언이 항별로 밀접하게 대응하여 후속 비교에 가장 유용하다.",
+      "evidence": [
+        {
+          "element": "차별금지의 사유와 영역",
+          "target_field": "original_text",
+          "target_quote": "性別, 信仰 또는 社會的 身分에 依하여 政治的, 經濟的, 社會的 生活의 모든 領域에 있어서 差別을 받지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "人種、信条、性別、社会的身分又は門地により、政治的、経済的又は社会的関係において、差別されない。",
+          "commonality": "성별·사회적 신분 등을 사유로 정치적·경제적·사회적 영역에서의 차별을 금지하는 구조가 같다.",
+          "difference": "일본은 인종·문지(門地)를 포함하고 '관계(関係)'라 하며, 대상은 '신앙'을 들고 '생활의 모든 영역'으로 범위를 넓게 표현한다."
+        },
+        {
+          "element": "특수계급·귀족제도 부정",
+          "target_field": "original_text",
+          "target_quote": "社會的 特殊階級의 制度는 一切 認定되지 아니하며 如何한 形態로도 이를 創設하지 못한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "華族その他の貴族の制度は、これを認めない。",
+          "commonality": "특권적 신분제도를 헌법상 인정하지 않는다는 제2항 독립 규정을 둔다.",
+          "difference": "일본은 화족 등 기존 귀족제도를 특정해 불인정하는 데 그치나, 대상은 '사회적 특수계급'으로 일반화하고 형태 불문 창설금지까지 추가한다."
+        },
+        {
+          "element": "영전 수여의 효과",
+          "target_field": "original_text",
+          "target_quote": "勳章과 其他 榮典의 授與는 오로지 그 받은 者의 榮譽에 限한 것이며 如何한 特權도 創設되지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "栄誉、勲章その他の栄典の授与は、いかなる特権も伴はない。",
+          "commonality": "훈장·영전 수여에 어떠한 특권도 결부되지 않는다는 효과 규정을 둔다.",
+          "difference": "일본은 영전의 효력을 수령자 '일대(一代)'로 한정하는 규정을 추가하나, 대상은 효력을 '받은 자의 영예'에 한정하고 특권의 '창설'을 부정한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'如何한 形態로도 이를 創設하지 못한다'와 같이 장래의 특수계급 창설을 형태 불문으로 금지하는 문언",
+    "영전의 효력을 '오로지 그 받은 者의 榮譽에 限한 것'으로 적극 규정하는 표현"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 경위 등 역사적 영향은 확정하지 않았다.",
+    "오스트리아 1920년 원본과 1929년 개정판 후보의 제7조 원문이 동일하여 두 후보 간 우열은 제공 본문만으로 구별할 수 없다.",
+    "독일어·일본어 후보는 원문을 기준으로 비교했고 워크북 번역문의 어휘 선택에 따른 유사도 과대평가 가능성이 있다."
+  ],
+  "short_answer": "일본국헌법 제14조가 평등·차별금지, 특수계급(귀족) 제도 부정, 영전 수여와 특권 부정이라는 3개 항 구성과 개별 문언에서 가장 밀접하게 대응한다. 바이마르헌법 제109조는 평등 선언·신분특권 폐지·훈장 규율이라는 소재가 겹치나, 훈장 수여 자체를 금지한다는 점에서 효과가 반대 방향이다. 북조선 헌법안 제11조는 성별·신앙 등 사유 열거와 정치·경제·사회(문화) 생활 부문이라는 적용영역 열거에서 제1항과 구체적으로 대응하되 권리부여형이라는 점이 다르다. 오스트리아 제7조(양 판본)는 법 앞의 평등과 성별·신분·계급·신앙에 따른 특권 배제에서 제1·2항 일부와 대응한다. 프로이센 제4조는 일반적 유사성에 그치고, 조선임시약헌 제6조는 자유권 목록으로 대상 조문과 무관하다."
+}

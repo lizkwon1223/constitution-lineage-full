@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_035",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "35",
+    "original_text": "臨時緊急의 必要가 있을 때에는 大統領 또는 國會의 在籍議員 4分之 1以上의 要求에 依하여 議長은 國會의 臨時會의 集會를 公告한다.\n國會閉會中에 大統領 또는 副統領의 選擧를 行할 事由가 發生한 때에는 國會는 遲滯없이 當然히 集會한다.",
+    "workbook_text_ko": "임시긴급의 필요가 있을 때에는 대통령 또는 국회의 재적의원 4분지 1이상의 요구에 의하여 의장은 국회의 임시회의 집회를 공고한다.\n국회폐회중에 대통령 또는 부통령의 선거를 행할 사유가 발생한 때에는 국회는 지체없이 당연히 집회한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_053",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "53",
+      "original_text": "内閣は、国会の臨時会の召集を決定することができる。いづれかの議院の総議員の四分の一以上の要求があれば、内閣は、その召集を決定しなければならない。",
+      "workbook_text_ko": "내각은 국회 임시회의 소집을 결정할 수 있다. 어느 한 원(院)의 재적의원 4분의 1 이상의 요구가 있으면 내각은 그 소집을 결정하여야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_030",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "30",
+      "original_text": "國民大會遇有左列情形之一時，召集臨時會：\n一、依本憲法第四十九條之規定，應補選總統副總統時。\n二、依監察院之決議，對於總統副總統提出彈劾案時。\n三、依立法院之決議，提出憲法修正案時。\n四、國民大會代表五分之二以上請求召集時。\n國民大會臨時會，如依前項第一款或第二款應召集時，由立法院院長通告集會。依第三款或第四款應召集時，由總統召集之。",
+      "workbook_text_ko": "左記의 境遇中의 1에 該當하는 때에는 國民大會 臨時會를 召集한다.\n  1,  이憲法 第49條의 規定에 依하여 總統, 副總統을 補選하여야 하는 때\n  2,  監察院의 決議에 依하여 總統 또는 副總統에 對한 彈劾이 提出된 때\n  3,  立法院의 決議에 依하여 憲法 改正案이 提出된 때\n  4,  國民大會 代表 5分之2 以上이 召集을 要求하는 때\n  國民大會臨時會는 前項 第1款 또는 第2款에 依하여 召集하는 때에는 立法院長이 그 集會를 通告하고 第3款 또는 第4款에 依하여 召集하는 때에는 總統이 이를 召集한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_054",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "54",
+      "original_text": "衆議院が解散されたときは、解散の日から四十日以内に、衆議院議員の総選挙を行ひ、その選挙の日から三十日以内に、国会を召集しなければならない。\n２　衆議院が解散されたときは、参議院は、同時に閉会となる。但し、内閣は、国に緊急の必要があるときは、参議院の緊急集会を求めることができる。\n３　前項但書の緊急集会において採られた措置は、臨時のものであつて、次の国会開会の後十日以内に、衆議院の同意がない場合には、その効力を失ふ。",
+      "workbook_text_ko": "①중의원이 해산되었을 때에는 해산된 날로부터 40일 이내에 중의원 의원 총선거를 실시하고, 그 선거일로부터 30일 이내에 국회를 소집하여야 한다.\n②중의원이 해산되었을 때에는 참의원은 동시에 폐회된다. 다만, 내각은 국가에 긴급한 필요가 있을 때에는 참의원의 긴급집회를 요구할 수 있다.\n③제2항 단서의 긴급집회에서 채택된 조치는 임시적인 것이며 다음 국회 개회 후 10일 이내에 중의원의 동의가 없을 경우에는 그 효력을 상실한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_012",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "12",
+      "original_text": "Quand l'Assemblée nationale ne siège pas, son bureau, contrôlant l'action du Cabinet, peut convoquer le Parlement ; il doit le faire à la demande du tiers des députés ou à celle du président du Conseil des ministres.",
+      "workbook_text_ko": "국민의회가 개최되지 아니한 때에는 그 의장단은 내각의 활동을 감독하며, 국회를 소집할 수 있다. 국민의회 의원의 3분의 1의 청구 또는 국무총\n리(Président du Conseil des Ministres)의 청구가 있을 때에는 의장단은 국\n회를 소집하여야 한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "3",
+      "original_text": "Un mois avant le terme légal des pouvoirs du Président de la République, les chambres devront être réunies en Assemblée nationale pour procéder à l'élection du nouveau Président. - A défaut de convocation, cette réunion aurait lieu de plein droit le quinzième jour avant l'expiration de ces pouvoirs. - En cas de décès ou de démission du Président de la République, les deux chambres se réunissent immédiatement et de plein droit. - Dans le cas où, par application de l'article 5 de la loi du 25 février 1875, la Chambre des députés se trouverait dissoute au moment où la présidence de la République deviendrait vacante, les collèges électoraux seraient convoqués, et le Sénat se réunirait de plein droit.",
+      "workbook_text_ko": "공화국대통령의 권한의 법적 기간이 종료하기 1개월 전에, 양원\n은 새로운 대통령의 선거를 실시하기 위하여 국민의회로 합동하여야 한다.\n소집이 없을 때에는 이 집회는 대통령의 권한종료 15일 전에 당연히 한다.\n공화국대통령의 사망 또는 사직의 경우, 양원은 즉시 또 당연히 집회한다.\n대통령이 궐위된 때에 1875년 2월 25일의 법률 제5조의 적용으로 하원이\n해산되어 있는 경우에는 선거단을 소집하며, 상원은 당연히 집회한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_015",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "15",
+      "original_text": "立法議院의 召集 開會 休會 及 閉會는 院이 스스로 行함 但 議員 總選擧 後 最初의 召集은 政府主席이 行함\n立法議院 定例會는 每年 一回 十二月 中에 議長이 召集하되 그 會期는 六十日로 함\n立法議院 臨時會는 在籍議員 四分之一 以上의 要求나 또는 政府主席의 要請에 依하여 議長이 召集함",
+      "workbook_text_ko": "입법의원의 소집·개회·휴회 및 폐회는 원이 스스로 행함. 단, 의원 총선거 후 최초의 소집은 정부주석이 행함.\n입법의원 정례회는 매년 1회 12월 중에 의장이 소집하되 그 회기는 60일로 함.\n입법의원 임시회는 재적의원 4분의 1 이상의 요구나 또는 정부주석의 요청에 의하여 의장이 소집함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_069",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "69",
+      "original_text": "立法院遇有左列情事之一時，得開臨時會：\n一、總統之咨請。\n二、立法委員四分之一以上之請求。",
+      "workbook_text_ko": "立法院은 左記의 境遇中의 1에 該當하는 때에는 臨時會를 열 수 있다.\n  1.  總統의 要請이 있을 때\n  2.  立法委員 4分之1以上의 要求가 있을 때"
+    }
+  ]
+}

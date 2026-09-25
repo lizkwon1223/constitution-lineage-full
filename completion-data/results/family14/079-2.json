@@ -1,0 +1,169 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_079",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "임기를 정하는 문형만 같을 뿐 대상은 법관(10년·연임 허용), 후보는 최고인민회의 대의원(3년·연임 규정 없음)으로 주체·연수·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회 의원 선출 임기 4년과 임기만료 전 재선거 의무를 정한 규정으로, 법관 임기·연임이라는 대상의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_060",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방대통령 선출절차·임기 4년·재선 1회 제한·피선자격을 규정한 조문으로, 주체와 규율 대상이 법관 임기·연임과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_X",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'term of ten years'라는 10년 임기 표현은 겹치나, 대상 직위가 감사원장이고 효과도 재임명 금지(may not be reappointed)로 연임 허용인 대상과 정반대여서 대비 사례로만 의미가 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_068",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'任期…連任' 문형은 유사하나 주체가 입법위원, 기간이 3년, 연임요건이 재선(連選)이어서 법관 10년·법률에 의한 연임이라는 대상의 구체 요소와 어긋난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_080",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "재판관(법관)의 임기를 10년으로 정하고 재임(연임)을 허용하는 규율이 주체·연수·효과에서 구체적으로 대응한다. 다만 대상은 법률에 의한 연임을 규정한 반면 후보는 법률이 정한 연령 도달 시 퇴관을 함께 규정한다.",
+      "evidence": [
+        {
+          "element": "법관의 임기 연수",
+          "target_field": "original_text",
+          "target_quote": "法官의 任期는 10年으로 하되",
+          "candidate_field": "original_text",
+          "candidate_quote": "その裁判官は、任期を十年とし",
+          "commonality": "재판을 담당하는 법관의 임기를 10년으로 명시한다.",
+          "difference": "후보는 하급재판소 재판관에 한정되나 대상은 법관 일반에 적용된다."
+        },
+        {
+          "element": "연임(재임) 허용",
+          "target_field": "original_text",
+          "target_quote": "連任할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "再任されることができる",
+          "commonality": "임기 만료 후 다시 직을 맡을 수 있음을 허용하는 효과가 같다.",
+          "difference": "대상은 '법률의 정하는 바에 의하여'라는 법률유보를 연임에 붙였으나 후보에는 그러한 조건이 없다."
+        },
+        {
+          "element": "법률유보의 위치",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律の定める年齢に達した時には退官する",
+          "commonality": "임기 규정에 법률이 정하는 바를 연결하는 문형을 공유한다.",
+          "difference": "후보의 법률유보는 정년 퇴관의 요건이고, 대상의 법률유보는 연임의 요건이어서 규율 대상이 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_093",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기와 연임을 한 문장으로 규정하는 문형은 비슷하지만 주체가 감찰위원, 기간이 6년, 연임요건이 連選이어서 구체 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출방식과 7년 임기·재선 가능을 규정한 것으로, 주체와 임기 연수가 대상과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 임기 7년·재선 허용과 국민투표 파면·형사소추 제한을 규정하여 법관 임기·연임 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원 구성·6년 임기·결원 보충 절차에 관한 규정으로 대상의 법관 임기·연임과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 7년 임기와 1회 재선 제한을 정한 규정으로 주체·연수·연임 제한 방식이 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_018",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률이 정하는 바에 따른다'는 법률유보 문형만 겹칠 뿐, 신민 요건이라는 규율 대상이 법관 임기·연임과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'法官의 任期는 十年으로 하되 連任할 수 있음'이라는 주체·연수·효과와 문장 구조가 대상 조문과 거의 그대로 일치한다. 다만 후보의 단서(정년 퇴관)가 대상에는 없고, 대상은 연임에 법률유보를 붙인 점이 다르다.",
+      "evidence": [
+        {
+          "element": "주체와 임기 연수",
+          "target_field": "original_text",
+          "target_quote": "法官의 任期는 10年으로 하되",
+          "candidate_field": "original_text",
+          "candidate_quote": "法官의 任期는 十年으로 하되",
+          "commonality": "'법관의 임기는 10년으로 하되'라는 동일한 주어·기간·접속 어미를 사용한다.",
+          "difference": "연수 표기가 아라비아 숫자와 한자 수사로 다를 뿐 규율 내용은 같다."
+        },
+        {
+          "element": "연임 허용 효과",
+          "target_field": "original_text",
+          "target_quote": "連任할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "連任할 수 있음",
+          "commonality": "연임을 허용하는 효과와 표현이 일치한다.",
+          "difference": "대상은 연임에 '法律의 定하는 바에 依하여'라는 법률유보를 두었으나 후보는 무조건적으로 연임을 허용한다."
+        },
+        {
+          "element": "예외·단서",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여 연임할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "但 法律이 定한 年齡에 達한 때에는 退官함",
+          "commonality": "임기 규정에 법률이 정하는 기준을 결합시키는 구조를 공유한다.",
+          "difference": "후보는 정년 도달 시 퇴관이라는 예외 단서를 두지만 대상에는 그러한 단서가 없고 법률유보가 연임 요건으로 옮겨져 있다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "제1원의 입법기 6년을 정한 규정으로, 법관 임기·연임과 주체·효과가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "연임을 '법률의 정하는 바에 의하여' 하도록 한 법률유보 방식(후보들에서는 연임 요건이 아니라 정년 또는 재선 요건으로 나타남)",
+    "정년(퇴관) 단서를 두지 않은 점"
+  ],
+  "limitations": [
+    "문언상의 대응 여부만 검토했으며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "독일어·프랑스어·영어 후보에 대한 판단 일부는 제공된 번역문 이해에 의존한다."
+  ],
+  "short_answer": "대상 조문과 구체적으로 대응하는 후보는 조선임시약헌(1947) 제45조와 일본국헌법 제80조이다. 두 후보 모두 법관(재판관)이라는 주체, 10년이라는 임기, 연임(재임) 허용이라는 효과가 대상과 일치하며, 특히 약헌 제45조는 '法官의 任期는 十年으로 하되 連任할 수 있음'이라는 문언까지 거의 동일하다. 차이는 두 후보가 법률이 정한 연령 도달 시 퇴관이라는 단서를 두는 반면, 대상은 그 단서를 삭제하고 '법률의 정하는 바에 의하여'라는 법률유보를 연임 요건으로 옮긴 점이다. 필리핀헌법 제10조 제1절은 10년 임기라는 수치는 겹치나 대상 직위가 감사원장이고 재임명을 금지하여 대비 사례에 그친다. 중화민국 조문들과 각국 대통령·의원 임기 규정은 '임기+연임' 문형만 공유할 뿐 주체·연수·연임 요건이 달라 선택하지 않았다."
+}

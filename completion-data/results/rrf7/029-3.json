@@ -1,0 +1,147 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_029",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(국민)·법률유보('법률의 정하는 바에 의하여')·효과(납세의무를 진다)가 어순까지 거의 일대일로 대응하는 단문 규정이다.",
+      "evidence": [
+        {
+          "element": "법률유보 문형",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律の定めるところにより",
+          "commonality": "의무 부과를 법률이 정하는 바에 위임하는 동일한 문형",
+          "difference": "대상은 '依하여', 후보는 'により'로 표기 언어가 다르나 구조는 같음"
+        },
+        {
+          "element": "의무 주체와 효과",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "国民は、",
+          "commonality": "주체를 '국민'으로 하고 납세의무를 진다는 효과로 종결",
+          "difference": "대상은 '모든'이라는 전칭 수식어를 추가함"
+        },
+        {
+          "element": "의무의 내용",
+          "target_field": "original_text",
+          "target_quote": "納稅의 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "納税の義務を負ふ",
+          "commonality": "납세의무 하나만을 독립 조문으로 규정",
+          "difference": "서술어 표현('진다'/'負ふ')만 상이"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률이 정하는 바에 의한 납세의 의무'라는 동일 어휘 조합이 그대로 나타나며 주체도 국민이다. 다만 후보는 교육·병역·노동을 포함한 의무 열거 조항이어서 조문 구성 단위가 다르다.",
+      "evidence": [
+        {
+          "element": "납세의무의 법률유보 문언",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 納稅의 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律이 定하는 바에 依한 納稅의 義務",
+          "commonality": "'법률이 정하는 바에 의한 납세의 의무'라는 동일한 한국어 법문 표현",
+          "difference": "대상은 독립 조문으로 '진다'라는 서술어를 쓰고, 후보는 열거 항목의 명사구로 '의무에 복종하여야 함'에 연결됨"
+        },
+        {
+          "element": "의무 주체",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "國民은 左記 各項의 義務에 服從하여야 함",
+          "commonality": "주체를 '국민'으로 설정",
+          "difference": "후보는 납세 외 교육·병역·노동 의무를 한 조문에 묶어 규정하고 '복종'이라는 표현을 사용"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_020",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'人民有依法律…之義務'라는 동일 문형이지만 의무의 내용이 병역이어서 대상 조문의 규율 대상(납세)과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_021",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "납세의무를 법률에 따라 부담시키는 단문 규정으로 규율 내용이 동일하다. 다만 주체가 '人民'이고 법률유보 표현이 '依法律'로 더 간결하다.",
+      "evidence": [
+        {
+          "element": "의무 내용과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 納稅의 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有依法律納稅之義務",
+          "commonality": "법률에 따라 납세의무를 진다는 단일 문장 규정",
+          "difference": "주체가 '國民'이 아닌 '人民'이며, '법률의 정하는 바에 의하여' 대신 '依法律'로 표현되어 법률유보 문구가 축약됨"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_019",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "납세의무와 법률유보라는 규율 요소가 동일한 단문이다. 주체가 '人民'이고 문구가 축약된 점에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "의무 내용과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "納稅의 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有依法律納稅之義務",
+          "commonality": "납세의무를 법률에 근거해 부담시키는 동일 규율",
+          "difference": "주체가 '人民'이고 '定하는 바에' 같은 수식이 없이 '依法律'로 간략함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_021",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법률이 정하는 바에 따라 납세의 의무를 가진다'는 구조가 대상 조문과 요소별로 대응한다. 다만 주체가 '日本臣民'으로 신민 개념인 점이 다르다.",
+      "evidence": [
+        {
+          "element": "법률유보 문형",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律ノ定ムル所ニ従ヒ",
+          "commonality": "'법률이 정하는 바'라는 수식구를 두어 의무 범위를 법률에 위임",
+          "difference": "후보는 '従ヒ(따라)', 대상은 '依하여'"
+        },
+        {
+          "element": "의무 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本臣民ハ",
+          "commonality": "국가 구성원 전체를 납세의무 주체로 삼음",
+          "difference": "후보는 '臣民'이라는 군주제적 주체 개념을 사용"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'すべて国民は、法律の定めるところにより' 문두 형식은 유사하나 규율 내용이 교육을 받을 권리와 취학 의무여서 납세의무라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [],
+  "limitations": [
+    "문언 대응만을 확인한 것이며 실제 참조 관계나 기초 과정의 영향은 제공 본문만으로 확정할 수 없다.",
+    "중화민국 후보의 워크북 한국어 번역문은 대상 조문과 표현이 거의 일치하나, 이는 번역 과정의 영향일 수 있어 원문 기준으로 비교했다."
+  ],
+  "short_answer": "일본국헌법 제30조는 주체·법률유보·납세의무라는 세 요소가 대상 조문과 어순까지 대응하여 가장 근접한 문언 대응을 보인다. 조선임시약헌 제9조는 '법률이 정하는 바에 의한 납세의 의무'라는 한국어 표현이 그대로 일치하지만, 교육·병역·노동과 함께 열거된 복합 의무 조항이라는 점에서 조문 단위가 다르다. 중화민국 五五憲草 제21조와 1947년 헌법 제19조는 '人民有依法律納稅之義務'로 규율 내용은 같으나 주체가 '人民'이고 법률유보 문구가 축약되어 있다. 대일본제국헌법 제21조도 동일 구조이나 주체가 '臣民'이다. 중화민국헌법 제20조(병역)와 일본국헌법 제26조(교육)는 문형은 비슷해도 의무의 내용이 달라 선택하지 않았다."
+}

@@ -1,0 +1,69 @@
+{
+  "article": 29,
+  "reviewed_at": "2026-09-22T15:29:08.309150+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "03f785cee93c4987da43fad02dc5c63ed76dddf6da9650e3c37c720687e1077c",
+  "input_sha256": "d5b96edbe50da1f52e95fbdeab1a68ed4863bb99957e7b8f37eab6e56b41305e",
+  "responses": [
+    {
+      "job_id": "029_310839f0f213_r1",
+      "repeat": 1,
+      "sha256": "2c534765d356bca37680de766a7c64347d006241fda3a79125d8b9b7cfc5a196",
+      "assessment": "일본 두 헌법·약헌·중화민국 두 조문의 법률에 따른 납세의무 대응은 명확함. 바이마르에도 법률에 따른 공공부담 문구가 있으므로 이를 법률유보형과 대조되는 사례로 요약한 것은 부정확함. 모든이라는 표현은 바이마르·프로이센 원문에 있어 요소 단위 미설명으로 남기지 않아야 함."
+    },
+    {
+      "job_id": "029_310839f0f213_r2",
+      "repeat": 2,
+      "sha256": "c191af14d747f7578a1ff197046cd506f3f5ba0427cf112b3895a379d017e830",
+      "assessment": "다섯 후보의 주요 대응과 번역 의존성 구별은 타당함. 자력 비례 기준이 추가되었다는 이유로 바이마르의 법률유보 구조를 놓쳐서는 안 됨. 대상에도 없는 세목·세율의 구체화는 미설명 대상 요소가 아님."
+    },
+    {
+      "job_id": "029_310839f0f213_r3",
+      "repeat": 3,
+      "sha256": "630b21c54100b580e78df3a2658dd8f553e0fb99476fce08a7fc04a9a1db6d88",
+      "assessment": "주요 선택 후보의 대응은 타당함. 바이마르의 공공부담은 납세보다 넓은 범주이고 법률 준거도 있으므로 자력 비례와 법률유보를 배타적으로 대조한 요약을 보정해야 함. 모든이라는 전칭 표현의 대응을 다른 요소의 차이 때문에 부정할 필요는 없음."
+    }
+  ],
+  "synthesis": "일본 제30조와 일본 1889년 제21조, 약헌 제9조 제2호, 중화민국 초안 제21조 및 헌법 제19조는 국민·법률유보·납세의무라는 구성요소에 직접 대응함. 주체 명칭과 어순, 의무 열거의 형식에 차이가 있음. 바이마르 제134조도 모든 국민이 법률에 따라 공공부담에 기여한다는 구조를 가지며 부담 범위를 넓히고 자력 비례 기준을 추가함. 따라서 법률유보가 없는 사례로 대조해서는 안 됨. 북한 제29조는 경제적 형편에 따른 조세 납부를 명시하되 해당 문장에 법률유보를 두지 않음. 경제적 부담 기준과 법률에 의한 부과는 서로 배타적인 원칙이 아니므로 직접 대응 요소와 추가 기준을 나누어 읽음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "type": "summary_false_opposition",
+      "severity": "material",
+      "finding": "바이마르의 자력 비례 기준을 법률유보형인 대상과 대조되는 이유로 제시하지만 후보에도 nach Maßgabe der Gesetze가 있음.",
+      "action": "법률유보라는 공통점과 자력 비례·공공부담 범위라는 차이를 병기하고 부분 대응을 보충함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "모든이라는 표현을 미설명 요소로 두지만 바이마르의 Alle Staatsbürger 및 프로이센의 Alle Preußen이 대응함.",
+      "action": "전칭 주체 표현의 대응을 인정하고 부담 내용의 차이와 분리함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": null,
+      "type": "non_target_element",
+      "severity": "minor",
+      "finding": "대상에도 없는 세목·세율 등 과세요건의 구체화를 미설명 요소로 제시함.",
+      "action": "해당 항목을 대상 요소의 누락 평가에서 제외함."
+    }
+  ],
+  "limits": [
+    "자력 비례 문구가 해당 조문에 없다는 이유로 그 원칙 자체를 부정한다고 해석하지 않음.",
+    "납세의무 조항의 법률유보와 세목·세율 등 개별 과세요건의 규정은 구분함."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "article": 79,
+  "reviewed_at": "2026-09-22T16:22:25.629278+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "c1c917c5c919cea13767c1b12e38d62522e8ca07a71f8007742162b831a958de",
+  "input_sha256": "3e647b65f119787dab0343e548ba95d3358bd29d06311a1dd48d6962f2ae7c29",
+  "responses": [
+    {
+      "job_id": "079_287e9c732c37_r1",
+      "repeat": 1,
+      "sha256": "bfd62afadd4b522eaadd39fc8469b5f70ce37ee385e8a63e7839c3fd4f8fc8ef",
+      "assessment": "10년 임기와 연임의 직접 대응은 적절함. 약헌의 정년 단서를 남겨야 함."
+    },
+    {
+      "job_id": "079_287e9c732c37_r2",
+      "repeat": 2,
+      "sha256": "dce9bc9fbc0a6f3f9b5374f48b16437552dbddd709cbd421eae793cc5ab63e1c",
+      "assessment": "일본의 하급재판소 재판관과 대상의 법관 범위를 구분함. 실제 문안 수정 과정으로 읽힐 표현은 조정해야 함."
+    },
+    {
+      "job_id": "079_287e9c732c37_r3",
+      "repeat": 3,
+      "sha256": "6d665b091df67b8e0835e2626d3ad0d96e28ed92619a185b3f5833a7857c5721",
+      "assessment": "임기·재임용·정년을 구분한 비교는 대체로 적절함. 무조건 연임이라는 표현은 지나치게 넓음."
+    }
+  ],
+  "synthesis": "약헌 제45조는 법관의 10년 임기와 연임 가능성에 직접 대응하며 법정 연령에 이르면 퇴관한다는 단서를 둠. 일본 제80조도 10년 임기와 재임용을 결합하나 적용 대상은 하급재판소 재판관임. 제헌헌법은 연임을 법률이 정하는 바에 따르도록 규정함. 약헌에 연임의 별도 법률유보가 없다는 점과 정년 제한이 없다는 주장은 구별해야 함. 서로 다른 직위의 10년 임기만으로 제도적 대응을 넓히지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "qualification_precision",
+      "finding": "약헌의 연임을 무조건이라고 부르나 같은 조문에 법정 정년에 따른 퇴관 단서가 있음.",
+      "action": "연임에 별도 법률유보를 적지 않았다고 한정하고 정년 단서를 병기함.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_045",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "historical_inference",
+      "finding": "정년 단서를 삭제하고 법률유보를 옮겼다고 서술하여 실제 수정 경로를 암시함.",
+      "action": "문언의 위치와 포함 요소 차이로 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

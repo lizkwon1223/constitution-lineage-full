@@ -1,0 +1,103 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_033",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_068",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 임기를 헌법에 명시한다는 주제는 같으나 임기 연수(3년)가 다르고, 대상 조문에 없는 '連選得連任'(재선 연임) 규율이 추가되어 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_046",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기 규정이라는 점만 같고 임기 6년, 3년마다 반수 개선이라는 대상 조문에 없는 절차가 핵심이어서 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원 임기를 '4년'으로 정하는 수치와 '…의 임기는 4년으로 한다'는 단문 형식이 그대로 대응한다. 다만 해산 시 임기 조기 종료라는 단서는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "임기 연수",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院議員の任期は、四年とする。",
+          "commonality": "선출직 의원의 임기를 4년으로 확정하는 동일한 수치와 단문 규정 형식",
+          "difference": "대상은 단원제 '국회의원' 전체를 대상으로 하나, 후보는 양원 중 중의원 의원에 한정된다"
+        },
+        {
+          "element": "예외·단서",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 임기는 4년으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但し、衆議院解散の場合には、その期間満了前に終了する。",
+          "commonality": "임기 규정을 본문으로 두는 구조",
+          "difference": "후보는 해산 시 임기 만료 전 종료라는 예외를 명시하나 대상 조문에는 단서가 전혀 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'議員의 任期는 …으로 함'이라는 한국어 조문 문형이 대상과 거의 일치한다. 다만 연수가 3년으로 다르므로 문형 차원의 대응으로 한정한다.",
+      "evidence": [
+        {
+          "element": "조문 문형(임기 규정)",
+          "target_field": "original_text",
+          "target_quote": "議員의 任期는 4年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員의 任期는 三年으로 함",
+          "commonality": "'의원의 임기는 N년으로'라는 동일한 국한문 단문 구성과 다른 부가 요건 없는 단순 규정 방식",
+          "difference": "연수가 4년 대 3년으로 다르고, 대상은 '國會議員', 후보는 '議員'으로 주체 표기와 종결어미('한다'/'함')가 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 개인의 임기가 아니라 제1원의 입법기(6년)를 정한 규정으로, 주체와 수치 모두 대상과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_065",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기 3년에 연임 허용과 선거 시기(임기 만료 전 3개월) 절차까지 규정하여, 단순 임기 4년만 정한 대상 조문과 구체적 규율 요소가 어긋난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…代議員의 任期는 三年으로 한다'는 문장 구조와 종결 표현이 대상과 동일하여 문형 대응이 뚜렷하다. 다만 임기 연수와 대상 기관·직위 명칭이 다르므로 대응 범위는 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "조문 문형·종결 형식",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高人民會議 代議員의 任期는 三年으로 한다.",
+          "commonality": "'[기관] 의원의 任期는 N年으로 한다'는 동일한 국한문 단문과 종결 표현",
+          "difference": "임기 연수가 4년 대 3년이고, 주체가 국회의원 대 최고인민회의 대의원으로 다르다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'國會議員'이라는 단원제 국회 구성원 명칭 자체의 채택 근거",
+    "임기 4년을 택하되 해산·연임·보궐 등 부가 규율을 두지 않은 선택"
+  ],
+  "limitations": [
+    "제공된 조문 본문만으로 비교했으므로 문언 대응 여부만 확인되며 실제 참조·계수 관계는 확정할 수 없다.",
+    "각 후보의 상위·인접 조문(선거제도, 해산 규정 등) 맥락이 제공되지 않아 차이의 의미를 충분히 평가하기 어렵다."
+  ],
+  "short_answer": "대상 조문은 부가 요건 없이 국회의원 임기를 4년으로 정한 단문이다. 수치까지 일치하는 것은 일본국헌법 제45조 전단('衆議院議員の任期は、四年とする')이며, 다만 해산 시 임기 조기 종료 단서는 대상에 없다. 조선임시약헌 제11조와 북한 헌법안 제36조는 '의원의 任期는 N年으로 한다/함'이라는 한국어 조문 문형이 대상과 거의 동일하지만 연수는 3년으로 다르다. 중화민국 초안·헌법과 프로이센 헌법은 연임 허용, 선거 시기, 입법기 개념 등 대상에 없는 요소가 중심이어서 주제상 유사에 그친다. 이상은 문언 대응에 관한 판단이며 역사적 영향의 확정은 아니다."
+}

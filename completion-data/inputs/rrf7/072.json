@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_072",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "72",
+    "original_text": "左의 事項은 國務會議의 議決을 經하여야한다.\n1. 國政의 基本的 計劃과 政策\n2. 條約案, 宣戰, 講和 其他 重要한 對外政策에 關한 事項\n3. 憲法改正案, 法律案, 大統領令案\n4. 豫算案, 決算案, 財政上의 緊急處分案, 豫備費支出에 關한 事項\n5. 臨時國會의 集會要求에 關한 事項\n6. 戒嚴案, 解嚴案\n7. 軍事에 關한 重要事項\n8. 榮譽授與, 赦免, 減刑, 復權에 關한 事項\n9. 行政各部間의 連絡事項과 權限의 劃定\n10. 政府에 提出 또는 廻付된 請願의 審査\n11. 大法官, 檢察總長, 審計院長, 國立大學總長, 大使, 公使, 國軍總司令官, 國軍參謀總長, 其他 法律에 依하여 指定된 公務員과 重要 國營企業의 管理者의 任免에 關한 事項\n12. 行政各部의 重要한 政策의 樹立과 運營에 關한 事項\n13. 其他 國務總理 또는 國務委員이 提出하는 事項",
+    "workbook_text_ko": "좌의 사항은 국무회의의 의결을 경하여야한다.\n1. 국정의 기본적 계획과 정책\n2. 조약안, 선전, 강화 기타 중요한 대외정책에 관한 사항\n3. 헌법개정안, 법률안, 대통령령안\n4. 예산안, 결산안, 재정상의 긴급처분안, 예비비지출에 관한 사항\n5. 임시국회의 집회요구에 관한 사항\n6. 계엄안, 해엄안\n7. 군사에 관한 중요사항\n8. 영예수여, 사면, 감형, 복권에 관한 사항\n9. 행정각부간의 연락사항과 권한의 획정\n10. 정부에 제출 또는 회부된 청원의 심사\n11. 대법관, 검찰총장, 심계원장, 국립대학총장, 대사, 공사, 국군총사령관, 국군참모총장, 기타 법률에 의하여 지정된 공무원과 중요 국영기업의 관리자의 임면에 관한 사항\n12. 행정각부의 중요한 정책의 수립과 운영에 관한 사항\n13. 기타 국무총리 또는 국무위원이 제출하는 사항"
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_029",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "29",
+      "original_text": "左의 事項은 國務會議의 議決을 經하여야 함\n一 法律案 委任命令案 執行命令案 豫算案\n二 戒嚴案 解嚴案 及 恩赦案\n三 條約案 其他 重要한 國際事案\n四 立法議院에서 回付된 事案\n五 行政 各部間의 連絡事項 及 權限 爭議\n六 五等級 以上의 公務員의 任免에 關한 事項\n七 其他 重要한 政策의 樹立 運營에 關한 事項",
+      "workbook_text_ko": "아래의 사항은 국무회의의 의결을 거쳐야 함.\n1. 법률안·위임명령안·집행명령안·예산안\n2. 계엄안·해엄안 및 은사안\n3. 조약안, 기타 중요한 국제사안\n4. 입법의원에서 회부된 사안\n5. 행정 각 부 간의 연락사항 및 권한 쟁의\n6. 5등급 이상의 공무원의 임면에 관한 사항\n7. 기타 중요한 정책의 수립·운영에 관한 사항"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_063",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "63",
+      "original_text": "立法院有議決法律案，預算案，戒嚴案，大赦案，宣戰案，媾和案，條約案及國家其他重要事項之權。",
+      "workbook_text_ko": "立法院은 法律案, 豫算案, 戒嚴案, 大赦案, 宣戰案, 講和案, 條約案 및 國家의 其他 重要事項을 議決하는 權限을 가진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_058",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "58",
+      "original_text": "行政院設行政院會議，由行政院院長，副院長，各部會首長及不管部會之政務委員組織之，以院長為主席。\n行政院院長，各部會首長，須將應行提出於立法院之法律案，預算案，戒嚴案，大赦案，宣戰案，媾和案，條約案及其他重要事項，或涉及各部會共同關係之事項，提出於行政院會議議決之。",
+      "workbook_text_ko": "行政院에 行政院 會議를 두고 行政院長, 副院長, 各部 및 會의 長과 無任所 政務委員으로써 이를 組織하며 院長을 그 議長으로 한다.\n  行政院長과 各部 및 會의 長은 立法院에 提出하는 法律案, 豫算案, 戒嚴案, 大赦案, 宣戰案, 講和案, 條約案 및 其他 重要事項 또는 各部 및 會에 共同으로 關聯되는 事項에 關하여 이를 行政院會議에 提出하여 議決하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_064",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "64",
+      "original_text": "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案、及其他關於重要國際事項之權。",
+      "workbook_text_ko": "입법원은 법률안·예산안·계엄안·대사안·선전안·강화안·조약안 및 그 밖의 중요한 국제사항을 의결할 권한을 가진다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_010",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "10",
+      "original_text": "Bundessache ist die Gesetzgebung und die Vollziehung in folgenden Angelegenheiten:\n1. Bundesverfassung, insbesondere Wahlen zum Nationalrat, Volksabstimmungen auf Grund der Bundesverfassung; Verfassungsgerichtsbarkeit;\n2. äußere Angelegenheiten mit Einschluß der politischen und wirtschaftlichen Vertretung gegenüber dem Ausland, insbesondere Abschluß aller Staatsverträge; Grenzvermarkung; Waren- und Viehverkehr mit dem Ausland; Zollwesen;\n3. Regelung und Überwachung des Eintrittes in das Bundesgebiet und des Austrittes aus ihm; Ein- und Auswanderungswesen; Paßwesen; Abschiebung, Abschaffung, Ausweisung und Auslieferung aus dem Bundesgebiet sowie Durchlieferung;\n4. Bundesfinanzen, insbesondere öffentliche Abgaben, die ausschließlich oder teilweise für den Bund einzuheben sind; Monopolwesen;\n5. Geld-, Kredit-, Börse- und Bankwesen; Maß- und Gewichts-, Normen- und Punzierungswesen;\n6. Zivilrechtswesen einschließlich des wirtschaftlichen Assoziationswesens; Strafrechtswesen mit Ausschluß des Verwaltungsstrafrechtes und Verwaltungsstrafverfahrens in Angelegenheiten, die in den selbständigen Wirkungsbereich der Länder fallen; Justizpflege; Verwaltungsgerichtsbarkeit; Urheberrecht; Pressewesen; Enteignung, soweit sie nicht Angelegenheiten betrifft, die in den selbständigen Wirkungsbereich der Länder fallen; Angelegenheiten der Notare, der Rechtsanwälte und verwandter Berufe;\n7. Vereins- und Versammlungsrecht;\n8. Angelegenheiten des Gewerbes und der Industrie; Bekämpfung des unlauteren Wettbewerbes; Patentwesen sowie Schutz von Mustern, Marken und anderen Warenbezeichnungen; Angelegenheiten der Patentanwälte; Ingenieur- und Ziviltechnikerwesen; Kammern für Handel, Gewerbe und Industrie;\n9. Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und der Luftfahrt; Angelegenheiten der wegen ihrer Bedeutung für den Durchzugsverkehr durch Bundesgesetz als Bundesstraßen erklärten Straßenzüge; Strom- und Schiffahrtspolizei; Post-, Telegraphen- und Fernsprechwesen;\n10. Bergwesen; Regulierung und Instandhaltung der schiffbaren und flößbaren Gewässer, dann solcher Gewässer, die die Grenze gegen das Ausland oder zwischen Ländern bilden oder die zwei oder mehrere Länder durchfließen; Bau und Instandhaltung derjenigen Wasserstraßen, die das Inland mit dem Ausland oder mehrere Länder verbinden; allgemeine technische Maßnahmen für die zweckmäßige Nutzbarmachung der Wasserkräfte ausschließlich der landwirtschaftlichen und kleingewerblichen Triebwerke; Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen, Sicherheitsmaßnahmen auf diesem Gebiete; Starkstromwegerecht, soweit sich die Leitungsanlage auf zwei oder mehrere Länder erstreckt; Dampfkessel- und Kraftmaschinenwesen; Vermessungswesen;\n11. Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich nicht um land- und forstwirtschaftliche Arbeiter und Angestellte handelt; Sozial- und Vertragsversicherungswesen;\n12. Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens, hinsichtlich der Heil- und Pflegeanstalten, des Kurortewesens und der Heilquellen jedoch nur die sanitäre Aufsicht; Veterinärwesen; Ernährungswesen einschließlich der Nahrungsmittelkontrolle;\n13. wissenschaftlicher und fachtechnischer Archiv- und Bibliotheksdienst; Angelegenheiten der künstlerischen und wissenschaftlichen Sammlungen und Einrichtungen; Denkmalschutz; Angelegenheiten des Kultus; Volkszählungswesen sowie sonstige Statistik, soweit sie nicht nur den Interessen eines einzelnen Landes dient; Stiftungs- und Fondswesen, soweit es sich um Stiftungen und Fonds handelt, die nach ihren Zwecken über den Interessenbereich eines Landes hinausgehen und nicht schon bisher von den Ländern autonom verwaltet wurden;\n14. Bundespolizei und Bundesgendarmerie;\n15. militärische Angelegenheiten; Kriegsschadenangelegenheiten und Fürsorge für Kriegsteilnehmer und deren Hinterbliebene; aus Anlaß eines Krieges oder im Gefolge eines solchen zur Sicherung der einheitlichen Führung der Wirtschaft notwendig erscheinende Maßnahmen, insbesondere auch hinsichtlich der Versorgung der Bevölkerung mit Bedarfsgegenständen;\n16. Einrichtung der Bundesbehörden und sonstigen Bundesämter; Dienstrecht der Bundesangestellten.",
+      "workbook_text_ko": "다음 사항의 입법 및 집행은 연방의 소관이다.\n1. 연방헌법, 특히 국민의회 선거와 연방헌법에 따른 국민투표, 헌법재판.\n2. 외국에 대한 정치적·경제적 대표를 포함한 대외관계, 특히 모든 국가조약의 체결, 국경의 표지 설치, 외국과의 상품 및 가축 거래, 관세제도.\n3. 연방영토에 들어오고 나가는 것의 규율 및 감독, 이민과 출국이민, 여권, 연방영토 밖으로의 강제송환·퇴거·추방 및 범죄인 인도와 인도 대상자의 통과.\n4. 연방재정, 특히 전부 또는 일부를 연방을 위하여 징수하는 공과금, 전매제도.\n5. 화폐·신용·거래소 및 은행제도, 도량형·규격 및 귀금속 검인제도.\n6. 경제적 결사에 관한 사항을 포함한 민사법, 주의 독자적 권한에 속하는 사항의 행정형벌법 및 행정형벌절차를 제외한 형사법, 사법작용, 행정재판, 저작권, 언론, 주의 독자적 권한에 속하는 사항과 관계없는 수용, 공증인·변호사 및 관련 직역에 관한 사항.\n7. 결사 및 집회의 법.\n8. 영업 및 공업에 관한 사항, 부정경쟁의 방지, 특허제도와 의장·상표 및 그 밖의 상품표지의 보호, 변리사에 관한 사항, 기술사 및 민간 공인기술자 제도, 상업·영업 및 공업 회의소.\n9. 철도·선박운항 및 항공에 관한 교통제도, 통과교통에서의 중요성 때문에 연방법률로 연방도로로 지정된 도로에 관한 사항, 하천 및 선박운항 경찰, 우편·전신 및 전화제도.\n10. 광업, 항행 또는 목재 유송이 가능한 수역과 외국과의 경계 또는 주 사이의 경계를 이루거나 둘 이상의 주를 흐르는 수역의 정비 및 유지, 국내와 외국 또는 여러 주를 연결하는 수로의 건설 및 유지, 농업 및 소규모 영업의 동력장치를 제외한 수력의 적절한 이용을 위한 일반적 기술 조치, 전기설비 및 장치의 규격화·표준화와 그 분야의 안전조치, 송전설비가 둘 이상의 주에 걸치는 경우의 강전류 선로권, 증기보일러 및 동력기계 제도, 측량제도.\n11. 농림업의 노동자 및 직원을 제외한 노동법과 노동자·직원 보호, 사회보험 및 계약보험 제도.\n12. 시체·장례 제도와 지방자치단체의 보건업무 및 구조업무를 제외한 보건제도. 다만 치료·요양시설, 요양지 및 약수에 관하여는 위생감독에 한한다. 수의제도, 식품검사를 포함한 식량제도.\n13. 학술 및 전문기술 분야의 기록보존·도서관 업무, 예술 및 학술 수집품과 시설에 관한 사항, 기념물 보호, 종교에 관한 사항, 인구조사와 단일 주의 이익에만 봉사하는 것이 아닌 그 밖의 통계, 목적상 한 주의 이익 범위를 넘어서고 종래 주가 자율적으로 관리해 온 것이 아닌 재단 및 기금에 관한 제도.\n14. 연방경찰 및 연방헌병대.\n15. 군사사항, 전쟁피해에 관한 사항과 참전군인 및 유족의 원호, 전쟁을 계기로 또는 전쟁의 결과로 경제의 통일적 운영을 확보하기 위하여 필요하다고 인정되는 조치, 특히 주민에게 생필품을 공급하는 데 관한 조치.\n16. 연방관청 및 그 밖의 연방사무소의 설치, 연방공무원의 복무법."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_061",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "61",
+      "original_text": "左列事項應經行政會議議決：\n一、提出於立法院之法律案、預算案。\n二、提出於立法院之戒嚴案、大赦案。\n三、提出於立法院之宣戰案、媾和案、條約案、及其他關於重要國際事項之議案。\n四、各部各委員會間共同關係之事項。\n五、總統或行政院院長交議之事項。\n六、行政院副院長各政務委員各部各委員會提議之事項。",
+      "workbook_text_ko": "다음 사항은 행정회의의 의결을 거쳐야 한다.\n1. 입법원에 제출하는 법률안과 예산안.\n2. 입법원에 제출하는 계엄안과 대사안.\n3. 입법원에 제출하는 선전안·강화안·조약안 및 그 밖의 중요한 국제사항에 관한 의안.\n4. 각 부와 각 위원회 사이의 공동 관계 사항.\n5. 총통이나 행정원 원장이 심의에 부친 사항.\n6. 행정원 부원장·각 정무위원·각 부·각 위원회가 제의한 사항."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_107",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "107",
+      "original_text": "左列事項，由中央立法並執行之：\n一、外交。\n二、國防與國防軍事。\n三、國籍法，及刑事民事商事之法律。\n四、司法制度。\n五、航空，國道，國有鐵路，航政，郵政及電政。\n六、中央財政與國稅。\n七、國稅與省稅縣稅之劃分。\n八、國營經濟事業。\n九、幣制及國家銀行。\n十、度量衡。\n十一、國際貿易政策。\n十二、涉外之財政經濟事項。\n十三、其他依本憲法所定關於中央之事項。",
+      "workbook_text_ko": "左記事項은 中央에서 立法하여 이를 執行한다.\n  1.  外交\n  2.  國防과 國防軍事\n  3.  國籍法과 刑事, 民事, 商事의 法律\n  4.  司法制度\n  5.  航空, 國道, 國有鐵道, 航海, 郵便 및 電信.\n  6,  中央財政과 國稅\n  7,  國稅와 省稅또는 縣稅와의 分劃\n  8,  國營經濟事業\n  9,  貨幣制度와 國立銀行\n  10,  度量衡\n  11,  國際貿易政策\n  12,  外國과 關聯되는 財政 및 經濟事項\n  13,  其他 이 憲法에 依하여 規定된 中央에 關한 事項"
+    }
+  ]
+}

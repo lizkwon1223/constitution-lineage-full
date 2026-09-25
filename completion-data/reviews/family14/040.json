@@ -1,0 +1,59 @@
+{
+  "article": 40,
+  "reviewed_at": "2026-09-22T15:44:14.323188+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "260c4238c13b151fa62cba818b34dcea2fcb50be42535f77d28bbe6d0d5185f0",
+  "input_sha256": "f54f32dc0042379b97f30872d9b63658a7dfd156def1bb52331a0a6a95f885fc",
+  "responses": [
+    {
+      "job_id": "040_f358ea085185_r1",
+      "repeat": 1,
+      "sha256": "01694979d0f517e76e4a0ce3e7e4dd97626aa5fdb7662f36876ead2ab1c6564a",
+      "assessment": "약헌의 15일 공포·이의서·재의와 프랑스 두 헌법의 공포·재심의, 일본 개정정족수의 제한된 대응을 구분함. 바이마르 재의 선택은 가능하나 대통령의 국민투표 선택권을 함께 읽어야 함."
+    },
+    {
+      "job_id": "040_f358ea085185_r2",
+      "repeat": 2,
+      "sha256": "91f8895f404412eadc44770f5be6d6fad1284a13458756bf6fb5d739194a8630",
+      "assessment": "주요 공포·재의 절차의 기간·기산점·효과를 대체로 정확히 구분함. 부분 대응 후보의 선택 기준과 별도 조문 원용의 해석 범위는 보정이 필요함."
+    },
+    {
+      "job_id": "040_f358ea085185_r3",
+      "repeat": 3,
+      "sha256": "f761b2098f6b6b8d2910b6d99326fe9830a9474a978d0cba6fe6d257f703ab0f",
+      "assessment": "약헌·프랑스·중화민국·프로이센·일본의 서로 다른 대응 요소를 구분함. 단순 공포기한이라는 이유로 중화민국 초안을 배제한 설명은 동일한 부분 대응 기준으로 재검토할 수 있음."
+    }
+  ],
+  "synthesis": "이 조문은 법률안 이송과 공포, 이의서에 의한 환부·재의, 가중 정족수, 기간 도과에 따른 확정, 확정 법률 공포 및 시행일을 결합함. 약헌 제13조는 15일·이의서·출석의원 3분의 2 재의라는 핵심 대응을 제공하나 재적의원 3분의 2 출석과 법률 확정 효과는 다름. 프랑스 두 조문은 정부 이송을 기산점으로 하는 공포와 이유 있는 재심의 요구에 대응하며, 1946년 조문은 대통령의 미공포에 대해 다른 기관의 공포를 정함. 일본 1889년 제73조는 두 단계 3분의 2 요건에 대응하되 헌법개정 절차임. 프로이센 1920년 제61조는 공포 후 시행기간을 비교할 수 있으나 기간·기산 문언이 다름. 이 요소들의 유사성을 하나의 조문 전체의 동일성이나 계승의 증거로 합치지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_071",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "송부된 의결안을 국가원수가 기한 내 공포하는 구체적 절차를 일반적 주제 공통으로만 처리함. 중화민국 1946년 제72조의 선택 근거 역시 이송·공포기한에 한정되어 있어 기준 적용의 일관성을 재검토할 필요가 있음.",
+      "action": "선택 결과를 사실 오류로 단정하지 않고 공포 절차의 부분 대응으로 병기함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "ROC1946_PROM1947_ART_072",
+      "type": "unsupported_cross_reference",
+      "severity": "minor",
+      "finding": "제72조는 제57조에 따라 처리할 수 있다고만 적음. 제공되지 않은 제57조 내용을 이의·재의 절차라고 풀어 쓴 부분은 이 후보 본문만으로 검증할 수 없음.",
+      "action": "단서의 별도 조문 원용이라는 관찰로 한정함."
+    }
+  ],
+  "limits": [
+    "같은 정족수 비율도 재의·헌법개정 및 양원 조정 등 적용 절차가 서로 다름.",
+    "기간 도과로 법률이 확정됨과 공포 의무가 발생함, 다른 기관이 대신 공포함은 구분함."
+  ]
+}

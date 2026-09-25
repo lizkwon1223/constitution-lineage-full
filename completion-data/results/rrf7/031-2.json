@@ -1,0 +1,95 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_031",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_024",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "'입법권 + 담당기관 + 행사한다'라는 귀속(vesting) 조항의 문형이 대상 조문과 동일한 구조를 보인다. 다만 행사 주체가 국민의회와 주·직능참사원의 공동 행사로 규정되어 단일기관 귀속인 대상과 다르므로, 문형 차원의 대응으로 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "입법권의 귀속 문형",
+          "target_field": "original_text",
+          "target_quote": "立法權은 國會가 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Gesetzgebung des Bundes übt der Nationalrat gemeinsam mit dem Länder- und Ständerat aus.",
+          "commonality": "입법권을 목적어로 두고 특정 대의기관이 이를 행사한다고 선언하는 한 문장의 권한귀속 규정이다.",
+          "difference": "대상은 '국회' 단일 주체이나 후보는 국민의회가 주·직능참사원과 '공동으로' 행사하는 복수기관 구조이며, 연방 차원의 입법으로 대상을 한정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_033",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'立法權은 …가 行使한다'로 어순·어휘가 대상 조문과 거의 일치하는 한자혼용 문장이다. 다만 후보는 '오직 …만이'라는 배타성 한정어를 두고 주체가 최고인민회의인 점이 다르다.",
+      "evidence": [
+        {
+          "element": "입법권 귀속 주체와 술어",
+          "target_field": "original_text",
+          "target_quote": "立法權은 國會가 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法權은 오직 最高人民會議만이 行使한다.",
+          "commonality": "'立法權은'으로 시작해 단일 대의기관을 주어로 세우고 '行(使)한다'로 끝맺는 동일한 국문(한자혼용) 귀속 문형이다.",
+          "difference": "주체가 국회 대 최고인민회의로 다르고, 후보는 '오직 …만이'라는 배타적 독점 표현을 명시하나 대상에는 배타성 한정어가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "입법권 행사 주체를 선언하는 첫 문장이 대상과 같은 귀속 형식이나, 양원제를 명시하고 선출방법·상원 구성의 법률위임까지 규정하는 점에서 규율 범위가 넓다. 첫 문장의 문형 대응에 한정해 선택한다.",
+      "evidence": [
+        {
+          "element": "입법권 행사 주체 선언",
+          "target_field": "workbook_text_ko",
+          "target_quote": "입법권은 국회가 행한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le pouvoir législatif s'exerce par deux assemblées : la Chambre des députés et le Sénat.",
+          "commonality": "입법권을 주어로 삼아 그 행사 주체인 의회를 지정하는 선언적 귀속 조항이다.",
+          "difference": "후보는 하원·상원 두 의회를 주체로 열거하고 선거법에 의한 하원 선출, 상원 구성의 특별법 위임까지 규정하나, 대상은 단일 '국회' 귀속만을 규정하고 구성·선출 절차를 포함하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_083",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국회가 등장하지만 규율 대상이 국가 재정처리 권한과 국회 의결 요건이어서, 입법권 귀속을 정하는 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_124",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'立法權…行之'라는 술어 형식은 유사하나, 대상 입법권이 縣에 속하는 지방 입법권이고 주체도 縣議會이며 縣議會 의원의 주민선거까지 함께 규정하여 중앙 입법권 귀속인 대상과 층위가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법권 행사기관을 지정한다는 점은 겹치나, 입법원을 '중앙정부의 최고기관'으로 성격 규정하고 국민대회에 대한 책임까지 정하는 등 규율 요소가 추가되어 단순 귀속 문장인 대상과 대응 범위가 좁다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법권 행사를 규정하지만 최고입법기관이라는 지위, 인민 선거에 의한 입법위원 구성, 인민 대표 자격 등 조직·대표성 요소가 중심이어서 권한귀속만을 선언한 대상과 규율 구조가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'국회'라는 기관 명칭 자체의 채택",
+    "단원제 전제 및 다른 기관의 입법 관여 배제 여부에 관한 침묵",
+    "입법권 행사의 절차·예외(위임입법, 긴급명령 등)에 대한 언급 없음"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 경위 등 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "오스트리아·프랑스 후보는 원문(독일어·프랑스어) 대조이므로 문형 유사성 판단에 번역 이해가 일부 개입한다."
+  ],
+  "short_answer": "대상 조문은 입법권을 국회에 귀속시키는 한 문장의 선언 규정이다. 후보 중 조선민주주의인민공화국헌법안 제33조는 '立法權은 … 行使한다'로 한자혼용 어순과 술어까지 거의 일치해 대응이 가장 뚜렷하며, 다만 '오직 …만이'라는 배타성 한정과 주체(최고인민회의)가 다르다. 오스트리아 제24조와 프랑스 1875년 공권력조직법 제1조도 '입법권+기관+행사' 형식의 귀속 조항이라는 점에서 문형이 대응하나, 각각 국민의회와 참사원의 공동 행사, 상·하 양원 및 선출·구성 위임 규정을 포함해 규율 범위가 넓다. 중화민국 관련 조항들은 입법원(또는 현의회)의 지위·구성·책임까지 규정하거나 지방 입법권을 다루어 대응 범위가 제한적이고, 일본국헌법 제83조는 재정권 규정으로 주제가 다르다. 이상은 문언상 대응 판단이며 실제 참조 관계의 확정은 아니다."
+}

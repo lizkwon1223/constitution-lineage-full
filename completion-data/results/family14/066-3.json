@@ -1,0 +1,219 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_066",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "부서(副署) 요구라는 제도적 골격은 겹치지만, 대상 조문처럼 '국무에 관한 모든 행위·문서'를 포괄하지 않고 법률 공포·명령 발포로 한정되며 부서 주체도 '관계 원 원장' 1인이다. 같은 주제의 일반적 유사에 그쳐 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행정수반(행정원장)의 부서에 더하여 '관계 부·회 수장'의 부서를 병렬로 요구하는 문형이 대상 조문의 '國務總理와 關係國務委員의 副署'와 구체적으로 대응한다. 다만 대상은 '국무에 관한 모든 행위·문서'로 범위가 넓고 선택적('或')이 아닌 병합 요건이라는 점에서 대응 범위는 부서 주체 구성에 한정된다.",
+      "evidence": [
+        {
+          "element": "부서 주체(행정수반+관계 각원)",
+          "target_field": "original_text",
+          "target_quote": "모든 文書에는 國務總理와 關係國務委員의 副署가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "須經行政院院長之副署，或行政院院長及有關部會首長之副署",
+          "commonality": "행정수반의 부서와 '관계' 부처 담당자의 부서를 함께 요구하는 이원적 부서 구조",
+          "difference": "후보는 행정원장 단독 부서 또는 행정원장+관계부회수장 부서를 선택적으로 허용하는 데 비해, 대상은 국무총리와 관계국무위원의 부서를 함께 요구한다"
+        },
+        {
+          "element": "부서 대상 행위의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령의 국무에 관한 행위는 문서로 하여야 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法公布法律，發布命令",
+          "commonality": "대통령(총통)의 공적 행위에 부서를 결부시키는 점",
+          "difference": "후보는 법률 공포·명령 발포에 국한되나 대상은 '국무에 관한 행위' 일반과 '모든 문서'로 확장되고, 문서주의 자체를 별도로 명령한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_044",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가원수의 '모든 통치행위'에 부서를 요구하는 점은 겹치지만 부서 주체가 장관 1인이고, 효과가 '유효요건'과 '책임 인수'로 규정되어 대상 조문의 문서주의·국무총리+관계국무위원 병합 요건과는 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 권한을 규정하나 부서 제도나 국무행위의 문서주의에 관한 규율이 없다. 'Opinion, in writing'은 각부 장관의 의견 요구로서 부서와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_038",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 '각 행위'마다 국무총리와 장관의 부서를 '병합적으로' 요구하는 문형이 대상 조문의 '國務總理와 關係國務委員의 副署'와 가장 직접적으로 대응한다. 대응 범위는 부서 주체의 병합 요건에 한정되며, 문서주의와 군사사항 조항은 후보에 없다.",
+      "evidence": [
+        {
+          "element": "부서 주체의 병합 요건",
+          "target_field": "original_text",
+          "target_quote": "國務總理와 關係國務委員의 副署가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "doit être contresigné par le président du Conseil des ministres et par un ministre",
+          "commonality": "행정수반과 장관(국무위원)의 부서를 '및' 관계로 함께 요구하는 구조",
+          "difference": "후보는 '1인의 장관'이라고만 하여 '관계(소관)' 요건이 없고, 대상은 관계국무위원으로 한정하며 부서 대상이 '모든 문서'로 문서화된다"
+        },
+        {
+          "element": "부서 대상의 포괄성",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령의 국무에 관한 행위는 문서로 하여야 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Chacun des actes du président de la République",
+          "commonality": "대통령 행위 전부를 부서 대상으로 삼는 포괄적 규정",
+          "difference": "후보는 행위 자체를 대상으로 하고 문서 작성 의무를 규정하지 않으며, 군사에 관한 별도 확장 규정도 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_047",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주수상의 내각 주재·소관 분쟁 처리 등 내각 내부 운영 규정으로, 부서나 국무행위의 문서주의와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_067",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'연방대통령의 모든 행위'에 총리 또는 '관할' 장관의 부서를 요구하는 부분이 대상 조문의 포괄적 부서 요건 및 '관계국무위원' 한정과 문언상 대응한다. 다만 선택적('oder') 요건, 유효요건 명시, 헌법상 예외 유보, 제청 절차는 대상에 없어 대응 범위는 부서 요건에 한정된다.",
+      "evidence": [
+        {
+          "element": "부서 대상과 주체",
+          "target_field": "original_text",
+          "target_quote": "모든 文書에는 國務總理와 關係國務委員의 副署가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Akte des Bundespräsidenten bedürfen, soweit nicht verfassungsgesetzlich anderes bestimmt ist, zu ihrer Gültigkeit der Gegenzeichnung des Bundeskanzlers oder der zuständigen Bundesminister",
+          "commonality": "대통령 행위 전부에 대해 총리 또는 소관 장관의 부서를 요구하고 '관할/관계' 한정을 두는 점",
+          "difference": "후보는 총리 '또는' 관할 장관의 선택적 부서이고 효과를 '유효요건'으로 명시하며 헌법률상 예외를 유보하는 반면, 대상은 총리와 관계국무위원의 병합 부서를 요구하고 예외·효과 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령 행위 전부에 대한 부서 요건에 더하여 '군대 영역에 관한 것도 포함'이라는 확장 문형이 대상 조문의 '軍事에 關한 것도 또한 같다'와 구체적으로 대응한다. 다만 부서 주체가 선택적이고 책임 인수 효과가 명시된 점은 다르다.",
+      "evidence": [
+        {
+          "element": "군사사항 포함 확장",
+          "target_field": "original_text",
+          "target_quote": "軍事에 關한 것도 또한 같다",
+          "candidate_field": "original_text",
+          "candidate_quote": "auch solche auf dem Gebiete der Wehrmacht",
+          "commonality": "부서 요건이 군사(군대) 영역의 행위에도 미침을 별도로 명시하는 점",
+          "difference": "후보는 한 문장 안의 삽입구로 명령·처분에 붙이나, 대상은 별개 문장으로 '또한 같다'고 하여 문서주의와 부서 요건 전체에 확장한다"
+        },
+        {
+          "element": "부서 주체와 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 문서에는 국무총리와 관계국무위원의 부서가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "bedürfen zu ihrer Gültigkeit der Gegenzeichnung durch den Reichskanzler oder den zuständigen Reichsminister",
+          "commonality": "행정수반 또는/과 관할(관계) 장관의 부서를 요구하는 구조",
+          "difference": "후보는 수상 '또는' 관할 장관의 선택적 부서이며 유효요건과 책임 인수를 명시하는 반면, 대상은 병합 요건이고 효과 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "내각 구성원 열거 규정이며, 조문 말미의 '部署'는 부속 기구를 뜻해 대상 조문의 '副署(부서)'와 개념이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_055",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국무에 관한' 문서(법률·칙령·조칙)에 국무대신의 부서를 요구하는 문형이 대상 조문의 '國務에 關한 行爲'·'모든 文書'·'副署' 구성과 대응한다. 다만 부서 주체가 국무대신 일반이고 국무총리(수반)의 부서나 군사 확장 규정이 없어 대응은 문서 단위 부서 요건에 한정된다.",
+      "evidence": [
+        {
+          "element": "'국무에 관한' 문서에 대한 부서",
+          "target_field": "original_text",
+          "target_quote": "大統領의 國務에 關한 行爲는 文書로 하여야 하며 모든 文書에는 國務總理와 關係國務委員의 副署가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "凡テ法律勅令其ノ他国務ニ関ル詔勅ハ国務大臣ノ副署ヲ要ス",
+          "commonality": "'국무에 관한' 문서 전부를 대상으로 국무대신(국무위원)의 부서를 필요로 한다는 규율",
+          "difference": "후보는 대상을 법률·칙령·조칙이라는 문서 유형으로 열거하고 부서 주체를 국무대신으로만 정하는 반면, 대상은 행위의 문서화 의무를 먼저 정하고 국무총리와 관계국무위원의 병합 부서를 요구하며 군사사항 확장 문장을 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'대통령의 모든 행위에 장관의 부서'라는 포괄적 부서 요건은 겹치지만 부서 주체가 장관 1인으로 행정수반+관계국무위원의 병합 구조가 없고, 문서주의·군사사항 규정도 없어 일반적 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국무에 관한 문서'라는 대상 범위 설정과 '국무총장 및 각 국무위원'의 부서라는 주체 구성이 대상 조문의 '國務에 關한 行爲…모든 文書…國務總理와 關係國務委員의 副署'와 어휘·문형 수준에서 밀접하게 대응한다. 다만 후보는 부서에 입법의원에 대한 책임 효과를 결부시키고 주무행정부장을 선택적으로 두며 군사 확장 문장이 없다.",
+      "evidence": [
+        {
+          "element": "부서 대상('국무에 관한 문서')",
+          "target_field": "original_text",
+          "target_quote": "大統領의 國務에 關한 行爲는 文書로 하여야 하며 모든 文書에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "其他 國務에 關한 文書에는",
+          "commonality": "'국무에 관한 문서'를 부서 요건의 대상으로 명시하는 동일한 표현 구조",
+          "difference": "후보는 주석이 서명한 법률·명령·조약 발표 등을 열거한 뒤 기타 국무 문서를 포섭하나, 대상은 국무행위 일반의 문서주의를 먼저 선언하고 '모든 문서'로 일반화한다"
+        },
+        {
+          "element": "부서 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국무총리와 관계국무위원의 부서가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務總長 及 各國務委員 또는 主務行政部長이 副署하여야 함",
+          "commonality": "행정수반격 인물과 국무위원의 부서를 함께 요구하는 구성",
+          "difference": "후보는 '각 국무위원 또는 주무행정부장'의 선택적 구조이고 주체 명칭이 국무총장·정부주석인 반면, 대상은 '관계' 국무위원으로 한정하고 대통령·국무총리 체제를 전제한다"
+        },
+        {
+          "element": "부서의 효과",
+          "target_field": "original_text",
+          "target_quote": "副署가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "副署로써 立法議院에 對하여 責任을 짐",
+          "commonality": "부서를 통해 대통령(주석) 행위의 유효·정당화 절차를 두는 점",
+          "difference": "후보는 부서에 입법의원에 대한 책임 부담이라는 효과를 명문화했으나, 대상 조문은 책임 효과를 규정하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출·권한·승계를 규정하나 부서 제도나 국무행위의 문서주의 규정이 없어 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "내각총리대신·국무대신이라는 직위 용어와 연대책임을 규정할 뿐, 부서나 문서주의라는 대상 조문의 핵심 규율 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'국무에 관한 행위는 문서로 하여야 한다'는 문서주의 의무를 독립 명령형으로 선언한 부분(후보들은 대체로 이미 존재하는 행위·문서에 부서를 요구하는 형식)",
+    "국무총리와 관계국무위원의 부서를 선택이 아닌 병합 요건으로 함께 요구하는 점은 FR1946 외에는 대응이 약함",
+    "부서 흠결의 효과(유효요건 여부·책임 귀속)를 대상 조문이 규정하지 않은 점"
+  ],
+  "limitations": [
+    "제공된 문언 대응만 확인한 것이며 실제 참조·계수 관계의 역사적 확정은 아니다.",
+    "외국어 후보(독일어·프랑스어·중국어·일본어)의 세부 어의는 제공 원문과 번역문 범위에서만 판단했다."
+  ],
+  "short_answer": "대상 조문은 ①국무행위의 문서주의, ②모든 문서에 대한 국무총리+관계국무위원의 병합 부서, ③군사사항 확장이라는 세 요소로 구성된다. 조선임시약헌 제30조는 '국무에 관한 문서'와 '국무총장 및 각 국무위원의 부서'라는 어휘·문형에서 가장 밀접히 대응하고, 프랑스 제4공화국헌법 제38조는 국무총리와 장관의 병합 부서 요건, 중화민국헌법 제37조는 행정원장+관계부회수장의 이원적 부서, 오스트리아 제67조 제2항은 '모든 행위'에 대한 총리 또는 관할 장관의 부서, 바이마르 제50조는 '군사 영역도 포함'이라는 확장 문형, 대일본제국헌법 제55조 제2항은 '국무에 관한' 문서 단위 부서에서 각각 부분적으로 대응한다. 차이로는 후보 다수가 부서 주체를 '또는'의 선택적 구조로 두고 유효요건·책임 인수 효과를 명시하는 반면, 대상 조문은 병합 요건만 두고 효과를 규정하지 않으며 문서주의를 독립적으로 선언한다. 프로이센 1850년 제44조와 프랑스 1875년 제3조는 장관 1인 부서에 그쳐 일반적 유사로 보았고, 미국·필리핀·프로이센 1920·일본국헌법 제66조·북한 초안 제58조는 규율 요소가 다르다. 이상은 문언 대응 검토이며 역사적 참조의 확정은 아니다."
+}

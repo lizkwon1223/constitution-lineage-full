@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_029",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "29",
+    "original_text": "모든 國民은 法律의 定하는 바에 依하여 納稅의 義務를 진다.",
+    "workbook_text_ko": "모든 국민은 법률의 정하는 바에 의하여 납세의 의무를 진다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_030",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "30",
+      "original_text": "国民は、法律の定めるところにより、納税の義務を負ふ。",
+      "workbook_text_ko": "국민은 법률이 정하는 바에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "II",
+      "original_text": "SECTION 1. The Philippines is a republican state. Sovereignty resides in the people and all government authority emanates from them.\nSEC. 2. The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.\nSEC. 3. The Philippines renounces war as an instrument of national policy, and adopts the generally accepted principles of international law as a part of the law of the Nation.\nSEC. 4. The natural right and duty of parents in the rearing of the youth for civic efficiency should receive the aid and support of the Government.\nSEC. 5. The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+      "workbook_text_ko": "제1절. 필리핀은 공화국이다. 주권은 국민에게 있으며 모든 정부권한은 국민에게서 나온다.\n제2절. 국가의 방위는 정부의 으뜸가는 의무이며, 이 의무를 이행하기 위하여 모든 국민에게 법률로 직접적인 군복무 또는 민간복무를 요구할 수 있다.\n제3절. 필리핀은 국가정책의 수단으로서 전쟁을 포기하고 일반적으로 승인된 국제법 원칙을 국내법의 일부로 받아들인다.\n제4절. 청소년을 유능한 시민으로 양육하는 부모의 천부적 권리와 의무는 정부의 원조와 지원을 받아야 한다.\n제5절. 모든 국민의 복지와 경제적 안정을 보장하기 위한 사회정의의 증진은 국가가 힘써야 할 일이다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_029",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "29",
+      "original_text": "公民은 그 經濟的 形便에 따라서 租稅를 納付하여야 한다.",
+      "workbook_text_ko": "공민은 그 경제적 형편에 따라서 조세를 납부하여야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_009",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "9",
+      "original_text": "國民은 左記 各項의 義務에 服從하여야 함\n一 法律이 定하는 바에 依한 敎育의 義務\n二 法律이 定하는 바에 依한 納稅의 義務\n三 法律이 定하는 바에 依한 兵役의 義務\n四 法律이 定하는 바에 依한 勞働의 義務",
+      "workbook_text_ko": "국민은 아래 각 항의 의무에 복종하여야 함.\n1. 법률이 정하는 바에 의한 교육의 의무\n2. 법률이 정하는 바에 의한 납세의 의무\n3. 법률이 정하는 바에 의한 병역의 의무\n4. 법률이 정하는 바에 의한 노동의 의무"
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_PREAMBLE",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": null,
+      "original_text": "Au lendemain de la victoire remportée par les peuples libres sur les régimes qui ont tenté d'asservir et de dégrader la personne humaine, le peuple français proclame à nouveau que tout être humain, sans distinction de race, de religion ni de croyance, possède des droits inaliénables et sacrés. Il réaffirme solennellement les droits et libertés de l'homme et du citoyen consacrés par la Déclaration des droits de 1789 et les principes fondamentaux reconnus par les lois de la République.\nIl proclame, en outre, comme particulièrement nécessaires à notre temps, les principes politiques, économiques et sociaux ci-après :\nLa loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme.\nTout homme persécuté en raison de son action en faveur de la liberté a droit d'asile sur les territoires de la République.\nChacun a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut être lésé, dans son travail ou son emploi, en raison de ses origines, de ses opinions ou de ses croyances.\nTout homme peut défendre ses droits et ses intérêts par l'action syndicale et adhérer au syndicat de son choix.\nLe droit de grève s'exerce dans le cadre des lois qui le réglementent.\nTout travailleur participe, par l'intermédiaire de ses délégués, à la détermination collective des conditions de travail ainsi qu'à la gestion des entreprises.\nTout bien, toute entreprise, dont l'exploitation a ou acquiert les caractères d'un service public national ou d'un monopole de fait, doit devenir la propriété de la collectivité.\nLa Nation assure à l'individu et à la famille les conditions nécessaires à leur développement.\nElle garantit à tous, notamment à l'enfant, à la mère et aux vieux travailleurs, la protection de la santé, la sécurité matérielle, le repos et les loisirs. Tout être humain qui, en raison de son âge, de son état physique ou mental, de la situation économique, se trouve dans l'incapacité de travailler a le droit d'obtenir de la collectivité des moyens convenables d'existence.\nLa Nation proclame la solidarité et l'égalité de tous les Français devant les charges qui résultent des calamités nationales.\nLa Nation garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation professionnelle et à la culture. L'organisation de l'enseignement public gratuit et laïque à tous les degrés est un devoir de l'Etat.\nLa République française, fidèle à ses traditions, se conforme aux règles du droit public international. Elle n'entreprendra aucune guerre dans des vues de conquête et n'emploiera jamais ses forces contre la liberté d'aucun peuple.\nSous réserve de réciprocité, la France consent aux limitations de souveraineté nécessaires à l'organisation et à la défense de la paix.\nLa France forme avec les peuples d'outre-mer une Union fondée sur l'égalité des droits et des devoirs, sans distinction de race ni de religion.\nL'Union française est composée de nations et de peuples qui mettent en commun ou coordonnent leurs ressources et leurs efforts pour développer leurs civilisations respectives, accroître leur bien-être et assurer leur sécurité.\nFidèle à sa mission traditionnelle, la France entend conduire les peuples dont elle a pris la charge à la liberté de s'administrer eux-mêmes et de gérer démocratiquement leurs propres affaires ; écartant tout système de colonisation fondé sur l'arbitraire, elle garantit à tous l'égal accès aux fonctions publiques et l'exercice individuel ou collectif des droits et libertés proclamés ou confirmés ci-dessus.",
+      "workbook_text_ko": "1. 인간을 노예로 만들고, 품격을 떨어뜨리고자 했던 체제\n에 대해 자유로운 인민들이 승리를 쟁취한 다음날 프랑\n스 인민은 인종, 종교, 믿음의 구별 없이 모든 인간은 양\n도할 수 없고 성스러운 권리를 가진다는 점을 새로이 선\n언한다. 프랑스 인민은 1789년의 권리선언에 의해 규정된 인간과 시민의 권리와 자유, 그리고 공화국 법률에 의해 인정된 기본적 원칙을 엄숙히 재천명한다.\n2. 뿐만 아니라, 프랑스 인민은 우리 시대에 특히 필요한\n다음과 같은 정치적･경제적･사회적 원칙을 선언한다:\n3. 법률은 모든 영역에 있어서 여성에게 남성과 동등한 권\n리를 보장한다.\n4. 자유를 옹호하는 자신의 행동 때문에 박해받는 모든 인\n간은 프랑스 영토에서 망명권을 가진다.\n5. 모든 개개인은 근로의 의무와 일자리를 얻을 권리를 가\n진다. 어느 누구도 그 자신의 직업과 일자리에서 출신,\n견해, 믿음을 이유로 피해를 입지 않는다.\n6. 모든 인간은 노동조합활동을 통해 자신의 권리와 이익\n을 보호하고, 자신의 선택에 따라 노동조합에 가입할 수\n있다.\n7. 파업권은 파업권을 규정하는 법률의 범주에서 행사될\n수 있다.\n8. 모든 노동자는 자신의 대표를 통하여 근로조건의 집단\n적 결정과 기업운영에 참여한다.\n9. 그 이용이 국가적 공역무 또는 사실상의 독점적 성격을\n가지거나, 가지게 된 모든 재화, 모든 기업은 공동체의\n소유가 되어야 한다.\n10. 국가는 개인과 가족에게 그들의 발전에 필요한 조건을\n보장한다.\n11. 국가는 모든 사람들 특히, 아이, 어머니, 고령노동자에게\n건강보호, 물질적 안전, 휴식과 여가를 보장한다. 나이,\n신체적 또는 정신적 상태, 경제적 상황을 이유로 일을\n할 수 없는 모든 인간은 공동체로부터 생존에 충분한 수\n단을 얻을 권리를 가진다.\n12. 국가는 국가적 재난으로부터 기인하는 부담 앞에 모든\n프랑스인의 연대와 평등을 선언한다.\n13. 국가는 교육, 직업교육과 문화에 대한 아이와 어른의 평\n등한 접근을 보장한다. 모든 단계의 무상 및 종교적 중\n립적인 공교육 조직은 국가의 의무이다.\n14. 전통에 충실한 프랑스 공화국은 국제공법의 규칙에 따른\n다. 프랑스 공화국은 정복을 위한 전쟁을 하지 않으며,\n결코 어떠한 인민의 자유에 반대하여서도 그 힘을 사용하지 않는다.\n15. 상호성의 유보하에, 프랑스는 평화의 구성과 방어에 필\n요한 주권의 제한에 동의한다.\n16. 프랑스는 해외영토의 인민과 함께 인종과 종교의 구별\n없는 권리와 의무의 평등에 근거한 연합을 형성한다.\n17. 프랑스연합은 각각의 문화를 발전시키고, 행복을 증진\n시키며, 안전을 보장하기 위해 자원과 노력을 공유하거나, 조정하는 국민과 인민으로 구성된다.\n18. 전통적인 임무에 충실한 프랑스는 자신이 책임을 지는\n인민들을 자치하고, 민주적으로 자신의 일을 관\n리하는 자유로 이끌기를 원한다. 자의(恣意)에 근거한 일체의\n식민지 시스템을 배제하면서, 프랑스는 모두에게 공적인\n직무에 대한 평등한 접근과 위에서 선언되고 확인된 권\n리와 자유의 개인적 또는 집단적 행사를 보장한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "134",
+      "original_text": "Alle Staatsbürger ohne Unterschied tragen im Verhältnis ihrer Mittel zu allen öffentlichen Lasten nach Maßgabe der Gesetze bei.",
+      "workbook_text_ko": "모든 국민은 법률에 따라 그 자력에 상응하여 모든 공공의 부담에 평등하게 기여한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_021",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "21",
+      "original_text": "人民有依法律納稅之義務。",
+      "workbook_text_ko": "인민은 법률에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_019",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "19",
+      "original_text": "人民有依法律納稅之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 納稅의 義務를 진다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_022",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "22",
+      "original_text": "Alle Organe des Bundes, der Länder und der Gemeinden sind im Rahmen ihres gesetzmäßigen Wirkungsbereiches zur wechselseitigen Hilfeleistung verpflichtet.",
+      "workbook_text_ko": "연방·주 및 지방자치단체의 모든 기관은 법정 권한의 범위에서 서로 원조할 의무가 있다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_VI",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "VI",
+      "original_text": "All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.\nThis Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.\nThe Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.",
+      "workbook_text_ko": "이 헌법이 채택되기 전에 계약된 모든 채무와 체결된 모든\n약정은 이 헌법에서도 연합규약에서와 마찬가지로 합중\n국에 대하여 유효하다.\n이 헌법과 이 헌법에 준거하여 제정되는 합중국의 법률\n그리고 합중국의 권한에 의하여 체결되었거나 체결될 모\n든 조약은 이 국가의 최고법이며, 모든 주의 법관은, 어\n느 주의 헌법이나 법률 중 이에 반하는 규정이 있을지라\n도, 이 최고법에 구속된다.\n앞서 언급한 상원 및 하원의원, 각 주의 주의회 의원, 합\n중국 및 각 주의 행정관 및 사법관은 선서 또는 확약에\n의하여 이 헌법을 옹호할 의무가 있다. 다만, 미합중국의\n어떠한 관직 또는 위임에 의한 공직에도 그 자격 요건으\n로서 종교상의 심사는 요구되지 않는다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_021",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "21",
+      "original_text": "日本臣民ハ法律ノ定ムル所ニ従ヒ納税ノ義務ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률이 정하는 바에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_034",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "34",
+      "original_text": "Alle Preußen sind wehrpflichtig. Den Umfang und die Art dieser Pflicht bestimmt das Gesetz.",
+      "workbook_text_ko": "모든 프로이센인은 병역의\n의무를 진다. 이 의무의 범위와 이행\n방법은 법률로 정한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_078",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "78",
+      "original_text": "Jeder Staatsbeamte hat einen Eid dahin zu leisten, daß er das ihm übertragene Amt unparteiisch nach bestem Wissen und Können verwalten und die Verfassung gewissenhaft beobachten wolle.",
+      "workbook_text_ko": "모든 국가공무원은 맡은 직을 공정하게, 자신의 지식과 능력을 다하여 수행하고 헌법을 성실히 준수할 것을 선서하여야 한다."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_014",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1문에서 '과학(학문) 또는 예술의 자유를 가진다'는 권리 선언, 제2문에서 저작 관련 권리의 법적 보호를 규정하는 2문 구성이 대상 조문과 문형·배열 모두 대응한다. 다만 주체(공민/국민)와 보호 대상 범위(저작권만/저작자·발명가·예술가)가 다르다.",
+      "evidence": [
+        {
+          "element": "학문(과학)과 예술의 자유 보장",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 學問과 藝術의 自由를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 科學 또는 藝術活動의 自由를 가진다.",
+          "commonality": "'…의 自由를 가진다'는 동일 문형으로 학문(과학)과 예술 영역의 자유를 하나의 문장에 병기",
+          "difference": "주체가 '公民'과 '모든 國民'으로 다르고, 후보는 '藝術活動'이라는 활동 형태를, 대상은 '學問과 藝術'이라는 영역을 지칭"
+        },
+        {
+          "element": "권리의 법률(법적) 보호",
+          "target_field": "original_text",
+          "target_quote": "著作者, 發明家와 藝術家의 權利는 法律로써 保護한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "著作權은 法的으로 保護한다.",
+          "commonality": "자유 선언에 이어 저작 관련 권리를 국가가 법으로 보호한다는 별도 문장을 둔 구조",
+          "difference": "후보는 보호 객체를 '著作權'으로 한정하고 보호 근거를 '法的으로'라 하나, 대상은 저작자·발명가·예술가라는 권리주체 3유형을 열거하고 '法律로써'라는 법률유보 형식을 취함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_158",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'저작자·발명가·예술가'라는 세 권리주체 열거와 그 권리에 대한 국가 보호라는 제2문 요소가 구체적으로 대응한다. 다만 보호 형식(제국의 보호·배려 대 법률유보)과 대외적 보호 규정 유무가 다르다.",
+      "evidence": [
+        {
+          "element": "저작자·발명가·예술가의 권리 보호",
+          "target_field": "original_text",
+          "target_quote": "著作者, 發明家와 藝術家의 權利는 法律로써 保護한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "das Recht der Urheber, der Erfinder und der Künstler genießt den Schutz und die Fürsorge des Reichs",
+          "commonality": "저작자·발명가·예술가 세 주체의 권리를 동일한 순서로 열거하고 국가의 보호 대상으로 삼음",
+          "difference": "후보는 '정신적 작품'을 함께 들고 보호 주체를 '제국(Reich)'의 보호와 배려로 규정하는 데 반해, 대상은 보호 수단을 '法律로써'로 특정"
+        },
+        {
+          "element": "학문·예술 영역의 취급 방식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 학문과 예술의 자유를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Den Schöpfungen deutscher Wissenschaft, Kunst und Technik ist durch zwischenstaatliche Vereinbarung auch im Ausland Geltung und Schutz zu verschaffen.",
+          "commonality": "학문(Wissenschaft)과 예술(Kunst)을 병기하여 헌법적 보호 영역으로 삼음",
+          "difference": "후보 제2문은 창작물의 국외 보호를 국가 간 합의로 확보할 의무이고, 대상은 국민의 주관적 자유권 선언으로 성격과 효과가 다름"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_081",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "프랑스연합 시민 자격과 전문상 권리·자유의 향유 보장에 관한 규정으로, 학문·예술의 자유나 저작자 권리 보호와 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'著作'의 자유를 규정하지만 이는 언론·출판과 함께 표현의 자유 영역이며, 대상 조문의 학문·예술의 자유나 저작자·발명가·예술가의 권리 보호와는 규율 객체가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XIII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제4절의 저작자·발명자에 대한 배타적 권리 보장과 제5절의 학문의 자유 조항이 대상 조문 두 문장과 부분적으로 대응한다. 다만 예술가 권리의 주체적 보장 여부, 기간 제한, 학문의 자유의 향유 주체 범위에서 차이가 커 대응 범위는 이 두 절에 한정된다.",
+      "evidence": [
+        {
+          "element": "저작자·발명가 권리의 보호",
+          "target_field": "original_text",
+          "target_quote": "著作者, 發明家와 藝術家의 權利는 法律로써 保護한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The exclusive right to writings and inventions shall be secured to authors and inventors for a limited period.",
+          "commonality": "저작자와 발명자의 권리를 헌법 차원에서 보장 대상으로 명시",
+          "difference": "후보는 '배타적 권리'를 '일정 기간'으로 한정하고 예술가는 권리주체가 아니라 국가 후원 대상(Arts and letters shall be under its patronage)으로 두는 반면, 대상은 예술가를 권리주체에 포함하고 기간 제한 없이 법률에 의한 보호로 규정"
+        },
+        {
+          "element": "학문의 자유",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 학문과 예술의 자유를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Universities established by the State shall enjoy academic freedom.",
+          "commonality": "학문의 자유를 헌법상 보장되는 것으로 선언",
+          "difference": "후보는 향유 주체를 국가가 설립한 대학으로 한정하는 기관적 보장이고, 대상은 '모든 國民'의 개인적 자유권이며 예술의 자유도 함께 보장"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_070",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "지방자치단체의 자치권 보장 규정으로 대상 조문과 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제4호에 '著作'의 자유가 나오지만 언론·간행·집회·결사와 함께 열거된 표현의 자유이고 법률유보 형식(법률에 의하지 아니한 제한을 받지 않는 자유)도 달라, 학문·예술의 자유 및 저작자·발명가 권리 보호와는 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법 앞의 평등과 공무원의 정치적 권리 행사 보장 규정으로 대상 조문 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 권한 규정으로 기본권 조항인 대상 조문과 관련이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "무기 보유·휴대의 권리 규정으로 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_029",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'著作'의 자유가 언론·출판·집회·결사와 함께 법률의 범위 안에서 보장되는 표현의 자유로 규정되어, 학문·예술의 자유 및 창작자 권리 보호와는 객체·구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_011",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'講學'과 '著作'의 자유를 규정해 학문 관련 자유와 주제적 접점이 있으나, 언론·출판과 함께 열거된 표현의 자유 조항이며 저작자·발명가·예술가 권리의 법률 보호라는 제2문 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "학문 자체의 자유를 단문으로 선언하는 점이 대상 제1문의 '학문의 자유' 요소와 대응한다. 다만 예술의 자유와 창작자 권리 보호 부분은 대응이 없고, 문형도 권리주체 없는 객관적 자유 선언이어서 선택 범위는 학문의 자유에 한정된다.",
+      "evidence": [
+        {
+          "element": "학문의 자유",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 學問과 藝術의 自由를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Wissenschaft und ihre Lehre ist frei.",
+          "commonality": "학문을 독립된 헌법적 자유 영역으로 명시",
+          "difference": "후보는 주체를 밝히지 않고 '학문과 그 교수는 자유롭다'는 객관적 선언이며 예술을 포함하지 않으나, 대상은 '모든 國民'이 학문과 예술의 자유를 '가진다'는 주관적 권리 형식"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "개인 존중과 생명·자유·행복추구권의 공공복리 한계에 관한 일반 규정으로, 학문·예술의 자유나 창작자 권리 보호와 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'藝術家의 權利'를 예술가 개인의 권리로 명시하는 부분은 바이마르 제158조 외에는 대응이 확인되지 않음",
+    "'法律로써 保護한다'라는 법률에 의한 보호(법률유보형 보호) 형식의 정확한 대응 문구"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며, 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 제공 본문만으로 확정할 수 없다",
+    "바이마르·프로이센 조문은 독일어 원문 기준으로 비교했고, 필리핀 조문은 영어 원문 기준으로 비교했다"
+  ],
+  "short_answer": "북한 1948년 헌법안 제20조는 '과학 또는 예술활동의 자유' 선언과 '저작권의 법적 보호'라는 2문 구성이 대상 조문의 문형·배열과 가장 직접적으로 대응한다. 바이마르 제158조는 '저작자·발명가·예술가'라는 세 권리주체 열거와 그 권리의 국가 보호라는 제2문 요소에서, 프로이센 1850년 헌법 제20조는 학문의 자유 선언에서 각각 부분 대응한다. 필리핀 1935년 헌법 제13조는 제4절(저작자·발명자의 배타적 권리)과 제5절(국립대학의 학문의 자유)에 한해 대응하나, 기간 제한·국가 후원 구성·향유 주체 한정에서 차이가 크다. 일본제국헌법 제29조, 조선임시약헌 제6조, 중화민국 조문들의 '著作의 自由'는 표현의 자유 계열이어서 규율 객체가 달라 선택하지 않았다. 이상은 문언 대응의 검토이며 실제 참조 여부의 확정은 아니다."
+}

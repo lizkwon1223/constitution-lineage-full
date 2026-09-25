@@ -1,0 +1,72 @@
+{
+  "article": 14,
+  "reviewed_at": "2026-09-22T15:15:01.952559+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "670408cb4844e4f9a4f282085cd3b1e69733b02515470334a727eb458628c5e8",
+  "input_sha256": "15bfdda86fcd2742d38ba9d5c2de8d14e2682c7ef32d44539e00f4dcc36905af",
+  "responses": [
+    {
+      "job_id": "014_1a2ba2abc3d8_r1",
+      "repeat": 1,
+      "sha256": "27b12beeb99ca059a59aae2a0a4a38bc6eb81e0f734b1f88d73d489c8bf4ff89",
+      "assessment": "북한안의 두 문장 구조, 바이마르의 세 권리주체, 프로이센의 학문 자유, 필리핀의 저작·발명 권리와 대학의 학문 자유라는 핵심 비교는 타당함. 정신적 노동과 작품, 예술 후원과 자유 보장을 구별해야 함."
+    },
+    {
+      "job_id": "014_1a2ba2abc3d8_r2",
+      "repeat": 2,
+      "sha256": "a2f4e07f832a43c652010eaef0833b695341b3c8bb1259984dbd53a8033c8c18",
+      "assessment": "핵심 대응은 지지됨. 필리핀에서 예술가를 권리주체에서 제외한다고 단정한 것은 명시 부재를 법적 배제로 확대함."
+    },
+    {
+      "job_id": "014_1a2ba2abc3d8_r3",
+      "repeat": 3,
+      "sha256": "c9f91ad3d0abacca49fc34ddd636cc21bf20a2d2250fbbb1c436bf378b6bd8ba",
+      "assessment": "핵심 비교는 타당함. 필리핀의 Arts를 예술가로 바꾼 설명 및 geistige Arbeit를 정신적 작품으로 번역한 부분을 수정해야 함."
+    }
+  ],
+  "synthesis": "북한안 제20조는 과학 또는 예술활동의 자유와 저작권의 법적 보호를 이어 놓음. 바이마르 제158조는 저작자·발명자·예술가의 권리를 같은 순서로 열거하지만 정신적 노동의 보호 및 창작물의 국외 보호를 추가함. 프로이센1850은 학문과 그 교수의 자유를 선언함. 필리핀은 저작자·발명자의 일정 기간 배타적 권리, 국가가 설립한 대학의 학문 자유, 예술·문학의 국가 후원을 서로 나누어 규정함. 예술가가 저작자로서 보호될 가능성까지 배제한 문언은 아님.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_158",
+      "type": "translation",
+      "severity": "minor",
+      "finding": "Die geistige Arbeit를 정신적 작품이라고 옮김. 첫 문장의 대상은 정신적 노동·지적 활동이며 창작물은 둘째 문장의 Schöpfungen과 구별됨.",
+      "action": "정신적 노동 또는 지적 활동의 보호로 수정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_XIII",
+      "type": "object_and_right_conflation",
+      "severity": "material",
+      "finding": "1·2회차는 예술의 자유를 국가 후원으로 규정한다고 표현함. 2회차는 예술가를 권리주체에서 제외한다고 하고 3회차는 Arts and letters의 주체를 예술가로 바꿔 설명함. 원문은 예술·문학의 후원과 저작자·발명자의 권리를 구분할 뿐임.",
+      "action": "예술·문학은 후원 대상, 저작자·발명자는 명시된 권리주체라고 정리함. 예술가의 보호 배제나 예술 자유 보장과의 동일성을 단정하지 않음."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "예술가 권리주체의 열거는 바이마르에서 확인하면서 미설명 요소로도 수록함.",
+      "action": "대응은 한 후보에서 확인됨으로 이동함. 다수 후보에 없다는 것과 설명되지 않는다는 것을 구분함."
+    }
+  ],
+  "limits": [
+    "法律로써와 法的으로의 표현 차이는 확인되지만 구체적 보호 수준·범위가 반드시 다르다는 결론은 별도 근거가 필요함.",
+    "대상에 기간이 명시되지 않았다는 사실을 법률상 보호기간이 무제한이라는 의미로 확대하지 않음.",
+    "중화민국1946의 講學 자유는 학문·교수 영역의 보조 비교로 남길 수 있으나 조문 전체의 동일성은 아님."
+  ]
+}

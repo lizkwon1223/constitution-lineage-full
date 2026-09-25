@@ -1,0 +1,57 @@
+{
+  "article": 4,
+  "reviewed_at": "2026-09-22T15:08:12.927757+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "cab51defa04520e3ec6b46378b1adc88725c1fcf0b53fb8a7e4ae525ea81ca4b",
+  "input_sha256": "5a79e3d9f44485b2406a5d983f8d7a1b4ceca21ad26ffe59191d61e873920003",
+  "responses": [
+    {
+      "job_id": "004_45a79ae569db_r1",
+      "repeat": 1,
+      "sha256": "74c13288700ad644e9a93c247e91ebbb398e1e4a76ceb21159130a338954f169",
+      "assessment": "중화민국 두 판본의 영토 확정과 변경 절차 차이는 지지됨. 필리핀을 본토와 부속도서의 구조로 읽은 부분은 원문보다 강한 해석임."
+    },
+    {
+      "job_id": "004_45a79ae569db_r2",
+      "repeat": 2,
+      "sha256": "3724f384ca6b046ab003ff51c74d9e33e39d861f65669dfee69ade4d58f46a6d",
+      "assessment": "프로이센1850의 현재 범위 기준까지 비교한 것은 타당함. 필리핀 본역·도서 구분은 수정할 필요가 있음."
+    },
+    {
+      "job_id": "004_45a79ae569db_r3",
+      "repeat": 3,
+      "sha256": "039c3d4e263413ce257771fb4ead86bc0d37f196b8bf5bce4809a3a8efc81498",
+      "assessment": "영토 지시 기준과 변경 절차의 분리는 타당함. 필리핀의 주된 지역에 딸린 도서라는 공통점은 원문 근거가 없음."
+    }
+  ],
+  "synthesis": "대상은 한반도와 그 부속도서라는 지리적 기준으로 영토를 지정함. 중화민국 초안은 지역 열거와 고유 강역, 현행판은 고유 강역, 프로이센1850은 현재 범위를 기준으로 삼음. 필리핀은 조약상 할양 영역·조약에 포함된 도서·현 정부 관할 영역을 결합함. 따라서 도서를 영토에 포함한다는 수준에서는 비교할 수 있으나 필리핀을 한반도에 대응하는 본토와 부속도서 구조로 단정할 수 없음. 바이마르·오스트리아의 연방 구성 방식과 영토 변경 절차는 별도 비교 차원임.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_I",
+      "type": "unsupported_structural_equivalence",
+      "severity": "material",
+      "finding": "원문에는 mainland나 주된 지역에 딸린 도서라는 관계가 없음. 파리조약상 할양 영역을 본토·본역으로 바꿔 대상의 한반도+부속도서 구조와 같다고 설명함. 또한 embraced를 조약에 열거된 것으로 단정할 수 없음.",
+      "action": "조약상 영역과 도서를 영토에 포함한다는 제한된 비교로 수정하고, 본토/부속성 및 조약의 구체적 열거 방식은 단정하지 않음."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": null,
+      "type": "unexplained_context",
+      "severity": "minor",
+      "finding": "미설명 요소에 분단 상황을 전제로 한 의미를 제시했으나 이는 제공된 제4조 문장 자체에서 확인되는 요소와 구별해야 함.",
+      "action": "문언 대조와 별도 역사적 해석 과제를 나눔."
+    }
+  ],
+  "limits": [
+    "제4조에 별도 영토 변경 절차가 없다는 관찰을 헌법 전체에서 변경이 불가능하거나 아무 절차가 없다는 결론으로 확대하지 않음.",
+    "영토 확정이라는 공통 기능만으로 역사적 참조나 강한 문언 대응을 확정하지 않음."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "article": 47,
+  "reviewed_at": "2026-09-22T15:49:29.438248+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "ed6a2bf29c62080b41d1f41f68b4658f8df8974a58db85cdaabf1d3fc139dc06",
+  "input_sha256": "d473f0254bc36e0f4aa501ecfd98a02e3cdf9a1e5a73803d0eef10b4a6015a5f",
+  "responses": [
+    {
+      "job_id": "047_56c613575fc2_r1",
+      "repeat": 1,
+      "sha256": "f5a211052475072ff60147e265c878cff9c87634c668b1d1923bca00ae97efa8",
+      "assessment": "일본의 설치 문형, 프로이센의 의원·법관 혼합, 필리핀의 주재·효과 대응을 포착함. 종합답변은 필리핀의 대통령 특례를 부통령까지 확대하고 상원이라는 다른 판본의 기관을 섞어 보정이 필요함."
+    },
+    {
+      "job_id": "047_56c613575fc2_r2",
+      "repeat": 2,
+      "sha256": "101704dbc7a85a0718f245d7139a3e8261cfcd869fd80b9a488eb1bb4e0b6c42",
+      "assessment": "핵심 세 후보의 적용 단계와 구성 차이를 대체로 잘 구분함. 일본 구성까지 모두 법률에 위임했다는 설명 및 필리핀 효과를 민형사 책임 유보로 그대로 옮긴 설명은 과도함."
+    },
+    {
+      "job_id": "047_56c613575fc2_r3",
+      "repeat": 3,
+      "sha256": "d680d52b6565262df0bf1b05a7dd94ae9c93d860928b064bdd44a004b5c4b266",
+      "assessment": "핵심 세 후보와 추가 비교의 범위를 비교적 분명히 나눔. 필리핀의 통상 주재자를 의회 자체라고 한 설명과 바이마르 국가법원의 다른 관할에 관한 주장은 제공 문언 밖임."
+    }
+  ],
+  "synthesis": "일본 제64조는 탄핵재판소 설치의 목적·명칭과 법률 규율에 대응하지만 양원 의원 구성과 재판관 대상이라는 한계가 있음. 프로이센 제12조는 선거심사기관으로서 의원 3인·법관 2인의 심판부를 정하므로 혼합 방식만 비교할 수 있음. 이 입력의 필리핀 제9조는 개정 전 조문으로 국민의회가 심판하고 탄핵위원회 소속이 아닌 전체 의원 4분의 3의 찬성을 요구함. 대법원장 주재 특례는 대통령에게만 적용되며, 판결 효과는 파면과 공직 취임 자격박탈을 포함함. 제헌헌법의 부통령 재판장, 5 대 5 구성, 심판관 3분의 2, 파면 한정 및 민형사 책임 병기를 각각 별도 요소로 읽어야 함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "type": "version_and_scope_error",
+      "severity": "material",
+      "finding": "종합답변은 정·부통령 심판 시 대법원장 주재라고 넓히고 구성 차이에 상원을 포함함. 제공된 개정 전 제9조의 특례는 대통령만 대상으로 하며 심판기관은 국민의회임. 후보별 증거란은 이 차이를 대체로 정확히 설명함.",
+      "action": "대통령 특례·국민의회 심판으로 종합답변을 보정하고 개정 후 제9조와 구분함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_064",
+      "type": "source_misreading",
+      "severity": "material",
+      "finding": "구성·정족수·효과를 모두 법률에 위임했다고 하지만 제1항이 양원 의원으로 구성한다고 직접 정함.",
+      "action": "헌법에 명시된 구성과 그 밖의 법률 규율을 구분함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "type": "summary_overstatement",
+      "severity": "material",
+      "finding": "선정 이유 또는 종합답변에서 효과를 파면에 한정한다고 축약함. 2회차는 민형사 책임 불면제까지 후보 내용으로 묶음. 증거의 차이란에는 자격박탈 및 기소·재판·처벌이라는 실제 문언이 제시되어 있음.",
+      "action": "공통점은 판결 효과의 제한과 별도 책임 유지로 표현하고 실제 효과와 잔존 책임 문언은 구분함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "PH1935_ORIGINAL_ART_IX",
+      "type": "unsupported_institutional_inference",
+      "severity": "minor",
+      "finding": "국민의회가 심판기관이라는 사실을 통상 주재자 또는 의회 자체의 주재로 연결함. 후보는 대통령 사건 외의 주재자를 정하지 않음.",
+      "action": "심판기관과 재판장 직무자를 구분함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_059",
+      "type": "unsupported_institutional_inference",
+      "severity": "material",
+      "finding": "국가법원이 이미 존재한다거나 탄핵 외 관할이 있다는 설명, 소추 요건 외 전부를 법률로 넘긴다는 설명은 제59조만으로 확인할 수 없음.",
+      "action": "국가법원에 대한 소추와 세부사항의 법률 규율까지만 기록함."
+    }
+  ],
+  "limits": [
+    "선거심사 혼합 재판부와 탄핵재판소의 구성 유사성을 동일 관할이나 직접 참조의 증거로 보지 않음.",
+    "약헌·중화민국의 소추 단계 정족수와 탄핵판결 정족수는 비교 단계가 다름."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "article": 54,
+  "reviewed_at": "2026-09-22T15:54:54.710499+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "4438e88cc8be01b447b590d756011bf85bc2b1f35166b2050b3034885bdb55ab",
+  "input_sha256": "19996d7873d13d055208a5cad45d3b2d176b8a661dda75c7535c1b169f003bf8",
+  "responses": [
+    {
+      "job_id": "054_10592302560a_r1",
+      "repeat": 1,
+      "sha256": "9a50e8413e9a8d32da3a464301a6411a0b91efa42ddf7abdf4d3b237bee75e56",
+      "assessment": "취임·의회·정형 선서문과 헌법 준수·복리·보위·성실 수행을 잘 분리함. 미국과 필리핀을 묶어 종교 문구가 있다고 쓴 종합답변은 미국 본문의 범위를 넘음."
+    },
+    {
+      "job_id": "054_10592302560a_r2",
+      "repeat": 2,
+      "sha256": "fb512948bcee70d6d1548709c1d0c5824b59f42166150835901f86f442b8eef1",
+      "assessment": "선서 절차·내용·수신자를 체계적으로 비교하고 후보별 차이를 대체로 정확히 밝힘. 중화민국 선서문의 제재 감수 약속을 독립적인 법적 효과 규정처럼 표현한 점은 정밀화가 필요함."
+    },
+    {
+      "job_id": "054_10592302560a_r3",
+      "repeat": 3,
+      "sha256": "49a95b4a01f34f3cbd2b5c3e5325848190113c5cf7e2db57a469f81b0358bd20",
+      "assessment": "주요 후보의 절차와 내용 대응을 정확히 설명함. 선서문의 제재 수인 표현과 실제 제재 규율, 대상에 없는 부가 규정의 부재를 구분하면 해설이 더 명확해짐."
+    }
+  ],
+  "synthesis": "약헌 제21조는 취임에 즈음하여 의회에서 정해진 선서를 한다는 도입 문형과 성실한 직무 집행에 가깝게 대응함. 바이마르·오스트리아는 취임 시 의회 앞 선서와 헌법 준수·직무 수행을, 중화민국 두 조문은 헌법 준수·직무 충실·인민 복리·국가 보위 및 국민에 대한 선서를 제공함. 내용 항목은 겹치지만 나열 순서가 같지는 않음. 미국·필리핀은 엄숙한 선서와 성실한 직무 수행에 대응하되 선서 장소를 정하지 않고 확약을 허용함. 종교 문구는 필리핀에 명시되며 미국의 제공 선서문에는 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "type": "summary_overstatement",
+      "severity": "material",
+      "finding": "종합답변에서 미국·필리핀 후보를 함께 확약·종교 문구를 두는 것으로 설명함. 미국 제2조의 제공 선서문에는 종교 문구가 없음.",
+      "action": "확약 선택은 두 후보의 공통점, 종교 문구는 필리핀의 별도 요소로 구분함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "effect_precision",
+      "severity": "minor",
+      "finding": "중화민국 두 조문의 선서문 중 위반 시 제재를 받겠다는 약속을 제재 규정 또는 효과 규정으로 표현함. 구체적인 제재 종류·절차를 규정한 것은 아님.",
+      "action": "선서문에 제재 감수 약속을 포함한다고 표현함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "대상에 없는 위반 제재·종교 문구 등의 부재를 미설명 요소로 기재함.",
+      "action": "대상 문언의 대응과 후보에만 있는 부가 내용을 구분함."
+    }
+  ],
+  "limits": [
+    "의회에서 또는 의회 앞에서 선서한다는 표현을 의회가 선서의 유일한 수신자라는 의미로 확장하지 않음."
+  ]
+}

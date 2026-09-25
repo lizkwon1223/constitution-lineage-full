@@ -1,0 +1,161 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_023",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "군사재판 관할의 예외(현역군인)를 정한 조항으로, 행위시법에 의한 소추 금지나 이중처벌 금지와 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "동일 범죄에 대한 이중적 위험 금지가 '同一한 犯罪에 對하여 두 번' 이라는 대상 문형과 구체적으로 대응한다. 다만 대배심 기소·자기부죄 금지·적법절차·수용보상 등 나머지 부분은 대상 조문과 무관하므로 대응 범위를 이중처벌 요소로 한정한다.",
+      "evidence": [
+        {
+          "element": "이중처벌(이중위험) 금지",
+          "target_field": "original_text",
+          "target_quote": "同一한 犯罪에 對하여 두 번 處罰되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb",
+          "commonality": "같은 범죄에 대해 두 번 불이익한 형사적 취급을 받지 않는다는 금지 규범을 부정문형으로 규정한다.",
+          "difference": "대상은 효과를 '처벌'로 규정하나 후보는 '생명 또는 신체에 대한 위험에 두 번 놓임(jeopardy)'으로 규정하여 금지 시점·범위가 넓고, 주체가 대상은 '모든 國民', 후보는 'any person'이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민의회 의원의 면책·불체포특권 규정으로, 소추라는 용어만 겹치고 형벌법규의 소급 금지나 이중처벌 금지와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 표결·발언에 대한 면책특권 조항이며 대상 조문의 형사법상 보장과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 면책특권 조항으로 주체(의원)와 사유(직무상 의견·표결)가 달라 대상 조문과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행위시 기준의 소급처벌 금지와 동일 범죄에 대한 거듭된 형사책임 금지를 한 조문 안에서 '또(又)'로 병렬한 구성과 문형이 대상 조문과 전반적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "행위시 법률 기준(소급 금지)",
+          "target_field": "original_text",
+          "target_quote": "行爲時의 法律에 依하여 犯罪를 構成하지 아니하는 行爲에 對하여 訴追를 받지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "何人も、実行の時に適法であつた行為又は既に無罪とされた行為については、刑事上の責任を問はれない。",
+          "commonality": "행위 당시를 기준으로 범죄가 되지 않던(적법하던) 행위에 대한 사후적 형사추궁을 금지한다.",
+          "difference": "대상은 효과를 '소추를 받지 아니한다'로 정하고, 후보는 '刑事上の責任을 묻지 않는다'로 정하며, 후보는 '이미 무죄가 된 행위'라는 추가 사유를 포함한다."
+        },
+        {
+          "element": "이중처벌 금지 및 병렬 구성",
+          "target_field": "original_text",
+          "target_quote": "또 同一한 犯罪에 對하여 두 번 處罰되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "又、同一の犯罪について、重ねて刑事上の責任を問はれない。",
+          "commonality": "동일 범죄에 대한 거듭된 형사적 불이익 금지를 앞 문장에 '또/又'로 이어 붙인 두 문장 구조가 같다.",
+          "difference": "대상은 '두 번 處罰'이라는 처벌 횟수 표현이고, 후보는 '거듭 형사상 책임을 묻지 않는다'는 책임추궁 표현이다. 주체도 '모든 國民'과 '何人も'로 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률에 의하지 않은 처벌을 받지 않는 자유를 규정하여 죄형법정주의적 취지는 겹치지만, '행위시의 법률'이라는 시점 요소와 이중처벌 금지가 없어 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "양원 의원의 직무상 의견·표결에 대한 면책 규정으로 대상 조문의 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률상 재판관 박탈 금지와 예외법원 금지에 관한 규정으로, 소급처벌 금지·이중처벌 금지와는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_024",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "신체의 불가침과 체포 요건(재판소 결정·검사 승인)에 관한 조항으로 대상 조문의 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_024",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "기타 자유·권리의 포괄적 보장과 법률유보 조항이며 대상 조문의 형사법적 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "소급처벌법 금지(11항)와 동일 범죄 이중처벌 위험 금지(20항)가 대상 조문의 두 요소에 각각 대응한다. 다만 권리목록 전체 중 두 항에 한정된 대응이며, 대상은 입법 금지가 아니라 개인의 소추 면제 형식이라는 점에서 형식이 다르다.",
+      "evidence": [
+        {
+          "element": "행위시 법률 기준(소급 금지)",
+          "target_field": "original_text",
+          "target_quote": "行爲時의 法律에 依하여 犯罪를 構成하지 아니하는 行爲에 對하여 訴追를 받지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "(11) No ex post facto law or bill of attainder shall be enacted.",
+          "commonality": "행위 후의 법률로 범죄·처벌을 소급 적용하는 것을 금지하는 취지가 공통된다.",
+          "difference": "후보는 입법 자체를 금지하는 형식(법률 제정 금지)이고 사권박탈법 금지를 함께 두는 반면, 대상은 국민이 소추를 받지 않는다는 개인 권리 형식으로 규정한다."
+        },
+        {
+          "element": "이중처벌 금지",
+          "target_field": "original_text",
+          "target_quote": "同一한 犯罪에 對하여 두 번 處罰되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "(20) No person shall be twice put in jeopardy of punishment for the same offense.",
+          "commonality": "같은 범죄에 대해 두 번 처벌의 위험에 놓이지 않는다는 금지를 '두 번/twice', '동일 범죄/same offense' 어휘로 규정한다.",
+          "difference": "후보는 '처벌의 위험에 놓임'과 함께 법률·조례 중복처벌 시 유·무죄 판단의 소추 차단 효과까지 규정하지만, 대상은 '두 번 처벌' 금지만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_035",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가평의회 의원의 면책특권 규정으로 대상 조문의 형사법상 보장과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_023",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률에 의하지 않은 처벌 금지라는 점에서 죄형법정주의적 취지가 겹치지만, '행위시'라는 시점 기준과 이중처벌 금지가 없어 구체적 대응이라 보기 어렵다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "권리주체를 '모든 國民'으로 한정한 표현(후보들은 '何人も', 'any person', 'No person' 등)",
+    "효과를 '訴追를 받지 아니한다'로 명시한 문형(후보들은 형사책임 추궁 금지 또는 입법 금지 형식)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며, 제공 본문만으로는 어느 후보가 실제 기초 과정에서 참조되었는지 역사적 영향은 확정할 수 없다.",
+    "독일어·프랑스어·영어 후보의 일부 판단은 제공된 원문 문언 범위 내에서만 이루어졌다."
+  ],
+  "short_answer": "대상 조문은 ①행위시 법률 기준의 소급 소추 금지와 ②동일 범죄 이중처벌 금지를 한 조문에 병렬한 구조인데, 이 두 요소를 모두 갖춘 후보는 일본국헌법 제39조와 필리핀헌법 제3조(11)·(20)이고, 이중처벌 금지만 대응하는 후보는 미국 수정헌법 제5조다. 특히 일본국헌법 제39조는 '실행 시 적법한 행위'와 '又、同一の犯罪について' 두 문장을 이어 붙인 문형이 대상의 '行爲時의 法律…또 同一한 犯罪에 對하여'와 가장 가깝다. 차이로는 대상이 효과를 '소추를 받지 아니한다'·'두 번 處罰되지 아니한다'로 규정하는 반면, 일본국헌법은 '형사상 책임', 미국·필리핀은 '처벌의 위험(jeopardy)'으로 규정하고 필리핀은 소급처벌 부분을 입법 금지 형식으로 둔 점이 있다. 의원 면책특권 계열(오스트리아 57조, 바이마르 36조, 프랑스 21조·13조, 프로이센 자유주 35조)과 법률에 의한 처벌 규정(약헌 제6조, 대일본제국헌법 23조)은 주제·용어 수준의 유사성에 그친다. 이상은 문언 대응 판단이며 실제 참조 여부의 확정은 아니다."
+}

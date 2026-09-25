@@ -1,0 +1,63 @@
+{
+  "article": 82,
+  "reviewed_at": "2026-09-22T16:24:40.545864+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "0520aebb6dd003f81afc4ebe47c4597d07016363d50844004a5f65b2745c5dbb",
+  "input_sha256": "40f8a65efc204d80303eb8fe41f7d039f5026ec60b0d23cc562bf94819858b97",
+  "responses": [
+    {
+      "job_id": "082_cd94484adcc8_r1",
+      "repeat": 1,
+      "sha256": "c910955adee0139af53bd5dc814672d321e260b27f9736bce4704e74ed59614d",
+      "assessment": "약헌·일본의 내부규율 및 사무처리 대응과 필리핀의 권한 대응은 적절함. 오스트리아 예외법원의 법률상 허용 조건은 수정해야 함."
+    },
+    {
+      "job_id": "082_cd94484adcc8_r2",
+      "repeat": 2,
+      "sha256": "b62d3baa7b23bd37cb554d0ec470cfbe00d2aedf81f4aac1c4db31c18c1b3861",
+      "assessment": "규칙사항과 제정 주체, 부수 통제를 구분함. 법률유보와 규칙제정권을 제도 전체의 반대 관계로 확장하지 않아야 함."
+    },
+    {
+      "job_id": "082_cd94484adcc8_r3",
+      "repeat": 3,
+      "sha256": "812a373ee2eaa8e11257173991e8147cf45b3b31eaa5ae2e67966268c9e3b2b6",
+      "assessment": "주요 대응은 적절함. 규칙 효력 범위를 양 조문의 공통 내용으로 적은 부분은 좁혀야 함."
+    }
+  ],
+  "synthesis": "약헌 제48조와 일본 제77조는 최고법원이 법원의 내부규율 및 사법 사무처리에 관한 규칙을 정한다는 문언에서 직접 대응함. 일본은 소송절차·변호사 관련 사항과 하급재판소 위임을 더 규정하고 두 후보 모두 검찰관의 복종을 명시함. 필리핀 제8조 제13절은 대법원의 규칙제정권에 대응하되 규칙사항과 의회의 폐지·변경·보충권을 구분해야 함. 대상의 사무처리에 사법이라는 수식어가 없다는 사실만으로 적용 범위가 실질적으로 더 넓다고 확정하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "qualification_omission",
+      "finding": "오스트리아 제83조를 예외법원 금지라고 요약하나 형사절차법이 규정한 경우에는 허용함.",
+      "action": "조건부 허용을 명시함.",
+      "candidate_id": "AT1920_ORIGINAL_ART_083",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "false_contrast",
+      "finding": "법원 조직의 법률유보와 대법원 규칙제정권을 반대에 가깝다고 설명함. 서로 다른 규율 대상에서는 양립 가능함.",
+      "action": "조직과 내부규칙의 규율 대상·형식 차이로 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "unsupported_scope_inference",
+      "finding": "사법 수식어 부재를 더 넓은 사무처리 범위로 단정하고 규칙 효력 범위를 양 조문의 공통 내용으로 적음.",
+      "action": "명시된 수식어 차이와 규칙사항만 비교함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

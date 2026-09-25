@@ -1,0 +1,91 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_036",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_011",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원(院)의 의장단을 선출한다는 주제는 겹치나, 규율 초점이 임기(매년 회기 단위 선출)와 국민의회 합동 시 의장단 구성에 있고, 의장·부의장의 인원수를 정하지 않아 대상 조문의 '1인·2인' 규율과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_058",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 스스로 의장을 뽑는다는 일반적 규율은 공통되나, 대상은 '의장 1인 부의장 2인'이라는 정수(定數)를 명시하는 반면 후보는 '의장 기타 임원'을 선임한다고만 하고 인원수·부의장 언급이 없으며, 규칙제정·징벌 규정이 함께 놓여 조문 구성이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'[의회]는 의장 및 부의장 O명을 선거한다'는 문형과 부의장 2인이라는 구체적 수치가 일치하여, 규율 요소(선출 주체·대상 직위·정수·'선거' 용어) 수준에서 직접 비교할 만하다.",
+      "evidence": [
+        {
+          "element": "선출 주체와 문형",
+          "target_field": "original_text",
+          "target_quote": "國會는 議長 1人 副議長 2人을 選擧한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高人民會議는 議長 및 副議長 二名을 選擧한다.",
+          "commonality": "의회 자신이 주체가 되어 의장·부의장을 '선거한다'는 동일한 단문 구조",
+          "difference": "주체가 국회 대 최고인민회의로 다르고, 대상은 '議長 1人'까지 수를 명시하나 후보는 의장의 수를 적지 않고 부의장에만 '二名'을 붙임"
+        },
+        {
+          "element": "부의장 정수",
+          "target_field": "workbook_text_ko",
+          "target_quote": "부의장 2인을 선거한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "副議長 二名",
+          "commonality": "부의장을 2인으로 정한 수치가 동일",
+          "difference": "표기가 '2인'과 '二名'으로 다르며, 대상은 의장 수까지 병기하는 형식"
+        },
+        {
+          "element": "조문의 범위(효과·후속 규율)",
+          "target_field": "original_text",
+          "target_quote": "國會는 議長 1人 副議長 2人을 選擧한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "議長은 最高人民會議에서 採擇한 規定에 依하여 會議를 指導한다.",
+          "commonality": "의장 선출을 규정한 조문이라는 점",
+          "difference": "후보는 의장의 회의 지도 권한과 그 근거(회의가 채택한 규정)를 추가로 규정하나, 대상 조문에는 그러한 권한·절차 규정이 없음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 의장·대리인(부의장)·서기를 선출한다는 점은 유사하나, 인원수 규정이 없고 서기 선출과 의사규칙 자율 제정이 함께 규정되어 대상 조문의 정수 규율과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_037",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "선출 주체가 국가평의회(Staatsrat)이고 서기와 그 대리인 선출 및 의사규칙 규정을 포함하여, 의장 1인·부의장 2인이라는 대상의 정수 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_018",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 의장과 그 대리인 등 의장단을 선출한다는 일반적 유사성만 있고, 부의장 수 등 정수 규정이 없어 구체적 규율 요소의 대응이 확인되지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_126",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "현(縣)의 현장 설치와 주민에 의한 선거를 규정한 지방자치 조항으로, 의회 내부 임원 선출이라는 대상 조문과 주체·대상 직위·선출권자가 모두 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "의장의 수를 '1人'으로 명시한 점"
+  ],
+  "limitations": [
+    "문언상의 대응 관계만 확인한 것이며 실제 참조·계수 여부의 역사적 확정은 제공 본문만으로 불가능하다.",
+    "후보 중 한자 표기 원문과 유럽어 원문이 혼재하여 용어 대응 비교의 정밀도에 한계가 있다."
+  ],
+  "short_answer": "대상 조문과 문언상 가장 밀접한 것은 NK1948 초안 제39조로, '[의회]는 의장 및 부의장 O명을 선거한다'는 동일 문형과 부의장 2명이라는 수치가 일치한다. 다만 대상은 '議長 1人'까지 수를 명시하는 반면 후보는 의장 수를 적지 않고, 후보에는 의장의 회의 지도 권한 규정이 추가되어 있다. 일본국헌법 제58조, 바이마르 제26조, 프로이센 제18·37조, 프랑스 1875년 제11조는 의회가 의장(단)을 스스로 선출한다는 주제적 유사성은 있으나 인원수 규율이 없고 서기·의사규칙·임기 등 다른 요소를 함께 규정하여 일반적 유사에 그친다. 중화민국헌법 제126조는 지방 현장 선거 조항으로 무관하다. 이상은 문언 대응 판단이며 역사적 영향의 확정은 아니다."
+}

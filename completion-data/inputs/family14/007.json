@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_007",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "7",
+    "original_text": "批准公布된 國際條約과 一般的으로 承認된 國際法規는 國內法과 同一한 效力을 가진다.\n外國人의 法的地位는 國際法과 國際條約의 範圍內에서 保障된다.",
+    "workbook_text_ko": "비준공포된 국제조약과 일반적으로 승인된 국제법규는 국내법과 동일한 효력을 가진다.\n외국인의 법적지위는 국제법과 국제조약의 범위내에서 보장된다."
+  },
+  "candidates": [
+    {
+      "article_id": "US1787_ORIGINAL_ART_VI",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "VI",
+      "original_text": "All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.\nThis Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.\nThe Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.",
+      "workbook_text_ko": "이 헌법이 채택되기 전에 계약된 모든 채무와 체결된 모든\n약정은 이 헌법에서도 연합규약에서와 마찬가지로 합중\n국에 대하여 유효하다.\n이 헌법과 이 헌법에 준거하여 제정되는 합중국의 법률\n그리고 합중국의 권한에 의하여 체결되었거나 체결될 모\n든 조약은 이 국가의 최고법이며, 모든 주의 법관은, 어\n느 주의 헌법이나 법률 중 이에 반하는 규정이 있을지라\n도, 이 최고법에 구속된다.\n앞서 언급한 상원 및 하원의원, 각 주의 주의회 의원, 합\n중국 및 각 주의 행정관 및 사법관은 선서 또는 확약에\n의하여 이 헌법을 옹호할 의무가 있다. 다만, 미합중국의\n어떠한 관직 또는 위임에 의한 공직에도 그 자격 요건으\n로서 종교상의 심사는 요구되지 않는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_098",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "98",
+      "original_text": "この憲法は、国の最高法規であつて、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。\n２　日本国が締結した条約及び確立された国際法規は、これを誠実に遵守することを必要とする。",
+      "workbook_text_ko": "①헌법은 국가의 최고법규로서, 이에 반하는 법률, 명령, 조칙 및 국무에 관한 그 밖의 행위 전부 또는 일부는 그 효력이 없다.\n②일본이 체결한 조약 및 확립된 국제법규는 이를 성실하게 준수하여야 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_106",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "106",
+      "original_text": "Gesetze und Verordnungen sind verbindlich, wenn sie in der vom Gesetze vorgeschriebenen Form bekannt gemacht worden sind.\nDie Prüfung der Rechtsgültigkeit gehörig verkündeter Königlicher Verordnungen steht nicht den Behörden, sondern nur den Kammern zu.",
+      "workbook_text_ko": "법률과 명령은 법률이 정한\n방식으로 공포된 경우에 구속력이\n있다.\n정당하게 공포된 국왕의 명령의 법적\n유효성에 대한 심사권은 관청이\n아니라 오로지 의회 양원에 속한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_030",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "30",
+      "original_text": "政府主席이 署名한 法律、命令 及 條約의 發表 其他 國務에 關한 文書에는 國務總長 及 各國務委員 또는 主務行政部長이 副署하여야 함 副署로써 立法議院에 對하여 責任을 짐",
+      "workbook_text_ko": "정부주석이 서명한 법률·명령 및 조약의 발표, 기타 국무에 관한 문서에는 국무총장 및 각 국무위원 또는 주무 행정부장이 부서하여야 함. 부서로써 입법의원에 대하여 책임을 짐."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_049",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "49",
+      "original_text": "最高人民會議 常任委員會는 다음의 任務를 가진다.\n一. 最高人民會議의 召集\n二. 憲法 및 法令의 實施에 對한 監督 現行法令의 解釋 및 政令의 公布\n三. 憲法 및 法令에 抵觸되는 內閣의 決定 指示의 廢止\n四. 最高人民會議가 採擇한 法令의 公布\n五. 特赦權의 行使\n六. 最高人民會議 休會中 首相의 提議에 依한 相의 任免 및 이에 對한 次期人民會議의 承認의 要求\n七. 勳章 또는 名譽稱號의 授與\n八. 外國과의 條約批准\n九. 外國에 駐在하는 大使 公使의 任命 및 召還\n十. 外國使臣의 信任狀 및 解任狀의 接受",
+      "workbook_text_ko": "최고인민회의 상임위원회는 다음의 임무를 가진다.\n1. 최고인민회의의 소집\n2. 헌법 및 법령의 실시에 대한 감독 현행법령의 해석 및 정령의 공포\n3. 헌법 및 법령에 저촉되는 내각의 결정 지시의 폐지\n4. 최고인민회의가 채택한 법령의 공포\n5. 특사권의 행사\n6. 최고인민회의 휴회 중 수상의 제의에 의한 상의 임면 및 이에 대한 차기인민회의의 승인의 요구\n7. 훈장 또는 명예칭호의 수여\n8. 외국과의 조약비준\n9. 외국에 주재하는 대사 공사의 임명 및 소환\n10. 외국사신의 신임장 및 해임장의 접수"
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_076",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "76",
+      "original_text": "法律規則命令又ハ何等ノ名称ヲ用ヰタルニ拘ラス此ノ憲法ニ矛盾セサル現行ノ法令ハ総テ遵由ノ効力ヲ有ス\n２　歳出上政府ノ義務ニ係ル現在ノ契約又ハ命令ハ総テ第六十七条ノ例ニ依ル",
+      "workbook_text_ko": "법률·규칙·명령 또는 어떠한 명칭을 사용하였든, 이 헌법에 모순되지 않는 현행 법령은 모두 계속 효력을 가진다.\n② 세출상 정부의 의무에 관계되는 현재의 계약이나 명령은 모두 제67조의 예에 따른다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_009",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "9",
+      "original_text": "Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteile des Bundesrechtes.",
+      "workbook_text_ko": "일반적으로 승인된 국제법의 규칙은 연방법의 구성부분으로서 효력을 가진다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "8",
+      "original_text": "Le Président de la République négocie et ratifie les traités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent. - Les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ne sont définitifs qu'après avoir été votés par les deux chambres. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.",
+      "workbook_text_ko": "공화국대통령은 조약을 교섭하고 비준한다. 국가의 이익과 안전\n(l'intérêt et la sûreté de l'État)이 그것을 허락할 때에는 즉시조약의 교섭과\n비준을 양원에 보고한다.\n평화조약, 통상조약, 국가재정을 구속하는 조약, 개인의 신분과 외국에\n있는 프랑스인의 소유권에 관한 조약은 양원에서 채택한 후가 아니면 확정\n되지 아니한다. 영토의 어떠한 할양ㆍ교환ㆍ부가도 법률에 의하지 아니하\n면 할 수 없다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_141",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "141",
+      "original_text": "中華民國之外交，應本獨立自主之精神，平等互惠之原則，敦睦邦交，尊重條約及聯合國憲章，以保護僑民權益，促進國際合作，提倡國際正義，確保世界和平。",
+      "workbook_text_ko": "中華民國의 外交는 獨立自主의 精神과 平等互惠의 原則을 基本으로 하여 國交를 敦睦히하고 條約과 國際聯合憲章을 尊重함으로써 僑民의  權益을 保護하고 國際協助를 促進하며 國際正義를 提唱하고 世界平和를 確保함을 目的으로 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_061",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "61",
+      "original_text": "(1) Ein Gesetz ist verbindlich, wenn es verfassungsmäßig zustande gekommen und vom Staatsministerium in der vorgeschriebenen Form verkündet worden ist. Bei der Verkündung muß ausgesprochen sein, daß das Gesetz vom Landtag oder durch Volksentscheid beschlossen worden ist. Artikel 13 der Reichsverfassung wird hierdurch nicht berührt.\n(2) Wenn das Gesetz nichts anderes bestimmt, tritt es mit dem vierzehnten Tage nach Ausgabe des die Verkündung enthaltenden Stückes der Gesetzsammlung in Kraft.\n(3) Die Gesetze sind binnen Monatsfrist zu verkünden.",
+      "workbook_text_ko": "(1) 법률은 헌법에 따라 성립하고 주내각이 정해진 형식으로 공포한 때에 구속력을 가진다. 공포할 때에는 그 법률이 주의회 또는 국민표결로 의결되었음을 밝혀야 한다. 독일국헌법 제13조는 이로 인하여 영향을 받지 않는다.\n(2) 법률에 다른 정함이 없으면 그 공포를 수록한 법령집 해당 호가 발행된 후 제14일부터 시행한다.\n(3) 법률은 1개월 이내에 공포하여야 한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_004",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "4",
+      "original_text": "Die allgemein anerkannten Regeln des Völkerrechts gelten als bindende Bestandteile des deutschen Reichsrechts.",
+      "workbook_text_ko": "일반적으로 인정되는 국제법상의 규정은 독일제국법의 일부를 구성하며, 구속력을 갖는다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_026",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "26",
+      "original_text": "Les traités diplomatiques régulièrement ratifiés et publiés ont force de loi dans le cas même où ils seraient contraires à des lois françaises, sans qu'il soit besoin pour en assurer l'application d'autres dispositions législatives que celles qui auraient été nécessaires pour assurer leur ratification.",
+      "workbook_text_ko": "적법하게 비준․공포된 외교조약은 프랑스의 법률(lois françaises)에\n반하는 경우에도 법률로서의 효력을 가진다. 조약의 적용을 확보하기 위하여, 그 비준을 확보하는 데 필요하였던 법률 규정 외에 다른 법률 규정을 필요로 하지 아니한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_II",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "II",
+      "original_text": "Section 1. The Philippines is a republican state. Sovereignty resides in the people and all government authority emanates from them.\nSec. 2. The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.\nSec. 3. The Philippines renounces war as an instrument of national policy, and adopts the generally accepted principles of international law as a part of the law of the Nation.\nSec. 4. The natural right and duty of parents in the rearing of the youth for civic efficiency should receive the aid and support of the Government.\nSec. 5. The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+      "workbook_text_ko": "第一條 比律賓國은 共和政體이다. 主權은 人民에 있고 一切의 權限은 人民에 淵源함으로 함.\n第二條 國家의 防備는 政府의 第一義務로서 本義務遂行함에 全市民에게 法律로써 親히 軍事 혹은 民間의 勤務를 할 것을 要求할 수 있다.\n第三條 比律賓은 國策遂行의 手段으로서 戰爭을 否認하는 동시에 公認된 國際法의 諸法則을 國法의 一部로써 採用함.\n第四條 公民的 能力을 靑年에게 涵養함은 父母인 자의 自然의 權利임과 함께 또 義務이여서 政府의 援助 及 補助를 受할 것으로 함.\n第五條 人民의 福祉 及 經濟的 安泰를 保證키 위하야 社會正義의 向上은 國家의 關心하지 안으면 안 된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_064",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "64",
+      "original_text": "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案、及其他關於重要國際事項之權。",
+      "workbook_text_ko": "입법원은 법률안·예산안·계엄안·대사안·선전안·강화안·조약안 및 그 밖의 중요한 국제사항을 의결할 권한을 가진다."
+    }
+  ]
+}

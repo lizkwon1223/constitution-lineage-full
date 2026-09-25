@@ -1,0 +1,102 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_018",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_151",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "경제생활 질서와 영업의 자유를 법률에 따라 보장한다는 구조는 '법률의 범위내에서 보장' 문형과 막연히 유사하나, 근로자의 단결·단체교섭·단체행동이나 이익배당 균점 등 대상 조문의 구체적 규율 요소와 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_159",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "근로조건 유지·개선을 위한 결사의 자유를 보장한다는 점에서 대상 제1항의 단결의 자유 보장과 규율 대상과 문형이 구체적으로 대응한다. 다만 단체교섭·단체행동의 명시와 '법률의 범위내'라는 유보, 이익균점권은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "근로자의 단결의 자유 보장",
+          "target_field": "original_text",
+          "target_quote": "勤勞者의 團結, 團體交涉과 團體行動의 自由는 法律의 範圍內에서 保障된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Vereinigungsfreiheit zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen ist für jedermann und für alle Berufe gewährleistet.",
+          "commonality": "노동관계상의 조건을 위한 단결(결사)의 자유를 헌법상 보장한다는 점이 공통된다.",
+          "difference": "주체가 후보는 '모든 사람·모든 직업'이고 대상은 '근로자'로 한정되며, 대상은 단체교섭·단체행동까지 명시한다."
+        },
+        {
+          "element": "보장의 조건·유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 범위내에서 보장된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Abreden und Maßnahmen, welche diese Freiheit einzuschränken oder zu behindern suchen, sind rechtswidrig.",
+          "commonality": "자유의 보장 범위를 규정하는 조항이라는 점에서 대응 지점이 있다.",
+          "difference": "후보는 제한하려는 합의·조치를 위법으로 선언해 제한을 배제하는 방향이고, 대상은 법률의 범위 내라는 유보를 두어 방향이 반대이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "결사의 권리를 법률로 규제한다는 일반적 구조는 '법률의 범위내' 유보와 유사하지만, 근로자라는 주체나 단체교섭·단체행동, 이익균점 등 특유 요소와의 구체적 대응은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "종교적 신앙고백과 종교단체 결성의 자유에 관한 조항으로, 근로자의 노동3권 및 이익균점권과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_005",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "신체의 자유와 그 제한의 법률유보에 관한 조항으로, '보장된다' 및 법률유보라는 상용 문형만 겹치고 노동3권·이익균점과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_028",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'근로자'라는 주체와 단결·단체교섭·단체행동의 열거 순서 및 보장 문형이 대상 제1항과 거의 그대로 대응한다. 다만 법률유보 문구와 제2항 이익균점권은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "주체와 보장 대상의 열거",
+          "target_field": "original_text",
+          "target_quote": "勤勞者의 團結, 團體交涉과 團體行動의 自由",
+          "candidate_field": "original_text",
+          "candidate_quote": "勤労者の団結する権利及び団体交渉その他の団体行動をする権利",
+          "commonality": "'근로자'를 주체로 하여 단결·단체교섭·단체행동을 같은 순서로 열거한다.",
+          "difference": "후보는 '권리'로, 대상은 '자유'로 규정하고, 후보의 '그 밖의'라는 포괄 표현이 대상에는 없다."
+        },
+        {
+          "element": "보장의 조건·유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 범위내에서 보장된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "これを保障する",
+          "commonality": "해당 자유·권리를 헌법이 보장한다고 선언하는 결어 구조가 같다.",
+          "difference": "후보는 유보 없이 보장하는데 대상은 '법률의 범위내에서'라는 법률유보를 붙인다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_160",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "근로자(종업원·노동자)의 권리를 인정하고 그 범위를 법률로 정하도록 하는 구조가 제2항의 '법률의 정하는 바에 의하여' 문형과 유사하나, 권리 내용이 공민권 행사를 위한 자유시간·보수청구로 이익배당 균점과 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "영리를 목적으로 하는 사기업에서 근로자의 이익분배 균점권(제2항)",
+    "제2항의 '법률의 정하는 바에 의하여'라는 형성적 법률유보"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 역사적 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어 후보의 해석에서 워크북 번역문의 영향을 완전히 배제하기 어렵다."
+  ],
+  "short_answer": "일본국헌법 제28조는 '근로자'라는 주체와 단결·단체교섭·단체행동의 열거 순서, 보장 선언 문형이 대상 제1항과 가장 구체적으로 대응한다. 바이마르 헌법 제159조는 노동·경제조건의 유지·개선을 위한 결사의 자유 보장이라는 점에서 단결의 자유 요소와 대응하지만, 주체가 모든 사람·모든 직업으로 넓고 제한하려는 합의를 위법으로 선언하는 점에서 대상의 '법률의 범위내' 유보와 방향이 반대다. 바이마르 제151조·제160조와 프로이센 제30조는 법률유보 문형이나 근로자 관련성이라는 일반적 유사성에 머문다. 제2항의 사기업 이익분배 균점권은 어떤 후보에서도 대응 문언을 찾을 수 없다. 이상은 문언 대응 검토이며 실제 참조 여부의 확정은 아니다."
+}

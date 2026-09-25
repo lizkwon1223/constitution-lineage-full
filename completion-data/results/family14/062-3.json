@@ -1,0 +1,207 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_062",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_091",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'任免'이라는 동일 용어를 쓰지만 주체가 검사총장이고 대상이 도·시·군검사로 한정된 검찰 인사 조항이어서, 대통령의 포괄적 공무원 임면권 및 헌법·법률 유보라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_046",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(대통령), 권한(공무원 임명과 면직), 법률에 의한 제약이라는 세 요소가 한 문장 안에서 대응한다. 다만 법률 유보의 문형이 '달리 정하지 않은 한'이라는 예외형이고 위임 규정이 추가되어 있어 대응 범위는 임면권의 주체·대상·법률 제약에 한정된다.",
+      "evidence": [
+        {
+          "element": "주체와 임면 권한",
+          "target_field": "original_text",
+          "target_quote": "大統領은 憲法과 法律의 定하는 바에 依하여 公務員을 任免한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident ernennt und entläßt die Reichsbeamten und die Offiziere",
+          "commonality": "대통령이 공무원의 임명과 면직을 함께 행하는 권한을 가진다는 구조가 같다.",
+          "difference": "후보는 '제국공무원과 장교'로 대상을 열거하고, 대상 조문은 '공무원'으로 포괄한다."
+        },
+        {
+          "element": "법률에 의한 제약 방식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "헌법과 법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "soweit nicht durch Gesetz etwas anderes bestimmt ist",
+          "commonality": "임면권 행사가 법률의 규율을 받는다는 점이 공통된다.",
+          "difference": "후보는 '법률로 달리 정하지 않은 한'이라는 예외적 제한 문형이고 헌법은 언급하지 않으며, 대상 조문은 헌법과 법률이 정하는 바에 따른다는 적극적 근거 문형이다."
+        },
+        {
+          "element": "권한 위임 여부",
+          "target_field": "original_text",
+          "target_quote": "公務員을 任免한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Er kann das Ernennungs- und Entlassungsrecht durch andere Behörden ausüben lassen.",
+          "commonality": "임명권·면직권을 하나의 권한 단위로 묶어 규정한다.",
+          "difference": "후보는 다른 관청에 의한 대행(위임)을 명문화했으나 대상 조문에는 위임 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_015",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'공무원'이라는 용어는 겹치지만 선정·파면의 주체를 국민의 고유 권리로 규정한 기본권형 조항이어서, 대통령의 임면 권한 조항인 대상 조문과는 주체·성격이 대조된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 모든 문관·무관을 임명한다는 문구가 있어 주제는 겹치지만, 면직이 포함되지 않고 헌법·법률에 의한다는 조건이 없으며 대통령 권한 열거 조항의 한 항목에 불과해 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'본법 기타 법률이 정하는 바에 의한 공무원의 임면'이라는 표현이 대상 조문의 '헌법과 법률의 정하는 바에 의하여 공무원을 임면한다'와 근거 규범(헌법+법률) 병기, 대상 용어(공무원), 임면 결합에서 밀접하게 대응한다. 다만 주체와 조항 형식의 차이가 있어 대응은 해당 호에 한정된다.",
+      "evidence": [
+        {
+          "element": "근거 규범의 병기(헌법+법률)",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法 其他 法律이 定하는 바에 依한",
+          "commonality": "헌법(본법)과 법률을 함께 임면권의 근거로 드는 문형이 같다.",
+          "difference": "후보는 '본법 기타 법률'로 표현하고 자신을 지칭하는 형식이며, 대상 조문은 '헌법과 법률'로 병기한다."
+        },
+        {
+          "element": "대상과 권한 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공무원을 임면한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公務員의 任免 及 監督",
+          "commonality": "포괄적 용어 '공무원'의 임면을 대상으로 한다.",
+          "difference": "후보는 임면에 더해 '감독'까지 권한에 포함하나 대상 조문은 임면만 규정한다."
+        },
+        {
+          "element": "주체와 조문 형식",
+          "target_field": "original_text",
+          "target_quote": "大統領은",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國家를 代表하고 行政權을 統轄하며 左의 權限을 行함",
+          "commonality": "국가원수적 집행부 수장에게 공무원 임면권을 부여한다.",
+          "difference": "후보는 정부주석의 권한을 호로 열거하는 형식이고, 대상 조문은 대통령을 주체로 한 독립 단문이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 법률로 정해지는 공무원을 임명한다는 내용이 포함되나, 상원의 권고·동의 절차와 하급공무원 임명권 부여 등 절차 중심 규율이어서 헌법·법률 유보하의 포괄적 임면이라는 대상 조문의 문형과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 임명권을 규정하지만 임명위원회 동의, 계급별 대상 열거, 휴회 중 임명 등 절차적 요건이 중심이어서 대상 조문의 단문형 임면 규정과의 구체적 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_041",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통은 법에 의하여 임면한다'는 단문 구조가 주체·법률 유보·임면 결합에서 대상 조문과 거의 동일한 문형을 보인다. 다만 대상이 '문무관원'이고 근거가 '依法'으로 헌법 병기가 없다는 점에서 대응 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "주체·근거·임면의 단문 구조",
+          "target_field": "original_text",
+          "target_quote": "大統領은 憲法과 法律의 定하는 바에 依하여 公務員을 任免한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法任免文武官員。",
+          "commonality": "국가원수가 법이 정하는 바에 따라 임면한다는 한 문장의 동일한 구성(주체+법률근거+任免+대상)이다.",
+          "difference": "후보의 근거는 '依法'으로 헌법을 병기하지 않고, 대상은 '文武官員'으로 문무관을 열거하는 반면 대상 조문은 '헌법과 법률' 병기와 포괄적 '공무원'을 쓴다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_066",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방대통령의 공무원 임명권을 전제하지만 규율 내용은 그 권한의 정부 구성원에 대한 위임이어서, 임면권의 근거와 대상을 정하는 대상 조문과는 규율 초점이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_052",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공무원 임명 주체가 주내각이고 대상이 '국가에 직접 소속되는 공무원'으로 한정되며 법률 유보 문구도 없어, 대통령·헌법과 법률이라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_042",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "ROC1946 제41조와 동일한 문언으로, 원수 주체·법률 근거·임면·대상 열거가 대상 조문의 단문 구조와 대응한다. 대응은 문형과 요소 배열에 한정되며 헌법 병기와 '공무원' 용어는 다르다.",
+      "evidence": [
+        {
+          "element": "법률 근거에 따른 임면 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "헌법과 법률의 정하는 바에 의하여 공무원을 임면한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法任免文武官員。",
+          "commonality": "'법이 정하는 바에 의하여 임면한다'는 근거 유보형 임면 규정이 동일한 어순으로 나타난다.",
+          "difference": "후보는 헌법을 근거로 병기하지 않고 대상을 문무관원으로 특정하며, 대상 조문은 헌법·법률을 병기하고 공무원으로 포괄한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국왕이 임면하는 대상이 장관으로 한정되고 법률 유보 문구가 없어, 헌법·법률에 따른 포괄적 공무원 임면이라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_010",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "임면 권한과 함께 '이 헌법 또는 다른 법률'의 특례를 근거로 드는 구조가 대상 조문의 '헌법과 법률의 정하는 바에 의하여'와 요소상 대응한다. 다만 주체가 천황이고 대상이 문무관이며, 후보는 관제·봉급 결정권과 예외조항 형식을 취한다는 점에서 대응 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "헌법과 법률을 함께 언급하는 근거 규정",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "但シ此ノ憲法又ハ他ノ法律ニ特例ヲ掲ケタルモノハ各々其ノ条項ニ依ル",
+          "commonality": "임면권의 규율 근거로 헌법과 법률을 함께 드는 점이 공통된다.",
+          "difference": "후보는 헌법·법률에 특례가 있는 경우 그 조항에 따른다는 단서(예외) 형식이고, 대상 조문은 헌법과 법률이 정하는 바에 따라 권한을 행사한다는 적극적 근거 형식이다."
+        },
+        {
+          "element": "임면 권한과 대상",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공무원을 임면한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "文武官ヲ任免ス",
+          "commonality": "임명과 면직을 '任免'으로 묶어 규정하는 용어가 같다.",
+          "difference": "후보의 대상은 문무관이고 주체는 천황이며, 관제·봉급 결정권이 함께 규정되어 있다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_084",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 임명권이지만 대상이 사법관으로 한정되고 최고평의회 추천이라는 절차 요건이 핵심이어서, 헌법·법률 유보하의 포괄적 공무원 임면과는 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'公務員'이라는 포괄 용어와 '헌법과 법률' 병기를 동시에 갖춘 단문 형태 전체(후보들은 대상 용어 또는 근거 병기 중 한쪽만 대응)"
+  ],
+  "limitations": [
+    "문언상의 요소 대응만 검토했으며, 특정 후보가 실제로 참조되었다는 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "중화민국 두 후보는 문언이 동일하여 어느 쪽이 대응 근거인지 본문만으로는 구별할 수 없다."
+  ],
+  "short_answer": "대상 조문의 '주체(대통령)+헌법·법률 근거+공무원 임면'이라는 세 요소와 구체적으로 대응하는 후보는 조선임시약헌 제22조 제8호('본법 기타 법률이 정하는 바에 의한 공무원의 임면'), 바이마르 제46조(대통령의 공무원·장교 임면과 법률 유보), 중화민국헌법 제41조 및 五五憲草 제42조('總統依法任免文武官員'), 대일본제국헌법 제10조(문무관 임면과 '此ノ憲法又ハ他ノ法律' 특례)이다. 공통점은 집행부 수장이 법(또는 헌법과 법률)이 정하는 바에 따라 임명과 면직을 함께 행한다는 단문형 권한 규정이다. 차이로는 주체(정부주석·제국대통령·총통·천황), 대상 용어(공무원 대 문무관원·제국공무원과 장교), 근거 문형(적극적 근거 대 '법률로 달리 정하지 않은 한'·특례 단서), 부가 요소(감독, 위임, 관제·봉급 결정)가 있다. 나머지 후보들은 임명 주체가 국민·내각·검사총장이거나 대상이 장관·사법관으로 한정되고, 미국·필리핀 조항은 상원·임명위원회 동의 절차가 중심이어서 주제 유사에 그친다. 이상은 문언 대응 관계이며 실제 참조 여부의 확정은 아니다."
+}

@@ -1,0 +1,112 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_039",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_087",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가기관이 입법기관에 법률안을 제출할 수 있다는 점은 겹치나, 제출 주체가 考試院이라는 특정 기관이고 '所掌事項'이라는 소관사항 한정 조건이 붙어 있어, 국회의원과 정부 일반에 포괄적 발의권을 부여하는 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정안 발의·국민투표 비준 절차에 관한 규정으로, 통상 법률안 제출권의 주체를 정하는 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_069",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "정부의 법률안 제출을 전제로 하나, 초점이 제국상원의 동의 요건과 의견 병기라는 절차적 조건에 있어 제출권 주체를 단순 병렬 선언하는 대상 조문과 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_041",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원의 발의와 정부의 제출을 법률안의 두 경로로 병렬 규정하는 점에서 대상 조문의 주체 구성과 구체적으로 대응한다. 다만 참사원의 정부 경유 발의와 국민발안 부분은 대상 조문에 대응이 없다.",
+      "evidence": [
+        {
+          "element": "법률안 제출 주체(의원·정부 병렬)",
+          "target_field": "original_text",
+          "target_quote": "國會議員과 政府는 法律案을 提出할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Gesetzesvorschläge gelangen an den Nationalrat entweder als Anträge seiner Mitglieder oder als Vorlagen der Bundesregierung.",
+          "commonality": "의회 구성원과 정부(내각)를 법률안 제출의 두 주체로 나란히 규정한다.",
+          "difference": "대상은 두 주체에게 '제출할 수 있다'는 권한을 직접 부여하는 형식이고, 후보는 법률안이 국민의회에 회부되는 경로(의원 발의/정부 제출)를 서술하는 형식이며, 수범 대상 의회가 양원 중 국민의회로 특정된다."
+        },
+        {
+          "element": "추가 발의 경로·국민발안",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원과 정부는 법률안을 제출할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Jeder von 200.000 Stimmberechtigten oder von je der Hälfte der Stimmberechtigten dreier Länder gestellte Antrag (Volksbegehren) ist von der Bundesregierung dem Nationalrat zur geschäftsordnungsmäßigen Behandlung vorzulegen.",
+          "commonality": "법률안이 국민의회에 제출되는 통로를 규정한다는 점에서 같은 주제 영역이다.",
+          "difference": "후보는 주참사원·직능참사원의 정부 경유 발의와 유권자 20만 명 등의 국민발안이라는 별도 주체·정족수 요건을 두는데, 대상 조문에는 이러한 추가 주체나 수치 요건이 전혀 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_041",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "1930년 개정판과 동일하게 의원 발의와 정부 제출을 법률안의 두 경로로 규정하여 대상 조문의 주체 병렬 구조와 대응한다. 대응 범위는 제1항 전단에 한정된다.",
+      "evidence": [
+        {
+          "element": "법률안 제출 주체(의원·정부 병렬)",
+          "target_field": "original_text",
+          "target_quote": "國會議員과 政府는 法律案을 提出할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Gesetzesvorschläge gelangen an den Nationalrat entweder als Anträge seiner Mitglieder oder als Vorlagen der Bundesregierung.",
+          "commonality": "의원과 정부 양자가 법률안을 발의·제출할 수 있다는 이원적 발안권 구조가 같다.",
+          "difference": "후보는 제출처를 국민의회로 명시하고 연방참사원의 정부 경유 발의라는 별도 경로를 두는 반면, 대상 조문은 제출처·경유 절차를 명시하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_038",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "정부의 법률안 제출과 의회 측의 법률안 제출을 한 문장 안에서 병렬적으로 규정하고 '提出スルコトヲ得'라는 가능형 문형을 쓰는 점이 대상 조문의 문형과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "제출권 주체와 가능형 문형",
+          "target_field": "original_text",
+          "target_quote": "國會議員과 政府는 法律案을 提出할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "各々法律案ヲ提出スルコトヲ得",
+          "commonality": "'법률안을 제출할 수 있다'는 권한 부여형 표현으로 의회 측과 정부 측의 제출권을 함께 인정한다.",
+          "difference": "후보의 제출 주체는 개개 의원이 아니라 '両議院'(각 의원)이며, 정부에 대해서는 제출권 자체를 선언하기보다 '政府ノ提出スル法律案ヲ議決シ'라는 의회의 의결 대상으로 전제하는 데 그친다."
+        },
+        {
+          "element": "의결 절차의 포함 여부",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원과 정부는 법률안을 제출할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院ハ政府ノ提出スル法律案ヲ議決シ",
+          "commonality": "정부가 법률안을 제출하는 것을 당연한 전제로 삼는다.",
+          "difference": "후보는 제출권과 함께 양원의 의결권까지 한 조문에 규정하나, 대상 조문은 제출권만 규정하고 의결 절차는 다루지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_067",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "입법원 위원회 설치와 정부 인원 출석·질의 응답에 관한 규정으로, 법률안 제출권 주체를 정하는 대상 조문과 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제출 주체를 '국회의원'(개별 의원)으로 명시한 점 — 후보들은 '両議院', 'seiner Mitglieder', '考試院' 등으로 주체 단위가 다름",
+    "제출처(국회)와 제출 절차·요건을 일체 규정하지 않은 간결한 구성"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어 후보의 의미 파악에 병기된 한국어 대역 이해가 일부 개입될 수 있으나, 인용은 원문에서 하였다."
+  ],
+  "short_answer": "오스트리아 연방헌법 제41조(원본 및 1930년 개정판) 제1항 전단과 대일본제국헌법 제38조가 대상 조문과 구체적으로 대응한다. 두 계열 모두 의회 측(의원 또는 양원)과 정부를 법률안 제출의 두 주체로 병렬 규정하며, 특히 일본 조문은 '提出スルコトヲ得'라는 가능형 문형이 '제출할 수 있다'와 일치한다. 차이로는 오스트리아 조문이 제출처를 국민의회로 특정하고 참사원 경유 발의·국민발안(20만 명 등)이라는 추가 주체와 정족수를 두는 점, 일본 조문이 주체를 개별 의원이 아닌 '両議院'으로 하고 의회의 의결권까지 함께 규정하는 점이 있다. 중화민국헌법 제87조는 기관의 법률안 제출권이라는 점에서 유사하나 주체가 고시원으로 한정되고 소관사항 요건이 붙어 선택하지 않았고, 바이마르 제69조는 제국상원 동의라는 절차 조건에 초점이 있어 제외했다. 이는 문언 대응 판단이며 역사적 참조 관계를 확정한 것은 아니다."
+}

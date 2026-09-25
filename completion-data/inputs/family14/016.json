@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_016",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "16",
+    "original_text": "모든 國民은 均等하게 敎育을 받을 權利가 있다. 적어도 初等敎育은 義務的이며 無償으로 한다.\n모든 敎育機關은 國家의 監督을 받으며 敎育制度는 法律로써 定한다.",
+    "workbook_text_ko": "모든 국민은 균등하게 교육을 받을 권리가 있다. 적어도 초등교육은 의무적이며 무상으로 한다.\n모든 교육기관은 국가의 감독을 받으며 교육제도는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_144",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "144",
+      "original_text": "Das gesamte Schulwesen steht unter der Aufsicht des Staates; er kann die Gemeinden daran beteiligen. Die Schulaufsicht wird durch hauptamtlich tätige, fachmännisch vorgebildete Beamte ausgeübt.",
+      "workbook_text_ko": "모든 학교제도는 국가의 감독을 받는다.\n국가는 시･읍･면으로 하여금 감독에 참여시킬 수 있다. 학교의 감독은 그를 주직으로 하고 전문가적 예비교육을 이수한 공무원이 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_023",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "23",
+      "original_text": "Alle öffentlichen und Privat-Unterrichts- und Erziehungsanstalten stehen unter der Aufsicht vom Staate ernannter Behörden.\nDie öffentlichen Lehrer haben die Rechte und Pflichten der Staatsdiener.",
+      "workbook_text_ko": "모든 공사(公私)의 강습․\n교육 시설은 국가가 지정한 관청의\n감독하에 놓인다.\n공립학교 교사는 공무원으로서의\n권리와 의무를 가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_133",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "133",
+      "original_text": "全國公私立之教育機關一律受國家之監督，並負推行國家所定教育政策之義務。",
+      "workbook_text_ko": "전국의 공립·사립 교육기관은 모두 국가의 감독을 받으며, 국가가 정한 교육정책을 추진할 의무를 진다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_005",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "5",
+      "original_text": "民國은 左記 各項 政策의 確立實施에 依하여 文化 及 厚生의 均等權을 享有함\n一 義務敎育制의 實施와 職業敎育의 擴充\n二 有能者 特別敎育의 擴充과 敎育費의 國庫負擔\n三 主要文化機關 及 娛樂機關의 公營\n四 體育施設의 適正分布와 公營\n五 醫療機關의 適正分布와 公營의 擴充\n六 助産院 託兒所 孤兒院 及 養老院의 公營\n七 少年 婦女의 夜間勞働 及 有害 또는 危險한 工作의 禁止",
+      "workbook_text_ko": "국민은 아래 각 항 정책의 확립·실시에 의하여 문화 및 후생의 균등권을 향유함.\n1. 의무교육제의 실시와 직업교육의 확충\n2. 유능자 특별교육의 확충과 교육비의 국고 부담\n3. 주요 문화기관 및 오락기관의 공영\n4. 체육시설의 적정 분포와 공영\n5. 의료기관의 적정 분포와 공영의 확충\n6. 조산원·탁아소·고아원 및 양로원의 공영\n7. 소년·부녀의 야간노동 및 유해 또는 위험한 작업의 금지"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_159",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "159",
+      "original_text": "國民受教育之機會一律平等。",
+      "workbook_text_ko": "國民은 均等하게 敎育을 받는 機會를 가진다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_VI",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "VI",
+      "original_text": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.",
+      "workbook_text_ko": "모든 형사 소추에서, 피고인은 범죄가 행하여진 주 및 법률\n이 미리 정하는 지역의 공정한 배심에 의한 신속한 공개 재판을\n받을 권리, 기소의 성질과 이유에 관하여 고지 받을 권리,\n자기에게 불리한 증인과 대질 심문을 할 권리, 자기에게 유\n리한 증인 확보를 위해 강제 절차를 제공 받을 권리, 자신\n의 변호를 위하여 변호인의 도움을 받을 권리를 가진다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_070",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "70",
+      "original_text": "Den politischen Gemeinden und Gemeindeverbänden wird das Recht der Selbstverwaltung ihrer Angelegenheiten unter der gesetzlich geregelten Aufsicht des Staates gewährleistet.",
+      "workbook_text_ko": "지방자치단체와 그 연합체에는 법률로 정한 국가의 감독 아래 자기 사무를 자치할 권리를 보장한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XIII",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XIII",
+      "original_text": "Section 1. The flag of the Philippines shall be red, white, and blue, with a sun and three stars, as consecrated and honored by the people and recognized by law.\nSec. 2. All public officers and members of the armed forces shall take an oath to support and defend the Constitution.\nSec. 3. The National Assembly shall take steps toward the development and adoption of a common national language based on one of the existing native languages. Until otherwise provided by law, English and Spanish shall continue as official languages.\nSec. 4. The State shall promote scientific research and invention. Arts and letters shall be under its patronage. The exclusive right to writings and inventions shall be secured to authors and inventors for a limited period.\nSec. 5. All educational institutions shall be under the supervision of and subject to regulation by the State. The Government shall establish and maintain a complete and adequate system of public education, and shall provide at least free public primary instruction, and citizenship training to adult citizens. All schools shall aim to develop moral character, personal discipline, civic conscience, and vocational efficiency, and to teach the duties of citizenship. Optional religious instruction shall be maintained in the public schools as now authorized by law. Universities established by the State shall enjoy academic freedom. The State shall create scholarships in arts, science, and letters for specially gifted citizens.\nSec. 6. The State shall afford protection to labor, especially to working women and minors, and shall regulate the relations between landowner and tenant, and between labor and capital in industry and in agriculture. The State may provide for compulsory arbitration.\nSec. 7. The National Assembly shall not, except by general law, provide for the formation, organization, or regulation of private corporations, unless such corporations are owned or controlled by the Government or any subdivision or instrumentality thereof.\nSec. 8. No franchise, certificate, or any other form of authorization for the operation of a public utility shall be granted except to citizens of the Philippines or to corporations or other entities organized under the laws of the Philippines, sixty per centum of the capital of which is owned by citizens of the Philippines, nor shall such franchise, certificate, or authorization be exclusive in character or for a longer period than fifty years. No franchise or right shall be granted to any individual, firm, or corporation, except under the condition that it shall be subject to amendment, alteration, or repeal by the National Assembly when the public interest so requires.\nSec. 9. The Government shall organize and maintain a national police force to preserve public order and enforce the law.\nSec. 10. This Constitution shall be officially promulgated in English and Spanish, but in case of conflict the English text shall prevail.",
+      "workbook_text_ko": "제1절. 필리핀의 국기는 국민이 신성하게 여기고 존중하며 법률이 인정하는 바에 따라 적색·백색·청색 바탕에 태양과 3개의 별을 둔다.\n제2절. 모든 공무원과 군인은 헌법을 지지하고 수호할 것을 선서하여야 한다.\n제3절. 국민의회는 기존 토착 언어 중 하나를 기초로 공통 국어를 발전시키고 채택하기 위한 조치를 하여야 한다. 법률로 달리 정할 때까지 영어와 스페인어를 계속 공용어로 한다.\n제4절. 국가는 과학 연구와 발명을 장려한다. 예술과 문학은 국가의 후원을 받는다. 저작과 발명에 대한 배타적 권리는 일정 기간 저작자와 발명자에게 보장한다.\n제5절. 모든 교육기관은 국가의 감독과 규제를 받는다. 정부는 완전하고 적절한 공교육제도를 설치·유지하고, 적어도 무상의 공립 초등교육과 성인 국민에 대한 시민교육을 제공하여야 한다. 모든 학교는 도덕적 인격, 자기규율, 시민의식과 직업능력을 개발하고 시민의 의무를 가르치는 것을 목표로 하여야 한다. 공립학교의 선택적 종교교육은 현재 법률이 허용하는 대로 유지한다. 국가가 설립한 대학은 학문의 자유를 향유한다. 국가는 특별한 재능을 가진 국민을 위하여 예술·과학·문학 분야의 장학제도를 마련한다.\n제6절. 국가는 노동, 특히 여성과 미성년자의 노동을 보호하고, 지주와 소작인 사이 및 공업·농업의 노동자와 사용자 사이의 관계를 규율하여야 한다. 국가는 강제중재제도를 둘 수 있다.\n제7절. 국민의회는 정부나 그 하부기관 또는 산하기관이 소유·지배하는 법인이 아닌 한, 일반법에 의하지 않고는 민간 법인의 설립·조직 또는 규율을 정할 수 없다.\n제8절. 공익사업의 운영에 관한 특허·인증 또는 그 밖의 허가는 필리핀 국민이나 필리핀 법률에 따라 조직되고 자본의 60퍼센트를 필리핀 국민이 소유하는 법인·단체가 아닌 자에게 부여할 수 없다. 그 특허·인증·허가는 배타적 성격을 가지거나 50년을 넘는 기간으로 부여될 수 없다. 개인·회사·법인에 특허나 권리를 부여할 때에는 공익이 요구하면 국민의회가 이를 개정·변경 또는 폐지할 수 있다는 조건을 붙여야 한다.\n제9절. 정부는 공공질서를 유지하고 법률을 집행하기 위하여 국가경찰을 조직·유지하여야 한다.\n제10절. 이 헌법은 영어와 스페인어로 공식 공포하되 서로 충돌하는 경우에는 영어본이 우선한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_006",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "6",
+      "original_text": "(1) Für jedes Land besteht eine Landesbürgerschaft. Voraussetzung der Landesbürgerschaft ist das Heimatrecht in einer Gemeinde des Landes. Die Bedingungen für Erwerb und Verlust der Landesbürgerschaft sind in jedem Land gleich.\n(2) Mit der Landesbürgerschaft wird die Bundesbürgerschaft erworben.\n(3) Jeder Bundesbürger hat in jedem Land die gleichen Rechte und Pflichten wie die Bürger des Landes selbst.\n(4) Ein Ausländer erwirbt durch Antritt eines öffentlichen Lehramtes an einer inländischen Hochschule die Landesbürgerschaft jenes Landes, in welchem die Lehranstalt gelegen ist, und gleichzeitig das Heimatrecht an seinem Amtsorte.",
+      "workbook_text_ko": "(1) 각 주에는 주 시민권이 있다. 주 시민권의 요건은 그 주의 어느 지방자치단체에서 향적권을 가지는 것이다. 주 시민권의 취득 및 상실 조건은 모든 주에서 동일하다.\n(2) 주 시민권을 취득하면 연방 시민권을 취득한다.\n(3) 모든 연방시민은 어느 주에서든 그 주의 시민과 동일한 권리와 의무를 가진다.\n(4) 외국인은 국내 고등교육기관의 공적 교원직에 취임함으로써 그 교육기관이 소재한 주의 시민권을 취득하고, 동시에 임지의 향적권을 취득한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_PREAMBLE",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": null,
+      "original_text": "Au lendemain de la victoire remportée par les peuples libres sur les régimes qui ont tenté d'asservir et de dégrader la personne humaine, le peuple français proclame à nouveau que tout être humain, sans distinction de race, de religion ni de croyance, possède des droits inaliénables et sacrés. Il réaffirme solennellement les droits et libertés de l'homme et du citoyen consacrés par la Déclaration des droits de 1789 et les principes fondamentaux reconnus par les lois de la République.\nIl proclame, en outre, comme particulièrement nécessaires à notre temps, les principes politiques, économiques et sociaux ci-après :\nLa loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme.\nTout homme persécuté en raison de son action en faveur de la liberté a droit d'asile sur les territoires de la République.\nChacun a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut être lésé, dans son travail ou son emploi, en raison de ses origines, de ses opinions ou de ses croyances.\nTout homme peut défendre ses droits et ses intérêts par l'action syndicale et adhérer au syndicat de son choix.\nLe droit de grève s'exerce dans le cadre des lois qui le réglementent.\nTout travailleur participe, par l'intermédiaire de ses délégués, à la détermination collective des conditions de travail ainsi qu'à la gestion des entreprises.\nTout bien, toute entreprise, dont l'exploitation a ou acquiert les caractères d'un service public national ou d'un monopole de fait, doit devenir la propriété de la collectivité.\nLa Nation assure à l'individu et à la famille les conditions nécessaires à leur développement.\nElle garantit à tous, notamment à l'enfant, à la mère et aux vieux travailleurs, la protection de la santé, la sécurité matérielle, le repos et les loisirs. Tout être humain qui, en raison de son âge, de son état physique ou mental, de la situation économique, se trouve dans l'incapacité de travailler a le droit d'obtenir de la collectivité des moyens convenables d'existence.\nLa Nation proclame la solidarité et l'égalité de tous les Français devant les charges qui résultent des calamités nationales.\nLa Nation garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation professionnelle et à la culture. L'organisation de l'enseignement public gratuit et laïque à tous les degrés est un devoir de l'Etat.\nLa République française, fidèle à ses traditions, se conforme aux règles du droit public international. Elle n'entreprendra aucune guerre dans des vues de conquête et n'emploiera jamais ses forces contre la liberté d'aucun peuple.\nSous réserve de réciprocité, la France consent aux limitations de souveraineté nécessaires à l'organisation et à la défense de la paix.\nLa France forme avec les peuples d'outre-mer une Union fondée sur l'égalité des droits et des devoirs, sans distinction de race ni de religion.\nL'Union française est composée de nations et de peuples qui mettent en commun ou coordonnent leurs ressources et leurs efforts pour développer leurs civilisations respectives, accroître leur bien-être et assurer leur sécurité.\nFidèle à sa mission traditionnelle, la France entend conduire les peuples dont elle a pris la charge à la liberté de s'administrer eux-mêmes et de gérer démocratiquement leurs propres affaires ; écartant tout système de colonisation fondé sur l'arbitraire, elle garantit à tous l'égal accès aux fonctions publiques et l'exercice individuel ou collectif des droits et libertés proclamés ou confirmés ci-dessus.",
+      "workbook_text_ko": "1. 인간을 노예로 만들고, 품격을 떨어뜨리고자 했던 체제\n에 대해 자유로운 인민들이 승리를 쟁취한 다음날 프랑\n스 인민은 인종, 종교, 믿음의 구별 없이 모든 인간은 양\n도할 수 없고 성스러운 권리를 가진다는 점을 새로이 선\n언한다. 프랑스 인민은 1789년의 권리선언에 의해 규정된 인간과 시민의 권리와 자유, 그리고 공화국 법률에 의해 인정된 기본적 원칙을 엄숙히 재천명한다.\n2. 뿐만 아니라, 프랑스 인민은 우리 시대에 특히 필요한\n다음과 같은 정치적･경제적･사회적 원칙을 선언한다:\n3. 법률은 모든 영역에 있어서 여성에게 남성과 동등한 권\n리를 보장한다.\n4. 자유를 옹호하는 자신의 행동 때문에 박해받는 모든 인\n간은 프랑스 영토에서 망명권을 가진다.\n5. 모든 개개인은 근로의 의무와 일자리를 얻을 권리를 가\n진다. 어느 누구도 그 자신의 직업과 일자리에서 출신,\n견해, 믿음을 이유로 피해를 입지 않는다.\n6. 모든 인간은 노동조합활동을 통해 자신의 권리와 이익\n을 보호하고, 자신의 선택에 따라 노동조합에 가입할 수\n있다.\n7. 파업권은 파업권을 규정하는 법률의 범주에서 행사될\n수 있다.\n8. 모든 노동자는 자신의 대표를 통하여 근로조건의 집단\n적 결정과 기업운영에 참여한다.\n9. 그 이용이 국가적 공역무 또는 사실상의 독점적 성격을\n가지거나, 가지게 된 모든 재화, 모든 기업은 공동체의\n소유가 되어야 한다.\n10. 국가는 개인과 가족에게 그들의 발전에 필요한 조건을\n보장한다.\n11. 국가는 모든 사람들 특히, 아이, 어머니, 고령노동자에게\n건강보호, 물질적 안전, 휴식과 여가를 보장한다. 나이,\n신체적 또는 정신적 상태, 경제적 상황을 이유로 일을\n할 수 없는 모든 인간은 공동체로부터 생존에 충분한 수\n단을 얻을 권리를 가진다.\n12. 국가는 국가적 재난으로부터 기인하는 부담 앞에 모든\n프랑스인의 연대와 평등을 선언한다.\n13. 국가는 교육, 직업교육과 문화에 대한 아이와 어른의 평\n등한 접근을 보장한다. 모든 단계의 무상 및 종교적 중\n립적인 공교육 조직은 국가의 의무이다.\n14. 전통에 충실한 프랑스 공화국은 국제공법의 규칙에 따른\n다. 프랑스 공화국은 정복을 위한 전쟁을 하지 않으며,\n결코 어떠한 인민의 자유에 반대하여서도 그 힘을 사용하지 않는다.\n15. 상호성의 유보하에, 프랑스는 평화의 구성과 방어에 필\n요한 주권의 제한에 동의한다.\n16. 프랑스는 해외영토의 인민과 함께 인종과 종교의 구별\n없는 권리와 의무의 평등에 근거한 연합을 형성한다.\n17. 프랑스연합은 각각의 문화를 발전시키고, 행복을 증진\n시키며, 안전을 보장하기 위해 자원과 노력을 공유하거나, 조정하는 국민과 인민으로 구성된다.\n18. 전통적인 임무에 충실한 프랑스는 자신이 책임을 지는\n인민들을 자치하고, 민주적으로 자신의 일을 관\n리하는 자유로 이끌기를 원한다. 자의(恣意)에 근거한 일체의\n식민지 시스템을 배제하면서, 프랑스는 모두에게 공적인\n직무에 대한 평등한 접근과 위에서 선언되고 확인된 권\n리와 자유의 개인적 또는 집단적 행사를 보장한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_024",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "24",
+      "original_text": "日本臣民ハ法律ニ定メタル裁判官ノ裁判ヲ受クルノ権ヲ奪ハルヽコトナシ",
+      "workbook_text_ko": "일본 신민은 법률로 정한 재판관의 재판을 받을 권리를 박탈당하지 않는다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_018",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "18",
+      "original_text": "公民은 敎育을 받을 權利를 가진다.\n初等敎育은 全般的으로 義務制다.\n國家는 貧寒한 公民의 子女에 對하여 無料로서 敎育을 받도록 保障한다.\n專門學校 및 大學의 大多數의 學生에 對하여 國費制를 實施한다.\n敎育用語는 國語로 한다.",
+      "workbook_text_ko": "공민은 교육을 받을 권리를 가진다.\n초등교육은 전반적으로 의무제다.\n국가는 빈한한 공민의 자녀에 대하여 무료로서 교육을 받도록 보장한다.\n전문학교 및 대학의 대다수의 학생에 대하여 국비제를 실시한다.\n교육용어는 국어로 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_026",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "26",
+      "original_text": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。\n２　すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+      "workbook_text_ko": "①모든 국민은 법률이 정하는 바에 의하여 그 능력에 따라 동등하게 교육을 받을 권리를 가진다.\n②모든 국민은 법률이 정하는 바에 따라 자신이 보호하는 자녀에게 보통교육을 받게 할 의무를 진다.\n의무 교육은 무상으로 한다."
+    }
+  ]
+}

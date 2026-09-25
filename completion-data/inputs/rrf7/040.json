@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_040",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "40",
+    "original_text": "國會에서 議決된 法律案은 政府로 移送되어 15日 以內에 大統領이 公布한다. 但, 異議가 있는 때에는 大統領은 異議書를 附하여 國會로 還付하고 國會는 再議에 附한다. 再議의 結果 國會의 在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成으로 前과 同一한 議決을 한 때에는 그 法律案은 法律로서 確定된다. 法律案이 政府로 移送된 後 15日以內에 公布 또는 還付되지 아니하는 때에도 그 法律案은 法律로서 確定된다.\n大統領은 本條에 依하여 確定된 法律을 遲滯없이 公布하여야 한다.\n法律은 特別한 規定이 없는 限 公布日로부터 20日을 經過함으로써 效力을 發生한다.",
+    "workbook_text_ko": "국회에서 의결된 법률안은 정부로 이송되어 15일 이내에 대통령이 공포한다. 단, 이의가 있는 때에는 대통령은 이의서를 부하여 국회로 환부하고 국회는 재의에 부한다. 재의의 결과 국회의 재적의원 3분지 2이상의 출석과 출석의원 3분지 2이상의 찬성으로 전과 동일한 의결을 한 때에는 그 법률안은 법률로서 확정된다. 법률안이 정부로 이송된 후 15일이내에 공포 또는 환부되지 아니하는 때에도 그 법률안은 법률로서 확정된다.\n대통령은 본조에 의하여 확정된 법률을 지체없이 공포하여야 한다.\n법률은 특별한 규정이 없는 한 공포일로부터 20일을 경과함으로써 효력을 발생한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_061",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "61",
+      "original_text": "(1) Ein Gesetz ist verbindlich, wenn es verfassungsmäßig zustande gekommen und vom Staatsministerium in der vorgeschriebenen Form verkündet worden ist. Bei der Verkündung muß ausgesprochen sein, daß das Gesetz vom Landtag oder durch Volksentscheid beschlossen worden ist. Artikel 13 der Reichsverfassung wird hierdurch nicht berührt.\n(2) Wenn das Gesetz nichts anderes bestimmt, tritt es mit dem vierzehnten Tage nach Ausgabe des die Verkündung enthaltenden Stückes der Gesetzsammlung in Kraft.\n(3) Die Gesetze sind binnen Monatsfrist zu verkünden.",
+      "workbook_text_ko": "(1) 법률은 헌법에 따라 성립하고 주내각이 정해진 형식으로 공포한 때에 구속력을 가진다. 공포할 때에는 그 법률이 주의회 또는 국민표결로 의결되었음을 밝혀야 한다. 독일국헌법 제13조는 이로 인하여 영향을 받지 않는다.\n(2) 법률에 다른 정함이 없으면 그 공포를 수록한 법령집 해당 호가 발행된 후 제14일부터 시행한다.\n(3) 법률은 1개월 이내에 공포하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_071",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "71",
+      "original_text": "立法院送請公布之議決案，總統應於該案到達後三十日內公布之。",
+      "workbook_text_ko": "입법원이 공포를 요청하여 송부한 의결안은 총통이 도달한 날부터 30일 이내에 공포하여야 한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_007",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "7",
+      "original_text": "Le Président de la République promulgue les lois dans le mois qui suit la transmission au Gouvernement de la loi définitivement adoptée. Il doit promulguer dans les trois jours les lois dont la promulgation, par un vote exprès de l'une et l'autre chambres, aura été déclarée urgente. - Dans le délai fixé par la promulgation, le Président de la République peut, par un message motivé, demander aux deux chambres une nouvelle délibération qui ne peut être refusée.",
+      "workbook_text_ko": "공화국대통령은 최종적으로 채택된 법률이 정부에 전달된 후 1개월 이내에 법\n률을 공포한다. 대통령은 양원의 그 뜻을 명시한 투표로 그 공포가 긴급하\n다고 선언된 법률에 대해서는 3일 이내에 공포하여야 한다.\n공포를 위하여 정한 기간 안에 공화국대통령은 이유를 첨부한 교서로 양원\n에 대하여 새로운 심의를 요구할 수 있다. 이 요구는 거부할 수 없다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_036",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "36",
+      "original_text": "Le président de la République promulgue les lois dans les dix jours qui suivent la transmission au Gouvernement de la loi définitivement adoptée. Ce délai est réduit à cinq jours en cas d'urgence déclarée par l'Assemblée nationale.\nDans le délai fixé pour la promulgation, le président de la République peut, par un message motivé, demander aux deux Chambres une nouvelle délibération, qui ne peut être refusée.\nA défaut de promulgation par le président de la République dans les délais fixés par la présente Constitution, il y sera pourvu par le président de l'Assemblée nationale.",
+      "workbook_text_ko": "공화국대통령은 확정적으로 채택된 법률이 정부에 이송된 날로부터\n10일 이내에 법률을 공포한다. 이 기간은 국민의회가 긴급을 선언한 때에는\n5일로 단축한다.\n공화국대통령은 공포를 위해서 정한 기간 내에 이유를 첨부한 친서로 2원\n에 대해서 새로운 심의를 요구할 수 있다. 이 요구는 거부할 수 없다.\n이 헌법에 정한 기간 내에 공화국대통령이 공포하지 아니할 때에는 국민의\n회의장이 공포한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_013",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "13",
+      "original_text": "立法議院에서 成立된 法律은 政府主席에게 送附하여야 하며 政府主席은 그 送附를 받은 後 十五日 以內에 此를 公布하여야 함\n政府主席은 前項의 期間內에 理由를 附한 異議書로써 立議院에 對하여 그 再議를 求할 수 있음\n再議를 求하였음에도 不拘하고 立法議院이 出席議員 三分之二 以上의 贊成으로 原案대로 議決한 境遇에는 다시 再議를 求할 수 없음",
+      "workbook_text_ko": "입법의원에서 성립된 법률은 정부주석에게 송부하여야 하며, 정부주석은 그 송부를 받은 후 15일 이내에 이를 공포하여야 함.\n정부주석은 전항의 기간 내에 이유를 붙인 이의서로써 입의원에 대하여 그 재의를 구할 수 있음.\n재의를 구하였음에도 불구하고 입법의원이 출석의원 3분의 2 이상의 찬성으로 원안대로 의결한 경우에는 다시 재의를 구할 수 없음."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_059",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "59",
+      "original_text": "法律案は、この憲法に特別の定のある場合を除いては、両議院で可決したとき法律となる。\n２　衆議院で可決し、参議院でこれと異なつた議決をした法律案は、衆議院で出席議員の三分の二以上の多数で再び可決したときは、法律となる。\n３　前項の規定は、法律の定めるところにより、衆議院が、両議院の協議会を開くことを求めることを妨げない。\n４　参議院が、衆議院の可決した法律案を受け取つた後、国会休会中の期間を除いて六十日以内に、議決しないときは、衆議院は、参議院がその法律案を否決したものとみなすことができる。",
+      "workbook_text_ko": "①법률안은 헌법에 특별한 규정이 있는 경우를 제외하고는 양원에서 가결되었을 때 법률로서 성립한다.\n②중의원에서 가결되었으나 참의원에서 이와 다른 의결을 한 법률안이 중의원에서 출석의원 3분의 2 이상으로 다시 가결되었을 때는 법률로서 성립한다.\n③제2항의 규정은 법률이 정하는 바에 따라 중의원이 양원의 협의회를 열도록 요구하는 것을 방해하지 아니한다.\n④참의원이 중의원에서 가결된 법률안을 이송 받은 후 국회 휴회기간을 제외하고 60일 이내에 의결하지 아니할 때에는 중의원은 참의원이 그 법률안을 부결시킨 것으로 간주할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_093",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "93",
+      "original_text": "La loi qui, de l'avis du Comité, implique une révision de la Constitution est renvoyée à l'Assemblée nationale pour nouvelle délibération.\nSi le Parlement maintient son premier vote, la loi ne peut être promulguée avant que la présente Constitution n'ait été révisée dans les formes prévues à l'article 90.\nSi la loi est jugée conforme aux dispositions des titres Ier à X de la présente Constitution, elle est promulguée dans le délai prévu à l'article 36, celui-ci étant prolongé de la durée des délais prévus à l'article 92 ci-dessus.",
+      "workbook_text_ko": "위원회의 견해에 따라, 헌법개정을 전제로 하는 법률은 새로운 심의\n를 위하여 국민의회로 환송된다.\n국회가 최초의 의결을 유지할 때에는 이 헌법이 제90조에 정한 절차로 수\n정한 후가 아니면 법률을 공포할 수 없다.\n법률이 이 헌법의 제1장에서 제10장의 규정에 적합하다고 판단할 때에는\n그 법률은 제36조에 정한 기간 내에 공포한다. 이 경우 그 기간은 제92조에 정한 기간만큼 연장된다."
+    }
+  ]
+}

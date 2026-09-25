@@ -1,0 +1,217 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_050",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_052",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'원내에서 발언한 의견 및 표결에 관하여 원외에서 책임을 지지 않는다'는 규율 요소(행위대상=의견·표결, 장소적 한정=원내/원외, 효과=무책임)가 대상 조문과 거의 일대일로 대응한다. 다만 자기 공표 시 일반법에 따른 처분이라는 단서(예외)가 대상에는 없어 그 범위는 한정된다.",
+      "evidence": [
+        {
+          "element": "면책 대상 행위(의견과 표결)",
+          "target_field": "original_text",
+          "target_quote": "發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "発言シタル意見及表決ニ付",
+          "commonality": "'발언한 의견'과 '표결'을 병렬로 묶어 면책 대상으로 삼는 어구 구성이 같다",
+          "difference": "대상은 '發表한 意見', 후보는 '発言シタル意見'으로 동사 선택이 다르고 후보는 양원 의원을 주체로 한다"
+        },
+        {
+          "element": "장소적 한정과 효과(원외 무책임)",
+          "target_field": "original_text",
+          "target_quote": "外部에 對하여 責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "院外ニ於テ責ヲ負フコトナシ",
+          "commonality": "원내 행위에 대해 외부(원외)에서 책임을 지지 않는다는 효과 규정이 동일하다",
+          "difference": "후보는 '院外'로 장소를 특정하나 대상은 '外部에 對하여'로 상대방을 지칭하는 표현을 쓴다"
+        },
+        {
+          "element": "예외(단서)의 유무",
+          "target_field": "original_text",
+          "target_quote": "責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "但シ議員自ラ其ノ言論ヲ演説刊行筆記又ハ其ノ他ノ方法ヲ以テ公布シタルトキハ一般ノ法律ニ依リ処分セラルヘシ",
+          "commonality": "면책의 원칙 규정이라는 점은 공통",
+          "difference": "후보는 의원 스스로 언론을 공표한 경우 일반법에 따른 처분이라는 예외를 두나, 대상 조문에는 예외·단서가 전혀 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_051",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "원내 행위에 대한 원외 무책임이라는 문형과 효과가 대상과 대응한다. 다만 면책 대상을 '연설·토론·표결'로 열거하여 대상의 '의견과 표결'과 항목 구성이 다르다.",
+      "evidence": [
+        {
+          "element": "면책 대상 행위의 열거",
+          "target_field": "original_text",
+          "target_quote": "國會內에서 發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "議院で行つた演説、討論又は表決について",
+          "commonality": "원내에서 행한 언동과 표결을 면책 대상으로 삼는 구조가 같다",
+          "difference": "대상은 '의견'과 '표결' 2항목, 후보는 '연설·토론·표결' 3항목으로 열거 범위가 다르다"
+        },
+        {
+          "element": "효과(외부 무책임)",
+          "target_field": "original_text",
+          "target_quote": "外部에 對하여 責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "院外で責任を問はれない",
+          "commonality": "원외(외부)에서 책임을 묻지 않는다는 효과가 동일하다",
+          "difference": "후보는 '책임을 추궁당하지 않는다'는 수동 표현이고 장소를 '院外'로 특정하는 반면 대상은 '外部에 對하여'라는 상대방 지칭 표현을 쓴다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_035",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원의 표결·직무상 발언에 대한 면책이라는 주제는 같으나, 주체가 국가평의회(Staatsrat) 구성원이고 '재판상 또는 직무상 소추' 금지라는 구체적 수단 열거와 '어느 때에도'라는 시간적 한정이 추가되어, 대상의 단문형 무책임 규정과 규율 요소 구성이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의견·투표에 대한 면책이라는 주제는 겹치나, 장소 기준(원내/원외)이 아니라 '직무행사 중'이라는 기능적 기준을 쓰고 효과도 소추·추궁 금지로 구성되어 대상의 '원내 행위/외부 무책임' 문형과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_021",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "직무상 표명한 의견·표결을 이유로 한 소추·수사·체포·구류·재판 금지를 열거하는 방식으로, 대상의 장소 기준과 포괄적 '책임' 불부담 문형과는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_057",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "표결은 절대 면책이나 발언은 국민의회에 의해 책임을 물을 수 있게 하여 의견과 표결을 동일하게 취급하는 대상 조문과 대비된다. 또한 불체포·현행범·구금해제 등 다른 규율이 결합되어 있다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "Sec.6 후단에 원내 연설·토론에 대한 타처 불문책 규정이 있어 주제는 겹치지만, 효과가 '질문받지 않는다'는 형태이고 불체포특권과 한 조문에 결합되어 있으며 조문 전체가 입법부 조직 전반을 다루어 대상의 단일 면책조항 문형과의 대응은 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_084",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "표결은 절대 면책, 원내 의견은 의사규칙에 따라 원내에서만 책임 추궁 가능하도록 이원화하고 있어, 의견과 표결을 동일하게 외부 무책임으로 처리하는 대상과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회의 입법금지와 국민의 언론·집회·청원 자유에 관한 규정으로, 의원의 원내 발언·표결 면책과는 주체·권리·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_072",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'원내의 언론 및 표결에 관하여 대외적으로 책임을 지지 않는다'는 단문 구조가 대상과 어순·요소 배열까지 일치하며, 특히 '對外'는 대상의 '外部에 對하여'와 직접 대응한다.",
+      "evidence": [
+        {
+          "element": "외부(대외)에 대한 무책임 효과",
+          "target_field": "original_text",
+          "target_quote": "外部에 對하여 責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "對外不負責任",
+          "commonality": "장소가 아니라 '대외'라는 상대 범주를 기준으로 책임 불부담을 규정한다",
+          "difference": "대상은 '外部'라는 명사를 쓰고 후보는 '對外'라는 축약 표현을 쓰며, 후보 주체는 입법원의 입법위원이다"
+        },
+        {
+          "element": "면책 대상 행위와 장소",
+          "target_field": "original_text",
+          "target_quote": "國會內에서 發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "於院內之言論及表決",
+          "commonality": "원내에서의 언동과 표결을 묶어 면책 대상으로 규정",
+          "difference": "대상은 '發表한 意見', 후보는 '言論'으로 표현이 다르고, 후보는 '院內', 대상은 '國會內'로 기관 명칭이 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_073",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'원내에서 행한 언론과 표결에 관하여 원외에 대하여 책임을 지지 아니한다'는 구성이 대상과 거의 동일하며, 특히 '在院內所為之'(원내에서 행한)라는 수식이 대상의 '國會內에서 發表한'과 대응한다.",
+      "evidence": [
+        {
+          "element": "원내에서 행한 행위라는 한정",
+          "target_field": "original_text",
+          "target_quote": "國會內에서 發表한 意見과 表決에 關하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "在院內所為之言論及表決",
+          "commonality": "'원내에서 행한' 언동·표결로 면책 대상을 한정하는 수식 구조가 같다",
+          "difference": "후보는 '言論', 대상은 '發表한 意見'으로 표현이 다르고 주체가 입법위원이다"
+        },
+        {
+          "element": "책임 불부담의 상대방",
+          "target_field": "original_text",
+          "target_quote": "外部에 對하여 責任을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "對院外不負責任",
+          "commonality": "'~에 대하여 책임을 지지 아니한다'는 상대방 지정형 효과 규정",
+          "difference": "후보는 상대를 '院外'로 특정하나 대상은 '外部'로 더 포괄적으로 표현한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_018",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 '의원은 원내에서 행한 발언 및 표결에 대하여 원외에서 책임을 지지 아니함'으로 대상과 국문 문형까지 대응한다. 다만 같은 조문에 불체포특권이 결합되어 있고 장소 기준이 '院外'인 점이 다르다.",
+      "evidence": [
+        {
+          "element": "면책 문형 전체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회내에서 발표한 의견과 표결에 관하여 외부에 대하여 책임을 지지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員은 院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함",
+          "commonality": "국문 조문에서 '원내 행위—외부/원외—책임을 지지 아니한다'는 동일한 문장 골격을 사용한다",
+          "difference": "후보는 '發言', 대상은 '發表한 意見'이며, 후보는 '院外에서', 대상은 '外部에 對하여'로 기준이 다르고 문말 형식('아니함' vs '아니한다')도 다르다"
+        },
+        {
+          "element": "조문 구성 범위",
+          "target_field": "original_text",
+          "target_quote": "國會議員은",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함",
+          "commonality": "의원의 특권을 규정하는 조항이라는 점에서 같다",
+          "difference": "후보는 불체포특권과 면책특권을 한 조문에 병합했으나 대상 조문은 면책특권만 단독으로 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_036",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "표결과 직무상 발언에 대한 면책이라는 주제는 같으나 '어느 때에도', '사법적 또는 직무상 소추' 등 수단을 구체적으로 열거하고 장소 기준이 '집회 밖'이어서, 대상의 간결한 '원내 행위/외부 무책임' 규정과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_004",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "대의원이 선거자 앞에서 사업활동에 대해 책임을 지고 소환될 수 있다는 규정으로, 외부에 대한 무책임을 정한 대상과 효과가 정반대이다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "단원제 '國會'와 '國會議員'이라는 주체 표현(후보들은 양원 의원·입법위원·의원 등으로 표기)",
+    "'院外'가 아닌 '外部'라는 상대방 범주 선택의 근거(ROC1936의 '對外'와 부분적으로만 대응)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인했을 뿐 실제 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "일부 후보(프로이센·바이마르·오스트리아·프랑스)는 원문 언어가 달라 표현 대응 판단에 번역 이해가 개입될 수 있다."
+  ],
+  "short_answer": "대상 제50조는 원내 의견·표결에 대한 외부 무책임만을 단독으로 규정한 간결한 면책조항으로, ROC1936 五五憲草 제72조('於院內之言論及表決，對外不負責任')와 ROC1946 헌법 제73조('在院內所為之言論及表決，對院外不負責任'), 조선임시약헌 제18조 제2항이 요소 배열과 문형에서 가장 밀접하게 대응한다. 일본 1889년 헌법 제52조와 1946년 헌법 제51조도 '원내 발언·표결—원외 무책임' 구조에서 대응하나, 전자는 자기 공표 시 일반법 처분이라는 단서를 두고 후자는 대상 행위를 연설·토론·표결로 열거하는 차이가 있다. 프로이센·바이마르·프랑스 조항들은 '재판상·직무상 소추', '소추·수사·체포·구류·재판' 등 수단을 열거하거나 직무행사 기준을 사용하여 문형이 다르고, 오스트리아 제57조와 프로이센 1850년 제84조는 발언에 대해 원내 책임을 인정한다는 점에서 대비된다. 북한 헌법안 제4조는 선거자에 대한 책임·소환을 정해 효과가 반대이며, 미국 수정 제1조는 무관하다. 이상은 문언 대응에 관한 판단이며 실제 참조 여부는 확정하지 않는다."
+}

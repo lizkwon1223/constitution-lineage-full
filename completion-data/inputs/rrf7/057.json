@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_057",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "57",
+    "original_text": "內憂, 外患, 天災, 地變 또는 重大한 財政, 經濟上의 危機에 際하여 公共의 安寧秩序를 維持하기 爲하여 緊急한 措置를 할 必要가 있는 때에는 大統領은 國會의 集會를 기다릴 餘裕가 없는 境遇에 限하여 法律의 效力을 가진 命令을 發하거나 또는 財政上 必要한 處分을 할 수 있다.\n前項의 命令 또는 處分은 遲滯없이 國會에 報告하여 承認을 얻어야 한다.\n萬一 國會의 承認을 얻지 못한 때에는 그때부터 效力을 喪失하며 大統領은 遲滯없이 此를 公布하여야 한다.",
+    "workbook_text_ko": "내우, 외환, 천재, 지변 또는 중대한 재정, 경제상의 위기에 제하여 공공의 안녕질서를 유지하기 위하여 긴급한 조치를 할 필요가 있는 때에는 대통령은 국회의 집회를 기다릴 여유가 없는 경우에 한하여 법률의 효력을 가진 명령을 발하거나 또는 재정상 필요한 처분을 할 수 있다.\n전항의 명령 또는 처분은 지체없이 국회에 보고하여 승인을 얻어야 한다.\n만일 국회의 승인을 얻지 못한 때에는 그때부터 효력을 상실하며 대통령은 지체없이 차를 공포하여야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_048",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "48",
+      "original_text": "Wenn ein Land die ihm nach der Reichsverfassung oder den Reichsgesetzen obliegenden Pflichten nicht erfüllt, kann der Reichspräsident es dazu mit Hilfe der bewaffneten Macht anhalten.\nDer Reichspräsident kann, wenn im Deutschen Reiche die öffentliche Sicherheit und Ordnung erheblich gestört oder gefährdet wird, die zur Wiederherstellung der öffentlichen Sicherheit und Ordnung nötigen Maßnahmen treffen, erforderlichenfalls mit Hilfe der bewaffneten Macht einschreiten. Zu diesem Zwecke darf er vorübergehend die in den Artikeln 114, 115, 117, 118, 123, 124 und 153 festgesetzten Grundrechte ganz oder zum Teil außer Kraft setzen.\nVon allen gemäß Abs. 1 oder Abs. 2 dieses Artikels getroffenen Maßnahmen hat der Reichspräsident unverzüglich dem Reichstag Kenntnis zu geben. Die Maßnahmen sind auf Verlangen des Reichstags außer Kraft zu setzen.\nBei Gefahr im Verzuge kann die Landesregierung für ihr Gebiet einstweilige Maßnahmen der in Abs. 2 bezeichneten Art treffen. Die Maßnahmen sind auf Verlangen des Reichspräsidenten oder des Reichstags außer Kraft zu setzen.\nDas Nähere bestimmt ein Reichsgesetz.",
+      "workbook_text_ko": "일개 주가 제국 헌법이나 제국법률에 명시된 의무를 이행하지 않으면 제국대통령은 무력으로 의무이행을 강제할 수 있다.\n독일제국에서 공공안전과 질서가 현저히 교란되거나 위태로워지면 공공안전과 질서를 복구하기 위해 제국대통령은 필요한 조치를 취할 수 있으며, 필요한 경우 무력으로 개입할 수 있다. 이러한 목적을 위해 제국대통령은 잠정적으로 제114조, 제115조, 제117조, 제118조, 제123조, 제124조 및 제153조에 확정된 기본권을 전부 또는 일부 효력을 상실하게 할 수 있다.\n본 조항의 제1항 또는 제2항에 따라 취해진 모든 조치에 대해서 제국대통령은 지체 없이 제국의회에 고지해야 한다. 동 조치는 제국의회의 요청이 있는 경우, 효력을 상실토록 해야 한다.\n지체의 우려가 있는 경우, 주정부가 해당 지역에 제2항에 명시된 방식의 가조치를 취할 수 있다. 동 조치는 제국대통령이나 제국의회의 요청이 있는 경우, 효력을 상실토록 해야 한다.\n세부사항은 제국법률로 정하도록 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_052",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "52",
+      "original_text": "內亂 外患 其他 非常災害로 因하여 緊急한 支出을 要하며 立法議院의 議決을 기다릴 餘裕가 없을 때에는 政府主席은 財政上 必要한 處分을 行할 수 있음\n前項의 處分은 次回의 立法議院에 提出하여 承諾을 求하여야 함",
+      "workbook_text_ko": "내란·외환, 기타 비상재해로 인하여 긴급한 지출이 필요하며 입법의원의 의결을 기다릴 여유가 없을 때에는 정부주석은 재정상 필요한 처분을 행할 수 있음.\n전항의 처분은 차회의 입법의원에 제출하여 승낙을 구하여야 함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_043",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "43",
+      "original_text": "國家遇有天然災害，癘疫，或國家財政經濟上有重大變故，須為急速處分時，總統於立法院休會期間，得經行政院會議之決議，依緊急命令法，發布緊急命令，為必要之處置，但須於發布命令後一個月內提交立法院追認。如立法院不同意時，該緊急命令立即失效。",
+      "workbook_text_ko": "天然의 災害, 惡疫 或은 國家의 財政上 또는 經濟上의 重大한 異變에 際하여 立法院의 休會中急速한 措置를 取할 必要가 있는 때에는 總統은 行政院會議의 決議를 거친 後 緊急命令法에 依하여 緊急命令을 發布하여 必要한 措置를 取할 수 있다. 但 命令을 發布한 後 1個月以內에 立法院에 提出하여 追認을 얻어야 한다. 萬一 立法院이 同意하지 아니하는 때에는 이 緊急命令은 卽時 效力을 喪失한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_044",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "44",
+      "original_text": "國家遇有緊急事變或國家經濟上有重大變故須爲急速處分時，總統得經行政會議之議決，發布緊急命令，爲必要之處置，但應於發布命令後三個月內，提交立法院追認。",
+      "workbook_text_ko": "국가에 긴급한 사변이 발생하거나 국가경제에 중대한 변고가 생겨 신속한 처분이 필요한 때에는 총통은 행정회의의 의결을 거쳐 긴급명령을 발하여 필요한 조치를 할 수 있다. 다만, 명령을 발한 후 3개월 이내에 추인을 받기 위하여 입법원에 제출하여야 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_063",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "63",
+      "original_text": "Nur in dem Falle, wenn die Aufrechthaltung der öffentlichen Sicherheit, oder die Beseitigung eines ungewöhnlichen Nothstandes es dringend erfordert, können, insofern die Kammern nicht versammelt sind, unter Verantwortlichkeit des gesammten Staatsministeriums, Verordnungen, die der Verfassung nicht zuwiderlaufen, mit Gesetzeskraft erlassen werden. Dieselben sind aber den Kammern bei ihrem nächsten Zusammentritt zur Genehmigung sofort vorzulegen.",
+      "workbook_text_ko": "오로지 공공의 안전의 유지나\n비상적 위기의 타개를 위해 긴급한\n필요가 있고 또한 의회 양원이 집회\n중이 아닌 경우에 한해, 국무원 전체의\n책임하에 헌법에 위반되지 않는 내용\n으로 법률적 효력을 지니는 명령을\n발할 수 있다. 그러나 그 명령은 의회 양원이 다음에 집회할 때 지체 없이 승인을 받기 위하여 제출되어야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_070",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "70",
+      "original_text": "公共ノ安全ヲ保持スル為緊急ノ需用アル場合ニ於テ内外ノ情形ニ因リ政府ハ帝国議会ヲ召集スルコト能ハサルトキハ勅令ニ依リ財政上必要ノ処分ヲ為スコトヲ得\n２　前項ノ場合ニ於テハ次ノ会期ニ於テ帝国議会ニ提出シ其ノ承諾ヲ求ムルヲ要ス",
+      "workbook_text_ko": "공공의 안전을 유지하기 위한 긴급한 수요가 있는 경우, 내외의 사정으로 정부가 제국의회를 소집할 수 없을 때에는 칙령으로 재정상 필요한 처분을 할 수 있다.\n② 전항의 경우에는 다음 회기에 제국의회에 제출하여 승인을 구하여야 한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_018",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "18",
+      "original_text": "(1) Die gesamte staatliche Verwaltung darf nur auf Grund der Gesetze ausgeübt werden.\n(2) Jede Verwaltungsbehörde kann auf Grund der Gesetze innerhalb ihres Wirkungsbereiches Verordnungen erlassen.\n(3) Wenn die sofortige Erlassung von Maßnahmen, die verfassungsgemäß einer Beschlußfassung des Nationalrates bedürfen, zur Abwehr eines offenkundigen, nicht wieder gutzumachenden Schadens für die Allgemeinheit zu einer Zeit notwendig wird, in der der Nationalrat nicht versammelt ist, nicht rechtzeitig zusammentreten kann oder in seiner Tätigkeit durch höhere Gewalt behindert ist, kann der Bundespräsident auf Vorschlag der Bundesregierung unter seiner und deren Verantwortlichkeit diese Maßnahmen durch vorläufige gesetzändernde Verordnungen treffen. Die Bundesregierung hat ihren Vorschlag im Einvernehmen mit dem vom Hauptausschuß des Nationalrates einzusetzenden ständigen Unterausschuß (Artikel 55, Absatz 2) zu erstatten. Eine solche Verordnung bedarf der Gegenzeichnung der Bundesregierung.\n(4) Jede nach Absatz 3 erlassene Verordnung ist von der Bundesregierung unverzüglich dem Nationalrat vorzulegen, den der Bundespräsident, falls der Nationalrat in diesem Zeitpunkt keine Tagung hat, während der Tagung aber der Präsident des Nationalrates für einen der der Vorlage folgenden acht Tage einzuberufen hat. Binnen vier Wochen nach der Vorlage hat der Nationalrat entweder an Stelle der Verordnung ein entsprechendes Bundesgesetz zu beschließen oder durch Beschluß das Verlangen zu stellen, daß die Verordnung von der Bundesregierung sofort außer Kraft gesetzt wird. Im letzterwähnten Fall muß die Bundesregierung diesem Verlangen sofort entsprechen. Zum Zweck der rechtzeitigen Beschlußfassung des Nationalrates hat der Präsident die Vorlage spätestens am vorletzten Tag der vierwöchigen Frist zur Abstimmung zu stellen; die näheren Bestimmungen trifft die Geschäftsordnung. Wird die Verordnung nach den vorhergehenden Bestimmungen von der Bundesregierung aufgehoben, treten mit dem Tag des Inkrafttretens der Aufhebung die gesetzlichen Bestimmungen wieder in Wirksamkeit, die durch die Verordnung aufgehoben worden waren.\n(5) Die im Absatz 3 bezeichneten Verordnungen dürfen nicht eine Abänderung bundesverfassungsgesetzlicher Bestimmungen bedeuten und weder eine dauernde finanzielle Belastung des Bundes, noch eine finanzielle Belastung der Länder, Bezirke oder Gemeinden, noch finanzielle Verpflichtungen der Bundesbürger, noch eine Veräußerung von Staatsgut, noch Maßnahmen in den im Artikel 10, Z. 11, bezeichneten Angelegenheiten, noch endlich solche auf dem Gebiet des Koalitionsrechtes oder des Mieterschutzes zum Gegenstand haben.",
+      "workbook_text_ko": "(1) 국가의 모든 행정은 법률에 근거하여서만 행할 수 있다.\n(2) 모든 행정관청은 법률에 근거하여 자신의 권한 범위 안에서 명령을 발할 수 있다.\n(3) 국민의회가 집회 중이 아니거나 제때 집회할 수 없거나 불가항력으로 활동을 방해받는 때에, 명백하고 회복할 수 없는 공공의 손해를 막기 위하여 헌법상 국민의회의 의결이 필요한 조치를 즉시 취할 필요가 있으면, 연방대통령은 연방정부의 제청에 따라 자신과 연방정부의 책임 아래 잠정적인 법률변경명령으로 그 조치를 취할 수 있다. 연방정부는 국민의회 주(主)위원회가 설치할 상설소위원회(제55조 제2항)와 합의하여 제청하여야 한다. 이러한 명령에는 연방정부의 부서가 필요하다.\n(4) 제3항에 따라 발한 모든 명령은 연방정부가 지체 없이 국민의회에 제출하여야 한다. 그때 국민의회가 회기 중이 아니면 연방대통령이, 회기 중이면 국민의회 의장이, 제출 후 8일 중 하루에 국민의회를 소집하여야 한다. 국민의회는 제출 후 4주 이내에 그 명령에 갈음하는 연방법률을 의결하거나, 연방정부가 그 명령의 효력을 즉시 상실시키도록 요구하는 의결을 하여야 한다. 후자의 경우 연방정부는 즉시 그 요구에 따라야 한다. 국민의회가 제때 의결하도록 의장은 늦어도 4주 기한의 마지막 날 전날까지 제출안을 표결에 부쳐야 한다. 자세한 사항은 의사규칙으로 정한다. 위 규정에 따라 연방정부가 명령을 폐지하면, 그 폐지의 효력이 발생하는 날에 명령으로 폐지되었던 법률규정이 다시 효력을 가진다.\n(5) 제3항의 명령은 연방헌법률의 규정을 변경할 수 없으며, 연방의 영구적인 재정부담, 주·구 또는 지방자치단체의 재정부담, 연방시민의 재정적 의무, 국가재산의 양도, 제10조 제11호에 정한 사항의 조치, 단결권 또는 임차인 보호 분야의 조치를 대상으로 할 수 없다."
+    }
+  ]
+}

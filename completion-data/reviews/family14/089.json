@@ -1,0 +1,69 @@
+{
+  "article": 89,
+  "reviewed_at": "2026-09-22T16:27:49.433654+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "847d20f12f7286d1561ed6cab36d7bd4b3146a34a1ea5b736659b7a87ceddbc0",
+  "input_sha256": "1b3661e3bab1dbaad6b4d9f3571e4b4cb1e8f850f53a323790b52425cb4fcdc1",
+  "responses": [
+    {
+      "job_id": "089_03bf9ef5a2d5_r1",
+      "repeat": 1,
+      "sha256": "da22db86b4669ead05ee74661abd1d8b26ea28d065dfc81cf046a8afa3da9298",
+      "assessment": "준용 문형과 실질 대응을 구분했으나 입력에 없는 제15조제3항의 내용을 확정하여 사용함. 상용 준용 문형의 증거력은 낮게 보아야 함."
+    },
+    {
+      "job_id": "089_03bf9ef5a2d5_r2",
+      "repeat": 2,
+      "sha256": "9a791662c8dc91899823c8ae18f12802742dc64a3c1f2c6bc7b00e6c846042fe",
+      "assessment": "참조 조문 본문이 없다는 한계를 적절히 밝혔음. 다만 근거와 요약에서는 보상 내용을 이미 확인된 것처럼 사용함."
+    },
+    {
+      "job_id": "089_03bf9ef5a2d5_r3",
+      "repeat": 3,
+      "sha256": "1b53727684cd0b87f90a94d7e02fa41f5c872bcef3877fb58183c74549048006",
+      "assessment": "형식 비교의 한계를 명시함. 조문 번호를 특정하지 않는 초안의 준용과 조문 지시형 적용은 구분해야 함."
+    }
+  ],
+  "synthesis": "이 조문은 제85조부터 제88조에 따른 특허 취소·권리 수용·사용·제한에 제15조제3항을 준용하는 연결 규정임. 제공된 후보 중 중화민국 초안 제111조, 1946년 제99조 및 프랑스 제70조는 다른 규정의 적용을 지시하는 형식만 비교할 수 있음. 적용 대상은 지방자치·탄핵·의회 운영으로 달라 실질적 재산권 대응의 근거가 되지 않음. 준용이라는 일반적 입법 문구만으로 특정 계보를 좁히기 어려움. 제15조제3항을 함께 읽는 체계적 해설은 가능하지만 해당 completion 입력 밖의 사후 대조임을 구별해야 함.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "outside_input_content",
+      "finding": "제15조제3항과 제85조부터 제88조의 본문이 해당 요청에 없는데 보상·경제조항의 구체 내용을 이미 제공된 근거처럼 활용함. 일부 응답은 이를 한계에서 스스로 인정함.",
+      "action": "입력 내 문형 비교와 사후 조문 간 대조를 분리함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "서로 다른 제도에 관한 일반적 준용·적용 문구를 구체 대응으로 선택함. 고정 지시문의 상용 문구 배제 기준과 긴장이 있음.",
+      "action": "형식적 보조 비교로 낮추고 실질 대응·계보 근거로 합산하지 않음.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "type": "selection_consistency",
+      "finding": "중화민국의 지방자치 준용은 선택하면서 프랑스의 다른 의회에 대한 적용은 기관 운영이라는 이유로 제외함.",
+      "action": "형식 비교를 인정하는 기준을 후보 간 일관되게 적용함.",
+      "candidate_id": "FR1946_ORIGINAL_ART_070",
+      "severity": "minor"
+    }
+  ],
+  "limits": [
+    "참조 조문을 추가로 읽는 것은 생성 이후의 체계적 해석이며 원래 입력 조건의 일부가 아님."
+  ]
+}

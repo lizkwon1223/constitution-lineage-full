@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_032",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "32",
+    "original_text": "國會는 普通, 直接, 平等, 秘密選擧에 依하여 公選된 議員으로써 組織한다.\n國會議員의 選擧에 關한 事項은 法律로써 定한다.",
+    "workbook_text_ko": "국회는 보통, 직접, 평등, 비밀선거에 의하여 공선된 의원으로써 조직한다.\n국회의원의 선거에 관한 사항은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "1",
+      "original_text": "Le pouvoir législatif s'exerce par deux assemblées : la Chambre des députés et le Sénat. - La Chambre des Députés est nommée par le suffrage universel, dans les conditions déterminées par la loi électorale. - La composition, le mode de nomination et les attributions du Sénat seront réglés par une loi spéciale.",
+      "workbook_text_ko": "입법권은 하원(Chambre des députés)과 상원(Sénat) 양원이 행사한다.\n하원은 선거법이 정한 조건에 따라 보통선거로 임명한다.\n상원의 구성ㆍ임명방법과 임무는 특별법으로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_076",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "76",
+      "original_text": "立法院之組織，以法律定之。",
+      "workbook_text_ko": "立法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_095",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "95",
+      "original_text": "(1) Die Gesetzgebung der Länder wird von den Landtagen ausgeübt. Deren Mitglieder werden auf Grund des gleichen, unmittelbaren, geheimen und persönlichen Verhältniswahlrechtes aller nach den Landtagswahlordnungen wahlberechtigten männlichen und weiblichen Bundesbürger gewählt, die im Land ihren ordentlichen Wohnsitz haben.\n(2) Die Landtagswahlordnungen dürfen die Bedingungen des aktiven und passiven Wahlrechtes nicht enger ziehen als die Wahlordnung zum Nationalrat.\n(3) Die Wähler üben ihr Wahlrecht in Wahlkreisen aus, von denen jeder ein geschlossenes Gebiet umfassen muß. Die Zahl der Abgeordneten ist auf die Wahlkreise im Verhältnis der Bürgerzahl zu verteilen. Eine Gliederung der Wählerschaft in andere Wahlkörper ist nicht zulässig.",
+      "workbook_text_ko": "(1) 주의 입법권은 주의회가 행사한다. 주의회 의원은 주의회 선거규정에 따라 선거권을 가지고 그 주에 통상 거주지를 둔 모든 남녀 연방시민의 평등·직접·비밀 및 본인투표에 의한 비례대표선거권에 기초하여 선출한다.\n(2) 주의회 선거규정은 선거권 및 피선거권의 조건을 국민의회 선거규정보다 엄격하게 정할 수 없다.\n(3) 선거인은 각기 하나의 연속된 지역을 포함하여야 하는 선거구에서 선거권을 행사한다. 의원 수는 시민 수에 비례하여 각 선거구에 배분하여야 한다. 선거권자를 그 밖의 선거인단으로 나누는 것은 허용되지 않는다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_006",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "6",
+      "original_text": "La durée des pouvoirs de chaque assemblée, son mode d'élection, les conditions d'éligibilité, le régime des inéligibilités et incompatibilités sont déterminés par la loi.\nToutefois, les deux Chambres sont élues sur une base territoriale, l'Assemblée nationale au suffrage universel direct, le Conseil de la République par les collectivités communales et départementales, au suffrage universel indirect. Le Conseil de la République est renouvelable par moitié.\nNéanmoins, l'Assemblée nationale peut élire elle-même à la représentation proportionnelle des conseillers dont le nombre ne doit pas excéder le sixième du nombre total des membres du Conseil de la République.\nLe nombre des membres du Conseil de la République ne peut être inférieur à deux cent cinquante ni supérieur à trois cent vingt.",
+      "workbook_text_ko": "각 의원(議院)의 권한기간ㆍ그 선거방법ㆍ피선거자격의 조건ㆍ피선거무\n자격과 겸직금지의 제도는 법률로 정한다.\n다만, 양원은 영토를 기초로 하여 선거하며, 국민의회는 직접ㆍ보통선거로 선출\n하며, 공화국평의회는 코뮌과 현의 지방자치체(collectivité communale et\ndépartementale)에 의해서 간접ㆍ보통선거로 선출한다. 공화국평의회는 반\n수씩 개선(改選)한다.\n그러나 국민의회는 스스로 공화국평의회의원을 비례대표(représentation\nproportionnelle)로 선출할 수 있다. 다만, 그 수는 공화국평의회의원의 6분\n의 1을 초과해서는 아니된다.\n공화국평의회의원의 수는 250인을 하회할 수 없으며, 또 320인을 초과할\n수도 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_022",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "22",
+      "original_text": "(1) Der Landtag faßt seine Beschlüsse mit einfacher Stimmenmehrheit.\n(2) Ausnahmen kann das Gesetz und für Wahlen die Geschäftsordnung vorschreiben.",
+      "workbook_text_ko": "(1) 주의회는 단순다수결로 의결한다.\n(2) 법률로 예외를 정할 수 있으며, 선거에 대해서는 의사규칙으로 예외를 정할 수 있다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_035",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "35",
+      "original_text": "衆議院ハ選挙法ノ定ムル所ニ依リ公選セラレタル議員ヲ以テ組織ス",
+      "workbook_text_ko": "중의원은 선거법이 정하는 바에 따라 공선된 의원으로 구성한다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_047",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "47",
+      "original_text": "選挙区、投票の方法その他両議院の議員の選挙に関する事項は、法律でこれを定める。",
+      "workbook_text_ko": "선거구, 투표방법 그 밖에 양원 의원의 선거에 관한 사항은 법률로 정한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_010",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "10",
+      "original_text": "立法議院은 別로이 定하는 選擧法에 依하여 普通 平等 直接 無記名投票의 方法으로 公選된 議員으로써 組織함",
+      "workbook_text_ko": "입법의원은 별도로 정하는 선거법에 의하여 보통·평등·직접·무기명투표의 방법으로 공선된 의원으로써 조직함."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_072",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "72",
+      "original_text": "Die Abgeordneten werden durch die Wahlmänner gewählt.\nDas Nähere über die Ausführung der Wahlen bestimmt das Wahlgesetz, welches auch die Anordnung für diejenigen Städte zu treffen hat, in denen an Stelle eines Theils der direkten Steuern die Mahl- und Schlachtsteuer erhoben wird.",
+      "workbook_text_ko": "제2원의 의원은 선거인에\n의해 선출된다.\n선거의 시행에 관한 상세한 내용은\n선거법이 규정하는데, 그 선거법은\n직접세 일부를 대신하여 곡물 제분세\n(製粉稅)와 도축세를 징수하는 도시\n들에 대한 처리 규정도 아울러 가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_028",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "28",
+      "original_text": "國民代表之選舉，以普通平等直接無記名投票之方法行之。",
+      "workbook_text_ko": "국민대표의 선거는 보통·평등·직접·무기명투표의 방법으로 실시한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_022",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "22",
+      "original_text": "Die Abgeordneten werden in allgemeiner, gleicher, unmittelbarer und geheimer Wahl von den über zwanzig Jahre alten Männern und Frauen nach den Grundsätzen der Verhältniswahl gewählt. Der Wahltag muß ein Sonntag oder öffentlicher Ruhetag sein.\nDas Nähere bestimmt das Reichswahlgesetz.",
+      "workbook_text_ko": "제국의회 의원은 비례선거 원칙에 의거하여 20세 이상의 전체 남성과 여성의 보통ᆞ평등ᆞ직접 및 비밀 선거로 선출된다. 선거일은 일요일이나 공휴일이어야 한다.\n세부사항은 제국선거법률로 정한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XVII",
+      "original_text": "The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.\nWhen vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.\nThis amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.",
+      "workbook_text_ko": "합중국의 상원은 각 주에서 2명씩 그 주의 주민에 의하\n여 선출되고 6년의 임기를 가진 상원의원으로 구성된다.\n각 상원의원은 1표의 투표권을 가진다. 각 주의 선거인\n은 주의회 중 의원수가 많은 원(院)의 선거인에게 요구되는\n자격을 가져야 한다.\n상원에서 어느 주의 의원에 결원이 생긴 때에는 그 주의\n행정부는 결원을 보충하기 위하여 선거 명령을 발해야\n한다. 다만, 주민이 주 의회가 정하는 바에 의한 선거에\n의하여 결원을 보충할 때까지 주의회는 그 주의 행정부\n에게 임시로 상원의원을 임명하는 권한을 부여할 수\n있다.\n이 수정조항은 이 헌법의 일부로서 효력을 발생하기 이\n전에 선출된 상원의원의 선거 또는 임기에 영향을 주는\n것으로 해석되지 않는다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_067",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "67",
+      "original_text": "各級人民委員會는 一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다.\n各級 人民委員會의 選擧는 따로 法令으로서 規定한다.",
+      "workbook_text_ko": "각급 인민위원회는 일반적·평등적·직접적 선거원칙에 의하여 비밀투표로서 선출한 대의원으로서 구성한다.\n각급 인민위원회의 선거는 따로 법령으로서 규정한다."
+    }
+  ]
+}

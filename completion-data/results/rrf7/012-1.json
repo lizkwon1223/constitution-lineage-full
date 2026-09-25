@@ -1,0 +1,120 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_012",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_135",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제1문의 '신앙과 양심의 자유'라는 두 자유의 결합 보장이 바이마르 135조의 'Glaubens- und Gewissensfreiheit'와 어휘·결합형까지 대응한다. 다만 향유 주체와 제한(일반 법률 유보) 규율에서는 차이가 있어 대응 범위는 제1문에 한정된다.",
+      "evidence": [
+        {
+          "element": "보장 대상(신앙+양심의 결합)",
+          "target_field": "original_text",
+          "target_quote": "信仰과 良心의 自由를 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "volle Glaubens- und Gewissensfreiheit",
+          "commonality": "신앙의 자유와 양심의 자유를 하나의 결합된 문구로 함께 보장한다",
+          "difference": "후보는 '완전한(volle)' 자유라는 수식을 두고, 대상은 수식 없이 '가진다'로 규정한다"
+        },
+        {
+          "element": "권리주체",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Bewohner des Reichs",
+          "commonality": "제한 없이 '모든' 사람을 대상으로 하는 포괄적 주체 설정",
+          "difference": "후보는 국적과 무관한 '제국의 모든 주민(거주자)'인 반면 대상은 '국민'으로 한정된다"
+        },
+        {
+          "element": "제한·부수 규율",
+          "target_field": "original_text",
+          "target_quote": "國敎는 存在하지 아니하며 宗敎는 政治로부터 分離된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die allgemeinen Staatsgesetze bleiben hiervon unberührt",
+          "commonality": "신앙자유 보장에 이어 국가와 종교의 관계를 규율하는 문장을 덧붙인다",
+          "difference": "후보는 종교행사 보호와 일반 법률 유보를 규정할 뿐 국교 부인·정교분리 원칙은 두지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "종교신앙의 자유라는 주제는 겹치지만 '양심'이 없고 국교 부인·정교분리 규정도 없어 대상의 구체적 규율 요소와의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2문의 국교 부인·정교분리에 해당하는 구체적 규율(종교단체의 국가 특권 수령 금지, 정치상 권력 행사 금지, 국가기관의 종교활동 금지)이 있어 제2문 비교에 유용하다. 다만 대상은 원칙 선언형이고 후보는 금지 명령형으로 규율 방식이 다르다.",
+      "evidence": [
+        {
+          "element": "정교분리",
+          "target_field": "original_text",
+          "target_quote": "宗敎는 政治로부터 分離된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "いかなる宗教団体も、国から特権を受け、又は政治上の権力を行使してはならない",
+          "commonality": "종교와 정치(국가권력)의 결합을 배제한다는 취지가 공통된다",
+          "difference": "대상은 '분리된다'는 원칙 선언인 반면 후보는 종교단체를 수범자로 한 구체적 금지규범이며, 국가기관의 종교활동 금지·종교행사 참가 강제 금지 등 별도 항을 둔다"
+        },
+        {
+          "element": "국교 부인",
+          "target_field": "original_text",
+          "target_quote": "國敎는 存在하지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "国から特権を受け",
+          "commonality": "특정 종교에 대한 국가의 우대·공인을 배제하는 기능에서 겹친다",
+          "difference": "후보는 '국교'라는 표현 없이 특권 수령 금지로 규율하고, 대상은 국교의 부존재를 직접 선언한다"
+        },
+        {
+          "element": "보장 대상",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 信仰과 良心의 自由를 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "信教の自由は、何人に対してもこれを保障する",
+          "commonality": "신앙(종교)의 자유를 폭넓은 주체에게 보장한다",
+          "difference": "후보는 '何人'(모든 사람)에게 '종교의 자유'만을 보장하고 양심의 자유는 별도 조항 문언에 포함되지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_015",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "종교신앙 자유라는 주제는 같으나 '양심' 결합, 국교 부인, 정교분리 요소가 없고 오히려 법률유보라는 상이한 규율을 둔다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "개인 존중과 생명·자유·행복추구권 일반에 관한 조항으로 신앙·양심 및 정교분리와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "거주·이전·직업선택 및 국적이탈의 자유에 관한 조항으로 대상 조문과 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_014",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'신앙 … 의 자유를 가진다'는 문형은 유사하나 결합된 요소가 '종교의식 거행'이어서 대상의 '양심'과 다르고, 국교 부인·정교분리 규정도 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'國敎는 存在하지 아니하며'라는 국교 부존재의 직접 선언 형식(후보들은 특권 금지·보호 등 다른 방식으로 규율)",
+    "'宗敎는 政治로부터 分離된다'는 원칙 선언형 문장 구조 자체"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 기초 과정에서의 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "제시된 후보 외의 문헌은 검토 대상에 포함되지 않았다."
+  ],
+  "short_answer": "대상 조문은 제1문(신앙·양심의 자유)과 제2문(국교 부인·정교분리)의 두 요소로 나뉘며, 각각 다른 후보와 대응한다. 제1문은 바이마르 135조의 'Glaubens- und Gewissensfreiheit'와 신앙·양심 결합 보장이라는 점에서 문언상 밀접히 대응하나, 주체가 '제국의 모든 주민'이고 일반 법률 유보가 붙는 점이 다르다. 제2문은 일본국헌법 20조의 종교단체의 국가 특권 수령 금지·정치상 권력 행사 금지 및 국가기관의 종교활동 금지와 기능상 대응하지만, 대상은 원칙 선언형인 반면 후보는 구체적 금지규범이다. 중화민국 헌법·초안과 북한 헌법안은 종교신앙 자유라는 주제만 공유할 뿐 '양심' 결합이나 정교분리 요소가 없어 선택하지 않았다. 이상은 문언 대응에 관한 판단이며 역사적 영향의 확정은 아니다."
+}

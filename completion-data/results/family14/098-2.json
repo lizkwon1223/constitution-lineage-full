@@ -1,0 +1,172 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_098",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_044",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "3분의 1과 3분의 2라는 정족수 수치가 등장하지만, 1/3은 '개정 제안'이 아니라 부분개정에 대한 국민투표 요구 요건이고 2/3은 출석 투표수 기준이며, 공고·기간·즉시 공포 등 대상 조문의 절차 요소와 대응하는 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_073",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가원수(칙명)에 의한 개정 의안 제출이라는 점에서 대통령 제안과 주제상 유사하나, 의원 일부의 제안권·공고 및 공고기간·공포 규정이 없고 정족수도 출석의원 3분의 2 기준이어서 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_055",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행정수반(정부주석) 또는 의회 재적의원 3분의 1 이상의 제의라는 이원적 발안 주체와 3분의 2 찬성 요건이 대상 제1·4항의 문형과 구체적으로 대응한다. 다만 공고·공고기간·즉시 공포 부분은 대응이 없어 비교 범위를 발안 주체와 정족수에 한정한다.",
+      "evidence": [
+        {
+          "element": "개정 제안 주체(행정수반 또는 재적의원 3분의 1)",
+          "target_field": "original_text",
+          "target_quote": "憲法改正의 提案은 大統領 또는 國會의 在籍議員 3分之 1以上의 贊成으로써 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法의 修改는 政府主席이나 또는 立法議院 在籍議員 三分之一 以上의 提議로",
+          "commonality": "행정수반 단독 또는 의회 재적의원 3분의 1 이상이라는 두 경로로 헌법개정을 발안하게 하는 병렬 구조와 '재적의원 3분의 1'이라는 수치가 같다.",
+          "difference": "대상은 '제안'에 대한 '찬성'으로 표현하고 대통령을 주체로 삼는 반면, 후보는 '제의'로 표현하며 주체가 정부주석·입법의원이다."
+        },
+        {
+          "element": "의결 정족수(3분의 2)",
+          "target_field": "original_text",
+          "target_quote": "憲法改正의 議決은 國會에서 在籍議員 3分之 2以上의 贊成으로써 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "在席議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成이 있어야 함",
+          "commonality": "헌법개정 의결에 3분의 2 이상의 찬성을 요구한다.",
+          "difference": "대상은 재적의원 3분의 2 찬성이라는 단일 기준이고, 후보는 재석 3분의 2 출석 + 출석의원 3분의 2 찬성이라는 이중 기준(분모가 출석의원)이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "3분의 2 정족수만 공통되고 그 분모가 출석자이며, 발안 주체·공고·기간·공포 등 대상 조문의 나머지 요소에 대응하는 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_107",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "두 표결 사이 21일 이상의 기간이라는 시간 요건이 있으나 이는 표결 간 간격이지 개정 제의의 공고기간이 아니고, 의결 요건도 절대과반수여서 대상의 3분의 2 구조와 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'각 원 총재적의원 3분의 2 이상'이라는 재적 기준 3분의 2와, 개정이 확정된 때 국가원수가 '즉시 공포'한다는 문형이 대상 제4·5항과 구체적으로 대응한다. 다만 국민투표 승인 절차가 없는 점에서 비교 범위는 정족수 분모와 즉시 공포에 한정된다.",
+      "evidence": [
+        {
+          "element": "개정 확정 후 즉시 공포",
+          "target_field": "original_text",
+          "target_quote": "憲法改正이 議決된 때에는 大統領은 卽時 公布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "憲法改正について前項の承認を経たときは、天皇は、国民の名で、この憲法と一体を成すものとして、直ちにこれを公布する",
+          "commonality": "개정이 확정된 시점을 조건으로 국가원수가 지체 없이(즉시) 공포한다는 효과 규정을 둔다.",
+          "difference": "공포 주체가 대통령 대 천황이고, 대상은 국회 의결을 조건으로 하나 후보는 국민의 승인을 조건으로 하며 '국민의 이름으로 헌법과 일체를 이룬다'는 부가 문구가 있다."
+        },
+        {
+          "element": "정족수의 분모(재적의원 3분의 2)",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 贊成",
+          "candidate_field": "original_text",
+          "candidate_quote": "各議院の総議員の三分の二以上の賛成",
+          "commonality": "출석의원이 아니라 총재적의원을 분모로 하는 3분의 2 찬성 요건을 쓴다.",
+          "difference": "대상에서 이 요건은 국회의 '의결' 요건이나, 후보에서는 국민 제안을 위한 '발의' 요건이며 후보는 양원제를 전제로 각 원별로 요구한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_102",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "3분의 2 수치는 겹치지만 참석 3분의 2 + 참석자 3분의 2의 이중 기준이며, 발안 주체·공고·공포 절차가 없어 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_090",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 공포와 기간 설정(8일 이내), 독회 간 3개월 간격 등 절차 요소가 있으나, 대상의 '제의 공고 후 30일 이상'이라는 공고형 절차나 재적 1/3 발안·재적 2/3 의결 구조와는 규율 방식이 달라 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회의 개정안 제안과 국민 비준을 규정하지만 정족수가 4분의 3이고 제헌회의·비준선거 구조여서 대상의 요소들과 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_174",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "헌법개정안을 일정 기간 전에 '공고'하도록 하는 요건이 대상 제2·3항의 공고 및 공고기간 규정과 문형상 대응한다. 다만 발안 정족수(1/5·1/4)와 의결 정족수(3/4), 국민대회 복결 구조는 대상과 달라 비교 범위를 공고 요건에 한정한다.",
+      "evidence": [
+        {
+          "element": "개정안(제의)의 공고와 공고기간",
+          "target_field": "original_text",
+          "target_quote": "憲法改正의 提議는 大統領이 이를 公告하여야 한다.\n前項의 公告期間은 30日以上으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "此項憲法修正案應於國民大會開會前半年公告之",
+          "commonality": "헌법개정 안건을 의결 전에 반드시 공고하도록 하고 그 기간을 헌법에 명시한다.",
+          "difference": "대상은 공고 주체를 대통령으로 정하고 기간을 '30일 이상'의 최소기간으로 규정하나, 후보는 공고 주체를 명시하지 않고 국민대회 개회 반년 전이라는 기산점 방식이며 대상은 국회 의결, 후보는 국민대회 복결을 전제한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "재적의원 3분의 2 출석·출석자 3분의 2 동의 및 대통령의 공포 제한이 있으나, 정족수 구조가 이중 기준이고 공포 규정은 국민표결 요구 시의 공포 금지로 대상의 '즉시 공포'와 규율 방향이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 청구 또는 양원 자발적 발의라는 이원적 개정 개시 구조가 주제상 유사하나, 의결은 절대다수이고 국민의회 합동 절차이며 공고·기간·즉시 공포 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_V",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "양원 3분의 2 발의와 주 3분의 2 요청·4분의 3 비준이라는 연방제적 구조로, 대상의 단원제 재적 기준 정족수·공고·공포 규정과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_147",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법 개정의 제의'를 공고 대상으로 명시하고 그 기간을 정하는 문형이 대상 제2·3항과 대응한다. 다만 공고 주체(제의인)와 기간(개회 1년 전), 발안·의결 정족수(1/4·3/4·2/3)는 달라 비교 범위를 공고 요건에 한정한다.",
+      "evidence": [
+        {
+          "element": "개정 제의의 공고와 기간",
+          "target_field": "original_text",
+          "target_quote": "憲法改正의 提議는 大統領이 이를 公告하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "修改憲法之提議，應由提議人於國民大會開會前一年公告之",
+          "commonality": "헌법개정의 '제의'를 공고 대상으로 특정하고 공고를 의무화하는 문형이 같다.",
+          "difference": "공고 주체가 대통령 대 제의인이고, 대상은 공고기간을 별도 항에서 30일 이상으로 정하나 후보는 국민대회 개회 1년 전이라는 시점 기준이다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "공고기간을 '30일 이상'으로 정한 최소기간 수치",
+    "대통령이 스스로 개정을 제안할 권한과 국회 재적의원 3분의 1 찬성 요건의 병렬 구성(조선임시약헌 외 대응 없음)",
+    "단원제 국회 단독 의결만으로 개정이 확정되고 국민투표·상원 동의 절차가 없는 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 과정의 영향은 확정할 수 없다.",
+    "제공된 본문만 사용했고, 후보 번역문의 표현 차이는 원문 대조 범위에서만 판단했다."
+  ],
+  "short_answer": "조선임시약헌 제55조는 행정수반 또는 의회 재적의원 3분의 1 이상의 제의라는 이원적 발안 구조와 3분의 2 찬성 요건에서 대상 제1·4항과 가장 구체적으로 대응한다. 일본국헌법 제96조는 총재적의원 3분의 2라는 분모 설정과 '즉시 공포' 문형에서, 중화민국헌법 제174조 및 五五憲草 제147조는 개정안·제의의 '공고'와 공고기간을 헌법에 명시하는 문형에서 부분적으로 대응한다. 다만 각 후보는 정족수의 분모(출석 대 재적), 공고 주체와 기산 방식, 국민투표·국민대회 복결 여부에서 대상과 다르다. 오스트리아·프로이센·바이마르·미국·필리핀·프랑스 조항들은 개정 정족수라는 일반적 주제만 공유한다. 이상은 문언 대응에 관한 판단이며 역사적 참조 관계의 확정은 아니다."
+}

@@ -1,0 +1,113 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_076",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…之組織，以法律定之'라는 조직 법정주의 문형은 대상 제2항과 겹치지만, 규율 대상 기관이 考試院으로 사법조직과 무관하여 대상 조문의 특정 요소(대법원·하급법원·법관 자격)와의 구체적 대응이 없다. 동일 헌법 내 상용 문형의 반복으로 보인다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'최고기관' 표현과 '…로써 組織되고 …權을 行使한다'는 문형이 대상 제1항·제2항과 형식상 유사하나, 대상은 사법권·법관·법원을, 후보는 입법권·민선 입법위원·입법원을 규율하여 주체와 권한이 전면적으로 다르다. 문형 유사에 그쳐 후속 비교 이익이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_096",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원에 관해 법률유보를 두는 점만 공통되고, 후보의 규율 내용은 법원과 행정기관의 '권한(Kompetenz)' 획정 및 권한충돌 재판소 지정으로서, 대상의 '조직'·'법관 자격' 법정주의와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2항의 '상급·하급 사법기관의 조직을 법률로 정한다'는 규율 구조와 문형이 구체적으로 대응한다. 다만 최상급 기관의 명칭·성격(司法院 vs 최고법원인 大法院)과 법관 자격 조항 유무에서는 대응하지 않으므로 비교 범위는 제2항에 한정한다.",
+      "evidence": [
+        {
+          "element": "사법기관 조직의 법률유보(제2항)",
+          "target_field": "original_text",
+          "target_quote": "最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "司法院之組織及各級法院之組織，以法律定之。",
+          "commonality": "최상급 사법기관과 그 아래 각급(하급) 법원의 조직을 모두 법률로 정하도록 병렬적으로 규정하는 문형이 일치한다.",
+          "difference": "대상은 최상급 기관을 '최고법원인 대법원'으로 지칭하며 그 최고성을 명문화하나, 후보는 '司法院'을 들고 하급 조직을 '各級法院'으로 표현한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_041",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 '사법권은 법관으로써 조직된 법원이 행한다'가 거의 동일한 문언이고, 법원 조직과 법관 자격의 법률유보도 대응한다. 다만 후보는 조직·자격을 한 문장에 묶고 '대법원/하급법원' 구분이 없다.",
+      "evidence": [
+        {
+          "element": "사법권의 담당 주체(제1항)",
+          "target_field": "original_text",
+          "target_quote": "司法權은 法官으로써 組織된 法院이 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "司法權은 法官으로써 組織된 法院이 此를 行함",
+          "commonality": "'사법권—법관으로써 조직된 법원이 행한다'는 어휘와 어순이 사실상 동일하다.",
+          "difference": "후보는 '此를 行함'이라는 약헌식 종결·지시어를 쓰고, 대상은 '行한다'로 정리했다."
+        },
+        {
+          "element": "법관 자격의 법률유보(제3항)",
+          "target_field": "original_text",
+          "target_quote": "法官의 資格은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "法院의 組織 及 法官의 資格은 法律로써 此를 定함",
+          "commonality": "법관의 자격을 법률로 정한다는 법률유보가 같은 표현으로 나타난다.",
+          "difference": "대상은 법관 자격을 별개 항으로 독립시키고 조직 조항을 대법원·하급법원으로 나누었으나, 후보는 '법원의 조직'과 '법관의 자격'을 한 문장에 함께 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_082",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2항의 최상급 사법기관 및 각급(하급) 법원 조직의 법률유보와 문형이 직접 대응한다. 사법권 행사 주체(제1항)와 법관 자격(제3항)에는 대응 표현이 없어 비교 범위는 제2항에 한정된다.",
+      "evidence": [
+        {
+          "element": "사법기관 조직의 법률유보(제2항)",
+          "target_field": "original_text",
+          "target_quote": "最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "司法院及各級法院之組織，以法律定之。",
+          "commonality": "최상급 사법기관과 그 밖의 각급 법원의 조직을 한 문장에서 법률로 정하도록 하는 구조가 같다.",
+          "difference": "후보의 최상급 기관은 '司法院'으로 대상의 '최고법원인 大法院'과 기관 성격·명칭이 다르고, 후보에는 '최고법원' 지위를 선언하는 문구가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_089",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'법원의 조직은 법률로 정한다'는 규율이 대상 제2항의 핵심 요소와 문언상 대응한다. 다만 대법원·하급법원의 구분, 사법권 행사 주체, 법관 자격은 후보에 없어 대응 범위가 조직 법정주의 한 요소로 좁다.",
+      "evidence": [
+        {
+          "element": "법원 조직의 법률유보(제2항)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "최고법원인 대법원과 하급법원의 조직은 법률로써 정한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Organisation der Gerichte wird durch das Gesetz bestimmt.",
+          "commonality": "법원의 조직을 법률로 정하도록 하는 단문의 법률유보 규정이라는 점이 일치한다.",
+          "difference": "후보는 법원을 일반적으로 지칭할 뿐 최고법원·하급법원의 층위 구분이나 최고법원의 명칭(대법원) 지정이 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'최고법원인 大法院'이라는 최상급 법원의 명칭 지정과 최고성 선언 부분은 후보들에서 대응 문구를 찾지 못했다(후보의 司法院·各級法院 표현과는 기관 지칭이 다름).",
+    "제3항 법관 자격의 법률유보는 조선임시약헌 제41조 외의 후보에서 대응 문구를 확인하지 못했다."
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언상 대응 여부만 판단할 수 있고, 실제 참조·계수 관계의 역사적 확정은 불가능하다.",
+    "프로이센 헌법 후보는 독일어 원문과 워크북 번역만 제시되어 있어 용어의 세부 함의 비교에 한계가 있다."
+  ],
+  "short_answer": "조선임시약헌 제41조는 제1항의 '사법권은 법관으로써 조직된 법원이 행한다'와 제3항의 법관 자격 법률유보가 사실상 동일한 문언으로 대응하고, 중화민국헌법 제82조·五五憲草 제82조는 최상급 사법기관과 각급(하급) 법원의 조직을 법률로 정하는 제2항 문형과, 프로이센 헌법 제89조는 '법원의 조직은 법률로 정한다'는 단문 법률유보와 대응한다. 다만 중화민국 계열 후보의 최상급 기관은 '司法院'이어서 대상의 '최고법원인 大法院'과 기관 성격·명칭이 다르며, 약헌은 조직과 자격을 한 문장에 묶어 대법원·하급법원 구분이 없다. 考試院 조직(제89조), 입법원(제62조), 프로이센 제96조(권한 획정·권한충돌)는 조직·권한 법률유보라는 일반적 문형이나 주제만 겹쳐 선택하지 않았다. 이상은 문언상 대응 관계이며, 어느 후보가 실제로 영향을 주었는지는 제공 본문만으로 확정할 수 없다."
+}

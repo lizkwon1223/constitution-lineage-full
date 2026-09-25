@@ -1,0 +1,112 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_102",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "부칙(보칙)으로서 헌법 시행에 관한 경과규정이라는 성격만 공유할 뿐, 대상 조문의 핵심인 제헌의회의 국회 권한 행사나 의원 임기에 대응하는 규율 요소가 없다. 시행일 기산과 준비절차만을 정한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정의 발의·국민투표·공포 절차를 정한 조항으로, 대상 조문의 제헌국회 권한·의원 임기와 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법을 제정한 (의회)'라는 주체 지시 문형이 구체적으로 대응한다. 다만 대응 범위는 주체 표현에 한정되며, 부여되는 효과(국회로서의 권한 행사 vs 시행준비절차 의정)와 임기 규정 유무는 다르다.",
+      "evidence": [
+        {
+          "element": "주체 지시(헌법을 제정한 의회)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "本憲法施行之準備程序由制定憲法之國民大會議定之",
+          "commonality": "제헌 기능을 수행한 합의체를 '이 헌법을 제정한 ○○'로 특정하여 경과적 권한의 귀속 주체로 삼는 문형이 같다.",
+          "difference": "대상은 국회(입법부)가 신헌법상 국회 권한 전반을 계속 행사하도록 하는 데 비해, 후보는 국민대회가 헌법 시행 준비절차를 의정하는 제한적 권한만 부여한다."
+        },
+        {
+          "element": "경과규정의 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "이 헌법에 의한 국회로서의 권한을 행하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "本憲法規定事項，有另定實施程序之必要者，以法律定之",
+          "commonality": "신헌법 시행 국면에서 필요한 조치를 부칙에 두어 처리한다는 점이 공통된다.",
+          "difference": "후보는 실시절차의 법률 위임을 정할 뿐 기존 제정기관에 입법부로서의 권한을 승계시키지 않고, 의원 임기도 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'의원의 임기는 ○년으로 한다'는 일반적 임기 규정 문형만 겹치고, 제헌의회에 관한 경과규정이 아니다. 임기 규정의 경과적 성격은 후보 JP1946_ORIGINAL_ART_102가 더 구체적으로 대응한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_102",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "보칙에서 신헌법 시행 초기 의원의 임기를 통상 임기와 달리 특별히 정하는 구조와 '任期는 ○년으로 한다'는 문형이 대응한다. 다만 대상은 제헌국회 전원의 임기 2년, 후보는 제1기 참의원 중 절반의 임기 3년으로 대상 범위·기간·기산이 다르다.",
+      "evidence": [
+        {
+          "element": "경과적 의원 임기 규정",
+          "target_field": "original_text",
+          "target_quote": "그 議員의 任期는 國會開會日로부터 2年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その半数の者の任期は、これを三年とする",
+          "commonality": "부칙에서 신헌법 시행 초기 의원의 임기를 통상 규정과 달리 단축하여 확정하는 방식이 같다.",
+          "difference": "대상은 제헌국회 의원 전원의 임기를 국회개회일 기산 2년으로 하나, 후보는 제1기 참의원 중 '절반'만 3년으로 하고 그 대상자 결정을 법률에 위임한다(기산점 명시 없음)."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출 주체와 임기·재선을 정한 조항으로, 의회 구성원의 경과적 임기나 제헌국회의 권한 승계와는 주체·효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_101",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국회로서의 권한을 행한다'는 문형과, 신헌법 시행기에 특정 합의체가 국회 권한을 잠정적으로 행사하도록 하는 규율 요소가 직접 대응한다. 다만 주체(제헌국회 vs 중의원)와 조건(참의원 미성립)의 설정이 다르다.",
+      "evidence": [
+        {
+          "element": "국회 권한의 경과적 행사",
+          "target_field": "original_text",
+          "target_quote": "이 憲法에 依한 國會로서의 權限을 行하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院は、国会としての権限を行ふ",
+          "commonality": "신헌법 시행 국면에서 특정 의회체가 '국회로서의 권한을 행한다'고 규정하는 표현과 규율 방식이 일치한다.",
+          "difference": "대상은 헌법을 제정한 국회가 조건 없이 신헌법상 국회로서 권한을 행사하는 반면, 후보는 참의원 미성립이라는 조건 아래 그 성립 시까지 중의원이 대행하는 기한부 규정이다."
+        },
+        {
+          "element": "기간 한정 방식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "그 의원의 임기는 국회개회일로부터 2년으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その成立するまでの間",
+          "commonality": "경과적 권한 행사의 존속 기간을 조문에서 함께 한정한다.",
+          "difference": "대상은 의원 임기라는 확정 기간(개회일로부터 2년)으로 한정하나, 후보는 참의원 성립이라는 사실의 발생 시점까지로 한정하며 임기 자체는 규정하지 않는다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "임기 기산점을 '국회개회일'로 명시한 점",
+    "임기 기간을 2년으로 정한 수치"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로는 판단할 수 없다.",
+    "후보 중 일부는 한국어 번역문을 통해 의미를 확인했으나 인용은 원문에서 하였다."
+  ],
+  "short_answer": "대상 조문은 ①제헌국회가 신헌법상 국회 권한을 행사한다는 부분과 ②그 의원 임기를 개회일로부터 2년으로 한다는 부분으로 나뉜다. ①에 대해서는 일본국헌법 제101조의 '国会としての権限を行ふ' 문형이 가장 구체적으로 대응하고, 주체를 '헌법을 제정한 의회'로 지시하는 방식은 중화민국헌법 제175조 제2항과 대응한다. ②에 대해서는 보칙에서 시행 초기 의원 임기를 특별히 단축 확정하는 일본국헌법 제102조가 대응하나, 대상 범위(전원 vs 절반)와 기간·기산이 다르다. 일본국헌법 제45조·제100조·제96조, 프랑스 제4공화국헌법 제29조는 임기·부칙이라는 일반적 유사성 또는 무관계에 그친다. 이상은 문언상 대응 관계이며 역사적 영향의 확정은 아니다."
+}

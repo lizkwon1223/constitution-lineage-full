@@ -1,0 +1,121 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_014",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_020",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 조문과 동일하게 '학문(과학)·예술의 자유 보장' + '창작자 권리의 보호'라는 두 문장 구조를 취하고, 문형('…의 自由를 가진다', '…保護한다')이 거의 일치한다. 다만 권리주체 열거와 보호 형식에서 차이가 있어 그 범위로 한정해 선택한다.",
+      "evidence": [
+        {
+          "element": "자유의 주체와 대상(학문·예술의 자유)",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 學問과 藝術의 自由를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 科學 또는 藝術活動의 自由를 가진다.",
+          "commonality": "'…의 自由를 가진다'는 동일 문형으로 학문(과학)과 예술 영역의 자유를 병렬 보장한다.",
+          "difference": "대상은 주체를 '모든 국민', 보호대상을 '학문'으로 하나 후보는 '공민', '과학 또는 예술활동'으로 활동 개념에 초점을 둔다."
+        },
+        {
+          "element": "창작 관련 권리의 보호 방식",
+          "target_field": "original_text",
+          "target_quote": "著作者, 發明家와 藝術家의 權利는 法律로써 保護한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "著作權은 法的으로 保護한다.",
+          "commonality": "둘째 문장에서 창작 관련 권리를 국가가 보호한다고 별도로 규정한다.",
+          "difference": "대상은 저작자·발명가·예술가라는 인적 주체의 권리를 '법률로써' 보호하나, 후보는 '저작권'이라는 권리 자체를 '법적으로' 보호한다고 하여 발명가·예술가가 열거되지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_158",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "저작자·발명가·예술가라는 3자 열거가 문언상 정확히 대응한다. 다만 보호의 형식(법률에 의한 보호 대 제국의 보호·배려)과 제2문(국제적 보호)에서 차이가 커 열거 부분에 한정해 선택한다.",
+      "evidence": [
+        {
+          "element": "보호 대상 권리주체의 열거",
+          "target_field": "original_text",
+          "target_quote": "著作者, 發明家와 藝術家의 權利",
+          "candidate_field": "original_text",
+          "candidate_quote": "das Recht der Urheber, der Erfinder und der Künstler",
+          "commonality": "저작자·발명가·예술가 세 주체의 '권리'를 같은 순서로 병렬 열거한다.",
+          "difference": "후보는 '정신적 노동(die geistige Arbeit)'을 함께 들고 있고, 대상은 이를 두지 않는다."
+        },
+        {
+          "element": "보호의 형식·효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률로써 보호한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "genießt den Schutz und die Fürsorge des Reichs",
+          "commonality": "창작자 권리에 대한 국가의 보호 의무를 규정한다.",
+          "difference": "대상은 '법률로써'라는 입법형성 형식을 명시하나, 후보는 제국의 '보호와 배려'라는 국가 급부적 표현을 쓰고 별도로 국제 합의를 통한 외국에서의 보호까지 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'著作'이라는 용어가 겹치나 이는 표현의 자유(언론·저작·출판) 묶음의 일부이며, 대상 조문의 학문·예술의 자유 및 저작자·발명가 권리 보호와는 규율 요소(법률유보에 의한 제한)가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_142",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1문에서 예술과 학문의 자유를 병렬로 보장하는 점이 대상 제1문과 구체적으로 대응한다. 다만 주관적 권리 형식이 아니라 객관적 자유 선언이고 '교수(Lehre)'와 국가의 육성 참여가 추가되어 그 범위에 한정해 선택한다.",
+      "evidence": [
+        {
+          "element": "학문·예술 자유의 보장",
+          "target_field": "original_text",
+          "target_quote": "學問과 藝術의 自由를 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Kunst, die Wissenschaft und ihre Lehre sind frei.",
+          "commonality": "예술과 학문을 함께 묶어 자유 영역으로 선언한다.",
+          "difference": "대상은 '모든 국민'이 자유를 '가진다'는 개인의 권리 형식이나, 후보는 주체 표시 없이 '자유이다'라는 객관적 선언이며 '그 교수(Lehre)'까지 포함한다."
+        },
+        {
+          "element": "국가의 보호",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률로써 보호한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Staat gewährt ihnen Schutz und nimmt an ihrer Pflege teil.",
+          "commonality": "자유 선언에 이어 국가의 보호를 덧붙이는 2문 구성을 취한다.",
+          "difference": "대상의 보호 대상은 저작자·발명가·예술가의 '권리'이고 수단이 '법률'인 반면, 후보는 예술·학문 자체를 보호하고 그 육성에 참여한다는 국가 활동 규정이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "교육을 받을 권리와 의무교육·무상성에 관한 규정으로, 대상 조문의 학문·예술의 자유 및 창작자 권리 보호와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_011",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'講學'과 '著作'이 학문·저작 어휘와 겹치지만, 언론·출판을 포함한 표현의 자유 조항이며 저작자·발명가·예술가 권리의 법률 보호라는 대상 제2문의 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "개인 존중과 생명·자유·행복추구권의 일반 조항으로, 학문·예술의 자유나 창작자 권리 보호와 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'모든 國民'이라는 권리주체 표기 방식",
+    "저작자·발명가·예술가 권리 보호를 '법률로써'라는 입법 위임 형식으로 규정한 점(후보들은 '법적으로', '제국의 보호와 배려', '국가의 보호' 등으로 상이)"
+  ],
+  "limitations": [
+    "문언 대응만 검토했으며 실제 참조·계수 관계의 역사적 확정은 아니다.",
+    "바이마르 헌법 후보는 독일어 원문과 제공된 번역문에 의존해 비교했다."
+  ],
+  "short_answer": "북한 1948년 헌법안 제20조는 '자유 보장 + 창작 권리 보호'의 2문 구조와 '…의 自由를 가진다', '…保護한다' 문형이 대상 조문과 가장 근접하게 대응하나, 주체가 '공민', 보호대상이 '저작권'에 한정된다는 차이가 있다. 바이마르 제158조는 '저작자·발명가·예술가'의 3자 열거가 대상 제2문과 정확히 대응하지만 보호 주체·형식이 '제국의 보호와 배려'이고 국제적 보호 조항이 추가된다. 바이마르 제142조는 예술·학문의 자유 선언으로 대상 제1문과 대응하되 개인의 권리 형식이 아니고 '교수'와 국가의 육성 참여를 포함한다. 중화민국 두 조문은 '著作' 어휘가 겹치나 표현의 자유 묶음이어서 선택하지 않았고, 일본국헌법 제26·13조는 규율 대상이 다르다. 이상은 문언상 대응 관계일 뿐 영향 관계의 확정은 아니다."
+}

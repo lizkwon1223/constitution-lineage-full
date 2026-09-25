@@ -1,0 +1,169 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_038",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 발의·비준 절차를 규율하며 회의 공개·비밀회와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_048",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'회의는 공개한다'는 원칙 + '단, …결의에 의하여 비밀회로 할 수 있다'는 예외 문형이 어순까지 근접하게 대응한다. 다만 비밀회 개시 요건에서 정부 요구가 병기되는 점은 다르다.",
+      "evidence": [
+        {
+          "element": "회의 공개 원칙",
+          "target_field": "original_text",
+          "target_quote": "國會의 會議는 公開한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院ノ会議ハ公開ス",
+          "commonality": "의회 회의의 공개를 원칙으로 선언하는 동일한 문형",
+          "difference": "대상은 단원제 '國會' 전체, 후보는 양원 각각을 주체로 함"
+        },
+        {
+          "element": "비밀회 예외와 발동 요건",
+          "target_field": "original_text",
+          "target_quote": "但, 國會의 決議에 依하여 秘密會로 할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但シ政府ノ要求又ハ其ノ院ノ決議ニ依リ秘密会ト為スコトヲ得",
+          "commonality": "'단' 이하에서 의결에 의한 비밀회 전환을 허용하는 예외 구조와 '秘密會' 용어 일치",
+          "difference": "후보는 정부의 요구도 비밀회 사유로 병기하나 대상은 국회 결의만을 요건으로 하고 의결정족수도 명시하지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_017",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공개 원칙과 '但 … 秘密會로 할 수 있음'이라는 한국어 문형이 거의 동일하게 대응한다. 다만 정부 요구 사유 포함과 주체 명칭이 다르다.",
+      "evidence": [
+        {
+          "element": "공개 원칙과 비밀회 예외 문형",
+          "target_field": "original_text",
+          "target_quote": "但, 國會의 決議에 依하여 秘密會로 할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但 政府의 要求 또는 院議로써 秘密會로 할 수 있음",
+          "commonality": "단서에서 원(院)의 의결로 비밀회 전환을 허용하는 동일 구조와 '秘密會' 표기",
+          "difference": "후보는 정부 요구를 추가 사유로 두고 '院議'라 표현, 대상은 '國會의 決議'만 인정"
+        },
+        {
+          "element": "공개 대상 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의 회의는 공개한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院의 議事는 公開함",
+          "commonality": "입법기관 회의의 공개를 원칙으로 규정",
+          "difference": "후보는 '立法議院의 議事', 대상은 '國會의 會議'로 주체·객체 표현이 다름"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_034",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "비밀투표에 의한 대의원 선출·구성 규정으로, '비밀'이라는 어휘만 겹치고 회의 공개 규율과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_067",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "위원회 설치와 출석 요청에 관한 규정으로 회의 공개·비밀회 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_079",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "회의 공개 원칙과 비공개 회의 전환을 규정하나, 발동 주체가 의장 또는 의원 10인의 제안이고 절차가 다르며 '결의에 의하여'라는 대상의 요건과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_057",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'회의는 공개한다' + '但し … 秘密會' 구조가 대응하지만, 정족수(출석의원 3분의 2)와 회의록 공표·표결 기재 조항이 대상에 없으므로 대응 범위는 공개원칙·비밀회 단서에 한정된다.",
+      "evidence": [
+        {
+          "element": "공개 원칙과 비밀회 단서",
+          "target_field": "original_text",
+          "target_quote": "國會의 會議는 公開한다. 但,",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院の会議は、公開とする。但し、",
+          "commonality": "회의 공개 선언 후 '但'으로 비밀회 예외를 붙이는 동일한 문형",
+          "difference": "후보는 양원을 주체로 하고, 대상은 단원제 국회"
+        },
+        {
+          "element": "비밀회 의결 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의 결의에 의하여 비밀회로 할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる",
+          "commonality": "의회 자체의 의결로 비밀회를 열 수 있게 하는 점",
+          "difference": "후보는 출석의원 3분의 2라는 특별정족수를 명시하나 대상은 정족수를 규정하지 않음; 후보의 회의록 보존·공표 및 표결 기재 조항은 대상에 없음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_014",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "비밀통신의 자유에 관한 기본권 조항으로 회의 공개와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_039",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "본회의 공개와 3분의 2 다수에 의한 공개 배제를 규정하나 주체가 국가평의회이고 개별 의사일정 사항별 배제·비공개 심의 절차라는 점에서 구체적 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_032",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공개 원칙과 의결에 의한 공개 배제를 규정하나 의장·출석의원 5분의 1의 요구와 방청인 퇴장 절차 등 별도 요건이 중심이어서 문언 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_029",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공개 원칙과 다수결에 의한 공개 배제를 정하나 의원 50인의 제안과 3분의 2 다수라는 요건이 대상에 없고 '비밀회' 형식도 규정하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안·비준 절차 규정으로 회의 공개와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "회의 공개와 '비밀회 구성' 가능성을 규정하여 주제가 일치하나, 비밀회 전환 요건(결의)이 명시되지 않고 관보 공표 조항이 추가되어 요소 대응이 부분적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_005",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공개 원칙과 비밀회 구성을 규정하지만 요건이 규칙으로 정한 일정 수 의원의 요구이고 공개 재개 결정 절차가 부가되어 대상의 '국회 결의' 요건과 직접 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "비밀회 전환 시 요구되는 의결정족수를 명시하지 않은 점(단순 '國會의 決議'로만 규정한 입법 선택)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다.",
+    "독일어·프랑스어 후보는 번역문에 의존한 이해가 일부 포함되어 세부 문형 비교의 정확도가 제한된다."
+  ],
+  "short_answer": "대상 조문은 '국회의 회의는 공개한다'는 원칙과 '단, 국회의 결의에 의하여 비밀회로 할 수 있다'는 단서로 구성된다. 이 문형에 가장 밀접히 대응하는 후보는 대일본제국헌법 제48조, 조선임시약헌 제17조, 일본국헌법 제57조 제1항으로, 모두 공개 선언 뒤 '但'으로 원(院)의 결의에 의한 '秘密會' 전환을 허용한다. 다만 앞의 두 후보는 '정부의 요구'를 비밀회 사유로 병기하고, 일본국헌법은 출석의원 3분의 2라는 특별정족수와 회의록 공표·표결 기재 규정을 두는 점에서 대상과 다르다. 프로이센·바이마르·오스트리아·프랑스 조항들은 공개 원칙이라는 주제는 같으나 발동 요건이 의장·일정 수 의원의 제안이나 사항별 공개 배제여서 대응이 일반적 수준에 머문다. 문언상 대응은 위와 같이 확인되지만 역사적 참조 관계는 제공 본문만으로 확정할 수 없다."
+}

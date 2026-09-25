@@ -1,0 +1,85 @@
+{
+  "article": 19,
+  "reviewed_at": "2026-09-22T15:21:15.296190+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "05ed21c8a08b727d6125c79b08bf65c8e04dc3468d4001cf0164434e1e61480a",
+  "input_sha256": "cfc360d306d253cb11460b0e24e954af6daea663a7a24b490c27fb6cdfb0512b",
+  "responses": [
+    {
+      "job_id": "019_708042f0324d_r1",
+      "repeat": 1,
+      "sha256": "ff8eb1ca1f8869228c2545be8f2730c53b6d2befaa7f32ae2317fa332114488b",
+      "assessment": "중화민국 초안의 생활능력 부족과 북한 초안의 노쇠·질병·노동력 상실을 중심으로 한 대응은 타당함. 생활유지 능력 요건을 미설명 요소로 분류할 때 중화민국 초안의 無力生活과 이미 대응한다는 점을 반영해야 함. 북한의 보험 적용 가능성을 가입 여부로 바꾸어 표현하지 않아야 함."
+    },
+    {
+      "job_id": "019_708042f0324d_r2",
+      "repeat": 2,
+      "sha256": "6ed68c7459f30e71452f192ae16fc832ac1fe4271a5faff490c3188a58826d02",
+      "assessment": "선택한 두 후보의 공통점과 보호 방식의 차이를 대체로 정확히 구분함. 생활유지 능력 요건은 북한 후보에는 없으나 중화민국 초안에는 대응 문언이 있으므로 전체 후보로 설명되지 않는 요소와 구분할 필요가 있음."
+    },
+    {
+      "job_id": "019_708042f0324d_r3",
+      "repeat": 3,
+      "sha256": "d01da437db119575a98ce466baeae1160092a69dbe71fbca6caea8b0dc538afd",
+      "assessment": "주요 대응은 유지할 수 있으나 생활능력 요건을 대상의 고유 요소로 부르는 요약은 자체의 중화민국 초안 대조와 어긋남. 適當은 적정한 구제라는 기준이며 구제 여부의 재량을 뜻한다고 단정할 수 없음. 북한 후보의 보험 적용 가능 공민이라는 조건을 생략한 청구 가능 설명도 보정해야 함."
+    }
+  ],
+  "synthesis": "생활유지 능력이 없는 자에 대한 국가 보호라는 구조는 중화민국 헌법초안 제128조의 老弱殘廢無力生活者와 국가의 적정한 구제 의무에 대응함. 북한 초안 제17조는 노쇠·질병·노동력 상실이라는 사유와 물질적 방조를 명시하므로 보호 사유와 급부의 성격을 설명함. 다만 북한 후보는 사회보험 적용 가능 공민을 대상으로 하며, 별도로 생활유지 능력의 결여를 요구하지 않음. 제헌헌법은 보호의 구체화를 법률에 맡긴다는 점에서 선택된 두 후보와 차이가 있음. 법률 유보가 있다는 사실만으로 보호 수준이나 권리의 강약까지 판단할 수 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_128",
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "생활유지 능력 요건을 미설명 요소로 두지만 無力生活과의 대응을 이미 인정함.",
+      "action": "북한 후보와의 차이로 한정하고 중화민국 초안으로 설명되는 부분과 구분함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_128",
+      "type": "internal_inconsistency",
+      "severity": "material",
+      "finding": "요약에서 생활능력 기준을 대상 고유 요소로 부르지만 후보의 無力生活이 직접 대응함.",
+      "action": "고유하다는 설명을 삭제하고 대응하는 보호 요건으로 정리함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_128",
+      "type": "unsupported_legal_inference",
+      "severity": "material",
+      "finding": "適當之救濟를 재량화·재량기준으로 해석함. 應予以는 구제 의무를 명시하며 적정성 문언만으로 임의성을 도출할 수 없음.",
+      "action": "적정한 구제를 명시한다고 서술하고 재량의 범위는 유보함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_017",
+      "type": "condition_omission",
+      "severity": "material",
+      "finding": "사유 발생만으로 물질적 방조 청구가 가능하다는 증거 설명에서 사회보험 적용 가능 공민이라는 조건을 생략함.",
+      "action": "보험 적용 가능성을 전제한 보호임을 명시함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_128",
+      "type": "subject_precision",
+      "severity": "minor",
+      "finding": "대상의 보호 주체를 국민으로 표현하지만 해당 조문은 者라고 규정함.",
+      "action": "생활유지 능력이 없는 자라는 원문 표현을 사용함."
+    }
+  ],
+  "limits": [
+    "보호 대상·사유·급부 형태의 문언 비교이며 실제 급여 수준이나 재판상 청구 가능성을 확정하는 분석이 아님."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "article": 75,
+  "reviewed_at": "2026-09-22T16:17:21.533492+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "bdfec884a3a5bb1c204d01235a7a2e342131a624345a1e9d671ac6cc9ec0b5a1",
+  "input_sha256": "e95206cf948c8d511a13a2699c89cf70f1bd31d0aa5eba668dba56165d562fb6",
+  "responses": [
+    {
+      "job_id": "075_0aacab3b9167_r1",
+      "repeat": 1,
+      "sha256": "7852b7f57951bba2e3d55e8f5776e4fdf011c53cfe949efb19d634a22f7f136c",
+      "assessment": "약헌의 조직·권한 법률유보를 잘 포착함. 대상에 없는 사무배분 기준은 별도 검토 주제임."
+    },
+    {
+      "job_id": "075_0aacab3b9167_r2",
+      "repeat": 2,
+      "sha256": "722658fde42225e5d1ce61f17ed8692b0bda3152d297256ff66ff20de92af81b",
+      "assessment": "행정원과 행정각부의 차이를 구분함. 설치 개수 등 미기재 사항을 대상의 미설명 요소로 다루지 않음."
+    },
+    {
+      "job_id": "075_0aacab3b9167_r3",
+      "repeat": 3,
+      "sha256": "871f15b1de588818c9689c64c9fbe43105ea283e975e125301f1012b24a508ca",
+      "assessment": "핵심 대응은 적절함. 일본의 헌법·법률 특례를 대조 설명에 함께 남겨야 함."
+    }
+  ],
+  "synthesis": "약헌 제27조는 행정각부의 조직과 권한을 법률로 정한다는 결합에서 직접 대응함. 권한과 직무범위는 용어의 차이를 유지함. 중화민국 제61조는 행정원 전체의 조직 법정에 한정하여 대응함. 바이마르 제84조의 조세행정 감독기관 조직·권한 법정도 대상 기관을 한정한 보완 비교가 가능함. 일본 제10조는 천황의 관제 결정과 헌법·법률의 특례를 함께 두므로 법률의 관여가 전혀 없는 제도로 설명하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "바이마르의 행정관청 조직·권한 법정을 대상이 특정 조세행정기관이라는 이유로 무관하게 분류함.",
+      "action": "범위가 좁은 부분 대응으로 병기함.",
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_084",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "non_target_unexplained",
+      "finding": "사무배분의 구체 기준·설치 개수 등 대상에 적히지 않은 내용을 미설명 요소로 제시함.",
+      "action": "명시된 조직·직무범위와 추가 검토 주제를 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "qualification_omission",
+      "finding": "일본의 관제 결정을 반대 방향으로 설명하면서 헌법·법률상 특례 단서를 언급하지 않음.",
+      "action": "원칙과 특례를 함께 설명함.",
+      "candidate_id": "JP1889_ORIGINAL_ART_010",
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

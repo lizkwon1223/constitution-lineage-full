@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_069",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "69",
+    "original_text": "國務總理는 大統領이 任命하고 國會의 承認을 얻어야 한다. 國會議員總選擧後 新國會가 開會되었을 때에는 國務總理任命에 對한 承認을 다시 얻어야 한다.\n國務委員은 大統領이 任命한다.\n國務委員의 總數는 國務總理를 合하여 8人以上 15人以內로 한다.\n軍人은 現役을 免한 後가 아니면 國務總理 또는 國務委員에 任命될 수 없다.",
+    "workbook_text_ko": "국무총리는 대통령이 임명하고 국회의 승인을 얻어야 한다. 국회의원총선거후 신국회가 개회되었을 때에는 국무총리임명에 대한 승인을 다시 얻어야 한다.\n국무위원은 대통령이 임명한다.\n국무위원의 총수는 국무총리를 합하여 8인이상 15인이내로 한다.\n군인은 현역을 면한 후가 아니면 국무총리 또는 국무위원에 임명될 수 없다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_026",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "26",
+      "original_text": "國務總長 及 國務委員은 政府主席이 任命하되 立准議院의 認准을 要함 國務委員은 十人 以上 十五人 以內로 함",
+      "workbook_text_ko": "국무총장 및 국무위원은 정부주석이 임명하되 입법의원의 인준을 요함. 국무위원은 10인 이상 15인 이내로 함."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_040",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "40",
+      "original_text": "Si, en application de l'article précédent, l'élection doit avoir lieu dans une période où l'Assemblée nationale est dissoute conformément à l'article 51, les pouvoirs du président de la République en exercice sont prorogés jusqu'à l'élection du nouveau président. Le Parlement procède à l'élection de ce nouveau président dans les dix jours de l'élection de la nouvelle Assemblée nationale.\nDans ce cas, la désignation du président du Conseil des ministres a lieu dans les quinze jours qui suivent l'élection du nouveau président de la République.",
+      "workbook_text_ko": "전조의 적용에 즈음하여 국민의회가 제51조에 따라서 해산된 때에 선\n거를 실시해야할 경우에는 현직 공화국대통령의 권한은 새로운 대통령의 선거까지 연장한다. 국회는 새로운 국민의회 선거일로부터 10일 이내에 새\n로운 대통령선거를 실시한다.\n이 경우에 국무총리는 새로운 대통령선거 후 15일 이내에 지명한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_066",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "66",
+      "original_text": "内閣は、法律の定めるところにより、その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する。\n２　内閣総理大臣その他の国務大臣は、文民でなければならない。\n３　内閣は、行政権の行使について、国会に対し連帯して責任を負ふ。",
+      "workbook_text_ko": "①내각은 법률이 정하는 바에 따라 수장인 내각총리대신과 그 밖의 국무대신으로 구성한다.\n②내각총리대신 그 밖의 국무대신은 문민(文民)이어야 한다.\n③내각은 행정권의 행사에 관하여 국회에 대하여 연대하여 책임을 진다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_070",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "70",
+      "original_text": "(1) Der Bundeskanzler und auf seinen Vorschlag die übrigen Mitglieder der Bundesregierung werden vom Bundespräsidenten ernannt. Zur Entlassung des Bundeskanzlers oder der gesamten Bundesregierung ist ein Vorschlag nicht erforderlich; die Entlassung einzelner Mitglieder der Bundesregierung erfolgt auf Vorschlag des Bundeskanzlers. Die Gegenzeichnung erfolgt, wenn es sich um die Ernennung des Bundeskanzlers oder der gesamten Bundesregierung handelt, durch den neubestellten Bundeskanzler; die Entlassung bedarf keiner Gegenzeichnung.\n(2) Zum Bundeskanzler, Vizekanzler oder Bundesminister kann nur ernannt werden, wer zum Nationalrat wählbar ist; die Mitglieder der Bundesregierung müssen nicht dem Nationalrat angehören.\n(3) Wird vom Bundespräsidenten eine neue Bundesregierung zu einer Zeit bestellt, in welcher der Nationalrat nicht tagt, so hat er den Nationalrat binnen einer Woche zum Zweck der Vorstellung der neuen Bundesregierung zu einer außerordentlichen Tagung (Artikel 28, Absatz 2) einzuberufen.",
+      "workbook_text_ko": "(1) 연방총리는 연방대통령이 임명하고, 그 밖의 연방정부 구성원은 연방총리의 제청에 따라 연방대통령이 임명한다. 연방총리 또는 연방정부 전체의 해임에는 제청이 필요하지 않다. 연방정부 구성원의 개별 해임은 연방총리의 제청에 따른다. 연방총리 또는 연방정부 전체를 임명하는 경우의 부서는 새로 임명된 연방총리가 한다. 해임에는 부서가 필요하지 않다.\n(2) 연방총리·연방부총리 또는 연방장관으로 임명될 수 있는 사람은 국민의회 피선거권을 가진 사람에 한한다. 연방정부 구성원은 국민의회 의원일 필요가 없다.\n(3) 국민의회가 회기 중이 아닐 때 연방대통령이 새 연방정부를 임명하면, 새 연방정부를 소개하기 위하여 1주 이내에 국민의회를 임시회(제28조 제2항)에 소집하여야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_045",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "45",
+      "original_text": "Au début de chaque législature, le président de la République, après les consultations d'usage, désigne le président du Conseil.\nCelui-ci soumet à l'Assemblée nationale le programme et la politique du Cabinet qu'il se propose de constituer.\nLe président du Conseil et les ministres ne peuvent être nommés qu'après que le président du Conseil ait été investi de la confiance de l'Assemblée au scrutin public et à la majorité absolue des députés, sauf cas de force majeure empêchant la réunion de l'Assemblée nationale.\nIl en est de même au cours de la législature, en cas de vacance par décès, démission ou toute autre cause, sauf en ce qui est dit à l'article 52 ci-dessous.\nAucune crise ministérielle intervenant dans le délai de quinze jours de la nomination des ministres ne compte pour l'application de l'article 51.",
+      "workbook_text_ko": "공화국대통령은 각 입법기(législature) 초에 관례에 따른 협의를 거쳐 국무총리(Président\ndu Conseil)를 지명한다.\n국무총리는 구성하려는 내각의 강령과 정책(le programme et la politique\ndu cabinet)을 국민의회의 판단에 맡긴다.\n국무총리는 기명투표(scrutin public)에 의한 의원의 절대다수로 국민의회\n가 신임한 후가 아니면 국무총리와 장관은 임명될 수 없다. 다만, 불가항력\n(force majeure)으로 국민의회가 집회할 수 없을 때에는 그러하지 아니하\n다.\n입법기 중에도 국무총리가 사망ㆍ사직 또는 기타 모든 이유로 공석이 된 경\n우에도 동일하다. 다만, 제52조에 정한 경우에는 그러하지 아니하다.\n장관의 임명으로부터 15일 이내에 일어난 내각의 위기(crise ministérielle)\n는 제51조를 적용함에는 산입하지 아니한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_052",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "52",
+      "original_text": "En cas de dissolution, le Cabinet, à l'exception du président du Conseil et du ministre de l'intérieur, reste en fonction pour expédier les affaires courantes.\nLe président de la République désigne le président de l'Assemblée nationale comme président du Conseil. Celui-ci désigne le nouveau ministre de l'intérieur en accord avec le bureau de l'Assemblée nationale. Il désigne comme ministres d'Etat des membres des groupes non représentés au Gouvernement.\nLes élections générales ont lieu vingt jours au moins, trente jours au plus après la dissolution.\nL'Assemblée nationale se réunit de plein droit le troisième jeudi qui suit son élection.",
+      "workbook_text_ko": "해산의 경우, 국무총리와 내무장관(ministre de l'Intérieur)을 제외하\n고 내각은 일상 업무를 수행하기 위하여 직무를 속행한다.\n공화국대통령은 국민의회 의장을 국무총리로서 지명한다. 이 국무총리는\n국민의회의 의장단의 동의에 근거하여 새로운 내무장관을 지명한다. 국무\n총리는 정부에 대표를 두지 아니한 (의회) 교섭단체의 구성원을 국무장관(ministre\nd'État)으로서 지명한다.\n해산 후 20일부터 30일까지의 기간에 총선거(élections générales)를 실시한다.\n국민의회는 총선거 후의 제3 목요일에 당연히 집회한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_068",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "68",
+      "original_text": "内閣総理大臣は、国務大臣を任命する。但し、その過半数は、国会議員の中から選ばれなければならない。\n２　内閣総理大臣は、任意に国務大臣を罷免することができる。",
+      "workbook_text_ko": "①내각총리대신은 국무대신을 임명한다. 다만, 그 과반수는 국회의원 중에서 선임하여야 한다.\n②내각총리대신은 임의로 국무대신을 파면할 수 있다."
+    }
+  ]
+}

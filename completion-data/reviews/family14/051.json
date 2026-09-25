@@ -1,0 +1,76 @@
+{
+  "article": 51,
+  "reviewed_at": "2026-09-22T15:52:06.664385+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "b1e4e0a6aab401f604bd2a101d83987cca31b52a16a2a8c3c7683925598b5d06",
+  "input_sha256": "574047eba1ae4f605b4fc669a9706bcfc62496f7105e1d511cfdf5199d7f7aa2",
+  "responses": [
+    {
+      "job_id": "051_bb3b3c651146_r1",
+      "repeat": 1,
+      "sha256": "308883e849bf41ee1c1d4132d1ed8acccd13432669a2c18db00338ad12f5796b",
+      "assessment": "행정권 귀속·통할·수반과 대외 대표의 두 요소를 나누어 폭넓게 비교함. 미국 대외관계를 사절 접수로만 축약한 선정 이유는 조약 체결 규정도 있는 본문과 맞지 않으나 증거 차이란은 이를 언급함."
+    },
+    {
+      "job_id": "051_bb3b3c651146_r2",
+      "repeat": 2,
+      "sha256": "405eb3ae1273281c038c1051994ba0f33c2f094abad25c36366d8a878f513005",
+      "assessment": "중화민국의 지위·대표 병렬, 약헌의 통할·대표 결합 및 유럽의 대외 대표 대응을 정확히 포착함. 미국·필리핀의 행정권 귀속은 부분 대응 후보로도 검토할 수 있음."
+    },
+    {
+      "job_id": "051_bb3b3c651146_r3",
+      "repeat": 3,
+      "sha256": "2b21f883eccc1e4ea8739a8d5d386899a2066e8669fd03c8fe794e9347097829",
+      "assessment": "중화민국·약헌·오스트리아·프로이센의 대응 설명은 대체로 타당함. 바이마르의 국제법상 국가대표 선언을 추가 권한 때문에 배제한 기준은 오스트리아 선택과 일관성이 약함."
+    }
+  ],
+  "synthesis": "대상은 대통령의 행정권 수반 지위와 대외 국가대표를 결합함. 약헌 제22조는 국가대표와 행정권 통할을 함께 정하되 대외 한정이 없고 어순이 다름. 중화민국 두 조문은 지위 선언과 대외 대표의 문장 구조가 가깝지만 국가원수와 행정권 수반은 동일한 표현이 아님. 오스트리아·바이마르·프로이센 1920년의 국가대표 선언은 후단에 대응하며 대표 주체를 구분함. 미국·필리핀의 행정권 귀속은 전단의 기능상 비교가 가능하나 수반이라는 지위 선언과 동일 문언으로 처리하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "대통령의 국제법상 국가대표라는 직접 선언을 뒤따르는 권한·절차 때문에 일반 유사로 배제함. 선택된 오스트리아 제65조도 대표 선언 뒤 권한을 열거함.",
+      "action": "국가대표 선언 부분에 한정해 대응을 병기함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "minor",
+      "finding": "미국·필리핀의 대통령에 대한 행정권 귀속을 수반이라는 단어가 없다는 이유로 배제함. 약헌의 통할은 기능 대응으로 채택됨.",
+      "action": "어휘 일치와 행정권상 지위의 기능 대응을 구분함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "type": "summary_overstatement",
+      "severity": "minor",
+      "finding": "선정 이유가 대외관계를 사절 접수 권한으로만 설명하지만 후보에는 조약 체결 등도 있음.",
+      "action": "개별 외교 권한과 포괄적 국가대표 선언을 구분하여 수정함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_036",
+      "type": "unsupported_institutional_inference",
+      "severity": "minor",
+      "finding": "국가원수라는 문언을 최고 집행기관 수장으로 풀어 씀. 이 조문은 국가원수와 대외 대표만 정함.",
+      "action": "후보가 명시한 국가원수 지위를 유지함."
+    }
+  ],
+  "limits": [
+    "주내각의 합의제성이나 전체 정부형태는 해당 단문 자체만으로 입증한 사항으로 제시하지 않음."
+  ]
+}

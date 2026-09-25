@@ -1,0 +1,112 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_069",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "수반(정부주석/대통령)의 임명 + 의회의 인준(승인)이라는 절차 구조와, 국무위원 정수의 하한·상한을 숫자로 정하는 규율 방식이 대상 조문과 구체적으로 대응한다. 다만 인준 대상 범위와 정수의 분모(총리 합산 여부)는 다르다.",
+      "evidence": [
+        {
+          "element": "국무총리 임명절차(수반 임명 + 의회 승인)",
+          "target_field": "original_text",
+          "target_quote": "國務總理는 大統領이 任命하고 國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務總長 及 國務委員은 政府主席이 任命하되 立准議院의 認准을 要함",
+          "commonality": "국가수반이 임명하고 의회의 인준·승인을 요건으로 삼는 이중 절차가 동일하다.",
+          "difference": "후보는 국무총장과 국무위원 모두에 인준을 요구하나, 대상은 국무총리에만 국회 승인을 요구하고 국무위원은 대통령이 단독 임명한다."
+        },
+        {
+          "element": "국무위원 정수의 상·하한",
+          "target_field": "original_text",
+          "target_quote": "國務委員의 總數는 國務總理를 合하여 8人以上 15人以內로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務委員은 十人 以上 十五人 以內로 함",
+          "commonality": "국무위원 수를 '○인 이상 ○인 이내'라는 동일 문형으로 한정하고 상한을 15인으로 둔다.",
+          "difference": "하한이 10인 대 8인으로 다르고, 대상은 총리를 합산한 총수 기준인 반면 후보는 국무위원만을 기준으로 삼는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "새 의회 선거 후 국무총리 지명 시기를 다루는 점에서 주제상 접점이 있으나, 대상의 '신국회 개회 시 승인 재취득'과 달리 대통령 선거와 연계된 기한 규정이어서 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "총리와 국무위원(국무대신)의 자격을 군인·문민 기준으로 제한하는 요소가 대상 제4항과 대응한다. 다만 대응 범위는 자격요건 조항에 한정되며 임명절차·정수 규정은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "총리·국무위원의 군인 관련 자격제한",
+          "target_field": "original_text",
+          "target_quote": "軍人은 現役을 免한 後가 아니면 國務總理 또는 國務委員에 任命될 수 없다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣総理大臣その他の国務大臣は、文民でなければならない。",
+          "commonality": "총리와 그 밖의 국무위원(국무대신) 전원에 대해 군 관련 신분을 이유로 한 자격요건을 두는 점이 같다.",
+          "difference": "후보는 '문민이어야 한다'는 적극적 신분요건인 반면, 대상은 현역을 면하면 임명 가능하다는 소극적 제한으로 예비역 군인의 임명을 허용한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_070",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 총리와 정부 구성원을 임명한다는 점과 자격제한 조항을 둔 점은 유사하나, 후보는 총리의 제청을 요건으로 하고 의회 승인 절차나 정수 규정, 군인 관련 제한이 없어 구체적 규율요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 총리 지명과 의회의 신임(승인)을 임명 요건으로 삼는 구조, 그리고 새 입법기 개시 시 이를 다시 거치도록 하는 시점 규율이 대상 제1항 전단·후단과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "총리 임명에 대한 의회 동의 요건",
+          "target_field": "original_text",
+          "target_quote": "國務總理는 大統領이 任命하고 國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président du Conseil et les ministres ne peuvent être nommés qu'après que le président du Conseil ait été investi de la confiance de l'Assemblée",
+          "commonality": "대통령이 총리를 지명·임명하되 의회의 동의(신임)를 얻어야 임명 효력이 생긴다는 절차가 공통된다.",
+          "difference": "후보는 기명투표·의원 절대다수라는 표결방식과 강령 제출 절차를 명시하고 장관 임명까지 신임에 연동시키는 반면, 대상은 방식 규정 없이 '국회의 승인'만 요구하고 국무위원은 대통령 단독 임명이다."
+        },
+        {
+          "element": "새 의회 구성 시 승인 재취득",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원총선거후 신국회가 개회되었을 때에는 국무총리임명에 대한 승인을 다시 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Au début de chaque législature, le président de la République, après les consultations d'usage, désigne le président du Conseil.",
+          "commonality": "총선거로 새 의회가 구성된 시점마다 총리에 대한 지명·동의 절차를 다시 밟도록 한다는 시점 규율이 공통된다.",
+          "difference": "후보는 새 입법기 초의 '지명' 자체를 새로 하도록 하고 관례적 협의를 전제하는 반면, 대상은 기존 임명에 대한 '승인'을 신국회 개회 시 다시 받도록 하는 형식이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_052",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회 해산 시 내각의 직무속행과 국민의회 의장의 총리 지명, 총선거 기일 등을 규율하여 대상의 임명·승인·정수·군인 자격 요소와 직접 대응하는 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_068",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "국무위원 임명권의 귀속 주체가 내각총리대신인 점에서 대통령이 국무위원을 임명하는 대상과 대비되고, 의원 과반수 요건도 대상에 없어 구체적 대응이라기보다 대조 사례에 가깝다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "국무위원 총수를 '국무총리를 합하여' 산정한다는 합산 방식(8인 이상 15인 이내의 하한)",
+    "국무위원에 대해서는 국회 승인을 요구하지 않고 대통령 단독 임명으로 한 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토하였으며, 각 후보가 실제로 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "프랑스·오스트리아·일본 후보의 일부 판단은 제시된 한국어 번역문의 이해에 의존할 수 있다."
+  ],
+  "short_answer": "조선임시약헌 제26조는 수반 임명 + 의회 인준이라는 절차와 국무위원 정수를 '○인 이상 ○인 이내'로 한정하는 문형에서 대상 조문과 가장 구체적으로 대응한다(다만 하한 수치와 총리 합산 여부, 인준 대상 범위는 다름). 프랑스 제4공화국헌법 제45조는 대통령의 총리 지명에 의회 신임을 결부시키고 각 입법기 초에 이를 다시 거치게 하는 점에서 대상 제1항 전·후단과 대응하나, 표결방식과 장관 임명 연동 등에서 차이가 크다. 일본국헌법 제66조 제2항은 총리와 국무대신 전원의 군 관련 자격요건이라는 점에서 대상 제4항과 대응하지만, 문민 요건과 '현역을 면한 후' 허용은 규율 강도가 다르다. 오스트리아 제70조와 일본 제68조는 임명권 주체나 제청·의원 과반수 요건에서 차이가 커 선택하지 않았고, 프랑스 제40조·제52조는 해산·대통령 선거와 연계된 기한 규정으로 대응이 약하다. 이상은 문언상의 대응 검토이며 역사적 참조의 확정은 아니다."
+}

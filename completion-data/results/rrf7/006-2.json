@@ -1,0 +1,153 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_006",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_079",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 조문 제2문(국군의 사명=국토방위)과 군의 임무를 헌법에 직접 규정하는 문형이 대응한다. 다만 오스트리아 조문은 대내 질서유지·재해구조 등 국내 임무까지 열거하는 점에서 범위가 넓고, 전쟁 부인 규정은 없다.",
+      "evidence": [
+        {
+          "element": "국군의 사명(국토방위)",
+          "target_field": "original_text",
+          "target_quote": "國軍은 國土防衛의 神聖한 義務를 遂行함을 使命으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dem Bundesheer liegt der Schutz der Grenzen der Republik ob.",
+          "commonality": "헌법이 군(연방군/국군)의 임무를 국경·국토 방위로 명시한다",
+          "difference": "대상은 '신성한 의무 수행'이라는 유일 사명으로 한정하나, 후보는 국경 보호 외에 헌법상 제도 보호·국내 질서유지·재해구조를 추가 임무로 규정하고 민간권력의 요청이라는 조건을 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_137",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국방(군)의 목적·사명을 헌법에 선언하는 문형이 대상 제2문과 대응한다. 다만 목적의 내용(국가안전 보위·세계평화 유지)과 조직 법률유보가 다르고, 침략전쟁 부인 문구는 없다.",
+      "evidence": [
+        {
+          "element": "군·국방의 목적 선언",
+          "target_field": "original_text",
+          "target_quote": "國軍은 國土防衛의 神聖한 義務를 遂行함을 使命으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之國防，以保衛國家安全，維護世界和平為目的。",
+          "commonality": "국방/국군의 존재 목적을 '…을 목적(사명)으로 한다'는 형태로 헌법에 명시한다",
+          "difference": "대상은 목적을 국토방위로 한정하고 '신성한 의무'라는 수식을 쓰는 반면, 후보는 국가안전 보위와 세계평화 유지를 목적으로 들고 이어서 국방조직의 법률유보를 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "전쟁을 헌법상 '부인(renounce)'하는 선언 문형과, 국가방위를 의무로 규정하는 문형이 대상의 두 문장에 각각 대응한다. 다만 부인 대상이 '국책 수단으로서의 전쟁'이고 국제법 수용 조항이 결합되어 있으며, 방위의무의 주체가 정부·전 시민이라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "전쟁 부인 선언",
+          "target_field": "original_text",
+          "target_quote": "大韓民國은 모든 侵略的인 戰爭을 否認한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Philippines renounces war as an instrument of national policy",
+          "commonality": "국호를 주어로 삼아 전쟁을 부인·포기한다고 선언하는 단문 구조",
+          "difference": "대상은 '모든 침략적인 전쟁'으로 범위를 한정하고 부인만 규정하나, 후보는 '국가정책의 수단으로서의 전쟁'을 대상으로 하고 일반적으로 승인된 국제법의 국내법 수용을 함께 규정한다"
+        },
+        {
+          "element": "국토방위 의무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국군은 국토방위의 신성한 의무를 수행함을 사명으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The defense of the State is a prime duty of government",
+          "commonality": "국가방위를 헌법상의 '의무'로 명시한다",
+          "difference": "대상은 의무의 담당자를 국군으로 하고 '신성한 의무'로 표현하나, 후보는 정부의 으뜸 의무로 규정하고 그 이행을 위해 전 시민에게 법률로 병역·민간복무를 요구할 수 있다는 절차적 근거를 덧붙인다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "개정판과 동일한 영문 본문으로 전쟁 부인 선언과 국가방위 의무 문형이 대상과 대응한다. 특히 수록된 당대 한국어역이 '否認'이라는 대상과 동일한 술어를 쓰는 점은 문언 비교에 유용하나 번역문 의존이므로 별도로 표시한다.",
+      "evidence": [
+        {
+          "element": "전쟁 부인 선언",
+          "target_field": "original_text",
+          "target_quote": "大韓民國은 모든 侵略的인 戰爭을 否認한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Philippines renounces war as an instrument of national policy",
+          "commonality": "국호를 주어로 전쟁을 부인한다고 선언하는 동일 문형",
+          "difference": "부인 대상이 대상은 '침략적인 전쟁', 후보는 '국책 수단으로서의 전쟁'이며 후보는 국제법 수용 규정을 병기한다"
+        },
+        {
+          "element": "전쟁 부인의 술어 표현",
+          "target_field": "original_text",
+          "target_quote": "모든 侵略的인 戰爭을 否認한다",
+          "candidate_field": "workbook_text_ko",
+          "candidate_quote": "國策遂行의 手段으로서 戰爭을 否認하는",
+          "commonality": "'戰爭을 否認'이라는 동일 한자 술어가 쓰인다",
+          "difference": "이 대응은 후보 원문(renounces)이 아니라 수록 한국어 번역문에 기댄 것이며, 한정어도 '침략적'과 '국책수행의 수단'으로 서로 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "'Landesverteidigung(국토방위)'라는 용어만 번역상 겹칠 뿐, 규율 대상은 철도의 군사적 이용 협력의무이고 군의 사명이나 전쟁 부인과는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1문의 전쟁 부인 선언과 문형·취지가 대응한다. 다만 부인 범위(국제분쟁 해결수단으로서의 전쟁·무력행사 영구 포기)와 제2항의 전력 불보유·교전권 부인은 국군의 사명을 규정한 대상 제2문과 정면으로 대비되므로, 대응 범위는 제1문에 한정된다.",
+      "evidence": [
+        {
+          "element": "전쟁 부인 선언",
+          "target_field": "original_text",
+          "target_quote": "大韓民國은 모든 侵略的인 戰爭을 否認한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "国権の発動たる戦争と、武力による威嚇又は武力の行使は、国際紛争を解決する手段としては、永久にこれを放棄する",
+          "commonality": "헌법 모두에서 국가가 일정 범주의 전쟁을 부인·포기한다고 선언한다",
+          "difference": "대상은 '침략적' 전쟁만을 부인하고 술어가 '부인'인 반면, 후보는 무력에 의한 위협·무력행사까지 포함해 '영구히 포기'하며 국제분쟁 해결수단이라는 한정을 둔다"
+        },
+        {
+          "element": "국군의 존재와 사명",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국군은 국토방위의 신성한 의무를 수행함을 사명으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "陸海空軍その他の戦力は、これを保持しない。国の交戦権は、これを認めない。",
+          "commonality": "전쟁 부인 선언에 이어 군사력에 관한 귀결 규정을 두는 조문 구성",
+          "difference": "대상은 국군의 존재를 전제하고 국토방위 사명을 부여하나, 후보는 전력 불보유와 교전권 부인이라는 정반대 효과를 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'정복을 위한 전쟁을 하지 않는다'는 부분이 대상의 '침략적인 전쟁' 한정 부인과 범위 설정 면에서 구체적으로 대응한다. 다만 전문 전체는 광범위한 권리·사회원칙 선언이고 군의 사명 규정은 없으므로 대응 범위를 해당 문장에 한정한다.",
+      "evidence": [
+        {
+          "element": "부인되는 전쟁의 한정(침략·정복 전쟁)",
+          "target_field": "original_text",
+          "target_quote": "大韓民國은 모든 侵略的인 戰爭을 否認한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Elle n'entreprendra aucune guerre dans des vues de conquête et n'emploiera jamais ses forces contre la liberté d'aucun peuple.",
+          "commonality": "모든 전쟁이 아니라 정복·침략 목적의 전쟁으로 범위를 한정하여 이를 하지 않겠다고 선언한다",
+          "difference": "대상은 '부인한다'는 선언적 술어를 쓰는 반면 후보는 '어떠한 정복전쟁도 개시하지 않는다·인민의 자유에 반해 무력을 사용하지 않는다'는 행위 금지 형식이고, 국제공법 준수·주권 제한 동의와 묶여 있으며 군의 사명 규정은 없다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'神聖한 義務'라는 수식어",
+    "국군이라는 상비 군조직의 명칭·위상 전제",
+    "전쟁 부인과 국군 사명을 한 조문에 병치한 구성 자체"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토한 것으로, 실제 참조·기초 과정의 영향 관계는 제공된 본문만으로 확정할 수 없다.",
+    "PH1935 원본과 개정판은 본문이 동일하여 양자 간 우열을 문언만으로 가릴 수 없다.",
+    "PH1935 원본의 '否認' 대응은 수록 한국어 번역문에 의존한 것이다."
+  ],
+  "short_answer": "필리핀헌법 제2조 제3절(양 판본)과 일본국헌법 제9조 제1항, 프랑스 제4공화국 헌법 전문의 '정복전쟁 불개시' 문장은 대상 제1문의 전쟁 부인 선언과 문형·범위 한정 면에서 구체적으로 대응한다. 특히 필리핀 조문은 국호를 주어로 한 'renounces war' 단문 구조가, 프랑스 전문은 '침략·정복' 목적으로 전쟁을 한정하는 점이 각각 가깝다. 대상 제2문(국군의 사명)에 대해서는 오스트리아 연방헌법 제79조 제1항의 연방군 국경보호 규정과 중화민국헌법 제137조의 국방 목적 선언이 대응하나, 전자는 국내 질서유지·재해구조까지, 후자는 세계평화 유지와 조직 법률유보까지 포함해 범위가 다르다. 일본국헌법 제9조 제2항은 전력 불보유·교전권 부인으로 대상의 국군 사명 규정과 정반대의 효과를 가지므로 대응이 아니라 대비로 읽힌다. 바이마르헌법 제96조는 '국토방위'라는 번역 용어만 겹칠 뿐 규율 대상이 철도 이용이므로 제외했으며, 이상은 모두 문언 대응 수준의 판단이고 역사적 참조 여부는 확정하지 않는다."
+}

@@ -1,0 +1,90 @@
+{
+  "article": 7,
+  "reviewed_at": "2026-09-22T15:10:11.287167+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "cdfbe8c04be871e79cbe7fc50eaf98049b049ac384416034f01ec119e889dcd6",
+  "input_sha256": "56424faa1c6c16208c2bddf3c59b9167e51cff82a8bfd3936ef8e9c813a1b16a",
+  "responses": [
+    {
+      "job_id": "007_b133c2d4e620_r1",
+      "repeat": 1,
+      "sha256": "666fb16696d0eb94aaaff52e8f6b751df90df50a38deee5619eec22a6e3ecae9",
+      "assessment": "국제법규 편입과 비준·공포 조약의 효력을 나눈 핵심 대응은 타당함. 효력의 세부 위계, 외교조약의 협소성 및 시행입법 불요는 원문에서 확인한 범위로 한정해야 함."
+    },
+    {
+      "job_id": "007_b133c2d4e620_r2",
+      "repeat": 2,
+      "sha256": "e05327f41ac05dbb95b0fa9babdce5919e891bbf8cadc633c54f7ca34b761a28",
+      "assessment": "일본 제98조의 병렬 문형까지 부분 대응으로 포함한 것은 타당함. 국내적 효력과 모든 조약의 직접 적용 가능성을 구별해야 함."
+    },
+    {
+      "job_id": "007_b133c2d4e620_r3",
+      "repeat": 3,
+      "sha256": "938093fdd7d6e9397c76689c68142cf8c9dd216d6a110b0f62bd8df05cba5f27",
+      "assessment": "네 핵심 대응 및 일본의 병렬 문형 비교는 지지됨. 미설명 요소에서 후보들이 조약과 국제법규 중 한쪽만 규율한다고 한 것은 일본 비교와 명백히 충돌함."
+    }
+  ],
+  "synthesis": "국제법규의 일반적 승인이라는 요건과 국내법질서 편입은 바이마르·오스트리아·필리핀에, 조약의 비준·공포와 법률의 효력은 프랑스1946 제26조에 각각 대응함. 일본 제98조는 조약과 국제법규를 병렬하되 성실 준수 의무를 정함. 미국 제6조는 헌법·연방법률·조약의 최고법성 및 주 법관 구속이라는 연방 구조를 명시함. 국내적 효력을 가진다는 것과 국내법 안의 세부 위계, 각 조항의 직접 적용 가능성은 구별해야 함. 외국인의 법적 지위 보장은 제시된 후보 안에서 직접 대응이 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_098",
+      "type": "internal_inconsistency",
+      "severity": "material",
+      "finding": "미설명 요소는 후보들이 조약 또는 국제법규 한쪽만 규율한다고 하였으나 일본 제98조 제2항은 양자를 병렬하며 같은 응답의 선택 이유·근거도 이를 인정함.",
+      "action": "병렬 편성 자체는 일본에서 확인된다고 수정하고 동일 효력이라는 효과의 차이만 남김."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_026",
+      "type": "unsupported_direct_effect",
+      "severity": "material",
+      "finding": "공통점에서 대상 조약 전반을 별도 시행입법 없이 적용된다고 설명함. 제7조의 국내적 효력만으로 모든 조약 조항의 직접 적용 가능성까지 단정할 수 없음. 프랑스 원문도 비준을 확보하기 위해 필요했을 입법을 제외하는 단서를 포함함.",
+      "action": "제7조는 국내적 효력, 프랑스는 명시된 입법 불요와 그 단서로 나누어 기술함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_026",
+      "type": "unsupported_scope_difference",
+      "severity": "minor",
+      "finding": "traités diplomatiques를 외교조약에 한정한다고 표현하여 국제조약보다 범위가 좁은 것처럼 제시함. 이 표현만으로 그런 조약 분류·범위 차이는 입증되지 않음.",
+      "action": "원어 표현의 차이로 남기고 실질적 적용범위 차이를 단정하지 않음."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "hierarchy_qualification",
+      "severity": "material",
+      "finding": "동일한 효력을 동위·등위라는 단일한 국내 위계로 반복 설명함. 원문은 국내적 효력을 정하지만 모든 종류의 국내법·조약 사이의 세부 서열까지 이 한 문장으로 확정할 수 없음.",
+      "action": "효력 인정 방식의 문언 차이로 한정하고 구체적 서열 판단은 별도 해석 과제로 남김."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "대상에 없는 조약 충돌 시 우열·심사 절차를 미설명 요소로 넣음.",
+      "action": "대상 조문의 요소 누락과 조문 밖 추가 해석 질문을 구분함."
+    }
+  ],
+  "limits": [
+    "미국 조약이 모든 연방법이나 헌법보다 우월하다고 해석하지 않음. 제공 문장은 주의 헌법·법률과의 관계를 명시함.",
+    "적법한 비준이라는 프랑스의 명시적 수식이 제헌헌법에서 위법한 비준도 인정한다는 뜻은 아님."
+  ]
+}

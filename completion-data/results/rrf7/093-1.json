@@ -1,0 +1,122 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_093",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산에 예정되지 않은 지출에 대해 집행 전 의회 승인, 긴급시 사후 승인이라는 사전·사후 통제 구조는 유사하나, '예비비'라는 사전 계상 항목 자체를 규율하지 않고 금액 상한(1,000,000 S)·재무장관의 요청·주위원회 동의 등 대상 조문에 없는 요소로 구성되어 구체적 규율요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_085",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산의 연도별 편성·법률 확정, 지출승인 기간, 제국상원 동의 등 예산안 일반절차만 규정하고 예비비나 예산초과·예산외 지출의 사후 승인은 다루지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_066",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'예산 외의 추가 지출'이라는 소재는 겹치지만, 규율 내용은 의회 의결시 재원 충당방법을 함께 정할 의무로서 예비비의 사전 의결·사후 승인 구조와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'예산초과지출 또는 예산외의 지출'을 병렬로 열거하고 이에 대해 사후 의회 승인을 요구하는 문형이 대상 조문 제2항의 사후 승인 요건 및 제1항의 대상 지출 열거와 구체적으로 대응한다. 다만 대응 범위는 지출 유형 열거와 사후 승인 요건에 한정된다.",
+      "evidence": [
+        {
+          "element": "충당 대상 지출의 열거(예산외 지출·예산초과지출)",
+          "target_field": "original_text",
+          "target_quote": "豫算外의 支出 또는 豫算超過支出에 充當하기 爲한 豫備費",
+          "candidate_field": "original_text",
+          "candidate_quote": "予算ノ款項ニ超過シ又ハ予算ノ外ニ生シタル支出アルトキハ",
+          "commonality": "예산초과지출과 예산외 지출을 병렬로 들어 재정통제의 대상으로 삼는 점이 같다.",
+          "difference": "후보는 그러한 지출 자체를 사후 승인 대상으로 하지만, 대상 조문은 이를 충당하기 위한 '예비비'라는 사전 계상 항목을 설정한다."
+        },
+        {
+          "element": "사후 승인 절차",
+          "target_field": "original_text",
+          "target_quote": "豫備費의 支出은 次期國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "後日帝国議会ノ承諾ヲ求ムルヲ要ス",
+          "commonality": "지출 후 의회의 승인을 받도록 하는 사후 통제 효과가 공통된다.",
+          "difference": "후보는 시기를 '후일'로만 정하고 승인 요구 주체도 명시하지 않으나, 대상 조문은 '차기국회'라는 시기를 특정한다. 또 후보에는 사전 의결(예비비 의결) 요건이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산의 연도별 추계·법률 확정과 지출승인 기간 등 예산 일반원칙만 규정하고, 예비비나 예산초과·예산외 지출의 승인 절차를 다루지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_087",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'예견하기 어려운' 사유에 충당하기 위한 예비비를 국회 의결에 기하여 두고, 그 지출은 사후에 국회 승인을 받도록 하는 2항 구조가 대상 조문과 요소별로 직접 대응한다.",
+      "evidence": [
+        {
+          "element": "예비비 설치 요건(예측 불가 사유 + 국회 의결)",
+          "target_field": "original_text",
+          "target_quote": "豫測할 수 없는 豫算外의 支出 또는 豫算超過支出에 充當하기 爲한 豫備費는 미리 國會의 議決을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "予見し難い予算の不足に充てるため、国会の議決に基いて予備費を設け",
+          "commonality": "예측하기 어려운 재정 수요에 충당할 예비비를 국회의 의결을 거쳐 마련한다는 요건이 일치한다.",
+          "difference": "후보는 대상을 '예산의 부족'으로 포괄하고 내각의 책임으로 지출할 수 있음을 명시하나, 대상 조문은 '예산외의 지출 또는 예산초과지출'로 유형을 나누어 열거하고 지출 주체·책임은 명시하지 않는다."
+        },
+        {
+          "element": "예비비 지출의 사후 승인",
+          "target_field": "original_text",
+          "target_quote": "豫備費의 支出은 次期國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて予備費の支出については、内閣は、事後に国会の承諾を得なければならない",
+          "commonality": "예비비 지출에 대해 사후 국회 승인을 의무화하는 효과가 같다.",
+          "difference": "후보는 승인 요구 주체를 내각으로 명시하고 시기를 '사후'로만 정하는데, 대상 조문은 주체를 밝히지 않고 시기를 '차기국회'로 특정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_067",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "예산초과지출과 예산외 지출을 병렬로 열거하고, 다음 회계연도 중 의회의 사후 승인을 요구하며, '예측하지 못한' 필요를 요건으로 삼는 점이 대상 조문의 지출 유형·예측불가 요건·사후 승인 시기와 구체적으로 대응한다. 다만 예비비의 사전 의결 요건에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "지출 유형 열거와 사후 승인의 시기",
+          "target_field": "original_text",
+          "target_quote": "豫備費의 支出은 次期國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Zu Haushaltsüberschreitungen und außerplanmäßigen Ausgaben ist die nachträgliche Genehmigung des Landtags erforderlich, die im Laufe des nächsten Rechnungsjahrs eingeholt werden muß.",
+          "commonality": "예산초과·예산외 지출에 대해 의회의 사후 승인을 요구하고 그 시기를 '다음(차기)' 기준으로 한정하는 구조가 같다.",
+          "difference": "후보의 기준은 '다음 회계연도'라는 기간이고 승인 주체는 주의회이며 대상은 지출 자체인 반면, 대상 조문은 '차기국회'라는 의회 회기를 기준으로 하고 승인 대상은 예비비의 지출이다."
+        },
+        {
+          "element": "예측 불가라는 실체적 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "예측할 수 없는 예산외의 지출 또는 예산초과지출에 충당하기 위한 예비비",
+          "candidate_field": "original_text",
+          "candidate_quote": "Sie darf nur im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses erteilt werden.",
+          "commonality": "예측하지 못한 수요일 것을 요건으로 삼는 점이 공통된다.",
+          "difference": "후보는 이를 재무장관 동의의 요건(불가피성까지 요구)으로 규정하나, 대상 조문은 예비비 계상의 성격 규정으로 삼고 재무장관 동의 절차를 두지 않는다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "예비비 지출 주체와 그 책임을 명시하지 않은 점(후보 JP1946은 내각 책임을 명시)",
+    "'차기국회'라는 승인 시점 기준(회계연도 기준이 아닌 국회 회기 기준)",
+    "예비비를 예산에 '미리' 계상하여 국회 의결을 받는 절차와 사후 승인을 동일 조문에서 결합한 편성 방식의 세부"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했고, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어 후보의 이해에 제공된 한국어 번역문을 참고한 부분이 있어, 세부 어휘 대응 판단에는 번역 의존성이 있다."
+  ],
+  "short_answer": "일본국헌법 제87조는 예측하기 어려운 수요에 대비한 예비비를 국회 의결로 두고 그 지출을 사후 국회 승인에 붙이는 2항 구조가 대상 조문과 요소별로 가장 직접 대응한다. 대일본제국헌법 제64조 제2항은 '예산초과·예산외 지출'의 열거와 사후 의회 승인이라는 점에서, 프로이센 제67조는 같은 지출 유형 열거·사후 승인의 '차기' 시기 한정·'예측하지 못한' 요건에서 구체적 대응을 보인다. 다만 지출 주체(내각)·승인 시기의 기준(사후/다음 회계연도 vs 차기국회)·재무장관 동의 등에서는 차이가 있고, 예비비를 미리 국회 의결로 계상한다는 사전 요건은 일본국헌법 제87조에서만 대응된다. 오스트리아 제51조와 프로이센 제63·제66조, 바이마르 제85조는 예산 일반절차나 재원충당 의무를 규율하여 대응이 약하다. 이상은 문언 대응에 한정한 판단이며 역사적 참조의 확정은 아니다."
+}

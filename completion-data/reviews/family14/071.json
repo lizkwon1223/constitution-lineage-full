@@ -1,0 +1,54 @@
+{
+  "article": 71,
+  "reviewed_at": "2026-09-22T16:15:19.967043+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "e893ec6a58b98980e1bed7da49a84eab00e11135fde1d66916ecf3c25b68641e",
+  "input_sha256": "5700999223e0b2b7dfbba899d6d2f8ff346eb0d4fc5fc0d08383aadc857eecff",
+  "responses": [
+    {
+      "job_id": "071_4857a51922f8_r1",
+      "repeat": 1,
+      "sha256": "d49d5a3d76334a77c839c041de233c901ce7881f7f217d5f93895af1c73f55f6",
+      "assessment": "정부 합의체의 다수결·동수 처리 대응은 적절함. 일본 두 조문의 분모를 묶어 설명한 요약은 보정이 필요함."
+    },
+    {
+      "job_id": "071_4857a51922f8_r2",
+      "repeat": 2,
+      "sha256": "3867e01e44851de30cfc2211210f882bdc33c9030792644b0de00d13d5e2a677",
+      "assessment": "과반수, 분모, 의장 표결권과 결정권을 대체로 구분함."
+    },
+    {
+      "job_id": "071_4857a51922f8_r3",
+      "repeat": 3,
+      "sha256": "5ff0e077c243468fec35c4f32eb8b3a5d1e31b6c590b63a18ef6d320d0159e5e",
+      "assessment": "주요 대응은 원문에 부합함. 분모 미기재를 대상 고유 요소처럼 다루지 않음."
+    }
+  ],
+  "synthesis": "바이마르 제58조는 정부의 다수결 의결과 동수일 때 의장 표의 결정력을 함께 정함. 일본 제47조와 제56조는 의회의 과반수 의결과 동수일 때 의장 결정을 정하므로 기관 차이를 전제로 문형이 대응함. 출석의원이라는 분모는 일본 1946년 제56조에 명시되며 1889년 제47조에는 없음. 제헌헌법은 의장의 일반 표결권과 동수 결정권을 나누어 명시함. 다수 기준과 의사정족수, 분모의 명시 여부를 별도로 비교함.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "type": "summary_source_mismatch",
+      "finding": "요약에서 일본 두 조문 모두에 출석의원 분모·정족수가 붙는 것처럼 설명하나 1889년 제47조에는 없음. 후보별 검토에서는 이를 제대로 구분함.",
+      "action": "요약을 후보별 원문과 일치시킴.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "non_target_unexplained",
+      "finding": "분모 미기재를 미설명 요소로 기재하나 일본 제47조·바이마르에도 그 분모가 명시되지 않음.",
+      "action": "비교상의 명시 여부로 정리함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

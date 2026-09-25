@@ -1,0 +1,101 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_064",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(원수)·권한(계엄 선포)·조건(법률에 따름)·문형이 대상 조문과 거의 그대로 대응한다. 다만 '解嚴'(계엄 해제 선언)이 추가되어 권한 범위가 넓다.",
+      "evidence": [
+        {
+          "element": "권한 주체와 계엄 선포 권한",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴解嚴。",
+          "commonality": "국가원수가 법률에 따라 계엄을 선포한다는 단일 문장 구조가 동일하다.",
+          "difference": "주체 명칭이 總統/大統領로 다르고, 후보는 '解嚴'(계엄 해제)까지 선포 대상에 포함하나 대상 조문은 선포만 규정한다."
+        },
+        {
+          "element": "조건(법률 유보)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法",
+          "commonality": "계엄 권한 행사를 법률에 따르도록 하는 법률유보 방식이 같다.",
+          "difference": "후보는 '依法'이라는 간결한 표현이고, 대상은 '법률의 정하는 바에 의하여'로 구체화된 표현을 쓴다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'總統依法…'이라는 동일 문형을 공유하나 규율 대상이 문무관 임면으로 계엄과 무관하다. 문형만의 유사이므로 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률유보 문형은 같으나 권한 내용이 사면·감형·복권이어서 대상 조문의 계엄 선포와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_037",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률 공포·명령 발포와 부서 요건을 정한 조항으로, 계엄 선포라는 대상 조문의 권한 내용과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법률안 제출·공포, 은사, 군대 지휘, 관리 임명, 부서 등을 열거할 뿐 계엄 선포나 그 법률유보에 관한 규정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "첫 문장이 '총통은 법률에 따라 계엄을 선포한다'로 대상 조문과 주체·권한·조건·문형에서 직접 대응한다. 다만 입법원의 통과·추인 요건과 해엄 요구 절차가 추가되어 절차·통제 요소에서 차이가 크다.",
+      "evidence": [
+        {
+          "element": "계엄 선포 권한과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴",
+          "commonality": "국가원수가 법률에 따라 계엄을 선포한다는 핵심 규율이 문언상 동일하다.",
+          "difference": "주체 명칭이 다르고, 대상 조문은 이 한 문장으로 끝나지만 후보는 뒤에 의회 통제 요건이 이어진다."
+        },
+        {
+          "element": "절차적 통제(의회 동의·추인, 해엄 요구)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 계엄을 선포한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。",
+          "commonality": "둘 다 계엄 선포권의 행사 방식을 헌법이 직접 제약한다는 점에서 같은 문제를 다룬다.",
+          "difference": "후보는 입법원의 통과·추인 및 해엄 요구라는 구체적 절차를 헌법에 명시하나, 대상 조문은 이를 두지 않고 법률에 일임한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_042",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'總統依法…'의 법률유보 문형만 공통되고, 영전 수여라는 권한 내용은 계엄과 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "계엄의 종류·요건·효과를 법률에 위임한 구체적 범위(후보들은 계엄의 내용적 요건을 규정하지 않음)"
+  ],
+  "limitations": [
+    "문언상 대응만 확인한 것이며 실제 참조·영향 관계의 확정은 제공 본문만으로는 불가능하다.",
+    "후보 중 한국어 표기는 번역문이므로 대응 판단은 원문(한문) 문언을 기준으로 삼았다."
+  ],
+  "short_answer": "대상 조문과 구체적으로 대응하는 후보는 중화민국헌법 제39조와 五五憲草 제40조로, 모두 '總統依法宣布戒嚴'이라는 동일한 주체·권한·법률유보 문형을 갖는다. 五五憲草 제40조는 '解嚴'까지 포함해 계엄 해제 선포권을 명시하는 점에서 대상 조문보다 권한 범위가 넓다. 중화민국헌법 제39조는 첫 문장이 대상 조문과 사실상 일치하나, 입법원의 통과·추인 요건과 해엄 요구 결의라는 의회 통제 절차를 덧붙인 점이 결정적 차이다. 나머지 중화민국헌법 조항들(제37·40·41·42조)은 '依法' 문형만 공유할 뿐 규율 대상이 법률공포·사면·임면·영전으로 달라 선택하지 않았고, 프랑스 1875년 법 제3조에는 계엄 관련 규정이 없다. 이상은 문언상 대응 확인일 뿐 역사적 영향의 확정은 아니다."
+}

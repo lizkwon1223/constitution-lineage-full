@@ -1,0 +1,94 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_102",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법 시행일과 시행 준비절차를 다루는 부칙 조항으로, 경과규정이라는 위치만 같고 대상 조문의 핵심 요소(제헌국회의 권한 승계, 의원 임기 특례)에 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 발의·국민투표·공포 절차에 관한 조항으로 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법을 제정한 합의체'를 경과규정의 주체로 지목하는 문형이 구체적으로 대응한다. 다만 부여되는 효과(시행준비절차 의정 vs 새 헌법상 국회 권한 행사·임기 설정)가 달라 대응 범위는 주체 지칭 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "주체 지칭(헌법을 제정한 의회)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "本憲法施行之準備程序由制定憲法之國民大會議定之",
+          "commonality": "헌법을 제정한 회의체를 경과규정상의 권한 주체로 명시하는 문형이 동일하다.",
+          "difference": "대상은 제헌국회가 신헌법상 국회 권한을 행사하고 의원 임기를 정하는 효과이고, 후보는 국민대회가 시행준비절차를 의정하는 데 그친다. 또한 주체가 국회와 국민대회로 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'의원의 임기는 …년으로 한다'는 일반 문형이 겹치지만, 이는 경과규정이 아닌 상설 중의원 임기 규정이고 해산에 의한 임기 단축 예외를 둔다는 점에서 대상 조문의 특례적 성격과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_102",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "부칙에서 최초 구성 의원의 임기를 본칙과 달리 특례로 정하는 규율 요소가 대응한다. 다만 분모·대상 범위(참의원 절반 3년 vs 전 의원 2년)와 기산점 규정 방식이 달라 임기 특례라는 요소에 한정해 비교 가치가 있다.",
+      "evidence": [
+        {
+          "element": "최초 의원 임기의 경과적 특례",
+          "target_field": "original_text",
+          "target_quote": "그 議員의 任期는 國會開會日로부터 2年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その半数の者の任期は、これを三年とする",
+          "commonality": "헌법 부칙에서 새 헌법 시행 초기 의원의 임기를 본칙상 임기와 다르게 특별히 정한다.",
+          "difference": "대상은 제헌국회 의원 전원의 임기를 국회개회일 기산 2년으로 헌법이 직접 확정하고, 후보는 제1기 참의원 의원 중 절반만 3년으로 하며 그 대상자 결정은 법률에 위임한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출 주체와 7년 임기·재선 제한 규정으로, 의회 권한 승계나 의원 임기 특례와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_101",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국회로서의 권한을 행한다'는 특정 문형과, 완전한 신헌법상 기관이 구성되기 전 기존 합의체가 국회 권한을 대행하도록 하는 경과규율이 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "국회 권한의 경과적 행사",
+          "target_field": "original_text",
+          "target_quote": "이 憲法에 依한 國會로서의 權限을 行하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院は、国会としての権限を行ふ",
+          "commonality": "'국회로서의 권한을 행한다'는 동일한 문형으로, 신헌법 체제 초기에 특정 의회체가 국회 권한을 행사함을 부칙에서 규정한다.",
+          "difference": "대상의 주체는 헌법을 제정한 국회 자체이고 기간 제한 조건 없이 권한을 행사하며 임기만 2년으로 정해진다. 후보의 주체는 기존 중의원이고 '참의원이 성립할 때까지'라는 조건부·잠정적 대행이다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "임기 기산점을 '국회개회일'로 명시한 부분",
+    "제헌국회가 별도 선거·재구성 없이 그 자체로 신헌법상 국회 지위를 갖는다는 동일성 전환 효과"
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언상 대응 여부만 판단할 수 있고, 실제 참조·기초 과정에서의 영향 관계는 확정할 수 없다.",
+    "후보 중 일부(ROC175)는 번역문과 원문의 용어 차이가 있어 대응 판단은 원문 문형에 한정하였다."
+  ],
+  "short_answer": "검토 가치가 있는 후보는 일본국헌법 제101조, 제102조, 중화민국헌법 제175조다. 제101조는 '국회로서의 권한을 행한다'는 문형과 신헌법 시행 초기 의회 권한의 경과적 행사라는 규율에서, 제102조는 부칙상 최초 의원 임기를 본칙과 달리 정하는 특례에서, 제175조는 '헌법을 제정한 국회/국민대회'를 경과규정의 주체로 지목하는 문형에서 각각 대응한다. 다만 제101조는 참의원 성립 전까지의 조건부 대행이고, 제102조는 참의원 절반 3년이며 대상자를 법률에 위임하고, 제175조의 효과는 시행준비절차 의정에 그쳐 대상 조문의 권한 승계·전원 2년 임기와 다르다. 임기를 '국회개회일'부터 기산하는 점과 제헌국회가 그대로 신헌법상 국회가 되는 동일성 전환은 후보 문언으로 설명되지 않는다. 이상은 문언 대응에 관한 판단이며 역사적 참조의 확정은 아니다."
+}

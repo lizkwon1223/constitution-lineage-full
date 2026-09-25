@@ -1,0 +1,188 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_093",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산에 예정되지 않은 지출에 대한 사전 승인과 긴급시 사후 승인이라는 이중 구조가 있어 주제상 인접하나, 대상 조문의 핵심인 '예비비'라는 예산항목의 설정·의결 구조가 없고 금액한도(1,000,000 S)·주위원회 동의·잠정예산 등 규율 요소가 달라 구체적 문형 대응으로 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_017",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 지출 제안권과 증액·신규지출 제안 금지를 정한 조항으로, 예비비의 사전 의결·사후 승인과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_044",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "긴급명령과 3개월 내 추인 절차로, 예비비 편성·지출 승인과는 제도가 다르다. 사후 추인이라는 일반적 관념만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회 구성·권한과 국고 지출의 법률적 근거(세출배분)를 정하나, 예측 불가능한 지출에 대비한 예비비 제도나 사후 승인 절차에 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_085",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산의 편성·법률확정과 지출 승인기간을 규정한 일반 예산조항으로, 예비비의 사전 의결과 지출의 차기 의회 승인이라는 구체적 규율에는 대응 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_096",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "예산에 규정되지 않은 지출을 일률적으로 금지할 뿐, 예비비를 통해 예산외·예산초과 지출을 허용하고 사후 승인으로 통제하는 대상 조문과는 대응보다 대비가 두드러진다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산법률의 선의권(하원 우선 제출·의결)을 정한 조항으로 예비비 규율과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'예산초과 지출 또는 예산외 지출'이라는 지출 유형의 병렬과 그에 대한 의회의 사후 승낙 요구가 대상 조문 제2항의 규율과 구체적으로 대응한다. 다만 예비비라는 사전 재원 설정 요소는 없다.",
+      "evidence": [
+        {
+          "element": "지출 유형(예산외 지출·예산초과 지출)",
+          "target_field": "original_text",
+          "target_quote": "豫算外의 支出 또는 豫算超過支出",
+          "candidate_field": "original_text",
+          "candidate_quote": "予算ノ款項ニ超過シ又ハ予算ノ外ニ生シタル支出",
+          "commonality": "예산을 초과한 지출과 예산에 없는 지출을 병렬로 규율 대상으로 삼는 문형이 같다.",
+          "difference": "후보는 그 지출 자체를 사후 승낙 대상으로 삼는 반면, 대상 조문은 그에 '충당하기 위한 예비비'라는 사전 편성 항목을 매개로 규율한다."
+        },
+        {
+          "element": "사후 의회 승인 절차",
+          "target_field": "original_text",
+          "target_quote": "豫備費의 支出은 次期國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "後日帝国議会ノ承諾ヲ求ムルヲ要ス",
+          "commonality": "예산외·초과 지출이 이루어진 뒤 의회의 승인(승낙)을 받도록 하는 사후통제 절차를 둔다.",
+          "difference": "대상은 '차기국회'로 시기를 특정하고 승인 대상이 '예비비의 지출'인 데 비해, 후보는 '후일'로만 정하고 협찬기관이 제국의회이며 승인 대상이 개별 초과·예산외 지출이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "재정·경제상 중대 변고에 대한 긴급명령과 1개월 내 입법원 추인을 정한 조항으로, 예비비 편성 및 그 지출 승인 구조와는 제도가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_099",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "수입·지출의 사전 예산 계상과 법률 확정을 정한 일반 예산원칙 조항일 뿐, 예비비·사후 승인 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_087",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'예측하기 어려운' 사유, '예비비', '국회의 의결', '예비비 지출에 대한 사후 국회 승인'이라는 대상 조문의 핵심 요소가 항 구성까지 포함해 거의 그대로 대응한다.",
+      "evidence": [
+        {
+          "element": "예비비 설정과 국회의 사전 의결",
+          "target_field": "original_text",
+          "target_quote": "豫備費는 미리 國會의 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "国会の議決に基いて予備費を設け",
+          "commonality": "예비비라는 동일 명칭의 재원을 국회 의결을 전제로 설정한다는 점이 일치한다.",
+          "difference": "후보는 내각의 책임으로 지출할 수 있다는 집행주체 규정을 함께 두나, 대상 조문은 집행주체를 명시하지 않는다."
+        },
+        {
+          "element": "예비비의 충당 사유",
+          "target_field": "original_text",
+          "target_quote": "豫測할 수 없는 豫算外의 支出 또는 豫算超過支出에 充當하기 爲한",
+          "candidate_field": "original_text",
+          "candidate_quote": "予見し難い予算の不足に充てるため",
+          "commonality": "예측 곤란한 사정에 충당하기 위한 재원이라는 목적 규정이 같다.",
+          "difference": "후보는 '예산의 부족'으로 포괄하나, 대상은 '예산외의 지출 또는 예산초과지출'로 유형을 둘로 나누어 특정한다."
+        },
+        {
+          "element": "지출에 대한 사후 승인",
+          "target_field": "original_text",
+          "target_quote": "豫備費의 支出은 次期國會의 承認을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて予備費の支出については、内閣は、事後に国会の承諾を得なければならない。",
+          "commonality": "예비비 지출에 대해 사후 국회 승인을 요구하는 통제장치가 동일하다.",
+          "difference": "후보는 승인을 구할 의무주체를 내각으로 명시하고 시기를 '사후'로 두나, 대상은 의무주체를 명시하지 않고 '차기국회'로 시기를 특정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산안 제출·세출배분·항목거부 등 재정조항을 포함하나, 예비비의 사전 의결과 지출의 사후 승인이라는 대상 조문 요소에 직접 대응하는 문언은 확인되지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_052",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "긴급한 지출에 대한 재정상 처분과 차회 입법의원 승낙이라는 사후통제 구조가 유사하나, 이는 의회 의결을 기다릴 수 없는 경우의 긴급재정처분이지 사전 의결로 편성하는 예비비가 아니어서 요건·제도가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_067",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'예산초과 지출과 예산외 지출'의 병렬 및 '예측하지 못한 필요'라는 요건, 그리고 의회의 사후 승인이라는 요소가 대상 조문과 구체적으로 대응한다. 다만 예비비의 사전 의결 구조는 후보에 없다.",
+      "evidence": [
+        {
+          "element": "규율 대상 지출 유형과 예측불가 요건",
+          "target_field": "original_text",
+          "target_quote": "豫測할 수 없는 豫算外의 支出 또는 豫算超過支出",
+          "candidate_field": "original_text",
+          "candidate_quote": "Haushaltsüberschreitungen und außerplanmäßigen Ausgaben",
+          "commonality": "예산초과 지출과 예산외(계획외) 지출을 함께 묶어 규율 대상으로 삼는다.",
+          "difference": "대상 조문은 이 지출들을 예비비의 충당 목적으로 언급하나, 후보는 그 지출 자체의 승인·동의 요건을 정한다."
+        },
+        {
+          "element": "예측하지 못한 필요라는 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "예측할 수 없는",
+          "candidate_field": "original_text",
+          "candidate_quote": "nur im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses",
+          "commonality": "예측하지 못한 사정에 한정하여 예산 밖의 지출을 허용한다는 요건이 공통된다.",
+          "difference": "후보는 '피할 수 없는' 필요를 추가하고 그 판단에 재무장관의 동의를 요구하는 반면, 대상은 행정 내부 동의절차를 두지 않는다."
+        },
+        {
+          "element": "사후 승인 절차와 시기",
+          "target_field": "original_text",
+          "target_quote": "次期國會의 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "die nachträgliche Genehmigung des Landtags erforderlich, die im Laufe des nächsten Rechnungsjahrs eingeholt werden muß",
+          "commonality": "의회의 사후 승인을 의무화하고 그 시기를 '다음' 시점으로 특정한다.",
+          "difference": "대상은 기준을 '차기 국회(회기)'로, 후보는 '다음 회계연도 중'으로 삼고 승인기관도 주의회이다. 또한 대상은 승인 대상이 예비비 지출에 한정된다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "예비비를 사전에 국회 의결로 편성한다는 구조 자체는 JP1946 제87조 외의 후보에서 대응을 찾기 어렵다",
+    "승인 시기를 '차기국회'라는 의회 회기 단위로 특정한 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 본 자료만으로 판단할 수 없다",
+    "제공된 원문과 번역문만 사용했고, 번역문에 의존한 부분은 evidence에서 구분해 표시했다"
+  ],
+  "short_answer": "일본국헌법 제87조는 '예측하기 어려운' 사유, 예비비, 국회 의결, 지출의 사후 승인이라는 대상 조문의 거의 모든 요소가 항 구성까지 대응하여 가장 밀접하다. 프로이센 자유주헌법 제67조는 '예산초과 지출·예산외 지출'의 병렬과 '예측하지 못한 필요' 요건, 의회의 사후 승인이라는 요소에서 구체적으로 대응하나 예비비의 사전 편성 구조가 없고 승인 시기를 다음 회계연도로 정한다. 대일본제국헌법 제64조 제2항은 예산초과·예산외 지출에 대한 사후 승낙 절차에서 대응하되 사전 의결 요소가 없다. 오스트리아 제51조와 조선임시약헌 제52조는 사전·사후 승인 관념은 겹치지만 예비비가 아닌 개별 지출 또는 긴급재정처분을 규율하여 일반적 유사에 그친다. 이상은 문언 대응의 검토일 뿐 역사적 참조를 확정하는 것은 아니다."
+}

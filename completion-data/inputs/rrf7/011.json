@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_011",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "11",
+    "original_text": "모든 國民은 法律에 依하지 아니하고는 通信의 秘密을 侵害받지 아니한다.",
+    "workbook_text_ko": "모든 국민은 법률에 의하지 아니하고는 통신의 비밀을 침해받지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_009",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "9",
+      "original_text": "人民除現役軍人外，不受軍事審判。",
+      "workbook_text_ko": "人民은 現役軍人을 除外하고는 軍事裁判을 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_021",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "21",
+      "original_text": "集会、結社及び言論、出版その他一切の表現の自由は、これを保障する。\n２　検閲は、これをしてはならない。通信の秘密は、これを侵してはならない。",
+      "workbook_text_ko": "①집회, 결사 및 언론, 출판 그 밖의 모든 표현의 자유를 보장한다.\n②검열은 금지된다. 통신의 비밀은 침해받지 아니 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_026",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "26",
+      "original_text": "日本臣民ハ法律ニ定メタル場合ヲ除ク外信書ノ秘密ヲ侵サルヽコトナシ",
+      "workbook_text_ko": "일본 신민은 법률로 정한 경우를 제외하고는 서신의 비밀을 침해당하지 않는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_031",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "31",
+      "original_text": "何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。",
+      "workbook_text_ko": "누구든지 법률에서 정하는 절차에 의하지 아니하고는 그 생명 또는 자유를 박탈당하거나 그 밖의 형벌을 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_018",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "18",
+      "original_text": "何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+      "workbook_text_ko": "누구든지 어떠한 노예적 구속도 받지 아니한다. 또 범죄로 인하여 처벌받는 경우를 제외하고는 강제노역을 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_011",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "11",
+      "original_text": "国民は、すべての基本的人権の享有を妨げられない。この憲法が国民に保障する基本的人権は、侵すことのできない永久の権利として、現在及び将来の国民に与へられる。",
+      "workbook_text_ko": "국민은 모든 기본적 인권의 향유를 방해 받지 아니한다. 이 헌법이 국민에게 보장하는 기본적 인권은 침해될 수 없는 영구적 권리로서 현재와 미래의 국민에게 부여된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_014",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "14",
+      "original_text": "人民有祕密通訊之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 비밀 통신의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    }
+  ]
+}

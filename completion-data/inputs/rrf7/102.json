@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_102",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "102",
+    "original_text": "이 憲法을 制定한 國會는 이 憲法에 依한 國會로서의 權限을 行하며 그 議員의 任期는 國會開會日로부터 2年으로 한다.",
+    "workbook_text_ko": "이 헌법을 제정한 국회는 이 헌법에 의한 국회로서의 권한을 행하며 그 의원의 임기는 국회개회일로부터 2년으로 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_100",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "100",
+      "original_text": "この憲法は、公布の日から起算して六箇月を経過した日から、これを施行する。\n２　この憲法を施行するために必要な法律の制定、参議院議員の選挙及び国会召集の手続並びにこの憲法を施行するために必要な準備手続は、前項の期日よりも前に、これを行ふことができる。",
+      "workbook_text_ko": "①헌법은 공포한 날부터 기산하여 6개월을 경과한 날부터 시행한다.\n②헌법을 시행하기 위하여 필요한 법률의 제정, 참의원 의원의 선거 및 국회소집 절차와 이 헌법을 시행하기 위하여 필요한 준비절차는 제1항의 기일 전이라도 할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_096",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "96",
+      "original_text": "この憲法の改正は、各議院の総議員の三分の二以上の賛成で、国会が、これを発議し、国民に提案してその承認を経なければならない。この承認には、特別の国民投票又は国会の定める選挙の際行はれる投票において、その過半数の賛成を必要とする。\n２　憲法改正について前項の承認を経たときは、天皇は、国民の名で、この憲法と一体を成すものとして、直ちにこれを公布する。",
+      "workbook_text_ko": "①헌법의 개정은 국회가 각 원의 총 재적의원 3분의 2 이상의 찬성으로 발의하고, 국민에게 제안하여 그 승인을 거쳐야 한다. 이러한 승인에는 특별 국민투표 또는 국회가 정하는 선거 시 행하여지는 투표에서 과반수의 찬성을 필요로 한다.\n②헌법 개정에 대하여 제1항의 승인을 거친 때에는, 천황은 국민의 이름으로 이 헌법과 일체를 이루는 것으로서 이를 즉시 공포한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_175",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "175",
+      "original_text": "本憲法規定事項，有另定實施程序之必要者，以法律定之。\n本憲法施行之準備程序由制定憲法之國民大會議定之。",
+      "workbook_text_ko": "이 憲法에 規定된 事項으로서 따로 施行節次를 定할 必要가 있는 것은 法律로써 이를 定한다.\n이 憲法施行의 準備節次는 憲法을 制定한 國民大會가 이를 議定한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_045",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "45",
+      "original_text": "衆議院議員の任期は、四年とする。但し、衆議院解散の場合には、その期間満了前に終了する。",
+      "workbook_text_ko": "중의원 의원의 임기는 4년으로 한다. 다만, 중의원 해산의 경우에는 임기 만료 전에 종료된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_102",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "102",
+      "original_text": "この憲法による第一期の参議院議員のうち、その半数の者の任期は、これを三年とする。その議員は、法律の定めるところにより、これを定める。",
+      "workbook_text_ko": "헌법에 의한 제1기 참의원 의원 중 절반의 임기는 3년으로 한다. 그 의원은 법률이 정하는 바에 따라 정한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_029",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "29",
+      "original_text": "Le président de la République est élu par le Parlement.\nIl est élu pour sept ans. Il n'est rééligible qu'une fois.",
+      "workbook_text_ko": "공화국대통령은 국회가 선출한다.\n공화국대통령의 임기는 7년으로 한다. 공화국대통령은 1회에 한하여 재선\n될 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_101",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "101",
+      "original_text": "この憲法施行の際、参議院がまだ成立してゐないときは、その成立するまでの間、衆議院は、国会としての権限を行ふ。",
+      "workbook_text_ko": "헌법 시행 시 참의원이 아직 성립되어 있지 아니한 때에는 그 성립 시까지 중의원이 국회로서의 권한을 행사한다."
+    }
+  ]
+}

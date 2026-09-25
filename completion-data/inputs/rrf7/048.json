@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_048",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "48",
+    "original_text": "國會議員은 地方議會의 議員을 兼할 수 없다.",
+    "workbook_text_ko": "국회의원은 지방의회의 의원을 겸할 수 없다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_044",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "44",
+      "original_text": "Der Reichspräsident kann nicht zugleich Mitglied des Reichstags sein.",
+      "workbook_text_ko": "제국대통령은 동시에 제국의회의 의원직을 겸할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_096",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "96",
+      "original_text": "監察委員不得兼任其他公職或執行業務。",
+      "workbook_text_ko": "감찰위원은 다른 공직을 겸임하거나 직업상의 업무에 종사할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_074",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "74",
+      "original_text": "立法委員不得兼任其他公職或執行業務。",
+      "workbook_text_ko": "입법위원은 다른 공직을 겸임하거나 직업상의 업무에 종사할 수 없다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_044",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "44",
+      "original_text": "最高人民會議 代議員은 代議員으로서의 不可侵을 保障받는다.\n代議員은 最高人民會議의 承認이 없이 또는 그 休會中에 있어서는 最高人民會議 常任委員會의 承認이 없이는 現行犯인 境遇를 除外하고는 逮捕하거나 處罰할 수 없다.",
+      "workbook_text_ko": "최고인민회의 대의원은 대의원으로서의 불가침을 보장받는다.\n대의원은 최고인민회의의 승인이 없이 또는 그 휴회 중에 있어서는 최고인민회의 상임위원회의 승인이 없이는 현행범인 경우를 제외하고는 체포하거나 처벌할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_095",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "95",
+      "original_text": "一の地方公共団体のみに適用される特別法は、法律の定めるところにより、その地方公共団体の住民の投票においてその過半数の同意を得なければ、国会は、これを制定することができない。",
+      "workbook_text_ko": "하나의 지방공공단체에만 적용되는 특별법은 법률이 정하는 바에 따라 그 지방공공단체의 주민투표에서 과반수의 동의를 얻지 못하면 국회가 이를 제정할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_048",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "48",
+      "original_text": "何人も、同時に両議院の議員たることはできない。",
+      "workbook_text_ko": "모든 사람은 동시에 양원의 의원이 될 수 없다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_024",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "24",
+      "original_text": "Nul ne peut appartenir à la fois à l'Assemblée nationale et au Conseil de la République.\nLes membres du Parlement ne peuvent faire partie du Conseil économique, ni de l'Assemblée de l'Union française.",
+      "workbook_text_ko": "누구든지 동시에 국민의회와 공화국평의회에 소속할 수 없다.\n국회의원은 경제평의회(Conseil économique)에도 프랑스 연합의회\n(Assemblée de l'Union française)에도 소속할 수 없다."
+    }
+  ]
+}

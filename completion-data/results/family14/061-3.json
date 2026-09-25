@@ -1,0 +1,162 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_061",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「組織…以法律定之」라는 법률유보 문형은 대상 제2문과 형식이 겹치지만, 규율 대상이 행정원(행정기관) 조직이어서 국군의 조직·편성이라는 구체적 규율 요소의 대응이 없다. 상용 법률유보 문형의 일치만으로는 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제11절 (2)에 대통령이 모든 군대의 최고사령관이라는 규정이 있어 주체·권한 면의 유사성은 있으나, 군 동원·인신보호영장 정지·계엄 등 부수 권한과 결합된 장문의 행정부 편(篇) 규정이고 군의 조직·편성에 대한 법률유보가 없다. 단문 통수 조항과의 문형 대응은 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "집행권 귀속과 장관 임면·법률 공포·집행명령에 관한 규정으로, 군 통수나 군 조직의 법률유보와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_080",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항이 '연방군에 대한 최고통수권은 연방대통령이 행사한다'는 단문으로 대상 제1문의 주체(대통령)·권한(국군 통수) 구조와 직접 대응한다. 다만 제2·3항의 권한 분배 구조는 대상에 없으므로 대응 범위는 제1문과 군사영역 법률 언급에 한정한다.",
+      "evidence": [
+        {
+          "element": "대통령의 국군 통수",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國軍을 統帥한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Den Oberbefehl über das Bundesheer führt der Bundespräsident.",
+          "commonality": "국가원수인 대통령을 주체로 하여 국가의 군대에 대한 최고통수 지위를 단문으로 선언한다.",
+          "difference": "후보는 연방군(Bundesheer)에 대한 '최고통수권 행사'를 규정하면서 제3항에서 실제 명령권은 관할 연방장관에게 귀속시키는 반면, 대상은 통수 주체만 규정하고 권한 분배를 두지 않는다."
+        },
+        {
+          "element": "군사영역의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "國軍의 組織과 編成은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Soweit nicht nach dem Wehrgesetz der Bundespräsident über das Heer verfügt",
+          "commonality": "군에 관한 사항을 법률(국방법)에 유보하여 헌법 밖의 입법으로 구체화하도록 한다.",
+          "difference": "후보의 법률유보는 대통령과 장관 사이의 군 처분권 배분 기준이고, 대상의 법률유보는 국군의 조직과 편성이라는 편제 사항에 관한 것이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'組織 及 權限은 法律로써 定함'이라는 한국어 법률유보 문형이 대상 제2문과 유사하지만, 규율 대상이 행정 각 부의 조직·권한이어서 국군의 조직·편성과 구체적 규율 요소가 다르다. 문형 상용성만 겹친다고 보아 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_033",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 '군의 수장' 칭호를 가진다는 점에서 주제는 겹치나, 규율 내용은 국방회의 주재와 칭호 보유이고 통수권 자체의 부여나 군 조직의 법률유보가 없어 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_071",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가의 도·군·시 등 행정구역 구분과 자치단체 조직의 법률유보 규정으로, 군 통수와는 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'Il dispose de la force armée'가 대통령의 군 관련 권한을 언급하지만, 법안제출·공포·은사·임명 등 권한 열거의 일부이고 모든 행위에 장관 부서를 요구하는 구조여서 단문 통수조항 및 조직 법률유보와의 대응은 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령을 주체로 국가 전체 군대에 대한 최고통수권을 단일 문장으로 규정하여 대상 제1문의 주체·권한·문형과 직접 대응한다. 대응 범위는 제1문에 한정된다.",
+      "evidence": [
+        {
+          "element": "대통령의 국군 통수",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國軍을 統帥한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident hat den Oberbefehl über die gesamte Wehrmacht des Reichs.",
+          "commonality": "조건·예외 없이 대통령이 국가의 전체 군대에 대한 통수 지위를 가진다는 단문 선언이다.",
+          "difference": "후보는 '제국 전체 군대(gesamte Wehrmacht)'를 명시하고 군 조직에 관한 법률유보를 두지 않는 반면, 대상은 '국군'이라 하고 제2문에서 조직·편성을 법률에 유보한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_098",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "인민군의 조직과 사명을 규정하여 군을 다루는 점은 같으나, 조직 주체가 국가이고 통수 주체나 조직·편성의 법률유보가 없어 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'統帥'라는 동일 용어로 국가원수가 군을 통수한다는 최단문 구조를 취하여 대상 제1문의 문형과 정확히 대응한다. 다만 주체와 군의 지칭 범위, 법률유보 유무에서 차이가 있어 대응은 제1문에 한정한다.",
+      "evidence": [
+        {
+          "element": "통수 조항의 문형과 용어",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國軍을 統帥한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇ハ陸海軍ヲ統帥ス",
+          "commonality": "'주체 + 군 + 統帥한다'의 단일 문장 구조와 '統帥'라는 동일 한자어 권한 표현을 쓴다.",
+          "difference": "주체가 천황이고 대상이 '육해군'으로 열거되어 있으며, 군의 조직·편성을 법률에 유보하는 문장이 없다(대상은 제2문에서 법률유보를 둠)."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제2항에서 대통령을 육해군·소집된 민병의 총사령관으로 규정하여 주제는 겹치지만, 사면·조약·임명 등과 함께 열거된 조항이고 군 조직·편성의 법률유보가 없어 단문 통수조항과의 구체적 문형 대응은 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수가 전국의 군을 통솔한다는 단문 구조가 대상 제1문과 대응한다. 용어(統率)와 군의 열거 방식에 차이가 있고 법률유보 문장이 없어 대응 범위는 제1문에 한정한다.",
+      "evidence": [
+        {
+          "element": "대통령(원수)의 군 통수",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 국군을 통수한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統統率全國陸海空軍。",
+          "commonality": "공화국 원수(총통/대통령)를 주체로 전국의 군대에 대한 통수·통솔 권한을 조건 없이 단문으로 규정한다.",
+          "difference": "후보는 '統率'이라는 표현과 '全國陸海空軍'의 병종 열거를 쓰고, 군 조직·편성의 법률유보를 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_043",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…組織한다' + '…법률로 정한다'의 2문 구성이라는 형식적 유사성은 있으나, 대상은 국회 양원 구성과 의원정수의 법률유보로서 군 통수 및 국군 편제와 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제2문의 '국군의 조직과 편성'을 법률에 유보한 점(군 편제 사항에 대한 법률유보) — 후보 중 행정기관·자치단체·의원정수 등의 법률유보 문형은 있으나 군 편제를 대상으로 한 대응 규정은 확인되지 않음",
+    "통수권의 내용·한계(문민통제, 부서·동의 등 절차적 제약의 부재)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토한 것이며, 어느 후보가 실제로 참조되었는지에 관한 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "라틴문자·독일어 후보에 대해서는 원문 인용으로 대응을 확인했으나, 용어(Oberbefehl, dispose, commander-in-chief)와 '統帥'의 의미 폭 차이는 번역에 따라 달라질 수 있다."
+  ],
+  "short_answer": "대상 제1문(대통령의 국군 통수)에 대해서는 대일본제국헌법 제11조('統帥' 동일 용어의 단문), 바이마르헌법 제47조, 오스트리아 연방헌법 제80조 제1항, 五五憲草 제37조가 주체·권한·문형에서 구체적으로 대응하여 후속 비교에 유용하다. 공통점은 조건·예외 없이 국가원수를 주체로 군 전체에 대한 통수 지위를 단일 문장으로 선언하는 형식이다. 차이는 주체(천황·연방대통령·총통), 군의 지칭 방식(육해군, gesamte Wehrmacht, 全國陸海空軍, 연방군), 그리고 오스트리아 조항이 처분권·명령권을 국방법과 관할 장관에게 분배하는 점 등이다. 제2문의 '국군의 조직과 편성' 법률유보는 행정원·행정각부·의원정수 등의 법률유보 문형과 형식만 겹치고 군 편제를 규율 대상으로 삼은 후보 대응은 확인되지 않아 선택하지 않았다. 이상은 문언 대응의 판단이며 실제 참조 관계의 확정은 아니다."
+}

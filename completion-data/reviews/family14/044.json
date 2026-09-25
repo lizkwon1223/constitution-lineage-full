@@ -1,0 +1,67 @@
+{
+  "article": 44,
+  "reviewed_at": "2026-09-22T15:48:06.559028+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "93aa46d450ffd89820a8ff8f57edbc9979022b1b72dfd8ced913932f5ec97166",
+  "input_sha256": "41c83c55e56582df15f131b21ffffb49f3d56890ca44cde279ed73e1992e68ec",
+  "responses": [
+    {
+      "job_id": "044_7ffd066aa96e_r1",
+      "repeat": 1,
+      "sha256": "2a3a031fd3fd27a0780bda014843649467011334cd8287e083ed9a826ea81808",
+      "assessment": "일본 두 헌법, 중화민국, 유럽 후보의 출석·발언과 요구 시 의무를 구분함. 종합답변이 바이마르 후보까지 대리인을 포함하는 규정으로 묶은 점은 원문과 다름."
+    },
+    {
+      "job_id": "044_7ffd066aa96e_r2",
+      "repeat": 2,
+      "sha256": "490b519e8913e211732515a7c89761957c00ed2d7ff6ecbe5c7fe995480813d3",
+      "assessment": "출석권·발언 청취·출석 요구·답변 의무의 방향과 차이를 충실히 구분함. 프랑스 후보 배제는 전단의 구체적 부분 대응을 좁게 평가한 선택임."
+    },
+    {
+      "job_id": "044_7ffd066aa96e_r3",
+      "repeat": 3,
+      "sha256": "cb1dc849f5952c4f3460e73463f20a7d1065b689235391789893dceda4d5cb52",
+      "assessment": "일본·중화민국·프로이센 1850년 대응 설명은 대체로 타당함. 오스트리아·프로이센 1920년·바이마르의 권리와 요구 구조를 배제한 기준은 다른 부분 대응 후보와 일관성이 약함."
+    }
+  ],
+  "synthesis": "일본 1946년 제63조는 임의 출석·발언과 요구 시 출석 의무의 결합에 대응하되, 답변·설명은 출석 요구의 목적이고 명시된 의무 행위는 출석임. 일본 1889년 제54조는 국무대신과 정부위원의 병기에, 중화민국 제71조는 열석하여 의견을 진술한다는 표현에 대응함. 유럽 후보에서는 정부 구성원의 출석·참여권, 정부 측 요구에 대한 의회의 청취 의무, 의회 측 출석 요구를 나누어 읽어야 함. 각료가 보낸 대표와 제헌헌법의 정부위원이 제도적으로 동일하다고 단정하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_065",
+      "type": "summary_overstatement",
+      "severity": "material",
+      "finding": "종합답변은 유럽 네 후보를 각료와 대리인의 출석권 규정으로 묶지만 바이마르 제65조는 정부 구성원만 규정함. 후보별 차이 설명에서는 이 점을 올바르게 인정함.",
+      "action": "종합답변의 주체 범위를 후보별로 분리함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_006",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "의회의 요구에 따른 답변 의무가 없다는 이유로 장관의 양원 출입·청취 권한 대응을 배제함. 일본 1889년·중화민국 후보는 전단의 권한만으로 선택됨.",
+      "action": "출석·발언 권한에 한정한 부분 대응으로 병기함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "오스트리아 제75조·프로이센 1920년 제24조·바이마르 제65조의 출석권 및 요구 구조를 답변 문언 부재나 추가 규정 때문에 배제함.",
+      "action": "정부 출석권과 의회의 요구라는 구체 요소를 독립적으로 비교함."
+    }
+  ],
+  "limits": [
+    "출석 요구권이 규정되어 있다는 사실과 답변 의무까지 명시되어 있다는 사실을 구분함.",
+    "관계 원 원장을 모두 일반 행정부 각료와 동일한 직위로 간주하지 않음."
+  ]
+}

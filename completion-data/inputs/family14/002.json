@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_002",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "2",
+    "original_text": "大韓民國의 主權은 國民에게 있고 모든 權力은 國民으로부터 나온다.",
+    "workbook_text_ko": "대한민국의 주권은 국민에게 있고 모든 권력은 국민으로부터 나온다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_PREAMBLE",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": null,
+      "original_text": "日本国民は、正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。\n日本国民は、恒久の平和を念願し、人間相互の関係を支配する崇高な理想を深く自覚するのであつて、平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。われらは、平和を維持し、専制と隷従、圧迫と偏狭を地上から永遠に除去しようと努めてゐる国際社会において、名誉ある地位を占めたいと思ふ。われらは、全世界の国民が、ひとしく恐怖と欠乏から免かれ、平和のうちに生存する権利を有することを確認する。\nわれらは、いづれの国家も、自国のことのみに専念して他国を無視してはならないのであつて、政治道徳の法則は、普遍的なものであり、この法則に従ふことは、自国の主権を維持し、他国と対等関係に立たうとする各国の責務であると信ずる。\n日本国民は、国家の名誉にかけ、全力をあげてこの崇高な理想と目的を達成することを誓ふ。",
+      "workbook_text_ko": "일본 국민은 정당한 선거로 선출된 국회의 대표자를 통하여 행동하고, 우리와 우리 자손을 위하여 세계 제 국민과의 화합에 따른 성과와 우리나라 전역에 자유가 가져올 혜택을 확보하며, 다시는 정부의 행위에 의하여 전쟁의 참화가 일어나지 않도록 할 것을 결의하고, 이에 주권이 국민에게 존재함을 선언하며 이 헌법을 확정한다. 무릇 국정은 국민의 엄숙한 신탁에 의한 것으로서 그 권위는 국민으로부터 유래하고, 그 권력은 국민의 대표자가 행사하며, 그 복리는 국민이 향유한다. 이는 인류보편의 원리이며 이 헌법은 이러한 원리에 기초한 것이다. 우리는 이에 반하는 일체의 헌법․법령 및 조칙(詔勅)을 배제한다.\n일본 국민은 항구적인 평화를 염원하고 인간 상호관계를 지배하는 숭고한 이상을 깊이 자각하는 바이므로, 평화를 사랑하는 세계 제 국민의 공정과 신의를 신뢰함으로써 우리의 안전과 생존을 지켜나갈 것을 결의하였다. 우리는 평화를 유지하고 전제와 예종(隸從), 압박과 편협을 지상에서 영원히 제거하고자 노력하고 있는 국제사회의 명예로운 지위를 차지하고자 한다. 우리는 전 세계의 국민이 균등하게 공포와 결핍에서 벗어나 평화롭게 생존할 권리를 가짐을 확인한다.\n우리는 어떠한 국가도 자국의 일에만 몰두하여 타국을 무시하여서는 아니 되고, 정치도덕의 법칙은 보편적인 것으로서 이 법칙에 따르는 것은 자국의 주권을 유지하고 타국과 대등한 관계에 서고자 하는 각국의 책무임을 믿는다.\n일본 국민은 국가의 명예를 걸고 전력을 다하여 숭고한 이상과 목적을 달성할 것을 맹세한다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "II",
+      "original_text": "SECTION 1. The Philippines is a republican state. Sovereignty resides in the people and all government authority emanates from them.\nSEC. 2. The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.\nSEC. 3. The Philippines renounces war as an instrument of national policy, and adopts the generally accepted principles of international law as a part of the law of the Nation.\nSEC. 4. The natural right and duty of parents in the rearing of the youth for civic efficiency should receive the aid and support of the Government.\nSEC. 5. The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+      "workbook_text_ko": "제1절. 필리핀은 공화국이다. 주권은 국민에게 있으며 모든 정부권한은 국민에게서 나온다.\n제2절. 국가의 방위는 정부의 으뜸가는 의무이며, 이 의무를 이행하기 위하여 모든 국민에게 법률로 직접적인 군복무 또는 민간복무를 요구할 수 있다.\n제3절. 필리핀은 국가정책의 수단으로서 전쟁을 포기하고 일반적으로 승인된 국제법 원칙을 국내법의 일부로 받아들인다.\n제4절. 청소년을 유능한 시민으로 양육하는 부모의 천부적 권리와 의무는 정부의 원조와 지원을 받아야 한다.\n제5절. 모든 국민의 복지와 경제적 안정을 보장하기 위한 사회정의의 증진은 국가가 힘써야 할 일이다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_003",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "3",
+      "original_text": "La souveraineté nationale appartient au peuple français.\nAucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.\nLe peuple l'exerce, en matière constitutionnelle, par le vote de ses représentants et par le référendum.\nEn toutes autres matières, il l'exerce par ses députés à l'Assemblée nationale, élus au suffrage universel, égal, direct et secret.",
+      "workbook_text_ko": "국민주권은 프랑스 인민에게 속한다.\n인민의 어떠한 부분도 또 어떠한 개인도 주권의 행사를 나의 것으로 할 수\n없다.\n인민은 헌법상의 문제에 관하여 대표자의 표결과 국민투표로 주권을 행사\n한다.\n기타 모든 문제에 관해서는 인민은 보통ㆍ평등ㆍ직접ㆍ비밀선거로 선출된 국민의회의 의원을 통하여 주권을 행사한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_002",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "2",
+      "original_text": "朝鮮民主主義人民共和國의 主權은 人民에게 있다.\n主權은 人民의 最高主權機關인 最高人民會議가 地方主權機關인 人民委員會를 根據로 하여 行使한다.",
+      "workbook_text_ko": "조선민주주의인민공화국의 주권은 인민에게 있다.\n주권은 인민의 최고주권기관인 최고인민회의가 지방주권기관인 인민위원회를 근거로 하여 행사한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_001",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "1",
+      "original_text": "Österreich ist eine demokratische Republik. Ihr Recht geht vom Volk aus.",
+      "workbook_text_ko": "오스트리아는 민주공화국이다. 그 법은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_004",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "4",
+      "original_text": "天皇ハ国ノ元首ニシテ統治権ヲ総攬シ此ノ憲法ノ条規ニ依リ之ヲ行フ",
+      "workbook_text_ko": "천황은 국가의 원수로서 통치권을 총람하고, 이 헌법의 조규에 따라 이를 행사한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "1",
+      "original_text": "Das Deutsche Reich ist eine Republik.\nDie Staatsgewalt geht vom Volke aus.",
+      "workbook_text_ko": "독일제국은 공화국이다.\n국가권력은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_002",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "2",
+      "original_text": "Träger der Staatsgewalt ist die Gesamtheit des Volkes.",
+      "workbook_text_ko": "국가권력의 담당자는 국민 전체이다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_002",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "2",
+      "original_text": "朝鮮의 主權은 國民 全體에 屬함",
+      "workbook_text_ko": "조선의 주권은 국민 전체에 속함."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_IV",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "IV",
+      "original_text": "Section. 1.\nFull Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.\nSection. 2.\nThe Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.\nA Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime.\nNo Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due.\nSection. 3.\nNew States may be admitted by the Congress into this Union; but no new State shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress.\nThe Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.\nSection. 4.\nThe United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.",
+      "workbook_text_ko": "제1항\n각 주는 다른 모든 주의 법령, 기록 및 사법 절차에 대하여\n충분한 신뢰와 신용을 주어야 한다. 연방의회는 이러한 법\n령, 기록 및 사법 절차를 증명하는 방법과 그 효력을 일반\n법률로 규정할 수 있다.\n제2항\n각 주의 시민은 다른 어느 주에서도 그 주의 시민이 향유\n하는 모든 특권 및 면책권을 가진다.\n어떠한 주에서 반역죄, 중죄 또는 그 밖의 범죄로 기소된\n자가 재판을 피해 도피하여, 다른 주에서 발견된 경우,\n범인이 도피해 나온 주의 행정 당국의 요구에 의하여, 그\n범인은 그 범죄에 대한 재판 관할권이 있는 주로 이동하\n기 위하여 인도되어야 한다.\n한 주에서 그 주의 법률에 의하여 사역 또는 노역을 당\n하도록 되어 있는 자가 다른 주로 도피한 경우, 다른 주\n의 어떠한 법률 또는 규정에 의해서도 그 사역 또는 노\n역의 의무에서 해방되지 않으며, 그 사역 또는 노역을\n요구할 권리를 가진 당사자의 청구에 따라 인도되어야\n한다.\n제3항\n연방의회는 새로운 주를 연방에 가입시킬 수 있다. 그러\n나 관계 각 주의 주의회와 연방의회의 동의 없이는, 어떠한 주의 관할 내에서도 새로운 주를 형성하거나 창설할 수 없으며, 2개 또는 그 이상의 주 혹은 주의 일부를 합병하여 새로운 주를 형성할 수도 없다.\n연방의회는 합중국에 속하는 영토 또는 그 밖의 재산을\n처분하고 이에 관한 모든 필요한 규칙 및 규정을 제정할\n권한을 가진다. 다만, 이 헌법의 어떠한 조항도 합중국\n또는 어느 특정 주의 권리를 훼손하는 것으로 해석되어\n서는 안 된다.\n제4항\n합중국은 이 연방 내 모든 주의 공화정체를 보장하며, 각\n주를 침략으로부터 보호하고, 또 각 주의 주의회 또는 행정\n부(주의회를 소집할 수 없을 때)의 요청이 있는 경우 주 내\n의 폭동으로부터 각 주를 보호한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "2",
+      "original_text": "Le Président de la République est élu à la majorité absolue des suffrages par le Sénat et par la Chambre des députés réunis en Assemblée nationale. Il est nommé pour sept ans. Il est rééligible.",
+      "workbook_text_ko": "공화국대통령은 국민의회(Assemblée nationale)에 합동한 상원과 하원\n에 의한 투표의 절대다수로 선출한다. 대통령은 7년의 임기로 임명된다.\n대통령은 재선할 수 있다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_058",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "58",
+      "original_text": "Der Regent übt die dem Könige zustehende Gewalt in dessen Namen aus. Derselbe schwört nach Einrichtung der Regentschaft vor den vereinigten Kammern einen Eid, die Verfassung des Königreichs fest und unverbrüchlich zu halten und in Uebereinstimmung mit derselben und den Gesetzen zu regieren.\nBis zu dieser Eidesleistung bleibt in jedem Falle das bestehende gesammte Staatsministerium für alle Regierungshandlungen verantwortlich.",
+      "workbook_text_ko": "섭정은 국왕에게 속한 권력을\n국왕의 이름으로 행사한다. 섭정직의\n수립[이 결정된] 후에, 섭정은 의회\n양원 합동회의 앞에서 왕국의 헌법을\n확고히 그리고 어김없이 지키고 헌법과 법률에 일치\n하여 통치할 것을 맹세하는 선서를\n한다.\n이 선서가 있을 때까지는 모든 경우\n에서 현재의 국무원 전체가 일체의\n통치행위에 대한 책임을 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_002",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "2",
+      "original_text": "中華民國之主權屬於國民全體。",
+      "workbook_text_ko": "中華民國의 主權은 國民全體에 屬한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_002",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "2",
+      "original_text": "中華民國之主權，屬於國民全體。",
+      "workbook_text_ko": "중화민국의 주권은 국민 전체에 속한다."
+    }
+  ]
+}

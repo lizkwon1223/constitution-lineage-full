@@ -1,0 +1,95 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_102",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "부칙적 경과규정이라는 위치는 같으나, 헌법 시행일 기산과 시행 준비행위의 선행 허용을 규율할 뿐 제헌의회의 권한 승계나 의원 임기에 관한 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정의 발의·국민승인·공포 절차를 규율하는 조항으로, 대상 조문의 제헌국회 권한과 의원 임기와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법을 제정한 (국회/국민대회)'라는 주체 지정 문형이 부칙에서 동일하게 나타난다. 다만 대응은 주체 표현에 한정되며, 부여되는 효과(시행준비절차 의정 vs 새 헌법상 국회 권한 행사·임기)는 다르다.",
+      "evidence": [
+        {
+          "element": "주체 지정(제헌 의회)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "制定憲法之國民大會",
+          "commonality": "부칙에서 '헌법을 제정한 의회'를 특정하여 경과적 권한의 귀속 주체로 삼는 문형이 같다.",
+          "difference": "대상은 그 국회가 신헌법상의 국회 권한을 계속 행사하고 임기까지 정하는 반면, 후보는 국민대회가 시행준비절차를 의정하는 한정된 권한만 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'의원의 임기는 ○년으로 한다'는 문형이 겹치나 이는 통상적 임기 규정 표현이고, 후보는 본칙의 일반 임기(해산 시 종료 단서 포함)로서 제헌의회에 대한 경과적 특례라는 대상의 규율 성격과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_102",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "부칙에서 신헌법 최초 의회 구성원의 임기를 본칙과 다른 연수로 특별히 정하는 규율 구조가 대응한다. 다만 대상은 제헌국회 전체 의원 2년이고 후보는 제1기 참의원 의원 중 절반 3년이며 기산점 규정도 없다.",
+      "evidence": [
+        {
+          "element": "경과규정상 의원 임기 특례",
+          "target_field": "original_text",
+          "target_quote": "그 議員의 任期는 國會開會日로부터 2年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法による第一期の参議院議員のうち、その半数の者の任期は、これを三年とする",
+          "commonality": "헌법 부칙에서 최초 의회 의원의 임기를 숫자로 확정하는 경과적 특례라는 점이 같다.",
+          "difference": "대상은 제헌국회 의원 전원의 임기를 2년으로 하고 '국회개회일'이라는 기산점을 명시하나, 후보는 제1기 참의원의 '절반'만 3년으로 하고 그 대상자는 법률로 정하도록 위임한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출 주체와 7년 임기·재선 제한을 정한 조항으로, 의회 기관의 경과적 권한 행사나 의원 임기와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_101",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국회로서의 권한을 행한다'는 술어와, 부칙에서 특정 의회가 신헌법상 국회 권한을 잠정적으로 행사하도록 하는 규율 구조가 구체적으로 대응한다. 다만 조건과 존속기간의 설정 방식이 다르다.",
+      "evidence": [
+        {
+          "element": "국회 권한의 경과적 행사",
+          "target_field": "original_text",
+          "target_quote": "이 憲法에 依한 國會로서의 權限을 行하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院は、国会としての権限を行ふ",
+          "commonality": "신헌법 시행 국면에서 기존·단일 의회가 '국회로서의 권한을 행한다'고 규정하는 문형과 효과가 같다.",
+          "difference": "후보는 참의원 미성립이라는 조건과 '그 성립 시까지'라는 기간 한정이 붙은 중의원의 대행인 반면, 대상은 조건 없이 제헌국회를 신헌법상의 국회로 인정하고 임기(2년)로 존속기간을 정한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "임기 기산점을 '국회개회일'로 특정한 부분",
+    "임기 연수 2년이라는 구체적 수치",
+    "제헌국회를 별도 선거 없이 그대로 신헌법상의 국회로 간주하는 조건 없는 권한 승계"
+  ],
+  "limitations": [
+    "문언·규율구조상의 대응만 확인한 것이며 실제 참조 관계(역사적 영향)는 제공 본문만으로 확정할 수 없다.",
+    "ROC1946_PROM1947_ART_175의 한국어 본문은 번역문이므로 비교는 원문 표현을 기준으로 한정하였다."
+  ],
+  "short_answer": "검토 가치가 있는 후보는 JP1946 제101조, JP1946 제102조, ROC1946 제175조이다. 제101조는 '국회로서의 권한을 행한다'는 술어와 경과적 권한 행사 구조에서, 제102조는 부칙상 최초 의회 의원의 임기를 숫자로 특정하는 구조에서, 제175조는 '헌법을 제정한 의회'라는 주체 지정 문형에서 각각 대응한다. 다만 제101조는 참의원 미성립이라는 조건부 대행, 제102조는 참의원 '절반'의 3년 임기와 법률 위임, 제175조는 시행준비절차 의정이라는 별개의 효과를 규정한다는 점에서 다르다. 임기 2년이라는 수치와 '국회개회일' 기산점, 조건 없는 권한 승계는 제시 후보로 설명되지 않는다. 이는 문언상 대응의 확인일 뿐 역사적 참조의 확정은 아니다."
+}

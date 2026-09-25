@@ -1,0 +1,87 @@
+{
+  "article": 25,
+  "reviewed_at": "2026-09-22T15:25:27.086338+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "4bc09627849bb7fb9112f41e4fb1d410b06fdbef7f70a62b8c9c68bf8b3d0801",
+  "input_sha256": "d82d4512cf9c903bd7c93ed1f618702b72d038120566ad86df1b14a49952c5db",
+  "responses": [
+    {
+      "job_id": "025_53dce0b16cad_r1",
+      "repeat": 1,
+      "sha256": "bac7cc6b94e76b47cc7416cfe6627d386e156b569bf6c068cb45f8e6962cf430",
+      "assessment": "약헌 제8조의 법률유보와 선거권, 일본 제15조의 공무원 선정에 관한 국민의 권리라는 주요 대응은 타당함. 공무원이라는 포괄 객체는 일본 원문에 직접 존재하므로 미설명 요소로 처리하지 않아야 함. 프랑스 후보도 법률에 따른 선거인 자격이라는 부분 대응을 보충할 수 있음."
+    },
+    {
+      "job_id": "025_53dce0b16cad_r2",
+      "repeat": 2,
+      "sha256": "cfe64b250ae54f6b73b08ec713ec85e2c2bc28fd21a1cfb5012044b29fec6916",
+      "assessment": "주요 두 후보의 대응과 부가 규율 차이는 타당함. 북한과의 비교에서 제헌헌법이 요건 전부를 법률에 위임했다고 단정한 부분은 문언상 법률유보가 있다는 설명으로 제한해야 함. 프랑스 후보의 부분 대응은 3회의 판단과 함께 검토할 필요가 있음."
+    },
+    {
+      "job_id": "025_53dce0b16cad_r3",
+      "repeat": 3,
+      "sha256": "b0472c3534ae77f834c46012236ca2d31876f8c4dc1d4eaa82a946ee61affd96",
+      "assessment": "약헌·일본·프랑스의 대응을 요소별로 분리한 점은 유용함. 중화민국 초안의 시험 응시권은 국민·법률·권리라는 상용 문형 외에 선거권 요소가 없어 substantive_correspondence 선택의 근거가 부족함. 공무원 객체를 미설명으로 둔 부분 및 모든 선거 요건을 법률에 위임했다는 단정은 보정이 필요함."
+    }
+  ],
+  "synthesis": "약헌 제8조 제2호는 법률이 정하는 바에 의한 선거권이라는 문구에서 직접 대응하며 피선거권을 함께 규정함. 일본 제15조는 공무원을 선정하는 국민의 권리와 공무원 선거라는 표현에 대응하고 파면권·성년 보통선거·투표 비밀을 추가함. 프랑스 제4조는 법률이 정하는 조건에 따른 선거인 자격을 규정한다는 부분에서 보충 대응을 이룸. 북한 초안 제12조는 연령·차별금지·결격사유를 직접 열거하므로 법률유보 중심의 제헌헌법과 규율 방식이 다름. 중화민국 초안의 시험 응시권은 선거권과 권리 내용이 달라 상용 권리 문형의 유사성으로 한정하는 것이 타당함. 제헌헌법의 법률유보는 입법에 아무런 한계가 없다는 뜻으로 해석하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_020",
+      "type": "unsupported_substantive_selection",
+      "severity": "material",
+      "finding": "국민·법률유보·권리라는 일반 문형만으로 시험 응시권을 선거권의 구체적 대응으로 선택함. 응답 자체도 권리 객체가 전혀 다르다고 인정함.",
+      "action": "원선택은 보존하되 실질적 대응 근거 부족으로 표시하고 상용 문형 유사성으로 제한함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_004",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "법률에 따른 선거인 자격이라는 부분 대응을 자격 규정 형식이라는 이유로 일반 유사성에 한정함.",
+      "action": "3회와의 선택 차이로 기록하고 법률유보·선거권의 부분 대응을 보충함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_015",
+      "type": "unexplained_classification",
+      "severity": "material",
+      "finding": "공무원이라는 포괄 객체를 미설명 요소로 두지만 일본 후보에 公務員を選定 및 公務員の選挙가 명시됨.",
+      "action": "해당 요소는 직접 대응으로 정리하고 파면권의 추가 여부와 분리함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unsupported_legal_inference",
+      "severity": "material",
+      "finding": "제헌헌법이 선거 요건 전부를 법률에 위임했다고 단정함.",
+      "action": "구체적인 연령·방식을 해당 조문에서 열거하지 않고 법률유보를 두었다는 관찰로 제한함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_012",
+      "type": "scope_precision",
+      "severity": "minor",
+      "finding": "주권기관은 피선거권의 대상 기관으로 명시되는데 이를 선거 객체의 차이로 곧바로 설명함.",
+      "action": "선거권과 피선거권의 문구를 구별해 기술함."
+    }
+  ],
+  "limits": [
+    "법률유보 유무만으로 선거권의 강약이나 실효성을 판단하지 않음."
+  ]
+}

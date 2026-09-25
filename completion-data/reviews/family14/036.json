@@ -1,0 +1,79 @@
+{
+  "article": 36,
+  "reviewed_at": "2026-09-22T15:36:58.640793+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "cbaa09121c59a3c3b736834ae7dd1a940235db3481f2dbd6dbfcace35044ae5c",
+  "input_sha256": "93f1333707ad4276f65322cdf6b6c4ad046ea2a55f13780fb5d12e759b147563",
+  "responses": [
+    {
+      "job_id": "036_b158d175fe24_r1",
+      "repeat": 1,
+      "sha256": "ea448506e6ec40c86dbcba748ae02cfe1644e2445c741fe2d7f54454e0f3b86f",
+      "assessment": "북한의 부의장 2인 및 선거 문형, 오스트리아의 의장·제2·제3의장이라는 3인 구성을 핵심 대응으로 찾은 것은 타당함. 의회의 의장·대리인 선출을 명시한 바이마르·프로이센 등의 부분 대응도 보충할 수 있음. 대상에 없는 임기·절차를 미설명 대상 요소로 취급하지 않아야 함."
+    },
+    {
+      "job_id": "036_b158d175fe24_r2",
+      "repeat": 2,
+      "sha256": "264de9d5ae63e9ca9fb2b11e57330f964e4da8388ea3ac579736a2c89baf5d0e",
+      "assessment": "핵심 두 후보의 정수 구조와 기관 명칭·피선자격 차이를 대체로 정확히 설명함. 북한 원문에 의장 1인이 수치로 명시된 것처럼 이유를 요약한 부분은 증거의 차이 설명과 맞추어 다듬어야 함. 오스트리아 제2·제3의장의 보좌·대리 기능은 해당 문언만으로 확정되지 않음."
+    },
+    {
+      "job_id": "036_b158d175fe24_r3",
+      "repeat": 3,
+      "sha256": "74164817afcaf22857b48dd6d8c9205ad0287715f47ee98bf7b1cfa71b384733",
+      "assessment": "북한과 오스트리아의 수적 구성 비교는 타당함. 인원수가 맞는 후보와 의장단 선출 구조만 대응하는 후보를 단계적으로 구별하는 것이 유용하며, 후자의 대응을 단순 주제 유사성으로만 축소하지 않아야 함. 제2·제3의장을 보좌·대행자라고 설명한 기능 추론은 유보해야 함."
+    }
+  ],
+  "synthesis": "북한 초안 제39조는 의회가 의장과 부의장 2명을 선거한다는 주체·직위·정수·동사에서 가장 밀접하게 대응함. 제헌헌법은 의장 1인도 수치로 명시하며 북한 후보는 의장의 회의 지도 규정을 추가함. 오스트리아 제30조 제1항은 의장과 제2·제3의장이라는 3인 구성을 규정하므로 인원 구조가 대응하지만 명칭이 다르고 의원 중에서 선출한다는 조건이 있음. 바이마르 제26조, 프로이센 두 후보, 일본 제58조, 프랑스 두 후보도 의회가 자체 의장단을 선출한다는 부분에 대응하나 부의장 2인을 명시하지 않거나 다른 임원을 포함함. 따라서 정수까지 일치하는 핵심 대응과 선출 구조의 보충 대응을 구분함.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "바이마르·프로이센·일본·프랑스의 의회 자체 의장단 선출이라는 구체적 대응을 인원수 부재나 추가 규율 때문에 일반 유사성으로만 평가함.",
+      "action": "정수까지 대응하는 두 핵심 후보와 선출 구조만 대응하는 보충 후보를 구별함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "AT1920_ORIGINAL_ART_030",
+      "type": "unsupported_function",
+      "severity": "minor",
+      "finding": "제2·제3의장을 의장을 보좌·대리 또는 대행하는 인원이라고 설명함. 제공 조문에는 그 기능이 명시되지 않음.",
+      "action": "직위 명칭과 총 3인이라는 구성까지만 확정함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_039",
+      "type": "number_precision",
+      "severity": "minor",
+      "finding": "이유에서 북한도 의장 1인을 명시한 듯 서술하지만 원문은 의장 및 부의장 2명이라고 적음.",
+      "action": "의장의 숫자 표기와 부의장 2명의 명시를 구별함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": null,
+      "type": "non_target_element",
+      "severity": "minor",
+      "finding": "대상에 없는 선출 시기·임기·정족수 등을 미설명 요소로 제시함.",
+      "action": "미설명 대상 요소에서 제외하고 후보의 추가 규율로만 정리함."
+    }
+  ],
+  "limits": [
+    "특정 원을 한 선출 주체로 지칭하는 것과 그 나라 의회제도 전체가 단원제라는 것은 구분함.",
+    "단수 명사로 제시된 의장과 숫자 1인의 명시라는 표현상 차이를 실질적인 인원수 불명으로 과장하지 않음."
+  ]
+}

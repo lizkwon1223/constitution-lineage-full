@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_054",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "54",
+    "original_text": "大統領은 就任에 際하여 國會에서 左의 宣誓를 行한다.\n「나는 國憲을 遵守하며 國民의 福利를 增進하며 國家를 保衛하여 大統領의 職務를 誠實히 遂行할 것을 國民에게 嚴肅히 宣誓한다.」",
+    "workbook_text_ko": "대통령은 취임에 제하여 국회에서 좌의 선서를 행한다.\n「나는 국헌을 준수하며 국민의 복리를 증진하며 국가를 보위하여 대통령의 직무를 성실히 수행할 것을 국민에게 엄숙히 선서한다.」"
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_042",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "42",
+      "original_text": "Der Reichspräsident leistet bei der Übernahme seines Amtes vor dem Reichstag folgenden Eid:\nIch schwöre, daß ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, die Verfassung und die Gesetze des Reichs wahren, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde.\nDie Beifügung einer religiösen Beteuerung ist zulässig.",
+      "workbook_text_ko": "제국대통령은 취임할 때 제국의회에 출석하여 다음과 같은 내용의 선서를 이행하도록 한다:\n나는 전력을 다해 독일국민의 복지를 위해 헌신할 것이고, 독일국민의 이익을 극대화하고, 독일국민에게 가해질 수 있는 피해를 막을 것이며, 독일제국의 헌법과 법률을 수호함은 물론 대통령의 의무를 양심에 따라 성실히 이행하고, 모든 사람에게 정의를 행할 것임을 맹세합니다.\n추가적으로, 종교적인 선서를 덧붙이는 것을 허용한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_056",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "56",
+      "original_text": "Die Staatsminister leisten beim Amtsantritte den Eid, daß sie ihre Geschäfte unparteiisch, zum Wohle des Volkes und getreu der Verfassung und den Gesetzen führen wollen.",
+      "workbook_text_ko": "국무장관은 취임할 때 공정하게, 국민의 복리를 위하여, 헌법과 법률에 충실하게 사무를 수행할 것을 선서한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_062",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "62",
+      "original_text": "Der Bundespräsident leistet bei Antritt seines Amtes vor der Bundesversammlung das Gelöbnis:\n„Ich gelobe, daß ich die Verfassung und alle Gesetze der Republik getreulich beobachten und meine Pflicht nach bestem Wissen und Gewissen erfüllen werde.“",
+      "workbook_text_ko": "연방대통령은 취임할 때 연방총회 앞에서 다음과 같이 선서한다.\n‘나는 공화국의 헌법과 모든 법률을 충실히 준수하고, 나의 지식과 양심에 따라 최선을 다하여 의무를 수행할 것을 선서한다.’"
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_062",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "62",
+      "original_text": "(1) Der Bundespräsident leistet bei Antritt seines Amtes vor der Bundesversammlung das Gelöbnis: \"Ich gelobe, daß ich die Verfassung und alle Gesetze der Republik getreulich beobachten und meine Pflicht nach bestem Wissen und Gewissen erfüllen werde.\"\n(2) Die Beifügung einer religiösen Beteuerung ist zulässig.",
+      "workbook_text_ko": "(1) 연방대통령은 취임할 때 연방총회 앞에서 다음과 같이 선서한다. ‘나는 공화국의 헌법과 모든 법률을 충실히 준수하고, 나의 지식과 양심에 따라 최선을 다하여 의무를 수행할 것을 선서한다.’\n(2) 종교적 맹세를 덧붙일 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_021",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "21",
+      "original_text": "政府主席은 就任에 際하야 立法議院에서 嚴肅히 左의 宣誓를 함\n「余는 힘을 다하여 朝鮮臨時約憲을 守護하고 誠實히 政府主席의 職務를 執行할 것을 盟誓함」",
+      "workbook_text_ko": "정부주석은 취임에 즈음하여 입법의원에서 엄숙히 아래의 선서를 함.\n“나는 힘을 다하여 조선임시약헌을 수호하고 성실히 정부주석의 직무를 집행할 것을 맹세함.”"
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_050",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "50",
+      "original_text": "總統應於就職日宣誓。誓詞如左：\n「余正心誠意向國民宣誓，余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託，如違誓言，願受國法嚴厲之制裁。謹誓。」",
+      "workbook_text_ko": "총통은 취임일에 선서하여야 한다. 선서문은 다음과 같다.\n“나는 마음을 바르게 하고 성의를 다하여 국민에게 선서합니다. 나는 반드시 헌법을 준수하고 직무에 충실하며 인민의 복리를 증진하고 국가를 보위하여 국민의 위탁을 저버리지 않겠습니다. 선서를 어기면 국법의 엄중한 제재를 받겠습니다. 삼가 선서합니다.”"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_048",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "48",
+      "original_text": "總統應於就職時宣誓，誓詞如左：\n「余謹以至誠，向全國人民宣誓，余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託。如違誓言，願受國家嚴厲之制裁。謹誓。」",
+      "workbook_text_ko": "總統은 就任時에 宣誓를 하여야 한다. 誓詞는 다음과 같다.\n  『나는 삼가 至誠으로써 全國人民에 대하여 憲法을 遵守하고 職務를 忠實히 履行하며 人民의 福利를 增進하고 國家를 保衛하며 國民의 信賴를 어기지 않을 것을 宣誓한다. 萬一 誓言을 違反한 때에는 國家의 嚴重한 制裁를 기뻐 받을 것이다. 以上 삼가 宣誓한다.』"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_036",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "36",
+    "original_text": "國會는 議長 1人 副議長 2人을 選擧한다.",
+    "workbook_text_ko": "국회는 의장 1인 부의장 2인을 선거한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_011",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "11",
+      "original_text": "Le bureau de chacune des deux chambres est élu chaque année pour la durée de la session, et pour toute session extraordinaire qui aurait lieu avant la session ordinaire de l'année suivante. - Lorsque les deux chambres se réunissent en Assemblée nationale, leur bureau se compose du président, des vice-présidents et secrétaires du Sénat.",
+      "workbook_text_ko": "각원의 의장단(bureau)은 회기의 기간과 차년도의 통상회기 전에 개\n최된 특별회기의 기간을 임기로서 매년 선출한다.\n양원이 국민의회로 합동할 때에는 그 의장단은 상원의 의장, 부의장들 및 서기관들로 구성한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_058",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "58",
+      "original_text": "両議院は、各々その議長その他の役員を選任する。\n２　両議院は、各々その会議その他の手続及び内部の規律に関する規則を定め、又、院内の秩序をみだした議員を懲罰することができる。但し、議員を除名するには、出席議員の三分の二以上の多数による議決を必要とする。",
+      "workbook_text_ko": "①양원은 각각 그 의장과 그 밖의 임원을 선임한다.\n②양원은 각각 그 회의와 그 밖의 절차 및 내부규율에 관한 규칙을 정하고 원내의 질서를 어지럽히는 의원을 징벌할 수 있다. 다만, 의원을 제명할 때에는 출석의원 3분의 2 이상의 의결이 필요하다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_039",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "39",
+      "original_text": "最高人民會議는 議長 및 副議長 二名을 選擧한다.\n議長은 最高人民會議에서 採擇한 規定에 依하여 會議를 指導한다.",
+      "workbook_text_ko": "최고인민회의는 의장 및 부의장 2명을 선거한다.\n의장은 최고인민회의에서 채택한 규정에 의하여 회의를 지도한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_026",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "26",
+      "original_text": "Der Reichstag wählt seinen Präsidenten, dessen Stellvertreter und seine Schriftführer. Er gibt sich seine Geschäftsordnung.",
+      "workbook_text_ko": "제국의회는 의장 및 대리인을 비롯하여 서기를 선출한다. 제국의회는 스스로 의사규칙을 정한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_037",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "37",
+      "original_text": "Der Staatsrat wählt seinen Vorsitzenden und seine Schriftführer sowie deren Stellvertreter und regelt seinen Geschäftsgang durch eine Geschäftsordnung.",
+      "workbook_text_ko": "국가평의회는 의장과 서기 및 그 대리인을 선출하고, 의사규칙으로 사무 진행을 정한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_018",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "18",
+      "original_text": "Der Landtag wählt seinen Präsidenten, dessen Stellvertreter und die übrigen Mitglieder seines Vorstandes.",
+      "workbook_text_ko": "주의회는 의장, 그 대리인 및 그 밖의 의장단 구성원을 선출한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_126",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "126",
+      "original_text": "縣設縣政府，置縣長一人。縣長由縣民選舉之。",
+      "workbook_text_ko": "縣에 縣政府를 두고 縣長1人을 둔다. 縣長은 縣民이 選擧한다."
+    }
+  ]
+}

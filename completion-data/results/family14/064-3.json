@@ -1,0 +1,180 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_064",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출·임기·군통수·임명·사면 등을 규정할 뿐, 계엄 선포 권한이나 '법률이 정하는 바에 의하여'라는 법률유보 문형이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률 공포 기간과 재심의 요구 절차에 관한 규정으로 계엄과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통(국가원수)이 법에 의하여 계엄을 선포한다'는 주체·권한·법률유보의 세 요소가 한 문장으로 그대로 대응한다. 다만 해엄(解嚴) 선언이 함께 규정된 점이 다르다.",
+      "evidence": [
+        {
+          "element": "주체와 권한(계엄 선포)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴解嚴",
+          "commonality": "국가원수 단독 주체가 계엄을 선포하는 권한을 단문으로 규정",
+          "difference": "대상은 선포만 규정, 후보는 '解嚴'(계엄 해제 선언)까지 포함"
+        },
+        {
+          "element": "법률유보 조건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法",
+          "commonality": "계엄권 행사를 법률(법)에 따르도록 하는 조건을 부가",
+          "difference": "후보의 '依法'은 '법에 의하여'로 간결하며, 대상은 '법률의 정하는 바에 의하여'로 법률에 의한 구체적 규율을 전제하는 표현"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "권한 열거의 마지막 항목이 '법률의 정한 바에 의한 계엄의 선포'로, 대상 조문의 법률유보 문구와 권한 내용이 거의 동일하다. 다만 주체가 정부주석이고 독립 조문이 아니라 권한 열거항의 하나라는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "법률유보 하의 계엄 선포권",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 戒嚴을 宣布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "十一 法律의 定한 바에 依한 戒嚴의 宣布",
+          "commonality": "'법률이 정한 바에 의한 계엄의 선포'라는 동일한 한국어 법문 표현으로 계엄권을 법률에 유보",
+          "difference": "대상은 '대통령'이 주체인 독립 조문의 서술형 규정, 후보는 '정부주석'의 권한 열거 중 명사형 항목"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_046",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원·장교 임면권 규정으로 계엄과 규율 대상이 다르다. '법률로 달리 정하지 않은 한'이라는 법률유보가 있으나 권한 내용이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률이 정하는 바에 따라'라는 법률유보 상용 문형만 겹칠 뿐 주체(국민)와 내용(납세의무)이 전혀 달라 규율 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 계엄(martial law)을 실시할 수 있다는 점은 같으나, 침략·반란 등 발동 사유와 공공안전 요건, 인신보호영장 정지와의 결합 등 조건 구조가 대상 조문의 단순한 법률유보형과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률 제출·공포, 은사, 군대 지휘, 임명 등을 열거하나 계엄 선포 규정은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_146",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법재판소 결정 집행 담당을 정할 뿐 계엄과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국왕의 집행권·장관 임면·법률 공포 및 집행명령에 관한 규정으로 계엄 선포와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "원문 앞부분 '總統依法宣布戒嚴'이 주체·권한·법률유보에서 대상 조문과 대응한다. 다만 입법원의 동의·추인 절차와 해엄 요구 결의라는 통제 요소가 대상에는 없다.",
+      "evidence": [
+        {
+          "element": "주체와 권한(법률에 의한 계엄 선포)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴",
+          "commonality": "국가원수가 법에 따라 계엄을 선포한다는 동일 구조의 규정",
+          "difference": "대상 조문에는 후보가 덧붙인 '但須經立法院之通過或追認'과 같은 의회 동의·추인 절차가 없음"
+        },
+        {
+          "element": "의회 통제 절차의 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 계엄을 선포한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院認為必要時，得決議移請總統解嚴",
+          "commonality": "계엄권을 국가원수에게 부여하는 동일 주제의 조문",
+          "difference": "후보는 입법기관의 해엄 요구 결의라는 절차·효과를 두었으나 대상은 아무런 의회 통제 절차를 두지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_043",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'자세한 사항은 법률로 정한다'는 일반적 법률위임 문형만 겹치고 계엄이라는 규율 대상이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_041",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법령 서명·공포 절차 규정으로 계엄과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수의 계엄 선포권과 계엄의 요건·효력을 법률에 맡기는 구조가 대상의 '법률의 정하는 바에 의하여 계엄을 선포한다'와 요소별로 대응한다. 다만 후보는 선포권과 법률유보를 두 항으로 분리한다.",
+      "evidence": [
+        {
+          "element": "계엄 선포 주체와 권한",
+          "target_field": "original_text",
+          "target_quote": "戒嚴을 宣布한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇ハ戒厳ヲ宣告ス",
+          "commonality": "국가원수 단독이 계엄을 선포한다는 단문 규정",
+          "difference": "주체가 천황(군주)인 반면 대상은 대통령이며, 후보 본항 자체에는 법률유보가 붙어 있지 않음"
+        },
+        {
+          "element": "법률유보의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "戒厳ノ要件及効力ハ法律ヲ以テ之ヲ定ム",
+          "commonality": "계엄의 내용을 법률로 정하도록 유보",
+          "difference": "후보는 '요건과 효력'을 법률사항으로 특정한 별항인 반면, 대상은 선포 행위 자체를 법률의 정하는 바에 따르게 하는 통합 문구"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'대통령'이라는 주체 명칭이 계엄 조문에서 단일 조문으로 독립 배치된 형식(후보들은 열거항·2항 구조 또는 군주 주체)",
+    "계엄의 해제(解嚴)에 관한 규정이 대상에는 없는 점의 유래"
+  ],
+  "limitations": [
+    "문언상 대응만 검토한 것이며 실제 참조·계수 관계의 역사적 확정은 아니다.",
+    "ROC1946 후보의 workbook_text_ko는 한국어 번역문으로 대상과 어구가 매우 유사하나 번역 의존적이므로 원문(中文)을 기준으로 비교했다."
+  ],
+  "short_answer": "대상 조문(계엄 선포)의 핵심 요소는 ①주체인 대통령, ②계엄 선포 권한, ③'법률의 정하는 바에 의하여'라는 법률유보이며, 이 세 요소는 조선임시약헌 제22조 제11호('法律의 定한 바에 依한 戒嚴의 宣布'), 五五憲草 제40조('總統依法宣布戒嚴解嚴'), 중화민국헌법 제39조('總統依法宣布戒嚴'), 대일본제국헌법 제14조(천황의 계엄 선고 + 요건·효력의 법률유보)에서 각각 구체적으로 대응한다. 차이로는 五五憲草와 중화민국헌법이 해엄을 함께 규정하고 후자는 입법원의 동의·추인 및 해엄 요구라는 의회 통제 절차를 두는 반면 대상 조문에는 그런 절차가 없다는 점, 약헌은 정부주석의 권한 열거항 형식이라는 점, 일본 구헌법은 주체가 천황이고 법률유보를 '요건 및 효력'으로 분리·특정한 점이 있다. 필리핀헌법 제7장 제11절 (2)는 대통령의 계엄 실시를 규정하나 침략·반란 등 발동 사유와 공공안전 요건을 결합한 구조여서 단순 법률유보형인 대상과는 규율 방식이 다르다. 일본국헌법 제30조와 프로이센 자유주헌법 제43조는 법률유보 상용 문형만 겹치므로 선택하지 않았고, 이상은 문언 대응일 뿐 역사적 참조의 확정은 아니다."
+}

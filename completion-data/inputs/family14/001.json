@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_001",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "1",
+    "original_text": "大韓民國은 民主共和國이다.",
+    "workbook_text_ko": "대한민국은 민주공화국이다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "2",
+      "original_text": "Le Président de la République est élu à la majorité absolue des suffrages par le Sénat et par la Chambre des députés réunis en Assemblée nationale. Il est nommé pour sept ans. Il est rééligible.",
+      "workbook_text_ko": "공화국대통령은 국민의회(Assemblée nationale)에 합동한 상원과 하원\n에 의한 투표의 절대다수로 선출한다. 대통령은 7년의 임기로 임명된다.\n대통령은 재선할 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_001",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "1",
+      "original_text": "朝鮮은 民主共和政體임",
+      "workbook_text_ko": "조선은 민주공화정체임."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_001",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "1",
+      "original_text": "中華民國基於三民主義，為民有民治民享之民主共和國。",
+      "workbook_text_ko": "中華民國은 三民主義에 立脚한 人民의, 人民에 依한, 人民을 爲한 民主共和國이다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_001",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "1",
+      "original_text": "中華民國爲三民主義共和國。",
+      "workbook_text_ko": "중화민국은 삼민주의 공화국이다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_001",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "1",
+      "original_text": "Österreich ist eine demokratische Republik. Ihr Recht geht vom Volk aus.",
+      "workbook_text_ko": "오스트리아는 민주공화국이다. 그 법은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_II",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "II",
+      "original_text": "Section 1. The Philippines is a republican state. Sovereignty resides in the people and all government authority emanates from them.\nSec. 2. The defense of the State is a prime duty of government, and in the fulfillment of this duty all citizens may be required by law to render personal military or civil service.\nSec. 3. The Philippines renounces war as an instrument of national policy, and adopts the generally accepted principles of international law as a part of the law of the Nation.\nSec. 4. The natural right and duty of parents in the rearing of the youth for civic efficiency should receive the aid and support of the Government.\nSec. 5. The promotion of social justice to insure the well-being and economic security of all the people should be the concern of the State.",
+      "workbook_text_ko": "第一條 比律賓國은 共和政體이다. 主權은 人民에 있고 一切의 權限은 人民에 淵源함으로 함.\n第二條 國家의 防備는 政府의 第一義務로서 本義務遂行함에 全市民에게 法律로써 親히 軍事 혹은 民間의 勤務를 할 것을 要求할 수 있다.\n第三條 比律賓은 國策遂行의 手段으로서 戰爭을 否認하는 동시에 公認된 國際法의 諸法則을 國法의 一部로써 採用함.\n第四條 公民的 能力을 靑年에게 涵養함은 父母인 자의 自然의 權利임과 함께 또 義務이여서 政府의 援助 及 補助를 受할 것으로 함.\n第五條 人民의 福祉 及 經濟的 安泰를 保證키 위하야 社會正義의 向上은 國家의 關心하지 안으면 안 된다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XIV",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XIV",
+      "original_text": "Section 1.\nAll persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.\nSection 2.\nRepresentatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.\nSection 3.\nNo person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.\nSection 4.\nThe validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.\nSection 5.\nThe Congress shall have power to enforce, by appropriate legislation, the provisions of this article.",
+      "workbook_text_ko": "제1항\n합중국에서 출생하거나 귀화하고, 합중국의 관할권에 속하\n는 모든 사람은 합중국 시민이자 그 거주하는 주의 시민이\n다. 어떠한 주도 합중국 시민의 특권과 면책권을 제한하는\n법률을 제정하거나 시행할 수 없다. 어떠한 주도 적정한 법\n의 절차에 의하지 않고는 어떠한 사람으로부터도 생명, 자\n유, 또는 재산을 박탈할 수 없으며, 그 관할권 내에 있는 어\n떠한 사람에 대해서도 법률의 평등한 보호를 거부하지 못\n한다.\n제2항\n하원의원은 각 주의 인구수에 비례하여 각 주에 할당한다.\n각 주의 인구수는 과세되지 않는 인디언을 제외한 각 주의\n총 인구수로 한다. 그러나 합중국 대통령 및 부통령의 선거\n인, 연방의회의 하원의원, 각 주 행정관 및 사법관 또는 각\n주 주의회 의원을 선출하는 어떠한 선거에서, 반란이나 그\n밖의 범죄에 가담한 경우를 제외하고, 21세에 달하고 합\n중국 시민인 해당 주의 남성 주민 중의 어느 누구에게 투표\n권이 거부되거나, 어떠한 방식으로든 제한되는 경우에는,\n그 주의 하원의원 할당수의 기준은 그러한 남성 시민의 수\n가 그 주의 21세에 달한 남성 시민의 총수에서 차지하는 비\n율에 따라 감소된다.\n제3항\n과거에 연방의회 의원, 합중국 공무원, 주의회 의원, 또는\n주의 행정관이나 사법관으로, 합중국 헌법을 옹호할 것을\n선서하고, 후에 이에 대한 폭동이나 반란에 가담하거나 또\n는 그 적에게 원조를 제공한 자는 누구라도 연방의회의 상\n원의원이나 하원의원, 대통령 및 부통령의 선거인, 합중국\n이나 각 주의 모든 공직에 취임할 수 없다. 다만, 연방의회\n는 각 원의 3분의 2의 표결로써 이 결격을 해제할 수 있다.\n제4항\n폭동이나 반란을 진압할 때의 공헌에 대한 은급 및 하사금\n을 지불하기 위하여 발생한 부채를 포함하여 법률로 인정\n된 합중국 국채의 법적 효력은 문제 삼을 수 없다. 그러나\n합중국 또는 어떠한 주도 합중국에 대한 폭동이나 반란을 원조하\n기 위하여 발생한 부채나 채무에 대하여 또는 노예의 상실\n이나 해방으로 인한 청구에 대하여는 채무를 부담하거나\n지불하지 않는다. 모든 이러한 부채, 채무 및 청구는 위법\n이고 무효이다.\n제5항\n연방의회는 적절한 입법에 의하여 이 조의 규정을 시행할\n권한을 가진다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_001",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "1",
+      "original_text": "(1) Preußen ist eine Republik und Glied des Deutschen Reichs.\n(2) Die nach der Reichsverfassung erforderliche Zustimmung Preußens zu Gebietsänderungen erfolgt durch Gesetz.\n(3) Die Landesfarben sind schwarz-weiß.\n(4) Die Geschäfts- und Verhandlungssprache im öffentlichen Dienste ist die deutsche Sprache.",
+      "workbook_text_ko": "(1) 프로이센은 공화국이며 독일국의 구성국이다.\n(2) 영토 변경에 관하여 독일국헌법에 따라 필요한 프로이센의 동의는 법률로 한다.\n(3) 프로이센 주의 색은 흑색과 백색이다.\n(4) 공무상의 사무와 의사 진행에 사용하는 언어는 독일어이다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_001",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "1",
+      "original_text": "우리나라는 朝鮮民主主義人民共和國이다.",
+      "workbook_text_ko": "우리나라는 조선민주주의인민공화국이다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "1",
+      "original_text": "Das Deutsche Reich ist eine Republik.\nDie Staatsgewalt geht vom Volke aus.",
+      "workbook_text_ko": "독일제국은 공화국이다.\n국가권력은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_001",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "1",
+      "original_text": "La France est une République indivisible, laïque, démocratique et sociale.",
+      "workbook_text_ko": "프랑스는 불가분의ㆍ비종교적ㆍ민주적이며 사회적 공화국이다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_PREAMBLE",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": null,
+      "original_text": "日本国民は、正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。\n日本国民は、恒久の平和を念願し、人間相互の関係を支配する崇高な理想を深く自覚するのであつて、平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。われらは、平和を維持し、専制と隷従、圧迫と偏狭を地上から永遠に除去しようと努めてゐる国際社会において、名誉ある地位を占めたいと思ふ。われらは、全世界の国民が、ひとしく恐怖と欠乏から免かれ、平和のうちに生存する権利を有することを確認する。\nわれらは、いづれの国家も、自国のことのみに専念して他国を無視してはならないのであつて、政治道徳の法則は、普遍的なものであり、この法則に従ふことは、自国の主権を維持し、他国と対等関係に立たうとする各国の責務であると信ずる。\n日本国民は、国家の名誉にかけ、全力をあげてこの崇高な理想と目的を達成することを誓ふ。",
+      "workbook_text_ko": "일본 국민은 정당한 선거로 선출된 국회의 대표자를 통하여 행동하고, 우리와 우리 자손을 위하여 세계 제 국민과의 화합에 따른 성과와 우리나라 전역에 자유가 가져올 혜택을 확보하며, 다시는 정부의 행위에 의하여 전쟁의 참화가 일어나지 않도록 할 것을 결의하고, 이에 주권이 국민에게 존재함을 선언하며 이 헌법을 확정한다. 무릇 국정은 국민의 엄숙한 신탁에 의한 것으로서 그 권위는 국민으로부터 유래하고, 그 권력은 국민의 대표자가 행사하며, 그 복리는 국민이 향유한다. 이는 인류보편의 원리이며 이 헌법은 이러한 원리에 기초한 것이다. 우리는 이에 반하는 일체의 헌법․법령 및 조칙(詔勅)을 배제한다.\n일본 국민은 항구적인 평화를 염원하고 인간 상호관계를 지배하는 숭고한 이상을 깊이 자각하는 바이므로, 평화를 사랑하는 세계 제 국민의 공정과 신의를 신뢰함으로써 우리의 안전과 생존을 지켜나갈 것을 결의하였다. 우리는 평화를 유지하고 전제와 예종(隸從), 압박과 편협을 지상에서 영원히 제거하고자 노력하고 있는 국제사회의 명예로운 지위를 차지하고자 한다. 우리는 전 세계의 국민이 균등하게 공포와 결핍에서 벗어나 평화롭게 생존할 권리를 가짐을 확인한다.\n우리는 어떠한 국가도 자국의 일에만 몰두하여 타국을 무시하여서는 아니 되고, 정치도덕의 법칙은 보편적인 것으로서 이 법칙에 따르는 것은 자국의 주권을 유지하고 타국과 대등한 관계에 서고자 하는 각국의 책무임을 믿는다.\n일본 국민은 국가의 명예를 걸고 전력을 다하여 숭고한 이상과 목적을 달성할 것을 맹세한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_001",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "1",
+      "original_text": "大日本帝国ハ万世一系ノ天皇之ヲ統治ス",
+      "workbook_text_ko": "대일본제국은 만세일계의 천황이 통치한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_083",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "83",
+      "original_text": "Die Mitglieder beider Kammern sind Vertreter des ganzen Volkes. Sie stimmen nach ihrer freien Ueberzeugung und sind an Aufträge und Instruktionen nicht gebunden.",
+      "workbook_text_ko": "양원의 의원은 전체 국민의\n대표자이다. 의원은 자신의 자유로운\n확신에 따라 투표하고 위임과 지시\n에 기속되지 않는다."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "article": 43,
+  "reviewed_at": "2026-09-22T15:46:36.726055+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "9888fce2256f282751c54163abefda414adb0d1a09f8065e83163162e793b2b9",
+  "input_sha256": "200629f20ecb80177f53425a8cbcaba593217e1462e80cd9b6707ce0156e0e77",
+  "responses": [
+    {
+      "job_id": "043_d4c49f2b4124_r1",
+      "repeat": 1,
+      "sha256": "551eb9b6c892587080923ff3b561daff7a6a3dea7233237f09fca5b749c4b9df",
+      "assessment": "일본 제62조의 국정 조사·증인 출석·증언·기록 제출 대응을 정확히 설명함. 다른 후보의 장관 출석, 청원 설명, 감찰위원 의견 진술을 구분한 판단도 타당함."
+    },
+    {
+      "job_id": "043_d4c49f2b4124_r2",
+      "repeat": 2,
+      "sha256": "8315cf80d31aba32035b9472dbb6fb1af403318fe3986d0619dd38e83c2f562a",
+      "assessment": "주된 대응과 조사 관련성 제한, 필요한 서류 및 의견 진술의 차이를 구분함. 대상에 없는 강제수단·법률 위임을 미설명 요소로 든 부분만 범위를 정리할 필요가 있음."
+    },
+    {
+      "job_id": "043_d4c49f2b4124_r3",
+      "repeat": 3,
+      "sha256": "f4e137a6ca551a5c79f3689297894c42c4f69771832b3363154784cf84e9ca33",
+      "assessment": "일본 조문의 열거 순서와 조사·감사 용어 차이를 적절히 구분함. 장관 출석과 증인 출석을 동일 규율로 합치지 않은 점이 적절함."
+    }
+  ],
+  "synthesis": "일본 제62조는 국정 조사와 증인의 출석·증언, 기록 제출 요구를 한 문장에 결합하여 가장 구체적인 대응을 제공함. 제헌헌법은 서류 제출을 먼저 두고 필요성을 명시하며 의견 진술을 덧붙임. 양원 각각의 조사와 국회를 주체로 하는 감사, 기록과 서류의 범위는 문언 차이로 남김. 장관의 의회 출석·발언권이나 감찰기관의 시정 요구는 권한 주체·상대·행위 방향이 달라 직접 대응과 구분함.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "대상에 없는 행사 절차·강제수단·법률 위임의 부재를 미설명 요소로 기재함.",
+      "action": "대상에 실제 존재하는 필요성 한정과 의견 진술 등으로 미대응 요소를 한정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unsupported_system_inference",
+      "severity": "minor",
+      "finding": "국회라는 단일 주체 표현에서 단원제를 함께 서술함. 이 대상 조문 자체는 의회 전체의 구성 제도를 정하지 않음.",
+      "action": "국회와 양원 각각이라는 주체 표현의 차이로 기술함."
+    }
+  ],
+  "limits": [
+    "조사·감사 또는 기록·서류의 정확한 법적 외연은 이 조문 대조만으로 확정하지 않음."
+  ]
+}

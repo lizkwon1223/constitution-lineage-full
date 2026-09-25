@@ -1,0 +1,258 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_009",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_037",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 불체포특권 조항으로 주체(의원)·조건(의회 허가)·효과(회기 중 절차 중지)가 일반 국민의 신체의 자유 보장과 다르다. '현행범' 예외 표현이 겹치나 이는 면책특권의 예외로서 대상 조문의 사후영장 예외와 규율 국면이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_014",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "소속 원의 허가를 요건으로 하는 의원 불체포특권 규정으로, 국민 일반의 체포·구금 요건과 영장주의를 다루지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_034",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "체포·구금된 자의 즉시 변호인 의뢰권과 구금 이유의 사법적 제시라는 제3항의 두 요소에 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "변호인의 조력을 받을 권리",
+          "target_field": "original_text",
+          "target_quote": "卽時 辯護人의 助力을 받을 權利",
+          "candidate_field": "original_text",
+          "candidate_quote": "直ちに弁護人に依頼する権利",
+          "commonality": "체포·구금 시 지체 없이 변호인의 도움을 구할 권리를 보장한다는 점이 일치한다.",
+          "difference": "후보는 이 권리 부여를 억류·구금의 사전 요건으로 구성하나, 대상은 체포·구금 후 보장되는 권리로 규정한다."
+        },
+        {
+          "element": "구금의 당부에 대한 법원 심사 청구",
+          "target_field": "original_text",
+          "target_quote": "그 當否의 審査를 法院에 請求할 權利가 保障된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "要求があれば、その理由は、直ちに本人及びその弁護人の出席する公開の法廷で示されなければならない",
+          "commonality": "구금의 정당성을 법원(법정) 차원에서 다투도록 하는 절차 보장을 둔다.",
+          "difference": "후보는 '이유의 공개법정 제시' 의무 형식이고, 대상은 구금 당부의 심사를 법원에 청구할 권리 형식이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_005",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 전단의 신체의 자유 보장과 그 제한의 법률유보라는 이중 구조에 문형상 대응한다. 대응 범위는 제1항에 한정된다.",
+      "evidence": [
+        {
+          "element": "신체의 자유 보장과 법률유보",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 身體의 自由를 가진다. 法律에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die persönliche Freiheit ist gewährleistet. Die Bedingungen und Formen, unter welchen eine Beschränkung derselben, insbesondere eine Verhaftung zulässig ist, werden durch das Gesetz bestimmt.",
+          "commonality": "신체의 자유를 선언한 뒤 그 제한(특히 체포)을 법률로써만 가능하게 하는 구성이 같다.",
+          "difference": "후보는 제한의 '조건과 형식'을 법률에 위임하는 데 그치고, 대상은 수색·심문·처벌·강제노역까지 열거하며 영장주의·변호인권 등 절차를 헌법에 직접 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회 조사위원회의 증거조사 절차 규정으로, 신체의 자유 보장이나 체포·구금 요건과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_008",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "신체의 자유 보장, 현행범 체포의 특례, 체포·구금에 대한 법원 심사 청구(제심)라는 복수 요소에서 구체적 대응이 확인된다.",
+      "evidence": [
+        {
+          "element": "신체의 자유 보장과 체포·구금·심문·처벌의 법정절차",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는 逮捕, 拘禁, 搜索, 審問, 處罰과 强制勞役을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。",
+          "commonality": "신체의 자유를 선언하고 체포·구금·심문·처벌을 법정절차에 따르도록 하는 점이 공통된다.",
+          "difference": "후보는 체포·구금 주체를 사법·경찰기관, 심문·처벌 주체를 법원으로 나누어 특정하나, 대상은 주체를 특정하지 않고 '법률에 의하지 아니하고는'이라는 법률유보로 규율하며 수색·강제노역을 추가 열거한다."
+        },
+        {
+          "element": "현행범에 대한 예외",
+          "target_field": "original_text",
+          "target_quote": "但, 犯罪의 現行 犯人의 逃避 또는 證據湮滅의 念慮가 있을 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "除現行犯之逮捕由法律另定外",
+          "commonality": "현행범 체포를 일반 요건에서 떼어내 예외적으로 취급한다.",
+          "difference": "후보는 현행범 체포를 별도 법률에 위임하는 데 그치나, 대상은 현행범의 도피·증거인멸 염려를 요건으로 사후 영장 교부 청구라는 절차를 정한다."
+        },
+        {
+          "element": "체포·구금 당부의 법원 심사 청구",
+          "target_field": "original_text",
+          "target_quote": "그 當否의 審査를 法院에 請求할 權利",
+          "candidate_field": "original_text",
+          "candidate_quote": "本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審",
+          "commonality": "본인이 법원에 대하여 구금의 정당성 심사를 구할 수 있게 하는 제도적 장치가 있다.",
+          "difference": "후보는 24시간이라는 기한과 타인의 신청권, 법원의 거절 금지까지 상세히 규정하나, 대상은 기한·신청권자 범위를 정하지 않고 권리 보장 선언에 그친다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 후단의 '법률에 의하지 아니하고는 체포·구금·심문·처벌을 받지 아니한다'는 열거와 문형이 거의 그대로 대응한다.",
+      "evidence": [
+        {
+          "element": "법률유보 아래의 체포·구금·심문·처벌 금지",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는 逮捕, 拘禁, 搜索, 審問, 處罰과 强制勞役을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律ニ依ルニ非スシテ逮捕監禁審問処罰ヲ受クルコトナシ",
+          "commonality": "'법률에 의하지 아니하고는 …을 받지 아니한다'는 부정형 문형과 체포·구금(감금)·심문·처벌의 열거 순서가 같다.",
+          "difference": "대상은 수색과 강제노역을 열거에 추가하고 신체의 자유를 별도로 선언하며 영장주의·변호인권 조항을 덧붙였다. 후보의 주체는 '일본 신민'이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 임기 중 소추·체포에 소속 원의 허가를 요구하는 특권 조항으로, 대상 조문의 일반적 신체의 자유·영장주의와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "체포·구금·심문·처벌의 법률유보와 수색의 법률유보를 같은 조문 안에서 병렬하고 있어 제1항의 열거 구성에 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "법률유보 아래의 체포·구금·심문·처벌",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률에 의하지 아니하고는 체포, 구금, 수색, 심문, 처벌과 강제노역을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律에 依하지 아니한 逮捕 拘禁 審問 處罰을 받지 않는 自由",
+          "commonality": "'법률에 의하지 아니한 체포·구금·심문·처벌'이라는 어휘와 열거 순서가 일치한다.",
+          "difference": "후보는 이를 자유권 목록의 한 항목으로 열거하고 강제노역을 포함하지 않으며, 영장주의·변호인권·심사청구 절차 규정을 두지 않는다."
+        },
+        {
+          "element": "수색에 대한 법률유보",
+          "target_field": "original_text",
+          "target_quote": "搜索",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律에 依하지 아니한 家宅의 侵入 또는 搜索을 받지 않는 自由",
+          "commonality": "수색을 법률에 의하지 아니하고는 받지 않는 대상으로 규정한다.",
+          "difference": "후보는 가택 침입·수색을 주거 보호의 별개 항으로 분리하나, 대상은 수색을 신체의 자유 조항의 열거와 영장주의 대상에 함께 편입한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법관이 상당한 이유를 판단하는 영장 요건, 강제노역 금지, 인신보호영장이라는 대상 조문의 개별 요소에 각각 대응하는 규정을 포함한다.",
+      "evidence": [
+        {
+          "element": "법관의 영장 요건",
+          "target_field": "original_text",
+          "target_quote": "逮捕, 拘禁, 搜索에는 法官의 令狀이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "no warrants shall issue but upon probable cause, to be determined by the judge after examination under oath or affirmation",
+          "commonality": "영장 발부에 법관(judge)의 판단을 요구한다는 점이 공통된다.",
+          "difference": "후보는 상당한 이유·선서심문·장소와 대상의 특정이라는 발부 요건을 상세히 정하고 수색·압수를 중심으로 하나, 대상은 체포·구금·수색 전반에 영장을 요구하되 발부 요건은 규정하지 않고 사후영장 예외를 둔다."
+        },
+        {
+          "element": "강제노역의 금지",
+          "target_field": "original_text",
+          "target_quote": "强制勞役을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "No involuntary servitude in any form shall exist except as a punishment for crime whereof the party shall have been duly convicted",
+          "commonality": "강제노역을 원칙적으로 금지한다.",
+          "difference": "후보는 적법한 유죄판결에 따른 형벌만을 예외로 명시하나, 대상은 '법률에 의하지 아니하고는'이라는 법률유보 형식으로 규율한다."
+        },
+        {
+          "element": "구금 당부의 사법 심사",
+          "target_field": "workbook_text_ko",
+          "target_quote": "그 당부의 심사를 법원에 청구할 권리가 보장된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion, insurrection, or rebellion",
+          "commonality": "구금의 정당성을 법원이 심사하는 제도를 헌법상 보장한다.",
+          "difference": "후보는 기존 인신보호영장 특권의 '정지 금지'와 그 예외를 규정하는 형식이고, 대상은 피구금자의 청구권을 적극적으로 창설하며 정지 사유를 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_024",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "체포에 사전 사법적 승인을 요구하는 점에서 제2항 영장주의와 규율 요소가 겹친다. 다만 승인 주체와 대상 행위 범위가 달라 대응 범위를 체포의 사전 통제에 한정한다.",
+      "evidence": [
+        {
+          "element": "체포에 대한 사전 사법적 통제",
+          "target_field": "original_text",
+          "target_quote": "逮捕, 拘禁, 搜索에는 法官의 令狀이 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "一切 公民은 裁判所의 決定 또는 檢事의 承認이 없이는 逮捕되지 않는다",
+          "commonality": "체포에 앞서 사법기관의 결정·승인을 요구하여 수사기관의 자의를 통제한다.",
+          "difference": "후보는 재판소 결정 '또는 검사의 승인'을 대등한 요건으로 허용하고 대상 행위를 체포에 한정하나, 대상은 법관의 영장만을 요구하고 구금·수색까지 포함하며 현행범 등에 대한 사후영장 절차를 별도로 정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민의회 의원의 면책·불체포특권 규정으로, 주체와 요건(의회 동의)·효과(구금 해제, 소추 연기)가 일반 국민의 신체의 자유 보장과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_IV",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "영장 발부 요건을 정한다는 점에서 제2항과 주제가 겹치나, 발부 주체를 법관으로 특정하지 않고 체포·구금에 대한 사전 영장주의와 사후영장 절차를 규율하지 않아 구체적 규율 요소의 대응은 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'신체의 자유를 가진다 + 법률에 의하지 않고는 체포·구금·심문·처벌'이라는 제1항의 결합 문형과, 법원에 대한 인치심문(제심) 청구라는 제3항 요소에 대응한다.",
+      "evidence": [
+        {
+          "element": "신체의 자유 선언과 열거된 처분의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 身體의 自由를 가진다. 法律에 依하지 아니하고는 逮捕, 拘禁, 搜索, 審問, 處罰과 强制勞役을 받지 아니한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有身體之自由，非依法律不得逮捕拘禁審問或處罰",
+          "commonality": "신체의 자유 보유를 선언한 뒤 체포·구금·심문·처벌을 법률에 의하지 않고는 할 수 없다고 한 문장 구성과 열거가 대응한다.",
+          "difference": "대상은 수색과 강제노역을 열거에 더하고 법관 영장 요건을 두나, 후보는 영장 조항 없이 체포 후 24시간 내 법원 이송 의무로 통제한다."
+        },
+        {
+          "element": "법원에 대한 심사 청구",
+          "target_field": "workbook_text_ko",
+          "target_quote": "그 당부의 심사를 법원에 청구할 권리",
+          "candidate_field": "original_text",
+          "candidate_quote": "本人或他人亦得聲請該管法院於二十四小時內，向執行機關提審",
+          "commonality": "피체포·구금자가 법원에 신체의 인치·심사를 구할 수 있도록 한다.",
+          "difference": "후보는 24시간 기한과 타인의 신청, 집행기관의 거절 금지를 명시하나, 대상은 기한·거절금지 규정 없이 권리 보장만 선언하고 변호인 조력권을 함께 규정한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "현행범의 도피 또는 증거인멸 염려를 요건으로 수사기관이 사후에 영장 교부를 청구하는 절차(사후영장)",
+    "체포·구금·수색 전반에 대해 '법관의 영장'을 일률적으로 요구하는 형식",
+    "'강제노역'을 법률유보형 열거 안에 포함시킨 문언 구성(필리핀 제13항은 예외 구조가 다름)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 과정의 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "일본어·독일어·중국어·영어 후보의 의미 파악에 제공된 번역문을 참고했으나 인용은 원문에서 하였다.",
+    "후보 목록에 없는 문헌과의 관계는 판단하지 않았다."
+  ],
+  "short_answer": "대상 조문의 제1항(신체의 자유 선언+법률유보형 열거)에는 대일본제국헌법 제23조, 조선임시약헌 제6조, 프로이센 헌법 제5조, 중화민국 五五憲草 제9조, 중화민국헌법 제8조가 구체적으로 대응한다. 제2항 영장주의에는 필리핀헌법 제3조 제3항(법관이 상당한 이유를 판단하는 영장)이, 사전 사법통제라는 점에서는 북조선 헌법안 제24조가 부분적으로 겹치나 승인 주체와 대상 행위가 다르다. 제3항의 변호인 조력권과 구금 당부의 법원 심사는 일본국헌법 제34조, 중화민국헌법 제8조·五五憲草 제9조의 제심 절차, 필리핀헌법 제3조 제14항 인신보호영장과 대응하되 기한·신청권자·정지 사유 등 절차 요소에서 차이가 있다. 의원 불체포특권 조항들(바이마르 37, 프랑스 1875년 14·1946년 22, 오스트리아 57)과 프로이센 자유주헌법 제25조는 주체·요건·효과가 달라 관련성이 낮다. 현행범의 도피·증거인멸을 요건으로 한 사후영장 청구 절차는 제시된 후보로 설명되지 않는다."
+}

@@ -1,0 +1,122 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_060",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 의회와 '서한(교서)'으로 의사를 전달한다는 규율이 대상 조문의 '書翰으로 意見을 表示한다' 부분과 주체(대통령)와 수단(문서) 양면에서 구체적으로 대응한다. 다만 대상 조문의 '출석하여 발언' 부분은 이 후보에 없다.",
+      "evidence": [
+        {
+          "element": "서한에 의한 의사표시",
+          "target_field": "original_text",
+          "target_quote": "書翰으로 意見을 表示한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "communique avec le Parlement par des messages",
+          "commonality": "국가원수가 의회에 대해 문서(교서·서한)를 수단으로 의사를 전달하는 방식을 헌법에 명시한 점이 같다.",
+          "difference": "후보는 교서를 국민의회(Assemblée nationale) 앞으로 보내는 '연락' 방식만 규정하고, 대상은 서한을 '중요한 국무'에 관한 '의견 표시'로 규정하며 출석·발언이라는 대체 수단을 병렬로 둔다."
+        },
+        {
+          "element": "주체와 상대기관",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 중요한 국무에 관하여 국회에",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président de la République",
+          "commonality": "행위주체가 대통령이고 상대가 의회라는 구도가 동일하다.",
+          "difference": "후보는 대상 사항(중요한 국무)에 관한 한정이 없고 수신처를 하원(국민의회)으로 특정하는 반면, 대상은 사항을 '중요한 국무'로 한정하고 단원제 국회 전체를 상대로 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_072",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국무에 관하여 국회에' 보고한다는 점에서 주제상 유사하나, 주체가 내각총리대신이고 효과가 의안 제출·보고·행정각부 지휘감독이어서 대통령의 출석·발언 또는 서한이라는 수단 규율과 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_032",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무회의 주재와 회의록 작성·보관에 관한 규정으로, 국회에 대한 출석·발언이나 서한에 의한 의견표시와 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_071",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의회 회의에 출석(열석)하여 의견을 진술한다는 문형이 대상 조문의 '國會에 出席하여 發言'·'意見을 表示' 부분과 구체적으로 대응한다. 다만 주체가 각 원장·부회 수장이고 서한 방식이 없다는 점에서 대응 범위는 출석·의견진술 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "의회 출석 및 의견 진술",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 發言하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "得列席陳述意見",
+          "commonality": "행정부 측 인사가 입법기관 회의에 출석하여 의견을 진술할 수 있다는 권한형 규율이라는 점이 같다.",
+          "difference": "후보의 주체는 관계 각 원의 원장과 각 부·회의 수장이고 대상은 대통령이며, 후보는 '입법원 개회 시'라는 시기 조건을 두는 반면 대상은 '중요한 국무'라는 사항 요건만 둔다."
+        },
+        {
+          "element": "수단의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "또는 서한으로 의견을 표시한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院開會時，關係院院長及各部會首長",
+          "commonality": "의견을 의회에 전달하는 국가기관의 권한을 규정한다는 점에서 공통된다.",
+          "difference": "후보는 출석에 의한 진술만을 규정하고 서한(문서)에 의한 의견표시라는 대체 수단을 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "전단은 대통령이 교서로 의회와 연락한다는 점에서 '서한으로 의견을 표시'와, 후단은 각원 출입·의견 청취라는 점에서 '출석하여 발언'과 각각 대응한다. 다만 후단의 주체는 장관이고 교서는 장관이 연단에서 낭독한다는 절차가 부가되어 있다.",
+      "evidence": [
+        {
+          "element": "서한(교서)에 의한 의사전달",
+          "target_field": "original_text",
+          "target_quote": "書翰으로 意見을 表示한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Président de la République communique avec les chambres par des messages",
+          "commonality": "대통령이 의회에 직접 나가지 않고 문서를 통해 의사를 전달하는 방식을 규정한 점이 같다.",
+          "difference": "후보는 교서를 장관이 의회 연단에서 낭독하는 절차를 부가하나, 대상은 그러한 전달 절차 규정이 없고 '중요한 국무'라는 사항 요건을 둔다."
+        },
+        {
+          "element": "의회 출석·발언",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회에 출석하여 발언하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les ministres ont leur entrée dans les deux chambres et doivent être entendus quand ils le demandent",
+          "commonality": "행정부 측이 의회에 출석하여 발언할 수 있다는 요소가 규정되어 있다.",
+          "difference": "후보에서 출석·발언의 주체는 장관이고 의회에 청취 의무가 부과되는 구조인 반면, 대상은 대통령 자신의 출석·발언을 규정하고 의회 측 의무에 관한 규율은 없다. 또한 후보는 양원제를 전제한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출 주체와 임기·재선에 관한 규정으로, 대상 조문의 국회에 대한 발언·서한 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 출석·발언 권한을 규정한다는 점에서 유사하지만, 주체가 내각총리대신·국무대신이고 발언 대상이 '의안'으로 한정되며 요구 시 출석 의무까지 규정하여, 대통령의 '중요한 국무'에 관한 출석·발언 및 서한 병렬 구조와는 구체적 규율 요소가 어긋난다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'重要한 國務에 關하여'라는 사항 한정 요건",
+    "출석·발언과 서한을 선택적으로 병렬('하거나 또는')한 구성",
+    "대통령 본인이 직접 출석하여 발언한다는 주체 설정(후보들은 장관·원장급 또는 교서 낭독 대리를 전제)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "FR1946 제37조와 FR1875 제6조는 제공된 프랑스어 원문과 번역문을 함께 참조했으며, '교서/서한'의 함의 비교는 번역에 일부 의존한다."
+  ],
+  "short_answer": "대상 조문은 ①대통령의 국회 출석·발언과 ②서한에 의한 의견표시라는 두 수단을 병렬로 규정하는데, 후보 중 FR1875 제6조가 두 요소(대통령 교서 + 의회 출석·발언)를 모두 담아 가장 넓게 대응하고, FR1946 제37조는 대통령의 교서에 의한 의회 연락이라는 점에서 서한 요소와 대응한다. ROC 제71조는 '列席陳述意見'이라는 출석·의견진술 문형에서 대응하나 주체가 각 원장·부회 수장이다. 다만 FR1875·ROC의 출석·발언 주체는 장관·원장급이어서 대통령 자신이 출석·발언한다는 대상의 주체 설정과 다르고, '중요한 국무'라는 사항 한정과 두 수단의 선택적 병렬 구조는 어느 후보로도 설명되지 않는다. JP 제63조·제72조는 주제상 유사하나 주체와 효과(의안 한정, 출석의무, 보고·지휘감독)가 달라 선택하지 않았고, 이상은 문언 대응일 뿐 역사적 영향의 확정은 아니다."
+}

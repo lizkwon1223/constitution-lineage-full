@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_046",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "46",
+    "original_text": "大統領, 副統領, 國務總理, 國務委員, 審計院長, 法官 其他 法律이 定하는 公務員의 그 職務遂行에 關하여 憲法 또는 法律에 違背한 때에는 國會는 彈劾의 訴追를 決議할 수 있다.\n國會의 彈劾訴追의 發議는 議員 50人以上의 連書가 있어야 하며 그 決議는 在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成이 있어야 한다.",
+    "workbook_text_ko": "대통령, 부통령, 국무총리, 국무위원, 심계원장, 법관 기타 법률이 정하는 공무원의 그 직무수행에 관하여 헌법 또는 법률에 위배한 때에는 국회는 탄핵의 소추를 결의할 수 있다.\n국회의 탄핵소추의 발의는 의원 50인이상의 연서가 있어야 하며 그 결의는 재적의원 3분지 2이상의 출석과 출석의원 3분지 2이상의 찬성이 있어야 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_IX",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "IX",
+      "original_text": "SECTION 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSEC. 2. The House of Representatives, by a vote of two-thirds of all its Members, shall have the sole power of impeachment.\nSEC. 3. The Senate shall have the sole power to try all impeachments. When sitting for that purpose, the Senators shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members of the Senate.\nSEC. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 하원은 재적의원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 상원은 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 상원의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 상원 재적의원 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_092",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "92",
+      "original_text": "監察院對於中央及地方公務員違法或失職時，經監察委員一人以上之提議，五人以上之審查決定，提出彈劾案，但對於總統副總統及行政立法司法考試監察各院院長副院長之彈劾案，須有監察委員十人以上之提議，全體監察委員二分一以上之審查決定，始得提出。",
+      "workbook_text_ko": "중앙 및 지방 공무원이 법을 위반하거나 직무를 태만히 한 때에는 감찰원은 감찰위원 1명 이상의 제의와 5명 이상의 심사·결정을 거쳐 탄핵안을 제출한다. 다만, 총통·부총통 및 행정원·입법원·사법원·고시원·감찰원 각 원의 원장·부원장에 대한 탄핵안은 감찰위원 10명 이상의 제의와 전체 감찰위원 2분의 1 이상의 심사·결정이 있어야 제출할 수 있다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_068",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "68",
+      "original_text": "(1) Der Bundespräsident ist für die Ausübung seiner Funktionen der Bundesversammlung gemäß Artikel 142 verantwortlich.\n(2) Zur Geltendmachung dieser Verantwortung ist die Bundesversammlung auf Beschluß des Nationalrates oder des Länder- und Ständerates vom Bundeskanzler einzuberufen.\n(3) Zu einem Beschluß, mit dem eine Anklage im Sinne des Artikels 142 erhoben wird, bedarf es der Anwesenheit von mehr als der Hälfte der Mitglieder jedes der beiden Vertretungskörper und einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.",
+      "workbook_text_ko": "(1) 연방대통령은 직무수행에 대하여 제142조에 따라 연방총회에 책임을 진다.\n(2) 이 책임을 추궁하기 위하여 연방총리는 국민의회 또는 주·직능참사원의 의결에 따라 연방총회를 소집하여야 한다.\n(3) 제142조에 따른 탄핵소추의 의결에는 두 대표기관 각각의 의원 과반수 출석과 투표수 3분의 2 이상의 찬성이 필요하다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_014",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "14",
+      "original_text": "政府主席 副主席 國務總長 及 國務委員에 對한 彈劾이나 議員의 除名은 在籍議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成이 있어야 함",
+      "workbook_text_ko": "정부주석·부주석·국무총장 및 국무위원에 대한 탄핵이나 의원의 제명은 재적의원 3분의 2 이상의 출석과 출석의원 3분의 2 이상의 찬성이 있어야 함."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_IX",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "IX",
+      "original_text": "Section 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSec. 2. The Commission on Impeachment of the National Assembly, by a vote of two-thirds of its Members, shall have the sole power of impeachment.\nSec. 3. The National Assembly shall have the sole power to try all impeachments. When sitting for that purpose the Members shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members who do not belong to the Commission on Impeachment.\nSec. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 국민의회 탄핵위원회는 위원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 국민의회는 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 탄핵위원회에 속하지 않는 전체 의원의 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_100",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "100",
+      "original_text": "監察院對於總統副總統之彈劾案，須有全體監察委員四分之一以上之提議，全體監察委員過半數之審查及決議，向國民大會提出之。",
+      "workbook_text_ko": "監察院이 提出하는 總統 또는 副總統에 對한 彈劾案은 全 監察委員 4分之1以上의 提議와 全 監察委員 過半數의 審査 및 決議가 있은 後 이를 國民大會에 提出하여야 한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_068",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "68",
+      "original_text": "(1) Der Bundespräsident ist für die Ausübung seiner Funktionen der Bundesversammlung gemäß Artikel 142 verantwortlich.\n(2) Zur Geltendmachung dieser Verantwortung ist die Bundesversammlung auf Beschluß des Nationalrates oder des Bundesrates vom Bundeskanzler einzuberufen.\n(3) Zu einem Beschluß, mit dem eine Anklage im Sinne des Artikels 142 erhoben wird, bedarf es der Anwesenheit von mehr als der Hälfte der Mitglieder jedes der beiden Vertretungskörper und einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.",
+      "workbook_text_ko": "(1) 연방대통령은 직무수행에 대하여 제142조에 따라 연방총회에 책임을 진다.\n(2) 이 책임을 추궁하기 위하여 연방총리는 국민의회 또는 연방참사원의 의결에 따라 연방총회를 소집하여야 한다.\n(3) 제142조에 따른 탄핵소추의 의결에는 두 대표기관 각각의 의원 과반수 출석과 투표수 3분의 2 이상의 찬성이 필요하다."
+    }
+  ]
+}

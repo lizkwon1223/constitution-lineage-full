@@ -1,0 +1,113 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_010",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_010",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "거주와 이전의 자유를 하나의 조문에 결합해 규정한 문형이 대상 조문 전단과 직접 대응한다. 다만 법률유보 문구와 주거 침입·수색 부분이 없어 대응 범위는 전단 권리 열거에 한정된다.",
+      "evidence": [
+        {
+          "element": "보장되는 자유의 내용(거주·이전의 결합)",
+          "target_field": "original_text",
+          "target_quote": "居住와 移轉의 自由",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有居住及遷徙之自由",
+          "commonality": "거주의 자유와 이전(천사)의 자유를 하나의 조문에서 함께 보장한다는 점이 같다.",
+          "difference": "후보는 권리 보유를 적극적으로 선언하는 형식이고 주체가 '人民'인 반면, 대상은 '모든 國民'을 주체로 하여 '제한받지 아니한다'는 소극적 형식이며 법률유보와 주거 침입·수색 금지를 추가한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "거주 장소에 대한 침입·수색을 법률에 의하지 않고는 할 수 없다는 규율 구조가 대상 조문 후단과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "주거 침입·수색 금지와 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는 居住와 移轉의 自由를 制限받지 아니하며 住居의 侵入 또는 搜索을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "其居住處所，非依法律不得侵入搜索或封錮",
+          "commonality": "주거(거주 처소)에 대한 '침입'과 '수색'을 나란히 열거하고, 법률에 의하지 않으면 허용되지 않는다는 법률유보를 둔 점이 같다.",
+          "difference": "후보는 '封錮(봉쇄)'까지 금지 대상에 포함하고 침입·수색 금지를 거주의 자유 조항 내부에만 두는 반면, 대상은 봉쇄를 빼고 이전의 자유 제한까지 같은 법률유보 문장에 묶어 규정한다."
+        },
+        {
+          "element": "거주의 자유 보장 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은 법률에 의하지 아니하고는 거주와 이전의 자유를 제한받지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有居住之自由",
+          "commonality": "거주의 자유를 헌법상 보장 대상으로 명시한다.",
+          "difference": "후보는 거주만 규정하고 이전의 자유는 별도 조문으로 분리하며, 권리 향유 선언형이라는 점에서 대상의 '제한받지 아니한다' 형식과 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_018",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노예적 구속과 의사에 반하는 고역 금지를 다루어 거주·이전의 자유나 주거 침입·수색과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_012",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "이전의 자유에 대해 '법률에 의하지 않고는 제한할 수 없다'는 법률유보 문형이 대상 조문 전단의 제한 방식과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "이전의 자유에 대한 법률유보",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하지 아니하고는 居住와 移轉의 自由를 制限받지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "人民有遷徙之自由，非依法律不得限制之",
+          "commonality": "이전(천사)의 자유에 대한 제한은 법률에 의할 때만 가능하다는 동일한 유보 구조와 '제한'이라는 효과 표현이 일치한다.",
+          "difference": "후보는 이전의 자유만을 대상으로 하고 국가에 대한 금지형('不得限制之')인 반면, 대상은 거주의 자유까지 함께 묶고 국민을 주어로 한 수동형('제한받지 아니하며')으로 표현한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_022",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "거주·이전의 자유를 보장하는 주제는 겹치나, 제한 기준이 '공공복리'이고 직업선택·국적이탈까지 포함해 대상의 법률유보 및 주거 침입·수색 구조와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률에 의한 자유 제약이라는 일반적 문형은 유사하나, 생명·자유 박탈과 형벌의 절차적 보장을 다루어 대상의 거주·이전 및 주거 침입·수색 규율과 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_035",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "주거에 대한 '침입'과 '수색'을 받지 아니할 권리라는 문언 요소가 대상 후단과 대응한다. 다만 후보는 영장주의라는 절차적 조건을 핵심으로 하므로 대응 범위는 보호객체와 침해태양 열거에 한정한다.",
+      "evidence": [
+        {
+          "element": "주거 침입·수색으로부터의 보호",
+          "target_field": "original_text",
+          "target_quote": "住居의 侵入 또는 搜索을 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その住居、書類及び所持品について、侵入、捜索及び押収を受けることのない権利",
+          "commonality": "주거에 대한 침입과 수색을 받지 아니할 권리를 명시한다는 점이 같다.",
+          "difference": "후보는 서류·소지품까지 보호객체로 넓히고 압수를 추가하며, 요건을 '정당한 이유에 기한 영장'이라는 절차적 조건과 제33조 예외로 구성하는 반면, 대상은 주거만을 객체로 하여 법률유보로만 규율하고 영장·예외 규정이 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "주체를 '모든 國民'으로 한정한 표현(후보들은 人民 또는 何人)",
+    "거주·이전의 자유와 주거 침입·수색 금지를 하나의 조문에 통합한 편성"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며 실제 참조·계수 여부는 제공된 본문만으로 확정할 수 없다.",
+    "후보 원문(중국어·일본어)과 대상 한국어 문언의 비교이므로 일부 용어 대응은 표기·번역 차이의 영향을 받을 수 있다."
+  ],
+  "short_answer": "대상 조문은 거주·이전의 자유에 대한 법률유보와 주거 침입·수색 금지를 한 조문에 묶은 구조로, 五五憲草 제11조(주거 침입·수색의 법률유보)와 제12조(이전의 자유 제한의 법률유보)가 각 부분과 가장 구체적으로 대응한다. 중화민국헌법 제10조는 거주와 이전의 자유를 결합해 규정한 점에서 전단의 권리 열거 방식과 대응하나 법률유보 문구가 없다. 일본국헌법 제35조는 '주거에 대한 침입·수색을 받지 아니할 권리'라는 문언이 후단과 겹치지만, 보호객체가 서류·소지품과 압수까지 확장되고 영장주의라는 절차 요건을 중심으로 하여 대응 범위가 제한된다. 일본국헌법 제22조는 제한 기준이 공공복리여서, 제18조·제31조는 규율 대상이 달라 선택하지 않았다. 이상은 문언 대응의 확인일 뿐 역사적 참조 관계의 확정은 아니다."
+}

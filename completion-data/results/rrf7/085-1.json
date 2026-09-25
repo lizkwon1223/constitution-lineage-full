@@ -1,0 +1,151 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_085",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_123",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「特許」라는 용어와 '필요에 의하여' 특허를 주고 법률에 따라 공영으로 되돌린다는 구조가 어휘상 겹치나, 규율 대상이 공용사업·독점적 기업의 국가공영 원칙과 사영 특허이고 대상 조문의 지하자원·수산자원·자연력의 국유 및 개발·이용 특허와는 객체가 다르다. 특허 취소가 아니라 국방상 긴급수요에 따른 임시관리·보상부 공영 전환이어서 효과도 다르다. 상용어 중복 수준을 넘는 구체적 요소 대응은 확인되지 않아 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_117",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "토지소유권의 보장·제한, 지가 신고에 따른 과세·수용, 토지의 충분한 이용 의무를 규율하여 대상 조문의 자원 국유화 및 개발·이용 특허와는 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XIII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1절이 광물·수역·잠재적 에너지원 등 천연자원의 국가 귀속을 선언하고, 천연자원의 개발·개량·이용에 관한 허가·특허·임대차를 일정 기간으로 한정하여 부여한다는 점에서 대상 조문의 '국유' 선언과 '일정한 기간 개발 또는 이용의 특허' 요소에 구체적으로 대응한다. 다만 국적·자본비율 제한, 25년이라는 구체적 기간, 양도금지 등은 대상 조문에 없고, 특허 취소와 공공필요 요건은 후보에 없어 대응 범위를 제1절의 두 요소로 한정한다.",
+      "evidence": [
+        {
+          "element": "자원의 국가 귀속 객체",
+          "target_field": "original_text",
+          "target_quote": "鑛物 其他 重要한 地下資源, 水産資源, 水力과 經濟上 利用할 수 있는 自然力은 國有로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "minerals, coal, petroleum, and other mineral oils, all forces of potential energy, and other natural resources of the Philippines belong to the State",
+          "commonality": "광물과 이용 가능한 에너지(자연력)를 포함한 천연자원 일반을 국가 소유로 선언하는 구성이 같다.",
+          "difference": "후보는 공유 농지·산림지·수역까지 열거하고 '수산자원'은 국유 객체로 명시하지 않으며, 대상은 '중요한' 지하자원으로 범위를 한정한다."
+        },
+        {
+          "element": "개발·이용의 기간 한정 특허",
+          "target_field": "original_text",
+          "target_quote": "一定한 期間 그 開發 또는 利用을 特許하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "no license, concession, or lease for the exploitation, development, or utilization of any of the natural resources shall be granted for a period exceeding twenty-five years",
+          "commonality": "천연자원의 개발·이용을 기간을 정하여 특허(concession)로 허용한다는 규율 방식이 대응한다.",
+          "difference": "후보는 25년 및 25년 갱신이라는 상한을 헌법에 직접 정하고 관개·어업 등 예외를 두지만, 대상은 기간을 '일정한 기간'으로만 두고 공공필요 요건과 법률유보에 맡긴다."
+        },
+        {
+          "element": "수력·수산 관련 취급",
+          "target_field": "workbook_text_ko",
+          "target_quote": "수산자원, 수력과 경제상 이용할 수 있는 자연력은 국유로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "except as to water rights for irrigation, water supply, fisheries, or industrial uses other than the development of water power",
+          "commonality": "어업(수산)과 수력 개발을 자원 이용 규율의 개별 항목으로 언급한다는 점이 겹친다.",
+          "difference": "후보는 이들을 기간제한의 예외 사유로 다루는 반면, 대상은 이들을 국유 객체로 열거한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1절 문언이 개정판과 사실상 동일하여, 천연자원의 국가 귀속과 개발·이용에 대한 기간 한정 특허라는 두 요소에서 대상 조문과 구체적으로 대응한다. 다만 국적·자본비율 요건, 구체적 기간·면적 규정은 대상에 없으며 특허 취소 규정도 후보에 없어 대응 범위는 제한적이다.",
+      "evidence": [
+        {
+          "element": "자원의 국가 귀속",
+          "target_field": "original_text",
+          "target_quote": "經濟上 利用할 수 있는 自然力은 國有로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "all forces of potential energy, and other natural resources of the Philippines belong to the State",
+          "commonality": "경제적으로 이용 가능한 에너지·자연력을 포함한 천연자원을 국가 소유로 귀속시킨다.",
+          "difference": "후보는 '잠재적 에너지원'을 공유지·수역 등과 함께 광범위하게 열거하고 처분 주체를 자국민·일정 자본비율 법인으로 제한한다."
+        },
+        {
+          "element": "개발 또는 이용의 특허",
+          "target_field": "workbook_text_ko",
+          "target_quote": "일정한 기간 그 개발 또는 이용을 특허하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "no license, concession, or lease for the exploitation, development, or utilization of any of the natural resources shall be granted for a period exceeding twenty-five years",
+          "commonality": "자원의 개발·이용을 기간이 정해진 특허·허가 형식으로 부여하는 규율이 같다.",
+          "difference": "후보는 헌법이 기간 상한과 갱신을 직접 정하는 금지형 문장이고, 대상은 공공필요라는 요건 아래 법률에 위임하는 수권형 문장이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_118",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'토지에 부착된 광물과 경제상 공중의 이용에 제공할 수 있는 자연력은 국가 소유'라는 문언이 대상 조문 전단의 객체 열거와 '경제상 이용할 수 있는 자연력'이라는 표현, 국유 선언 구조에 직접 대응한다. 다만 후보는 토지소유권 취득으로 영향받지 않는다는 효과만 규정하고, 수산자원·수력의 열거나 기간 특허·특허 취소·법률유보는 없다.",
+      "evidence": [
+        {
+          "element": "국유 객체와 '자연력' 표현",
+          "target_field": "original_text",
+          "target_quote": "鑛物 其他 重要한 地下資源, 水産資源, 水力과 經濟上 利用할 수 있는 自然力은 國有로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有",
+          "commonality": "광물과 '경제상 이용할 수 있는 자연력'을 국가 소유로 한다는 객체 설정과 문형이 매우 근접한다.",
+          "difference": "후보는 '토지에 부착된' 광물로 한정하고 수산자원·수력을 열거하지 않으며, 대상은 '기타 중요한 지하자원'까지 포괄한다."
+        },
+        {
+          "element": "국유의 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "경제상 이용할 수 있는 자연력은 국유로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "不因人民取得土地所有權而受影響",
+          "commonality": "자원의 국가 소유가 사인의 권리취득과 무관하게 유지된다는 취지가 국유 선언에 포함된다.",
+          "difference": "후보는 토지소유권과의 관계를 명시적 효과로 규정하지만, 대상은 이를 언급하지 않고 대신 특허·특허 취소의 법률유보를 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_146",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "과학기술을 통한 수리 흥수·지력 증진·농업자원 개발 등 국가의 농업정책 의무 규정으로, 자원의 국유 귀속이나 개발·이용 특허라는 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_143",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항이 토지에 부착된 광물과 경제상 공중의 이용에 제공할 수 있는 자연력의 국가 소유를 규정하여 대상 조문 전단의 객체·국유 선언과 구체적으로 대응한다. 다만 나머지 항(토지 국민 전체 귀속, 지가납세·수매, 토지증치세, 자작농 부식)은 대상 조문과 무관하므로 대응 범위를 제2항으로 한정하고, 특허 부여·취소와 법률유보는 후보에 없다.",
+      "evidence": [
+        {
+          "element": "광물·자연력의 국유",
+          "target_field": "original_text",
+          "target_quote": "鑛物 其他 重要한 地下資源, 水産資源, 水力과 經濟上 利用할 수 있는 自然力은 國有로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "附著於土地之礦，及經濟上可供公眾利用之天然力，屬於國家所有",
+          "commonality": "광물과 경제상 이용 가능한 자연력을 국가 소유로 귀속시키는 문형이 일치한다.",
+          "difference": "후보는 토지 부착 광물에 한정되고 수산자원·수력이 빠져 있으며, 조문 전체는 토지소유·과세 규율을 중심으로 한다."
+        },
+        {
+          "element": "자원 이용 규율의 체계적 위치",
+          "target_field": "workbook_text_ko",
+          "target_quote": "광물 기타 중요한 지하자원, 수산자원, 수력과 경제상 이용할 수 있는 자연력은 국유로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國領土內之土地屬於國民全體",
+          "commonality": "자원·토지의 귀속을 경제 관련 장에서 선언적으로 규정하는 방식이 유사하다.",
+          "difference": "후보는 토지를 '국민 전체'에 귀속시키는 반면 대상은 자원을 '국유'로 하며, 귀속 주체 표현이 다르다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'公共必要에 依하여'라는 특허의 요건",
+    "'特許를 取消함'이라는 특허 취소 권한과 그 법률유보('法律의 定하는 바에 依하여 行한다')",
+    "수산자원을 국유 객체로 명시한 부분",
+    "'기타 중요한 지하자원'이라는 포괄적 한정 표현"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 자료만으로 확정할 수 없다.",
+    "필리핀 후보는 영문이어서 어휘 대응 판단에 번역 이해가 개입할 수 있고, 두 필리핀 후보는 제1절이 사실상 동일해 독립적 근거로 보기 어렵다."
+  ],
+  "short_answer": "검토 결과 중화민국 五五憲草 제118조와 1946년 중화민국헌법 제143조 제2항은 '광물과 경제상 이용할 수 있는 자연력의 국가 소유'라는 객체 설정과 문형에서 대상 조문 전단과 가장 밀접히 대응한다. 필리핀헌법 제XII조(및 개정판 제XIII조) 제1절은 천연자원의 국가 귀속에 더하여 개발·이용에 대한 기간 한정 특허(concession) 규율을 두어 대상 조문 후단의 '일정한 기간 개발 또는 이용의 특허' 요소와 대응한다. 다만 필리핀 조문은 국적·자본비율 제한과 25년 기간 상한을 헌법에 직접 정하고 특허 취소를 규정하지 않으며, 중화민국 조문들은 토지소유권과의 관계만을 효과로 정한다는 점에서 차이가 크다. 五五憲草 제123조는 '特許' 용어와 필요·법률에 의한 공영 전환이 겹치지만 객체가 독점적 기업이어서 선택하지 않았다. 공공필요 요건, 특허 취소, 수산자원의 국유 명시는 제시된 후보들로 설명되지 않으며, 이는 문언 대응의 범위 판단일 뿐 역사적 참조 여부의 확정은 아니다."
+}

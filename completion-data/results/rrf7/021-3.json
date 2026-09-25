@@ -1,0 +1,111 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_021",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_025",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공민이 주권기관에 '청원'을 제출할 수 있다는 점에서 주제와 수령기관(국가기관) 설정이 겹치지만, 대상 조문의 특징적 요소인 '문서로써'라는 형식 요건과 '국가의 심사 의무'가 없고, 대신 신소·손해배상청구라는 별도 규율을 두어 규율 구조가 다르다. 주제어 수준의 중첩으로 판단한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_023",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무 복무 의무에 관한 조항으로 청원권·심사의무와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_018",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'請願'이라는 권리 명칭이 공통되지만, 소원·소송과 묶인 포괄적 권리 규정이고 '법률에 따라'라는 법률유보만 두며, 문서 형식 요건이나 국가의 심사 의무 규정이 없어 대상 조문의 구체적 규율 요소와의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_126",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "청원권의 주체 일반화, 수령기관 지정, 그리고 '서면으로'라는 형식 요건이라는 구체적 규율 요소가 대상 조문과 대응한다. 다만 국가의 심사 의무 규정은 없고 개인·다수 공동행사 규정이 추가되어 있어 대응 범위는 주체·형식·수령기관에 한정된다.",
+      "evidence": [
+        {
+          "element": "청원의 형식 요건(문서)",
+          "target_field": "original_text",
+          "target_quote": "文書로써 請願을 할 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "hat das Recht, sich schriftlich mit Bitten oder Beschwerden",
+          "commonality": "청원을 서면(문서) 형식으로 하는 권리로 규정한다.",
+          "difference": "후보는 청원(Bitten)과 소원(Beschwerden)을 병기하나 대상은 '청원'만 규정한다."
+        },
+        {
+          "element": "권리주체와 수령기관",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 國家 各機關에 對하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Jeder Deutsche",
+          "commonality": "국민 일반을 주체로 삼아 국가기관을 상대로 하는 권리로 구성한다.",
+          "difference": "후보는 수령기관을 '관할관청 또는 국민대표기관'으로 특정하는 반면 대상은 '국가 각기관'으로 포괄한다."
+        },
+        {
+          "element": "권리 행사 방식·효과",
+          "target_field": "original_text",
+          "target_quote": "請願에 對하여 國家는 審査할 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dieses Recht kann sowohl von einzelnen als auch von mehreren gemeinsam ausgeübt werden.",
+          "commonality": "청원권 규정에 제1문 외 제2문을 두어 권리의 추가적 규율을 덧붙이는 문형을 취한다.",
+          "difference": "대상 제2문은 국가의 심사 의무라는 효과 규정인 반면 후보 제2문은 단독·공동 행사 가능성 규정으로 내용이 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_007",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가기관에 대하여' 청원(요구)할 권리라는 문형과 수령기관 설정이 대상 조문과 구체적으로 대응한다. 다만 후보는 청원·허원·행정재판 요구·제소를 항별로 열거하고 문서 형식 요건과 국가의 심사 의무가 없어 대응 범위는 주체·수령기관·청원권 자체에 한정된다.",
+      "evidence": [
+        {
+          "element": "청원의 상대방(국가기관) 문형",
+          "target_field": "original_text",
+          "target_quote": "國家 各機關에 對하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家機關에 對하여",
+          "commonality": "국민이 '국가기관에 대하여' 권리를 행사한다는 동일한 문형을 사용한다.",
+          "difference": "대상은 '각기관'으로 일원적으로 포괄하나 후보는 입법의원·정부주석 및 행정기관 등으로 나누어 열거한다."
+        },
+        {
+          "element": "청원권의 내용",
+          "target_field": "workbook_text_ko",
+          "target_quote": "청원을 할 권리가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院에 請願하는 權利",
+          "commonality": "국민의 청원권을 헌법상 권리로 명시한다.",
+          "difference": "후보는 청원 상대를 입법의원으로 한정하고 행정기관에는 '허원'을 따로 두며, 문서 형식 요건과 심사 의무는 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "생존권과 국가의 사회보장 노력의무 규정으로, 청원권 및 심사의무와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "교육을 받을 권리와 취학 의무 규정으로 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "청원에 대한 국가의 '심사할 의무'(제2문)에 대응하는 규정이 제시된 후보들에서 확인되지 않는다",
+    "수령기관을 '국가 각기관'으로 포괄 지정하는 방식(기관 열거 없이 일원화)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토한 것이며 실제 참조·영향 관계는 제공 본문만으로 확정할 수 없다",
+    "바이마르 헌법 후보는 독일어 원문을 근거로 하였으므로 '서면'·'청원' 대응은 번역 이해에 일부 의존한다"
+  ],
+  "short_answer": "바이마르 헌법 제126조와 조선임시약헌 제7조가 후속 비교에 유용한 후보다. 전자는 '모든 국민(독일인)'의 주체 일반화, 국가기관을 상대로 한 청원, 그리고 'schriftlich(서면)'라는 형식 요건이 대상 조문의 '문서로써'와 구체적으로 대응하고, 후자는 '國家機關에 對하여 … 請願하는 權利'라는 문형과 수령기관 설정이 대응한다. 다만 두 후보 모두 대상 제2문의 '국가의 심사 의무'를 규정하지 않고, 바이마르는 청원·소원 병기 및 단독·공동 행사 규정, 약헌은 기관별 열거(청원/허원/행정재판/제소)라는 점에서 차이가 크다. 북한 헌법안 제25조와 五五憲草 제18조는 '청원'이라는 주제·용어가 겹치지만 형식 요건과 심사 의무가 없고 신소·배상 또는 소원·소송과 결합된 다른 구조여서 일반적 유사로 보았다. 일본국헌법 제25·26조와 五五憲草 제23조는 규율 대상이 달라 무관하다."
+}

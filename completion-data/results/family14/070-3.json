@@ -1,0 +1,162 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_070",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "내각총리대신을 내각의 '首長'으로 규정하나, 대통령의 국무회의 의장직이나 총리의 부의장직·보좌 규정은 없고 문민조항·연대책임에 초점이 있어 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 국무기관의 '의장(Vorsitz)' 지위를 특정 직위에 부여하는 문형이 대상 제1문과 대응한다. 다만 의장이 되는 주체가 주수상이고 사무 지휘권까지 부여하는 점, 부의장 규정이 없는 점에서 대응 범위는 의장직 조항에 한정된다.",
+      "evidence": [
+        {
+          "element": "국무회의 의장 지위 부여",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國務會議의 議長이 된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Ministerpräsident führt den Vorsitz im Staatsministerium",
+          "commonality": "특정 직위 보유자가 합의제 국무기관의 의장(주재자)이 된다고 헌법이 직접 규정하는 구조",
+          "difference": "대상은 대통령이 의장, 후보는 주수상이 의장이며 후보는 사무 지휘권(leitet dessen Geschäfte)까지 부여하고 부의장직은 두지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령·부통령 선거인단 투표와 계표 절차 규정으로, 국무회의 의장·부의장 구성과 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국무회의(Conseil des ministres)'라는 기관 명칭은 공유하지만, 대통령 궐위 시 행정권 대행을 정한 것으로 의장·부의장 지위 규정과는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_039",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의장직(Vorsitz) 배정 규정이나 대상 기관이 연방총회(입법기관)이고 두 의장이 교대로 맡는 구조여서 행정부 국무회의의 의장·부의장 규율과는 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "섭정 선출과 국무원의 정부 운영에 관한 규정으로, 대상의 의장·부의장 지위 규정과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_054",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "원장·부원장이라는 정·부 직위 병치는 유사하지만 회의체의 의장·부의장 지위나 대통령의 주재 규정이 없어 구체적 규율 대응이 부족하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 행정권·내각 구성원 임명 등을 광범히 규정하나, 대통령이 국무회의 의장이 되고 총리가 부의장이 된다는 회의체 주재 구조에 대응하는 문언은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_060",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행정회의의 구성원으로 원장·부원장을 두고 원장을 주석(主席)으로 명시하여, 회의체 주재자를 헌법이 직접 지정하는 문형이 대상 제1문과 대응한다. 다만 부원장에게 부의장 지위를 주지 않고 주재자가 대통령이 아니어서 대응은 주재자 지정 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "회의체 주재자 지정",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國務會議의 議長이 된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "以行政院院長爲主席",
+          "commonality": "헌법이 국무·행정 합의체의 주재자를 특정 직위에 직접 부여하는 규정 방식",
+          "difference": "대상은 국가원수인 대통령이 의장, 후보는 행정원 원장이 주석이며 후보는 회의 구성원(정무위원 등)까지 함께 규정한다"
+        },
+        {
+          "element": "정·부 직위의 병치",
+          "target_field": "original_text",
+          "target_quote": "國務總理는 大統領을 輔佐하며 國務會議의 副議長이 된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "由行政院院長副院長，及政務委員組織之",
+          "commonality": "정(正)·부(副) 직위가 같은 회의체와 관련되어 함께 규정된다는 점",
+          "difference": "후보의 부원장은 구성원일 뿐 부의장 지위나 상급자 보좌 의무가 없고, 대상은 총리에게 대통령 보좌 의무와 부의장직을 명시한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_053",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "수상·장관의 임면권 규정으로, 국무회의 의장·부의장 지위라는 대상 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_032",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 국무회의를 주재한다는 주체·기관·효과가 대상 제1문과 직접 대응한다. 다만 후보는 회의록 작성·보관 의무를 추가하고 부의장(총리) 규정이 없다.",
+      "evidence": [
+        {
+          "element": "대통령의 국무회의 주재",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 국무회의의 의장이 된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président de la République préside le Conseil des ministres.",
+          "commonality": "국가원수인 대통령이 국무회의를 주재하는 지위를 헌법이 직접 규정",
+          "difference": "대상은 '의장이 된다'는 지위 부여 형식이고 후보는 '주재한다'는 권능 형식이며, 후보에는 회의록 작성·보관 의무가 부가되고 부의장 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_039",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의장·부의장을 함께 두는 용어상 병치는 있으나 최고인민회의가 스스로 선거하는 입법기관 의장직이고 대통령·총리라는 주체 및 보좌 의무가 없어 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_055",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국무대신이 원수를 '輔弼'한다는 보좌 구조는 대상의 '大統領을 輔佐하며'와 어의상 유사하나, 주체가 각 국무대신이고 책임·부서 절차에 초점이 있어 국무회의 부의장 지위와는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_028",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'國務會議의 議長이 되며'라는 문언이 대상 제1문과 거의 동일한 어구로 대응한다. 다만 의장이 되는 주체가 국무총장이고 행정 각부장 통할권이 결합되어 있어, 대상에서 대통령이 의장·총리가 부의장이 되는 이원 구조와는 배치가 다르다.",
+      "evidence": [
+        {
+          "element": "국무회의 의장 지위 문형",
+          "target_field": "original_text",
+          "target_quote": "國務會議의 議長이 된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務會議의 議長이 되며",
+          "commonality": "'국무회의의 의장이 된다'는 동일한 한국어 법문형으로 회의체 의장 지위를 부여",
+          "difference": "후보는 국무위원 수반인 국무총장이 의장이고 행정 각부장 통할권을 함께 가지며, 대상은 대통령이 의장이고 국무총리는 보좌·부의장에 그친다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "국무총리를 '국무회의 부의장'으로 명시하는 규정",
+    "국무총리의 대통령 보좌 의무와 의장·부의장 지위가 한 조문에서 결합된 이원적 구조"
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언상 대응 여부만 판단할 수 있고, 실제 참조·영향 관계는 확정할 수 없다",
+    "일부 후보는 번역문에서만 '의장/부의장' 어구가 드러나므로 원문 어휘(Vorsitz, 主席 등)와의 개념 차이를 고려해야 한다"
+  ],
+  "short_answer": "대상 조문의 핵심은 ①대통령이 국무회의 의장이 된다는 점과 ②국무총리가 대통령을 보좌하며 부의장이 된다는 점이다. 이 중 ①에 대해서는 프랑스 제4공화국헌법 제32조(대통령이 국무회의를 주재), 프로이센 자유주헌법 제47조 제1항(주수상이 주내각 의장), 중화민국 五五憲草 제60조(행정원장이 행정회의 주석), 조선임시약헌 제28조('국무회의의 의장이 되며')가 회의체 주재자 지정이라는 규율 요소에서 구체적으로 대응한다. 차이는 주재 주체가 대통령인지 수상·원장·국무총장인지, 그리고 회의록 보관·사무 지휘·각부 통할 등 부가 권능의 유무에 있다. ②의 부의장 지위와 보좌 의무를 함께 규정한 문언은 제시 후보에서 직접 대응하는 예를 찾기 어렵고, 일본제국헌법 제55조의 '輔弼'이나 북한 헌법안 제39조의 '議長 및 副議長'은 주체와 기관이 달라 일반적 유사성에 그친다. 이상은 문언상 대응 판단이며 역사적 참조 관계의 확정은 아니다."
+}

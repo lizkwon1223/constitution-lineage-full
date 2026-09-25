@@ -1,0 +1,66 @@
+{
+  "article": 8,
+  "reviewed_at": "2026-09-22T15:10:57.264328+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "78fd2d0d78c67f9c64fdc0a8194c9efc07f2592c589b1a5c185b807dff4f7fcd",
+  "input_sha256": "8d3939c351663199f47956df5fb4622305d03dd47f92a9365c7d7d8e2450b4cf",
+  "responses": [
+    {
+      "job_id": "008_d58bbb15d193_r1",
+      "repeat": 1,
+      "sha256": "a6c3849b38dbf1eb4ec28d590d91615743a03120b925dc71392e00c093d322c4",
+      "assessment": "일본 제14조의 세 항 구조와 바이마르·프로이센·오스트리아·북한안의 부분 대응은 타당함. 필리핀의 평등보호·귀족칭호 수여 법률 금지는 보조 비교로 보완할 수 있음."
+    },
+    {
+      "job_id": "008_d58bbb15d193_r2",
+      "repeat": 2,
+      "sha256": "2edc6dec2f260f4f12fb00f756b7a86cb487c43876671d171d36ac13086f7716",
+      "assessment": "주된 다섯 후보의 요소별 설명은 지지됨. 일본1889의 수여 권한과 대상의 영전 효과 제한을 반대라고 한 판단은 수정 필요함. 북한안에 없다는 것은 평등 일반이 아니라 법 앞의 평등이라는 명시 문구임."
+    },
+    {
+      "job_id": "008_d58bbb15d193_r3",
+      "repeat": 3,
+      "sha256": "84f8dbe9f4f7336bcff45597fb6ca27975f686b45a07888ec6c32bc98995b69b",
+      "assessment": "주된 대응의 배열과 차이는 타당함. 일본1889의 대조 분류 및 신조와 신앙의 동일시는 한정해야 함."
+    }
+  ],
+  "synthesis": "일본 제14조는 평등·사유와 영역별 차별금지, 귀족제도 불인정, 영전의 무특권이라는 세 항의 구성까지 대응함. 신조와 신앙, 귀족제도와 사회적 특수계급, 영전의 일대 한정과 수령자의 영예 한정은 차이로 유지함. 바이마르는 훈장 수여 자체를 금지하므로 영전의 효력만 제한하는 대상과 구별됨. 프로이센·오스트리아는 평등과 신분 특권 배제, 북한안은 사유·생활영역 열거의 부분 대응임. 필리핀의 평등보호와 귀족칭호 수여 법률 금지도 좁은 범위의 보조 비교로 남길 수 있음.",
+  "issues": [
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "JP1889_ORIGINAL_ART_015",
+      "type": "false_contrast",
+      "severity": "material",
+      "finding": "영전 수여 권한을 정한 것만으로 수여 효과를 영예에 한정한 규정과 반대라고 단정함. 권한과 효과는 다른 규율 차원임.",
+      "action": "수여 어휘의 공통점과 권한/효과의 차이로 기술함. 작위·귀족제도 문제는 별도 요소로 비교함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_014",
+      "type": "terminology",
+      "severity": "minor",
+      "finding": "신조(신앙)라고 병기하여 信条와 信仰의 표현·범위 차이가 사라짐.",
+      "action": "공통 사유는 성별·사회적 신분으로 분명히 하고 신조와 신앙은 차이로 명시함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_011",
+      "type": "summary_imprecision",
+      "severity": "minor",
+      "finding": "요약에서 평등 선언이 없다고 하였으나 원문은 동등한 권리를 명시함. 후보별 근거는 법률 앞 평등 문구의 부재라고 정확히 구별함.",
+      "action": "요약을 법 앞의 평등이라는 명시 문구가 없음으로 한정함."
+    }
+  ],
+  "limits": [
+    "특권·귀족제도를 인정하지 않는다는 규정에 장래 효력이 없다고 해석하지 않음. 대상에서 창설 금지가 명시적으로 추가되었다는 문언 차이만 확정함.",
+    "바이마르와 대상이 특권 방지라는 문제의식을 공유한다는 설명은 기능적 해석이며 동일한 역사적 입법 의도를 확인한 것은 아님."
+  ]
+}

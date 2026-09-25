@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_067",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "67",
+    "original_text": "大統領은 內亂 또는 外患의 罪를 犯한 때 以外에는 在職中 刑事上의 訴追를 받지 아니한다.",
+    "workbook_text_ko": "대통령은 내란 또는 외환의 죄를 범한 때 이외에는 재직중 형사상의 소추를 받지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1946_ORIGINAL_ART_021",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "21",
+      "original_text": "Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "국회의원은 그 직무상 표명한 의견 또는 표결을 이유로 소추되거나\n수사를 받거나 체포ㆍ구류되거나(détenu) 또는 재판을 받지 아니한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_023",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "23",
+      "original_text": "政府主席은 內亂 外患에 關한 犯罪 以外에는 在職中 刑事上의 訴追를 받지 아니함",
+      "workbook_text_ko": "정부주석은 내란·외환에 관한 범죄 이외에는 재직 중 형사상의 소추를 받지 아니함."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "13",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "어느 원의 어떤 의원도 그 직무행사에서 그가 표명한 의견 또는 투표\n에 대해서 소추를 받거나 추궁되지 아니한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_061",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "61",
+      "original_text": "Der Bundespräsident darf während seiner Amtstätigkeit keinem allgemeinen Vertretungskörper angehören und keinen anderen Beruf ausüben.",
+      "workbook_text_ko": "연방대통령은 재직 중 어느 일반 대표기관에도 속할 수 없고 다른 직업에 종사할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_054",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "54",
+      "original_text": "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。",
+      "workbook_text_ko": "총통은 내란죄나 외환죄를 범한 경우를 제외하고는 파면되거나 퇴임하기 전에는 형사상 소추를 받지 않는다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_018",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "18",
+      "original_text": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함\n議員은 院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함",
+      "workbook_text_ko": "의원은 내란·외환에 관한 범죄 또는 현행범 이외에는 회기 중 원의 허락 없이 체포·심문을 받지 아니함.\n의원은 원내에서 행한 발언 및 표결에 대하여 원외에서 책임을 지지 아니함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_052",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "52",
+      "original_text": "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。",
+      "workbook_text_ko": "總統은 內亂罪 또는 外患罪를 犯한 境遇를 除外하고는 罷免또는 解職된 후가 아니면 刑事上의 訴追를 받지 아니한다."
+    }
+  ]
+}

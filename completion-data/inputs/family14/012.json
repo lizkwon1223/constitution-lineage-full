@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_012",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "12",
+    "original_text": "모든 國民은 信仰과 良心의 自由를 가진다.\n國敎는 存在하지 아니하며 宗敎는 政治로부터 分離된다.",
+    "workbook_text_ko": "모든 국민은 신앙과 양심의 자유를 가진다.\n국교는 존재하지 아니하며 종교는 정치로부터 분리된다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1850_ORIGINAL_ART_012",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "12",
+      "original_text": "Die Freiheit des religiösen Bekenntnisses, der Vereinigung zu Religionsgesellschaften (Art. 30. und 31.) und der gemeinsamen häuslichen und öffentlichen Religionsübung wird gewährleistet. Der Genuß der bürgerlichen und staatsbürgerlichen Rechte ist unabhängig von dem religiösen Bekenntnisse. Den bürgerlichen und staatsbürgerlichen Pflichten darf durch die Ausübung der Religionsfreiheit kein Abbruch geschehen.",
+      "workbook_text_ko": "종교적 신앙 고백, 종교단체\n결성(제30조와 제31조) 그리고 가정\n및 공개적인 곳에서 공동으로 하는\n종교활동의 자유는 보장된다. 시민적\n권리와 국민의 권리의 향유는 종교적\n신앙의 고백에 영향받지 않는다. 시민\n적 의무와 국민의 의무는 종교의 자\n유의 행사에 의해 어떠한 손상도 입어서는 안 된다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "III",
+      "original_text": "SECTION 1. (1) No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws.\n(2) Private property shall not be taken for public use without just compensation.\n(3) The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures shall not be violated, and no warrants shall issue but upon probable cause, to be determined by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched, and the persons or things to be seized.\n(4) The liberty of abode and of changing the same within the limits prescribed by law shall not be impaired.\n(5) The privacy of communication and correspondence shall be inviolable except upon lawful order of the court or when public safety and order require otherwise.\n(6) The right to form associations or societies for purposes not contrary to law shall not be abridged.\n(7) No law shall be made respecting an establishment of religion, or prohibiting the free exercise thereof, and the free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed. No religious test shall be required for the exercise of civil or political rights.\n(8) No law shall be passed abridging the freedom of speech, or of the press, or the right of the people peaceably to assemble and petition the Government for redress of grievances.\n(9) No law granting a title of nobility shall be enacted, and no person holding any office of profit or trust shall, without the consent of the Congress of the Philippines, accept any present, emolument, office, or title of any kind whatever from any foreign state.\n(10) No law impairing the obligation of contracts shall be passed.\n(11) No ex post facto law or bill of attainder shall be enacted.\n(12) No person shall be imprisoned for debt or nonpayment of a poll tax.\n(13) No involuntary servitude in any form shall exist except as a punishment for crime whereof the party shall have been duly convicted.\n(14) The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion, insurrection, or rebellion, when the public safety requires it, in any of which events the same may be suspended wherever during such period the necessity for such suspension shall exist.\n(15) No person shall be held to answer for a criminal offense without due process of law.\n(16) All persons shall before conviction be bailable by sufficient sureties, except those charged with capital offenses when evidence of guilt is strong. Excessive bail shall not be required.\n(17) In all criminal prosecutions the accused shall be presumed to be innocent until the contrary is proved, and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witnesses in his behalf.\n(18) No person shall be compelled to be a witness against himself.\n(19) Excessive fines shall not be imposed, nor cruel and unusual punishment inflicted.\n(20) No person shall be twice put in jeopardy of punishment for the same offense. If an act is punished by a law and an ordinance, conviction or acquittal under either shall constitute a bar to another prosecution for the same act.\n(21) Free access to the courts shall not be denied to any person by reason of poverty.",
+      "workbook_text_ko": "제1절. (1) 누구도 적법절차 없이 생명·자유 또는 재산을 박탈당하지 않으며, 누구에게도 법률의 평등한 보호를 거부할 수 없다.\n(2) 정당한 보상 없이 사유재산을 공공용도로 수용할 수 없다.\n(3) 불합리한 수색·압수로부터 신체·주거·문서 및 소지품의 안전을 보장받을 국민의 권리는 침해할 수 없다. 영장은 고소인과 그가 제시하는 증인을 선서 또는 확약 아래 심문한 뒤 판사가 판단하는 상당한 이유가 있어야 하고, 수색할 장소와 체포할 사람 또는 압수할 물건을 특정하여야 발부할 수 있다.\n(4) 법률이 정한 범위 안에서 거주하고 거주지를 변경할 자유는 침해할 수 없다.\n(5) 통신과 서신의 비밀은 법원의 적법한 명령이 있거나 공공의 안전과 질서가 달리 요구하는 경우를 제외하고는 침해할 수 없다.\n(6) 법률에 반하지 않는 목적을 위하여 단체나 결사를 조직할 권리를 제한할 수 없다.\n(7) 국교의 수립에 관한 법률이나 종교의 자유로운 행사를 금지하는 법률을 제정할 수 없다. 차별이나 우대 없이 종교적 신앙과 예배를 자유롭게 실천하고 향유하는 것은 영구히 허용한다. 시민적 또는 정치적 권리의 행사에 종교적 심사를 요구할 수 없다.\n(8) 언론·출판의 자유 또는 국민이 평화롭게 집회하고 고충의 구제를 위하여 정부에 청원할 권리를 제한하는 법률을 제정할 수 없다.\n(9) 귀족 칭호를 부여하는 법률을 제정할 수 없다. 보수나 신임을 수반하는 공직에 있는 사람은 필리핀 의회의 동의 없이 외국으로부터 어떠한 종류의 선물·보수·직위 또는 칭호도 받을 수 없다.\n(10) 계약상 의무를 침해하는 법률을 제정할 수 없다.\n(11) 소급처벌법이나 사권박탈법을 제정할 수 없다.\n(12) 누구도 채무나 인두세 미납 때문에 구금되지 않는다.\n(13) 적법하게 유죄판결을 받은 범죄에 대한 처벌을 제외하고는 어떠한 형태의 강제노역도 존재할 수 없다.\n(14) 인신보호영장의 특권은 침략·반란 또는 모반이 있고 공공의 안전이 요구하는 경우를 제외하고는 정지할 수 없다. 이러한 사태에서는 그 기간 중 정지할 필요가 있는 곳에서만 정지할 수 있다.\n(15) 누구도 적법절차 없이 형사범죄에 대한 책임을 추궁받지 않는다.\n(16) 사형에 해당하는 범죄로 기소되고 유죄의 증거가 강한 경우를 제외하고는 모든 사람은 유죄판결 전에 충분한 보증을 제공하여 보석될 수 있다. 과도한 보석보증금을 요구할 수 없다.\n(17) 모든 형사소추에서 피고인은 반대의 증명이 있을 때까지 무죄로 추정되며, 자신과 변호인을 통하여 진술할 권리, 공소의 성질과 이유를 통지받을 권리, 신속하고 공개된 재판을 받을 권리, 증인과 대면할 권리 및 자신을 위한 증인의 출석을 확보할 강제절차를 이용할 권리를 가진다.\n(18) 누구도 자신에게 불리한 증인이 되도록 강요받지 않는다.\n(19) 과도한 벌금이나 잔혹하고 이례적인 형벌을 부과할 수 없다.\n(20) 누구도 같은 범죄로 두 번 처벌의 위험에 놓이지 않는다. 하나의 행위가 법률과 조례에 따라 처벌되는 경우, 어느 하나에 따른 유죄 또는 무죄의 판단은 같은 행위에 대한 다른 소추를 막는다.\n(21) 누구도 빈곤을 이유로 법원에 자유롭게 접근할 권리를 거부당하지 않는다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_135",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "135",
+      "original_text": "Alle Bewohner des Reichs genießen volle Glaubens- und Gewissensfreiheit. Die ungestörte Religionsübung wird durch die Verfassung gewährleistet und steht unter staatlichem Schutz. Die allgemeinen Staatsgesetze bleiben hiervon unberührt.",
+      "workbook_text_ko": "제국의 모든 주민은 신앙 및 양심의 완전한 자유를 향유한다. 종교행사는 방해됨이 없도록 헌법에 의해서 보장되며 국가의 보호를 받는다. 국가의 일반 법률은 이로 인해 법적 효력을 상실해서는 안 된다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "I",
+      "original_text": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",
+      "workbook_text_ko": "연방의회는 국교의 수립에 관한 법률이나 자유로운 신앙 행위를 금지하는 법률을 제정할 수 없다. 또한 언론･출판의 자유\n나 평화로이 집회할 수 있는 국민의 권리 및 고충의 구제\n를 위하여 정부에 청원할 수 있는 권리를 제한하는 법률을\n제정할 수 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_010",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "10",
+      "original_text": "Die Abgeordneten stimmen nach ihrer freien, nur durch die Rücksicht auf das Volkswohl bestimmten Überzeugung; an Aufträge und Weisungen sind sie nicht gebunden.",
+      "workbook_text_ko": "의원은 오직 국민의 복리를 고려하여 형성된 자유로운 확신에 따라 표결하며, 위임이나 지시에 구속되지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_013",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "13",
+      "original_text": "人民有信仰宗教之自由。",
+      "workbook_text_ko": "人民은 宗敎를 信仰하는 自由를 가진다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_007",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "7",
+      "original_text": "(1) Alle Bundesbürger sind vor dem Gesetz gleich. Vorrechte der Geburt, des Geschlechtes, des Standes, der Klasse und des Bekenntnisses sind ausgeschlossen.\n(2) Den öffentlichen Angestellten, einschließlich der Angehörigen des Bundesheeres, ist die ungeschmälerte Ausübung ihrer politischen Rechte gewährleistet.",
+      "workbook_text_ko": "(1) 모든 연방시민은 법 앞에 평등하다. 출생·성별·신분·계급 및 신앙에 따른 특권은 인정되지 않는다.\n(2) 연방군 구성원을 포함한 공무원에게는 정치적 권리의 온전한 행사가 보장된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_015",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "15",
+      "original_text": "人民有信仰宗教之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 종교 신앙의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_013",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "13",
+      "original_text": "すべて国民は、個人として尊重される。生命、自由及び幸福追求に対する国民の権利については、公共の福祉に反しない限り、立法その他の国政の上で、最大の尊重を必要とする。",
+      "workbook_text_ko": "모든 국민은 개인으로서 존중된다. 생명, 자유 및 행복추구에 대한 국민의 권리는 공공복리에 반하지 아니하는 한 입법 그 밖의 국정에 있어 최대한 존중된다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_PREAMBLE",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": null,
+      "original_text": "Au lendemain de la victoire remportée par les peuples libres sur les régimes qui ont tenté d'asservir et de dégrader la personne humaine, le peuple français proclame à nouveau que tout être humain, sans distinction de race, de religion ni de croyance, possède des droits inaliénables et sacrés. Il réaffirme solennellement les droits et libertés de l'homme et du citoyen consacrés par la Déclaration des droits de 1789 et les principes fondamentaux reconnus par les lois de la République.\nIl proclame, en outre, comme particulièrement nécessaires à notre temps, les principes politiques, économiques et sociaux ci-après :\nLa loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme.\nTout homme persécuté en raison de son action en faveur de la liberté a droit d'asile sur les territoires de la République.\nChacun a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut être lésé, dans son travail ou son emploi, en raison de ses origines, de ses opinions ou de ses croyances.\nTout homme peut défendre ses droits et ses intérêts par l'action syndicale et adhérer au syndicat de son choix.\nLe droit de grève s'exerce dans le cadre des lois qui le réglementent.\nTout travailleur participe, par l'intermédiaire de ses délégués, à la détermination collective des conditions de travail ainsi qu'à la gestion des entreprises.\nTout bien, toute entreprise, dont l'exploitation a ou acquiert les caractères d'un service public national ou d'un monopole de fait, doit devenir la propriété de la collectivité.\nLa Nation assure à l'individu et à la famille les conditions nécessaires à leur développement.\nElle garantit à tous, notamment à l'enfant, à la mère et aux vieux travailleurs, la protection de la santé, la sécurité matérielle, le repos et les loisirs. Tout être humain qui, en raison de son âge, de son état physique ou mental, de la situation économique, se trouve dans l'incapacité de travailler a le droit d'obtenir de la collectivité des moyens convenables d'existence.\nLa Nation proclame la solidarité et l'égalité de tous les Français devant les charges qui résultent des calamités nationales.\nLa Nation garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation professionnelle et à la culture. L'organisation de l'enseignement public gratuit et laïque à tous les degrés est un devoir de l'Etat.\nLa République française, fidèle à ses traditions, se conforme aux règles du droit public international. Elle n'entreprendra aucune guerre dans des vues de conquête et n'emploiera jamais ses forces contre la liberté d'aucun peuple.\nSous réserve de réciprocité, la France consent aux limitations de souveraineté nécessaires à l'organisation et à la défense de la paix.\nLa France forme avec les peuples d'outre-mer une Union fondée sur l'égalité des droits et des devoirs, sans distinction de race ni de religion.\nL'Union française est composée de nations et de peuples qui mettent en commun ou coordonnent leurs ressources et leurs efforts pour développer leurs civilisations respectives, accroître leur bien-être et assurer leur sécurité.\nFidèle à sa mission traditionnelle, la France entend conduire les peuples dont elle a pris la charge à la liberté de s'administrer eux-mêmes et de gérer démocratiquement leurs propres affaires ; écartant tout système de colonisation fondé sur l'arbitraire, elle garantit à tous l'égal accès aux fonctions publiques et l'exercice individuel ou collectif des droits et libertés proclamés ou confirmés ci-dessus.",
+      "workbook_text_ko": "1. 인간을 노예로 만들고, 품격을 떨어뜨리고자 했던 체제\n에 대해 자유로운 인민들이 승리를 쟁취한 다음날 프랑\n스 인민은 인종, 종교, 믿음의 구별 없이 모든 인간은 양\n도할 수 없고 성스러운 권리를 가진다는 점을 새로이 선\n언한다. 프랑스 인민은 1789년의 권리선언에 의해 규정된 인간과 시민의 권리와 자유, 그리고 공화국 법률에 의해 인정된 기본적 원칙을 엄숙히 재천명한다.\n2. 뿐만 아니라, 프랑스 인민은 우리 시대에 특히 필요한\n다음과 같은 정치적･경제적･사회적 원칙을 선언한다:\n3. 법률은 모든 영역에 있어서 여성에게 남성과 동등한 권\n리를 보장한다.\n4. 자유를 옹호하는 자신의 행동 때문에 박해받는 모든 인\n간은 프랑스 영토에서 망명권을 가진다.\n5. 모든 개개인은 근로의 의무와 일자리를 얻을 권리를 가\n진다. 어느 누구도 그 자신의 직업과 일자리에서 출신,\n견해, 믿음을 이유로 피해를 입지 않는다.\n6. 모든 인간은 노동조합활동을 통해 자신의 권리와 이익\n을 보호하고, 자신의 선택에 따라 노동조합에 가입할 수\n있다.\n7. 파업권은 파업권을 규정하는 법률의 범주에서 행사될\n수 있다.\n8. 모든 노동자는 자신의 대표를 통하여 근로조건의 집단\n적 결정과 기업운영에 참여한다.\n9. 그 이용이 국가적 공역무 또는 사실상의 독점적 성격을\n가지거나, 가지게 된 모든 재화, 모든 기업은 공동체의\n소유가 되어야 한다.\n10. 국가는 개인과 가족에게 그들의 발전에 필요한 조건을\n보장한다.\n11. 국가는 모든 사람들 특히, 아이, 어머니, 고령노동자에게\n건강보호, 물질적 안전, 휴식과 여가를 보장한다. 나이,\n신체적 또는 정신적 상태, 경제적 상황을 이유로 일을\n할 수 없는 모든 인간은 공동체로부터 생존에 충분한 수\n단을 얻을 권리를 가진다.\n12. 국가는 국가적 재난으로부터 기인하는 부담 앞에 모든\n프랑스인의 연대와 평등을 선언한다.\n13. 국가는 교육, 직업교육과 문화에 대한 아이와 어른의 평\n등한 접근을 보장한다. 모든 단계의 무상 및 종교적 중\n립적인 공교육 조직은 국가의 의무이다.\n14. 전통에 충실한 프랑스 공화국은 국제공법의 규칙에 따른\n다. 프랑스 공화국은 정복을 위한 전쟁을 하지 않으며,\n결코 어떠한 인민의 자유에 반대하여서도 그 힘을 사용하지 않는다.\n15. 상호성의 유보하에, 프랑스는 평화의 구성과 방어에 필\n요한 주권의 제한에 동의한다.\n16. 프랑스는 해외영토의 인민과 함께 인종과 종교의 구별\n없는 권리와 의무의 평등에 근거한 연합을 형성한다.\n17. 프랑스연합은 각각의 문화를 발전시키고, 행복을 증진\n시키며, 안전을 보장하기 위해 자원과 노력을 공유하거나, 조정하는 국민과 인민으로 구성된다.\n18. 전통적인 임무에 충실한 프랑스는 자신이 책임을 지는\n인민들을 자치하고, 민주적으로 자신의 일을 관\n리하는 자유로 이끌기를 원한다. 자의(恣意)에 근거한 일체의\n식민지 시스템을 배제하면서, 프랑스는 모두에게 공적인\n직무에 대한 평등한 접근과 위에서 선언되고 확인된 권\n리와 자유의 개인적 또는 집단적 행사를 보장한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_006",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "6",
+      "original_text": "國民은 左記 各項에 依하여 自由權을 享有함\n一 法律에 依하지 아니한 逮捕 拘禁 審問 處罰을 받지 않는 自由\n二 法律에 依하지 아니한 家宅의 侵入 또는 搜索을 받지 않는 自由\n三 法律에 依하지 아니한 住居 及 移轉의 制限을 받지 않는 自由\n四 法律에 依하지 아니한 言論 著作 刊行 集會 及 結社의 制限을 받지 않는 自由\n五 法律에 依하지 아니한 信書 秘密의 侵犯을 받지 않는 自由\n六 法律에 依하지 아니한 財產 及 營業의 侵害를 받지 않는 自由\n七 安寧秩序를 妨害하지 않는 信敎의 自由",
+      "workbook_text_ko": "국민은 아래 각 항에 의하여 자유권을 향유함.\n1. 법률에 의하지 아니한 체포·구금·심문·처벌을 받지 않는 자유\n2. 법률에 의하지 아니한 가택의 침입 또는 수색을 받지 않는 자유\n3. 법률에 의하지 아니한 주거 및 이전의 제한을 받지 않는 자유\n4. 법률에 의하지 아니한 언론·저작·간행·집회 및 결사의 제한을 받지 않는 자유\n5. 법률에 의하지 아니한 신서 비밀의 침범을 받지 않는 자유\n6. 법률에 의하지 아니한 재산 및 영업의 침해를 받지 않는 자유\n7. 안녕질서를 방해하지 않는 신교의 자유"
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "13",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.",
+      "workbook_text_ko": "어느 원의 어떤 의원도 그 직무행사에서 그가 표명한 의견 또는 투표\n에 대해서 소추를 받거나 추궁되지 아니한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_022",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "22",
+      "original_text": "日本臣民ハ法律ノ範囲内ニ於テ居住及移転ノ自由ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률의 범위 안에서 거주와 이전의 자유를 가진다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_014",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "14",
+      "original_text": "公民은 信仰 및 宗敎儀式擧行의 自由를 가진다.",
+      "workbook_text_ko": "공민은 신앙 및 종교의식 거행의 자유를 가진다."
+    }
+  ]
+}

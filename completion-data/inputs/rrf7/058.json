@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_058",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "58",
+    "original_text": "大統領은 法律에서 一定한 範圍를 定하여 委任을 받은 事項과 法律을 實施하기 爲하여 必要한 事項에 關하여 命令을 發할 수 있다.",
+    "workbook_text_ko": "대통령은 법률에서 일정한 범위를 정하여 위임을 받은 사항과 법률을 실시하기 위하여 필요한 사항에 관하여 명령을 발할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_009",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "9",
+      "original_text": "天皇ハ法律ヲ執行スル為ニ又ハ公共ノ安寧秩序ヲ保持シ及臣民ノ幸福ヲ増進スル為ニ必要ナル命令ヲ発シ又ハ発セシム但シ命令ヲ以テ法律ヲ変更スルコトヲ得ス",
+      "workbook_text_ko": "천황은 법률을 집행하기 위하여, 또는 공공의 안녕질서를 유지하고 신민의 행복을 증진하기 위하여 필요한 명령을 발하거나 발하게 한다. 다만, 명령으로 법률을 변경할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_148",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "148",
+      "original_text": "憲法規定事項有另定實施程序之必要者，以法律定之。",
+      "workbook_text_ko": "헌법이 규정한 사항에 대하여 별도의 실시 절차를 정할 필요가 있는 때에는 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_038",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "38",
+      "original_text": "總統依法公布法律，發布命令，並須經關係院院長之副署。",
+      "workbook_text_ko": "총통은 법률에 따라 법률을 공포하고 명령을 발하며, 관계 원(院) 원장의 부서를 받아야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_022",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "22",
+      "original_text": "政府主席은 國家를 代表하고 行政權을 統轄하며 左의 權限을 行함\n一 法律案의 提出\n二 法律의 公布\n三 法律에서 一定한 範圍를 定하야 委任을 받은 命令 及 法律 執行에 必要한 命令의 制定 公布\n四 職制 及 俸給基準의 制定\n五 陸海空軍의 統轄\n六 條約締結 及 宣戰媾和\n七 外國大使 公使 及 領事의 接受\n八 本法 其他 法律이 定하는 바에 依한 公務員의 任免 及 監督\n九 勳章 其他 榮典의 授與\n十 大赦 特赦 減刑 及 復權의 命令\n十一 法律의 定한 바에 依한 戒嚴의 宣布",
+      "workbook_text_ko": "정부주석은 국가를 대표하고 행정권을 통할하며 아래의 권한을 행함.\n1. 법률안의 제출\n2. 법률의 공포\n3. 법률에서 일정한 범위를 정하여 위임을 받은 명령 및 법률 집행에 필요한 명령의 제정·공포\n4. 직제 및 봉급기준의 제정\n5. 육해공군의 통할\n6. 조약 체결 및 선전·강화\n7. 외국 대사·공사 및 영사의 접수\n8. 본법, 기타 법률이 정하는 바에 의한 공무원의 임면 및 감독\n9. 훈장, 기타 영전의 수여\n10. 대사·특사·감형 및 복권의 명령\n11. 법률이 정한 바에 의한 계엄의 선포"
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_018",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "18",
+      "original_text": "(1) Die gesamte staatliche Verwaltung darf nur auf Grund der Gesetze ausgeübt werden.\n(2) Jede Verwaltungsbehörde kann auf Grund der Gesetze innerhalb ihres Wirkungsbereiches Verordnungen erlassen.\n(3) Wenn die sofortige Erlassung von Maßnahmen, die verfassungsgemäß einer Beschlußfassung des Nationalrates bedürfen, zur Abwehr eines offenkundigen, nicht wieder gutzumachenden Schadens für die Allgemeinheit zu einer Zeit notwendig wird, in der der Nationalrat nicht versammelt ist, nicht rechtzeitig zusammentreten kann oder in seiner Tätigkeit durch höhere Gewalt behindert ist, kann der Bundespräsident auf Vorschlag der Bundesregierung unter seiner und deren Verantwortlichkeit diese Maßnahmen durch vorläufige gesetzändernde Verordnungen treffen. Die Bundesregierung hat ihren Vorschlag im Einvernehmen mit dem vom Hauptausschuß des Nationalrates einzusetzenden ständigen Unterausschuß (Artikel 55, Absatz 2) zu erstatten. Eine solche Verordnung bedarf der Gegenzeichnung der Bundesregierung.\n(4) Jede nach Absatz 3 erlassene Verordnung ist von der Bundesregierung unverzüglich dem Nationalrat vorzulegen, den der Bundespräsident, falls der Nationalrat in diesem Zeitpunkt keine Tagung hat, während der Tagung aber der Präsident des Nationalrates für einen der der Vorlage folgenden acht Tage einzuberufen hat. Binnen vier Wochen nach der Vorlage hat der Nationalrat entweder an Stelle der Verordnung ein entsprechendes Bundesgesetz zu beschließen oder durch Beschluß das Verlangen zu stellen, daß die Verordnung von der Bundesregierung sofort außer Kraft gesetzt wird. Im letzterwähnten Fall muß die Bundesregierung diesem Verlangen sofort entsprechen. Zum Zweck der rechtzeitigen Beschlußfassung des Nationalrates hat der Präsident die Vorlage spätestens am vorletzten Tag der vierwöchigen Frist zur Abstimmung zu stellen; die näheren Bestimmungen trifft die Geschäftsordnung. Wird die Verordnung nach den vorhergehenden Bestimmungen von der Bundesregierung aufgehoben, treten mit dem Tag des Inkrafttretens der Aufhebung die gesetzlichen Bestimmungen wieder in Wirksamkeit, die durch die Verordnung aufgehoben worden waren.\n(5) Die im Absatz 3 bezeichneten Verordnungen dürfen nicht eine Abänderung bundesverfassungsgesetzlicher Bestimmungen bedeuten und weder eine dauernde finanzielle Belastung des Bundes, noch eine finanzielle Belastung der Länder, Bezirke oder Gemeinden, noch finanzielle Verpflichtungen der Bundesbürger, noch eine Veräußerung von Staatsgut, noch Maßnahmen in den im Artikel 10, Z. 11, bezeichneten Angelegenheiten, noch endlich solche auf dem Gebiet des Koalitionsrechtes oder des Mieterschutzes zum Gegenstand haben.",
+      "workbook_text_ko": "(1) 국가의 모든 행정은 법률에 근거하여서만 행할 수 있다.\n(2) 모든 행정관청은 법률에 근거하여 자신의 권한 범위 안에서 명령을 발할 수 있다.\n(3) 국민의회가 집회 중이 아니거나 제때 집회할 수 없거나 불가항력으로 활동을 방해받는 때에, 명백하고 회복할 수 없는 공공의 손해를 막기 위하여 헌법상 국민의회의 의결이 필요한 조치를 즉시 취할 필요가 있으면, 연방대통령은 연방정부의 제청에 따라 자신과 연방정부의 책임 아래 잠정적인 법률변경명령으로 그 조치를 취할 수 있다. 연방정부는 국민의회 주(主)위원회가 설치할 상설소위원회(제55조 제2항)와 합의하여 제청하여야 한다. 이러한 명령에는 연방정부의 부서가 필요하다.\n(4) 제3항에 따라 발한 모든 명령은 연방정부가 지체 없이 국민의회에 제출하여야 한다. 그때 국민의회가 회기 중이 아니면 연방대통령이, 회기 중이면 국민의회 의장이, 제출 후 8일 중 하루에 국민의회를 소집하여야 한다. 국민의회는 제출 후 4주 이내에 그 명령에 갈음하는 연방법률을 의결하거나, 연방정부가 그 명령의 효력을 즉시 상실시키도록 요구하는 의결을 하여야 한다. 후자의 경우 연방정부는 즉시 그 요구에 따라야 한다. 국민의회가 제때 의결하도록 의장은 늦어도 4주 기한의 마지막 날 전날까지 제출안을 표결에 부쳐야 한다. 자세한 사항은 의사규칙으로 정한다. 위 규정에 따라 연방정부가 명령을 폐지하면, 그 폐지의 효력이 발생하는 날에 명령으로 폐지되었던 법률규정이 다시 효력을 가진다.\n(5) 제3항의 명령은 연방헌법률의 규정을 변경할 수 없으며, 연방의 영구적인 재정부담, 주·구 또는 지방자치단체의 재정부담, 연방시민의 재정적 의무, 국가재산의 양도, 제10조 제11호에 정한 사항의 조치, 단결권 또는 임차인 보호 분야의 조치를 대상으로 할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_044",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "44",
+      "original_text": "國家遇有緊急事變或國家經濟上有重大變故須爲急速處分時，總統得經行政會議之議決，發布緊急命令，爲必要之處置，但應於發布命令後三個月內，提交立法院追認。",
+      "workbook_text_ko": "국가에 긴급한 사변이 발생하거나 국가경제에 중대한 변고가 생겨 신속한 처분이 필요한 때에는 총통은 행정회의의 의결을 거쳐 긴급명령을 발하여 필요한 조치를 할 수 있다. 다만, 명령을 발한 후 3개월 이내에 추인을 받기 위하여 입법원에 제출하여야 한다."
+    }
+  ]
+}

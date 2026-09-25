@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_026",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "26",
+    "original_text": "모든 國民은 法律의 定하는 바에 依하여 公務를 擔任할 權利가 있다.",
+    "workbook_text_ko": "모든 국민은 법률의 정하는 바에 의하여 공무를 담임할 권리가 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "134",
+      "original_text": "Alle Staatsbürger ohne Unterschied tragen im Verhältnis ihrer Mittel zu allen öffentlichen Lasten nach Maßgabe der Gesetze bei.",
+      "workbook_text_ko": "모든 국민은 법률에 따라 그 자력에 상응하여 모든 공공의 부담에 평등하게 기여한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_023",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "23",
+      "original_text": "人民有依法律服公務之義務。",
+      "workbook_text_ko": "인민은 법률에 따라 공무에 복무할 의무를 진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_027",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "27",
+      "original_text": "すべて国民は、勤労の権利を有し、義務を負ふ。\n２　賃金、就業時間、休息その他の勤労条件に関する基準は、法律でこれを定める。\n３　児童は、これを酷使してはならない。",
+      "workbook_text_ko": "①모든 국민은 근로의 권리를 가지며 그 의무를 진다.\n②임금, 취업시간, 휴식 그 밖의 근로조건에 관한 기준은 법률로 정한다.\n③아동을 혹사하여서는 아니 된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_026",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "26",
+      "original_text": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。\n２　すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+      "workbook_text_ko": "①모든 국민은 법률이 정하는 바에 의하여 그 능력에 따라 동등하게 교육을 받을 권리를 가진다.\n②모든 국민은 법률이 정하는 바에 따라 자신이 보호하는 자녀에게 보통교육을 받게 할 의무를 진다.\n의무 교육은 무상으로 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_020",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "20",
+      "original_text": "人民有依法律服兵役之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 兵役에 服務하는 義務를 진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_030",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "30",
+      "original_text": "国民は、法律の定めるところにより、納税の義務を負ふ。",
+      "workbook_text_ko": "국민은 법률이 정하는 바에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_019",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "19",
+      "original_text": "人民有依法律納稅之義務。",
+      "workbook_text_ko": "人民은 法律의 定하는 바에 依하여 納稅의 義務를 진다."
+    }
+  ]
+}

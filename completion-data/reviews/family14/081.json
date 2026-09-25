@@ -1,0 +1,66 @@
+{
+  "article": 81,
+  "reviewed_at": "2026-09-22T16:22:25.687772+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "8ea7925ac4da7a5419ead36557f0e41ab58cc3b672645a7aa0effe1f9eff8199",
+  "input_sha256": "fe3fdc2292d3d221a4f8805710a34409d5b76b1a87e2d3da844c20f5d2afb612",
+  "responses": [
+    {
+      "job_id": "081_85cd74eeb99d_r1",
+      "repeat": 1,
+      "sha256": "7fb97a7cde1f8472539e7d3029471d32f0bb26ac941d0ecdd5df85eecdcabf4c",
+      "assessment": "심사기관·대상·절차·위원 구성의 대응을 체계적으로 구분함. 프랑스 조문이 직접 밝히는 심사 대상에 한정하여 설명할 필요가 있음."
+    },
+    {
+      "job_id": "081_85cd74eeb99d_r2",
+      "repeat": 2,
+      "sha256": "7c07791e6fbe2a710330f2a7d02fd20b0e276c7a5dcd6ff1b95f056cdd423fb9",
+      "assessment": "대법원과 헌법위원회의 역할 분담 및 오스트리아 절차 차이를 적절히 파악함. 구성원을 선출하는 방식과 구성원 신분은 구분해야 함."
+    },
+    {
+      "job_id": "081_85cd74eeb99d_r3",
+      "repeat": 3,
+      "sha256": "89d64da06547b8c7218bf4b72551a0efd140a2ece0bcf5457839293f5faad90e",
+      "assessment": "주요 대응은 적절하나 오스트리아의 종전 법률 부활을 소급회복으로, 대상의 결정 효력을 부재로 설명한 부분은 수정이 필요함."
+    }
+  ],
+  "synthesis": "일본 제81조는 최고재판소의 위헌심사에 대응하나 법률까지 직접 심사 대상으로 삼음. 제헌헌법은 명령·규칙·처분의 위헌·위법 심사를 대법원에 맡기고 재판의 전제가 되는 법률의 위헌 여부는 헌법위원회에 제청하여 그 결정에 따르게 함. 오스트리아 제140조는 재판의 전제가 되는 법률에 관한 법원의 제청에 대응하며 정부 신청·직권심사 및 법률 폐지 효과도 별도로 정함. 폐지 효력 발생 시 종전 법률이 다시 효력을 얻는 규정은 소급효와 다름. 프랑스 제91조는 별도 헌법위원회와 복수 기관의 구성 관여에 대응하나 대통령 및 양원 의장과 선출 위원들로 구성되므로 부통령과 법관·국회의원 각 5인이라는 조합과 다름. 제공 후보에는 재적 3분의 2의 위헌 결정 요건에 대한 직접 대응이 없음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "type": "effect_misreading",
+      "finding": "오스트리아의 종전 법률 부활을 소급회복으로 설명함. 원문은 폐지 효력 발생 시 부활을 원칙으로 정함.",
+      "action": "효력 발생 시점과 소급효를 구별함.",
+      "candidate_id": "AT1920_1929RECAST1930_ART_140",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "target_omission",
+      "finding": "제헌헌법에 결정 효력 규정이 없다고 하나 법원이 헌법위원회 결정에 의하여 재판한다는 규정이 있음.",
+      "action": "개별 재판에 대한 구속과 일반적 법률 폐지 효과를 구분함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "external_context_inference",
+      "finding": "프랑스 제91조의 심사를 사전 심사로 단정함. 제공 조문은 국민의회가 의결한 법률과 헌법 개정 필요성의 심사를 규정함.",
+      "action": "심사의 시점을 다른 조문 없이 확장하지 않음.",
+      "candidate_id": "FR1946_ORIGINAL_ART_091",
+      "severity": "minor"
+    }
+  ],
+  "limits": [
+    "약헌 제47조의 법령 부분은 결락과 편집 보충 표시가 있는 입력 문언임. 확정된 완전 원문으로 취급하지 않음."
+  ]
+}

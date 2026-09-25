@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_039",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "39",
+    "original_text": "國會議員과 政府는 法律案을 提出할 수 있다.",
+    "workbook_text_ko": "국회의원과 정부는 법률안을 제출할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_087",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "87",
+      "original_text": "考試院關於所掌事項，得向立法院提出法律案。",
+      "workbook_text_ko": "考試院은 所管事項에 關하여 立法院에 法律案을 提出할 수 있다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_069",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "69",
+      "original_text": "Die Einbringung von Gesetzesvorlagen der Reichsregierung bedarf der Zustimmung des Reichsrats. Kommt eine Übereinstimmung zwischen der Reichsregierung und dem Reichsrat nicht zustande, so kann die Reichsregierung die Vorlage gleichwohl einbringen, hat aber hierbei die abweichende Auffassung des Reichsrats darzulegen.\nBeschließt der Reichsrat eine Gesetzesvorlage, welcher die Reichsregierung nicht zustimmt, so hat diese die Vorlage unter Darlegung ihres Standpunkts beim Reichstag einzubringen.",
+      "workbook_text_ko": "제국정부의 법률초안 제출 시 제국상원의 동의가 있어야 한다. 설령 제국정부와 제국상원 간 합의가 성립되지 않다 할지라도 제국정부는 문제가 되는 법률초안을 제출할 수 있으나, 제국상원의 다른 견해를 함께 제시해야 한다.\n제국상원이 제국정부가 동의하지 않는 법률초안을 의결할 경우 제국정부는 견해를 첨부하여 당해 법률초안을 제국의회에 제출해야 한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_041",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "41",
+      "original_text": "(1) Gesetzesvorschläge gelangen an den Nationalrat entweder als Anträge seiner Mitglieder oder als Vorlagen der Bundesregierung. Der Länderrat und der Ständerat können durch Vermittlung der Bundesregierung Gesetzesanträge im Nationalrat stellen.\n(2) Jeder von 200.000 Stimmberechtigten oder von je der Hälfte der Stimmberechtigten dreier Länder gestellte Antrag (Volksbegehren) ist von der Bundesregierung dem Nationalrat zur geschäftsordnungsmäßigen Behandlung vorzulegen. Das Volksbegehren muß in Form eines Gesetzentwurfes gestellt werden.",
+      "workbook_text_ko": "(1) 법률안은 국민의회 의원의 발의 또는 연방정부의 제출로 국민의회에 회부된다. 주참사원과 직능참사원은 연방정부를 통하여 국민의회에 법률안을 발의할 수 있다.\n(2) 투표권자 200,000명 또는 3개 주 각각의 투표권자 절반이 제출한 모든 청원(국민발안)은 연방정부가 의사규칙에 따라 심의하도록 국민의회에 제출하여야 한다. 국민발안은 법률안의 형식으로 제출하여야 한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_041",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "41",
+      "original_text": "(1) Gesetzesvorschläge gelangen an den Nationalrat entweder als Anträge seiner Mitglieder oder als Vorlagen der Bundesregierung. Der Bundesrat kann durch Vermittlung der Bundesregierung Gesetzesanträge im Nationalrat stellen.\n(2) Jeder von 200.000 Stimmberechtigten oder von je der Hälfte der Stimmberechtigten dreier Länder gestellte Antrag (Volksbegehren) ist von der Bundesregierung dem Nationalrat zur geschäftsordnungsmäßigen Behandlung vorzulegen. Das Volksbegehren muß in Form eines Gesetzentwurfes gestellt werden.",
+      "workbook_text_ko": "(1) 법률안은 국민의회 의원의 발의 또는 연방정부의 제출로 국민의회에 회부된다. 연방참사원은 연방정부를 통하여 국민의회에 법률안을 발의할 수 있다.\n(2) 투표권자 200,000명 또는 3개 주 각각의 투표권자 절반이 제출한 모든 청원(국민발안)은 연방정부가 의사규칙에 따라 심의하도록 국민의회에 제출하여야 한다. 국민발안은 법률안의 형식으로 제출하여야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_038",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "38",
+      "original_text": "両議院ハ政府ノ提出スル法律案ヲ議決シ及各々法律案ヲ提出スルコトヲ得",
+      "workbook_text_ko": "양원은 정부가 제출한 법률안을 의결하고 각각 법률안을 제출할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_067",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "67",
+      "original_text": "立法院得設各種委員會。\n各種委員會得邀請政府人員及社會上有關係人員到會備詢。",
+      "workbook_text_ko": "立法院에 各種委員會를 둘 수 있다.\n前項의 委員會는 政府의 人員과 社會의 關係人士의 出席하여 質疑에 應하도록 要請할 수 있다."
+    }
+  ]
+}

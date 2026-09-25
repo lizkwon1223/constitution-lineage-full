@@ -1,0 +1,69 @@
+{
+  "article": 20,
+  "reviewed_at": "2026-09-22T15:21:53.077186+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "223f8e9019b156d6e2a90e045e40a700f2502abdffcf62603d74ab95fce03f58",
+  "input_sha256": "74d4c052faf50940916e555cd1fc0745236dca027428296c93df18e5fa14f518",
+  "responses": [
+    {
+      "job_id": "020_9a18a202d562_r1",
+      "repeat": 1,
+      "sha256": "d74c09f7c6e660254352c85c34aa93864d6a26649894e76a273a79d1d5b0a498",
+      "assessment": "바이마르의 평등·특별보호·가족의 순결 유지와 건전화, 일본의 부부 동등권이라는 주요 대응을 정확히 짚음. 북한의 국가 보호 선언은 독립된 부분 대응으로 보충할 수 있음. 일본의 실체적 입법 기준을 절차적 규율로 분류한 설명과 국가 표기를 지방자치단체 배제로 확장한 설명은 보정이 필요함."
+    },
+    {
+      "job_id": "020_9a18a202d562_r2",
+      "repeat": 2,
+      "sha256": "412ade86d4bacc6bf7e6c545474ed7e2da9abeee8e170e21a83447c65d9b18e1",
+      "assessment": "주요 대응 및 순결과 건강의 귀속 대상 차이는 타당함. 북한 후보의 첫 문장은 보호 대상과 주체·효과가 대응하며, 후보의 다른 내용이나 평등 문구 부재만으로 이 부분의 대응을 축소해서는 안 됨. 지방자치단체 배제는 문언에서 확정되지 않음."
+    },
+    {
+      "job_id": "020_9a18a202d562_r3",
+      "repeat": 3,
+      "sha256": "56b31d5cf4fb4d735a49140be9771849a16ac538dae136d8b73a18d2b6f6eccc",
+      "assessment": "바이마르와 일본의 대응 범위를 분리한 설명은 타당함. 국가 하나로 보호 주체를 한정했다는 설명은 지방자치단체가 별도 명시되지 않았다는 관찰로 제한할 필요가 있음. 북한의 국가 보호 선언도 부분 대응으로 정리할 수 있음."
+    }
+  ],
+  "synthesis": "바이마르 제119조는 혼인의 양성 평등권, 특별한 보호, 가족의 순결 유지와 건전화라는 요소를 함께 제시함. 제헌헌법은 순결을 혼인에, 건강을 가족에 귀속시키고 국가의 특별한 보호라는 하나의 규정으로 결합함. 바이마르에서 헌법은 특별보호의 규범적 근거이며 가족에 관한 과제는 국가와 지방자치단체에 배분됨. 일본 제24조는 부부 동등권을 기본으로 한다는 문형과 대응하며, 합의·상호협력 및 개인의 존엄과 양성 평등에 기초한 입법 기준을 추가함. 북한 초안 제23조 첫 문장도 혼인·가정에 대한 국가 보호라는 부분에서 구체적인 보충 대응을 이룸. 제헌헌법에 지방자치단체가 따로 열거되지 않았다는 사실만으로 그 보호 역할이 배제되었다고 볼 수는 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "NK1948_DRAFT_19480428_ART_023",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "혼인·가정, 국가, 보호라는 대상·주체·효과의 대응을 주제 유사성으로만 분류함. 일본은 평등이라는 일부 요소의 대응만으로 선택되어 부분 대응 인정 범위에 차이가 있음.",
+      "action": "원선택을 보존하고 북한 후보 첫 문장의 부분 대응을 해설에 보충함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unsupported_exclusion",
+      "severity": "material",
+      "finding": "국가라는 보호 주체 표기를 지방자치단체의 배제 또는 국가만으로의 한정으로 단정함.",
+      "action": "지방자치단체가 별도로 명시되지 않았다는 문언 차이로 제한함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_024",
+      "type": "legal_characterization",
+      "severity": "minor",
+      "finding": "개인의 존엄과 양성의 본질적 평등에 따른 입법 기준을 절차적 규율이라고 표현함.",
+      "action": "입법 내용에 관한 실체적 기준으로 정정함."
+    }
+  ],
+  "limits": [
+    "문언상 대응으로 실제 참조 경로를 확정하지 않음.",
+    "헌법에 의한 보호와 국가·지방자치단체의 보호 의무는 동일한 종류의 행위 주체 열거가 아님."
+  ]
+}

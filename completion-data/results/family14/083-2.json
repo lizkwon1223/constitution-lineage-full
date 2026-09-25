@@ -1,0 +1,208 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_083",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_049",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'대심·판결 공개' 원칙과 '법원이 공개를 금지할 수 있다'는 예외의 주체·형식이 문형 수준에서 대응한다. 다만 비공개 사유의 표현(공서양속 vs 안녕질서·풍속)과 비공개 범위(대심만 vs 공개 일반)에 차이가 있다.",
+      "evidence": [
+        {
+          "element": "재판 대심·판결 공개 원칙",
+          "target_field": "original_text",
+          "target_quote": "裁判의 對審과 判決은 公開한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "法院의 對審判決은 此를 公開함",
+          "commonality": "대심과 판결을 함께 묶어 공개를 원칙으로 선언한다.",
+          "difference": "대상은 '재판의' 대심·판결로, 후보는 '법원의' 대심판결로 주어를 달리 표현한다."
+        },
+        {
+          "element": "비공개 결정 주체와 사유",
+          "target_field": "original_text",
+          "target_quote": "安寧秩序를 防害하거나 風俗을 害할 念慮가 있는 때에는 法院의 決定으로써 公開를 아니할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "但 公序良俗에 害가 된다고 認할 時에는 法院은 對審의 公開를 禁止할 수 있음",
+          "commonality": "법원이 판단·결정하여 공개를 배제할 수 있다는 예외 구조가 같다.",
+          "difference": "사유가 후보는 '공서양속' 단일 표현이나 대상은 '안녕질서 방해' 또는 '풍속 침해 염려'로 나뉘고, 후보는 비공개 대상을 대심에 한정하는 반면 대상 조문은 한정어가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회(제국의회) 심의 공개와 의원 요구·3분의 2 의결에 의한 공개 배제로, 재판 공개·법원 결정이라는 대상 조문의 규율 대상과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_082",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'재판의 대심 및 판결은 공개'라는 원칙 문형과, 질서·풍속 침해 우려 시 재판소 결정으로 비공개할 수 있다는 예외 구조가 구체적으로 대응한다. 다만 재판관 전원일치 요건과 정치범죄 등 절대공개 단서는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "대심·판결 공개 원칙",
+          "target_field": "original_text",
+          "target_quote": "裁判의 對審과 判決은 公開한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判の対審及び判決は、公開法廷でこれを行ふ。",
+          "commonality": "'재판의 대심 및 판결'을 공개 대상으로 명시한다.",
+          "difference": "후보는 '공개법정에서 행한다'는 장소적 표현을 쓰고, 대상은 단순히 '공개한다'고 한다."
+        },
+        {
+          "element": "비공개 사유와 결정 절차",
+          "target_field": "workbook_text_ko",
+          "target_quote": "안녕질서를 방해하거나 풍속을 해할 염려가 있는 때에는 법원의 결정으로써 공개를 아니할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判所が、裁判官の全員一致で、公の秩序又は善良の風俗を害する虞があると決した場合には、対審は、公開しないでこれを行ふことができる",
+          "commonality": "질서 또는 풍속을 해할 '우려'를 요건으로 법원(재판소)의 결정에 의해 비공개가 가능하다는 점이 같다.",
+          "difference": "후보는 재판관 전원일치라는 가중 절차와 비공개 대상의 대심 한정, 정치범죄 등 예외의 예외를 두나 대상 조문에는 이러한 요건·단서가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "(17)항에 '신속하고 공개된 재판을 받을 권리'가 있으나 이는 피고인의 권리로 구성된 것이고, 공개 원칙 선언이나 법원 결정에 의한 비공개 예외 구조는 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_090",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "심리 공개 원칙을 선언하나 예외를 전적으로 법률에 위임하여, 사유(안녕질서·풍속)와 법원의 결정이라는 대상 조문의 핵심 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_023",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "자유·권리의 법률유보 일반조항으로 재판 공개와 무관하며, '사회질서' 등 용어만 유사하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_025",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "자유·권리 제한 법률의 한계를 정한 일반조항으로, 재판 공개 및 그 예외와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_059",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'재판의 대심 판결은 공개한다'는 본문과 '안녕질서 또는 풍속을 해할 우려가 있는 때' 비공개라는 사유 문언이 거의 축자적으로 대응한다. 다만 비공개의 근거로 법률에 의한 방법을 병기하고 대상을 대심에 한정한 점이 다르다.",
+      "evidence": [
+        {
+          "element": "대심·판결 공개 원칙",
+          "target_field": "original_text",
+          "target_quote": "裁判의 對審과 判決은 公開한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判ノ対審判決ハ之ヲ公開ス",
+          "commonality": "'재판의 대심(과) 판결'을 공개한다는 동일한 어휘·구성이다.",
+          "difference": "대상은 대심과 판결을 '과'로 병렬하고 종결형을 현대 문체로 바꾸었다."
+        },
+        {
+          "element": "비공개 사유·결정 방식",
+          "target_field": "original_text",
+          "target_quote": "安寧秩序를 防害하거나 風俗을 害할 念慮가 있는 때에는 法院의 決定으로써 公開를 아니할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "安寧秩序又ハ風俗ヲ害スルノ虞アルトキハ法律ニ依リ又ハ裁判所ノ決議ヲ以テ対審ノ公開ヲ停ムルコトヲ得",
+          "commonality": "'안녕질서'와 '풍속'을 해할 우려라는 사유, 그리고 법원(재판소)의 결정에 의한 공개 배제라는 방식이 일치한다.",
+          "difference": "후보는 '법률에 의하여' 정지하는 방법을 병렬로 인정하고 정지 대상을 대심으로 한정하나, 대상 조문은 법원의 결정만을 근거로 하고 대심 한정 문언이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_010",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "양원 회의 공개와 비밀회 구성에 관한 의회절차 규정으로, 재판 공개와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_005",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상·하원 회의 공개와 비밀회에 관한 규정으로 재판 공개 조항과 대상·주체가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_039",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가평의회 본회의 공개와 3분의 2 의결에 의한 공개 배제로, 법원의 결정에 의한 재판 비공개와 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_093",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법원 심리 공개 원칙과 '질서 또는 선량한 풍속'에 위험이 있을 때 '법원의 결정'으로 공개를 배제한다는 요건·주체·효과가 구체적으로 대응한다. 다만 공개 선고 요건과 민·형사 한정, 그 밖의 경우 법률유보는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "법원 심리 공개 원칙",
+          "target_field": "original_text",
+          "target_quote": "裁判의 對審과 判決은 公開한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Verhandlungen vor dem erkennenden Gerichte in Civil- und Strafsachen sollen öffentlich sein.",
+          "commonality": "법정에서의 심리를 공개하는 것을 원칙으로 선언한다.",
+          "difference": "후보는 민사·형사 사건의 '심리'로 범위를 한정하고 판결 공개를 별도로 명시하지 않으나, 대상은 대심과 판결을 모두 든다."
+        },
+        {
+          "element": "공개 배제의 사유와 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "안녕질서를 방해하거나 풍속을 해할 염려가 있는 때에는 법원의 결정으로써 공개를 아니할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Oeffentlichkeit kann jedoch durch einen öffentlich zu verkündenden Beschluß des Gerichts ausgeschlossen werden, wenn sie der Ordnung oder den guten Sitten Gefahr droht.",
+          "commonality": "질서 또는 선량한 풍속에 대한 위험을 요건으로, 법원의 결정에 의해 공개를 배제한다는 구조가 같다.",
+          "difference": "후보는 결정을 '공개적으로 선고'할 것을 요구하고 그 밖의 제한은 법률로만 가능하다고 덧붙이나, 대상에는 선고 방식과 보충적 법률유보가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대배심·이중위험·자기부죄·적법절차·수용보상에 관한 규정으로 재판 공개와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_084",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "재판 공개 원칙과 '재판소(법원)의 결정으로써 공개를 금지할 수 있다'는 예외 문형이 대응하나, 비공개 요건이 법령에 규정된 경우로 한정되고 변호권 보장이 함께 규정된 점에서 범위가 다르다. 대응은 예외의 주체·형식 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "법원 결정에 의한 비공개",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법원의 결정으로써 공개를 아니할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法令에 規定한 境遇에 限하여 裁判所의 決定으로서 公開를 禁止할 수 있다",
+          "commonality": "재판 공개 원칙에 대한 예외를 법원(재판소)의 결정이라는 동일한 형식으로 허용한다.",
+          "difference": "후보는 비공개 사유를 '법령에 규정한 경우'로 한정하는 데 비해, 대상은 안녕질서 방해·풍속 침해 염려라는 실체적 요건을 헌법에 직접 규정한다."
+        },
+        {
+          "element": "공개 대상의 범위",
+          "target_field": "original_text",
+          "target_quote": "裁判의 對審과 判決은 公開한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判은 公開하며 被訴者의 辯護權을 保障한다.",
+          "commonality": "재판을 공개한다는 원칙 선언을 둔다.",
+          "difference": "대상은 공개 대상을 대심과 판결로 특정하나, 후보는 '재판'으로 포괄하고 피소자 변호권 보장을 같은 조에 결합한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'안녕질서를 방해하거나'와 '풍속을 해할 염려'를 두 사유로 병렬한 대상 조문 특유의 국문 표현 정착 경위",
+    "비공개 대상을 대심에 한정하지 않고 '공개'를 일반적으로 배제하도록 한 점"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제로 참조되었는지는 제공 자료만으로 확정할 수 없다.",
+    "일본국헌법·프로이센헌법 등 외국어 후보는 원문 문언 대조에 그치고, 번역문에 의존한 세부 뉘앙스 판단은 하지 않았다."
+  ],
+  "short_answer": "대상 조문은 대일본제국헌법 제59조와 '재판의 대심 판결은 공개한다', '안녕질서·풍속을 해할 염려', '법원의 결정'이라는 요소가 거의 축자적으로 대응하며, 조선임시약헌 제49조와 일본국헌법 제82조도 공개 원칙과 법원 결정에 의한 비공개 예외 구조에서 구체적으로 대응한다. 프로이센헌법 제93조 역시 질서·선량한 풍속의 위험을 요건으로 법원의 결정으로 공개를 배제한다는 점에서 요건·주체·효과가 맞물린다. 북한 헌법안 제84조는 '재판소의 결정으로 공개를 금지'라는 예외 형식에서만 대응하고 요건은 법령유보로 다르다. 의회 공개 조항(바이마르 제29조, 프랑스·프로이센 국가평의회 조항)과 자유권 제한 일반조항, 미국 수정 제5조는 규율 대상이 달라 제외했다. 이상은 문언 대응의 확인일 뿐 역사적 참조의 확정은 아니다."
+}

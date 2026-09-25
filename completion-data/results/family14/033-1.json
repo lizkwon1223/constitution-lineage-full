@@ -1,0 +1,170 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_033",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_060",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "임기 4년이라는 수치는 겹치지만 대상 직위가 연방대통령이고 선출 방법·피선거 자격·재선 제한·당선 요건까지 규율하는 조항으로, 의원 임기를 정하는 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_068",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "의원 임기를 한 문장으로 정하는 문형은 유사하나 기간이 3년이고 연선연임 허용 규정이 추가되어 4년 단일 규정인 대상 조문과 구체적 요소가 어긋난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "입법기관 임기를 4년으로 정하는 구체적 수치 요소가 일치한다. 다만 대응은 기간 수치에 한정되고, 문형(의원 개인의 임기 대 의회의 선출기간)과 재선거·집회 기한 규정에서는 차이가 있다.",
+      "evidence": [
+        {
+          "element": "임기 기간(4년)",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichstag wird auf vier Jahre gewählt.",
+          "commonality": "입법기관 구성원의 재임 기간을 4년으로 확정한다.",
+          "difference": "대상은 '국회의원의 임기'로 의원 개인을 주체로 규정하나, 후보는 '제국의회가 4년 임기로 선출된다'는 기관 단위 선출 형식이다."
+        },
+        {
+          "element": "부수 절차 규정의 유무",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Spätestens am sechzigsten Tage nach ihrem Ablauf muß die Neuwahl stattfinden.",
+          "commonality": "임기 규정을 의회 구성의 기본 규율로 둔다.",
+          "difference": "후보는 임기 만료 후 재선거 기한(60일)과 최초 집회 기한(30일)을 함께 정하지만 대상 조문에는 그러한 절차 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'의원의 임기는 4년으로 한다'는 수치와 문형이 거의 동일하게 대응한다. 다만 대상 직위(단원제 국회의원 대 중의원 의원)와 해산 시 임기 종료 단서의 유무에서 차이가 있어 대응 범위는 임기 기간과 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "임기 기간과 문형",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院議員の任期は、四年とする",
+          "commonality": "의원의 임기를 4년으로 단정하는 단문 구조가 동일하다.",
+          "difference": "대상은 단원제 국회의 의원 전체를 대상으로 하지만 후보는 양원 중 중의원 의원에 한정된다."
+        },
+        {
+          "element": "예외(해산 시 임기 단축)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 임기는 4년으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但し、衆議院解散の場合には、その期間満了前に終了する。",
+          "commonality": "임기 기간을 기준으로 의원 지위의 존속 기간을 규정한다.",
+          "difference": "후보는 해산 시 임기 만료 전 종료라는 예외를 명시하지만 대상 조문에는 예외 단서가 전혀 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_011",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'의원의 임기는 …으로 함'이라는 문형은 유사하지만 기간이 3년으로 다르며, 문형 유사성은 임기 규정의 일반적 표현 수준에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_X",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "선거위원회의 구성·임기(9년)·권한·겸직금지 등을 규율하는 조항으로, 국회의원 임기 규정과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_042",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 임기가 아니라 의회의 회기(3개월)와 칙명에 의한 연장을 정한 조항으로 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "입법기를 6년으로 정한 제1원 관련 규정으로, 기간 수치와 대상 기관이 모두 대상 조문과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원 구성·6년 임기·결원 보충 절차를 규정한 조항으로, 4년 임기라는 대상 요소와 맞지 않고 규율 범위도 훨씬 넓다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_065",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "입법위원 임기를 정하는 주제는 같으나 기간이 3년이고 연임 허용과 선거 완료 기한(임기 만료 전 3개월)까지 규정하여 구체적 요소가 어긋난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'대의원의 임기는 三年으로 한다'는 단문 구조는 닮았으나 기간이 3년이고 대상 기관이 최고인민회의로 달라, 임기 규정의 일반적 표현 이상의 대응으로 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_013",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의회 임기를 4년으로 정한 수치 요소가 대응한다. 대응은 기간 수치에 한정되며 주체 표현(기관의 선출기간)과 재선거 시기 규정에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "임기 기간(4년)",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Landtag wird auf vier Jahre gewählt.",
+          "commonality": "입법기관의 임기를 4년으로 확정한다.",
+          "difference": "대상은 의원 개인의 임기를 규정하는 형식이고, 후보는 주의회가 4년 임기로 선출된다는 기관 단위 규정이다."
+        },
+        {
+          "element": "재선거 시기 규정의 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 임기는 4년으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Neuwahl muß vor dem Ablaufe dieser Zeit erfolgen.",
+          "commonality": "임기 기간을 의회 구성의 기준으로 삼는다.",
+          "difference": "후보는 임기 만료 전 새 선거 실시 의무를 부가하나 대상 조문은 기간만 정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_006",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원의원 9년 임기와 3년마다 3분의 1 개선, 추첨에 의한 구분 지정 등을 정한 조항으로 대상 조문의 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 국회 선출과 7년 임기·1회 재선을 정한 조항으로, 의원 4년 임기 규정과 주체·기간이 모두 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "단원제 국회의 모든 의원에게 일률적으로 적용되는 형식(상·하원 구분 없음)",
+    "해산·재선거·보궐 등 부수 절차나 예외를 전혀 두지 않은 단문 규정 방식"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 어느 후보가 실제로 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "대상 조문이 극히 짧아 대응 판단이 기간 수치와 문형이라는 소수 요소에만 의존한다."
+  ],
+  "short_answer": "일본국헌법 제45조가 '의원의 임기는 4년으로 한다'는 수치와 단문 문형에서 가장 근접하게 대응하며, 바이마르 헌법 제23조와 프로이센 자유주헌법 제13조는 입법기관 임기를 4년으로 정한 수치 요소에서 대응한다. 다만 일본 조문은 중의원에 한정되고 해산 시 임기 단축 단서를 두며, 독일계 두 조문은 기관의 선출기간 형식과 재선거 기한 규정을 함께 담아 대상 조문과 다르다. 약헌 제11조·북한 헌법안 제36조·중화민국 조문들은 동일한 단문 문형을 쓰지만 기간이 3년이어서 대조 사례에 해당한다. 오스트리아 제60조의 4년은 대통령 임기여서 주체가 다르고, 필리핀·미국·프랑스·프로이센 1850년 조문은 대상·기간이 모두 어긋난다. 이상은 문언상 대응 관계일 뿐 역사적 영향의 확정은 아니다."
+}

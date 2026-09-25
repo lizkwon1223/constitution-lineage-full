@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_080",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "80",
+    "original_text": "法官은 彈劾, 刑罰 또는 懲戒處分에 依하지 아니하고는 罷免, 停職 또는 減俸되지 아니한다.",
+    "workbook_text_ko": "법관은 탄핵, 형벌 또는 징계처분에 의하지 아니하고는 파면, 정직 또는 감봉되지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_078",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "78",
+      "original_text": "裁判官は、裁判により、心身の故障のために職務を執ることができないと決定された場合を除いては、公の弾劾によらなければ罷免されない。裁判官の懲戒処分は、行政機関がこれを行ふことはできない。",
+      "workbook_text_ko": "재판관은 심신의 장해로 직무를 수행할 수 없음이 재판에 의하여 결정된 경우를 제외하고는, 공적인 탄핵에 의하지 아니하고 파면되지 아니한다. 재판관의 징계처분은 행정기관이 할 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_081",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "81",
+      "original_text": "法官非受刑罰或懲戒處分，或禁治產之宣告，不得免職，非依法律不得停職轉任或減俸。",
+      "workbook_text_ko": "법관은 형벌이나 징계처분을 받거나 금치산 선고를 받지 않고는 면직되지 않으며, 법률에 의하지 않고는 정직·전임 또는 감봉되지 않는다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_044",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "44",
+      "original_text": "法官은 刑의 宣告 또는 法律에 依한 懲戒處分에 依하지 아니하면 意思에 反하여 免官할 수 없음",
+      "workbook_text_ko": "법관은 형의 선고 또는 법률에 의한 징계처분에 의하지 아니하면 의사에 반하여 면관할 수 없음."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_081",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "81",
+      "original_text": "法官為終身職，非受刑事或懲戒處分，或禁治產之宣告，不得免職。非依法律，不得停職，轉任或減俸。",
+      "workbook_text_ko": "法官은 終身職이며 刑事 또는 懲戒處分 또는 禁治産의 宣告를 받지 아니하는 限 免職될 수 없다. 法官은 法律에 依하지 아니하고는 停職, 轉任 또는 減俸되지 아니한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_052",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "52",
+      "original_text": "總統除犯內亂或外患罪外，非經罷免或解職，不受刑事上之訴究。",
+      "workbook_text_ko": "總統은 內亂罪 또는 外患罪를 犯한 境遇를 除外하고는 罷免또는 解職된 후가 아니면 刑事上의 訴追를 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_031",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "31",
+      "original_text": "何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。",
+      "workbook_text_ko": "누구든지 법률에서 정하는 절차에 의하지 아니하고는 그 생명 또는 자유를 박탈당하거나 그 밖의 형벌을 받지 아니한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_102",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "102",
+      "original_text": "監察委員，除現行犯外，非經監察院許可，不得逮捕或拘禁。",
+      "workbook_text_ko": "監察委員은 現行犯의 境遇를 除外하고는 監察院의 許可없이 逮捕 또는 拘禁되지 아니한다."
+    }
+  ]
+}

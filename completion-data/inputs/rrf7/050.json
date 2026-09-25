@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_050",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "50",
+    "original_text": "國會議員은 國會內에서 發表한 意見과 表決에 關하여 外部에 對하여 責任을 지지 아니한다.",
+    "workbook_text_ko": "국회의원은 국회내에서 발표한 의견과 표결에 관하여 외부에 대하여 책임을 지지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_052",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "52",
+      "original_text": "両議院ノ議員ハ議院ニ於テ発言シタル意見及表決ニ付院外ニ於テ責ヲ負フコトナシ但シ議員自ラ其ノ言論ヲ演説刊行筆記又ハ其ノ他ノ方法ヲ以テ公布シタルトキハ一般ノ法律ニ依リ処分セラルヘシ",
+      "workbook_text_ko": "양원의 의원은 원내에서 발언한 의견과 표결에 관하여 원외에서 책임을 지지 않는다. 다만, 의원이 자신의 언론을 연설·간행·필기 또는 그 밖의 방법으로 스스로 공표한 때에는 일반 법률에 따라 처분받는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_051",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "51",
+      "original_text": "両議院の議員は、議院で行つた演説、討論又は表決について、院外で責任を問はれない。",
+      "workbook_text_ko": "양원의 의원은 원내에서 행한 연설, 토론 또는 표결에 관하여 원외에서 책임을 지지 아니한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_032",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "32",
+      "original_text": "國民大會代表在會議時所為之言論及表決，對會外不負責任。",
+      "workbook_text_ko": "國民大會代表는 會議時에 行한 言論과 表決에 關하여 外部에 對하여 責任을 지지아니한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_072",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "72",
+      "original_text": "立法委員於院內之言論及表決，對外不負責任。",
+      "workbook_text_ko": "입법위원은 원내의 발언과 표결에 관하여 대외적으로 책임을 지지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_073",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "73",
+      "original_text": "立法委員在院內所為之言論及表決，對院外不負責任。",
+      "workbook_text_ko": "立法委員은 院內에서 行한 言論과 表決에 關하여 院外에 對하여 責任을 지지 아니한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_018",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "18",
+      "original_text": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함\n議員은 院內에서 行한 發言 及 表決에 對하여 院外에서 責任을 지지 아니함",
+      "workbook_text_ko": "의원은 내란·외환에 관한 범죄 또는 현행범 이외에는 회기 중 원의 허락 없이 체포·심문을 받지 아니함.\n의원은 원내에서 행한 발언 및 표결에 대하여 원외에서 책임을 지지 아니함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_101",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "101",
+      "original_text": "監察委員在院內所為之言論及表決，對院外不負責任。",
+      "workbook_text_ko": "監察委員은 院內에서 行한 言論과 表決에 關하여 院外에 對하여 責任을 지지 아니한다."
+    }
+  ]
+}

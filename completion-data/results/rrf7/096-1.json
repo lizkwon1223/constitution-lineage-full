@@ -1,0 +1,120 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_096",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_118",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "재산 보유·취득·처분을 '연방법률 및 주법률의 한계 안에서' 인정한다는 점에서 대상의 '法令의 範圍內에서 … 財産을 管理한다'와 재산·법률한계라는 요소가 겹치나, 후보의 초점은 자치단체를 독립 경제주체로 보아 사업 운영·예산 자주 운영·공과금 징수 권한을 부여하는 데 있고, 위임행정사무 처리나 자치규정 제정권은 나타나지 않아 규율 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_070",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자치단체의 자기 사무 자치권을 법률의 테두리(국가 감독) 아래 보장한다는 일반적 취지는 유사하지만, 재산 관리·위임사무 처리·자치규정 제정이라는 대상 조문의 구체적 규율 요소가 없고 '법률로 정한 국가의 감독'이라는 감독 규정 형식이어서 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_094",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(지방공공단체/지방자치단체), 재산 관리와 사무 처리의 병렬, 그리고 '法律의 範圍內에서' 자치입법(조례/규정)을 제정할 수 있다는 후단이 항목 단위로 대응한다. 다만 위임행정사무의 명시와 규범 명칭·한계 기준(법령 대 법률)에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "재산 관리 및 사무 처리 권한",
+          "target_field": "original_text",
+          "target_quote": "行政事務를 處理하며 財産을 管理한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その財産を管理し、事務を処理し、及び行政を執行する権能を有し",
+          "commonality": "자치단체가 재산을 관리하고 사무를 처리한다는 권한을 동일한 병렬 문형으로 규정",
+          "difference": "후보는 '행정을 집행하는 권능'까지 포괄적으로 열거하는 반면, 대상은 사무를 자치사무와 국가위임 행정사무로 구분해 한정한다"
+        },
+        {
+          "element": "자치입법권과 그 한계",
+          "target_field": "original_text",
+          "target_quote": "地方自治團體는 法令의 範圍內에서 自治에 關한 規程을 制定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律の範囲内で条例を制定することができる",
+          "commonality": "법(률)의 범위 내에서 자치규범을 제정할 수 있다는 수권과 한계 설정 문형이 거의 동일",
+          "difference": "한계 기준이 후보는 '법률', 대상은 '법령'이며, 제정 대상도 '조례'와 '자치에 관한 규정'으로 명칭·범위가 다르다"
+        },
+        {
+          "element": "권한 부여 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법령의 범위내에서 그 자치에 관한 행정사무와 국가가 위임한 행정사무를 처리하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "地方公共団体は",
+          "commonality": "권리주체를 지방(공공)단체로 동일하게 설정하고 하나의 조문에서 사무·재산·자치입법을 묶어 규정",
+          "difference": "대상은 전체 권한에 '법령의 범위 내'라는 한계를 앞세우나 후보는 조례제정에만 법률 범위 한계를 붙인다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_118",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "1920년 원안과 문언이 동일하며, 재산과 법률상 한계라는 요소만 부분적으로 겹칠 뿐 위임사무·자치규정 제정 등 대상의 핵심 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_104",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방자치사항의 범위를 법률로 정한다는 점에서 '법령의 범위내'라는 한계 관념과 통하지만, 후보는 사무의 성질에 따른 자치사항 획정과 법률유보만 규정할 뿐 재산 관리·위임사무 처리·자치규정 제정이라는 구체적 권한 규정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_072",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법률에 따라 고유 자치사무와 국가로부터 위임된 사무를 함께 관리한다는 이원적 사무 구분이 대상 전단의 '자치에 관한 행정사무와 국가가 위임한 행정사무' 구조와 구체적으로 대응한다. 다만 주체가 도(Provinz)이고 재산 관리·자치규정 제정 부분은 대응하지 않아 비교 범위는 사무 구분에 한정된다.",
+      "evidence": [
+        {
+          "element": "자치사무와 국가위임사무의 이원 구분",
+          "target_field": "original_text",
+          "target_quote": "그 自治에 關한 行政事務와 國家가 委任한 行政事務를 處理하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "als ausführende Organe des Staates die ihnen übertragenen staatlichen Angelegenheiten (Auftragsangelegenheiten)",
+          "commonality": "자치단체가 고유 자치사무와 국가에서 위임된 사무를 함께 처리한다는 사무 구분 구조가 동일",
+          "difference": "후보는 위임사무 수행 시 '국가의 집행기관으로서'라는 지위를 명시하고 자치사무·위임사무를 a)b)로 분설하나, 대상은 지위 규정 없이 두 사무를 한 문장에 병렬한다"
+        },
+        {
+          "element": "법률에 따른 권한 행사 한계",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법령의 범위내에서 그 자치에 관한 행정사무",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Provinzen verwalten nach Maßgabe des Gesetzes durch ihre eigenen Organe",
+          "commonality": "사무 처리 전반이 법률(법령)의 테두리 안에서 이루어진다는 한정을 앞머리에 둔다",
+          "difference": "후보는 '자신의 기관을 통하여'라는 조직상 요건을 덧붙이고 기준이 '법률'인 반면, 대상은 기관 규정 없이 '법령'을 기준으로 한다"
+        },
+        {
+          "element": "주체 및 후속 규율",
+          "target_field": "original_text",
+          "target_quote": "地方自治團體는",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Gesetz wird den Kreis der den Provinzen überwiesenen Selbstverwaltungsangelegenheiten erweitern",
+          "commonality": "사무 범위의 확정을 법률에 맡기는 태도를 공유",
+          "difference": "후보의 주체는 광역단위인 도이고 제2항은 입법자에 대한 확대 의무 규정인 데 비해, 대상은 지방자치단체 일반을 주체로 하고 자치규정 제정권을 부여한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'法令'과 '行政事務를 處理'라는 어구가 겹치지만, 주체가 도장·시장 등 개별 지방행정기관장이고 내용도 법령 집행과 관하 자치행정 감독이어서, 단체의 자치사무·위임사무·재산관리·자치규정 제정이라는 대상의 규율 요소와는 구조가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'財産을 管理한다'와 '自治에 關한 規程 制定'을 위임행정사무 처리와 한 조문에 결합한 전체 구성",
+    "자치입법의 한계 기준을 '법률'이 아닌 '법령'으로 설정한 점"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했을 뿐 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어 후보의 의미 파악에 제공된 번역문을 부분적으로 참고했으므로 번역 의존 위험이 있다."
+  ],
+  "short_answer": "일본국헌법 제94조는 지방(공공)단체가 재산을 관리하고 사무를 처리하며 법(률)의 범위 내에서 자치규범을 제정할 수 있다는 점에서 대상 조문과 항목·문형이 가장 촘촘히 대응한다. 프로이센헌법 제72조는 고유 자치사무와 국가위임사무를 법률에 따라 함께 관리한다는 이원 구조에서 대상 전단과 구체적으로 대응하나, 주체가 도(Provinz)이고 재산관리·자치규정 제정은 다루지 않는다. 오스트리아 제118조(원안·개정판)는 재산과 법률상 한계라는 요소만 겹치고 경제주체·공과금 징수에 초점이 있으며, 프로이센 제70조와 五五憲草 제104조는 자치권 보장 및 법률유보라는 일반적 유사성에 머문다. 조선임시약헌 제38조는 '법령·행정사무 처리'라는 용어가 겹치지만 주체가 지방행정기관장이고 감독 규정이어서 규율 구조가 다르다. 이상은 문언 대응에 대한 판단이며 역사적 영향의 확정은 아니다."
+}

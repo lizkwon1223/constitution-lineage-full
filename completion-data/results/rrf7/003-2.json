@@ -1,0 +1,92 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_003",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_010",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국민 자격을 헌법에서 직접 정의하지 않고 '국민되는 요건'이라는 동일한 개념 단위를 설정한 뒤 이를 법률에 위임하는 구조와 문형이 거의 그대로 일치한다. 주체(국민), 규율 대상(요건), 규율 방식(법률로 정함), 조문의 간결한 1문 구성이 모두 대응한다.",
+      "evidence": [
+        {
+          "element": "규율 대상: '국민되는 요건'",
+          "target_field": "original_text",
+          "target_quote": "國民되는 要件",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本国民たる要件",
+          "commonality": "국적 취득 사유를 열거하지 않고 '국민이 되는 요건'이라는 포괄 개념을 규율 대상으로 삼는다",
+          "difference": "대상은 '大韓民國의 國民'으로 국가명을 소유격으로 앞세우고, 후보는 '日本国民'이라는 복합어로 표기한다"
+        },
+        {
+          "element": "규율 방식: 법률 위임",
+          "target_field": "original_text",
+          "target_quote": "法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律でこれを定める",
+          "commonality": "요건의 구체적 내용을 헌법이 정하지 않고 법률에 전면 위임하는 단순 법률유보 형식",
+          "difference": "후보는 지시대명사 'これを'를 넣은 일본어 문형이고, 대상은 '法律로써'라는 도구격 표현을 사용한다. 문언 대응은 명확하나 역사적 참조 여부는 본문만으로 확정할 수 없다"
+        },
+        {
+          "element": "조문 구성·위치 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 국민되는 요건은 법률로써 정한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本国民たる要件は、法律でこれを定める。",
+          "commonality": "단서·예외·절차 규정 없이 한 문장으로만 구성된 국민요건 조항",
+          "difference": "대상은 제3조, 후보는 제10조로 편제상 위치가 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국민의 범위를 다루는 주제와 조문 번호(제3조)는 겹치지만, 국적 보유자를 국민으로 '정의'하는 실체 규정이어서 요건을 법률에 위임하는 대상 조문의 규율 방식과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'요건(Bedingungen)은 법률이 정한다'는 법률유보 문형이 유사하나, 규율 대상이 법인격(사단) 권리의 부여·거부 요건으로 국민 자격과 무관하여 일반적 입법위임 상용 문형의 겹침에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'以法律定之'라는 법률위임 상용 문형만 공통되고, 규율 대상이 입법원의 조직이어서 국민 요건과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_135",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률위임 문형은 공통이나 규율 대상이 특수 생활습관 국민 대표의 정원과 선거 방법으로, 국민 자격 요건과는 다른 사항이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제3조에서 국민을 다룬다는 주제·위치 유사성은 있으나, 국적 보유자를 국민으로 규정하는 정의 조항으로서 법률 위임 구조가 없어 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'以法律定之' 문형만 공통되며 규율 대상이 행정원 조직이어서 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'大韓民國의'라는 국호 소유격 표기 방식",
+    "제3조라는 편제상 위치(총강 내 배치)와 국적 정의 방식 채택 여부의 선택"
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언 대응의 확인에 그치며, 실제 기초 과정에서의 참조 관계는 확정할 수 없다.",
+    "후보 중 중화민국 계열 조문은 번역문과 원문의 규율 방식 차이가 뚜렷하여 번역문 유사성에 의존한 판단을 피했다."
+  ],
+  "short_answer": "일본국헌법 제10조가 대상 조문과 가장 밀접하게 대응한다. '국민되는 요건'이라는 개념 설정과 이를 법률에 전면 위임하는 단문 구조가 주체·규율 대상·규율 방식 모두에서 일치하며, 예외나 절차 규정이 없다는 점도 같다. 차이는 국호 표기(大韓民國의 國民 대 日本国民), 조문 위치(제3조 대 제10조), 일본어 지시대명사 'これを'의 유무 정도에 그친다. 중화민국헌법·五五憲草 제3조는 국민을 국적 보유자로 정의하는 실체 규정이어서 주제만 겹치고 위임 구조가 없으며, 중화민국헌법 제61·76·135조와 프로이센 헌법 제31조는 '법률로 정한다'는 상용 위임 문형만 공유한다. 다만 이상의 판단은 문언 대응 수준의 것이고 역사적 참조 관계의 확정은 아니다."
+}

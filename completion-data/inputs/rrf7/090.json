@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_090",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "90",
+    "original_text": "租稅의 種目과 稅率은 法律로써 定한다.",
+    "workbook_text_ko": "조세의 종목과 세율은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_050",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "50",
+      "original_text": "租税의 種目 及 稅率은 法律로써 此를 定함",
+      "workbook_text_ko": "조세의 종목 및 세율은 법률로써 이를 정함."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_030",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "30",
+      "original_text": "国民は、法律の定めるところにより、納税の義務を負ふ。",
+      "workbook_text_ko": "국민은 법률이 정하는 바에 따라 납세의 의무를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_076",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "76",
+      "original_text": "立法院之組織，以法律定之。",
+      "workbook_text_ko": "立法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_061",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "61",
+      "original_text": "行政院之組織，以法律定之。",
+      "workbook_text_ko": "行政院의 組織은 法律로써 정한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_089",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "89",
+      "original_text": "Die Organisation der Gerichte wird durch das Gesetz bestimmt.",
+      "workbook_text_ko": "법원의 조직은 법률로 정\n한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_082",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "82",
+      "original_text": "司法院及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "司法院과 各級法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_089",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "89",
+      "original_text": "考試院之組織，以法律定之。",
+      "workbook_text_ko": "考試院의 組織은 法律로써 定한다."
+    }
+  ]
+}

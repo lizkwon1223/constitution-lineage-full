@@ -1,0 +1,153 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_060",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제11절 (5)는 대통령이 수시로 국민의회에 국정을 보고하고 조치를 권고하는 규정으로 '대통령이 의회에 국무를 전달한다'는 주제는 겹치나, 대상 조문의 핵심 요소인 '국회 출석 발언'과 '서한에 의한 의견 표시'라는 두 가지 방식의 구분이 없고, 보고·권고 의무라는 효과도 다르다. 나머지 절은 대통령 선출·임기·권한 목록으로 대상과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_068",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방대통령의 연방총회에 대한 책임과 탄핵소추 의결정족수를 규정한 조항으로, 출석·발언이나 서한에 의한 의견 표시와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_070",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총통의 재의요구권과 국민대회 복결에 관한 규정으로, 대상 조문의 출석·발언 또는 서한 의견 표시와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무에 관한 문서의 부서와 부서에 의한 책임 규정으로, '국무에 관한 문서'라는 표현이 있으나 대상 조문의 의회 출석·발언 및 서한 의견 표시와는 규율 대상(부서·책임)이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "행정부 구성원의 의회 각 원 출석·발언(청취) 보장이라는 점에서 대상의 출석·발언 요소와 겹치지만, 주체가 장관과 그 대리 관료이고 각 원의 출석 요구권 및 표결권 제한이 중심이며, 서한에 의한 의견 표시 방식이 없다. 같은 요소는 JP1889 등에서 더 근접한 문형으로 나타난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 '서한(교서)'으로 의회와 의사를 전달한다는 요소가 대상 조문의 '書翰으로 意見을 表示한다'와 구체적으로 대응한다. 다만 대응 범위는 서면 전달 방식에 한정되며, 출석·발언 방식은 포함되지 않는다.",
+      "evidence": [
+        {
+          "element": "서한에 의한 의견 표시(주체·방식)",
+          "target_field": "original_text",
+          "target_quote": "또는 書翰으로 意見을 表示한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président de la République communique avec le Parlement par des messages adressés à l'Assemblée nationale.",
+          "commonality": "국가원수가 문서(서한·교서)를 통하여 의회에 의사를 전달하는 방식을 헌법에 명시한다.",
+          "difference": "후보는 서면 교서를 유일한 연락 방식으로 정하고 수신처를 국민의회로 특정하나, 대상은 국회 출석·발언과 서한을 선택적으로 병렬하고 '중요한 국무'라는 사항적 한정을 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_071",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법원 개회 시 출석하여 의견을 진술할 수 있다는 점에서 '출석하여 발언' 요소와 문형이 유사하나, 주체가 관계 각 원의 원장과 각 부·회의 장이어서 대통령이 아니고, 조건이 '입법원 개회 시'로 한정되며 서한 방식이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제3항의 대통령의 수시 국정보고·권고는 대통령이 의회에 국무에 관한 의사를 전달한다는 점에서 주제가 겹치지만, 출석·발언과 서한이라는 방식의 구분이나 '중요한 국무'라는 한정이 없고 의무 형식의 보고·권고라는 점에서 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 교서(서면)에 의한 양원 연락과 행정부 구성원의 의회 출석·발언 청취를 한 조문에서 병렬한 구조가, 대상 조문의 '출석하여 발언' 또는 '서한으로 의견 표시'라는 두 방식 병렬과 요소상 대응한다. 다만 후보에서 출석·발언의 주체는 장관이다.",
+      "evidence": [
+        {
+          "element": "서한(교서)에 의한 의견 표시",
+          "target_field": "original_text",
+          "target_quote": "書翰으로 意見을 表示한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Président de la République communique avec les chambres par des messages",
+          "commonality": "대통령이 문서 형식의 교서로 의회에 의사를 전달하는 방식을 규정한다.",
+          "difference": "후보는 교서를 장관이 연단에서 낭독하도록 절차를 정하고 양원을 상대로 하나, 대상은 낭독 절차 규정이 없고 단원제 국회를 상대로 대통령 본인의 의견 표시로 규정한다."
+        },
+        {
+          "element": "의회 출석·발언",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 發言하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les ministres ont leur entrée dans les deux chambres et doivent être entendus quand ils le demandent.",
+          "commonality": "집행부 측 인사가 의회에 출석하여 발언(청취)할 수 있음을 보장한다.",
+          "difference": "후보의 주체는 장관이고 요구 시 청취 의무라는 형식이며, 대상은 대통령 자신이 중요한 국무에 관하여 출석·발언하는 것으로 주체와 사항적 조건이 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_047",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주수상과 주내각의 내부 권한 배분·의결 절차 규정으로, 대상 조문의 출석·발언 또는 서한 의견 표시와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 국제법상 대표·조약체결·외교관 접수 규정으로, 대상 조문의 규율 요소와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 출석·발언 요소가 겹치지만 주체가 내각총리대신과 국무대신이고, 의석 보유 여부 무관·출석 요구 시 출석의무라는 조건·효과가 대상과 다르며 서한 방식이 없다. 동일 요소는 JP1889에서 더 근접한 문형으로 나타난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "내각 결정의 다수가결과 서명·공포 절차 규정으로, 대상 조문의 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_054",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'각 원에 출석하여 발언할 수 있다'는 문형이 대상의 '國會에 出席하여 發言하거나'와 매우 근접하여 출석·발언 요소의 문언적 대응이 뚜렷하다. 대응 범위는 출석·발언 방식에 한정되고, 주체(대통령 대 국무대신·정부위원)와 서한 방식은 다르다.",
+      "evidence": [
+        {
+          "element": "의회 출석·발언(문형)",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 發言하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "各議院ニ出席シ及発言スルコトヲ得",
+          "commonality": "의회에 '출석하여 발언한다'는 동일한 어법으로 집행부 측의 의회 내 발언을 규정한다.",
+          "difference": "후보의 주체는 국무대신과 정부위원이고 '언제든지'라는 시기 무제한 조건이 붙는 반면, 대상의 주체는 대통령이고 '중요한 국무에 관하여'라는 사항적 한정과 서한에 의한 의견 표시라는 대체 방식이 있다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'重要한 國務에 關하여'라는 사항적 한정",
+    "출석·발언과 서한을 대통령 자신의 선택적 방식으로 병렬하면서 의무·권한 여부를 '表示한다'로 표현한 서술 형식(다만 FR1875는 두 방식을 한 조문에 병렬한다)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토한 것이며 실제 참조·계수 관계의 확정은 제공 본문만으로는 판단할 수 없다.",
+    "FR1946·FR1875의 프랑스어 원문 대응은 '교서(messages)'와 '서한'의 번역상 동일시에 일부 의존한다.",
+    "다수 후보(PR1850, JP1946, ROC1946, JP1889)가 동일한 '출석·발언' 요소를 담고 있어 특정 후보로의 배타적 귀속은 불가하다."
+  ],
+  "short_answer": "대상 조문은 ① 대통령의 국회 출석·발언과 ② 서한에 의한 의견 표시라는 두 방식을 병렬하는데, ②에 대해서는 FR1946 제37조와 FR1875 제6조 전단(대통령의 교서에 의한 의회 연락)이, ①에 대해서는 JP1889 제54조('출석하여 발언')와 FR1875 제6조 후단(장관의 의회 출석·청취)이 구체적으로 대응한다. 특히 FR1875 제6조는 서면 교서와 출석·발언을 한 조문에 병렬한 구조라는 점에서 대상의 병렬 구성과 대응한다. 차이는 주체(후보에서는 장관·국무대신·정부위원이 출석 주체인 경우가 많음), 조건('중요한 국무' 한정 유무, '언제든지', '입법원 개회 시'), 절차(교서의 장관 낭독, 출석 요구 시 의무) 등에서 나타난다. PR1850·JP1946·ROC1946·PH1935·US1787은 같은 주제의 일반적 유사에 그치고, 나머지 후보는 규율 요소가 다르며, 이상은 문언 대응 검토이고 역사적 참조의 확정은 아니다."
+}

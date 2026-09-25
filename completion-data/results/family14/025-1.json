@@ -1,0 +1,151 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_025",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_020",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "「人民有依法律…」이라는 법률유보 문형은 겹치지만 규율 대상이 병역 '의무'로서 대상 조문의 공무원 선거 '권리'와 반대 성격이다. 상용 문형 중복에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원의 정치적 권리 행사 보장과 법 앞의 평등을 다루며, 국민이 공무원을 선거할 권리를 규정한 대상 조문과 규율 방향(공무원이 권리주체 vs 공무원이 선거 대상)이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법률공포·사면·군통수·문무관 임명 등 권한 규정으로, 국민의 선거권과 대응 요소가 없다. 공무원 임명(대통령에 의한)과 공무원 선거(국민에 의한)는 다른 규율이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원제도·임용기준·정치활동 제한·신분보장에 관한 조항이며, 국민이 공무원을 선거할 권리라는 요소가 없다. '투표 외 선거 참여 금지'는 공무원에 대한 제한으로 주체와 효과가 반대다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_020",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「人民有依法律…之權」의 주체(인민)+법률유보+권리 선언 문형이 대상과 유사하나, 권리 내용이 시험 응시권으로 선거권과 다르다. 문형이 법률 상용 표현 수준이어서 선택하지 않았다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_020",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "「法律ノ定ムル所ニ従ヒ」라는 법률유보 문형만 공통이고 내용은 병역 의무로, 권리 조항인 대상과 성격이 반대다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XIV",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제2항에서 대통령·부통령 선거인, 하원의원, 주 행정·사법관 선출 선거의 투표권 제한을 다루어 선거권을 언급하지만, 규율 내용은 하원의원 배정수 감축이라는 제재 효과이고 일반적 선거권 선언이 아니다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_015",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공무원'을 국민이 선정(선거)하는 것을 국민의 권리로 규정한다는 점에서 대상 조문의 핵심 요소(주체=국민, 대상=공무원, 효과=권리)가 구체적으로 대응한다. 다만 법률유보와 파면권·보통선거·비밀투표 부분에서 범위가 다르므로 대응은 제1항 중심으로 한정된다.",
+      "evidence": [
+        {
+          "element": "권리주체와 권리내용(국민이 공무원을 선거할 권리)",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 法律의 定하는 바에 依하여 公務員을 選擧할 權利가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "公務員を選定し、及びこれを罷免することは、国民固有の権利である。",
+          "commonality": "국민이 공무원을 선정(선거)하는 것을 국민의 권리로 선언하는 구조가 같다.",
+          "difference": "후보는 '고유한 권리'로 법률유보 없이 규정하고 파면권까지 포함하나, 대상은 '법률의 정하는 바에 의하여'로 법률유보를 두고 파면권을 언급하지 않는다."
+        },
+        {
+          "element": "선거권 행사의 구체적 조건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "公務員の選挙については、成年者による普通選挙を保障する。",
+          "commonality": "공무원 선거의 조건을 별도로 정하는 규율이 존재한다는 점이 공통된다.",
+          "difference": "후보는 성년자 보통선거를 헌법에서 직접 보장하지만, 대상은 조건 형성을 법률에 위임할 뿐 연령·보통선거 원칙을 명시하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률이 정한 조건에 따른 선거인 자격을 규정해 선거권의 법률유보라는 점은 겹치지만, 대상처럼 '공무원을 선거할 권리'를 국민의 권리로 선언하는 구성이 아니라 선거인의 범위(성년 남녀, 민사·정치적 권리 향유)를 획정하는 조항이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_098",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가공무원의 법률관계와 신분보장을 법률로 정하도록 한 조항으로, 국민의 선거권과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_077",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공무원 임명 자격을 법률로 정한다는 점에서 '공무원'과 법률유보가 겹치지만, 규율 내용은 공무담임(피임명) 자격이며 국민이 공무원을 선거할 권리와는 다른 요소다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "'모든 국민은 법률에 따라'라는 문형만 유사하고 내용은 공공부담(조세) 기여 의무로, 선거권과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_008",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(국민), '법률이 정하는 바에 의한' 법률유보, 선거권이라는 세 요소가 문형까지 근접하게 대응한다. 다만 후보는 피선거권과 고시·공직취임권을 함께 참정권으로 열거하는 반면 대상은 선거권만 규정하므로 대응은 제2호에 한정된다.",
+      "evidence": [
+        {
+          "element": "법률유보 문형과 선거권",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 公務員을 選擧할 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律이 定하는 바에 依한 選擧 及 被選擧의 權利",
+          "commonality": "'법률이 정하는 바에 의한' 선거권을 국민의 권리로 규정하는 문형이 거의 동일하다.",
+          "difference": "후보는 피선거권을 함께 규정하고 선거의 대상 직위를 특정하지 않는데, 대상은 '공무원을 선거할' 권리로 대상을 명시하고 피선거권은 포함하지 않는다."
+        },
+        {
+          "element": "권리주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮國民은 左記 各項의 參政權을 享有함",
+          "commonality": "국민을 주체로 하여 참정권을 향유·보유한다고 선언한다.",
+          "difference": "후보는 참정권을 항목별로 열거하는 총괄 규정이고, 대상은 '모든 국민'이라는 보편성을 명시한 단일 권리 조항이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "선거권·피선거권을 규정하지만 연령·차별금지 사유·군 복무자 동등대우·결격사유 등을 헌법에서 직접 상세히 정하는 방식이어서, 법률유보로 단순 선언한 대상 조문과 규율 방식과 요소 구성이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "선거 대상을 '공무원'으로 포괄 지칭한 점(의원·대통령 등 개별 직위 열거 대신)의 구체적 대응",
+    "'모든 국민'이라는 보편적 주체 표현과 법률유보의 결합 방식"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며, 실제 참조·계수 관계가 있었는지는 제공 본문만으로 확정할 수 없다.",
+    "일본국헌법·오스트리아·프로이센 등 비한자·비한국어 후보는 원문 문형 비교에 번역 이해가 개입될 수 있다."
+  ],
+  "short_answer": "대상 조문의 핵심 요소(국민 주체·법률유보·공무원 선거권)와 가장 구체적으로 대응하는 후보는 일본국헌법 제15조와 조선임시약헌 제8조다. 일본국헌법 제15조는 '공무원을 선정'하는 것을 국민의 권리로 선언한 점에서 권리 대상과 효과가 대응하나, 법률유보 없이 '고유한 권리'로 규정하고 파면권·보통선거·비밀투표까지 포함해 범위가 넓다. 조선임시약헌 제8조는 '법률이 정하는 바에 의한 선거' 권리라는 문형이 거의 일치하지만 피선거권과 고시·공직취임권을 함께 열거하고 선거 대상을 '공무원'으로 특정하지 않는다. 오오오헌초 제20조·대일본제국헌법 제20조·중화민국헌법 제20조는 '법률에 의하여 …권리/의무' 문형만 겹치고 내용이 응시권 또는 병역의무여서 선택하지 않았다. 이상은 문언상 대응 관계이며 역사적 참조의 확정은 아니다."
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_027",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "27",
+    "original_text": "公務員은 主權을 가진 國民의 受任者이며 언제든지 國民에 對하여 責任을 진다. 國民은 不法行爲를 한 公務員의 罷免을 請願할 權利가 있다.\n公務員의 職務上 不法行爲로 因하여 損害를 받은 者는 國家 또는 公共團體에 對하여 賠償을 請求할 수 있다. 但, 公務員 自身의 民事上이나 刑事上의 責任이 免除되는 것은 아니다.",
+    "workbook_text_ko": "공무원은 주권을 가진 국민의 수임자이며 언제든지 국민에 대하여 책임을 진다. 국민은 불법행위를 한 공무원의 파면을 청원할 권리가 있다.\n공무원의 직무상 불법행위로 인하여 손해를 받은 자는 국가 또는 공공단체에 대하여 배상을 청구할 수 있다. 단, 공무원 자신의 민사상이나 형사상의 책임이 면제되는 것은 아니다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_131",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "131",
+      "original_text": "Verletzt ein Beamter in Ausübung der ihm anvertrauten öffentlichen Gewalt die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in deren Dienste der Beamte steht. Der Rückgriff gegen den Beamten bleibt vorbehalten. Der ordentliche Rechtsweg darf nicht ausgeschlossen werden.\nDie nähere Regelung liegt der zuständigen Gesetzgebung ob.",
+      "workbook_text_ko": "공무원이 자신에게 위임된 공권을 행사함에 있어 제삼자에 대해 부담하는 직무상의 의무를 위반했을 경우, 그 책임은 원칙적으로 해당 공무원을 임명한 국가 또는 공공단체에 있다. 당해 공무원에 대한 구상은 저해되지 않는다. 통상소송의 방법이 금지되어서는 안 된다.\n상세한 사항은 관할 입법기관이 정한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_017",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "17",
+      "original_text": "何人も、公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる。",
+      "workbook_text_ko": "누구든지 공무원의 불법행위로 인하여 손해를 입었을 때에는 법률이 정하는 바에 따라 국가 또는 공공단체에 배상을 청할 수 있다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_025",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "25",
+      "original_text": "公民은 主權機關에 請願 또는 申訴를 提出할 수 있다.\n公民은 主權機關 公務員의 職務上 非法的 行爲에 對하여 申訴할 수 있으며 그 結果로 입은 損害에 對하여 賠償을 請求할 수 있다.",
+      "workbook_text_ko": "공민은 주권기관에 청원 또는 신소를 제출할 수 있다.\n공민은 주권기관 공무원의 직무상 비법적 행위에 대하여 신소할 수 있으며 그 결과로 입은 손해에 대하여 배상을 청구할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_015",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "15",
+      "original_text": "公務員を選定し、及びこれを罷免することは、国民固有の権利である。\n２　すべて公務員は、全体の奉仕者であつて、一部の奉仕者ではない。\n３　公務員の選挙については、成年者による普通選挙を保障する。\n４　すべて選挙における投票の秘密は、これを侵してはならない。選挙人は、その選択に関し公的にも私的にも責任を問はれない。",
+      "workbook_text_ko": "①공무원을 선정하고 파면하는 것은 국민의 고유한 권리이다.\n②모든 공무원은 국민전체를 위한 봉사자이며 일부를 위한 봉사자가 아니다.\n③공무원 선거는 성년자에 의한 보통선거가 보장된다.\n④모든 선거에서 투표의 비밀은 침해받지 아니한다. 선거인은 선택에 대하여 공적 또는 사적으로 책임지지 아니한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_023",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "23",
+      "original_text": "(1) Alle mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung oder der Gerichtsbarkeit betrauten Personen sind für jeden bei der Ausübung ihrer Tätigkeit durch vorsätzliche oder grobfahrlässige Rechtsverletzung wem immer zugefügten Schaden haftbar. Der Bund, die Länder oder die Gemeinden haften für die Rechtsverletzungen der von ihnen bestellten Personen.\n(2) Das Nähere regelt ein Bundesgesetz.",
+      "workbook_text_ko": "(1) 연방·주 또는 지방자치단체의 행정이나 재판 업무를 맡은 모든 사람은 그 활동을 수행하면서 고의 또는 중대한 과실에 의한 위법행위로 누구에게든 가한 모든 손해에 대하여 책임을 진다. 연방·주 또는 지방자치단체는 자신이 임명한 사람의 위법행위에 대하여 책임을 진다.\n(2) 자세한 사항은 연방법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_024",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "24",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "違法的으로 人民의 自由 또는 權利를 侵害한 公務員은 法律에 依하여 懲戒를 받는 外에 刑事上 및 民事上의 責任을지지 않으면 아니 된다. 害를 받은 人民은 그 損害에 關하여 法律의 定하는 바에 依하여 國家에 對하여 賠償을 請求할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_026",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "26",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律懲戒外，應負刑事及民事責任，被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "공무원이 위법하게 인민의 자유나 권리를 침해한 때에는 법률에 따른 징계 외에 형사상 및 민사상 책임을 져야 한다. 피해를 입은 인민은 자신이 입은 손해에 대하여 법률에 따라 국가에 배상을 청구할 수도 있다."
+    }
+  ]
+}

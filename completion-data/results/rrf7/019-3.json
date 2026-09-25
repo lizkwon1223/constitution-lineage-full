@@ -1,0 +1,121 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_019",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_017",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「法律の定めるところにより」라는 법률유보 문형이 대상의 「法律의 定하는 바에 依하여」와 형식적으로 겹치나, 규율 내용은 공무원 불법행위로 인한 손해배상청구권이어서 생활능력 상실자에 대한 국가보호와 주체·요건·효과가 모두 다르다. 상용 문형의 일치만으로는 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_124",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가의 보호의무를 정한 사회조항이라는 점은 같으나, 대상은 노동능력을 상실한 생활무능력자의 보호인 데 비해 이 후보는 재직 노동자의 생활개선·생산기능 증진·실업구제 및 부녀아동 특별보호로서 수범 대상과 급부 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_119",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "혼인·가족·모성에 대한 국가의 보호와 배려를 정한 조항으로, 노령·질병·근로능력 상실이라는 요건이나 생활유지 무능력자 보호라는 효과와 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_128",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "노령 및 신체적 사유로 스스로 생활할 능력이 없는 자를 요건으로 삼아 국가가 구제·보호를 제공한다는 한 문장 구조가 대상과 구체적으로 대응한다. 다만 법률유보 문구와 질병·근로능력 상실이라는 요건 표현의 세분화는 대상에만 있다.",
+      "evidence": [
+        {
+          "element": "수급 대상(요건)",
+          "target_field": "original_text",
+          "target_quote": "老齡, 疾病 其他 勤勞能力의 喪失로 因하여 生活維持의 能力이 없는 者",
+          "candidate_field": "original_text",
+          "candidate_quote": "老弱殘廢無力生活者",
+          "commonality": "노령 등 사유로 생활을 유지할 능력이 없는 자를 보호 대상으로 특정하는 점이 같다",
+          "difference": "대상은 '질병 기타 근로능력의 상실'이라는 인과요건으로 범주를 구성하는 반면, 후보는 노·약·잔·폐라는 상태 열거로 특정한다"
+        },
+        {
+          "element": "국가의 급부 효과",
+          "target_field": "original_text",
+          "target_quote": "國家의 保護를 받는다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家應予以適當之救濟",
+          "commonality": "국가가 해당자에게 보호·구제를 제공한다는 효과를 규정한다",
+          "difference": "대상은 개인이 보호를 '받는다'는 수급자 시점의 서술인 데 비해 후보는 국가가 '적당한' 구제를 하여야 한다는 국가 의무·재량 형식이다"
+        },
+        {
+          "element": "실현 방식(법률유보)",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "應予以適當之救濟",
+          "commonality": "보호의 구체적 내용이 조문 자체로 확정되지 않고 국가의 후속 결정에 맡겨진다",
+          "difference": "대상은 법률에 의한 형성을 명시하지만, 후보는 '적당한'이라는 기준만 두고 법률유보를 명시하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_153",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "노동자·농민 보호 법률 제정과 정책 실시를 정한 조항으로, 국가 보호와 법률에 의한 실현이라는 일반적 구도는 유사하나 근로능력 상실자에 대한 생활보호라는 대상 요건과는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_017",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "노쇠·질병·노동력 상실이라는 요건 열거가 대상의 '노령, 질병 기타 근로능력의 상실'과 거의 그대로 대응하고, 그 결과 국가로부터 물질적 보호를 받는다는 효과 구조도 유사하다. 다만 사회보험제 적용 공민이라는 인적 제한과 보장 수단의 명시는 대상에 없다.",
+      "evidence": [
+        {
+          "element": "보호 요건의 열거",
+          "target_field": "original_text",
+          "target_quote": "老齡, 疾病 其他 勤勞能力의 喪失",
+          "candidate_field": "original_text",
+          "candidate_quote": "老衰 疾病 또는 勞動力을 喪失한 境遇",
+          "commonality": "노령(노쇠)·질병·근로(노동)능력 상실을 병렬 열거하여 보호 사유로 삼는 표현이 거의 일치한다",
+          "difference": "대상은 '기타 근로능력의 상실'을 포괄 요건으로 두고 '생활유지의 능력이 없는 자'라는 결과요건을 추가하나, 후보는 사유 열거에 그친다"
+        },
+        {
+          "element": "권리 주체의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "생활유지의 능력이 없는 자는",
+          "candidate_field": "original_text",
+          "candidate_quote": "社會保險制를 適用받을 수 있는 公民이",
+          "commonality": "일정 요건을 갖춘 개인을 급부의 주체로 삼는다",
+          "difference": "대상은 생활무능력자 일반인 반면, 후보는 사회보험제 적용 대상 공민으로 인적 범위를 한정한다"
+        },
+        {
+          "element": "급부 내용과 실현 방식",
+          "target_field": "original_text",
+          "target_quote": "法律의 定하는 바에 依하여 國家의 保護를 받는다",
+          "candidate_field": "original_text",
+          "candidate_quote": "이 權利는 國家가 實施하는 社會保險制에 依한 醫療上 幇助 또는 物質的 保護로서 保障한다",
+          "commonality": "국가가 제공하는 보호를 통해 권리가 실현된다는 구조를 취한다",
+          "difference": "대상은 법률에 의한 형성을 유보하는 데 그치나, 후보는 사회보험제·의료상 방조·물질적 보호라는 구체적 보장 수단을 별항으로 명시한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_152",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "'工作能力者'에게 근로기회를 제공한다는 규정으로, 근로능력을 상실한 자에 대한 보호를 정한 대상과 요건이 정반대의 짝을 이룬다. 문언상 대응이 아니라 대조 관계여서 선택하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'생활유지의 능력이 없는 자'라는 결과요건(사유가 아니라 생활유지 능력 유무로 대상을 확정하는 방식)",
+    "'법률의 정하는 바에 의하여'라는 법률유보 형식 — 후보 중 JP1946_ORIGINAL_ART_017에 동일한 문형이 있으나 규율 사항이 달라 대상 조문의 이 요소를 설명하는 근거로는 제한적이다"
+  ],
+  "limitations": [
+    "문언상 대응을 검토한 것이며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "중화민국 후보의 한문 원문과 대상 한자 표현의 대응은 어휘 차원 비교에 그치며, 번역문에 의존한 판단은 배제하려 하였다.",
+    "ROC1946_PROM1947 계열에서 사회구제·사회보험을 직접 규율하는 조문이 후보에 포함되지 않아 비교 범위가 제한된다."
+  ],
+  "short_answer": "대상 조문과 구체적으로 대응하는 후보는 ROC1936_DRAFT_ART_128과 NK1948_DRAFT_19480428_ART_017이다. 전자는 '노령 등으로 생활능력이 없는 자'라는 요건과 '국가의 구제'라는 효과를 한 문장으로 묶은 구조가 대상과 일치하나, 법률유보가 없고 국가 의무형(應予以適當之救濟)이라는 점이 다르다. 후자는 '노쇠 질병 또는 노동력 상실'이라는 사유 열거가 대상의 '노령, 질병 기타 근로능력의 상실'과 거의 그대로 겹치지만, 주체를 사회보험제 적용 공민으로 한정하고 보장 수단을 사회보험·의료상 방조·물질적 보호로 명시하는 점에서 차이가 있다. ROC1946_PROM1947_ART_152는 근로능력을 가진 자에게 근로기회를 주는 규정으로 대상과 대조 관계이고, 노동자 보호 조항들과 바이마르 제119조는 주제만 인접한 일반적 유사에 그친다. 이상은 문언 대응의 판단이며 실제 참조 여부는 확정하지 않는다."
+}

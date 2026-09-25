@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_009",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "9",
+    "original_text": "모든 國民은 身體의 自由를 가진다. 法律에 依하지 아니하고는 逮捕, 拘禁, 搜索, 審問, 處罰과 强制勞役을 받지 아니한다.\n逮捕, 拘禁, 搜索에는 法官의 令狀이 있어야 한다. 但, 犯罪의 現行 犯人의 逃避 또는 證據湮滅의 念慮가 있을 때에는 搜査機關은 法律의 定하는 바에 依하여 事後에 令狀의 交付를 請求할 수 있다.\n누구든지 逮捕, 拘禁을 받은 때에는 卽時 辯護人의 助力을 받을 權利와 그 當否의 審査를 法院에 請求할 權利가 保障된다.",
+    "workbook_text_ko": "모든 국민은 신체의 자유를 가진다. 법률에 의하지 아니하고는 체포, 구금, 수색, 심문, 처벌과 강제노역을 받지 아니한다.\n체포, 구금, 수색에는 법관의 영장이 있어야 한다. 단, 범죄의 현행 범인의 도피 또는 증거인멸의 염려가 있을 때에는 수사기관은 법률의 정하는 바에 의하여 사후에 영장의 교부를 청구할 수 있다.\n누구든지 체포, 구금을 받은 때에는 즉시 변호인의 조력을 받을 권리와 그 당부의 심사를 법원에 청구할 권리가 보장된다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_037",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "37",
+      "original_text": "Kein Mitglied des Reichstags oder eines Landtags kann ohne Genehmigung des Hauses, dem der Abgeordnete angehört, während der Sitzungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, es sei denn, daß das Mitglied bei Ausübung der Tat oder spätestens im Laufe des folgenden Tages festgenommen ist.\nDie gleiche Genehmigung ist bei jeder anderen Beschränkung der persönlichen Freiheit erforderlich, die die Ausübung des Abgeordnetenberufs beeinträchtigt.\nJedes Strafverfahren gegen ein Mitglied des Reichstags oder eines Landtags und jede Haft oder sonstige Beschränkung seiner persönlichen Freiheit wird auf Verlangen des Hauses, dem der Abgeordnete angehört, für die Dauer der Sitzungsperiode aufgehoben.",
+      "workbook_text_ko": "제국의회와 주 의회 소속 의원은 소속 의원이 현행범으로 혹은 늦어도 익일 중에 체포된 경우가 아니라면, 동 의원이 속한 의회의 허가 없이 회기 중에 범죄행위를 이유로 조사를 받거나 체포되는 처분을 금한다.\n동일한 (소속 의회의) 허가는 의원의 직무행사를 침해하는 신체의 자유에 대한 그 밖의 모든 침해의 경우에도 필요하다.\n제국의회와 주 의회의 의원과 관계된 일체의 형사소송 및 체포 혹은 신체의 자유 및 기타 이에 준하는 침해와 관련하여, 해당 의원이 속한 의회의 요구가 있는 경우 회기 동안 해당 절차를 중지한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_014",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "14",
+      "original_text": "Aucun membre de l'une ou de l'autre chambre ne peut, pendant la durée de la session, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la chambre dont il fait partie, sauf le cas de flagrant délit. - La détention ou la poursuite d'un membre de l'une ou de l'autre chambre est suspendue pendant la session, et pour toute sa durée, si la chambre le requiert.",
+      "workbook_text_ko": "어느 원의 어떠한 의원도 회기 중 현행범인(flagrant délit)을 제외하\n고, 소속한 원의 허락이 없으면 중죄사건(matière criminelle) 또는 경죄사건\n(matière correctionnelle)에 대해서 소추되거나 체포되지 아니한다.\n어느 원의 의원의 구류ㆍ소추는 원의 요구가 있으면 회기 중 전기간을 통\n하여 중단된다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_034",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "34",
+      "original_text": "何人も、理由を直ちに告げられ、且つ、直ちに弁護人に依頼する権利を与へられなければ、抑留又は拘禁されない。又、何人も、正当な理由がなければ、拘禁されず、要求があれば、その理由は、直ちに本人及びその弁護人の出席する公開の法廷で示されなければならない。",
+      "workbook_text_ko": "누구든지 이유를 지체 없이 고지 받고 또한 즉시 변호인에게 의뢰할 권리가 부여되지 아니하고는 억류 또는 구금되지 아니한다. 또한 누구든지 정당한 이유 없이 구금되지 아니하며, 요구가 있으면 지체 없이 구금의 이유를 본인 및 그 변호인이 출석하는 공개된 법정에서 제시하여야 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_005",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "5",
+      "original_text": "Die persönliche Freiheit ist gewährleistet. Die Bedingungen und Formen, unter welchen eine Beschränkung derselben, insbesondere eine Verhaftung zulässig ist, werden durch das Gesetz bestimmt.",
+      "workbook_text_ko": "신체의 자유는 보장된다. 어\n떠한 조건과 방식으로 그 제한이, 특히\n신체구속이 허용되는지는 법률로 정\n한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_025",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "25",
+      "original_text": "(1) Der Landtag hat das Recht und auf Antrag von einem Fünftel der gesetzlichen Zahl seiner Mitglieder die Pflicht, Untersuchungsausschüsse einzusetzen. Diese Ausschüsse erheben in öffentlicher Verhandlung die Beweise, die sie oder die Antragsteller für erforderlich erachten. Sie können mit Zweidrittelmehrheit die Öffentlichkeit ausschließen. Die Geschäftsordnung regelt ihr Verfahren und bestimmt die Zahl ihrer Mitglieder.\n(2) Die Gerichte und Verwaltungsbehörden sind verpflichtet, dem Ersuchen dieser Ausschüsse um Beweiserhebungen nachzukommen; die Akten der Behörden sind ihnen auf Verlangen vorzulegen.\n(3) Für die Beweiserhebungen der Ausschüsse und der von ihnen ersuchten Behörden gelten die Vorschriften der Strafprozeßordnung sinngemäß, doch bleibt das Brief-, Post-, Telegraphen- und Fernsprechgeheimnis unberührt.",
+      "workbook_text_ko": "(1) 주의회는 조사위원회를 설치할 권한을 가지며, 법정 의원정수 5분의 1의 요구가 있으면 설치할 의무를 진다. 이 위원회는 스스로 또는 요구자가 필요하다고 인정하는 증거를 공개 심리에서 조사한다. 위원회는 3분의 2의 다수로 공개를 배제할 수 있다. 의사규칙으로 그 절차와 위원 수를 정한다.\n(2) 법원과 행정기관은 이 위원회의 증거조사 요청에 응할 의무를 지며, 요구가 있으면 기관의 문서를 제출하여야 한다.\n(3) 위원회와 그 요청을 받은 기관의 증거조사에는 형사소송법의 규정을 준용한다. 다만, 서신·우편·전신 및 전화의 비밀은 침해하지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_008",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "8",
+      "original_text": "人民身體之自由應予保障。除現行犯之逮捕由法律另定外，非經司法或警察機關依法定程序，不得逮捕拘禁。非由法院依法定程序，不得審問處罰。非依法定程序之逮捕，拘禁，審問，處罰，得拒絕之。\n人民因犯罪嫌疑被逮捕拘禁時，其逮捕拘禁機關應將逮捕拘禁原因，以書面告知本人及其本人指定之親友，並至遲於二十四小時內移送該管法院審問。本人或他人亦得聲請該管法院，於二十四小時內向逮捕之機關提審。\n法院對於前項聲請，不得拒絕，並不得先令逮捕拘禁之機關查覆。逮捕拘禁之機關，對於法院之提審，不得拒絕或遲延。\n人民遭受任何機關非法逮捕拘禁時，其本人或他人得向法院聲請追究，法院不得拒絕，並應於二十四小時內向逮捕拘禁之機關追究，依法處理。",
+      "workbook_text_ko": "人民의 身體의 自由는 保障되어야 한다. 人民의 逮捕 또는 拘禁은 따로 法律의 定하는 現行犯의 逮捕의 境遇를 除外하고는 司法 또는 警察機關이 法定手續에 依하여 이를 行하여야하며 그 審問 또는 處罰은 法院이 法定手續에 依하여 이를 行하여야한다. 法定手續에 依하지 아니하는 逮捕, 拘禁, 審問 또는 處罰은 이를 拒絶할 수 있다.\n  人民이 犯罪嫌疑로 因하여 逮捕 또는 拘禁된 때에는 그 逮捕 또는 拘禁機關은 逮捕 또는 拘禁의 理由를 書面으로써 本人 및 本人이 指定하는 親族 또는 友人에게 告知하는 同時에늦어도 24時間以內에 當該管轄 法院에 移送하여  審問에 付하여야 한다. 本人 自身 또는 他人이라도 當該管轄法院에 對하여 逮捕機關에게 24時間以內의 審問을 爲한 本人의 引渡를 要求할 것을 申請할 수 있다.\n  法院은 前項의 申請을 拒絶할 수 없으며 또 逮捕 또는 拘禁機關에 對하여 먼저 調査 報告할 것을 命令하지 못한다. 逮捕 또는 拘禁機關은 法院의 審問을 爲한 本人의 引渡의 要求를拒絶또는 遲延하지 못한다.\n  如何한 機關에 依하여서나 不法하게 人民이 逮捕 또는 拘禁된 때에는 그 本人 또는 他人은 法院에 對하여 그 調査를 申請할 수 있다. 法院은 이를 拒絶할 수 없으며 또 24時間以內에 逮捕 또는 拘禁機關에 對하여 調査를 行하고 法律에 依하여 處理하여야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_023",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "23",
+      "original_text": "日本臣民ハ法律ニ依ルニ非スシテ逮捕監禁審問処罰ヲ受クルコトナシ",
+      "workbook_text_ko": "일본 신민은 법률에 의하지 않고는 체포·감금·심문 또는 처벌을 받지 않는다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_022",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "22",
+      "original_text": "Aucun membre du Parlement ne peut, pendant la durée de son mandat, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la Chambre dont il fait partie, sauf le cas de flagrant délit. La détention ou la poursuite d'un membre du Parlement est suspendue si la Chambre dont il fait partie le requiert.",
+      "workbook_text_ko": "국회의원은 임기 중 소속한 원의 허락이 없으면 중죄 또는 경죄사건\n에서 소추되거나 또는 체포되지 아니한다. 다만, 현행범인(flagrant délit)인\n경우에는 그러하지 아니하다. 국회의원의 구류(détention) 또는 소추는 소\n속하는 원의 청구가 있을 때에는 정지된다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_006",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "6",
+      "original_text": "國民은 左記 各項에 依하여 自由權을 享有함\n一 法律에 依하지 아니한 逮捕 拘禁 審問 處罰을 받지 않는 自由\n二 法律에 依하지 아니한 家宅의 侵入 또는 搜索을 받지 않는 自由\n三 法律에 依하지 아니한 住居 及 移轉의 制限을 받지 않는 自由\n四 法律에 依하지 아니한 言論 著作 刊行 集會 及 結社의 制限을 받지 않는 自由\n五 法律에 依하지 아니한 信書 秘密의 侵犯을 받지 않는 自由\n六 法律에 依하지 아니한 財產 及 營業의 侵害를 받지 않는 自由\n七 安寧秩序를 妨害하지 않는 信敎의 自由",
+      "workbook_text_ko": "국민은 아래 각 항에 의하여 자유권을 향유함.\n1. 법률에 의하지 아니한 체포·구금·심문·처벌을 받지 않는 자유\n2. 법률에 의하지 아니한 가택의 침입 또는 수색을 받지 않는 자유\n3. 법률에 의하지 아니한 주거 및 이전의 제한을 받지 않는 자유\n4. 법률에 의하지 아니한 언론·저작·간행·집회 및 결사의 제한을 받지 않는 자유\n5. 법률에 의하지 아니한 신서 비밀의 침범을 받지 않는 자유\n6. 법률에 의하지 아니한 재산 및 영업의 침해를 받지 않는 자유\n7. 안녕질서를 방해하지 않는 신교의 자유"
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "III",
+      "original_text": "SECTION 1. (1) No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws.\n(2) Private property shall not be taken for public use without just compensation.\n(3) The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures shall not be violated, and no warrants shall issue but upon probable cause, to be determined by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched, and the persons or things to be seized.\n(4) The liberty of abode and of changing the same within the limits prescribed by law shall not be impaired.\n(5) The privacy of communication and correspondence shall be inviolable except upon lawful order of the court or when public safety and order require otherwise.\n(6) The right to form associations or societies for purposes not contrary to law shall not be abridged.\n(7) No law shall be made respecting an establishment of religion, or prohibiting the free exercise thereof, and the free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed. No religious test shall be required for the exercise of civil or political rights.\n(8) No law shall be passed abridging the freedom of speech, or of the press, or the right of the people peaceably to assemble and petition the Government for redress of grievances.\n(9) No law granting a title of nobility shall be enacted, and no person holding any office of profit or trust shall, without the consent of the Congress of the Philippines, accept any present, emolument, office, or title of any kind whatever from any foreign state.\n(10) No law impairing the obligation of contracts shall be passed.\n(11) No ex post facto law or bill of attainder shall be enacted.\n(12) No person shall be imprisoned for debt or nonpayment of a poll tax.\n(13) No involuntary servitude in any form shall exist except as a punishment for crime whereof the party shall have been duly convicted.\n(14) The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion, insurrection, or rebellion, when the public safety requires it, in any of which events the same may be suspended wherever during such period the necessity for such suspension shall exist.\n(15) No person shall be held to answer for a criminal offense without due process of law.\n(16) All persons shall before conviction be bailable by sufficient sureties, except those charged with capital offenses when evidence of guilt is strong. Excessive bail shall not be required.\n(17) In all criminal prosecutions the accused shall be presumed to be innocent until the contrary is proved, and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witnesses in his behalf.\n(18) No person shall be compelled to be a witness against himself.\n(19) Excessive fines shall not be imposed, nor cruel and unusual punishment inflicted.\n(20) No person shall be twice put in jeopardy of punishment for the same offense. If an act is punished by a law and an ordinance, conviction or acquittal under either shall constitute a bar to another prosecution for the same act.\n(21) Free access to the courts shall not be denied to any person by reason of poverty.",
+      "workbook_text_ko": "제1절. (1) 누구도 적법절차 없이 생명·자유 또는 재산을 박탈당하지 않으며, 누구에게도 법률의 평등한 보호를 거부할 수 없다.\n(2) 정당한 보상 없이 사유재산을 공공용도로 수용할 수 없다.\n(3) 불합리한 수색·압수로부터 신체·주거·문서 및 소지품의 안전을 보장받을 국민의 권리는 침해할 수 없다. 영장은 고소인과 그가 제시하는 증인을 선서 또는 확약 아래 심문한 뒤 판사가 판단하는 상당한 이유가 있어야 하고, 수색할 장소와 체포할 사람 또는 압수할 물건을 특정하여야 발부할 수 있다.\n(4) 법률이 정한 범위 안에서 거주하고 거주지를 변경할 자유는 침해할 수 없다.\n(5) 통신과 서신의 비밀은 법원의 적법한 명령이 있거나 공공의 안전과 질서가 달리 요구하는 경우를 제외하고는 침해할 수 없다.\n(6) 법률에 반하지 않는 목적을 위하여 단체나 결사를 조직할 권리를 제한할 수 없다.\n(7) 국교의 수립에 관한 법률이나 종교의 자유로운 행사를 금지하는 법률을 제정할 수 없다. 차별이나 우대 없이 종교적 신앙과 예배를 자유롭게 실천하고 향유하는 것은 영구히 허용한다. 시민적 또는 정치적 권리의 행사에 종교적 심사를 요구할 수 없다.\n(8) 언론·출판의 자유 또는 국민이 평화롭게 집회하고 고충의 구제를 위하여 정부에 청원할 권리를 제한하는 법률을 제정할 수 없다.\n(9) 귀족 칭호를 부여하는 법률을 제정할 수 없다. 보수나 신임을 수반하는 공직에 있는 사람은 필리핀 의회의 동의 없이 외국으로부터 어떠한 종류의 선물·보수·직위 또는 칭호도 받을 수 없다.\n(10) 계약상 의무를 침해하는 법률을 제정할 수 없다.\n(11) 소급처벌법이나 사권박탈법을 제정할 수 없다.\n(12) 누구도 채무나 인두세 미납 때문에 구금되지 않는다.\n(13) 적법하게 유죄판결을 받은 범죄에 대한 처벌을 제외하고는 어떠한 형태의 강제노역도 존재할 수 없다.\n(14) 인신보호영장의 특권은 침략·반란 또는 모반이 있고 공공의 안전이 요구하는 경우를 제외하고는 정지할 수 없다. 이러한 사태에서는 그 기간 중 정지할 필요가 있는 곳에서만 정지할 수 있다.\n(15) 누구도 적법절차 없이 형사범죄에 대한 책임을 추궁받지 않는다.\n(16) 사형에 해당하는 범죄로 기소되고 유죄의 증거가 강한 경우를 제외하고는 모든 사람은 유죄판결 전에 충분한 보증을 제공하여 보석될 수 있다. 과도한 보석보증금을 요구할 수 없다.\n(17) 모든 형사소추에서 피고인은 반대의 증명이 있을 때까지 무죄로 추정되며, 자신과 변호인을 통하여 진술할 권리, 공소의 성질과 이유를 통지받을 권리, 신속하고 공개된 재판을 받을 권리, 증인과 대면할 권리 및 자신을 위한 증인의 출석을 확보할 강제절차를 이용할 권리를 가진다.\n(18) 누구도 자신에게 불리한 증인이 되도록 강요받지 않는다.\n(19) 과도한 벌금이나 잔혹하고 이례적인 형벌을 부과할 수 없다.\n(20) 누구도 같은 범죄로 두 번 처벌의 위험에 놓이지 않는다. 하나의 행위가 법률과 조례에 따라 처벌되는 경우, 어느 하나에 따른 유죄 또는 무죄의 판단은 같은 행위에 대한 다른 소추를 막는다.\n(21) 누구도 빈곤을 이유로 법원에 자유롭게 접근할 권리를 거부당하지 않는다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_024",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "24",
+      "original_text": "公民은 人身의 不可侵을 保護받는다.\n一切 公民은 裁判所의 決定 또는 檢事의 承認이 없이는 逮捕되지 않는다.",
+      "workbook_text_ko": "공민은 인신의 불가침을 보호받는다.\n일체 공민은 재판소의 결정 또는 검사의 승인이 없이는 체포되지 않는다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_057",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "57",
+      "original_text": "(1) Die Mitglieder des Nationalrates können wegen der in Ausübung dieses Berufes geschehenen Abstimmungen niemals, wegen der in diesem Beruf gemachten Äußerungen nur vom Nationalrat verantwortlich gemacht werden.\n(2) Kein Mitglied des Nationalrates darf wegen einer strafbaren Handlung – den Fall der Ergreifung auf frischer Tat bei Verübung eines Verbrechens ausgenommen – ohne Zustimmung des Nationalrates verhaftet oder sonst behördlich verfolgt werden.\n(3) Im Fall der Ergreifung auf frischer Tat hat die Behörde dem Präsidenten des Nationalrates sogleich die geschehene Verhaftung bekanntzugeben.\n(4) Wenn es der Nationalrat verlangt, muß die Haft aufgehoben oder die Verfolgung überhaupt auf die Dauer der Gesetzgebungsperiode aufgeschoben werden.\n(5) Die Immunität der Organe des Nationalrates, deren Funktion über die Gesetzgebungsperiode hinausgeht, bleibt für die Dauer dieser Funktion bestehen.",
+      "workbook_text_ko": "(1) 국민의회 의원은 직무를 수행하며 한 표결에 대하여 어떠한 경우에도 책임을 추궁당하지 않으며, 그 직무상 한 발언에 대하여는 국민의회에 의해서만 책임을 추궁당할 수 있다.\n(2) 국민의회 의원은 중죄를 범하는 현장에서 체포된 경우를 제외하고, 국민의회의 동의 없이 범죄행위로 체포되거나 그 밖에 관청의 소추를 받을 수 없다.\n(3) 현행범으로 체포한 경우 관청은 체포 사실을 즉시 국민의회 의장에게 알려야 한다.\n(4) 국민의회가 요구하면 구금을 해제하거나 소추 전부를 입법기 동안 연기하여야 한다.\n(5) 직무가 입법기 이후까지 계속되는 국민의회 기관의 면책·불체포특권은 그 직무가 계속되는 동안 존속한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_IV",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "IV",
+      "original_text": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.",
+      "workbook_text_ko": "부당한 수색, 체포, 압수로부터 신체, 가택, 서류 및 동산\n(動産)의 안전을 보장받는 개인의 권리는 침해될 수 없다.\n영장은 상당한 이유에 근거하고, 선서 또는 확약에 의하여\n뒷받침되고, 수색될 장소, 체포될 사람 또는 압수될 물품을\n구체적으로 기재하지 않고는 발부될 수 없다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_009",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "9",
+      "original_text": "人民有身體之自由，非依法律不得逮捕拘禁審問或處罰。人民因犯罪嫌疑被逮捕拘禁者，其執行機關，應即將逮捕拘禁原因，告知本人及其親屬，並至遲於二十四小時內，移送於該管法院審問，本人或他人亦得聲請該管法院於二十四小時內，向執行機關提審。\n法院對於前項聲請不得拒絕，執行機關對於法院之提審，亦不得拒絕。",
+      "workbook_text_ko": "인민은 신체의 자유를 가진다. 법률에 의하지 않고는 체포·구금·심문 또는 처벌할 수 없다. 범죄의 혐의로 체포·구금된 인민에 대하여 집행기관은 즉시 체포·구금의 원인을 본인과 그 친족에게 알려야 하며, 늦어도 24시간 이내에 관할 법원으로 이송하여 심문을 받게 하여야 한다. 본인 또는 다른 사람도 관할 법원이 24시간 이내에 집행기관으로부터 그 사람을 인치하여 심문하도록 청구할 수 있다.\n법원은 전항의 청구를 거부할 수 없으며, 집행기관도 법원의 인치심문 요구를 거부할 수 없다."
+    }
+  ]
+}

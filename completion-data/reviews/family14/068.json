@@ -1,0 +1,65 @@
+{
+  "article": 68,
+  "reviewed_at": "2026-09-22T16:12:21.893912+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "402d69523fe55fe6cd4a02d985407d9db7288a60d7863f83692b4f3276946026",
+  "input_sha256": "f51a5194fadaa0555fe42f10c3996a4de7a62a8fad2d85555056f7273a3ab412",
+  "responses": [
+    {
+      "job_id": "068_94ea6e1877a8_r1",
+      "repeat": 1,
+      "sha256": "7529fa1445b9554e9105650b40579c9a405c872f0f132a6d6ceaa0b004fd7b58",
+      "assessment": "구성과 중요 사항 의결을 구분함. 일본 추밀원 규정의 관제 준거에서 구성 위임을 확정한 점은 좁혀야 함."
+    },
+    {
+      "job_id": "068_94ea6e1877a8_r2",
+      "repeat": 2,
+      "sha256": "33ed805aee7e9a6dd2a75917de6dd6bcbeced03f6ff99d5a45ea1f58b9fe028b",
+      "assessment": "일본·약헌의 조직과 중화민국의 조직·의결 이중 대응을 포착함. 오스트리아의 구성 부분 대응도 보완 가능함."
+    },
+    {
+      "job_id": "068_94ea6e1877a8_r3",
+      "repeat": 3,
+      "sha256": "d7c7b9106818ef40544f678243d697ed73bc28f12dafb71d4b914122e717cf66",
+      "assessment": "대통령의 구성원 지위와 의결 권한을 구분함. 프로이센 제58조 후보 검토가 누락됨."
+    }
+  ],
+  "synthesis": "일본 제66조와 약헌 제25조는 총리급 직위와 국무위원으로 조직하는 구성에 대응함. 중화민국 제58조는 구성원 열거와 중요 사항의 회의 의결을 함께 정함. 오스트리아 제69조도 총리·부총리·장관의 정부 구성에 대응하나 대통령에 맡긴 사무를 제외한다는 권한 배분 차이가 있음. 일본 제56조는 원수 자문에 응한 중요 국무 심의이므로 제헌헌법의 의결과 구별함. 대통령을 구성원으로 포함하면서 대통령 권한의 중요 국책을 의결한다는 전체 결합은 이 후보들에서 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "type": "missing_review",
+      "finding": "프로이센 1850년 제58조 후보 검토가 누락됨.",
+      "action": "미선택으로 추정하지 않음.",
+      "candidate_id": "PR1850_ORIGINAL_ART_058",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "오스트리아의 총리·장관 구성 대응을 사무 범위·의결 기능 차이로 배제함.",
+      "action": "구성에 한정한 부분 대응과 대통령 사무 제외를 병기함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "outside_source_inference",
+      "finding": "일본 제56조의 관제에 따른 심의라는 문구에서 기관 구성을 관제에 위임한다고 확정함.",
+      "action": "관제 준거와 구성 위임을 구별하고 명시된 심의 절차만 설명함.",
+      "candidate_id": "JP1889_ORIGINAL_ART_056",
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

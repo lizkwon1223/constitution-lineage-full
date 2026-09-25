@@ -1,0 +1,64 @@
+{
+  "article": 80,
+  "reviewed_at": "2026-09-22T16:22:25.658326+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "6ddac9b447d812be21fec1a16978323815e524837b11f87405e833eec730251d",
+  "input_sha256": "133da874aa8c7e747645b0dba4bc4a76dcf4e1c5a4d3804c6c28fcd46d01b2a4",
+  "responses": [
+    {
+      "job_id": "080_68cc1b8f891f_r1",
+      "repeat": 1,
+      "sha256": "8b43495c11a024bcc706604908523926611e3384e8b656bc9d9ff5457f16727a",
+      "assessment": "신분보장의 예외와 불이익 종류를 적절히 대조함. 모든 후보가 형벌·징계를 공통으로 둔다는 요약은 좁혀야 함."
+    },
+    {
+      "job_id": "080_68cc1b8f891f_r2",
+      "repeat": 2,
+      "sha256": "1a72c6ddd3d1d86378328d3bad665685c6f39b9162df6d37ff740ba69328ff2a",
+      "assessment": "핵심 대응은 적절하나 중화민국 두 후보 모두 종신직이라고 한 요약은 원문과 다름."
+    },
+    {
+      "job_id": "080_68cc1b8f891f_r3",
+      "repeat": 3,
+      "sha256": "04904cc6271a536c4d4a414a0bd4a0db79156142f83d282401d93b50d72a3c38",
+      "assessment": "탄핵·형사·징계 및 면직·정직·감봉의 조합을 잘 구분함. 오스트리아의 별도 절차도 부분 비교가 가능함."
+    }
+  ],
+  "synthesis": "중화민국 두 제81조는 면직과 정직·전임·감봉을 나누어 서로 다른 보호 조건을 두며, 제헌헌법은 파면·정직·감봉의 예외를 탄핵·형벌·징계로 함께 묶음. 중화민국 1946년 조문만 법관의 종신직을 명시하며 1936년 초안에는 그 문구가 없음. 약헌과 일본 1889년 제58조는 형벌·징계에 의한 신분 변동을, 일본 1946년 제78조는 탄핵·심신 장애와 행정기관의 징계 금지를 각각 정함. 오스트리아의 법정 절차·재판에 의한 신분보장도 예외 사유가 다른 부분 대응으로 비교할 수 있음.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "type": "cross_candidate_conflation",
+      "finding": "중화민국 1936년·1946년 조문 모두 종신직을 정한다고 요약함. 종신직 문구는 1946년 조문에만 있음.",
+      "action": "종신직의 명시 여부를 후보별로 구분함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "summary_overgeneralization",
+      "finding": "핵심 후보 전부의 공통 구조를 형벌·징계로 요약하나 일본 1946년 조문은 탄핵·심신 장애 및 행정기관 징계 금지를 정함.",
+      "action": "후보별 예외 사유를 따로 적음.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "오스트리아의 법정 절차·재판에 의한 법관 신분보장을 예외 사유가 다르다는 이유로 배제함.",
+      "action": "신분보장 구조의 부분 대응과 서로 다른 예외를 병기함.",
+      "candidate_id": "AT1920_1929RECAST1930_ART_088",
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

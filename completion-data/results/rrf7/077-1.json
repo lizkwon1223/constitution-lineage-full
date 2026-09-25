@@ -1,0 +1,129 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_077",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_088",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "‘依據法律獨立行使職權’이라는 문형은 유사하나 주체가 考試委員이고 규율 대상이 직권 행사이며 당파 초월 요건이 부가되어, 법관의 심판 독립을 규정한 대상 조문과 규율 대상·주체가 다르다. 동일 헌법 제80조가 더 직접적인 대응을 이루므로 별도 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_080",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(法官), 준거(法律), 방식(獨立), 행위(審判)의 네 요소가 대상 조문과 그대로 대응하는 최단 문형이다. 다만 대상 조문의 ‘憲法과’ 병렬은 없다.",
+      "evidence": [
+        {
+          "element": "주체와 행위(법관의 심판)",
+          "target_field": "original_text",
+          "target_quote": "法官은 憲法과 法律에 依하여 獨立하여 審判한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "法官依法律獨立審判",
+          "commonality": "법관을 주체로 하여 ‘독립하여 심판한다’는 술어 구조가 동일하다.",
+          "difference": "대상은 준거로 헌법과 법률을 병렬하나 후보는 법률만을 준거로 든다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_102",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체가 법관이고 독립성과 법률 구속을 함께 규정한다는 점에서 규율 요소가 대응한다. 다만 ‘심판한다’는 행위 규정이 아니라 지위·복종 형식이고 헌법 언급이 없다는 점에서 대응 범위는 독립성·법률 구속에 한정된다.",
+      "evidence": [
+        {
+          "element": "법관의 독립과 법률 구속",
+          "target_field": "original_text",
+          "target_quote": "法官은 憲法과 法律에 依하여 獨立하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Richter sind unabhängig und nur dem Gesetz unterworfen.",
+          "commonality": "법관을 주체로 하여 독립성과 법률에의 기속을 함께 규정한다.",
+          "difference": "후보는 ‘오직 법률에만 복종’이라는 지위 규정이고 심판 행위나 헌법에의 기속은 언급하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_080",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘法官…依據法律獨立審判’ 부분이 대상 조문의 주체·준거·독립·심판 요소와 직접 대응한다. 당파 초월 요건과 간섭 배제 문구는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "법률에 의한 독립 심판",
+          "target_field": "original_text",
+          "target_quote": "法律에 依하여 獨立하여 審判한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "依據法律獨立審判",
+          "commonality": "법률을 준거로 삼아 독립하여 심판한다는 어순과 규율 내용이 일치한다.",
+          "difference": "후보는 준거에 헌법을 포함하지 않는다."
+        },
+        {
+          "element": "부가 요건·효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법관은 헌법과 법률에 의하여 독립하여 심판한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "法官須超出黨派以外，依據法律獨立審判，不受任何干涉。",
+          "commonality": "법관 독립을 보장한다는 취지가 같다.",
+          "difference": "후보는 당파 초월 의무와 ‘어떠한 간섭도 받지 않는다’는 효과 문구를 추가하나 대상 조문에는 두 요소가 모두 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "독립성과 법률 기속이라는 취지는 겹치나 주체가 개별 법관이 아니라 법원(Gerichte)이고 사법권 행사·판결 선고 절차를 규율하는 구성이어서, 법관 개인의 심판 독립을 규정한 대상 조문과 규율 단위가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_042",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "한국어 문형 자체가 ‘법관은 법률에 의하여 … 독립하여 심판’으로 대상 조문과 거의 동일하다. 차이는 ‘양심에 비추어’ 요소의 유무와 준거에 헌법이 포함되는지 여부다.",
+      "evidence": [
+        {
+          "element": "문형 전체(주체-준거-독립-심판)",
+          "target_field": "original_text",
+          "target_quote": "法官은 憲法과 法律에 依하여 獨立하여 審判한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "法官은法律에 依하야 良心에 비취워 獨立하여 審判함",
+          "commonality": "‘법관은 … 법률에 의하여 독립하여 심판’이라는 한국어 문형과 어휘가 사실상 일치한다.",
+          "difference": "후보는 준거를 법률로만 하고 ‘양심에 비추어’를 추가하는 반면, 대상은 ‘헌법과 법률’을 병렬하고 양심 문구가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_076",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제3항이 재판관의 독립과 ‘이 헌법 및 법률’에의 기속을 함께 규정하여, 대상 조문의 ‘헌법과 법률’ 병렬 준거와 대응한다. 다만 대응은 제3항에 한정되며 제1·2항(사법권 귀속, 특별재판소 금지)은 대상 조문과 무관하다.",
+      "evidence": [
+        {
+          "element": "준거의 병렬(헌법과 법률)",
+          "target_field": "original_text",
+          "target_quote": "憲法과 法律에 依하여 獨立하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法及び法律にのみ拘束される",
+          "commonality": "헌법과 법률을 함께 재판 주체의 준거로 드는 점이 일치한다.",
+          "difference": "후보는 ‘…에만 구속된다’는 기속 형식이고 대상은 ‘…에 의하여 심판한다’는 행위 규정이다."
+        },
+        {
+          "element": "독립의 방식과 행위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "독립하여 심판한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その良心に従ひ独立してその職権を行ひ",
+          "commonality": "재판 주체가 독립하여 직무를 수행한다는 점이 공통된다.",
+          "difference": "후보는 ‘양심에 따라’를 요건으로 두고 행위를 ‘직권 행사’로 표현하나, 대상은 양심 문구 없이 ‘심판’으로 특정한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [],
+  "limitations": [
+    "문언상 요소 대응만 확인한 것이며, 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "바이마르·프로이센 후보는 원문이 독일어여서 세부 어감 비교는 번역문에 일부 의존한다."
+  ],
+  "short_answer": "대상 조문의 ‘법관-헌법과 법률-독립-심판’ 구조와 요소별로 대응하는 후보는 중화민국 五五憲草 제80조, 중화민국헌법 제80조, 조선임시약헌 제42조, 일본국헌법 제76조 제3항, 바이마르헌법 제102조다. 앞의 셋은 ‘법관은 법률에 의하여 독립하여 심판’이라는 문형이 거의 그대로 일치하고, 특히 조선임시약헌은 한국어 어휘까지 겹친다. 일본 제76조 제3항은 ‘이 헌법 및 법률’이라는 준거 병렬이 대상의 ‘헌법과 법률’과 대응하지만 ‘양심에 따라’와 ‘직권 행사’ 형식이라는 차이가 있고, 바이마르 제102조는 독립성과 법률 기속이라는 지위 규정에 한정된다. 반면 중화민국헌법 제88조는 주체가 고시위원, 프로이센 제8조는 주체가 법원이어서 규율 단위가 달라 선택하지 않았다. 이상은 문언상 대응 판단이며 실제 참조 관계의 확정은 아니다."
+}

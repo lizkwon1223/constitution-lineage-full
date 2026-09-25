@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_003",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "3",
+    "original_text": "大韓民國의 國民되는 要件은 法律로써 定한다.",
+    "workbook_text_ko": "대한민국의 국민되는 요건은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_010",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "10",
+      "original_text": "日本国民たる要件は、法律でこれを定める。",
+      "workbook_text_ko": "일본 국민의 요건은 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_003",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "3",
+      "original_text": "具有中華民國國籍者為中華民國國民。",
+      "workbook_text_ko": "中華民國의 國籍을 가진 者를 中華民國의 國民으로 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_031",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "31",
+      "original_text": "Die Bedingungen, unter welchen Korporationsrechte ertheilt oder verweigert werden, bestimmt das Gesetz.",
+      "workbook_text_ko": "법인의 권리가 부여되거나\n인정되지 않는 요건은 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_076",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "76",
+      "original_text": "立法院之組織，以法律定之。",
+      "workbook_text_ko": "立法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_135",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "135",
+      "original_text": "內地生活習慣特殊之國民代表名額及選舉，其辦法以法律定之。",
+      "workbook_text_ko": "內地의 特殊한 生活習慣을 가진 國民의 代表의 定員 및 選擧의 方法은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_003",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "3",
+      "original_text": "具有中華民國之國籍者，爲中華民國國民。",
+      "workbook_text_ko": "중화민국의 국적을 가진 사람은 중화민국 국민이다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_061",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "61",
+      "original_text": "行政院之組織，以法律定之。",
+      "workbook_text_ko": "行政院의 組織은 法律로써 정한다."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "article": 70,
+  "reviewed_at": "2026-09-22T16:15:19.948348+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "4668cff6a07e490067c66f29397c0f2c2fd783fb82b9590429ad2f6317d58121",
+  "input_sha256": "4d358780dc0f5f26c99d6ed239d17835929ed5ec88f177c43d1d9fe082e40618",
+  "responses": [
+    {
+      "job_id": "070_1cb671cb2dce_r1",
+      "repeat": 1,
+      "sha256": "c7d1f1bf8213b312bfc93b360d2d20b67811c9fae556b9f643be507321d86aef",
+      "assessment": "프랑스의 대통령 주재와 약헌의 의장 문형, 일본의 보필 관계를 포착함. 격하라는 해석은 직위 배치 차이로 표현해야 함."
+    },
+    {
+      "job_id": "070_1cb671cb2dce_r2",
+      "repeat": 2,
+      "sha256": "3b8b9ced8ec7fa7b6ae520e056e2f28adaa0211d11f6307351133720b96239c6",
+      "assessment": "의장과 부의장 배치를 구분함. 부의장 지위를 보좌의 법적 효과로 단정하지 않음."
+    },
+    {
+      "job_id": "070_1cb671cb2dce_r3",
+      "repeat": 3,
+      "sha256": "187a6970fd3118c9120086cb79243cb81ede4ba5592d54f7bcf27497ed2220a3",
+      "assessment": "프로이센·중화민국의 회의 주재자 지정까지 포착함. 일본의 보필 관계도 범위를 한정한 부분 대응으로 보완 가능함."
+    }
+  ],
+  "synthesis": "프랑스 제32조는 대통령의 국무회의 주재에 직접 대응함. 약헌 제28조는 국무회의 의장 문형을 공유하되 총장을 의장으로 정함. 프로이센 제47조·중화민국 초안 제60조도 각기 수상·원장을 회의 주재자로 지정함. 일본 제55조의 보필은 원수에 대한 각료의 보좌라는 부분 대응임. 대통령 의장과 총리 부의장을 결합한 구성 및 총리의 보좌를 함께 정한 전체 구조는 이 후보들에서 확인되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "selection_threshold",
+      "finding": "주체 차이를 인정한 약헌 의장 규정은 선택하면서 프로이센·중화민국의 주재자 지정은 주체 차이로 배제함.",
+      "action": "주재자 지정에 한정한 부분 대응을 병기함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "일본의 각료 보필을 부의장 지위가 없다는 이유로 일반 유사에 한정함.",
+      "action": "보좌 관계의 부분 대응을 병기함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "interpretive_overstatement",
+      "finding": "총리의 부의장 배치를 격하라고 표현함. 문언 비교만으로 실제 개정 경로나 지위 저하를 확정하지 않음.",
+      "action": "두 규정의 직위 배치가 다르다고 설명함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

@@ -1,0 +1,92 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_022",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "재판을 받을 권리를 규정하고 재판기관(주·지역의 배심)이 '법률에 의해 미리 정해질' 것을 요구하는 점에서 '법률의 정한 법관'과 착상이 유사하다. 그러나 적용범위가 형사소추에 한정되고 배심·공개·신속·고지·대질·변호인 등 개별 절차권 목록으로 구성되어 있어, 일반적 재판청구권을 한 문장으로 규정한 대상 조문과 규율 구조가 다르다. 주제적 유사에 그쳐 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_020",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法律'이라는 법률유보 상용 문형만 겹치고, 병역 의무라는 의무 규정으로 권리 주체·내용(재판청구권)이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_134",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "'모든 국민'과 '법률에 따라'라는 표현만 공통되며, 공공부담의 분담이라는 재정상 의무를 규정해 재판청구권과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'모든 국민은 법률이 정하는 바에 의하여 … 권리를 가진다'는 문형이 대상 조문과 유사하나, 이는 널리 쓰이는 권리조항 형식이고 보장 내용이 교육을 받을 권리·의무교육이어서 재판청구권과 구체적 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_019",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'依法律'의 법률유보 문형만 공통되고, 납세 의무 규정으로 권리 내용과 효과가 대상 조문과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_032",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "형사·민사 구분 없이 일반적으로 '재판을 받을 권리'를 보장하는 조항으로, 권리 내용과 권리주체(모든 국민/누구든지)의 대응이 구체적이다. 다만 대상 조문의 '법률의 정한 법관'과 '법률에 의한 재판'이라는 이중의 법률 기속 요건은 후보에 없고, 후보는 '재판소에서' 재판받을 권리의 박탈 금지 형식이라는 점에서 범위를 한정해 비교할 만하다.",
+      "evidence": [
+        {
+          "element": "권리 내용(일반적 재판청구권)",
+          "target_field": "original_text",
+          "target_quote": "裁判을 받을 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判を受ける権利を奪はれない",
+          "commonality": "사건 종류를 한정하지 않고 재판을 받을 권리 자체를 보장한다",
+          "difference": "대상은 권리의 적극적 부여('권리가 있다') 형식이고, 후보는 권리 박탈 금지라는 소극적 보장 형식이다"
+        },
+        {
+          "element": "권리 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은",
+          "candidate_field": "original_text",
+          "candidate_quote": "何人も",
+          "commonality": "개별 자격 요건 없이 널리 주체를 설정한다",
+          "difference": "대상은 '국민'으로 한정하나 후보는 '누구든지'로 국적을 한정하지 않는다"
+        },
+        {
+          "element": "재판기관의 법률 기속",
+          "target_field": "original_text",
+          "target_quote": "法律의 定한 法官에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判所において",
+          "commonality": "재판을 담당하는 기관·주체를 명시해 그에 의한 재판을 요구한다",
+          "difference": "대상은 '법률이 정한 법관'이라는 법정법관주의와 '법률에 의한 재판'이라는 재판준거까지 요구하는 반면, 후보는 '재판소에서'라고만 하여 법률에 의한 법관 지정·재판준거 요건이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_037",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'재판을 받을 권리를 가진다'는 표현이 겹치지만 형사사건 피고인에 한정되고 공평한 재판소·신속·공개, 증인심문, 변호인 의뢰 등 형사절차권을 열거하는 구조여서, 일반적 재판청구권과 법정법관주의를 규정한 대상 조문의 규율 요소와는 대응 범위가 제한적이다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'法律의 定한 法官'이라는 법정법관주의(법관의 자격·관할을 법률로 정할 것) 요건",
+    "'法律에 依한 裁判'이라는 재판 준거규범 요건"
+  ],
+  "limitations": [
+    "문언 대응만 검토했고 역사적 참조·계수 관계는 확정하지 않았다.",
+    "한국어 워크북 번역문이 원문과 동일한 함의인지 여부는 검증하지 않았으며, 후보 중 일부는 번역문에서 유사도가 더 커 보일 수 있다."
+  ],
+  "short_answer": "일본국헌법 제32조가 사건 종류를 한정하지 않는 일반적 재판청구권을 보장한다는 점에서 대상 조문과 가장 구체적으로 대응하여 선택했다. 다만 대상 조문의 핵심 요소인 '법률의 정한 법관'과 '법률에 의한 재판'이라는 이중 요건은 후보에 없고, 후보는 '재판소에서' 재판받을 권리의 박탈 금지라는 소극적 형식이다. 일본국헌법 제37조와 미국 수정 제6조는 재판을 받을 권리를 말하지만 형사피고인에 한정된 절차권 목록이어서 주제적 유사에 머문다. 중화민국헌법 제19·20조와 바이마르 제134조는 '법률에 의하여'라는 상용 문형과 '모든 국민'이라는 주체 표현만 겹치고 의무 규정이라 대응이 없다. 문언 대응을 확인한 것이며 실제 참조 여부는 이 자료만으로 확정할 수 없다."
+}

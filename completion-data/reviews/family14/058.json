@@ -1,0 +1,86 @@
+{
+  "article": 58,
+  "reviewed_at": "2026-09-22T16:05:51.833783+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "e951a5cd4a361bd24693c2a6aaf6fcf0bfc3eedbff5caaa15c8b2d0693334156",
+  "input_sha256": "f8fccbf20ccb021ffd35db86748f6fabdab3a9c7f2b8382bed6e45380bf61c49",
+  "responses": [
+    {
+      "job_id": "058_2fb537adb0a0_r1",
+      "repeat": 1,
+      "sha256": "050708944ba1f551d512e81d70b096234d6f5be0fd3075f2a1287935e5dc15fc",
+      "assessment": "법률집행 명령과 위임명령을 구분하고 약헌의 직접 대응을 포착함. 중화민국의 헌법 실시절차를 법률로 정한다는 규정을 반대 방향으로 분류한 점은 보정이 필요함."
+    },
+    {
+      "job_id": "058_2fb537adb0a0_r2",
+      "repeat": 2,
+      "sha256": "100028863d43c620822bd9bc77c4517a69993506b68e4ff0fa19af1d068986f2",
+      "assessment": "약헌의 직접 대응을 요약에 설명하나 후보별 검토에서 약헌을 누락함. 명령 발령의 가능형이 후보에 없다는 설명도 오스트리아·북한의 표현과 대조해야 함."
+    },
+    {
+      "job_id": "058_2fb537adb0a0_r3",
+      "repeat": 3,
+      "sha256": "1d11708ba5eb8e975b76aa574689dce86aad1c71862ed5b88bb9c84fe1653421",
+      "assessment": "약헌의 두 명령 유형과 일본·프로이센의 집행명령을 잘 구분함. 발령 가능형 자체를 설명되지 않는 요소로 본 점은 보정이 필요함."
+    }
+  ],
+  "synthesis": "제58조는 법률이 범위를 정하여 위임한 사항과 법률 시행에 필요한 사항이라는 두 경로의 명령권을 정함. 약헌 제22조 제3호는 두 경로에 직접 대응하며, 프로이센 제45조와 일본 제9조는 집행명령에 대응함. 일본의 법률 변경 금지는 별도의 제한이므로 위임명령의 부재와 구별함. 오스트리아 제18조 제2항은 법률에 근거한 권한 범위 내 명령이라는 보완 대응을 보이나 주체가 모든 행정관청이라는 차이가 있음. 헌법 실시절차를 법률로 정한다는 중화민국 규정은 규율 단계가 다르며, 법률에 근거한 행정명령과 모순되는 규정이 아님.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "type": "missing_review",
+      "severity": "material",
+      "finding": "요약에서 핵심 대응으로 설명한 약헌 제22조의 후보별 검토가 누락됨.",
+      "action": "원응답의 누락을 유지하고 해설에서 별도 대조함. 미선택으로 계산하지 않음."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_148",
+      "type": "false_contrast",
+      "severity": "material",
+      "finding": "헌법 실시절차의 법률 유보와 법률 실시명령을 규범 단계 차이만으로 반대 방향이라 분류함.",
+      "action": "규율 대상과 단계가 다른 간접 관련으로 설명함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_covered_element",
+      "severity": "material",
+      "finding": "명령을 발할 수 있다는 가능형을 설명되지 않는 요소로 기재하나 오스트리아 제18조 제2항과 북한 제64조에도 명령 발령 가능형이 있음.",
+      "action": "가능형 자체와 대통령·두 종류의 수권 요건을 구분함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "type": "outside_source_inference",
+      "severity": "minor",
+      "finding": "제공 조문은 국왕이라고 할 뿐 세습성을 명시하지 않음.",
+      "action": "국왕이라는 문언으로 한정함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "type": "scope_precision",
+      "severity": "minor",
+      "finding": "독립명령을 법률과 무관하다고 설명하면 명령으로 법률을 변경할 수 없다는 명시적 한계를 흐림.",
+      "action": "집행명령 외의 목적에 따른 명령권과 법률 변경 금지를 함께 설명함."
+    }
+  ],
+  "limits": [
+    "제2회 요약의 약헌 언급으로 누락된 후보별 검토를 복원하거나 선택값을 추정하지 않음.",
+    "각 조문의 명령권 규정만으로 전체 헌법의 모든 절차적 제한을 확정하지 않음."
+  ]
+}

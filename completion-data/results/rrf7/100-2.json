@@ -1,0 +1,132 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_100",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_076",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘현행 법령’을 주어로 삼아 ‘이 헌법에 모순(저촉)되지 않는 한 효력을 가진다’는 조건부 효력존속 문형이 대상 조문과 거의 그대로 대응한다. 다만 법형식 열거와 세출상 계약·명령에 관한 제2항은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "효력존속의 조건(헌법 저촉 여부)",
+          "target_field": "original_text",
+          "target_quote": "現行法令은 이 憲法에 抵觸되지 아니하는 限 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "此ノ憲法ニ矛盾セサル現行ノ法令ハ総テ遵由ノ効力ヲ有ス",
+          "commonality": "‘현행의 법령’이 ‘이 헌법’에 저촉/모순되지 않는 경우에 한해 효력을 유지한다는 조건·효과 구조가 동일하다.",
+          "difference": "후보는 ‘法律規則命令又ハ何等ノ名称ヲ用ヰタルニ拘ラス’처럼 법형식의 명칭을 불문한다는 한정을 앞세우고 ‘総テ遵由ノ効力’이라 표현하는 반면, 대상은 이런 열거 없이 ‘효력을 가진다’로 간결하다."
+        },
+        {
+          "element": "부칙의 범위(부수 규율의 유무)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "현행법령은 이 헌법에 저촉되지 아니하는 한 효력을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "歳出上政府ノ義務ニ係ル現在ノ契約又ハ命令ハ総テ第六十七条ノ例ニ依ル",
+          "commonality": "둘 다 헌법 시행에 따른 기존 규범의 처리라는 경과규정 영역에 속한다.",
+          "difference": "후보는 기존 계약·명령의 재정상 처리를 별도 항으로 두지만, 대상 조문에는 재정·계약 관련 경과규정이 전혀 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_141",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "‘헌법 저촉’이라는 표지는 겹치나, 후보는 명령의 헌법·법률 저촉 시 무효라는 규범위계 규정이고 대상은 헌법 시행 시점의 현행법령 효력존속이라는 경과규정이어서 규율 대상·효과(무효 선언 vs 효력 유지)가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘기존 법률·명령은 이 헌법에 위배되지 않는 한 계속 효력을 가진다’는 제2항이 대상 조문의 조건·효과와 직접 대응한다. 다만 구헌법·임시권력법 폐지를 규정한 제1항에 해당하는 부분은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "효력존속의 조건과 효과",
+          "target_field": "original_text",
+          "target_quote": "現行法令은 이 憲法에 抵觸되지 아니하는 限 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Im übrigen bleiben die bestehenden Gesetze und Verordnungen in Kraft, soweit ihnen diese Verfassung nicht entgegensteht.",
+          "commonality": "현행(기존) 법령이 ‘이 헌법에 위배되지 않는 한’이라는 범위 한정 아래 효력을 유지한다는 점에서 조건절과 효과가 대응한다.",
+          "difference": "후보는 대상 규범을 ‘법률과 명령’으로 명시하고 제1항의 구헌법 폐지를 전제로 ‘그 밖의’라는 한정을 두나, 대상은 ‘현행법령’으로 포괄하고 폐지 대상을 열거하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "인민의 기타 자유·권리에 대한 헌법적 보장 규정으로, 현행법령의 경과적 효력존속과 규율 대상이 다르다. ‘…하지 아니하는 한’이라는 한정 문형만 우연히 유사하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_109",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "기존 법전·법률·명령이 현행 헌법에 반하지 않는 한 효력을 유지한다는 조건·효과가 대상과 대응한다. 다만 조세·공과금의 계속 징수와 ‘법률로 개정될 때까지’라는 존속 기한은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "헌법 저촉 여부를 기준으로 한 기존 규범의 효력 유지",
+          "target_field": "original_text",
+          "target_quote": "現行法令은 이 憲法에 抵觸되지 아니하는 限 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "welche der gegenwärtigen Verfassung nicht zuwiderlaufen, bleiben in Kraft, bis sie durch ein Gesetz abgeändert werden",
+          "commonality": "현행 규범이 헌법에 반하지 않는 한 계속 효력을 가진다는 조건부 존속의 구조가 같다.",
+          "difference": "후보는 ‘법률에 의해 개정될 때까지’라는 존속 종기를 명시하고 적용 대상을 법전·개별 법률·명령으로 열거하며 조세·공과금의 계속 징수까지 규정하는 데 비해, 대상은 종기 규정과 조세 관련 내용이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_178",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2문의 ‘그 밖의 법률·명령은 이 헌법에 위배되지 않는 한 효력을 가진다’가 대상 조문의 조건·효과와 직접 대응한다. 구헌법 폐지, 평화조약 유보, 관청 처분의 효력 존속 부분은 대상에 대응물이 없다.",
+      "evidence": [
+        {
+          "element": "효력존속의 조건과 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "현행법령은 이 헌법에 저촉되지 아니하는 한 효력을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die übrigen Gesetze und Verordnungen des Reichs bleiben in Kraft, soweit ihnen diese Verfassung nicht entgegensteht.",
+          "commonality": "기존 법률·명령이 신헌법에 저촉되지 않는 범위에서 계속 효력을 가진다는 경과규정의 문형이 일치한다.",
+          "difference": "후보는 ‘제국의’ 법률·명령으로 주체를 한정하고 구헌법·임시권력법 폐지 및 평화조약 유보를 함께 규정하지만, 대상은 그러한 폐지·유보 조항 없이 존속 원칙만 둔다."
+        },
+        {
+          "element": "기존 행정처분의 취급",
+          "target_field": "original_text",
+          "target_quote": "現行法令은 이 憲法에 抵觸되지 아니하는 限 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Anordnungen der Behörden, die auf Grund bisheriger Gesetze in rechtsgültiger Weise getroffen waren, behalten ihre Gültigkeit",
+          "commonality": "헌법 시행 전 성립한 규범적 조치의 효력을 존속시키는 취지가 공통된다.",
+          "difference": "후보는 ‘법령’과 별도로 관청의 처분을 명시하고 폐지 방법(다른 명령·입법)까지 정하나, 대상은 ‘현행법령’ 한 범주만 규정하고 폐지 절차를 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_057",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "‘현행법령은 … 본법에 저촉되지 않는 한 그 효력을 존속함’이라는 표현이 대상 조문과 어순·어휘(‘현행법령’, ‘저촉되지 않는 한’, 효력 존속)에서 매우 근접한다. 다만 신법령 제정·실시라는 존속 기한 요건이 대상에는 없다.",
+      "evidence": [
+        {
+          "element": "주어·조건절 문형(‘현행법령’ + ‘저촉되지 않는 한’)",
+          "target_field": "original_text",
+          "target_quote": "現行法令은 이 憲法에 抵觸되지 아니하는 限 效力을 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "現行法令은 本法의 規定에 依한 法令이 制定 實施될 때까지 本法에 抵觸되지 않는 限 그 效力을 存續함",
+          "commonality": "‘現行法令은 … 抵觸되지 … 限 … 效力’이라는 동일 어휘·어순의 조건부 효력존속 문형을 공유한다.",
+          "difference": "후보는 기준 규범을 ‘本法’으로 칭하고 ‘본법의 규정에 의한 법령이 제정·실시될 때까지’라는 존속 종기를 두며 ‘효력을 존속함’으로 맺는 반면, 대상은 기준을 ‘이 憲法’으로 하고 종기 없이 ‘효력을 가진다’로 맺는다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "‘법령’의 범위(법률·명령·기존 조치의 구분)를 특정하지 않은 포괄적 표현",
+    "기존 헌법·법률의 폐지나 효력존속의 종기를 두지 않은 점"
+  ],
+  "limitations": [
+    "문언 대응만을 검토한 것이며 실제 참조·계수 관계의 역사적 확정은 아니다.",
+    "프로이센·바이마르 후보의 세부 의미 비교는 제공된 번역문에 부분적으로 의존한다."
+  ],
+  "short_answer": "대상 조문은 ‘현행법령이 이 헌법에 저촉되지 않는 한 효력을 가진다’는 경과규정으로, 동일한 조건·효과 구조를 가진 대일본제국헌법 제76조, 프로이센 자유주헌법 제81조 제2항, 프로이센 헌법 제109조, 바이마르 헌법 제178조 제2문, 조선임시약헌 제57조가 비교에 유용하다. 특히 조선임시약헌 제57조는 ‘現行法令은 … 抵觸되지 않는 限 … 效力’이라는 어휘·어순까지 일치하나 ‘본법의 규정에 의한 법령이 제정·실시될 때까지’라는 종기를 둔다는 점이 다르다. 독일계 후보들은 구헌법 폐지·조약 유보·관청 처분 존속 등 부수 규율을 함께 두고 대상 규범을 ‘법률과 명령’으로 명시하는 반면 대상은 ‘현행법령’으로 포괄하며 폐지·종기 규정이 없다. 五五憲草 제141조는 명령의 저촉 시 무효라는 규범위계 규정이어서 효과가 반대 방향이고, 중화민국헌법 제22조는 주제가 다르다. 이상은 문언상 대응 관계의 정리일 뿐 역사적 영향의 확정은 아니다."
+}

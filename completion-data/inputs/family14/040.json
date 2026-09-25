@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_040",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "40",
+    "original_text": "國會에서 議決된 法律案은 政府로 移送되어 15日 以內에 大統領이 公布한다. 但, 異議가 있는 때에는 大統領은 異議書를 附하여 國會로 還付하고 國會는 再議에 附한다. 再議의 結果 國會의 在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成으로 前과 同一한 議決을 한 때에는 그 法律案은 法律로서 確定된다. 法律案이 政府로 移送된 後 15日以內에 公布 또는 還付되지 아니하는 때에도 그 法律案은 法律로서 確定된다.\n大統領은 本條에 依하여 確定된 法律을 遲滯없이 公布하여야 한다.\n法律은 特別한 規定이 없는 限 公布日로부터 20日을 經過함으로써 效力을 發生한다.",
+    "workbook_text_ko": "국회에서 의결된 법률안은 정부로 이송되어 15일 이내에 대통령이 공포한다. 단, 이의가 있는 때에는 대통령은 이의서를 부하여 국회로 환부하고 국회는 재의에 부한다. 재의의 결과 국회의 재적의원 3분지 2이상의 출석과 출석의원 3분지 2이상의 찬성으로 전과 동일한 의결을 한 때에는 그 법률안은 법률로서 확정된다. 법률안이 정부로 이송된 후 15일이내에 공포 또는 환부되지 아니하는 때에도 그 법률안은 법률로서 확정된다.\n대통령은 본조에 의하여 확정된 법률을 지체없이 공포하여야 한다.\n법률은 특별한 규정이 없는 한 공포일로부터 20일을 경과함으로써 효력을 발생한다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_074",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "74",
+      "original_text": "Gegen die vom Reichstag beschlossenen Gesetze steht dem Reichsrat der Einspruch zu.\nDer Einspruch muß innerhalb zweier Wochen nach der Schlußabstimmung im Reichstag bei der Reichsregierung eingebracht und spätestens binnen zwei weiteren Wochen mit Gründen versehen werden.\nIm Falle des Einspruchs wird das Gesetz dem Reichstag zur nochmaligen Beschlußfassung vorgelegt. Kommt hierbei keine Übereinstimmung zwischen Reichstag und Reichsrat zustande, so kann der Reichspräsident binnen drei Monaten über den Gegenstand der Meinungsverschiedenheit einen Volksentscheid anordnen. Macht der Präsident von diesem Rechte keinen Gebrauch, so gilt das Gesetz als nicht zustande gekommen. Hat der Reichstag mit Zweidrittelmehrheit entgegen dem Einspruch des Reichsrats beschlossen, so hat der Präsident das Gesetz binnen drei Monaten in der vom Reichstag beschlossenen Fassung zu verkünden oder einen Volksentscheid anzuordnen.",
+      "workbook_text_ko": "제국의회가 의결권을 행사한 법률에 대해서 제국상원은 이의제기를 할 수 있다.\n제국의회에서 최종 표결을 거친 후 2주 이내에 제국정부 측에 이의제기 사항이 제출되어야 하고, 그 후 추가로 2주 이내에 사유가 첨부되어야 한다.\n이의가 있는 경우에는, 당해 법률은 재의결을 위하여 제국의회에 다시 제출된다. 이와 관련하여 제국의회와 제국상원 간 합의가 성립되지 않을 시, 제국대통령은 3개월 이내에 의견차이가 있는 사안에 대해서 국민표결을 명할 수 있다. 대통령이 당해 명령권을 사용하지 않을 경우 법률은 성립되지 않은 것으로 간주한다. 제국의회가 3분의 2의 다수로 제국상원의 이의에 반대하는 방향으로 의결권을 행사하면 대통령은 해당 법률을 3개월 이내에 제국의회가 의결한 안으로 공포하거나 국민표결실시를 명하도록 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_061",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "61",
+      "original_text": "(1) Ein Gesetz ist verbindlich, wenn es verfassungsmäßig zustande gekommen und vom Staatsministerium in der vorgeschriebenen Form verkündet worden ist. Bei der Verkündung muß ausgesprochen sein, daß das Gesetz vom Landtag oder durch Volksentscheid beschlossen worden ist. Artikel 13 der Reichsverfassung wird hierdurch nicht berührt.\n(2) Wenn das Gesetz nichts anderes bestimmt, tritt es mit dem vierzehnten Tage nach Ausgabe des die Verkündung enthaltenden Stückes der Gesetzsammlung in Kraft.\n(3) Die Gesetze sind binnen Monatsfrist zu verkünden.",
+      "workbook_text_ko": "(1) 법률은 헌법에 따라 성립하고 주내각이 정해진 형식으로 공포한 때에 구속력을 가진다. 공포할 때에는 그 법률이 주의회 또는 국민표결로 의결되었음을 밝혀야 한다. 독일국헌법 제13조는 이로 인하여 영향을 받지 않는다.\n(2) 법률에 다른 정함이 없으면 그 공포를 수록한 법령집 해당 호가 발행된 후 제14일부터 시행한다.\n(3) 법률은 1개월 이내에 공포하여야 한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_073",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "73",
+      "original_text": "将来此ノ憲法ノ条項ヲ改正スルノ必要アルトキハ勅命ヲ以テ議案ヲ帝国議会ノ議ニ付スヘシ\n２　此ノ場合ニ於テ両議院ハ各々其ノ総員三分ノ二以上出席スルニ非サレハ議事ヲ開クコトヲ得ス出席議員三分ノ二以上ノ多数ヲ得ルニ非サレハ改正ノ議決ヲ為スコトヲ得ス",
+      "workbook_text_ko": "장래 이 헌법의 조항을 개정할 필요가 있는 때에는 칙명으로 의안을 제국의회의 심의에 부쳐야 한다.\n② 이 경우 양원은 각각 재적의원 3분의 2 이상이 출석하지 않으면 의사를 열 수 없으며, 출석의원 3분의 2 이상의 다수를 얻지 못하면 개정을 의결할 수 없다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_041",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "41",
+      "original_text": "最高人民會議에서 採擇한 法令은 五日 以內에 最高人民會議 常任委員會委員長 및 書記長이 署名하여 公布한다.",
+      "workbook_text_ko": "최고인민회의에서 채택한 법령은 5일 이내에 최고인민회의 상임위원회 위원장 및 서기장이 서명하여 공포한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_071",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "71",
+      "original_text": "立法院送請公布之議決案，總統應於該案到達後三十日內公布之。",
+      "workbook_text_ko": "입법원이 공포를 요청하여 송부한 의결안은 총통이 도달한 날부터 30일 이내에 공포하여야 한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_007",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "7",
+      "original_text": "Le Président de la République promulgue les lois dans le mois qui suit la transmission au Gouvernement de la loi définitivement adoptée. Il doit promulguer dans les trois jours les lois dont la promulgation, par un vote exprès de l'une et l'autre chambres, aura été déclarée urgente. - Dans le délai fixé par la promulgation, le Président de la République peut, par un message motivé, demander aux deux chambres une nouvelle délibération qui ne peut être refusée.",
+      "workbook_text_ko": "공화국대통령은 최종적으로 채택된 법률이 정부에 전달된 후 1개월 이내에 법\n률을 공포한다. 대통령은 양원의 그 뜻을 명시한 투표로 그 공포가 긴급하\n다고 선언된 법률에 대해서는 3일 이내에 공포하여야 한다.\n공포를 위하여 정한 기간 안에 공화국대통령은 이유를 첨부한 교서로 양원\n에 대하여 새로운 심의를 요구할 수 있다. 이 요구는 거부할 수 없다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_072",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "72",
+      "original_text": "立法院法律案通過後，移送總統及行政院，總統應於收到後十日內公布之，但總統得依照本憲法第五十七條之規定辦理。",
+      "workbook_text_ko": "立法院은 法律案의 通過 後 이를 總統과 行政院에 移送하고 總統은 그 受理後 10日以內에 이를 公布하여야 한다. 但, 總統은 이 憲法 第57條의 規定에 依하여 處理할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_036",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "36",
+      "original_text": "Le président de la République promulgue les lois dans les dix jours qui suivent la transmission au Gouvernement de la loi définitivement adoptée. Ce délai est réduit à cinq jours en cas d'urgence déclarée par l'Assemblée nationale.\nDans le délai fixé pour la promulgation, le président de la République peut, par un message motivé, demander aux deux Chambres une nouvelle délibération, qui ne peut être refusée.\nA défaut de promulgation par le président de la République dans les délais fixés par la présente Constitution, il y sera pourvu par le président de l'Assemblée nationale.",
+      "workbook_text_ko": "공화국대통령은 확정적으로 채택된 법률이 정부에 이송된 날로부터\n10일 이내에 법률을 공포한다. 이 기간은 국민의회가 긴급을 선언한 때에는\n5일로 단축한다.\n공화국대통령은 공포를 위해서 정한 기간 내에 이유를 첨부한 친서로 2원\n에 대해서 새로운 심의를 요구할 수 있다. 이 요구는 거부할 수 없다.\n이 헌법에 정한 기간 내에 공화국대통령이 공포하지 아니할 때에는 국민의\n회의장이 공포한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_VII",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "VII",
+      "original_text": "Section 1. The Executive power shall be vested in a President of the Philippines.\nSec. 2. The President shall hold his office during a term of six years, and together with the Vice-President chosen for the same term, shall be elected by direct vote of the people. The election returns for President and Vice-President, duly certified by the board of canvassers of each province, shall be transmitted to the National Assembly. Upon receipt of such returns the National Assembly shall forthwith, in public session, count the votes, and proclaim the persons elected President and Vice-President. The persons respectively having the highest number of votes for President and Vice-President shall be declared elected, but in case two or more shall have an equal and the highest number of votes for either office, the National Assembly shall, by a majority vote of all its Members, elect one of said persons as President or Vice-President.\nSec. 3. No person may be elected to the office of President or Vice-President, unless he be a natural-born citizen of the Philippines, a qualified voter, forty years of age or over, and has been a resident of the Philippines for at least ten years immediately preceding the election.\nSec. 4. No person elected President may be reëlected for the following term, nor shall the Vice-President or any other person who may have succeeded to the office of President as herein provided at least one year before the election, be eligible to the office of President at such election.\nSec. 5. Elections for President and Vice-President shall be held once every six years on a date to be fixed by the National Assembly.\nSec. 6. The terms of the President and Vice-President shall end at noon on the thirtieth day of December following the expiration of six years after their election, and the terms of their successors shall begin from such time.\nSec. 7. If, at the time fixed for the beginning of the term of the President, the President-elect shall have died, the Vice-President-elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President-elect shall have failed to qualify, then the Vice-President shall act as President until a President shall have qualified, and the National Assembly may by law provide for the case wherein neither a President-elect nor a Vice-President-elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice-President shall have qualified.\nSec. 8. Before he enter on the execution of his office, the President shall take the following oath or affirmation: “I do solemnly swear (or affirm) that I will faithfully and conscientiously fulfill my duties as President of the Philippines, preserve and defend its Constitution, execute its laws, do justice to every man, and consecrate myself to the service of the Nation. So help me God.” (In case of affirmation, last sentence will be omitted.)\nSec. 9. In the event of the removal of the President from office or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice-President, and the National Assembly shall by law provide for the case of removal, death, resignation, or inability, both of the President and Vice-President, declaring what officer shall then act as President, and such officer shall act accordingly, until the disability be removed, or a President shall be elected.\nSec. 10. The President shall have an official residence and receive a compensation to be ascertained by law which shall be neither increased nor diminished during the period for which he shall have been elected, and he shall not receive within that period any other emolument from the Government or any of its subdivisions or instrumentalities. Until the National Assembly shall provide otherwise, the President shall receive an annual salary of thirty thousand pesos. The Vice-President, when not acting as President, shall receive an annual compensation of fifteen thousand pesos until otherwise provided by law.\nSec. 11. (1) The President shall have control of all the executive departments, bureaus, or offices, exercise general supervision over all local governments as may be provided by law, and take care that the laws be faithfully executed.\n(2) The President shall be commander-in-chief of all armed forces of the Philippines and, whenever it becomes necessary, he may call out such armed forces to prevent or suppress lawless violence, invasion, insurrection, or rebellion. In case of invasion, insurrection, or rebellion, or imminent danger thereof, when the public safety requires it, he may suspend the privileges of the writ of habeas corpus, or place the Philippines or any part thereof under martial law.\n(3) The President shall nominate and with the consent of the Commission on Appointments of the National Assembly, shall appoint the heads of the executive departments and bureaus, officers of the Army from the rank of colonel, of the Navy and air forces from the rank of captain or commander, and all other officers of the Government whose appointments are not herein otherwise provided for, and those whom he may be authorized by law to appoint; but the National Assembly may by law vest the appointment of inferior officers, in the President alone, in the courts, or in the heads of departments.\n(4) The President shall have the power to make appointments during the recess of the National Assembly, but such appointments shall be effective only until disapproval by the Commission on Appointments or until the next adjournment of the National Assembly.\n(5) The President shall from time to time give to the National Assembly information of the state of the Nation, and recommend to its consideration such measures as he shall judge necessary and expedient.\n(6) The President shall have the power to grant reprieves, commutations, and pardons, and remit fines and forfeitures, after conviction, for all offenses, except in cases of impeachment, upon such conditions and with such restrictions and limitations as he may deem proper to impose. He shall have the power to grant amnesty with the concurrence of the National Assembly.\n(7) The President shall have the power, with the concurrence of a majority of all the Members of the National Assembly, to make treaties, and with the consent of the Commission on Appointments, he shall appoint ambassadors, other public ministers, and consuls. He shall receive ambassadors and other ministers duly accredited to the Government of the Philippines.\nSec. 12. (1) The executive departments of the present Government of the Philippine Islands shall continue as now authorized by law until the National Assembly shall provide otherwise.\n(2) The heads of departments and chiefs of bureaus or offices and their assistants shall not, during their continuance in office, engage in the practice of any profession, or intervene, directly or indirectly, in the management or control of any private enterprise which in any way may be affected by the functions of their office; nor shall they, directly or indirectly, be financially interested in any contract with the Government, or any subdivision or instrumentality thereof.\n(3) The President may appoint the Vice-President as a member of his cabinet and also as head of an executive department.",
+      "workbook_text_ko": "제1절. 행정권은 필리핀 대통령에게 속한다.\n제2절. 대통령의 임기는 6년으로 하며, 같은 임기로 선출되는 부통령과 함께 국민의 직접투표로 선출한다. 각 주의 개표위원회가 적법하게 인증한 대통령·부통령 선거 결과는 국민의회에 송부한다. 국민의회는 이를 접수하면 즉시 공개회의에서 표를 집계하고 대통령과 부통령의 당선자를 선언한다. 대통령과 부통령 각각의 최다득표자를 당선자로 선언하되, 어느 직이든 2명 이상이 같은 최다득표수를 얻으면 국민의회가 재적의원 과반수의 표로 그중 1명을 대통령 또는 부통령으로 선출한다.\n제3절. 필리핀의 출생에 의한 국민으로서 선거권이 있고 40세 이상이며 선거 직전 적어도 10년 동안 필리핀에 거주한 사람이 아니면 대통령 또는 부통령으로 선출될 수 없다.\n제4절. 대통령으로 선출된 사람은 다음 임기에 재선될 수 없으며, 이 헌법에 따라 선거일 적어도 1년 전에 대통령직을 승계한 부통령이나 그 밖의 사람도 그 선거에서 대통령 피선거권을 가지지 않는다.\n제5절. 대통령·부통령 선거는 국민의회가 정하는 날에 6년마다 실시한다.\n제6절. 대통령·부통령의 임기는 선거 후 6년이 만료한 뒤의 12월 30일 정오에 끝나며, 후임자의 임기는 그때부터 시작한다.\n제7절. 대통령의 임기 개시일에 대통령 당선인이 사망한 경우에는 부통령 당선인이 대통령이 된다. 임기 개시일까지 대통령이 선출되지 않았거나 대통령 당선인이 취임요건을 갖추지 못한 경우에는 대통령이 취임요건을 갖출 때까지 부통령이 대통령직을 대행한다. 국민의회는 대통령 당선인과 부통령 당선인이 모두 취임요건을 갖추지 못한 경우에 대비하여 누가 대통령직을 대행할지 또는 대행자를 선정할 방법을 법률로 정할 수 있으며, 그 사람은 대통령이나 부통령이 취임요건을 갖출 때까지 이에 따라 대행한다.\n제8절. 대통령은 직무를 수행하기 전에 다음 선서 또는 확약을 하여야 한다. “나는 필리핀 대통령으로서의 직무를 충실하고 양심적으로 수행하고, 헌법을 보전·수호하며, 법률을 집행하고, 모든 사람에게 정의를 실현하며, 국가에 봉사하는 데 헌신할 것을 엄숙히 선서합니다(또는 확약합니다). 하느님, 저를 도와주소서.” 확약하는 경우에는 마지막 문장을 생략한다.\n제9절. 대통령이 파면·사망·사임하거나 직권과 직무를 수행할 수 없게 된 경우에는 그 권한과 직무가 부통령에게 이전한다. 국민의회는 대통령과 부통령이 모두 파면·사망·사임하거나 직무수행 불능이 된 경우에 누가 대통령직을 대행할지를 법률로 정하여야 한다. 그 공무원은 직무수행 불능이 해소되거나 대통령이 선출될 때까지 이에 따라 대행한다.\n제10절. 대통령에게는 관저를 제공하며 법률로 정하는 보수를 지급한다. 그 보수는 당선된 임기 동안 증액하거나 감액할 수 없고, 대통령은 그 기간에 정부나 그 하부기관 또는 산하기관에서 다른 보수를 받을 수 없다. 국민의회가 달리 정할 때까지 대통령의 연봉은 3만 페소로 한다. 대통령직을 대행하지 않는 부통령은 법률로 달리 정할 때까지 연봉 1만 5천 페소를 받는다.\n제11절. (1) 대통령은 모든 행정부처·국·관서를 통할하고, 법률이 정하는 바에 따라 모든 지방정부를 일반적으로 감독하며, 법률이 충실히 집행되도록 하여야 한다.\n(2) 대통령은 필리핀의 모든 군대의 최고사령관이며, 필요할 때 불법적인 폭력·침략·반란 또는 모반을 방지하거나 진압하기 위하여 군대를 동원할 수 있다. 침략·반란·모반 또는 그 절박한 위험이 있고 공공의 안전이 요구하는 경우에는 인신보호영장의 특권을 정지하거나 필리핀 전부 또는 일부에 계엄을 실시할 수 있다.\n(3) 대통령은 행정부처와 국의 장, 육군의 대령 이상 장교, 해군·공군의 captain 또는 commander 계급 이상 장교, 이 헌법에 임명 방법이 달리 규정되지 않은 모든 정부 공무원 및 법률이 임명권을 부여한 공무원을 지명하고, 국민의회 임명위원회의 동의를 받아 임명한다. 다만, 국민의회는 하급 공무원의 임명권을 법률로 대통령 단독, 법원 또는 부처의 장에게 부여할 수 있다.\n(4) 대통령은 국민의회 휴회 중에 임명할 권한을 가진다. 다만, 그 임명은 임명위원회가 부동의하거나 국민의회가 다음에 폐회할 때까지만 효력을 가진다.\n(5) 대통령은 수시로 국민의회에 국정을 보고하고, 필요하고 적절하다고 판단하는 조치를 심의하도록 권고하여야 한다.\n(6) 대통령은 탄핵 사건을 제외한 모든 범죄에 관하여 유죄판결 후 자신이 적절하다고 판단하는 조건·제약·제한을 붙여 형집행 연기·감형·사면을 하고 벌금과 몰수를 면제할 권한을 가진다. 대통령은 국민의회의 동의를 받아 일반사면을 할 권한을 가진다.\n(7) 대통령은 국민의회 재적의원 과반수의 동의를 받아 조약을 체결할 권한을 가지며, 임명위원회의 동의를 받아 대사·그 밖의 외교사절 및 영사를 임명한다. 대통령은 필리핀 정부에 정식으로 파견된 대사와 그 밖의 사절을 접수한다.\n제12절. (1) 현 필리핀 군도 정부의 행정부처는 국민의회가 달리 정할 때까지 현재 법률이 허용하는 대로 존속한다.\n(2) 부처의 장과 국·관서의 장 및 그 보좌자는 재임 중 전문직 업무에 종사하거나, 직무의 영향을 어떠한 형태로든 받을 수 있는 민간기업의 경영·통제에 직접 또는 간접으로 관여할 수 없다. 또한 정부나 그 하부기관 또는 산하기관과의 계약에 직접 또는 간접으로 금전적 이해관계를 가질 수 없다.\n(3) 대통령은 부통령을 내각 구성원 및 행정부처의 장으로 임명할 수 있다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_051",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "51",
+      "original_text": "Der König beruft die Kammern und schließt ihre Sitzungen. Er kann sie entweder beide zugleich oder auch nur eine auflösen. Es müssen aber in einem solchen Falle innerhalb eines Zeitraums von sechzig Tagen nach der Auflösung die Wähler und innerhalb eines Zeitraums von neunzig Tagen nach der Auflösung die Kammern versammelt werden.",
+      "workbook_text_ko": "국왕은 의회를 소집하고 그\n회의를 폐회한다. 국왕은 의회 양원을\n동시에 혹은 일원만을 해산할 수 있다.\n그러나 그 경우에는 해산 후 60일 이\n내에 선거가 이루어져야 하고, 해산\n후 90일 이내에 의회 양원의 소집이\n이루어져야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_013",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "13",
+      "original_text": "立法議院에서 成立된 法律은 政府主席에게 送附하여야 하며 政府主席은 그 送附를 받은 後 十五日 以內에 此를 公布하여야 함\n政府主席은 前項의 期間內에 理由를 附한 異議書로써 立議院에 對하여 그 再議를 求할 수 있음\n再議를 求하였음에도 不拘하고 立法議院이 出席議員 三分之二 以上의 贊成으로 原案대로 議決한 境遇에는 다시 再議를 求할 수 없음",
+      "workbook_text_ko": "입법의원에서 성립된 법률은 정부주석에게 송부하여야 하며, 정부주석은 그 송부를 받은 후 15일 이내에 이를 공포하여야 함.\n정부주석은 전항의 기간 내에 이유를 붙인 이의서로써 입의원에 대하여 그 재의를 구할 수 있음.\n재의를 구하였음에도 불구하고 입법의원이 출석의원 3분의 2 이상의 찬성으로 원안대로 의결한 경우에는 다시 재의를 구할 수 없음."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_042",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "42",
+      "original_text": "(1) Jeder Gesetzesbeschluß des Nationalrates ist unverzüglich durch dessen Präsidenten dem Bundeskanzler zu übermitteln, der ihn sofort dem Länder- und Ständerat bekanntzugeben hat.\n(2) Ein Gesetzesbeschluß kann, soweit nicht verfassungsgesetzlich anderes bestimmt ist, nur dann beurkundet und kundgemacht werden, wenn der Länder- und Ständerat gegen diesen Beschluß keinen mit Gründen versehenen Einspruch erhoben hat.\n(3) Dieser Einspruch muß durch Vermittlung des Bundeskanzlers dem Nationalrat innerhalb acht Wochen nach Einlangen des Gesetzesbeschlusses beim Länder- und Ständerat schriftlich mitgeteilt werden.\n(4) Wiederholt der Nationalrat seinen ursprünglichen Beschluß bei Anwesenheit von mindestens der Hälfte der Mitglieder, so ist dieser zu beurkunden und kundzumachen. Beschließt der Länder- und Ständerat keinen Einspruch zu erheben, oder wird innerhalb der im Absatz 3 festgesetzten Frist kein mit Begründung versehener Einspruch erhoben, so ist der Gesetzesbeschluß zu beurkunden und kundzumachen.\n(5) Gegen Beschlüsse des Nationalrates, die ein nach Artikel 64, Absatz 1, ergehendes Bundesgesetz über die Vertretung des Bundespräsidenten, ein Gesetz über die Geschäftsordnung des Nationalrates, die Auflösung des Nationalrates, die Bewilligung des Bundesvoranschlages, die Genehmigung des Rechnungsabschlusses, die Aufnahme oder Konvertierung von Bundesanleihen oder die Verfügung über Bundesvermögen betreffen, kann der Länder- und Ständerat keinen Einspruch erheben. Diese Gesetzesbeschlüsse des Nationalrates sind ohne weiteres zu beurkunden und kundzumachen.",
+      "workbook_text_ko": "(1) 국민의회가 의결한 모든 법률안은 의장이 지체 없이 연방총리에게 송부하여야 하며, 연방총리는 즉시 주·직능참사원에 알려야 한다.\n(2) 헌법률에 달리 정함이 없는 한, 법률안 의결은 주·직능참사원이 이유를 붙인 이의를 제기하지 않은 경우에만 인증하고 공포할 수 있다.\n(3) 이 이의는 주·직능참사원이 법률안 의결을 받은 뒤 8주 이내에 연방총리를 통하여 서면으로 국민의회에 통지하여야 한다.\n(4) 국민의회가 의원 절반 이상의 출석 아래 원래의 의결을 다시 하면 이를 인증하고 공포하여야 한다. 주·직능참사원이 이의를 제기하지 않기로 의결하거나, 제3항의 기한 안에 이유를 붙인 이의가 제기되지 않으면 법률안 의결을 인증하고 공포하여야 한다.\n(5) 제64조 제1항에 따른 연방대통령 대리에 관한 연방법률, 국민의회의 의사규칙에 관한 법률, 국민의회의 해산, 연방예산의 승인, 결산의 승인, 연방공채의 발행 또는 차환, 연방재산의 처분에 관한 국민의회의 의결에 대하여 주·직능참사원은 이의를 제기할 수 없다. 이러한 국민의회의 법률안 의결은 곧바로 인증하고 공포하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_059",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "59",
+      "original_text": "法律案は、この憲法に特別の定のある場合を除いては、両議院で可決したとき法律となる。\n２　衆議院で可決し、参議院でこれと異なつた議決をした法律案は、衆議院で出席議員の三分の二以上の多数で再び可決したときは、法律となる。\n３　前項の規定は、法律の定めるところにより、衆議院が、両議院の協議会を開くことを求めることを妨げない。\n４　参議院が、衆議院の可決した法律案を受け取つた後、国会休会中の期間を除いて六十日以内に、議決しないときは、衆議院は、参議院がその法律案を否決したものとみなすことができる。",
+      "workbook_text_ko": "①법률안은 헌법에 특별한 규정이 있는 경우를 제외하고는 양원에서 가결되었을 때 법률로서 성립한다.\n②중의원에서 가결되었으나 참의원에서 이와 다른 의결을 한 법률안이 중의원에서 출석의원 3분의 2 이상으로 다시 가결되었을 때는 법률로서 성립한다.\n③제2항의 규정은 법률이 정하는 바에 따라 중의원이 양원의 협의회를 열도록 요구하는 것을 방해하지 아니한다.\n④참의원이 중의원에서 가결된 법률안을 이송 받은 후 국회 휴회기간을 제외하고 60일 이내에 의결하지 아니할 때에는 중의원은 참의원이 그 법률안을 부결시킨 것으로 간주할 수 있다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XX",
+      "original_text": "Section 1.\nThe terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.\nSection 2.\nThe Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.\nSection 3.\nIf, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.\nSection 4.\nThe Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.\nSection 5.\nSections 1 and 2 shall take effect on the 15th day of October following the ratification of this article.\nSection 6.\nThis article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.",
+      "workbook_text_ko": "제1항\n대통령과 부통령의 임기는 이 조가 비준되지 않았다면 임\n기가 만료했을 해의 1월 20일 정오에, 그리고 상원의원과\n하원의원의 임기는 각각 그러한 해의 1월 3일 정오에 끝난\n다. 그 후임자의 임기는 그 때부터 시작된다.\n제2항\n연방의회는 매년 적어도 1회 집회한다. 그 집회는 연방의\n회가 법률로 다른 날을 정하지 않는 한 1월 3일 정오에 시\n작된다.\n제3항\n대통령의 임기 개시일로 정해 놓은 시일에 대통령 당선자가 이미 사망하였으면 부통령 당선자가 대통령이 된다. 대통령 임기의 개시 시각 전에 대통령이 선정되지 않았거나, 대통령 당선\n자가 자격을 구비하지 못했을 때에는, 부통령 당선자가 대\n통령이 그 자격을 구비할 때까지 대통령의 직무를 대행한\n다. 연방의회는 대통령 당선자와 부통령 당선자가 다 자격\n을 구비하지 못하는 경우에 대비하여 대통령의 직무를 대\n행해야 할 자 또는 그 대행자의 선정 방법을 법률로 정할\n수 있다. 이 경우 그 대행자는 대통령 또는 부통령이 자격\n을 구비할 때까지 대통령의 직무를 대행한다.\n제4항\n연방의회는 하원이 대통령의 선정권을 갖게 되었을 때에\n하원이 대통령을 선정할 수 있는 후보자 중 사망자가 생긴 경우와, 상원이 부통령의 선정권을 갖게 되었을 때에 상원이 부통령을 선정할 수 있는 후보자 중 사망자가 생긴 경우를 대비하여 법\n률로 정할 수 있다.\n제5항\n제1항 및 제2항은 이 조의 비준 후 최초의 10월 15일에 효\n력을 발생한다.\n제6항\n이 조는 회부된 날로부터 7년 이내에 각 주의 4분의 3의\n주의회에 의해 헌법 수정조항으로 비준되지 않으면 효력이\n없다."
+    }
+  ]
+}

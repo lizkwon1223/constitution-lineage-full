@@ -1,0 +1,201 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_065",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수(국왕)에게 훈장 및 기타 영전의 수여권을 귀속시키는 규율구조가 대상 조문과 대응한다. 다만 주체가 국왕이고 '특권과 결합되지 않은' 제한과 화폐주조권이 함께 규정된 점이 다르므로 대응 범위는 수여권 귀속에 한정한다.",
+      "evidence": [
+        {
+          "element": "수여 대상(훈장 기타 영예)",
+          "target_field": "original_text",
+          "target_quote": "勳章 其他 榮譽를 授與한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "die Verleihung von Orden und anderen mit Vorrechten nicht verbundenen Auszeichnungen",
+          "commonality": "훈장과 그 밖의 영전을 묶어 수여 대상으로 열거하는 방식이 같다.",
+          "difference": "후보는 '특권과 결합되지 않은'이라는 한정을 붙여 영전에 수반되는 특권을 배제하지만, 대상 조문에는 그런 한정이 없다."
+        },
+        {
+          "element": "수여 주체",
+          "target_field": "original_text",
+          "target_quote": "大統領은",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dem Könige steht",
+          "commonality": "수여 권한을 국가원수 1인에게 전속시킨다.",
+          "difference": "주체가 세습 국왕이고, 문형이 '…에게 속한다'는 권한귀속형인 반면 대상은 대통령의 행위규정형이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "협동단체 발전 장려와 소유 보호에 관한 규정으로 영전 수여와 규율 요소가 전혀 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 권한을 열거하지만 훈장·영전 수여에 해당하는 조항이 없어, 대통령 권한 장(章)이라는 일반적 유사성에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'영예, 훈장 그 밖의 영전의 수여'라는 열거 문형이 대상 조문의 '勳章 其他 榮譽를 授與'와 어휘·구조상 밀접히 대응한다. 다만 후보는 수여 주체를 정하지 않고 특권 불수반·1대 한정이라는 효과 제한 규정이므로 대응 범위는 용어 열거 문형에 한정한다.",
+      "evidence": [
+        {
+          "element": "수여 대상의 열거 문형",
+          "target_field": "original_text",
+          "target_quote": "勳章 其他 榮譽를 授與한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "栄誉、勲章その他の栄典の授与",
+          "commonality": "'훈장'과 '영예/영전'을 '그 밖의'로 묶어 수여 대상을 포괄 열거하는 어휘 구성이 같다.",
+          "difference": "후보는 주체를 규정하지 않고 특권 불수반과 당대 한정이라는 효과 제한을 정하는 평등권 조항이며, 대상은 대통령에게 수여 권한을 부여하는 권한 조항이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_015",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'주체 + 훈장 및 그 밖의 영전 + 수여한다'는 단문 구조가 대상 조문과 거의 동일한 문형을 이룬다. 주체와 작위 포함 여부에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "조문 전체 문형과 수여 대상",
+          "target_field": "original_text",
+          "target_quote": "勳章 其他 榮譽를 授與한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "爵位勲章及其ノ他ノ栄典ヲ授与ス",
+          "commonality": "훈장과 그 밖의 영전을 목적어로 하여 '수여한다'로 끝내는 짧은 단문 구조가 일치한다.",
+          "difference": "후보는 '爵位'(작위)를 함께 수여 대상으로 포함하지만 대상 조문은 작위를 열거하지 않는다."
+        },
+        {
+          "element": "수여 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 훈장 기타 영예를 수여한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇ハ",
+          "commonality": "국가원수 단독의 권한으로 규정한다.",
+          "difference": "주체가 천황이며 법률의 제약이 명시되지 않은 반면, 대상은 공화제 대통령을 주체로 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_018",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회 의장단 선출에 관한 규정으로 영전 수여와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령 권한을 규정하지만 훈장·영전 수여 조항이 없고, 임명장 수여(Commission)는 대상 조문의 영예 수여와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_043",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통은 영전을 수여한다'는 단문 권한 규정으로 주체와 효과가 대상 조문과 대응한다. 다만 '依法'이라는 법률유보가 있는 점이 차이다.",
+      "evidence": [
+        {
+          "element": "수여 주체와 효과",
+          "target_field": "original_text",
+          "target_quote": "大統領은 勳章 其他 榮譽를 授與한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法授與榮典。",
+          "commonality": "공화제 국가원수 1인이 영전을 수여한다는 단문 권한 규정이다.",
+          "difference": "후보는 '依法'(법률에 따라)이라는 조건을 붙이고 수여 대상을 '榮典'으로만 총칭하는 반면, 대상은 법률유보 문구 없이 '勳章 其他 榮譽'로 열거한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_046",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원·장교 임면권 규정으로 영전 수여와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령 권한 열거 조항이나 훈장·영전 수여 규정은 없고 국가 의식 주재·은사·임명권 등 다른 권한만 규정한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조약 서명·비준과 신임장 관련 규정으로 영전 수여와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_042",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "총통의 영전 수여를 한 문장으로 규정하여 주체·효과가 대상 조문과 대응한다. 법률유보 문구 유무가 주된 차이다.",
+      "evidence": [
+        {
+          "element": "수여 주체와 효과",
+          "target_field": "original_text",
+          "target_quote": "大統領은 勳章 其他 榮譽를 授與한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法授與榮典。",
+          "commonality": "국가원수가 영전을 수여한다는 짧은 권한 규정이라는 점이 같다.",
+          "difference": "후보는 '依法' 요건을 두고 수여 대상을 '榮典'으로 총칭하나, 대상은 법률유보 없이 '勳章 其他 榮譽'를 열거한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'勳章 其他 榮典의 授與'라는 한자 표기와 열거 방식이 대상 조문의 '勳章 其他 榮譽를 授與'와 거의 일치한다. 다만 후보는 정부주석의 권한 열거 항목 중 하나로 배치되어 있고 용어가 '榮典'이다.",
+      "evidence": [
+        {
+          "element": "수여 대상과 문언",
+          "target_field": "original_text",
+          "target_quote": "勳章 其他 榮譽를 授與한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "勳章 其他 榮典의 授與",
+          "commonality": "'勳章 其他'로 묶어 영전류를 포괄 열거하고 '授與'로 표현하는 한자 문언이 거의 동일하다.",
+          "difference": "후보는 '榮典'을, 대상은 '榮譽'를 사용하고, 후보는 명사형 열거 항목이나 대상은 서술형 독립 조문이다."
+        },
+        {
+          "element": "수여 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 훈장 기타 영예를 수여한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國家를 代表하고 行政權을 統轄하며 左의 權限을 行함",
+          "commonality": "행정권 수장인 국가원수 1인에게 영전 수여 권한을 귀속시킨다.",
+          "difference": "주체 명칭이 '政府主席'이고, 영전 수여가 다수 권한 중 제9호로 열거되어 독립 조문이 아니다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_065",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방대통령의 직함·명예칭호 수여와 명예상 권리 부여 권한을 규정해 주제상 근접하나, '훈장'을 대상으로 한 수여권 문형이 없고 특별법률 유보와 인사·사면 권한 속에 산재해 있어 구체적 문형 대응은 약하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'榮譽'라는 용어 선택(대다수 후보는 '榮典'·Auszeichnungen 등을 사용)",
+    "법률유보 없이 무조건적 수여 권한으로 규정한 점",
+    "독립된 단일 조문으로 배치한 편성"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했고 실제 참조·기초 과정의 역사적 영향은 확정할 수 없다.",
+    "제공된 후보 본문과 워크북 번역문 외의 자료는 사용하지 않았다."
+  ],
+  "short_answer": "대상 조문(대통령의 훈장 기타 영예 수여)과 문언상 대응이 뚜렷한 후보는 조선임시약헌 제22조 제9호('勳章 其他 榮典의 授與'), 대일본제국헌법 제15조, 중화민국 五五憲草 제43조와 중화민국헌법 제42조, 프로이센 헌법 제50조, 일본국헌법 제14조 제3항이다. 공통점은 훈장과 그 밖의 영전을 묶어 열거하고 국가원수 1인이 이를 '수여한다'는 단문 구조라는 점이다. 차이는 주체(국왕·천황·정부주석·총통), 수여 대상 범위(작위 포함 여부), 조건(중화민국의 '依法' 법률유보), 효과 제한(프로이센의 특권 불수반, 일본국헌법의 특권 불수반·당대 한정)에 있다. 필리핀·미국·프랑스·바이마르·오스트리아 조항은 대통령 권한이라는 일반적 유사성에 머물거나 규율 대상이 달라 선택하지 않았다. 문언 대응이 있다는 사실은 역사적 참조의 확정과 구별된다."
+}

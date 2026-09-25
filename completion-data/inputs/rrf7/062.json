@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_062",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "62",
+    "original_text": "大統領은 憲法과 法律의 定하는 바에 依하여 公務員을 任免한다.",
+    "workbook_text_ko": "대통령은 헌법과 법률의 정하는 바에 의하여 공무원을 임면한다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_046",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "46",
+      "original_text": "Der Reichspräsident ernennt und entläßt die Reichsbeamten und die Offiziere, soweit nicht durch Gesetz etwas anderes bestimmt ist. Er kann das Ernennungs- und Entlassungsrecht durch andere Behörden ausüben lassen.",
+      "workbook_text_ko": "법률로 달리 정하지 않은 한 제국대통령은 제국공무원과 장교를 임면한다. 제국대통령은 다른 관청에 권한을 위임하여 임명권과 면직권을 행사하게 할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_041",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "41",
+      "original_text": "總統依法任免文武官員。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 文官과 武官을 任免한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_042",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "42",
+      "original_text": "總統依法授與榮典。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 榮典을 授與한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_040",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "40",
+      "original_text": "總統依法行使大赦，特赦，減刑及復權之權。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 大赦, 特赦, 減刑 및 復權을 行한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_042",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "42",
+      "original_text": "總統依法任免文武官員。",
+      "workbook_text_ko": "총통은 법률에 따라 문무관원을 임면한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_010",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "10",
+      "original_text": "天皇ハ行政各部ノ官制及文武官ノ俸給ヲ定メ及文武官ヲ任免ス但シ此ノ憲法又ハ他ノ法律ニ特例ヲ掲ケタルモノハ各々其ノ条項ニ依ル",
+      "workbook_text_ko": "천황은 행정 각부의 관제와 문무관의 봉급을 정하고 문무관을 임면한다. 다만, 이 헌법이나 다른 법률에 특례를 둔 사항은 각각 그 조항에 따른다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_053",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "53",
+      "original_text": "Der Reichskanzler und auf seinen Vorschlag die Reichsminister werden vom Reichspräsidenten ernannt und entlassen.",
+      "workbook_text_ko": "제국대통령은 제국수상을 임면하고, 제국수상의 제청에 의거하여 제국장관을 임면한다."
+    }
+  ]
+}

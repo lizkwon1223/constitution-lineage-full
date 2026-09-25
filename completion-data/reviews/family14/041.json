@@ -1,0 +1,78 @@
+{
+  "article": 41,
+  "reviewed_at": "2026-09-22T15:45:47.768290+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "282f471ae3824355284b9dfe8eda3e3e68cd8ff28cbf68d61ab067b81da546f5",
+  "input_sha256": "1eb772bae35b807d4c6af64329767da2df59a9359efeaff07473e2415d56a9df",
+  "responses": [
+    {
+      "job_id": "041_d97ff3b07153_r1",
+      "repeat": 1,
+      "sha256": "aba2839fe894d4f3c8447b989d997cfd2f1557af49f9e27ee71d25dd94f1b884",
+      "assessment": "일본 제86조와 중화민국 두 조문의 예산안 심의·의결 대응을 정확히 포착함. 약헌 제51조 배제는 일본 조문과 같은 의결 획득 의무 형식을 서로 다르게 평가한 결과임."
+    },
+    {
+      "job_id": "041_d97ff3b07153_r2",
+      "repeat": 2,
+      "sha256": "7af353cce79d367e5bb36253cccedf36699e1089988b703e9d7d0fab46dadbb4",
+      "assessment": "약헌을 포함한 예산 의결 대응을 적절히 추가함. 프랑스 제16조의 회부와 의결을 차이란에서 구분하였으나 종합답변의 공통 효과로 의결·결정을 포괄한 부분은 축소해야 함."
+    },
+    {
+      "job_id": "041_d97ff3b07153_r3",
+      "repeat": 3,
+      "sha256": "05d60d37889c1ee2d898846ac411eab067de469635b12d713bfa47f183f0f409",
+      "assessment": "일본·중화민국·약헌의 대응과 주어·규율 형식 차이를 구분함. 양원 예산 의결 규정을 단순 주제 유사로 제외한 선택 기준은 재검토할 수 있음."
+    }
+  ],
+  "synthesis": "핵심 비교 단위는 예산안, 의회, 심의와 의결임. 일본 제86조는 심의·의결을 함께 적으며, 중화민국 두 조문과 약헌 제51조는 입법기관의 예산 의결을 명시함. 작성·제출 의무의 주체가 행정부라는 사실은 의회의 의결 요소를 없애지 않음. 프로이센 1850년과 프랑스 1875년 후보도 예산에 대한 의회의 승인·의결을 비교할 수 있으나 양원 간 절차 배분을 함께 구분해야 함. 프랑스 1946년 제16조와 오스트리아 제51조의 회부·제출만으로 의결의 법적 효과까지 확인한 것으로 처리하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_051",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "일본 제86조는 내각의 제출·의결 획득 의무임에도 선택하고, 같은 의무 형식인 약헌의 입법의원 예산 의결은 주어 차이를 이유로 배제함.",
+      "action": "약헌의 예산 의결 부분 대응을 병기함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "프로이센 1850년 제62조와 프랑스 1875년 제8조의 예산 승인·의결 요소를 양원 선의 절차가 있다는 이유로 일반적 주제 유사에만 둠.",
+      "action": "추가 절차와 의회 의결이라는 공통 요소를 분리함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_016",
+      "type": "summary_overstatement",
+      "severity": "minor",
+      "finding": "후보별 설명은 회부에 그침을 인정하나 종합답변은 선택 후보 공통 효과를 의결·결정이라고 포괄함.",
+      "action": "회부 규정은 별도 범위로 표시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "제출기한·수정권·미의결 효과 등 대상 조문에 없는 사항을 미설명 요소에 포함함.",
+      "action": "대상 문언의 미대응 요소와 후보에만 있는 추가 절차를 구분함."
+    }
+  ],
+  "limits": [
+    "한 조문의 국회라는 명칭만으로 전체 헌법의 단원제 여부를 입증할 수 없음."
+  ]
+}

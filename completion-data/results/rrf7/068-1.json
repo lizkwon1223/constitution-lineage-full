@@ -1,0 +1,94 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_068",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 행정기관의 구성원을 '수장(총리)과 그 밖의 국무대신/국무위원'으로 열거하고 '~으로 조직한다'로 맺는 문형이 구체적으로 대응한다. 다만 대상 조문의 '대통령' 포함, '합의체' 명시, 중요 국책 의결권은 대응하지 않으므로 구성 문형 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "기관의 구성원 열거와 '조직' 문형",
+          "target_field": "original_text",
+          "target_quote": "大統領과 國務總理 其他의 國務委員으로 組織되는",
+          "candidate_field": "original_text",
+          "candidate_quote": "その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する",
+          "commonality": "총리와 '기타의' 국무위원(국무대신)을 열거하여 기관을 조직한다고 규정하는 구성 방식이 같다",
+          "difference": "대상은 대통령을 구성원에 포함하고 총리를 수장으로 규정하지 않으나, 후보는 내각총리대신을 수장으로 삼고 원수는 구성원이 아니다"
+        },
+        {
+          "element": "기관의 권한·책임 규정 방식",
+          "target_field": "original_text",
+          "target_quote": "大統領의 權限에 屬한 重要 國策을 議決한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、行政権の行使について、国会に対し連帯して責任を負ふ",
+          "commonality": "조직 규정에 이어 기관의 지위·기능을 같은 조문에서 규정한다",
+          "difference": "대상은 대통령 권한사항에 대한 의결기능을 정하나, 후보는 행정권 행사에 대한 국회에 대한 연대책임을 정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정각부장의 임명 절차와 행정각부 조직의 법률유보를 정한 규정으로, 국무원의 구성과 의결권을 정한 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국무총장 및 국무위원'이라는 직명 용어는 겹치나, 규율 대상은 임명 절차와 정원 수여서 구성·의결을 정한 대상 조문과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 국무기관의 구성원을 열거하고 '~으로써 組織함'으로 맺는 문형이 대상의 '~으로 組織되는'과 직접 대응한다. 다만 구성원 범위(대통령 포함 여부)와 의결권한 규정은 대응하지 않으므로 조직 규정 부분에 한정한다.",
+      "evidence": [
+        {
+          "element": "국무기관의 구성 규정 문형",
+          "target_field": "original_text",
+          "target_quote": "國務總理 其他의 國務委員으로 組織되는",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務會議는 國務總長 及 國務委員으로써 組織함",
+          "commonality": "총리(총장)와 국무위원을 구성원으로 열거하고 '組織'이라는 동일 어휘로 기관 구성을 규정한다",
+          "difference": "대상은 대통령을 구성원에 포함시키고 기관명을 '국무원'이라 하며 '합의체'임과 중요 국책 의결권을 함께 규정하나, 후보는 국무회의의 구성원 열거에 그치고 정부주석은 포함하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_028",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국무총장의 수반 지위와 국무회의 의장직을 정한 규정으로 주제는 인접하나, 대상 조문의 구성 열거·합의체 성격·의결권과 직접 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "부서 및 그에 따른 입법의원에 대한 책임을 정한 규정으로, 국무원의 구성과 의결권을 정한 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_046",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총리와 장관의 임명 절차(대통령의 데크레)를 정할 뿐, 합의체 구성이나 의결권한에 관한 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "국무원을 '합의체'로 명시한 성격 규정",
+    "'대통령의 권한에 속한 중요 국책'이라는 심의·의결 대상의 한정",
+    "대통령이 국무원 구성원에 포함되는 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조 관계나 역사적 영향은 확정할 수 없다.",
+    "제공된 후보 본문 외의 자료는 사용하지 않았다."
+  ],
+  "short_answer": "일본국헌법 제66조와 조선임시약헌 제25조가 대상 조문의 '구성원 열거 + 조직한다' 문형과 구체적으로 대응하여 후속 비교에 유용하다. 두 후보 모두 총리(총장)와 기타 국무위원(국무대신)을 열거해 합의제 국무기관을 조직한다고 규정하는 점이 공통된다. 차이는 대상 조문이 대통령을 구성원에 포함하고 기관을 '합의체'로 명시하며 '대통령의 권한에 속한 중요 국책'의 의결권까지 함께 규정하는 데 있다. 일본국헌법은 총리를 수장으로 하고 국회에 대한 연대책임을, 약헌은 구성 열거만을 정한다. 나머지 후보는 임명 절차·정원·의장직·부서 등 다른 규율 요소를 다루어 선택하지 않았으며, 어느 경우에도 문언 대응이 역사적 참조를 입증하지는 않는다."
+}

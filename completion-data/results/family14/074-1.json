@@ -1,0 +1,141 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_074",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_072",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "내각총리대신의 의안제출·국회보고·행정각부 지휘감독을 정할 뿐, 총리령·부령과 같은 명령 발포권이나 직권·위임 요건에 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_077",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방각부의 사무 담당과 지휘를 정하여 '담임한 직무'라는 소관 관념과 주제는 겹치나, 장관이 부령을 발할 수 있다는 권한·효과 규정이 없어 문언적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_054",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'위임'이라는 관념은 겹치지만 내용은 총리가 자신의 권한을 장관에게 위임하는 것이고, 대상 조문의 '특별한 위임에 의한 명령 발포'라는 권한 유형·효과와는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정각부장의 임명과 조직·권한의 법률주의를 정할 뿐, 명령 발포 권한이라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "부장·위원장의 임명 및 겸임에 관한 규정으로, 부령 발포 권한과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 지위·선출·권한 전반을 규정하며 행정부처 통할·임명을 다루나, 총리·장관의 명령 발포권에 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령·장관의 소추와 재판 절차 규정으로 대상 조문의 명령 발포권과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_047",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각 국무장관의 소관(Zuständigkeit) 확정을 다루어 '담임한 직무' 관념과 느슨하게 겹치지만, 명령(부령) 발포 권한·직권 또는 특별한 위임이라는 요건이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_046",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 공무원 임면권과 그 행사 위임을 정할 뿐, 위임의 대상이 명령 발포가 아니어서 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_037",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총통의 법률 공포·명령 발포에 대한 부서 요건 규정으로, 장관 자신이 부령을 발하는 권한과는 주체·효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(각부 장관급 '相' ↔ 행정각부장관), 요건(자기 권한 내 ↔ 담임한 직무에 관한 직권), 효과(성령·규칙 공포 ↔ 총리령·부령 발포)가 문형 단위로 대응하여 후속 비교에 유용하다. 다만 '특별한 위임' 요건과 국무총리(총리령) 부분은 대응이 없다.",
+      "evidence": [
+        {
+          "element": "주체",
+          "target_field": "original_text",
+          "target_quote": "國務總理 또는 行政各部長官은",
+          "candidate_field": "original_text",
+          "candidate_quote": "相은",
+          "commonality": "행정 각부를 담당하는 장관급 개별 공무원을 명령 발포 주체로 삼는다.",
+          "difference": "대상은 국무총리와 행정각부장관 두 주체를 병렬하여 총리령까지 포함하나, 후보는 '相'(각부 장관) 단일 주체만 규정한다."
+        },
+        {
+          "element": "요건(권한 범위)",
+          "target_field": "original_text",
+          "target_quote": "그 擔任한 職務에 關하여 職權 또는 特別한 委任에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "自己 權限內에서",
+          "commonality": "명령 발포를 자신의 소관·권한 범위 내로 한정하는 조건을 둔다.",
+          "difference": "대상은 '직권'과 '특별한 위임'이라는 두 근거를 명시하는데, 후보에는 위임에 의한 발포라는 근거가 없다."
+        },
+        {
+          "element": "효과(명령의 종류·형식)",
+          "target_field": "original_text",
+          "target_quote": "總理令 또는 部令을 發할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "省令 또는 規則을 公布할 수 있다",
+          "commonality": "장관급 주체가 두 종류의 하위 법규범을 발할 수 있다는 가능형 문형이 대응한다.",
+          "difference": "대상은 총리령·부령(총리·부 단위)이고 후보는 성령·규칙이며, 후보는 '의무적으로 실행되어야 할'이라는 구속력 문구를 덧붙이고 '公布'라는 동사를 쓴다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_055",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무대신의 보필 책임과 부서 요건 규정으로, 장관이 스스로 명령을 발하는 권한과는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "집행에 필요한 명령 발포를 규정한다는 점에서 주제가 겹치나, 주체가 국왕이고 요건도 법률 집행 필요성이어서 장관의 직권·위임에 의한 부령과는 주체·요건이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 권한과 각 부처 장관에 대한 의견 요구·임명 관련 규정만 있고, 장관의 명령 발포권에 대응하는 문언이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "국무총리의 '총리령' 발포 권한이라는 별도 주체·명령 종류",
+    "'특별한 委任에 依하여' 명령을 발할 수 있다는 위임근거 요건"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며, 실제 참조·계수 관계의 역사적 확정은 제공된 본문만으로 판단할 수 없다.",
+    "독일어·프랑스어 후보는 원문과 제공 번역을 함께 읽고 판단했으므로 번역 의존 가능성이 있다."
+  ],
+  "short_answer": "제시된 후보 중 대상 조문의 핵심 요소(장관급 주체가 자신의 권한 범위에서 두 종류의 하위 명령을 발할 수 있음)와 문형까지 대응하는 것은 조선민주주의인민공화국헌법안 제64조뿐이다. 공통점은 주체가 행정 각부 담당 장관이라는 점, 발포 요건을 자신의 권한·담임 직무로 한정한 점, '…을 발/공포할 수 있다'는 가능형 효과 규정이다. 차이는 대상이 국무총리(총리령)를 병렬 주체로 포함하고 '특별한 위임'이라는 추가 근거를 두는 반면, 후보는 '相' 단일 주체에 성령·규칙을 '의무적으로 실행되어야 할' 규범으로 공포하도록 한 점이다. 프로이센헌법 제45조와 프랑스 제4공화국헌법 제54조는 각각 명령 발포와 권한 위임이라는 관념이 겹치지만 주체·요건·효과가 달라 일반적 유사에 그친다. 나머지 후보는 임명·부서·조직 등 다른 규율 대상을 다루며, 이상은 문언 대응 검토일 뿐 역사적 영향의 확정은 아니다."
+}

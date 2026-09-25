@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_061",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "61",
+    "original_text": "大統領은 國軍을 統帥한다.\n國軍의 組織과 編成은 法律로써 定한다.",
+    "workbook_text_ko": "대통령은 국군을 통수한다.\n국군의 조직과 편성은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_061",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "61",
+      "original_text": "行政院之組織，以法律定之。",
+      "workbook_text_ko": "行政院의 組織은 法律로써 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_137",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "137",
+      "original_text": "中華民國之國防，以保衛國家安全，維護世界和平為目的。\n國防之組織，以法律定之。",
+      "workbook_text_ko": "中華民國의 國防은 國家의 安全을 保衛하고 世界平和를 維持防護함을 目的으로 한다.\n國防의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_027",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "27",
+      "original_text": "政府主席은 國務總長의 推薦에 依하여 國務委員 中에서 行政 各部長을 任命함\n行政各部의 組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "정부주석은 국무총장의 추천에 의하여 국무위원 중에서 행정 각 부장을 임명함.\n행정 각 부의 조직 및 권한은 법률로써 정함."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_036",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "36",
+      "original_text": "總統統率全國陸海空軍。",
+      "workbook_text_ko": "總統은 全國의 陸, 海, 空軍을 統率한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_047",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "47",
+      "original_text": "Der Reichspräsident hat den Oberbefehl über die gesamte Wehrmacht des Reichs.",
+      "workbook_text_ko": "제국대통령은 독일제국 내의 전체 군대에 대해서 최고 통수권을 행사한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_037",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "37",
+      "original_text": "總統統率全國陸海空軍。",
+      "workbook_text_ko": "총통은 전국의 육해공군을 통솔한다."
+    }
+  ]
+}

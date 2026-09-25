@@ -1,0 +1,77 @@
+{
+  "article": 85,
+  "reviewed_at": "2026-09-22T16:24:40.704558+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "724b9e3fc5c299479c25a94066340cb161fd0e772c45d7a7a4d0b7be566166a7",
+  "input_sha256": "f5bc57e8bf51a282d98e73010bd63cb2ea6a4ff64919385a269a2b53df2557d8",
+  "responses": [
+    {
+      "job_id": "085_371260fa36dc_r1",
+      "repeat": 1,
+      "sha256": "b02871e4c604f53491c646decf7e1ad50e8792339b790297f15065f363595d80",
+      "assessment": "국유·감독 및 기간부 특허를 잘 구분함. 원문 인용의 필드 표시 오류와 필리핀 수리권 예외의 범위는 보완해야 함."
+    },
+    {
+      "job_id": "085_371260fa36dc_r2",
+      "repeat": 2,
+      "sha256": "28a1eb36982a75faabe9da06edcb21d0f96597b1e9b5c773ac2df572d0c10c5d",
+      "assessment": "광물·자연력과 특허의 대응은 적절함. 법률유보라는 공통 형식만으로 서로 다른 권리의 처리까지 강하게 연결하지 않아야 함."
+    },
+    {
+      "job_id": "085_371260fa36dc_r3",
+      "repeat": 3,
+      "sha256": "67ac9e2679f4871014fdbf405fe0f0a6173f71f3278258adfdf078e5b95b91e3",
+      "assessment": "중화민국의 공중 이용 수식어 차이를 잘 포착함. 필리핀의 수력 개발 제외 조건을 예외 설명에 남겨야 함."
+    }
+  ],
+  "synthesis": "중화민국 초안 제118조와 1946년 제143조 제2항은 토지 부착 광물 및 경제상 공중이 이용할 수 있는 자연력의 국유에 직접 대응하며 토지소유권 취득에 영향을 받지 않음을 덧붙임. 바이마르 제155조는 지하자원·경제적 자연력의 범주에 대응하나 국가 감독과 사적 특권의 입법적 이관을 규정함. 필리핀 제12조는 자원의 국가 귀속과 개발·이용 허가 등의 기간을 결합하며 25년 및 추가 25년 갱신을 정함. 일부 수리권은 유익한 이용을 기준으로 하는 예외이나 수력 개발용 수리권은 그 예외에서 제외됨. 제헌헌법의 수산자원·수력 별도 열거, 공공필요 및 특허 취소는 각각 남는 차이임. 포괄적 천연자원 규정에 수산자원이 법적으로 포함되지 않는다고 단정하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "qualification_precision",
+      "finding": "필리핀의 수리권 예외를 요약하면서 수력 개발용 수리권은 예외에서 제외된다는 한정이 빠짐.",
+      "action": "수리권의 용도별 예외와 그 예외에서 제외되는 수력 개발을 함께 적음.",
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "unsupported_scope_inference",
+      "finding": "수산자원을 따로 열거하지 않았다는 점을 수산자원의 국유를 정하지 않았다고 단정함. 포괄적 천연자원 문구의 적용 범위는 별도 문제임.",
+      "action": "명시적 열거의 차이로 한정함.",
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "quote_field_mismatch",
+      "finding": "필리핀 비교의 대상 인용 한 건은 한자 원문이지만 번역문 필드로 지정됨.",
+      "action": "인용 위치 표시 오류로 분리하고 해당 원문 위치를 연결함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "evidence_strength",
+      "finding": "토지소유권의 보장·제한과 개발 특허 취소를 법률유보라는 형식으로 연결한 근거는 주된 대응보다 약함.",
+      "action": "국유 대상과 기간부 특허를 핵심 논거로 두고 법률유보 비교는 보조로 제한함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": [
+    "북한 제10조 입력의 중복 구절은 보존하며 자료 정비 사항으로 구분함."
+  ]
+}

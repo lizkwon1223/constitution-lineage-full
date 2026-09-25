@@ -1,0 +1,143 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_101",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_088",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법 시행일과 일부 조항의 시행 유보를 정한 규정으로, 제헌국회에 특별법 제정권을 부여하는 대상 조문과 규율 요소(주체·권한·처벌)가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_099",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주헌법의 개정과 의결정족수에 관한 규정으로, 대상 조문의 소급적 처벌 특별법 제정권과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "정부주석의 권한 열거 조항으로, 법률안 제출·공포 등 입법 관여가 나오지만 제헌의회의 특별법 제정권이나 반민족행위 처벌과는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_097",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제헌의회 의원이 경과기간 중 계속 활동할 수 있게 하는 부칙이라는 점에서 큰 틀의 유사성은 있으나, 권한 내용은 의장단·정부에 의한 소집일 뿐 특별법 제정권이 아니어서 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법법률 개정 절차와 정족수에 관한 조항으로, 대상 조문의 처벌 특별법 수권과 공통 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_181",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국민의회가 이 헌법을 의결하였다'는 제헌기관 언급이 있으나, 그 기관에 별도 권한을 부여하는 구조가 없고 효력 발생일만 규정하므로 문형상 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XIV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안·비준 절차 조항으로, 대상 조문과 주체·권한·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'制定憲法之國民大會'라는 제헌기관 지칭 방식과, 그 기관이 헌법 부칙에서 특정 입법·의정 권한을 행사하도록 수권하는 문형이 대상 조문의 '이 憲法을 制定한 國會는 …할 수 있다'와 구체적으로 대응한다. 다만 대응 범위는 주체 지칭과 수권 문형에 한정되고 처벌·소급 요소는 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "주체(제헌기관 지칭)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "由制定憲法之國民大會議定之",
+          "commonality": "헌법을 제정한 기관을 그 명칭이 아니라 '헌법을 제정한 ○○'로 지칭하여 부칙에서 권한의 주체로 삼는다.",
+          "difference": "대상은 국회(입법기관)이고 후보는 국민대회로 기관 성격이 다르다."
+        },
+        {
+          "element": "권한/효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "처벌하는 특별법을 제정할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "本憲法規定事項，有另定實施程序之必要者，以法律定之。",
+          "commonality": "헌법 시행에 부수하여 별도의 법률(특별 입법·절차)을 마련하도록 하는 부칙적 수권이다.",
+          "difference": "후보는 헌법 시행절차를 위한 법률·준비절차 의정이고, 대상은 과거 행위에 대한 처벌 특별법 제정으로 내용과 목적이 전혀 다르며, 후보는 '以法律定之'로 의무적 규정 형식이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_051",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "양원의 내부 규칙 제정권 조항으로, 대상 조문과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법 질서 파괴 행위의 처벌을 헌법에 규정한다는 점에서 '처벌' 주제가 겹치지만, 처벌 대상·시점(소급)·특별법 제정 주체와 형식이 달라 법률 상용어 수준의 유사성에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_146",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'制定憲法之國民大會'가 부칙에서 특정 권한을 행사한다는 문형이 대상 조문의 제헌국회 수권 문형과 직접 대응한다. 대응은 주체 지칭과 '제헌기관이 권한을 행사/행사할 수 있다'는 구조에 한정된다.",
+      "evidence": [
+        {
+          "element": "주체 및 수권 문형",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는",
+          "candidate_field": "original_text",
+          "candidate_quote": "由制定憲法之國民大會行使之",
+          "commonality": "헌법을 제정한 기관에게 헌법 부칙으로 특별한 권한을 귀속시키는 동일한 구성이다.",
+          "difference": "후보는 제1기 국민대회의 직권을 대행시키는 기관 권한 승계 규정이고, 대상은 처벌 특별법 제정이라는 개별 입법권을 재량적으로('할 수 있다') 부여한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법 시행에 필요한 법률 제정을 부칙에서 허용하는 점에서 '부칙상 입법 허용' 구조가 유사하나, 주체가 특정되지 않고 대상 조문의 소급 처벌 특별법과는 목적·내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_113",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "범법행위를 '특별법(besonderes Gesetz)'으로 규율한다는 어휘·주제가 겹치지만, 제정 주체가 특정되지 않고 의무적 형식이며 소급 처벌이나 반민족행위와 무관해 구체적 규율 요소의 대응으로 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "입법금지(기본권 보장) 조항으로, 대상 조문의 특별법 제정 수권과 방향이 반대이며 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "단기 4278년 8월 15일 이전이라는 소급 적용 시점의 특정",
+    "'악질적인 반민족행위'라는 처벌 대상 행위의 규정",
+    "형벌 특별법에 의한 소급 처벌의 헌법적 허용(재량적 '할 수 있다')이라는 효과"
+  ],
+  "limitations": [
+    "문언·문형상의 대응만을 검토했으며, 제공된 본문만으로는 실제 참조·영향 관계를 확정할 수 없다.",
+    "후보 중 한문·독문·불문 조문의 세부 의미는 제공된 원문과 번역문 범위에서만 비교했다."
+  ],
+  "short_answer": "대상 조문과 구체적으로 대응하는 후보는 중화민국헌법 제175조와 五五憲草 제146조로, 모두 '制定憲法之國民大會'처럼 헌법을 제정한 기관을 지칭하여 부칙에서 특별한 권한을 부여하는 문형을 공유한다. 다만 대응 범위는 주체 지칭과 수권 구조에 한정되며, 후보들의 권한 내용은 헌법 시행 준비절차 의정이나 제1기 국민대회 직권 행사여서 처벌 특별법 제정과는 목적·효과가 다르다. 프로이센 헌법 제113조는 '특별법'이라는 형식과 범법행위 규율이라는 주제만 겹치고 주체·소급·재량 요소가 달라 일반적 유사성에 그친다. 일본국헌법 제100조 제2항, 프랑스 제4공화국헌법 제97조, 바이마르 제181조는 부칙적 경과규정이라는 큰 틀의 유사성만 있다. 단기 4278년 8월 15일 이전 악질적 반민족행위의 소급 처벌이라는 핵심 요소는 제시된 후보로 설명되지 않으며, 이는 역사적 참조의 부재를 뜻하지 않는다."
+}

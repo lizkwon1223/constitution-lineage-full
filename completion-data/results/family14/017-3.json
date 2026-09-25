@@ -1,0 +1,179 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_017",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가평의회 의원 직무 수행 시 휴가 불요와 봉급·임금 계속 지급에 관한 규정으로, 근로의 권리·의무나 근로조건 기준의 법정, 여자·소년 보호와 규율 대상이 다르다. 'Arbeiter', 'Lohn' 등 용어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_023",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "교육시설 감독과 공립학교 교사의 공무원 지위에 관한 조항으로, '권리와 의무를 가진다'는 상용 문형만 유사할 뿐 근로 관련 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "세 항의 구성(근로의 권리·의무 - 근로조건 기준의 법률 유보 - 약자 보호)이 대상 조문과 항별로 대응하며, 특히 제1항과 제2항은 규율 요소와 문형이 거의 일치한다. 제3항은 보호 대상과 방식에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "근로의 권리와 의무의 주체 및 내용",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 勤勞의 權利와 義務를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、勤労の権利を有し、義務を負ふ。",
+          "commonality": "'모든 국민'을 주체로 근로의 권리와 의무를 한 문장에 병렬로 규정한다.",
+          "difference": "대상은 권리·의무를 '가진다'로 일괄 표현하고, 후보는 권리는 有し, 의무는 負ふ로 나누어 서술한다."
+        },
+        {
+          "element": "근로조건 기준의 법률 유보",
+          "target_field": "original_text",
+          "target_quote": "勤勞條件의 基準은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "賃金、就業時間、休息その他の勤労条件に関する基準は、法律でこれを定める。",
+          "commonality": "근로조건의 '기준'을 법률로 정하도록 하는 법률유보 형식이 같다.",
+          "difference": "후보는 임금·취업시간·휴식을 예시로 열거하나 대상은 예시 없이 '근로조건의 기준'만 포괄적으로 규정한다."
+        },
+        {
+          "element": "약자 근로의 특별 보호",
+          "target_field": "original_text",
+          "target_quote": "女子와 少年의 勤勞는 特別한 保護를 받는다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "児童は、これを酷使してはならない。",
+          "commonality": "연소자를 대상으로 한 별도 항을 마지막에 두어 보호를 규정한다.",
+          "difference": "대상은 여자와 소년을 함께 들어 '특별한 보호'라는 적극적 보호를 규정하나, 후보는 아동에 한정하여 혹사 금지라는 금지 규범만 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방·주 공무원의 복무법·보수·징계·전직에 관한 조직규범으로, 일반 국민의 근로 권리·의무나 여자·소년 보호와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "최저임금제·종업원대표 참여·사회보험 등 노동 관련 정책을 열거하나, 근로의 권리와 의무, 근로조건 기준의 법률 유보, 여자·소년 근로의 특별 보호라는 대상의 세 요소와 직접 대응하는 문언은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사회정의 증진과 국민의 복무 의무 등 국가정책 선언에 그치고, 근로의 권리·의무나 근로조건 기준의 법정, 여자·소년 근로 보호에 관한 구체적 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_152",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "근로 능력자에 대한 국가의 근로기회 제공 의무를 정하여 주제는 근접하나, 국민의 권리·의무 병렬 구성, 근로조건 기준의 법률 유보, 여자·소년 보호 등 대상의 규율 요소와 문형이 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XIV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "시민권·적법절차·평등보호와 하원의원 배분 등에 관한 규정으로 근로 관련 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_157",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'특별한 보호'라는 문형과 노동법의 입법 규정이 있으나, 보호 대상이 노동력 일반이고 대상 조문처럼 여자·소년으로 특정되지 않으며 근로조건 '기준'의 법률유보와도 규율 방식이 다르다. 문형상 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_022",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'특별히 보호한다'는 표현이 겹치나 보호 대상이 모성과 유아이고 근로와 무관한 남녀평등 조항 맥락이어서, 여자와 '소년의 근로'에 대한 특별 보호라는 대상 요소와 규율 대상이 어긋난다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "근로의 의무와 일자리를 얻을 권리를 한 문장에 병렬시킨 부분이 대상 제1항과 구체적으로 대응한다. 다만 근로조건 결정은 노동자 대표의 참여로 규율되어 법률유보 방식과 다르고, 보호 대상도 아동·어머니·고령노동자로 달라 대응 범위는 제1항에 한정된다.",
+      "evidence": [
+        {
+          "element": "근로의 권리와 의무의 병렬",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 勤勞의 權利와 義務를 가진다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Chacun a le devoir de travailler et le droit d'obtenir un emploi.",
+          "commonality": "근로의 의무와 근로(고용)에 관한 권리를 하나의 문장에서 함께 규정한다.",
+          "difference": "주체가 대상은 '모든 국민'이나 후보는 'Chacun'(모든 개인)이며, 권리의 내용도 후보는 '일자리를 얻을 권리'로 구체화되어 있다."
+        },
+        {
+          "element": "근로조건의 결정 방식",
+          "target_field": "original_text",
+          "target_quote": "勤勞條件의 基準은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Tout travailleur participe, par l'intermédiaire de ses délégués, à la détermination collective des conditions de travail",
+          "commonality": "근로조건의 결정을 헌법 차원에서 규율 대상으로 삼는다.",
+          "difference": "대상은 기준을 법률로 정하는 법률유보인 반면, 후보는 노동자 대표를 통한 집단적 결정 참여를 보장하여 결정 주체와 절차가 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_020",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "병역의무에 관한 조항으로 '법률이 정하는 바에 따라 의무를 진다'는 문형만 일반적으로 유사할 뿐, 근로의 권리·근로조건·여자와 소년 보호와는 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "양원제 입법권 조직에 관한 규정으로 대상 조문의 근로 관련 요소와 접점이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_124",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "노동에 종사하는 여성과 아동에게 '특별한 보호'를 한다는 문언이 대상 제3항과 보호 대상(여자·연소자)과 보호 방식('특별한 보호')에서 구체적으로 대응한다. 다만 대응 범위는 제3항에 한정되고, 제1·2항의 권리·의무와 법률유보는 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "여자와 소년 근로의 특별 보호",
+          "target_field": "original_text",
+          "target_quote": "女子와 少年의 勤勞는 特別한 保護를 받는다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "婦女兒童從事勞動者，應按其年齡及身體狀態，施以特別之保護。",
+          "commonality": "노동에 종사하는 여성과 연소자를 함께 묶어 '특별한 보호'의 대상으로 명시한다.",
+          "difference": "후보는 연령과 신체 상태라는 보호의 기준을 두고 국가가 보호를 '실시하여야 한다'는 국가의무 형식인 반면, 대상은 조건 없이 '보호를 받는다'는 수동형 권리보장 형식이다. 연소자 지칭도 兒童과 少年으로 다르다."
+        },
+        {
+          "element": "근로 보호의 규범 형식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "근로조건의 기준은 법률로써 정한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家爲改良勞工生活，增進其生產技能，及救濟勞工失業，應實施保護勞工政策。",
+          "commonality": "근로자 보호를 위한 일반적 규율을 별도 문장으로 두고 있다.",
+          "difference": "대상은 근로조건 기준의 법률유보인 반면, 후보는 생활 개선·생산기능 증진·실업 구제를 목적으로 하는 국가의 정책 실시 의무로서 수단과 효과가 다르다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'근로조건의 기준'을 법률로 정한다는 법률유보의 구체적 표현은 JP1946 제27조 제2항 외의 후보에서는 대응이 확인되지 않음",
+    "근로의 '의무'를 국민 일반에 부과하는 점과 권리·의무를 한 문장에 결합한 어법의 연원은 JP1946·FR1946 외에는 확인되지 않음"
+  ],
+  "limitations": [
+    "제공된 조문 문언만으로 비교하였으므로 문언상 대응이 곧 역사적 참조·영향을 입증하지는 않는다.",
+    "외국어 후보의 한국어 번역문은 참고에 그치고, 대응 판단은 원문 인용을 기준으로 하였다."
+  ],
+  "short_answer": "대상 제17조의 세 요소 중 제1·2항은 일본국헌법 제27조가 항 구성과 문형까지 가장 밀접하게 대응하고, 제3항은 五五憲草 제124조 제2문의 '婦女兒童從事勞動者…特別之保護'가 보호 대상과 '특별한 보호'라는 효과에서 구체적으로 대응한다. 프랑스 제4공화국헌법 전문은 근로의 의무와 일자리를 얻을 권리를 한 문장에 병렬한 점에서 제1항과 대응하나, 근로조건은 노동자 대표의 집단적 결정으로 규율하여 법률유보와 방식이 다르다. 바이마르 제157조와 북조선헌법안 제22조는 '특별한 보호' 문형이 겹치지만 보호 대상이 각각 노동력 일반, 모성·유아여서 일반적 유사에 그친다. 이상은 문언상 대응 관계이며 실제 참조 여부의 확정은 아니다."
+}

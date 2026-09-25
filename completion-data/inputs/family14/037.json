@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_037",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "37",
+    "original_text": "國會는 憲法 또는 國會法에 特別한 規定이 없는 限 그 在籍議員의 過半數의 出席과 出席議員의 過半數로써 議決을 行한다.\n議長은 議決에 있어서 表決權을 가지며 可否同數인 境遇에는 決定權을 가진다.",
+    "workbook_text_ko": "국회는 헌법 또는 국회법에 특별한 규정이 없는 한 그 재적의원의 과반수의 출석과 출석의원의 과반수로써 의결을 행한다.\n의장은 의결에 있어서 표결권을 가지며 가부동수인 경우에는 결정권을 가진다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_047",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "47",
+      "original_text": "両議院ノ議事ハ過半数ヲ以テ決ス可否同数ナルトキハ議長ノ決スル所ニ依ル",
+      "workbook_text_ko": "양원의 의사는 과반수로 결정한다. 가부동수인 때에는 의장이 결정하는 바에 따른다."
+    },
+    {
+      "article_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750224_ORIGINAL",
+      "document_title": "프랑스 상원 조직법",
+      "article_no": "8",
+      "original_text": "Le Sénat a, concurremment avec la Chambre des députés, l'initiative et la confection des lois. - Toutefois, les lois de finances doivent être, en premier lieu, déposées à la Chambre des députés et votées par elle.",
+      "workbook_text_ko": "상원은 하원(Chambre des députés)과 함께 법률의 발의권과 제정권\n(l'initiative et la confection des lois)을 가진다.\n다만, 예산법률(loi de finances)은 먼저 제1원(하원)에 제출하여 거기서 의결\n하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_032",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "32",
+      "original_text": "國民大會之職權如左：\n一、選舉總統副總統、立法院院長副院長、監察院院長副院長、立法委員、監察委員。\n二、罷免總統副總統、立法、司法、考試、監察各院院長副院長、立法委員、監察委員。\n三、創制法律。\n四、複決法律。\n五、修改憲法。\n六、憲法賦予之其他職權。",
+      "workbook_text_ko": "국민대회의 직권은 다음과 같다.\n1. 총통·부총통, 입법원 원장·부원장, 감찰원 원장·부원장, 입법위원 및 감찰위원을 선출한다.\n2. 총통·부총통, 입법원·사법원·고시원·감찰원 각 원의 원장·부원장, 입법위원 및 감찰위원을 파면한다.\n3. 법률을 발안한다.\n4. 법률을 복결한다.\n5. 헌법을 개정한다.\n6. 헌법이 부여한 그 밖의 직권을 행사한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_056",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "56",
+      "original_text": "両議院は、各々その総議員の三分の一以上の出席がなければ、議事を開き議決することができない。\n２　両議院の議事は、この憲法に特別の定のある場合を除いては、出席議員の過半数でこれを決し、可否同数のときは、議長の決するところによる。",
+      "workbook_text_ko": "①양원은 각각 그 재적의원 3분의 1 이상이 출석하지 아니하면 개의하여 의결할 수 없다.\n②양원은 이 헌법에 특별한 규정이 있는 경우를 제외하고는 출석의원의 과반수로 의결하고 가부 동수인 경우에는 의장이 결정하는 바에 따른다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_058",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "58",
+      "original_text": "Die Reichsregierung faßt ihre Beschlüsse mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.",
+      "workbook_text_ko": "제국정부는 과반수를 확보한 경우에는 의결권을 행사한다. 가부동수인 경우, 의장이 행사하는 표가 최종 의결권을 행사한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XII",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XII",
+      "original_text": "The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President. -- The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.",
+      "workbook_text_ko": "선거인은 각각 자기 주에서 회합하여, 비밀 투표에 의하여\n대통령과 부통령을 선거한다. 양인중 적어도 1인은 선거인과\n동일한 주의 주민이 아니어야 한다. 선거인은 투표용지에 대\n통령으로 투표되는 사람을 지명(指名)하고, 별개의 투표용지\n에 부통령으로 투표되는 사람을 지명해야 한다. 선거인은 대\n통령으로 투표된 모든 사람의 명부와 부통령으로 투표된 모\n든 사람의 명부, 그리고 각 득표자의 득표수를 기재한 표를\n작성하여 이에 서명하고 증명한 다음, 봉인하여 상원 의장\n앞으로 합중국 정부 소재지로 송부한다. 상원 의장은 상원의\n원 및 하원의원의 참석 하에 모든 증명서를 개봉하며, 그 후에 투표가 계표된다. 대통령으로서의 최고 득표자를 대통령으로 한다. 다만\n득표수가 선임된 선거인 총수의 과반수가 되어야 한다. 이와\n같은 과반수 득표자가 없을 경우 하원은 즉시 대통령으로\n투표된 사람의 명단 중 3인을 초과하지 아니하는 최다수 득\n표자들 중에서 대통령을 비밀 투표로 선거하여야 한다. 다\n만, 이 방법으로 대통령을 선거할 때에는 선거를 주 단위로\n하고, 각 주는 1표의 투표권을 가지며, 이 선거에 필요한 정\n족수는 전체 주의 3분의 2의 주로부터 1명 또는 그 이상의\n의원의 출석으로써 성립되며, 선출되기 위해서는 전체 주의\n과반수의 찬성이 필요하다. 대통령 선정권이 하원에 위양\n(委讓)된 경우 하원이 그 다음 3월 4일 전에 대통령을 선정하지\n않을 때에는, 대통령의 사망 또는 그 밖의 헌법상의 직무\n수행 불능의 경우와 같이 부통령이 대통령의 직무를 행한\n다. 부통령으로서의 최고 득표자를 부통령으로 한다. 다\n만, 그 득표수는 선임된 선거인 총수의 과반수가 되어야 한다.\n과반수 득표자가 없을 경우에는 상원이 득표자 명부 중 최\n다수 득표자 2인 중에서 부통령을 선임한다. 이 목적을 위\n한 정족수는 상원의원 총수의 3분의 2로 성립되며, 그 선임\n에는 의원 총수의 과반수가 필요하다. 다만, 헌법상 대통령\n직에 취임할 자격이 없는 사람은 합중국 부통령의 직에도\n취임할 자격이 없다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XIV",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XIV",
+      "original_text": "Section 1. The National Assembly, by a vote of three-fourths of all its Members, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 국민의회는 재적의원 4분의 3의 표결로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_094",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "94",
+      "original_text": "監察院依本憲法行使同意權時，由出席委員過半數之議決行之。",
+      "workbook_text_ko": "監察院이 이 憲法에 依하여 同意權을 行使하는 때에는 出席委員이 過半數의 議決로써 이를 行한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_040",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "40",
+      "original_text": "最高人民會議에 있어서의 法令採擇은 그 會議에 參席한 代議員 過半數의 贊成이 있어야 한다.",
+      "workbook_text_ko": "최고인민회의에 있어서의 법령채택은 그 회의에 참석한 대의원 과반수의 찬성이 있어야 한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_037",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "37",
+      "original_text": "(1) Zu einem Beschluß des Bundesrates ist, soweit in diesem Gesetz nicht anderes bestimmt ist, die Anwesenheit von mindestens einem Drittel der Mitglieder und die unbedingte Mehrheit der abgegebenen Stimmen erforderlich.\n(2) Der Bundesrat gibt sich seine Geschäftsordnung durch Beschluß. Dieser Beschluß kann nur bei Anwesenheit der Hälfte der Mitglieder mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen gefaßt werden.\n(3) Die Sitzungen des Bundesrates sind öffentlich. Die Öffentlichkeit kann jedoch gemäß den Bestimmungen der Geschäftsordnung durch Beschluß aufgehoben werden. Die Bestimmungen des Artikels 33 gelten auch für öffentliche Sitzungen des Bundesrates und seiner Ausschüsse.",
+      "workbook_text_ko": "(1) 이 법에 달리 정함이 없는 한, 연방참사원의 의결에는 의원 3분의 1 이상의 출석과 투표수의 절대다수 찬성이 필요하다.\n(2) 연방참사원은 의결로 자신의 의사규칙을 정한다. 이 의결은 의원 절반의 출석과 투표수 3분의 2 이상의 찬성으로만 할 수 있다.\n(3) 연방참사원의 회의는 공개한다. 다만 의사규칙에 따라 의결로 비공개로 할 수 있다. 제33조의 규정은 연방참사원 및 그 위원회의 공개회의에도 적용한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_016",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "16",
+      "original_text": "立法議院은 本法에 따른 規定이 없는 限 在籍議員 過半數의 出席으로 開會하고 議事는 出席議員 過半數로써 決함",
+      "workbook_text_ko": "입법의원은 본법에 따른 규정이 없는 한 재적의원 과반수의 출석으로 개회하고 의사는 출석의원 과반수로써 결정함."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_012",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "12",
+      "original_text": "Quand l'Assemblée nationale ne siège pas, son bureau, contrôlant l'action du Cabinet, peut convoquer le Parlement ; il doit le faire à la demande du tiers des députés ou à celle du président du Conseil des ministres.",
+      "workbook_text_ko": "국민의회가 개최되지 아니한 때에는 그 의장단은 내각의 활동을 감독하며, 국회를 소집할 수 있다. 국민의회 의원의 3분의 1의 청구 또는 국무총\n리(Président du Conseil des Ministres)의 청구가 있을 때에는 의장단은 국\n회를 소집하여야 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_038",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "38",
+      "original_text": "(1) Zum ersten Male wird der Staatsrat vom Staatsministerium einberufen. Im übrigen versammelt er sich auf Einladung seines Vorsitzenden, so oft die Geschäfte es erfordern. Der Vorsitzende hat den Staatsrat einzuberufen, wenn ein Fünftel seiner Mitglieder, die sämtlichen Vertreter einer Provinz oder das Staatsministerium es verlangen.\n(2) Der Staatsrat ist beschlußfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist. Bei Abstimmungen entscheidet die einfache Mehrheit der Abstimmenden.\n(3) Bei Beschlüssen des Staatsrats nach Artikel 14 und Artikel 42 Abs. 1 muß die Abstimmung namentlich sein.",
+      "workbook_text_ko": "(1) 국가평의회는 처음에는 주내각이 소집한다. 그 밖에는 사무상 필요할 때마다 의장의 소집에 따라 집회한다. 의원 5분의 1, 어느 한 도의 대표 전원 또는 주내각이 요구하면 의장은 국가평의회를 소집하여야 한다.\n(2) 국가평의회는 의원의 절반을 넘는 수가 출석하면 의결능력을 가진다. 표결은 투표자의 단순다수로 결정한다.\n(3) 제14조 및 제42조 제1항에 따른 국가평의회의 의결에서는 기명으로 표결하여야 한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_080",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "80",
+      "original_text": "Keine der beiden Kammern kann einen Beschluß fassen, wenn nicht die Mehrheit der gesetzlichen Anzahl ihrer Mitglieder anwesend ist. Jede Kammer faßt ihre Beschlüsse nach absoluter Stimmenmehrheit, vorbehaltlich der durch die Geschäftsordnung für Wahlen etwa zu bestimmenden Ausnahmen.",
+      "workbook_text_ko": "의회 각 원은 의원 법정수의\n과반수가 출석하지 않은 경우에는\n의결할 수 없다. 각 원은, 가령 의\n사규칙으로 [원내]선거에 관해 별도\n로 정하는 예외를 제외하고는, 절대\n과반수로 의결한다."
+    }
+  ]
+}

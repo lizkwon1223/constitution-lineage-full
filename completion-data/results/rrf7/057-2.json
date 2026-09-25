@@ -1,0 +1,233 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_057",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_048",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령을 주체로 하는 비상조치권, '공공의 안전·질서' 목적 표지, 조치의 '지체 없는' 의회 보고와 의회 관여에 의한 효력 상실이라는 구조가 대응한다. 다만 법률의 효력을 가진 명령·재정상 처분이라는 수단 규정과 '승인' 요건은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "발동 목적(공공의 안녕질서)",
+          "target_field": "original_text",
+          "target_quote": "公共의 安寧秩序를 維持하기 爲하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "die öffentliche Sicherheit und Ordnung erheblich gestört oder gefährdet wird",
+          "commonality": "공공의 안전·질서를 발동 목적 내지 요건으로 명시하고 대통령이 필요한 조치를 취하도록 한다",
+          "difference": "바이마르는 질서가 교란·위태로워진 상태를 요건으로 하고 무력 개입과 기본권 정지를 수단으로 열거하는 반면, 대상 조문은 내우·외환·천재·지변·재정경제상 위기를 열거하고 명령·재정처분을 수단으로 한다"
+        },
+        {
+          "element": "의회 보고 절차",
+          "target_field": "original_text",
+          "target_quote": "前項의 命令 또는 處分은 遲滯없이 國會에 報告하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "hat der Reichspräsident unverzüglich dem Reichstag Kenntnis zu geben",
+          "commonality": "대통령이 취한 조치를 지체 없이 의회에 알려야 한다는 절차가 동일한 문형으로 나타난다",
+          "difference": "바이마르는 '고지(Kenntnis geben)'에 그치고 승인 요건이 없으나, 대상 조문은 보고에 더하여 국회의 '승인'을 얻을 것을 요구한다"
+        },
+        {
+          "element": "효력 상실",
+          "target_field": "original_text",
+          "target_quote": "萬一 國會의 承認을 얻지 못한 때에는 그때부터 效力을 喪失하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Maßnahmen sind auf Verlangen des Reichstags außer Kraft zu setzen.",
+          "commonality": "의회의 의사에 따라 조치가 효력을 잃는다는 효과를 규정한다",
+          "difference": "바이마르는 의회의 '요구'가 있을 때 폐지하는 구조이고, 대상 조문은 승인 불성립 시 당연히 장래를 향해 실효하며 대통령의 공포 의무까지 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_052",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'내란·외환' 등 사유 열거, '의결을 기다릴 여유가 없을 때'라는 조건 문형, '재정상 필요한 처분', 사후 의회 '승낙/승인' 절차가 어구 수준에서 밀접하게 대응한다.",
+      "evidence": [
+        {
+          "element": "의회 집회를 기다릴 여유가 없을 것이라는 조건",
+          "target_field": "original_text",
+          "target_quote": "國會의 集會를 기다릴 餘裕가 없는 境遇에 限하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法議院의 議決을 기다릴 餘裕가 없을 때에는",
+          "commonality": "'…를 기다릴 여유가 없을 때'라는 동일한 조건 문형으로 긴급권 발동을 한정한다",
+          "difference": "약헌은 '입법의원의 의결'을 기다릴 여유를, 대상 조문은 '국회의 집회'를 기다릴 여유를 기준으로 삼는다"
+        },
+        {
+          "element": "수단(재정상 필요한 처분)과 주체",
+          "target_field": "original_text",
+          "target_quote": "財政上 必要한 處分을 할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 財政上 必要한 處分을 行할 수 있음",
+          "commonality": "'재정상 필요한 처분'이라는 동일 용어의 긴급재정처분권을 국가원수에게 부여한다",
+          "difference": "약헌은 주체가 정부주석이고 수단이 재정처분(긴급 지출)에 한정되나, 대상 조문은 대통령이 법률의 효력을 가진 명령까지 발할 수 있다"
+        },
+        {
+          "element": "사후 의회 통제",
+          "target_field": "original_text",
+          "target_quote": "國會에 報告하여 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "次回의 立法議院에 提出하여 承諾을 求하여야 함",
+          "commonality": "처분을 사후에 의회에 제출하여 승낙·승인을 받도록 하는 절차를 둔다",
+          "difference": "약헌은 '차회' 회기 제출·승낙 요구에 그치고 불승낙의 효과 규정이 없으나, 대상 조문은 '지체없이' 보고와 승인 불성립 시 실효·공포 효과를 명시한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_043",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "천재·역병 및 재정·경제상 중대 변고라는 사유 열거, 입법기관 부재 시 긴급명령 발포, 추인 실패 시 실효라는 요건·효과 구조가 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "발동 사유 열거(천재·재정경제상 위기)",
+          "target_field": "original_text",
+          "target_quote": "天災, 地變 또는 重大한 財政, 經濟上의 危機에 際하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家遇有天然災害，癘疫，或國家財政經濟上有重大變故",
+          "commonality": "자연재해와 국가 재정·경제상의 중대한 변고를 병렬로 열거하여 긴급권 발동 사유로 삼는다",
+          "difference": "중화민국헌법은 역병을 포함하되 내우·외환을 열거하지 않고, 대상 조문은 내우·외환을 앞세우며 역병을 명시하지 않는다"
+        },
+        {
+          "element": "수단(법률적 효력의 긴급명령)과 의회 부재 요건",
+          "target_field": "original_text",
+          "target_quote": "法律의 效力을 가진 命令을 發하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統於立法院休會期間，得經行政院會議之決議，依緊急命令法，發布緊急命令",
+          "commonality": "국가원수가 입법기관이 활동하지 않는 동안 긴급명령을 발포하여 필요한 조치를 하도록 한다",
+          "difference": "중화민국헌법은 행정원회의 의결과 별도의 긴급명령법을 매개 요건으로 요구하고 기간을 '입법원 휴회기간'으로 특정하나, 대상 조문은 그러한 각료회의 의결 요건 없이 '국회 집회를 기다릴 여유가 없는 경우'로 규정한다"
+        },
+        {
+          "element": "추인 불성립의 효과",
+          "target_field": "original_text",
+          "target_quote": "承認을 얻지 못한 때에는 그때부터 效力을 喪失하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "如立法院不同意時，該緊急命令立即失效",
+          "commonality": "입법기관이 동의(승인)하지 않으면 긴급명령이 효력을 상실한다는 효과가 일치한다",
+          "difference": "중화민국헌법은 발포 후 1개월이라는 제출 기한을 두고 실효 사실의 공포 의무가 없으나, 대상 조문은 '지체없이' 보고와 대통령의 공포 의무를 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_044",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "긴급사변·국가경제상 중대변고 시 총통의 긴급명령과 입법원 추인이라는 큰 틀은 유사하나, 사유가 포괄적이고 국회 집회 여부 요건·재정상 처분·승인 불성립의 실효 및 공포 효과가 없어 대응이 개괄적 수준에 머문다. 구체적 대응 요소는 동일 계열의 1947년 조문(후보 3)에서 더 명확히 확인된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공공의 안전 유지' 목적, 의회가 집회 중이 아닐 것이라는 한정 요건, '법률의 효력을 가진 명령' 발포, 사후 의회 승인 제출이라는 네 요소가 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "수단(법률의 효력을 가진 명령)",
+          "target_field": "original_text",
+          "target_quote": "法律의 效力을 가진 命令을 發하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "Verordnungen, die der Verfassung nicht zuwiderlaufen, mit Gesetzeskraft erlassen werden",
+          "commonality": "법률적 효력을 가지는 명령을 긴급 시 발할 수 있게 하는 점이 일치한다",
+          "difference": "프로이센은 '헌법에 위반되지 않을 것'이라는 내용적 한계와 국무원 전체의 책임을 명시하나, 대상 조문은 그러한 한계·책임 규정 없이 재정상 필요한 처분을 수단에 추가한다"
+        },
+        {
+          "element": "의회 비집회 요건",
+          "target_field": "original_text",
+          "target_quote": "國會의 集會를 기다릴 餘裕가 없는 境遇에 限하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "insofern die Kammern nicht versammelt sind",
+          "commonality": "의회가 집회 중이 아닌 상황에 한정하여 긴급명령권을 인정하는 한정 문구를 둔다",
+          "difference": "프로이센은 양원이 집회 중이 아닐 것이라는 객관적 상태를, 대상 조문은 '집회를 기다릴 여유가 없는 경우'라는 긴급성 판단을 기준으로 한다"
+        },
+        {
+          "element": "사후 승인 절차",
+          "target_field": "original_text",
+          "target_quote": "遲滯없이 國會에 報告하여 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "den Kammern bei ihrem nächsten Zusammentritt zur Genehmigung sofort vorzulegen",
+          "commonality": "발령한 명령을 지체 없이 의회에 제출하여 승인을 받도록 한다",
+          "difference": "프로이센은 '다음 집회 시' 제출 시점을 기준으로 하고 불승인의 효과를 규정하지 않으나, 대상 조문은 승인 불성립 시 장래효 상실과 공포 의무를 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_070",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공공의 안전 유지를 위한 긴급한 필요', 의회 소집 불능 요건, '재정상 필요한 처분', 사후 제출·승낙이라는 어구가 거의 그대로 대응한다. 다만 법률의 효력을 가진 명령 부분은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "목적·긴급성 요건",
+          "target_field": "original_text",
+          "target_quote": "公共의 安寧秩序를 維持하기 爲하여 緊急한 措置를 할 必要가 있는 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "公共ノ安全ヲ保持スル為緊急ノ需用アル場合ニ於テ",
+          "commonality": "공공의 안전 유지를 위한 긴급한 필요를 발동 요건으로 삼는 동일 문형이다",
+          "difference": "메이지헌법은 '공공의 안전' 유지에 한정되고 내우·외환·천재·지변·재정경제상 위기 같은 사유 열거가 없다"
+        },
+        {
+          "element": "수단(재정상 필요한 처분)과 의회 요건",
+          "target_field": "original_text",
+          "target_quote": "財政上 必要한 處分을 할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府ハ帝国議会ヲ召集スルコト能ハサルトキハ勅令ニ依リ財政上必要ノ処分ヲ為スコトヲ得",
+          "commonality": "의회를 소집할 수 없을 때 '재정상 필요한 처분'을 할 수 있다는 용어와 구조가 일치한다",
+          "difference": "메이지헌법은 주체가 '정부'이고 형식이 칙령이며 재정처분에 한정되나, 대상 조문은 대통령이 법률의 효력을 가진 명령까지 발할 수 있다"
+        },
+        {
+          "element": "사후 승낙 절차",
+          "target_field": "original_text",
+          "target_quote": "承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "次ノ会期ニ於テ帝国議会ニ提出シ其ノ承諾ヲ求ムルヲ要ス",
+          "commonality": "사후에 의회에 제출하여 승낙(승인)을 구하도록 하는 통제 절차를 둔다",
+          "difference": "메이지헌법은 '다음 회기' 제출이고 불승낙의 효과 규정이 없으나, 대상 조문은 '지체없이' 보고와 불승인 시 실효·공포를 명시한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_018",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 국민의회가 집회할 수 없는 때에 법률을 변경하는 잠정 명령을 발하고 이를 지체 없이 의회에 제출하게 하는 구조가 대응한다. 다만 정부 제청·부서, 4주 기한, 재정부담 금지 등 절차·한계는 대응하지 않으므로 대응 범위를 이 요소들로 한정한다.",
+      "evidence": [
+        {
+          "element": "주체와 법률적 효력의 명령",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國會의 集會를 기다릴 餘裕가 없는 境遇에 限하여 法律의 效力을 가진 命令을 發하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "kann der Bundespräsident auf Vorschlag der Bundesregierung unter seiner und deren Verantwortlichkeit diese Maßnahmen durch vorläufige gesetzändernde Verordnungen treffen",
+          "commonality": "대통령이 의회의 의결을 대신하는 법률적 효력(법률변경)의 잠정 명령을 발할 수 있게 한다",
+          "difference": "오스트리아는 연방정부의 제청과 부서, 상설소위원회와의 합의를 요구하나 대상 조문은 이러한 매개 절차가 없고 대통령 단독으로 규정한다"
+        },
+        {
+          "element": "의회 집회 불가 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의 집회를 기다릴 여유가 없는 경우에 한하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "in der der Nationalrat nicht versammelt ist, nicht rechtzeitig zusammentreten kann oder in seiner Tätigkeit durch höhere Gewalt behindert ist",
+          "commonality": "의회가 집회 중이 아니거나 제때 집회할 수 없는 상황을 발동의 한정 요건으로 삼는다",
+          "difference": "오스트리아는 비집회·적시 집회 불능·불가항력을 세분하여 열거하고 '명백하고 회복할 수 없는 공공의 손해 방지'를 목적으로 하나, 대상 조문은 사유를 내우·외환 등으로 열거하고 공공의 안녕질서 유지를 목적으로 한다"
+        },
+        {
+          "element": "지체 없는 의회 제출과 실효",
+          "target_field": "original_text",
+          "target_quote": "前項의 命令 또는 處分은 遲滯없이 國會에 報告하여 承認을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Jede nach Absatz 3 erlassene Verordnung ist von der Bundesregierung unverzüglich dem Nationalrat vorzulegen",
+          "commonality": "발한 명령을 지체 없이 의회에 제출하게 하고 의회의 의사에 따라 효력이 상실되도록 한다",
+          "difference": "오스트리아는 제출 주체가 연방정부이고 4주 내 대체 법률 의결 또는 폐지 요구라는 기한부 절차를 두며 폐지 시 구법 부활을 규정하나, 대상 조문은 승인 불성립 시 그때부터 실효하고 대통령이 공포하도록 한다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "승인 불성립 시 대통령이 실효 사실을 '지체없이 공포'하여야 한다는 의무",
+    "'내우, 외환, 천재, 지변 또는 중대한 재정, 경제상의 위기'를 한 조문에서 모두 결합하여 열거한 형식",
+    "법률의 효력을 가진 명령과 재정상 필요한 처분을 하나의 조문에서 병렬 수단으로 규정한 구성"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "바이마르·프로이센·오스트리아 조문은 원문(독일어) 문언을 기준으로 비교했고 세부 뉘앙스 판단에 번역문을 보조적으로 참고한 부분이 있다."
+  ],
+  "short_answer": "대상 제57조는 사유 열거(내우·외환·천재·지변·재정경제상 위기), 의회 집회 불가라는 한정 요건, 법률적 효력의 명령과 재정상 처분이라는 두 수단, 지체 없는 보고·승인과 불승인 시 실효·공포라는 효과로 구성된다. 조선임시약헌 제52조와 메이지헌법 제70조는 '기다릴 여유가 없을 때'·'재정상 필요한 처분'·사후 승낙이라는 어구가 거의 그대로 대응하고, 프로이센 제63조는 의회 비집회 요건과 '법률의 효력을 가진 명령'·사후 승인 제출에서 대응한다. 중화민국헌법 제43조는 천재·재정경제상 중대 변고의 사유 열거와 추인 불성립 시 실효라는 효과에서, 바이마르 제48조와 오스트리아 제18조는 대통령 주체·공공안전 목적·지체 없는 의회 제출 및 의회 의사에 따른 실효에서 대응한다. 다만 승인 불성립 사실의 공포 의무, 두 수단의 병렬 구성, 사유 열거의 결합 방식은 어느 후보에서도 그대로 확인되지 않는다. 오오헌초 제44조는 총통의 긴급명령·추인이라는 큰 틀만 유사하여 개괄적 유사에 그친다."
+}

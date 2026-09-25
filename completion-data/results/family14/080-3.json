@@ -1,0 +1,208 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_080",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 발언·표결 면책(불소추)을 다루며, 법관의 신분보장(파면·정직·감봉)과 주체·규율대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_078",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법관 신분보장을 '탄핵'과 '징계처분'이라는 동일 요소로 규율하고, '…에 의하지 아니하고는 파면되지 아니한다'는 부정형 문형이 대응한다. 다만 심신장해 재판에 의한 예외, 행정기관 징계 금지 등은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "면직 사유의 한정 및 부정형 문형",
+          "target_field": "original_text",
+          "target_quote": "彈劾, 刑罰 또는 懲戒處分에 依하지 아니하고는 罷免",
+          "candidate_field": "original_text",
+          "candidate_quote": "公の弾劾によらなければ罷免されない",
+          "commonality": "탄핵을 파면의 요건으로 삼아 그 외의 파면을 금지하는 부정형 구성",
+          "difference": "대상은 탄핵·형벌·징계처분 세 사유를 병렬하고, 후보는 '공적인 탄핵'만을 파면 요건으로 하며 심신장해 재판에 의한 예외를 별도로 둔다"
+        },
+        {
+          "element": "징계처분 요소",
+          "target_field": "workbook_text_ko",
+          "target_quote": "징계처분에 의하지 아니하고는 파면, 정직 또는 감봉되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判官の懲戒処分は、行政機関がこれを行ふことはできない",
+          "commonality": "법관 징계처분을 헌법 차원에서 언급",
+          "difference": "대상은 징계처분을 불이익처분의 허용 근거로 열거하고, 후보는 징계 주체에서 행정기관을 배제하는 규율로 초점이 다르다"
+        },
+        {
+          "element": "불이익 처분의 범위",
+          "target_field": "original_text",
+          "target_quote": "罷免, 停職 또는 減俸되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "罷免されない",
+          "commonality": "법관에 대한 신분상 불이익 처분을 제한",
+          "difference": "대상은 파면·정직·감봉을 모두 포괄하나 후보는 파면만 규정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'형벌 또는 징계처분'이라는 사유 열거와 '면직·정직·감봉'이라는 불이익 처분 목록이 대상 조문과 거의 그대로 대응한다. 다만 금치산 선고·전임 요소와 '법률에 의하지 않고는'이라는 이원적 요건 구조는 대상에 없다.",
+      "evidence": [
+        {
+          "element": "면직 사유의 열거",
+          "target_field": "original_text",
+          "target_quote": "刑罰 또는 懲戒處分에 依하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "非受刑罰或懲戒處分",
+          "commonality": "형벌과 징계처분을 병렬하여 그 외의 면직/파면을 금지",
+          "difference": "대상은 '탄핵'을 추가하고, 후보는 '금치산 선고'를 추가한다"
+        },
+        {
+          "element": "불이익 처분의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "파면, 정직 또는 감봉되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "不得免職，非依法律不得停職轉任或減俸",
+          "commonality": "면직(파면)·정직·감봉을 함께 열거하여 제한",
+          "difference": "후보는 정직·전임·감봉을 '법률에 의하지 않고는'이라는 별도 요건으로 분리하고 전임을 포함하나, 대상은 세 처분을 단일 요건으로 묶고 전임을 두지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 발언·표결 면책 조항으로 법관 신분보장과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_044",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "법관 신분보장을 '형의 선고 또는 징계처분에 의하지 아니하면'이라는 사유 한정과 부정형으로 규율하는 점이 대상 조문의 핵심 문형과 대응한다. 다만 탄핵 사유와 정직·감봉 확장, '의사에 반하여' 요건에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "사유 한정 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "형벌 또는 징계처분에 의하지 아니하고는",
+          "candidate_field": "original_text",
+          "candidate_quote": "刑의 宣告 또는 法律에 依한 懲戒處分에 依하지 아니하면",
+          "commonality": "형벌(형의 선고)과 징계처분만을 불이익 근거로 삼는 한국어 부정형 구문",
+          "difference": "대상은 '탄핵'을 추가하고 징계처분에 '법률에 의한'이라는 수식을 두지 않는다"
+        },
+        {
+          "element": "효과(처분의 범위와 요건)",
+          "target_field": "original_text",
+          "target_quote": "罷免, 停職 또는 減俸되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "意思에 反하여 免官할 수 없음",
+          "commonality": "법관의 신분상 불이익(면관/파면) 금지를 효과로 규정",
+          "difference": "대상은 파면·정직·감봉을 포괄하고 본인 의사 요건이 없으나, 후보는 면관만 다루며 '의사에 반하여'를 조건으로 한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국회의원 면책특권 조항으로 법관 신분보장과 주체·내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_081",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'형사 또는 징계처분'을 면직 요건으로 한정하고 '정직·전임·감봉'을 별도로 제한하는 구조가 대상 조문의 열거 요소(파면·정직·감봉)와 구체적으로 대응한다. 종신직·금치산·전임 요소는 대상에 없다.",
+      "evidence": [
+        {
+          "element": "면직 사유 한정",
+          "target_field": "original_text",
+          "target_quote": "刑罰 또는 懲戒處分에 依하지 아니하고는 罷免",
+          "candidate_field": "original_text",
+          "candidate_quote": "非受刑事或懲戒處分，或禁治產之宣告，不得免職",
+          "commonality": "형사(형벌)와 징계처분을 요건으로 삼아 그 밖의 면직/파면을 금지",
+          "difference": "대상은 '탄핵'을 사유로 추가하고, 후보는 금치산 선고를 포함하며 법관을 종신직으로 선언한다"
+        },
+        {
+          "element": "정직·감봉 제한",
+          "target_field": "workbook_text_ko",
+          "target_quote": "정직 또는 감봉되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "非依法律，不得停職，轉任或減俸",
+          "commonality": "정직과 감봉을 헌법상 제한 대상으로 명시",
+          "difference": "후보는 '법률에 의하지 아니하고는'이라는 법률유보를 요건으로 하고 전임을 포함하나, 대상은 탄핵·형벌·징계처분이라는 동일 요건으로 묶고 전임을 제외한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'형벌의 선고 또는 징계처분에 의하지 않고는 그 직에서 면직되지 않는다'는 요건·효과 구조가 대상 조문의 사유 열거와 부정형에 직접 대응한다. 다만 자격 규정, 징계 법률유보, 정직·감봉 미포함에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "사유 열거와 면직 금지",
+          "target_field": "original_text",
+          "target_quote": "刑罰 또는 懲戒處分에 依하지 아니하고는 罷免",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判官ハ刑法ノ宣告又ハ懲戒ノ処分ニ由ルノ外其ノ職ヲ免セラルヽコトナシ",
+          "commonality": "형벌 선고와 징계처분 두 사유 외의 법관 면직을 금지하는 동일한 구성",
+          "difference": "대상은 탄핵을 추가하고 정직·감봉까지 보호 범위를 확장하나, 후보는 면직만 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_035",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가평의회 의원의 발언·표결 면책 조항으로 대상과 주체·규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제4절이 '법률이 정한 사유에 의하지 않고는 면직·정직되지 않는다'는 유사 문형을 보이나, 주체가 일반 공무원이고 탄핵·형벌·징계처분이라는 사유 열거나 감봉 요소가 없어 일반적 유사에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_088",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법관의 파면·전보·퇴직 제한과 일시적 직무정지를 다루어 주제는 같으나, 요건이 법률이 정한 형식과 정식 재판에 의한 것으로 구성되고 탄핵·형벌·징계처분 열거나 감봉 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_VIII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "과다한 보석금·벌금과 잔혹한 형벌 금지 조항으로 법관 신분보장과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_024",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공민의 신체불가침과 체포 요건에 관한 조항으로 대상과 주체·내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_007",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률이 정한 재판관에 의한 재판을 받을 권리와 특별법원 금지로, 법관의 신분보장과 규율 대상이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'탄핵'을 법관 파면 사유로 명시한 부분이 대상처럼 형벌·징계와 병렬 열거된 형태로는 후보 중 일본국헌법 제78조에서만 부분적으로 확인되고, 세 사유를 단일 요건으로 통합한 구성은 대응 후보가 뚜렷하지 않음",
+    "감봉까지 단일 요건(탄핵·형벌·징계처분)으로 묶는 구조"
+  ],
+  "limitations": [
+    "문언상 대응만 확인한 것이며 실제 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "중화민국 헌법 후보의 workbook_text_ko는 한자 병기 번역문으로, 표기 유사성이 곧 문언 대응을 뜻하지는 않는다."
+  ],
+  "short_answer": "대상 조문은 법관에 대한 불이익 처분(파면·정직·감봉)을 탄핵·형벌·징계처분이라는 사유에 한정하는 구조인데, 이와 구체적으로 대응하는 후보는 일본국헌법 제78조(탄핵에 의한 파면), 대일본제국헌법 제58조 제2항(형벌 선고 또는 징계처분 외 면직 금지), 五五憲草 제81조 및 중화민국헌법 제81조(형사·징계처분 외 면직 금지, 정직·전임·감봉 제한), 조선임시약헌 제44조(형의 선고 또는 법률에 의한 징계처분 외 면관 금지)이다. 공통점은 사유를 열거하고 '…에 의하지 아니하고는 …되지 아니한다'는 부정형으로 법관의 신분을 보장하는 문형, 그리고 중화민국 두 조문의 '면직·정직·감봉' 목록이 대상의 '파면·정직·감봉'과 거의 일치하는 점이다. 차이로는 대상만이 탄핵·형벌·징계처분 세 사유를 단일 요건으로 통합한 반면, 일본 1946년 헌법은 탄핵만 들고 심신장해 재판이라는 예외와 행정기관 징계 금지를 두며, 중화민국 조문들은 금치산 선고·전임을 포함하고 정직·전임·감봉에 별도의 법률유보를 적용하고, 약헌은 '의사에 반하여 면관'만 규율한다. 프랑스·바이마르·프로이센의 의원 면책 조항과 미국 수정 제8조, 북한 헌법안 제24조는 주체와 규율 대상이 달라 무관하며, 필리핀 제11조 제4절과 오스트리아 제88조는 유사 문형이나 주체·요건이 달라 일반적 유사에 그친다. 이상은 문언 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

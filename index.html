@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>제헌헌법 조문 계보 지도</title>
+<title>제헌헌법 조문 계보 지도 · v5</title>
 <meta name="description" content="1948년 제헌헌법과 선행 헌법·헌법안의 조문 대응을 시간축 위에 놓은 지도. 유진오 제1회 초고를 후보에 넣었을 때의 변화를 함께 보여 줌.">
 <style>
 :root {
@@ -79,7 +79,19 @@ table.defs td { color: var(--ink2); }
 .axis text { font-size: 11px; fill: var(--muted); }
 .axis line, .axis path { stroke: var(--axis); }
 .edge { fill: none; cursor: pointer; }
-.edge-label { font-size: 12px; fill: var(--ink); font-weight: 600; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; pointer-events: none; }
+.band { fill: none; cursor: pointer; }
+.lblock, .dblock, .rblock { cursor: pointer; }
+.dblock { fill: var(--focus); }
+.rblock { fill: var(--ink2); }
+.band-label { font-size: 12px; fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; cursor: pointer; }
+.band-label .ct { fill: var(--ink2); font-variant-numeric: tabular-nums; }
+.bhead .a { font-size: 13px; font-weight: 700; fill: var(--ink); }
+.bhead .b { font-size: 11.5px; fill: var(--muted); }
+.bcap .t { font-size: 13px; font-weight: 700; fill: var(--ink); }
+.bcap .s { font-size: 12.5px; fill: var(--ink2); }
+tr.pick { cursor: pointer; }
+tr.pick:hover td { background: var(--chip); }
+details summary { cursor: pointer; margin: 10px 0 4px; }
 #sankeyView { padding: 16px 12px; overflow: auto; height: calc(100% - 44px); }
 #sankeyView img { width: 100%; max-width: 1400px; background: #fcfcfb; border: 1px solid var(--border); border-radius: 8px; }
 .note { font-size: 12px; color: var(--muted); }
@@ -89,44 +101,78 @@ table.defs td { color: var(--ink2); }
   #chart { height: calc(62vh - 44px); }
 }
 </style>
+<link rel="stylesheet" href="v4.css">
+<link rel="stylesheet" href="completion-v5.css">
 </head>
 <body>
 <header>
   <h1>제헌헌법 조문 계보 지도</h1>
   <nav aria-label="보기">
     <a href="#global" id="navGlobal">전체 지도</a>
-    <a href="#yujino" id="navYujino">유진오 중심</a>
-    <a href="#sankey" id="navSankey">Sankey</a>
+    <a href="#overview" id="navOverview">유진오 초고 중심</a>
+    <a href="#yujino-without" id="navYujino">조문별 분석</a>
+    <a href="#completion" id="navCompletion">Completion 해석</a>
   </nav>
+  <span class="version">v5</span>
   <button id="theme" type="button" aria-label="밝기 바꾸기">밝기</button>
 </header>
 <main>
   <section id="stage">
+    <div id="viewHeading"><h2 id="viewTitle">전체 지도</h2><p id="viewLead"></p></div>
+    <div class="subnav" id="overviewNav" hidden aria-label="초고 비교 보기"><a href="#overview">연결 개요</a><a href="#overview-bars">문헌별 집계</a><a href="#memo" id="memoTab">참조메모</a><a href="#document-comparison" id="documentTab">다른 국내 문헌</a></div>
+    <div class="subnav" id="analysisNav" hidden aria-label="조문 분석 보기"><a href="#yujino-without" id="flowTab">103조 흐름도</a><a href="#library" id="libraryTab">제헌헌법 원문</a><a href="#article-8" id="articleTab">조문 비교</a><a href="#sankey" id="navSankey">장별 요약</a></div>
+    <div class="subnav" id="completionNav" hidden aria-label="Completion 보기"><a href="#completion" id="completionArticlesTab">조문별 해석</a><a href="#completion-library" id="completionLibraryTab">제헌헌법 원문</a><a href="#completion-documents" id="completionDocumentsTab">문헌별 선택</a><a href="#completion-methods" id="completionMethodsTab">후보 구성</a></div>
     <div id="controls">
-      <label>코사인 하한 <input id="floor" type="range" min="0.50" max="0.75" step="0.05" value="0.60"><output id="floorOut">0.60</output></label>
+      <label id="floorControl">코사인 하한 <input id="floor" type="range" min="0.50" max="0.75" step="0.05" value="0.60"><output id="floorOut">0.60</output></label>
+      <button id="floorDefault" type="button" hidden>기본 하한 0.60</button>
       <label class="g-only">최소 조문 수 <input id="minCount" type="range" min="1" max="20" step="1" value="3"><output id="minOut">3</output></label>
       <label class="g-only">대상별 상위 <input id="topN" type="range" min="1" max="8" step="1" value="3"><output id="topOut">3</output></label>
       <span class="g-only">굵기 기준 <span class="toggle" role="group" aria-label="선 굵기 기준"><button id="wCount" type="button" aria-pressed="true">조문 수</button><button id="wShare" type="button" aria-pressed="false">비율</button></span></span>
       <span class="lanes g-only" id="laneBoxes"></span>
-      <span class="toggle y-only" role="group" aria-label="제헌헌법의 후보">
-        <button id="modeWithout" type="button">초고 제외</button><button id="modeWith" type="button">초고 포함</button>
+      <span class="toggle y-only" role="group" aria-label="유진오 초고를 후보에 넣는 단계">
+        <button id="modeWithout" type="button">초고 제외 · B</button><button id="modeWith" type="button">초고 포함 · C</button><button id="modeHand" type="button">문헌 일치 강조</button>
       </span>
-      <button id="reset" type="button">처음 화면</button>
+      <label id="articleControl" hidden>조문 <select id="articleSelect" aria-label="제헌헌법 조문 선택"></select></label>
+      <span id="fixedFloor" class="fixed-note" hidden>코사인 하한 0.60</span>
+      <button id="reset" type="button" aria-label="선택과 확대 초기화">초기화</button>
     </div>
+    <div id="documentView" class="document-tools" hidden></div>
+    <div id="canvasWrap" class="canvas-wrap">
     <svg id="chart" role="img" aria-label="문헌 간 조문 대응 지도"></svg>
+    </div>
+    <div id="overviewBars" class="content-view" hidden></div>
+    <div id="articleView" class="content-view" hidden></div>
+    <div id="libraryView" class="content-view" hidden></div>
+    <div id="memoView" class="content-view" hidden></div>
+    <div id="completionView" class="content-view" hidden></div>
     <div id="sankeyView">
-      <div class="toggle" role="group" aria-label="Sankey 판" style="margin-bottom:10px">
-        <button id="skAll" type="button" aria-pressed="true">전체 선행 문헌</button><button id="skForeign" type="button" aria-pressed="false">외국 헌법만</button>
+      <div class="scope-control chapter-mode"><span>유진오 초고</span><div class="toggle" role="group" aria-label="장별 요약 초고 포함 여부">
+        <button id="skWithout" type="button" aria-pressed="false">초고 제외</button><button id="skWith" type="button" aria-pressed="true">초고 포함</button>
+      </div></div>
+      <div class="scope-control"><span>선행 문헌의 범위</span><div class="toggle" role="group" aria-label="선행 문헌의 범위">
+        <button id="skAll" type="button" aria-pressed="true">국내외 문헌</button><button id="skForeign" type="button" aria-pressed="false">외국 헌법</button>
       </div>
-      <p class="note">띠 1개 = 제헌헌법 조문 1개. 제헌헌법 조문 → 가장 가까운 초고 조문 → 그 초고 조문과 가장 가까운 선행 문헌. 코사인 하한 0.60.</p>
-      <img id="skImg" src="figures/sankey_ppt_all_060.svg" alt="선행 문헌에서 유진오 제1회 초고의 장을 거쳐 제헌헌법의 장으로 가는 Sankey">
-      <p><img src="figures/yujino_abc_060.svg" alt="A, B, C 세 계산의 1위 문헌 막대그래프"></p>
+      <a class="action-link" id="figureOpen" href="figures/chapter_all_060.svg" target="_blank" rel="noopener">그림 크게 보기 ↗</a>
+      </div>
+      <p class="figure-caption" id="chapterCaption">선행 문헌별 대응이 초고와 제헌헌법의 어느 장에 분포하는지 비교합니다.</p>
+      <div id="chapterSummary" class="chapter-summary" hidden></div>
+      <img id="skImg" src="figures/chapter_all_060.svg" alt="선행 문헌, 유진오 초고의 장, 제헌헌법의 장 사이의 조문 대응 분포">
+      <p class="note">띠·막대의 크기 = 해당 조문 수 · 네 조건 모두 제헌헌법 103조 집계</p>
     </div>
     <div class="tip" id="tip"></div>
   </section>
   <aside id="panel" aria-live="polite"></aside>
 </main>
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="memo-notes.js"></script>
+<script src="memo-images.js"></script>
+<script src="lecture-v4.js"></script>
+<script src="focus-comparisons.js"></script>
+<script src="chapter-summary.js"></script>
+<script src="comparison-v4.js"></script>
+<script src="views-v4.js"></script>
+<script src="completion-data/index.js"></script>
+<script src="completion-v5.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

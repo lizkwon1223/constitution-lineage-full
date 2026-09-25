@@ -1,0 +1,102 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_064",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(원수)·근거(依法)·행위(계엄 선포)가 그대로 대응하는 단문 구조로, 대상 조문과 문형이 거의 일치한다. 다만 해엄(解嚴) 선포까지 포함하는 점이 다르다.",
+      "evidence": [
+        {
+          "element": "주체와 계엄 선포 권한",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴解嚴。",
+          "commonality": "국가원수가 법률에 따라 계엄을 선포한다는 단일 문장 구조가 동일하다.",
+          "difference": "대상은 주체가 大統領이고 선포 대상이 계엄뿐이나, 후보는 總統이며 계엄 선포와 해제(解嚴)를 함께 규정한다."
+        },
+        {
+          "element": "법률유보 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 정하는 바에 의하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "依法",
+          "commonality": "권한 행사의 근거를 법률에 두는 유보 문언이 공통된다.",
+          "difference": "대상은 '법률의 정하는 바에 의하여'로 풀어 쓴 반면 후보는 '依法'으로 압축되어 있고, 절차적 통제(의회 동의 등) 규정은 양쪽 모두 이 조문에 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_041",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'總統依法…'이라는 동일한 문형을 쓰지만 규율 대상이 문무관 임면이어서 계엄이라는 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법률에 의한 원수 권한 행사라는 문형만 공통될 뿐 내용은 사면·감형·복권으로 계엄과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_037",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률 공포·명령 발포와 부서 요건을 정한 조문으로 계엄 선포와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 여러 권한을 열거하나 계엄 선포에 관한 규정은 포함되어 있지 않아 대상 조문의 핵심 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'總統依法宣布戒嚴'이 대상 조문 전체와 거의 축자적으로 대응한다. 다만 입법원 동의·추인 및 해엄 요구라는 의회 통제 절차가 추가된 점이 차이다.",
+      "evidence": [
+        {
+          "element": "계엄 선포 권한의 본문",
+          "target_field": "original_text",
+          "target_quote": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法宣布戒嚴",
+          "commonality": "국가원수가 법률에 따라 계엄을 선포한다는 권한 규정이 문언상 그대로 대응한다.",
+          "difference": "주체 명칭이 大統領과 總統으로 다르다."
+        },
+        {
+          "element": "의회 통제 절차의 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 법률의 정하는 바에 의하여 계엄을 선포한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。",
+          "commonality": "계엄 권한을 법률유보 아래 둔다는 점은 같다.",
+          "difference": "후보는 입법원의 통과·추인이라는 사전·사후 동의 절차와 해엄 요구 결의권을 명시하나, 대상 조문에는 그러한 의회 통제 절차·효과 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_042",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'總統依法授與榮典'이라는 동일 문형이지만 규율 내용이 영전 수여로 계엄과 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "계엄의 종류·요건·효력 범위에 관한 별도 규정 없이 전적으로 법률에 위임한 점",
+    "계엄 해제(解嚴)에 관한 규정이 대상 조문에 없는 점"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다.",
+    "후보 중 워크북 한국어 번역문이 대상 조문과 유사한 것은 번역 과정의 영향일 수 있어 원문 대비로 판단하였다."
+  ],
+  "short_answer": "중화민국헌법 제39조와 五五憲草 제40조가 검토 가치가 가장 크다. 두 조문 모두 '總統依法宣布戒嚴'이라는 문형으로 국가원수가 법률에 따라 계엄을 선포한다는 점에서 대상 조문과 축자적으로 대응한다. 차이는 주체 명칭(總統/大統領)과, 五五憲草가 해엄 선포까지 포함하고 1947년 헌법 제39조가 입법원의 통과·추인 및 해엄 요구 결의라는 의회 통제 절차를 덧붙인 반면 대상 조문에는 그러한 절차·효과 규정이 없다는 점이다. 나머지 中華民國 조문들은 '總統依法…' 문형만 공유할 뿐 임면·사면·공포·영전 등 다른 권한을 규율하며, 프랑스 1875년 법 제3조에는 계엄 규정이 없다. 문언 대응이 곧 역사적 참조의 확정은 아니다."
+}

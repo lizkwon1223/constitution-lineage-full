@@ -1,0 +1,86 @@
+{
+  "article": 76,
+  "reviewed_at": "2026-09-22T16:17:21.550907+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "dd53eee62d8d09f38ec53a69580549ddd1eb7cdd019b2ece9cc65a92f439536e",
+  "input_sha256": "52ab282429010ab2150aeb064f337d83522baa02d96cf6c81d95b298b8feb536",
+  "responses": [
+    {
+      "job_id": "076_de54a1e639ac_r1",
+      "repeat": 1,
+      "sha256": "0b790cef3d238338bee56f9f224d970d91c1b206147aee7fb1a1b95d5effacd1",
+      "assessment": "약헌의 인적 구성·조직·자격 대응은 정확함. 법원 조직 법정과 사법권 행사라는 직접 부분 대응의 배제는 재검토 대상임."
+    },
+    {
+      "job_id": "076_de54a1e639ac_r2",
+      "repeat": 2,
+      "sha256": "fde149fff1d6a73ce60d1e3d3650fb60dff756afc2c2000633eb84c3eb8c940a",
+      "assessment": "미국·중화민국까지 요소별 대응을 포착함. 북한의 선거 구성을 법관 구성·법률유보와 반대로 해석하지 않아야 함."
+    },
+    {
+      "job_id": "076_de54a1e639ac_r3",
+      "repeat": 3,
+      "sha256": "74ff2b819f37b82ed4c31807c6150d3513d5d735c1dad162c7efcb36808d429f",
+      "assessment": "조직·설치·법관 자격의 차이를 잘 구분함. 오스트리아 예외법원 규정의 법률상 허용 조건은 보완해야 함."
+    }
+  ],
+  "synthesis": "약헌 제41조는 법관으로 조직된 법원의 사법권 행사와 법원 조직·법관 자격 법정에 직접 대응함. 일본 1889년 제57조는 행사형 문장과 법원 구성 법정에, 일본 1946년·미국·필리핀은 최고법원 및 하급법원 구분과 하급법원 설치에 대응함. 설치와 조직은 구별함. 중화민국 두 제82조·프로이센 제89조·오스트리아 제83조도 법원 조직 법정의 부분 대응임. 필리핀은 하급판사 자격을 입법기관에 맡기면서 헌법상 최소요건을 병기함. 선거로 구성한다는 북한 규정은 선임 방식의 추가 내용이며 법관으로 구성된다는 규정 자체와 모순되지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "프로이센 제89조·오스트리아 제83조의 법원 조직 법정과 프로이센 1920년 제8조의 법원에 의한 사법 행사를 다른 요소 부재로 배제함.",
+      "action": "각 문장에 한정한 직접 부분 대응을 병기함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "selection_threshold",
+      "finding": "미국과 중화민국 두 제82조의 직접 부분 대응을 전체 구성 차이로 배제함.",
+      "action": "귀속·설치·조직을 분리하여 대조함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "false_contrast",
+      "finding": "북한의 선거에 의한 법원 구성을 법관으로 구성된 법원 및 법률유보와 반대 방향으로 읽음. 선임 방식과 구성원의 신분·법률 위임은 별개임.",
+      "action": "양립 가능한 요소와 추가 선임 절차의 차이로 설명함.",
+      "candidate_id": "NK1948_DRAFT_19480428_ART_081",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "qualification_omission",
+      "finding": "오스트리아 제83조를 예외법원 금지라고 요약하나 예외법원 설치는 연방법률에 의해서만 가능하다는 규정임.",
+      "action": "전면 금지와 법률 형식의 허용 조건을 구별함.",
+      "candidate_id": "AT1920_1929RECAST1930_ART_083",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "scope_precision",
+      "finding": "중화민국 제82조만으로 사법원을 최고법원과 동일 층위로 묶음. 원문은 사법원과 각급 법원을 병기함.",
+      "action": "최고법원 동일시를 피하고 명시된 조직 대상만 비교함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

@@ -1,0 +1,77 @@
+{
+  "article": 62,
+  "reviewed_at": "2026-09-22T16:09:16.680608+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "fa44f4c4fc08c8c7da9d32d0cb8a1a1ae5b0b7d369372d3dc66313b428b406d1",
+  "input_sha256": "6764ed6682c5318add368f06928063ab6d2e93ce39d780a46b724a111579d602",
+  "responses": [
+    {
+      "job_id": "062_dd3d7639ab24_r1",
+      "repeat": 1,
+      "sha256": "0e7acfdd31c7e12df9a782fb91b3b60e4b8f9086993a8f55f0b5550785a5cf48",
+      "assessment": "약헌의 근거규범·공무원·임면 대응을 잘 포착함. 문무관이라는 표기를 곧 범위 제한으로 해석하지 않아야 함."
+    },
+    {
+      "job_id": "062_dd3d7639ab24_r2",
+      "repeat": 2,
+      "sha256": "21b0786253ccc5c60e5bf05f20e98cbe1f38accb7d303c8ff9e22c668c05b5ca",
+      "assessment": "핵심 후보의 근거 방식 차이를 구분함. 설명되지 않는 요소에 이미 후보에 존재하는 헌법·법률 병기와 공무원 용어를 포함한 것은 보정이 필요함."
+    },
+    {
+      "job_id": "062_dd3d7639ab24_r3",
+      "repeat": 3,
+      "sha256": "adebe4b6b383331083c5c3843ad11dc6da27836b9f3e5339ceac78e3665edc1d",
+      "assessment": "핵심 대응과 예외형 법률유보의 차이는 적절함. 약헌에 두 요소가 함께 있음에도 전체 결합이 없다고 설명한 점은 보정이 필요함."
+    }
+  ],
+  "synthesis": "약헌 제22조 제8호는 본법·기타 법률에 따른 공무원 임면이라는 결합에 가장 직접 대응함. 중화민국 두 조문은 법에 따른 문무관원 임면이라는 단문을 공유함. 바이마르의 법률상 예외 및 위임, 일본 제10조의 헌법·법률상 특례는 적극적 근거 형식과 구별함. 공무원과 문무관원의 표현 차이만으로 실질적 인적 범위의 대소를 확정하지 않음. 국민의 공무원 선정·파면권 선언과 대통령의 구체적 임면권 배분은 규율 단계가 다르며 서로 양립할 수 있음.",
+  "issues": [
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "unexplained_covered_element",
+      "finding": "약헌에 공무원과 본법·기타 법률이 함께 있고 일본 제10조에도 헌법·법률 병기가 있음에도 미설명 요소에 해당 결합이나 용어를 기재함.",
+      "action": "후보에 있는 부분과 독립 단문 형식의 차이를 분리함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "scope_precision",
+      "finding": "문무관원이라는 표기를 공무원보다 제한된 범위로 설명하나 제공 문언만으로 인적 범위의 대소는 확인되지 않음.",
+      "action": "용어·열거 방식의 차이로 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "false_contrast",
+      "finding": "일본 제15조의 국민의 선정·파면권을 대통령의 임면권과 반대 방향으로 설명함.",
+      "action": "국민의 권리 선언과 기관의 임면 권한 배분을 구분함.",
+      "candidate_id": "JP1946_ORIGINAL_ART_015",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "미국·필리핀·프랑스의 임명 부분 대응을 별도 절차나 면직 문구 부재로 배제함.",
+      "action": "임명에 한정된 보완 대응과 임면 전체 대응을 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

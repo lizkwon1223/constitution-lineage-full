@@ -1,0 +1,66 @@
+{
+  "article": 92,
+  "reviewed_at": "2026-09-22T16:29:15.565636+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "40f64160df83a2f48e81734c33b836355fc03aa508a3eb5bed8975a9505c2f86",
+  "input_sha256": "9f2cb6f9dab64fc4cc3e0a2607d1d162fbc7843211970f413be62a2543783349",
+  "responses": [
+    {
+      "job_id": "092_eb5d3e3830b1_r1",
+      "repeat": 1,
+      "sha256": "a01ee7e09ce30eaade78231f49c3ac109a8e26f001e2c4e1fe76faf7db98842f",
+      "assessment": "중화민국·일본·바이마르의 행위와 통제 형식을 적절히 구분함. 바이마르의 수익 목적은 원칙이라는 한정을 유지해야 함."
+    },
+    {
+      "job_id": "092_eb5d3e3830b1_r2",
+      "repeat": 2,
+      "sha256": "bf14323508de0abff313dc60f6c1762f18c360a02a6860f08357acde25f3a43c",
+      "assessment": "계약에만 붙는 예산외 한정을 정확히 포착함. 비교 후보 간 부분 대응 허용 기준은 정밀화가 필요함."
+    },
+    {
+      "job_id": "092_eb5d3e3830b1_r3",
+      "repeat": 3,
+      "sha256": "edb0a17770417655199ae1a72e3017e262da0fe019de478131d84e7d7400a540",
+      "assessment": "국채·부담계약의 병렬과 의결 형식을 잘 포착함. 대상에 없는 계약 효력 문제는 미설명 요소와 구분해야 함."
+    }
+  ],
+  "synthesis": "중화민국 초안 제129조는 공채 모집과 공고 부담 증가 계약을 함께 열거하여 입법원 의결에 맡기는 구조에서 밀접하게 대응함. 대상은 계약에 예산외라는 한정을 두며 공유재산 처분은 열거하지 않음. 일본 제85조는 국가 채무 부담의 국회 의결에, 바이마르 제87조는 신용조달 및 제국 부담 보증의 법률 근거에 대응함. 바이마르의 예외적 수요 요건과 원칙적인 수익 목적 지출 제한을 구분함. 일본 1889년 제64조의 예산외 지출은 사후 승인인 반면 대상은 부담계약의 의결 요건을 정하므로 규율 국면이 다름.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "qualification_precision",
+      "finding": "바이마르의 수익 목적 지출 제한을 원칙적으로라는 한정 없이 실체 요건으로 요약함.",
+      "action": "예외적 수요와 원칙적 수익 목적이라는 서로 다른 강도를 남김.",
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_087",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "미국의 의회 차입권과 프로이센의 국가 부담 조약 동의를 제도 형식 차이만으로 부분 비교에서 배제함.",
+      "action": "차입·부담과 의회 관여의 제한적 접점을 보조 비교로 남김.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "non_target_unexplained",
+      "finding": "의결 없는 계약의 효력이라는 대상에 규정되지 않은 내용을 미설명 요소로 제시함.",
+      "action": "대상의 명시 요소와 추가 법적 해석 문제를 구분함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_076",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "76",
+    "original_text": "司法權은 法官으로써 組織된 法院이 行한다.\n最高法院인 大法院과 下級法院의 組織은 法律로써 定한다.\n法官의 資格은 法律로써 定한다.",
+    "workbook_text_ko": "사법권은 법관으로써 조직된 법원이 행한다.\n최고법원인 대법원과 하급법원의 조직은 법률로써 정한다.\n법관의 자격은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_089",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "89",
+      "original_text": "考試院之組織，以法律定之。",
+      "workbook_text_ko": "考試院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_062",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "62",
+      "original_text": "立法院為國家最高立法機關，由人民選舉之立法委員組織之，代表人民行使立法權。",
+      "workbook_text_ko": "立法院은 國家의 最高立法機關이며 人民이 選擧하는 立法委員으로써 組織되고 人民을 代表하여 立法權을 行使한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_096",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "96",
+      "original_text": "Die Kompetenz der Gerichte und Verwaltungsbehörden wird durch das Gesetz bestimmt. Ueber Kompetenzkonflikte zwischen den Verwaltungs- und Gerichtsbehörden entscheidet ein durch das Gesetz bezeichneter Gerichtshof.",
+      "workbook_text_ko": "법원과 행정기관의 권한은\n법률로 획정한다. 법원과 행정기관간의\n권한충돌에 관하여는 그 법률이 지정\n하는 재판소가 결정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_082",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "82",
+      "original_text": "司法院之組織及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "사법원의 조직과 각급 법원의 조직은 법률로 정한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_041",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "41",
+      "original_text": "司法權은 法官으로써 組織된 法院이 此를 行함\n法院의 組織 及 法官의 資格은 法律로써 此를 定함",
+      "workbook_text_ko": "사법권은 법관으로써 조직된 법원이 이를 행함.\n법원의 조직 및 법관의 자격은 법률로써 이를 정함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_082",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "82",
+      "original_text": "司法院及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "司法院과 各級法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_089",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "89",
+      "original_text": "Die Organisation der Gerichte wird durch das Gesetz bestimmt.",
+      "workbook_text_ko": "법원의 조직은 법률로 정\n한다."
+    }
+  ]
+}

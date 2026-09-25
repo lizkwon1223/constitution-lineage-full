@@ -1,0 +1,152 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_052",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제9절이 대통령의 직무수행 불능 시 부통령 승계, 대통령·부통령 모두 불능 시 대행자 지정이라는 2단계 구조를 두어 주제상 유사하다. 그러나 사유가 파면·사망·사임까지 포괄하고, 2차 대행자를 헌법이 직접 특정 직위(국무총리)로 정하지 않고 국민의회 법률에 위임하며, 대행 종료시점(불능 해소 또는 대통령 선출)까지 규정한다는 점에서 대상 조문의 규율 방식과 다르다. 문형·요건의 구체적 대응이 약해 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_049",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'사고로 인하여 직무를 수행할 수 없을 때 부통령이 권한 대행, 대통령·부통령 모두 그러할 때 (행정)수반이 권한 대행'이라는 2단계 대행 구조와 문형이 요건·주체·효과 수준에서 밀접하게 대응한다.",
+      "evidence": [
+        {
+          "element": "대통령 사고 시 부통령의 권한 대행",
+          "target_field": "original_text",
+          "target_quote": "大統領이 事故로 因하여 職務를 遂行할 수 없을 때에는 副統領이 그 權限을 代行하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統因故不能視事時，由副總統代行其職權。",
+          "commonality": "원인을 '사고(因故)'로 표현하고 직무수행 불능 상태에서 부통령(부총통)이 권한을 '대행'한다는 요건-주체-효과가 일치한다.",
+          "difference": "후보는 '視事(시무)'라는 표현을 쓰고, 이와 별도로 궐위(缺位) 시 승계 규정을 함께 두는 반면 대상 조문은 사고로 인한 직무불능만을 규율한다."
+        },
+        {
+          "element": "대통령·부통령 모두 사고 시 제2 대행자",
+          "target_field": "original_text",
+          "target_quote": "大統領, 副統領 모다 事故로 因하여 그 職務를 遂行할 수 없을 때에는 國務總理가 그 權限을 代行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統副總統均不能視事時，由行政院院長代行其職權。",
+          "commonality": "정·부수반이 모두 직무불능인 경우 내각 수반(국무총리/행정원장)이 헌법상 당연히 권한을 대행하도록 직위를 직접 특정한다.",
+          "difference": "대행자의 직명이 국무총리와 행정원원장으로 다르며, 후보는 궐위 시 행정원장 대행과 국민대회 임시회 소집·보선 절차를 함께 규정하나 대상 조문에는 그런 절차·임기 조항이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_064",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 직무수행 장애 시 총리(연방총리)에게 직무가 이전한다는 점은 겹치나, 부통령 단계가 없어 대상 조문의 1차 대행 주체와 2단계 구조가 대응하지 않고, 궐위 시 후임 선출 소집 절차라는 별도 효과를 둔다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "제3항은 임기 개시 시점에 당선인의 사망·자격 미비를 다루는 규정으로, 재임 중 사고로 인한 직무불능과 부통령·국무총리의 순차 대행을 규율하는 대상 조문과 요건·국면이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'유고 시 부수상이 대리'라는 대리 구조는 유사하나, 대상 직위가 수상·부수상이고 대통령·부통령·국무총리의 2단계 대행 구조가 없으며, 대리자의 권한 동등성 규정이라는 별도 효과를 둔다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_071",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "내각 총사직 후 후임 총리 임명 시까지의 직무계속을 규정한 것으로, 개인 직무불능 시의 권한대행 순서를 정한 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_070",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "긴급재정처분에 관한 규정으로 대상 조문과 규율 사항이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "군주제하 섭정 선출과 국무원의 정부 운영에 관한 규정으로, 대통령·부통령·국무총리의 권한대행 순서와는 주체·절차가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_024",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'사고가 있을 때 부(副)직위자가 직권을 대행한다'는 요건·주체·효과의 문형이 대상 조문 전단과 직접 대응한다. 다만 2단계 대행(국무총리)까지는 대응하지 않아 선택 범위를 전단에 한정한다.",
+      "evidence": [
+        {
+          "element": "수반 사고 시 부수반의 직권 대행",
+          "target_field": "original_text",
+          "target_quote": "大統領이 事故로 因하여 職務를 遂行할 수 없을 때에는 副統領이 그 權限을 代行하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "主席이 事故가 있을 때에는 그 職權을 代行함",
+          "commonality": "'사고'를 대행 요건으로 삼고 부직위자가 권한(직권)을 대행한다는 표현과 효과가 대응한다.",
+          "difference": "후보는 주체가 부주석·주석이고 보좌 기능을 함께 규정하며, 대상 조문과 달리 정·부 모두 사고인 경우의 제2 대행자 규정이 없고 '직무를 수행할 수 없을 때'라는 불능 요건 문구도 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_051",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "사고로 인한 직무불능 시 부수반 대행, 정·부 모두 불능 시 내각 수반 대행이라는 2단계 구조가 한 조문 안에서 대상 조문과 거의 동일한 순서·문형으로 규정되어 있다.",
+      "evidence": [
+        {
+          "element": "2단계 권한대행 구조 전체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령이 사고로 인하여 직무를 수행할 수 없을 때에는 부통령이 그 권한을 대행하고 대통령, 부통령 모다 사고로 인하여 그 직무를 수행할 수 없을 때에는 국무총리가 그 권한을 대행한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統因故不能視事時，由副總統代行其職權，總統副總統均不能視事時，由行政院院長代行其職權。",
+          "commonality": "사고(因故)로 인한 직무불능이라는 동일 요건 아래 1차로 부수반, 2차로 내각 수반이 권한을 대행한다는 순서와 효과가 일치한다.",
+          "difference": "대행자가 행정원원장과 국무총리로 직명이 다르고, 후보는 앞부분에 궐위 시 부총통의 직 승계를 별도로 규정하나 대상 조문에는 승계 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_180",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "최초 대통령 취임 전 경과규정으로, 재임 중 사고에 따른 권한대행 순서를 정한 대상 조문과 성격이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_055",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "궐위 시 직무의 잠정적 수행자를 정한다는 점은 유사하나, 대상 직위가 국무총리이고 지정 주체가 국무회의이며 요건이 사망 등 궐위라는 점에서 대상 조문의 사고·헌법상 순위 대행과 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령 궐위 시 행정권의 잠정 귀속을 정하나, 귀속 주체가 합의체인 국무회의이고 즉시 후임 선거 절차가 핵심이어서 대상 조문의 부통령·국무총리 순차 대행과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_047",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주수상의 내각 주재와 권한 배분·이견 조정 절차에 관한 규정으로 권한대행과 무관하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'사고'를 궐위와 구별하여 유일한 대행 요건으로 삼고 궐위·후임 선출 절차를 이 조문에서 전혀 다루지 않은 점",
+    "대행의 종기(사고 해소 시점 등)와 대행 권한의 범위에 관한 규정이 없는 점"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "후보 중 한문·독문·영문 원문은 제공된 원문 문자열 범위 내에서만 비교했다."
+  ],
+  "short_answer": "중화민국헌법 제49조와 五五憲草 제51조가 대상 조문과 가장 밀접하게 대응한다. 두 후보 모두 '사고(因故)로 직무를 수행할 수 없을 때 부(총)통이 권한 대행, 정·부 모두 불능일 때 내각 수반이 권한 대행'이라는 요건·주체·순서·효과를 동일한 문형으로 규정한다. 다만 제2 대행자가 행정원원장인 점, 그리고 궐위 시 승계·보선 절차를 함께 두는 점이 대상 조문과 다르다. 조선임시약헌 제24조는 '사고가 있을 때 직권을 대행함'이라는 전단 문형에 한정하여 대응한다. 필리핀헌법 제7조 제9절과 오스트리아 제64조는 주제상 유사하나 대행자 지정을 법률에 위임하거나 부통령 단계를 두지 않아 구체적 대응은 약하며, 이상은 문언 대응일 뿐 역사적 참조의 확정은 아니다."
+}

@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_096",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "96",
+    "original_text": "地方自治團體는 法令의 範圍內에서 그 自治에 關한 行政事務와 國家가 委任한 行政事務를 處理하며 財産을 管理한다.\n地方自治團體는 法令의 範圍內에서 自治에 關한 規程을 制定할 수 있다.",
+    "workbook_text_ko": "지방자치단체는 법령의 범위내에서 그 자치에 관한 행정사무와 국가가 위임한 행정사무를 처리하며 재산을 관리한다.\n지방자치단체는 법령의 범위내에서 자치에 관한 규정을 제정할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_118",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "118",
+      "original_text": "直轄市之自治，以法律定之。",
+      "workbook_text_ko": "直轄市의 自治에 關하여는 法律로써 이를 定한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_118",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "118",
+      "original_text": "Die Ortsgemeinden und Gebietsgemeinden sind auch selbständige Wirtschaftskörper; sie haben das Recht, Vermögen aller Art zu besitzen und zu erwerben und innerhalb der Schranken der Bundes- und Landesgesetze darüber zu verfügen, wirtschaftliche Unternehmungen zu betreiben, ihren Haushalt selbständig zu führen und Abgaben einzuheben.",
+      "workbook_text_ko": "기초자치단체와 지역자치단체는 독립된 경제주체이기도 하다. 이들은 모든 종류의 재산을 보유·취득하고 연방법률 및 주법률의 한계 안에서 처분하며, 경제적 사업을 운영하고, 자신의 재정을 독립적으로 관리하며, 공과금을 징수할 권리를 가진다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_070",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "70",
+      "original_text": "Den politischen Gemeinden und Gemeindeverbänden wird das Recht der Selbstverwaltung ihrer Angelegenheiten unter der gesetzlich geregelten Aufsicht des Staates gewährleistet.",
+      "workbook_text_ko": "지방자치단체와 그 연합체에는 법률로 정한 국가의 감독 아래 자기 사무를 자치할 권리를 보장한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_094",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "94",
+      "original_text": "地方公共団体は、その財産を管理し、事務を処理し、及び行政を執行する権能を有し、法律の範囲内で条例を制定することができる。",
+      "workbook_text_ko": "지방공공단체는 그 재산을 관리하고 사무를 처리하며 행정을 집행하는 권한을 가지고 법률의 범위 내에서 조례를 제정할 수 있다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_127",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "127",
+      "original_text": "Gemeinden und Gemeindeverbände haben das Recht der Selbstverwaltung innerhalb der Schranken der Gesetze.",
+      "workbook_text_ko": "법률의 제한 범위 내에서 시･읍･면 및 시･읍･면 조합은 자치권을 가진다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_072",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "72",
+      "original_text": "各級人民委員會는 다음의 任務를 가진다.\n一. 公民의 權利 및 所有權의 保護\n二. 自己權限에 屬하는 國家所有의 保護\n三. 社會秩序의 維持\n四. 上級機關이 公布한 法令·政令·決定 및 指示實行의 保障\n五. 自己權限에 屬하는 地方産業의 復興 및 發展\n六. 地方交通機關의 復興 및 發展\n七. 道路의 修理 및 新設\n八. 地方豫算의 編成實行 및 租稅의 徵收\n九. 敎育 및 文化事業의 指導\n十. 國立病院 醫療網의 組織, 人民에 對한 醫療上 幇助 其他 保健事業의 指導\n十一. 都市·農村 發展計劃의 作成 實行, 住宅建築, 水道施設 및 淸掃事業의 指導\n十二. 耕地面積의 調査 및 그 合理的 利用의 指導\n十三. 農業現物稅의 懲收\n十四. 自然的 災害 및 傳染病에 關한 對策의 樹立",
+      "workbook_text_ko": "각급 인민위원회는 다음의 임무를 가진다.\n1. 공민의 권리 및 소유권의 보호\n2. 자기 권한에 속하는 국가소유의 보호\n3. 사회질서의 유지\n4. 상급기관이 공포한 법령·정령·결정 및 지시실행의 보장\n5. 자기 권한에 속하는 지방산업의 부흥 및 발전\n6. 지방교통기관의 부흥 및 발전\n7. 도로의 수리 및 신설\n8. 지방예산의 편성실행 및 조세의 징수\n9. 교육 및 문화사업의 지도\n10. 국립병원 의료망의 조직, 인민에 대한 의료상 방조 기타 보건사업의 지도\n11. 도시·농촌 발전계획의 작성 실행, 주택건축, 수도시설 및 청소사업의 지도\n12. 경지면적의 조사 및 그 합리적 이용의 지도\n13. 농업현물세의 징수\n14. 자연적 재해 및 전염병에 관한 대책의 수립"
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_096",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "96",
+      "original_text": "Die Kompetenz der Gerichte und Verwaltungsbehörden wird durch das Gesetz bestimmt. Ueber Kompetenzkonflikte zwischen den Verwaltungs- und Gerichtsbehörden entscheidet ein durch das Gesetz bezeichneter Gerichtshof.",
+      "workbook_text_ko": "법원과 행정기관의 권한은\n법률로 획정한다. 법원과 행정기관간의\n권한충돌에 관하여는 그 법률이 지정\n하는 재판소가 결정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_104",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "104",
+      "original_text": "凡事務有因地制宜之性質者，劃爲地方自治事項。\n地方自治事項，以法律定之。",
+      "workbook_text_ko": "각 지역의 사정에 맞추어 처리할 성질의 사무는 모두 지방자치사항으로 구분한다.\n지방자치사항은 법률로 정한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_088",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "88",
+      "original_text": "La coordination de l'activité des fonctionnaires de l'Etat, la représentation des intérêts nationaux et le contrôle administratif des collectivités territoriales sont assurés, dans le cadre départemental, par les délégués du Gouvernement, désignés en Conseil des ministres.",
+      "workbook_text_ko": "국가공무원(fonctionnaire de l'État)의 활동의 조정, 국가이익의 대표\n(représentation des intérêts nationaux)와 지방공공단체의 행정감독\n(contrôle administratif)은 현의 범위 내에서는 국무회의가 임명한 정부위\n원(délégué du Gouvernement)이 보장한다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_061",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "61",
+      "original_text": "行政官庁ノ違法処分ニ由リ権利ヲ傷害セラレタリトスルノ訴訟ニシテ別ニ法律ヲ以テ定メタル行政裁判所ノ裁判ニ属スヘキモノハ司法裁判所ニ於テ受理スルノ限ニ在ラス",
+      "workbook_text_ko": "행정관청의 위법한 처분으로 권리를 침해받았다고 주장하는 소송으로서 별도의 법률로 정한 행정재판소의 재판에 속할 것은 사법재판소에서 수리하지 않는다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XVI",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XVI",
+      "original_text": "Section 1. Upon the proclamation of the President of the United States recognizing the independence of the Philippines—\n(1) The property rights of the United States and the Philippines shall be promptly adjusted and settled, and all existing property rights of citizens or corporations of the United States shall be acknowledged, respected, and safeguarded to the same extent as property rights of citizens of the Philippines.\n(2) The officials elected and serving under this Constitution shall be constitutional officers of the free and independent government of the Philippines and qualified to function in all respects as if elected directly under such Government, and shall serve their full terms of office as prescribed in this Constitution.\n(3) The debts and liabilities of the Philippines, its provinces, cities, municipalities, and instrumentalities, which shall be valid and subsisting at the time of the final and complete withdrawal of the sovereignty of the United States, shall be assumed by the free and independent government of the Philippines; and where bonds have been issued under authority of an Act of Congress of the United States by the Philippine Islands, or any province, city, or municipality therein, the Government of the Philippines will make adequate provision for the necessary funds for the payment of interest and principal, and such obligations shall be a first lien on all taxes collected.\n(4) The Government of the Philippines will assume all continuing obligations of the United States under the Treaty of Peace with Spain ceding the Philippine Islands to the United States.\n(5) The Government of the Philippines will embody the foregoing provisions of this article (except subsection (2)) in a treaty with the United States.",
+      "workbook_text_ko": "제1절. 미국 대통령이 필리핀의 독립을 인정하는 선언을 하면 다음에 따른다.\n(1) 미국과 필리핀의 재산권은 신속히 조정·정리하며, 미국 국민이나 법인의 기존 재산권은 필리핀 국민의 재산권과 같은 정도로 인정·존중하고 보호한다.\n(2) 이 헌법에 따라 선출되어 재직하는 공직자는 자유롭고 독립된 필리핀 정부의 헌법상 공직자가 되며, 그 정부 아래에서 직접 선출된 것처럼 모든 면에서 직무를 수행할 자격을 가지고 이 헌법이 정한 임기를 모두 채운다.\n(3) 미국의 주권이 최종적이고 완전하게 철회되는 때에 유효하게 존속하는 필리핀과 그 주·시·지방자치단체·산하기관의 채무와 책임은 자유롭고 독립된 필리핀 정부가 인수한다. 미국 연방의회 법률의 권한에 따라 필리핀 군도 또는 그 안의 주·시·지방자치단체가 채권을 발행한 경우에는 필리핀 정부가 원리금 지급에 필요한 자금을 적절히 마련하며, 그 채무는 징수되는 모든 조세에 대한 최우선 담보권을 가진다.\n(4) 필리핀 정부는 필리핀 군도를 미국에 할양한 스페인과의 평화조약에 따른 미국의 계속적 의무를 모두 인수한다.\n(5) 필리핀 정부는 이 장의 앞선 규정 중 제2호를 제외한 규정을 미국과의 조약에 포함한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_038",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "38",
+      "original_text": "道長 市長 郡長 面長은 法令을 執行하며 所管 行政事務를 處理하고 管下 地方自治 行政을 監督함",
+      "workbook_text_ko": "도장·시장·군장·면장은 법령을 집행하며 소관 행정사무를 처리하고 관하 지방자치 행정을 감독함."
+    },
+    {
+      "article_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750224_ORIGINAL",
+      "document_title": "프랑스 상원 조직법",
+      "article_no": "8",
+      "original_text": "Le Sénat a, concurremment avec la Chambre des députés, l'initiative et la confection des lois. - Toutefois, les lois de finances doivent être, en premier lieu, déposées à la Chambre des députés et votées par elle.",
+      "workbook_text_ko": "상원은 하원(Chambre des députés)과 함께 법률의 발의권과 제정권\n(l'initiative et la confection des lois)을 가진다.\n다만, 예산법률(loi de finances)은 먼저 제1원(하원)에 제출하여 거기서 의결\n하여야 한다."
+    },
+    {
+      "article_id": "US1787_ORIGINAL_ART_IV",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "IV",
+      "original_text": "Section. 1.\nFull Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.\nSection. 2.\nThe Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.\nA Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime.\nNo Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due.\nSection. 3.\nNew States may be admitted by the Congress into this Union; but no new State shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress.\nThe Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.\nSection. 4.\nThe United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.",
+      "workbook_text_ko": "제1항\n각 주는 다른 모든 주의 법령, 기록 및 사법 절차에 대하여\n충분한 신뢰와 신용을 주어야 한다. 연방의회는 이러한 법\n령, 기록 및 사법 절차를 증명하는 방법과 그 효력을 일반\n법률로 규정할 수 있다.\n제2항\n각 주의 시민은 다른 어느 주에서도 그 주의 시민이 향유\n하는 모든 특권 및 면책권을 가진다.\n어떠한 주에서 반역죄, 중죄 또는 그 밖의 범죄로 기소된\n자가 재판을 피해 도피하여, 다른 주에서 발견된 경우,\n범인이 도피해 나온 주의 행정 당국의 요구에 의하여, 그\n범인은 그 범죄에 대한 재판 관할권이 있는 주로 이동하\n기 위하여 인도되어야 한다.\n한 주에서 그 주의 법률에 의하여 사역 또는 노역을 당\n하도록 되어 있는 자가 다른 주로 도피한 경우, 다른 주\n의 어떠한 법률 또는 규정에 의해서도 그 사역 또는 노\n역의 의무에서 해방되지 않으며, 그 사역 또는 노역을\n요구할 권리를 가진 당사자의 청구에 따라 인도되어야\n한다.\n제3항\n연방의회는 새로운 주를 연방에 가입시킬 수 있다. 그러\n나 관계 각 주의 주의회와 연방의회의 동의 없이는, 어떠한 주의 관할 내에서도 새로운 주를 형성하거나 창설할 수 없으며, 2개 또는 그 이상의 주 혹은 주의 일부를 합병하여 새로운 주를 형성할 수도 없다.\n연방의회는 합중국에 속하는 영토 또는 그 밖의 재산을\n처분하고 이에 관한 모든 필요한 규칙 및 규정을 제정할\n권한을 가진다. 다만, 이 헌법의 어떠한 조항도 합중국\n또는 어느 특정 주의 권리를 훼손하는 것으로 해석되어\n서는 안 된다.\n제4항\n합중국은 이 연방 내 모든 주의 공화정체를 보장하며, 각\n주를 침략으로부터 보호하고, 또 각 주의 주의회 또는 행정\n부(주의회를 소집할 수 없을 때)의 요청이 있는 경우 주 내\n의 폭동으로부터 각 주를 보호한다."
+    }
+  ]
+}

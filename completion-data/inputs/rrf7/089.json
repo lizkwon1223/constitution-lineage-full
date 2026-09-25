@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_089",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "89",
+    "original_text": "第85條 乃至 第88條에 依하여 特許를 取消하거나 權利를 收用 使用 또는 制限하는 때에는 第15條第3項의 規定을 準用한다",
+    "workbook_text_ko": "제85조 내지 제88조에 의하여 특허를 취소하거나 권리를 수용 사용 또는 제한하는 때에는 제15조제3항의 규정을 준용한다"
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_133",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "133",
+      "original_text": "(1) In den Fällen des Artikels 129, des Artikels 130, Absatz 1, und des Artikels 132, Absatz 2, lit. b, hat der Verwaltungsgerichtshof, sofern er die Beschwerde nicht zurückzuweisen oder als unbegründet abzuweisen findet, den angefochtenen Bescheid als aufgehoben zu erklären.\n(2) Wegen einer in der Verletzung von Verfahrensvorschriften begründeten Rechtswidrigkeit ist die Aufhebung des Bescheides nur dann zulässig, wenn die Verwaltungsbehörde im Fall der Einhaltung der Verfahrensvorschriften zu einem anderen Bescheid hätte kommen können.\n(3) Wird der Bescheid der Verwaltungsbehörde aufgehoben, so sind die Verwaltungsbehörden verpflichtet, in dem betreffenden Fall mit den ihnen zu Gebote stehenden rechtlichen Mitteln unverzüglich den der Rechtsanschauung des Verwaltungsgerichtshofes entsprechenden Rechtszustand herzustellen.\n(4) In den Fällen des Artikels 130, Absatz 2, hat der Verwaltungsgerichtshof, sofern er die Beschwerde nicht zurückzuweisen oder als unbegründet abzuweisen findet, die Strafe innerhalb des gesetzlichen Ausmaßes selbst festzusetzen.\n(5) In den Fällen des Artikels 131 und des Artikels 132, Absatz 2, lit. a, hat der Verwaltungsgerichtshof, sofern er die Klage nicht zurückzuweisen findet, über den geltend gemachten Anspruch selbst zu entscheiden und gegebenenfalls auch die Frist zu bestimmen, innerhalb welcher der Anspruch zu erfüllen ist. Die Vollstreckung dieser Erkenntnisse obliegt den ordentlichen Gerichten.",
+      "workbook_text_ko": "(1) 제129조, 제130조 제1항 및 제132조 제2항 b)의 경우, 행정재판소는 소를 각하하거나 이유 없다고 기각할 사유가 없다고 판단하면 다투어진 처분의 취소를 선언하여야 한다.\n(2) 절차규정 위반에 기초한 위법성을 이유로 처분을 취소하는 것은, 행정관청이 절차규정을 지켰다면 다른 처분을 할 수 있었던 경우에만 허용된다.\n(3) 행정관청의 처분이 취소되면 행정관청은 해당 사건에서 자신에게 주어진 법적 수단으로 지체 없이 행정재판소의 법적 견해에 부합하는 법적 상태를 실현할 의무가 있다.\n(4) 제130조 제2항의 경우, 행정재판소는 소를 각하하거나 이유 없다고 기각할 사유가 없다고 판단하면 법정 범위 안에서 형을 직접 정하여야 한다.\n(5) 제131조 및 제132조 제2항 a)의 경우, 행정재판소는 소를 각하할 사유가 없다고 판단하면 주장된 청구권에 관하여 직접 결정하여야 하며, 필요한 경우 청구를 이행할 기간도 정하여야 한다. 이러한 판결의 집행은 통상법원이 맡는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_128",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "128",
+      "original_text": "市準用縣之規定。",
+      "workbook_text_ko": "市에는 縣의 規定을 準用한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_035",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "35",
+      "original_text": "何人も、その住居、書類及び所持品について、侵入、捜索及び押収を受けることのない権利は、第三十三条の場合を除いては、正当な理由に基いて発せられ、且つ捜索する場所及び押収する物を明示する令状がなければ、侵されない。\n２　捜索又は押収は、権限を有する司法官憲が発する各別の令状により、これを行ふ。",
+      "workbook_text_ko": "①누구든지, 제33조의 경우를 제외하고는, 정당한 이유에 기하여 발부되고 수색 장소 및 압수하는 물건을 명시한 영장에 의하지 아니하고는 주거, 서류 및 소지품에 대하여 침입, 수색 및 압수당하지 아니 할 권리를 침해받지 아니한다.\n②수색 또는 압수는 권한을 가진 사법관헌이 발부하는 개별 영장에 의하여 이를 행한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_070",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "70",
+      "original_text": "Les règles des articles 8, 10, 21, 22, et 23 sont applicables à l'Assemblée de l'Union française dans les mêmes conditions qu'au Conseil de la République.",
+      "workbook_text_ko": "제8조, 제10조, 제21조, 제22조와 제23조의 규정은 공화국평의회에 대\n해서와 동일한 조건으로 프랑스연합의회에 적용한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_099",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "99",
+      "original_text": "監察院對於司法院或考試院人員失職或違法之彈劾，適用本憲法第九十五條，第九十七條，及第九十八條之規定。",
+      "workbook_text_ko": "監察院이 司法院 또는 考試院의 人員의 怠務또는 違法에 關하여 彈劾을 提起함에 있어서는 이 憲法 第95條, 第97條, 第98條의 規定을 適用한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_111",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "111",
+      "original_text": "市之自治除本節規定外，準用關於縣之規定。",
+      "workbook_text_ko": "시의 자치에는 이 절의 규정 외에 현에 관한 규정을 준용한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_025",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "25",
+      "original_text": "凡限制人民自由或權利之法律，以保障國家安全，避免緊急危難，維持社會秩序，或增進公共利益所必要者爲限。",
+      "workbook_text_ko": "인민의 자유나 권리를 제한하는 법률은 국가안전을 보장하거나 긴급한 위험을 피하거나 사회질서를 유지하거나 공공의 이익을 증진하기 위하여 필요한 것에 한한다."
+    }
+  ]
+}

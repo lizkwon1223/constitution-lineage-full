@@ -1,0 +1,152 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_018",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_118",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "기초·지역자치단체의 재산취득·경제사업·재정운영·공과금 징수 권한 규정으로, 근로자의 단결·단체행동이나 사기업 이익균점과 규율 대상이 다르다. '법률의 한계 안에서'라는 법률유보 표현만 막연히 유사하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 조약 교섭·비준과 양원 동의, 영토 변경의 법률유보에 관한 규정으로 대상 조문의 요소와 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_075",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'Arbeiter(근로자)'와 임금 계속 지급을 다루나, 규율 내용은 자치단체 대표기관 활동을 위한 휴가 불요와 봉급 지급으로 단결·단체교섭·단체행동이나 이익분배 균점과는 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_088",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가공무원 활동 조정과 지방공공단체 행정감독을 정부위원이 담당한다는 조직 규정으로 대상 조문과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_030",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "결사의 자유와 그 행사에 대한 법률 규제·제한을 정하나, 주체가 '모든 프로이센인'이고 단체교섭·단체행동 개념이나 근로자 특유의 권리가 없어 문형·규율요소의 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "기업 내 근로자의 경제적 참여(주요기업 경영관리에 종업원대표 참여)와 노동자 생활안정 정책을 열거해 주제상 제2항과 인접하지만, 규율형식은 국가정책 열거(생활균등권)이고 이익의 분배에 대한 균점권이라는 권리·효과가 다르다. 참여 대상도 '주요기업'과 '영리 사기업'으로 갈린다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_VII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "보통법상 소송의 배심심리권과 재심 제한 규정으로 대상 조문과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_024",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공무원의 위법행위에 대한 징계·형사·민사책임과 국가배상청구를 정하는 규정으로, 근로자 단체활동이나 이익균점과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_029",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'法律ノ範囲内ニ於テ … 自由'라는 법률유보 문형이 대상 제1항의 '法律의 範圍內에서 保障된다'와 직접 대응한다. 다만 대응 범위는 유보 문형과 결사의 자유라는 대상 항목에 한정되며, 근로자 주체나 단체교섭·단체행동, 이익균점은 후보에 없다.",
+      "evidence": [
+        {
+          "element": "자유 보장에 붙는 '법률의 범위내' 유보 문형",
+          "target_field": "original_text",
+          "target_quote": "法律의 範圍內에서 保障된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律ノ範囲内ニ於テ",
+          "commonality": "자유의 보장·보유를 '법률의 범위내'라는 동일한 어구로 한정하는 유보 방식이 문언상 일치한다.",
+          "difference": "후보는 신민의 언론·저작·출판·집회·결사에 적용되고 효과가 '자유를 가진다'인 반면, 대상은 근로자의 단결·단체교섭·단체행동에 적용되며 '보장된다'로 국가의 보장의무 형식이다."
+        },
+        {
+          "element": "보장 대상 자유의 목록(결사/단결)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "근로자의 단결, 단체교섭과 단체행동의 자유",
+          "candidate_field": "original_text",
+          "candidate_quote": "集会及結社ノ自由ヲ有ス",
+          "commonality": "집단적 결합의 자유를 법률유보 아래 보장 대상으로 열거한다.",
+          "difference": "후보는 일반 신민의 집회·결사에 그치고 단체교섭·단체행동이라는 노동 특유 항목과 주체 한정(근로자)이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_025",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자유·권리를 제한하는 법률의 목적상 한계를 정한 일반 법률유보 규정으로, 대상의 '법률의 범위내' 유보와 기능은 닮았으나 제한사유 열거라는 규율구조가 다르고 근로자 관련 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제1절 (6)의 결사 조직권이 단결과 주제상 겹치지만, 법률에 반하지 않는 목적이라는 소극적 제한 형식이고 근로자 주체·단체교섭·단체행동·이익균점에 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_015",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "기업 유형을 열거하고 그 안에서 근로 주체의 권리를 인정하는 문형이 제2항과 형식상 유사하지만, 권리 내용이 동일노동 동일보수이고 주체가 '공민'이며 법률유보 문구도 없어 이익분배 균점권과 규율요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_028",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체('근로자')와 단결·단체교섭·기타 단체행동의 3요소 열거 및 보장 문형이 대상 제1항과 거의 그대로 대응한다. 대응 범위는 제1항에 한정되고 제2항의 이익균점권은 후보에 없다.",
+      "evidence": [
+        {
+          "element": "보장 주체와 보장 대상 3요소",
+          "target_field": "original_text",
+          "target_quote": "勤勞者의 團結, 團體交涉과 團體行動의 自由는",
+          "candidate_field": "original_text",
+          "candidate_quote": "勤労者の団結する権利及び団体交渉その他の団体行動をする権利は",
+          "commonality": "'근로자'를 주체로 단결·단체교섭·단체행동을 같은 순서로 열거하는 구성이 일치한다.",
+          "difference": "후보는 각각을 '권리'로 규정하고 '그 밖의 단체행동'이라는 포괄어를 쓰나, 대상은 이를 '자유'로 묶어 표현한다."
+        },
+        {
+          "element": "보장의 효과와 제한 유무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 범위내에서 보장된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "これを保障する",
+          "commonality": "국가가 해당 권리·자유를 '보장한다'는 효과 규정 형식을 공유한다.",
+          "difference": "후보는 유보 없이 무조건 보장하는 반면, 대상은 '법률의 범위내'라는 법률유보를 붙여 보장 강도가 약화되어 있다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_160",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "종업원·노동자를 주체로 하고 보수청구 범위를 법률로 정하도록 하나, 내용은 공민권 행사와 명예직 수행을 위한 자유시간 청구권이어서 단체활동의 자유나 이익분배 균점권과 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제2항의 '영리를 목적으로 하는 사기업'이라는 적용범위 한정",
+    "제2항의 '이익의 분배에 균점할 권리'라는 권리 내용과 그 법률유보('법률의 정하는 바에 의하여')"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 참조되었는지에 대한 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "후보 원문(일문·독문 등)과 대상 한문 표기의 대응은 어구 구조 비교에 의존하므로 번역 매개의 불확실성이 남는다.",
+    "제2항(이익균점권)에 관해 제시된 후보 중 구체적 대응 문언은 발견되지 않았으나, 이는 참조가 없었다는 뜻은 아니다."
+  ],
+  "short_answer": "대상 제1항에 대해서는 일본국헌법 제28조가 주체('근로자')와 단결·단체교섭·단체행동의 3요소 열거 및 '보장한다'는 효과 문형까지 가장 구체적으로 대응하고, 대일본제국헌법 제29조는 '法律ノ範囲内ニ於テ … 自由'라는 법률유보 문형과 결사의 자유 부분에서 대응한다. 다만 일본국헌법은 유보 없는 '권리' 보장이고, 대일본제국헌법은 근로자 주체나 단체교섭·단체행동을 포함하지 않는다는 점이 차이다. 프로이센헌법 제30조·필리핀헌법 제3조(6)·五五憲草 제25조는 결사의 자유나 일반 법률유보라는 수준의 유사성에 그친다. 제2항의 영리 사기업 내 '이익분배 균점권'은 조선임시약헌 제4조 제7호(주요기업 경영관리 종업원대표 참여)나 북조선 헌법안 제15조(동일노동 동일보수)와 주제만 인접하고 권리 내용·적용범위가 달라 대응이 확인되지 않는다. 이상은 문언 대응의 정리이며 역사적 참조 여부의 확정은 아니다."
+}

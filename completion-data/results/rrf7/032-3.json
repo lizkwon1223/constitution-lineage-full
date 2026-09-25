@@ -1,0 +1,160 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_032",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_043",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "\"선거된 의원으로 조직한다\"는 조직 문형은 대상 제1항과 닮았으나, 보통·직접·평등·비밀의 선거원칙 열거가 없고 제2항이 '의원정수'의 법률유보여서 대상 제2항(선거에 관한 사항)과 규율 대상이 다르다. 일반적 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법기관 관련 법률유보라는 점만 겹치고, 위임 대상이 '立法院의 組織'이어서 대상 제2항의 '의원 선거에 관한 사항'과 규율 요소가 다르며 선거원칙 열거도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_034",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "최고 입법기관을 선거원칙에 따라 선출된 의원(대의원)으로 구성한다는 제1항 구조와 선거원칙의 열거가 구체적으로 대응한다. 다만 법률유보 조항이 없어 대응 범위는 제1항에 한정된다.",
+      "evidence": [
+        {
+          "element": "기관 구성 방식(선출 의원으로 조직)",
+          "target_field": "original_text",
+          "target_quote": "公選된 議員으로써 組織한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "選出한 代議員으로서 構成한다",
+          "commonality": "최고 입법기관을 선거로 선출된 구성원으로 조직·구성한다고 규정하는 동일한 문형",
+          "difference": "대상은 '議員'과 '組織', 후보는 '代議員'과 '構成'이며 기관 명칭도 국회와 최고인민회의로 다름"
+        },
+        {
+          "element": "선거원칙의 열거",
+          "target_field": "original_text",
+          "target_quote": "普通, 直接, 平等, 秘密選擧에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서",
+          "commonality": "보통(일반)·평등·직접 원칙과 비밀성 요소를 함께 열거하는 점",
+          "difference": "대상은 네 원칙을 모두 '선거'의 수식어로 병렬하나, 후보는 세 원칙은 선거원칙으로, 비밀성은 '비밀투표'라는 투표방법으로 분리 규정하고 열거 순서도 다름"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2항의 '의원 선거에 관한 사항은 법률로 정한다'와 위임 객체·효과가 거의 그대로 대응한다. 대응 범위는 제2항에 한정되며 제1항의 선거원칙 부분은 설명하지 못한다.",
+      "evidence": [
+        {
+          "element": "선거사항의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 選擧에 關한 事項은 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "両議院の議員の選挙に関する事項は、法律でこれを定める",
+          "commonality": "'의원의 선거에 관한 사항'을 위임 객체로 삼아 법률로 정하도록 하는 동일한 위임 문형",
+          "difference": "후보는 선거구·투표방법을 예시로 명시하고 양원제(両議院)를 전제하는 반면, 대상은 예시 없이 단원제 국회 의원 선거만을 대상으로 함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_010",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…에 의하여 공선된 의원으로써 조직함'이라는 문형과 보통·평등·직접의 원칙 열거가 대상 제1항과 거의 동일하게 대응한다. 다만 비밀성의 표현 방식과 법률 위임의 위치가 다르다.",
+      "evidence": [
+        {
+          "element": "기관 구성 문형",
+          "target_field": "original_text",
+          "target_quote": "公選된 議員으로써 組織한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公選된 議員으로써 組織함",
+          "commonality": "'공선된 의원으로써 조직'이라는 어구가 사실상 동일",
+          "difference": "주체가 국회와 입법의원으로 다르고 어미(한다/함)가 다름"
+        },
+        {
+          "element": "선거원칙의 열거와 비밀성 표현",
+          "target_field": "original_text",
+          "target_quote": "普通, 直接, 平等, 秘密選擧에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "普通 平等 直接 無記名投票의 方法으로",
+          "commonality": "보통·평등·직접 원칙을 나열하고 비밀성 요소를 덧붙이는 구성",
+          "difference": "대상은 '비밀선거'로 원칙화하였으나 후보는 '무기명투표의 방법'이라는 투표방식으로 규정하고, 원칙 배열 순서도 다름"
+        },
+        {
+          "element": "선거 관련 법률의 위치",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 선거에 관한 사항은 법률로써 정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "別로이 定하는 選擧法에 依하여",
+          "commonality": "의원 선거의 구체적 사항을 별도의 법(선거법·법률)에 맡긴다는 취지",
+          "difference": "대상은 독립된 제2항의 법률유보 형식이나, 후보는 제1항 안에서 '별도로 정하는 선거법에 의하여'라는 전제로 언급하는 데 그침"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "보통·평등·직접·비밀의 네 선거원칙 병렬과 세부사항의 선거법률 위임이라는 두 요소가 대상 두 항과 각각 대응한다. 다만 '의원으로써 조직한다'는 기관구성 문형은 없고 비례선거·연령·선거일 등 대상에 없는 요소가 추가되어 대응 범위는 제한된다.",
+      "evidence": [
+        {
+          "element": "선거원칙의 병렬 열거",
+          "target_field": "original_text",
+          "target_quote": "普通, 直接, 平等, 秘密選擧에 依하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "in allgemeiner, gleicher, unmittelbarer und geheimer Wahl",
+          "commonality": "보통·평등·직접·비밀 네 원칙을 하나의 선거 수식어로 병렬 열거",
+          "difference": "후보는 여기에 비례선거 원칙, 20세 이상 남녀라는 선거권 요건, 선거일 규정까지 함께 두나 대상에는 그런 요건이 없음"
+        },
+        {
+          "element": "세부사항의 법률 위임",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 선거에 관한 사항은 법률로써 정한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Nähere bestimmt das Reichswahlgesett",
+          "commonality": "선거의 구체적 사항을 별도 법률에 위임하는 독립 항을 둔 점",
+          "difference": "후보는 '제국선거법률'이라는 특정 법률을 지정하고 위임 객체가 '세부사항'인 반면, 대상은 일반 '법률'에 '선거에 관한 사항'을 위임함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_067",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "선거원칙에 의한 구성(제1항)과 선거사항의 별도 법규 위임(제2항)이라는 2항 구조가 대상과 대응한다. 다만 규율 주체가 중앙 입법기관이 아니라 각급 인민위원회(지방기관)이고 위임 형식이 '법령'인 점에서 범위가 한정된다.",
+      "evidence": [
+        {
+          "element": "2항 구조(구성 + 선거의 별도 규정 위임)",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 選擧에 關한 事項은 法律로써 定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "各級 人民委員會의 選擧는 따로 法令으로서 規定한다",
+          "commonality": "제1항에서 선거로 선출된 구성원에 의한 기관 구성을 정하고, 제2항에서 그 선거를 별도 규범에 위임하는 동일한 조문 구성",
+          "difference": "대상의 위임 객체는 '국회의원의 선거에 관한 사항'이고 형식은 '법률'인 반면, 후보는 '각급 인민위원회의 선거' 전반을 '법령'에 위임하며 대상 기관이 지방기관임"
+        },
+        {
+          "element": "선거원칙에 의한 구성",
+          "target_field": "workbook_text_ko",
+          "target_quote": "보통, 직접, 평등, 비밀선거에 의하여 공선된 의원으로써 조직한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다",
+          "commonality": "선거원칙을 앞세워 선출된 구성원으로 기관을 구성한다는 문형",
+          "difference": "후보는 비밀성을 '비밀투표'로 분리하고 구성원을 '대의원'으로 칭하며, 기관이 국회가 아닌 각급 인민위원회임"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'國會'라는 단원제 중앙 입법기관 명칭 자체와 그 조직 주체 특정",
+    "선거원칙의 배열 순서(보통-직접-평등-비밀)가 그대로 일치하는 후보는 없음"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며 실제 참조·계수 여부의 역사적 확정은 제공 본문만으로 불가능하다.",
+    "바이마르헌법 후보는 독일어 원문을 인용하였고, 원칙 명칭의 대응 판단에 번역 이해가 일부 개입될 수 있다.",
+    "후보 목록 밖의 조문(예: 각 헌법의 다른 선거 관련 조문) 영향은 검토 대상에 포함되지 않았다."
+  ],
+  "short_answer": "대상 제1항의 '보통·직접·평등·비밀선거에 의하여 공선된 의원으로써 조직한다'는 문형은 조선임시약헌 제10조와 거의 동일한 어구('公選된 議員으로써 組織')로 대응하고, 선거원칙 열거는 바이마르헌법 제22조 및 북조선 헌법안 제34·67조와 대응한다. 대상 제2항의 '의원의 선거에 관한 사항은 법률로써 정한다'는 일본국헌법 제47조와 위임 객체·효과가 사실상 일치하며, 북조선 헌법안 제67조는 구성+선거 위임의 2항 구조 면에서 유사하다. 다만 비밀성의 규정 방식(비밀선거 vs 무기명·비밀투표), 위임 형식(법률/선거법/법령), 규율 주체(국회·입법의원·최고인민회의·각급 인민위원회·양원)에서 차이가 있다. 일본국헌법 제43조는 조직 문형만 닮고 제2항이 의원정수 위임이며, 중화민국헌법 제76조는 위임 객체가 '立法院의 組織'이어서 일반적 유사에 그친다. 이상은 문언 대응의 확인일 뿐 실제 참조의 역사적 확정은 아니다."
+}

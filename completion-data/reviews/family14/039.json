@@ -1,0 +1,99 @@
+{
+  "article": 39,
+  "reviewed_at": "2026-09-22T15:39:46.611422+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "688d548c32ff80d39607cb32c7615aab3d9f07512613cdb44ef280e92d09f634",
+  "input_sha256": "593a08ee4a1c4e734f6968afa4351ed091bcea809564e63e4a03eebfb297616e",
+  "responses": [
+    {
+      "job_id": "039_9d2224261b26_r1",
+      "repeat": 1,
+      "sha256": "c37d7b5792e5012a5f0eff12590c264eb85fd611e74d3057abdf664a538bd32c",
+      "assessment": "의원과 집행부 측의 이원적 제출권을 오스트리아·프랑스·일본 1889년과 연결한 주요 판단은 타당함. 개인 의원의 제출권을 미설명으로 둔 항목은 오스트리아와 프랑스의 의원 발의권 대응과 모순됨. 프랑스의 세입 감소·지출 창설 불수리는 공화국평의회 의원 발의안에 연결된 제한임을 명확히 해야 함."
+    },
+    {
+      "job_id": "039_9d2224261b26_r2",
+      "repeat": 2,
+      "sha256": "dc134ccb73535a15054a24d8abfe3b69d8fad7183d6a578f5cfeb901dad67597",
+      "assessment": "주요 네 후보의 기관·개인 주체 및 발의/제출 문형 차이를 적절히 짚음. 다만 미설명 요소의 개인 의원 및 정부 표현은 이미 후보에서 대응함. 프랑스 불수리 대상 범위와 중화민국 재의 절차를 법률안 성립 후라고 부른 표현을 보정해야 함."
+    },
+    {
+      "job_id": "039_9d2224261b26_r3",
+      "repeat": 3,
+      "sha256": "b0262c3e1bff2307650f23df8dfb1d37dfdb618e6e8c847c886050064e53c2ef",
+      "assessment": "선택한 네 후보의 핵심 대응과 프랑스의 제한이 공화국평의회 의원 법안에 관한 것이라는 구분은 타당함. 정부를 합의체로 명시했다고 보는 것은 대상 문언을 넘어선 설명이며, 후속 절차가 대상에 없는 사실을 미설명 요소로 다룰 필요는 없음."
+    }
+  ],
+  "synthesis": "오스트리아 제41조 제1항은 의원의 발의와 연방정부의 제출을 법률안의 두 경로로 병렬하고, 프랑스 제14조는 총리와 의회 의원에게 발의권을 함께 부여하므로 대상의 이원적 주체 구조와 밀접하게 대응함. 일본 1889년 제38조는 정부 제출안을 양원이 의결하고 각 원도 법률안을 제출할 수 있도록 하여 의회 측 주체가 개별 의원이 아닌 원이라는 차이가 있음. 프로이센 제64조도 국왕과 각 원에 제안권을 병렬하며 같은 회기 재제출 제한을 추가함. 오스트리아의 추가 발안 경로, 프랑스의 제출 창구 및 공화국평의회 의원 발의안에 대한 재정상 불수리 조건은 별도 규율임. 바이마르·프로이센 자유주의 정부 내부 제출 절차, 미국의 세입법안 발안 원 배분, 일본의 법률 성립 절차는 제출권 주체의 선언과 규율 단계가 다름.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": null,
+      "type": "unexplained_classification",
+      "severity": "material",
+      "finding": "개인 의원을 제출 주체로 삼은 점을 미설명으로 두지만 오스트리아의 Anträge seiner Mitglieder와 프랑스의 membres du Parlement를 이미 대응 근거로 선택함.",
+      "action": "의원 주체는 설명되는 요소로 정리하고 각 원을 주체로 하는 다른 후보와 구별함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_014",
+      "type": "scope_overstatement",
+      "severity": "material",
+      "finding": "세입 감소·지출 창설 법안의 불수리를 일반적인 법안 제한처럼 기술함. Elles는 직전 공화국평의회 의원 발의안을 가리킴.",
+      "action": "불수리 제한의 적용 대상을 공화국평의회 의원 발의안으로 명시함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_070",
+      "type": "procedure_stage",
+      "severity": "minor",
+      "finding": "공포·집행 전 재의 절차를 법률안 성립 후 단계라고 표현함.",
+      "action": "입법원의 의결 이후 공포·집행 이전의 재의 절차라고 정확히 적음."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "type": "power_scope",
+      "severity": "minor",
+      "finding": "대통령은 환부거부 권한만 가진다고 적지만 해당 원문에 승인·서명도 규정됨.",
+      "action": "제출권 규정과 승인·서명·환부 절차를 구별함."
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": null,
+      "type": "unsupported_institutional_inference",
+      "severity": "minor",
+      "finding": "정부를 합의체 단일 주체로 명시했다고 설명함. 대상 조문은 정부라는 기관명만 제시함.",
+      "action": "정부라는 기관 표기와 총리·국왕 등의 개인 직위를 구별하는 수준으로 제한함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "non_target_element",
+      "severity": "minor",
+      "finding": "대상에 없는 제출처·후속 심의·발의 정족수의 부재를 미설명 대상 요소로 다룸.",
+      "action": "후보의 추가 규율과 대상 조문에서 명시하지 않은 사항으로 별도 정리함."
+    }
+  ],
+  "limits": [
+    "발의권의 일반 선언이 의원 한 명만의 단독 제출 또는 절차 요건 전면 부재를 보장한다고 단정하지 않음.",
+    "후보의 정부 명칭이 연방정부·내각 등으로 구체화되었다는 이유만으로 정부 주체의 대응을 부정하지 않음."
+  ]
+}

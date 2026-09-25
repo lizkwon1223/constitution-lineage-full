@@ -1,0 +1,164 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_061",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_061",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2문의 '組織…法律로써 定한다'라는 조직법정주의 문형과 직접 대응한다. 다만 규율 대상이 국군이 아니라 행정원이고 '編成'에 해당하는 항목이 없어 대응 범위는 제2문의 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "조직의 법률유보(제2문 문형)",
+          "target_field": "original_text",
+          "target_quote": "國軍의 組織과 編成은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政院之組織，以法律定之。",
+          "commonality": "특정 국가기구의 '組織'을 법률로 정하도록 하는 위임 문형이 동일하다",
+          "difference": "대상이 국군이 아니라 행정원이며, 대상 조문의 '編成'에 해당하는 항목과 통수권 규정이 후보에는 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제11절 (2)에 대통령이 전군의 최고사령관이라는 규정이 있어 주제상 겹치지만, 군 동원·계엄·인신보호영장 정지 등 비상권한과 결합된 장문 조항이고 군의 조직·편성 법률유보 문형이 없어 대상 조문의 2문 구조와 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "집행권 귀속·장관 임면·법률 공포 및 집행명령을 규율하며 군 통수나 군 조직의 법률유보와 관련되는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_080",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방대통령의 연방군 최고통수권을 규정하여 제1문과 주제가 겹치나, 처분권을 국방법과 관할 연방장관에게 배분하고 명령권을 장관이 행사하도록 하는 점이 대상 조문에 없는 구조여서 문형 대응은 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2문의 '○의 組織 … 法律로써 定'이라는 한국어 표기 문형이 거의 그대로 일치한다. 대응은 제2문의 조직법정주의 문형에 한정되고, 제1문의 통수권과는 무관하다.",
+      "evidence": [
+        {
+          "element": "조직의 법률유보(제2문 문형)",
+          "target_field": "original_text",
+          "target_quote": "國軍의 組織과 編成은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部의 組織 及 權限은 法律로써 定함",
+          "commonality": "'…의 組織 …은 法律로써 定'이라는 동일한 위임 문형과 어휘를 사용한다",
+          "difference": "규율 대상이 행정 각 부이고 병기 항목이 '권한'인 반면 대상 조문은 국군과 '편성'이며, 후보 제1문은 각부장 임명 절차로 통수권과 무관하다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_033",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 '군의 수장' 칭호를 가진다는 점에서 주제가 겹치나, 국방최고회의 주재라는 절차적 권한과 칭호 부여 형식이어서 '통수한다'는 권한 부여 문형 및 조직 법률유보와의 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_071",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조직·권리·의무를 법률로 정한다는 일반적 법률유보 문형만 겹치고, 규율 대상이 지방 행정구역과 자치단체여서 국군 통수·군 조직과 실질적 접점이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'대통령은 군대를 지휘한다'는 문언이 포함되어 주제가 겹치지만, 법안제출권·공포·은사·관리임명·부서 등이 나열된 종합조항이고 군 조직의 법률유보가 없어 대상 조문의 구조와는 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_047",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공화국 대통령을 주체로 하여 군 전체에 대한 통수권만을 한 문장으로 선언하는 점에서 제1문과 주체·권한·문형이 대응한다. 대응은 제1문에 한정되며 제2문의 법률유보에 해당하는 문언은 없다.",
+      "evidence": [
+        {
+          "element": "통수권의 주체와 대상(제1문)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國軍을 統帥한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident hat den Oberbefehl über die gesamte Wehrmacht des Reichs.",
+          "commonality": "공화제 국가원수인 대통령에게 국가 전체 군대의 최고통수권을 부여하는 단문 선언 형식",
+          "difference": "후보는 '전체 군대(gesamte Wehrmacht)'를 명시하고 통수권 보유 형식(hat den Oberbefehl)을 취하며, 군의 조직·편성을 법률로 정한다는 제2문이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_098",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "인민군의 조직과 사명을 규정하여 '군의 조직'이라는 소재가 겹치지만, 통수권 주체나 법률유보 문형이 없어 규율 요소의 대응이 성립하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…를 統帥한다'는 동사와 단문 구조가 제1문과 사실상 동일하다. 다만 주체가 천황, 대상이 육해군이고 조직·편성의 법률유보가 없어 대응은 제1문 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "통수권 부여 문형(제1문)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國軍을 統帥한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇ハ陸海軍ヲ統帥ス",
+          "commonality": "'주체 + 군 + 統帥'라는 동일 한자어 동사와 단문 선언 형식",
+          "difference": "주체가 천황(군주)이고 대상이 육해군으로 열거되어 있으며, 대상 조문과 달리 군 조직·편성의 법률유보 문언이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 육해군 및 소집된 민병의 총사령관이 된다는 부분에서 주제가 겹치나, 사면·조약·임명 등과 함께 규정된 종합조항이고 군 조직·편성의 법률유보가 대통령 조항에 없어 대상 조문의 2문 구조와 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통(대통령)이 전국의 군을 통솔한다'는 한 문장 규정으로 제1문의 주체·권한 구성이 밀접히 대응한다. 대응은 제1문에 한정되고 제2문의 조직·편성 법률유보는 후보에 없다.",
+      "evidence": [
+        {
+          "element": "통수권의 주체와 대상(제1문)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 國軍을 統帥한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統統率全國陸海空軍。",
+          "commonality": "공화제 대통령(총통)을 주체로 국가 군 전체에 대한 통수를 단문으로 선언하는 한문식 구성",
+          "difference": "동사가 '統率'이고 대상을 '全國陸海空軍'으로 군종별 열거하며, 군의 조직·편성 법률유보 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_043",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제2항의 '법률로 정한다'는 위임 문형만 겹치고, 규율 대상이 양원의 조직과 의원정수여서 군 통수 및 군 조직·편성과 실질적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'編成'이라는 구체 항목(조직과 병기되어 법률유보 대상이 되는 점)",
+    "통수권 선언과 군 조직·편성 법률유보를 한 조문 안에 2문으로 결합한 구조",
+    "군령·군정 배분이나 부서·장관 관여를 두지 않은 단순 통수 규정 방식"
+  ],
+  "limitations": [
+    "문언상 대응만 검토한 것이며 특정 후보가 실제로 참조되었다는 역사적 사실은 확정할 수 없다.",
+    "제공된 본문만을 근거로 하였고, 후보 문서의 다른 조문(예: 군 편제에 관한 별도 조항)은 입력에 포함되지 않아 평가하지 못했다."
+  ],
+  "short_answer": "제1문(통수권)에 대해서는 大日本帝國憲法 제11조('統帥' 동사와 단문 구조 일치), 五五憲草 제37조(총통이 전국 군을 통솔), 바이마르헌법 제47조(대통령의 전군 최고통수권)가 주체·권한·문형 면에서 검토할 만한 대응을 보인다. 제2문(국군의 조직·편성 법률유보)에 대해서는 조선임시약헌 제27조('組織 … 法律로써 定함')와 중화민국헌법 제61조('組織，以法律定之')가 위임 문형에서 직접 대응한다. 차이로는 일본 헌법은 주체가 천황이고 대상이 육해군이며, 오스트리아·프랑스·미국·필리핀 조항은 처분권·명령권 배분, 칭호 부여, 계엄·임명·사면 등 부가 권한과 결합되어 있다는 점, 조선임시약헌과 중화민국헌법의 법률유보는 대상이 행정 각 부·행정원이고 '編成'이 없다는 점이 있다. 결국 대상 조문처럼 통수권 선언과 군 조직·편성 법률유보를 한 조문에 결합한 형태는 제시 후보만으로는 설명되지 않는다. 이상은 문언 대응에 관한 판단이며 역사적 참조 여부의 확정은 아니다."
+}

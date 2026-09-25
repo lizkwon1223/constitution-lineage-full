@@ -1,0 +1,264 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_054",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_PREAMBLE",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민이 이상과 목적 달성을 '맹세한다(誓ふ)'는 표현이 있으나 대통령 취임선서라는 주체·절차·효과가 전혀 다르고, 선서문 형식이나 취임 시 의회 앞 선서라는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_042",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수가 '취임할 때 의회 앞에서' 선서를 하고 그 선서문을 헌법이 직접 인용하는 구조, 그리고 헌법 준수·국민 복리·직무 성실 수행이라는 선서 내용 항목이 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "선서 절차(주체·시기·장소)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident leistet bei der Übernahme seines Amtes vor dem Reichstag folgenden Eid:",
+          "commonality": "국가원수가 취임 시점에 의회(국회/제국의회) 앞에서 헌법이 정한 선서문을 행한다는 절차 규정이 동일한 문형으로 구성됨",
+          "difference": "대상은 '國會'(단원제 국회), 후보는 'Reichstag'이며 대상은 종교적 선서 부가 허용 규정을 두지 않음"
+        },
+        {
+          "element": "선서 내용(헌법 준수·직무 성실 수행)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국헌을 준수하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "die Verfassung und die Gesetze des Reichs wahren, meine Pflichten gewissenhaft erfüllen",
+          "commonality": "헌법 준수와 직무의 성실한 수행을 선서 항목으로 병렬 열거",
+          "difference": "후보는 '헌법과 법률' 및 '모든 사람에 대한 정의 실현'까지 포함하나 대상은 법률·정의 항목이 없고 '국가 보위'를 둠"
+        },
+        {
+          "element": "국민 복리 증진",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국민의 복리를 증진하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren",
+          "commonality": "국민의 복리·이익 증진을 선서 항목으로 명시",
+          "difference": "후보는 '전력을 다해 헌신'·'피해 방지'로 서술이 다층적이고, 대상은 '복리 증진'으로 간결하며 선서 상대를 '국민'으로 명시"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_056",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "취임 시 선서와 '국민의 복리', '헌법 준수'라는 요소가 겹치지만 주체가 국무장관이고 선서문을 인용하지 않는 간접 서술 형식이어서 대상의 선서문 낭독 구조와 대응 정도가 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법 준수 의무의 주체가 공민이고 취임선서 절차·선서문 형식이 없어 대상의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_062",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 취임할 때 의회(연방총회) 앞에서 헌법이 인용한 선서문을 행하는 절차와 '헌법 준수 + 직무 수행'의 선서 내용이 대응한다. 다만 국민 복리·국가 보위 항목은 없다.",
+      "evidence": [
+        {
+          "element": "선서 절차(주체·시기·장소)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Bundespräsident leistet bei Antritt seines Amtes vor der Bundesversammlung das Gelöbnis:",
+          "commonality": "대통령이 취임 시 합의체 의회 앞에서 선서하고 선서문을 헌법에 직접 기재",
+          "difference": "후보의 선서 수령 기관은 양원 합동체인 연방총회이고, 대상은 국회 단일 기관"
+        },
+        {
+          "element": "선서 내용(헌법 준수·의무 이행)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국헌을 준수하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "daß ich die Verfassung und alle Gesetze der Republik getreulich beobachten und meine Pflicht nach bestem Wissen und Gewissen erfüllen werde",
+          "commonality": "헌법 준수와 직무(의무) 성실 수행을 선서의 핵심 항목으로 규정",
+          "difference": "후보는 '헌법과 모든 법률', '지식과 양심에 따라'를 쓰고 국민 복리·국가 보위 항목이 없으며, 선서 상대를 국민으로 지정하지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'臣民ノ幸福ヲ増進'이라는 복리 증진 어구가 겹치지만 이는 명령 발포권의 목적 요건이고 취임선서와 무관하여 규율 요소의 대응이 아니다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "직무 개시 전 선서문 낭독 구조와 '엄숙히 선서한다 + 대통령의 직무를 성실히 수행 + 헌법 수호'라는 선서문 문형이 구체적으로 대응한다. 다만 선서 장소(국회)와 선서 상대(국민)는 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "선서문 문형(성실한 직무 수행·엄숙한 선서)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령의 직무를 성실히 수행할 것을 국민에게 엄숙히 선서한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States",
+          "commonality": "'엄숙히 선서한다'와 '대통령 직무의 성실한 수행'이 선서문 핵심 문구로 일치",
+          "difference": "후보는 선서 상대(국민)를 명시하지 않고 확약(affirm) 선택지를 두며, 국민 복리 증진 항목이 없음"
+        },
+        {
+          "element": "선서 시기·형식 규정",
+          "target_field": "original_text",
+          "target_quote": "就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:",
+          "commonality": "직무 개시 전(취임 시) 헌법이 정한 선서문을 하도록 규정",
+          "difference": "후보는 선서를 받는 기관·장소를 정하지 않으나 대상은 '國會에서'로 장소·수령 기관을 특정"
+        },
+        {
+          "element": "국가·헌법 보위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국헌을 준수하며 국민의 복리를 증진하며 국가를 보위하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "preserve, protect and defend the Constitution of the United States",
+          "commonality": "헌법·국가에 대한 수호 의무를 선서 내용에 포함",
+          "difference": "후보의 수호 대상은 헌법 자체이고 대상은 '국헌 준수'와 '국가 보위'를 분리하여 국가를 보위 대상으로 삼음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제8절의 선서 조항이 '직무 개시 전 선서문 낭독', '엄숙히 선서', '대통령으로서의 직무를 성실히 수행', '헌법 보전·수호'에서 대상 선서문과 대응한다. 조 전체의 대통령 권한 규정 부분은 대상과 무관하므로 비교 범위를 선서 조항으로 한정한다.",
+      "evidence": [
+        {
+          "element": "선서문 문형(엄숙한 선서·직무의 성실 수행)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령의 직무를 성실히 수행할 것을 국민에게 엄숙히 선서한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "I do solemnly swear (or affirm) that I will faithfully and conscientiously fulfill my duties as President of the Philippines, preserve and defend its Constitution",
+          "commonality": "엄숙한 선서 형식, 대통령 직무의 성실한 수행, 헌법 보전·수호가 선서 항목으로 병렬",
+          "difference": "후보는 확약 선택지와 종교적 문구(So help me God)를 두고 '모든 사람에 대한 정의'·'국가 봉사 헌신'을 포함하며, 선서 상대를 국민으로 지정하지 않음"
+        },
+        {
+          "element": "선서 시기·절차",
+          "target_field": "original_text",
+          "target_quote": "就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Before he enter on the execution of his office, the President shall take the following oath or affirmation:",
+          "commonality": "직무 개시 전 헌법에 기재된 선서문을 행할 것을 규정",
+          "difference": "후보는 선서 장소·수령 기관을 정하지 않으나 대상은 국회에서 행하도록 정함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_021",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'就任에 際하여 … 의회에서 左의 宣誓' 및 '誠實히 … 職務를 執行(遂行)할 것'이라는 문형이 거의 동일하여 문언상 대응이 가장 직접적이다.",
+      "evidence": [
+        {
+          "element": "선서 절차(시기·장소·선서문 인용 형식)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 就任에 際하야 立法議院에서 嚴肅히 左의 宣誓를 함",
+          "commonality": "'就任에 際하여', '左의 宣誓', 의회 기관 앞 선서라는 어구와 구성이 거의 같음",
+          "difference": "주체가 政府主席 대 大統領, 기관이 立法議院 대 國會이며, '嚴肅히'의 위치가 후보는 절차문에, 대상은 선서문 안에 있음"
+        },
+        {
+          "element": "선서 내용(직무의 성실 수행·최고법 수호)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령의 직무를 성실히 수행할 것을 국민에게 엄숙히 선서한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "余는 힘을 다하여 朝鮮臨時約憲을 守護하고 誠實히 政府主席의 職務를 執行할 것을 盟誓함",
+          "commonality": "최고법 준수·수호와 해당 직위 직무의 성실한 수행을 선서 내용으로 결합",
+          "difference": "후보는 '約憲 守護'·'힘을 다하여'만 두고 국민 복리 증진·국가 보위 항목과 선서 상대(국민)가 없으며, 대상은 '宣誓', 후보는 '盟誓'로 표기"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "선서 내용의 네 항목(헌법 준수·직무 충실·인민 복리 증진·국가 보위)이 대상 선서문의 항목 배열과 거의 일치한다. 다만 위약 시 제재 문구와 선서 장소 규정에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "선서문 내용 항목 배열",
+          "target_field": "original_text",
+          "target_quote": "國憲을 遵守하며 國民의 福利를 增進하며 國家를 保衛하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "余必遵守憲法，盡忠職務，增進人民福利，保衛國家",
+          "commonality": "헌법 준수·직무 충실·인민(국민) 복리 증진·국가 보위가 같은 항목으로 나열",
+          "difference": "항목 순서가 다르고 후보는 '無負國民付託'과 위약 시 국법의 엄중한 제재 수인 문구를 추가"
+        },
+        {
+          "element": "선서 시기·절차",
+          "target_field": "original_text",
+          "target_quote": "大統領은 就任에 際하여 國會에서 左의 宣誓를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統應於就職日宣誓。誓詞如左：",
+          "commonality": "취임 시점에 헌법이 기재한 선서문으로 선서할 의무를 규정",
+          "difference": "후보는 '就職日'이라는 날짜 기준만 두고 선서 장소·수령 기관을 정하지 않는 반면 대상은 '國會에서'로 특정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_048",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "선서 내용 네 항목과 '전국 인민에 대하여 선서한다'는 선서 상대 지정까지 대상의 '국민에게 엄숙히 선서한다'와 대응한다. 위약 제재 조항은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "선서 상대(국민)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국민에게 엄숙히 선서한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "余謹以至誠，向全國人民宣誓",
+          "commonality": "선서를 받는 상대를 국민(전국 인민)으로 명시하고 성실·엄숙의 태도어를 덧붙임",
+          "difference": "후보는 '謹以至誠'(지성으로 삼가), 대상은 '嚴肅히'로 태도 표현이 다르고, 후보는 선서 장소를 규정하지 않음"
+        },
+        {
+          "element": "선서문 내용 항목",
+          "target_field": "original_text",
+          "target_quote": "國憲을 遵守하며 國民의 福利를 增進하며 國家를 保衛하여 大統領의 職務를 誠實히 遂行할 것을",
+          "candidate_field": "original_text",
+          "candidate_quote": "余必遵守憲法，盡忠職務，增進人民福利，保衛國家，無負國民付託",
+          "commonality": "헌법 준수·직무의 충실한 수행·인민 복리 증진·국가 보위가 동일하게 열거",
+          "difference": "대상은 '大統領의 職務를 誠實히 遂行'을 마지막에 종합 항목으로 두고, 후보는 국민 위탁 위배 금지와 위약 시 국가의 엄중한 제재 수인 문구를 추가"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_040",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선거·권한 연장 및 국무총리 지명 기한에 관한 규정으로 취임선서와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법안 제출·공포·사면·군 지휘 등 권한 목록 규정이며 선서 절차나 선서문 문형이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_108",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "취임 관련 선서와 '헌법의 성실한 준수'가 겹치지만 선서 주체가 양원 의원·국가공무원이고 선서 상대가 국왕이며 선서문을 인용하지 않아 대상의 대통령 선서문 구조와는 대응이 약하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'國憲'이라는 용어 선택(헌법·법률 병기 대신 국헌 단독 표기)",
+    "선서 위반에 따른 효과·제재를 두지 않은 점(후보 중 중화민국 계열은 제재를 명시)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인했으며 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 자료만으로 확정할 수 없다.",
+    "독일어·영어·중국어 후보의 항목 대응 판단에 일부 어휘 대조가 포함되며, 번역문은 참고로만 사용했다."
+  ],
+  "short_answer": "대상 제54조는 (1) 취임 시 의회 앞 선서 절차, (2) 헌법에 기재된 선서문 낭독 형식, (3) 헌법 준수·국민 복리 증진·국가 보위·직무의 성실 수행이라는 내용 항목, (4) 국민을 선서 상대로 지정하는 요소로 구성된다. 절차·장소 요소는 바이마르 제42조, 오스트리아 제62조, 조선임시약헌 제21조가 '취임할 때 의회 앞에서 좌의 선서'라는 문형으로 가장 직접 대응하며, 특히 약헌 제21조는 '就任에 際하여…左의 宣誓'와 '誠實히 職務를 執行'에서 어구까지 근접한다. 선서문 내용 항목은 중화민국 五五憲草 제50조와 1946년 헌법 제48조의 '遵守憲法·盡忠職務·增進人民福利·保衛國家' 배열이 대상과 거의 일치하고, 1946년 헌법은 '向全國人民宣誓'로 선서 상대까지 대응한다. 미국 헌법 제2조 제1절 말단과 필리핀 제7조 제8절은 '엄숙히 선서'·'대통령의 직무를 성실히 수행'·헌법 수호 문구에서 대응하나 선서 장소와 선서 상대를 정하지 않고 확약·종교 문구를 두는 차이가 있다. 프로이센 1850년 제108조와 1920년 제56조는 주체(의원·공무원·국무장관)와 선서 상대에서 갈라지고, 일본국헌법 전문·북조선 초안 제27조·프랑스 조항들은 대응 요소가 없다."
+}

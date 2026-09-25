@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_034",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "34",
+    "original_text": "國會의 定期會는 每年 1回 12月 20日에 集會한다. 當該日이 公休日인 때에는 그 翌日에 集會한다.",
+    "workbook_text_ko": "국회의 정기회는 매년 1회 12월 20일에 집회한다. 당해일이 공휴일인 때에는 그 익일에 집회한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1850_ORIGINAL_ART_051",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "51",
+      "original_text": "Der König beruft die Kammern und schließt ihre Sitzungen. Er kann sie entweder beide zugleich oder auch nur eine auflösen. Es müssen aber in einem solchen Falle innerhalb eines Zeitraums von sechzig Tagen nach der Auflösung die Wähler und innerhalb eines Zeitraums von neunzig Tagen nach der Auflösung die Kammern versammelt werden.",
+      "workbook_text_ko": "국왕은 의회를 소집하고 그\n회의를 폐회한다. 국왕은 의회 양원을\n동시에 혹은 일원만을 해산할 수 있다.\n그러나 그 경우에는 해산 후 60일 이\n내에 선거가 이루어져야 하고, 해산\n후 90일 이내에 의회 양원의 소집이\n이루어져야 한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_017",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "17",
+      "original_text": "(1) Der Landtag versammelt sich am Sitze des Staatsministeriums.\n(2) Zur ersten Tagung nach jeder Neuwahl tritt er zusammen am dreißigsten Tage nach Beginn der Wahlperiode, falls ihn nicht das Staatsministerium früher beruft.\n(3) Im übrigen versammelt sich der Landtag in jedem Jahre am zweiten Dienstag des November. Der Präsident des Landtags muß ihn früher berufen, wenn es das Staatsministerium oder mindestens ein Fünftel der Mitglieder des Landtags verlangt.\n(4) Der Landtag bestimmt den Schluß der Tagung und den Tag des Wiederzusammentritts.",
+      "workbook_text_ko": "(1) 주의회는 주내각 소재지에서 집회한다.\n(2) 새로 선거할 때마다 첫 회기는 주내각이 더 일찍 소집하지 않는 한 의회 임기가 시작된 후 제30일에 집회한다.\n(3) 그 밖에 주의회는 매년 11월 둘째 화요일에 집회한다. 주내각 또는 주의회 의원 5분의 1 이상이 요구하면 주의회 의장은 더 일찍 소집하여야 한다.\n(4) 주의회는 회기의 종료와 다시 집회할 날을 정한다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_023",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "23",
+      "original_text": "Der Reichstag wird auf vier Jahre gewählt. Spätestens am sechzigsten Tage nach ihrem Ablauf muß die Neuwahl stattfinden.\nDer Reichstag tritt zum ersten Male spätestens am dreißigsten Tage nach der Wahl zusammen.",
+      "workbook_text_ko": "제국의회는 4년 임기로 선출된다. 임기 종료 후 늦어도 60일 이내에 새로운 선거가 개최되어야 한다.\n제국의회는 선거 후 늦어도 30일 이내에 처음으로 집회한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_027",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "27",
+      "original_text": "(1) Die Gesetzgebungsperiode des Nationalrates dauert vier Jahre, vom Tag seines ersten Zusammentrittes an gerechnet, jedenfalls aber bis zu dem Tag, an dem der neue Nationalrat zusammentritt.\n(2) Der neugewählte Nationalrat ist vom Bundespräsidenten längstens innerhalb dreißig Tagen nach der Wahl einzuberufen. Diese ist von der Bundesregierung so anzuordnen, daß der neugewählte Nationalrat am Tag nach dem Ablauf des vierten Jahres der Gesetzgebungsperiode zusammentreten kann.",
+      "workbook_text_ko": "(1) 국민의회의 입법기는 최초 집회일부터 4년간으로 한다. 다만 어떠한 경우에도 새 국민의회가 집회하는 날까지 계속된다.\n(2) 연방대통령은 새로 선출된 국민의회를 선거 후 늦어도 30일 이내에 소집하여야 한다. 연방정부는 입법기 4년이 만료된 다음 날 새 국민의회가 집회할 수 있도록 선거를 정하여야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_098",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "98",
+      "original_text": "L'Assemblée nationale se réunira de plein droit le troisième jeudi qui suivra les élections générales.\nLe Conseil de la République se réunira le troisième mardi suivant son élection. La présente Constitution entrera en vigueur à partir de cette date.\nJusqu'à la réunion du Conseil de la République, l'organisation des pouvoirs publics sera régie par la loi du 2 novembre 1945, l'Assemblée nationale ayant les attributions conférées par cette loi à l'Assemblée nationale constituante.",
+      "workbook_text_ko": "국민의회는 총선거(élection générale) 후의 제3 목요일에 당연히 집회\n한다.\n공화국평의회는 그 선거 후의 제3 화요일에 집회한다. 이 헌법은 그 날로부\n터 효력을 가진다.\n공화국평의회의 집회까지는 공권력의 조직(organisation des pouvoirs publics)은 1945년 11월 2일의 법률로 운영하며, 국민의회는 이 법률로 헌\n법제정국민의회에 부여된 권한을 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_052",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "52",
+      "original_text": "国会の常会は、毎年一回これを召集する。",
+      "workbook_text_ko": "국회의 정기회는 매년 1회 소집된다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_031",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "31",
+      "original_text": "國民大會每三年由總統召集一次，會期一月，必要時得延長一月。\n國民大會經五分二以上代表之同意，得自行召集臨時國民大會。\n總統得召集臨時國民大會。\n國民大會之開會地點，在中央政府所在地。",
+      "workbook_text_ko": "국민대회는 총통이 3년마다 한 차례 소집한다. 회기는 1개월로 하며, 필요한 때에는 1개월 연장할 수 있다.\n국민대회는 대표 5분의 2 이상의 동의로 임시 국민대회를 스스로 소집할 수 있다.\n총통은 임시 국민대회를 소집할 수 있다.\n국민대회의 회의 장소는 중앙정부 소재지로 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_068",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "68",
+      "original_text": "立法院會期，每年兩次，自行集會，第一次自二月至五月底，第二次自九月至十二月底，必要時得延長之。",
+      "workbook_text_ko": "立法院의 會期는 每年2次이며, 스스로 集會한다. 第1次는 2月부터 5月末까지 第2次는 9月부터 12月末까지 이며 必要할 때에는 이를 延長할 수 있다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XX",
+      "original_text": "Section 1.\nThe terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.\nSection 2.\nThe Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.\nSection 3.\nIf, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.\nSection 4.\nThe Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.\nSection 5.\nSections 1 and 2 shall take effect on the 15th day of October following the ratification of this article.\nSection 6.\nThis article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.",
+      "workbook_text_ko": "제1항\n대통령과 부통령의 임기는 이 조가 비준되지 않았다면 임\n기가 만료했을 해의 1월 20일 정오에, 그리고 상원의원과\n하원의원의 임기는 각각 그러한 해의 1월 3일 정오에 끝난\n다. 그 후임자의 임기는 그 때부터 시작된다.\n제2항\n연방의회는 매년 적어도 1회 집회한다. 그 집회는 연방의\n회가 법률로 다른 날을 정하지 않는 한 1월 3일 정오에 시\n작된다.\n제3항\n대통령의 임기 개시일로 정해 놓은 시일에 대통령 당선자가 이미 사망하였으면 부통령 당선자가 대통령이 된다. 대통령 임기의 개시 시각 전에 대통령이 선정되지 않았거나, 대통령 당선\n자가 자격을 구비하지 못했을 때에는, 부통령 당선자가 대\n통령이 그 자격을 구비할 때까지 대통령의 직무를 대행한\n다. 연방의회는 대통령 당선자와 부통령 당선자가 다 자격\n을 구비하지 못하는 경우에 대비하여 대통령의 직무를 대\n행해야 할 자 또는 그 대행자의 선정 방법을 법률로 정할\n수 있다. 이 경우 그 대행자는 대통령 또는 부통령이 자격\n을 구비할 때까지 대통령의 직무를 대행한다.\n제4항\n연방의회는 하원이 대통령의 선정권을 갖게 되었을 때에\n하원이 대통령을 선정할 수 있는 후보자 중 사망자가 생긴 경우와, 상원이 부통령의 선정권을 갖게 되었을 때에 상원이 부통령을 선정할 수 있는 후보자 중 사망자가 생긴 경우를 대비하여 법\n률로 정할 수 있다.\n제5항\n제1항 및 제2항은 이 조의 비준 후 최초의 10월 15일에 효\n력을 발생한다.\n제6항\n이 조는 회부된 날로부터 7년 이내에 각 주의 4분의 3의\n주의회에 의해 헌법 수정조항으로 비준되지 않으면 효력이\n없다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_038",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "38",
+      "original_text": "最高人民會議는 定期會議 및 臨時會議를 가진다.\n定期會議는 一年에 二次 召集한다.\n定期會議는 最高人民會議 常任委員會의 決定으로서 召集한다.\n臨時會議는 最高人民會議 常任委員會가 必要하다고 認定할 때 또는 代議員 三分의一 以上의 要請이 있을때 召集한다.",
+      "workbook_text_ko": "최고인민회의는 정기회의 및 임시회의를 가진다.\n정기회의는 1년에 2차 소집한다.\n정기회의는 최고인민회의 상임위원회의 결정으로서 소집한다.\n임시회의는 최고인민회의 상임위원회가 필요하다고 인정할 때 또는 대의원 3분의 1 이상의 요청이 있을 때 소집한다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "1",
+      "original_text": "Le Sénat et la Chambre des députés se réunissent chaque année le second mardi de janvier, à moins d'une convocation antérieure faite par le Président de la République. - Les deux chambres doivent être réunies en session cinq mois au moins chaque année. La session de l'une commence et finit en même temps que celle de l'autre. - Le dimanche qui suivra la rentrée, des prières publiques seront adressées à Dieu dans les églises et dans les temples pour appeler son secours sur les travaux des assemblées.",
+      "workbook_text_ko": "상원과 하원은 공화국대통령에 의한 사전의 소집이 없는 한, 매년 1월\n의 제2 화요일에 집회한다.\n양원은 매년 적어도 5개월의 회기로 집회하여야 한다. 한쪽 원의 회기는 다\n른 원의 회기와 동시에 개회하고 폐회한다.\n개회 직후의 일요일에 교회와 성당에서 의회의 작업에 대해서 신의 조력을\n구하고, 신에게 공적 기도(prières publiques)를 드린다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_015",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "15",
+      "original_text": "立法議院의 召集 開會 休會 及 閉會는 院이 스스로 行함 但 議員 總選擧 後 最初의 召集은 政府主席이 行함\n立法議院 定例會는 每年 一回 十二月 中에 議長이 召集하되 그 會期는 六十日로 함\n立法議院 臨時會는 在籍議員 四分之一 以上의 要求나 또는 政府主席의 要請에 依하여 議長이 召集함",
+      "workbook_text_ko": "입법의원의 소집·개회·휴회 및 폐회는 원이 스스로 행함. 단, 의원 총선거 후 최초의 소집은 정부주석이 행함.\n입법의원 정례회는 매년 1회 12월 중에 의장이 소집하되 그 회기는 60일로 함.\n입법의원 임시회는 재적의원 4분의 1 이상의 요구나 또는 정부주석의 요청에 의하여 의장이 소집함."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_041",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "41",
+      "original_text": "帝国議会ハ毎年之ヲ召集ス",
+      "workbook_text_ko": "제국의회는 매년 소집한다."
+    }
+  ]
+}

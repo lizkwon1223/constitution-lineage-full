@@ -1,0 +1,171 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_045",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_092",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "감찰원의 공무원 탄핵안 제출 절차와 정족수를 규정한 조항으로, 의회의 자격심사·의사규칙·의원 징벌·제명이라는 대상 조문의 규율 대상과 주체가 모두 다르다. 정족수 분수 표현만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각 원이 소속 의원의 피선거자격과 선거의 적법성을 스스로 판단한다는 점에서 대상 조문의 '의원의 자격 심사'와 주제가 겹치나, 의사규칙 제정·징벌·제명 정족수에 대응하는 규율이 없고 사표 수리라는 별개 효과를 둔다. 구체적 문형 대응은 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_073",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 절차의 의사·의결정족수를 정한 조항으로, 대상 조문의 자격심사·의사규칙·징벌·제명과 규율 대상이 다르다. '3분의 2'라는 수치 표현만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_032",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의사규칙(Geschäftsordnung)이 언급되지만 그 내용은 의결정족수와 선거 예외에 관한 것이고, 대상 조문의 자격심사·징벌·제명 정족수에 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'회의 절차 및 내부 규율에 관한 규칙 제정 + 의원 징벌 + 단서로 제명 시 3분의 2 가중정족수'라는 구성이 대상 조문 제1항 후단과 제2항의 배열·내용과 구체적으로 대응한다. 다만 제명 정족수의 분모(출석의원 대 재적의원)와 자격심사 규정 유무가 다르다.",
+      "evidence": [
+        {
+          "element": "의사규칙 제정권과 의원 징벌권",
+          "target_field": "original_text",
+          "target_quote": "議事에 關한 規則을 制定하고 議員의 懲罰을 決定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その会議その他の手続及び内部の規律に関する規則を定め、又、院内の秩序をみだした議員を懲罰することができる",
+          "commonality": "의회가 스스로 의사(회의 절차)에 관한 규칙을 정하고 의원을 징벌할 수 있다는 권한을 한 문장에 병렬 규정한다.",
+          "difference": "후보는 주체가 '양원 각각'이고 징벌 대상을 '원내 질서를 문란케 한 의원'으로 한정하며 내부규율 규칙까지 명시하나, 대상은 단원제 국회가 주체이고 징벌 사유를 한정하지 않는다."
+        },
+        {
+          "element": "제명의 가중정족수",
+          "target_field": "original_text",
+          "target_quote": "議員을 除名함에는 在籍議員 3分之 2以上의 贊成이 있어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但し、議員を除名するには、出席議員の三分の二以上の多数による議決を必要とする。",
+          "commonality": "의원 제명에 한하여 3분의 2 이상이라는 가중정족수를 요구하는 특칙을 둔다.",
+          "difference": "후보는 분모가 '출석의원'이고 단서 형식이지만, 대상은 분모가 '재적의원'이며 독립 항으로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'議員의 除名'에 재적의원 3분의 2 기준을 요구하는 한자 문언이 대상 제2항과 직접 대응한다. 다만 후보는 재적 3분의 2 출석 + 출석 3분의 2 찬성의 이중 요건이고 탄핵과 함께 규정하며, 자격심사·의사규칙·징벌 부분에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "의원 제명의 정족수 요건",
+          "target_field": "original_text",
+          "target_quote": "議員을 除名함에는 在籍議員 3分之 2以上의 贊成이 있어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員의 除名은 在籍議員 三分之二 以上의 出席과 出席議員 三分之二 以上의 贊成이 있어야 함",
+          "commonality": "'議員의 除名'이라는 동일한 용어와 '在籍議員 三分之二'라는 기준을 사용해 가중요건을 규정한다.",
+          "difference": "후보는 재적 3분의 2 출석과 출석 3분의 2 찬성을 함께 요구하는 이중 정족수이고 정부주석 등에 대한 탄핵과 병렬 규정하나, 대상은 재적의원 3분의 2 찬성 단일 요건이며 제명만을 규율한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제5절의 '자격 판정 - 의사규칙 결정 - 의원 징계 - 3분의 2 찬성 제명' 배열이 대상 조문의 네 요소와 항목별로 대응한다. 다만 주체가 양원 각 원이고 제명 정족수의 분모가 문언상 특정되지 않은 점이 다르다.",
+      "evidence": [
+        {
+          "element": "의원 자격 심사",
+          "target_field": "original_text",
+          "target_quote": "國會는 議員의 資格을 審査하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members",
+          "commonality": "의회 자신이 소속 의원의 자격을 판정하는 권한을 갖는다는 점이 같다.",
+          "difference": "후보는 자격뿐 아니라 선거와 개표 결과까지 판정 대상으로 하고 주체가 각 원이나, 대상은 '자격' 심사만을 국회 권한으로 규정한다."
+        },
+        {
+          "element": "의사규칙 제정·징벌·제명",
+          "target_field": "original_text",
+          "target_quote": "議事에 關한 規則을 制定하고 議員의 懲罰을 決定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.",
+          "commonality": "의사규칙 결정권, 의원 징계권, 3분의 2 찬성에 의한 제명을 하나의 문장에 연속 배열한 구조가 대상 조문의 나열 순서와 유사하다.",
+          "difference": "후보는 징계 사유를 'disorderly Behaviour'로 한정하고 제명 정족수의 분모를 문언상 명시하지 않으나, 대상은 사유 제한 없이 규정하고 제명 정족수를 '재적의원' 기준으로 명시하며 별도 항으로 분리한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_037",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의사규칙을 스스로 의결로 정한다는 점과 3분의 2 정족수 표현이 있으나, 그 3분의 2는 의사규칙 제정에 요구되는 것이고 자격심사·징벌·제명에 관한 규율이 없어 대응 범위가 좁다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의결능력(정족수)과 선거 예외에 관한 규정으로, 대상 조문의 자격심사·징벌·제명 요건과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법개정 제안과 국민투표 비준 절차에 관한 조항으로, 대상 조문과 규율 대상·효과가 다르다. 가중정족수 표현만 유사하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_097",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "감찰원의 규정안·규거안·탄핵안 제출에 관한 조항으로, 의회의 내부 자율권과 의원 제명을 다루는 대상 조문과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각 원이 의원의 피선자격과 선거 적법성을 판단한다는 점에서 자격심사 요소와 주제가 겹치지만, 의사규칙·징벌·제명 정족수에 관한 대응이 없고 사표 수리라는 다른 효과를 규정한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_078",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'각 원이 의원 자격을 심사·결정하고 의사규칙으로 의사진행과 기율을 규정한다'는 첫 문장이 대상 제1항의 자격심사 및 의사규칙·기율 요소와 구체적으로 대응한다. 다만 제명 정족수 규정이 없고 의장 선출 등 다른 요소를 포함한다.",
+      "evidence": [
+        {
+          "element": "의원 자격 심사 및 의사규칙에 의한 기율 규율",
+          "target_field": "original_text",
+          "target_quote": "國會는 議員의 資格을 審査하고 議事에 關한 規則을 制定하고 議員의 懲罰을 決定할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Jede Kammer prüft die Legitimation ihrer Mitglieder und entscheidet darüber. Sie regelt ihren Geschäftsgang und ihre Disziplin durch eine Geschäftsordnung",
+          "commonality": "의회가 소속 의원의 자격을 스스로 심사·결정하고, 의사규칙으로 의사진행과 기율(징계)을 규율한다는 두 권한을 연속 규정한다.",
+          "difference": "후보는 주체가 양원 각 원이고 기율을 의사규칙으로 규정한다고만 할 뿐 개별 의원 징벌 결정이나 제명 정족수를 두지 않으며, 의장·부의장·서기 선출 등을 함께 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_040",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법령 채택에 필요한 일반 의결정족수(참석 대의원 과반수) 규정으로, 대상 조문의 자격심사·의사규칙·징벌·제명 가중정족수와 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제명 정족수의 분모를 '재적의원'으로 명시한 점(후보들은 출석의원 기준이거나 분모 불명, 또는 출석·찬성 이중요건)",
+    "단원제 '國會'를 단일 주체로 규정한 점(다수 후보는 양원 각 원을 주체로 함)"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "일부 후보(미국 헌법 제1조, 프로이센 1850년 헌법)는 원문이 길거나 다수 요소를 포함해 대응 범위를 해당 문장으로 한정했다."
+  ],
+  "short_answer": "대상 조문은 ①의원 자격심사, ②의사규칙 제정, ③의원 징벌, ④재적의원 3분의 2 찬성에 의한 제명의 네 요소로 구성된다. 미국 헌법 제1조 제5절은 자격 판정·의사규칙 결정·징계·3분의 2 제명을 같은 순서로 나열해 네 요소 모두와 문언상 대응하고, 일본국헌법 제58조 제2항은 규칙 제정·징벌·제명 단서(3분의 2) 구조가 대응한다. 조선임시약헌 제14조는 '議員의 除名'과 '在籍議員 三分之二'라는 한자 문언이 제2항과 직접 겹치며, 프로이센 1850년 헌법 제78조는 자격심사와 의사규칙·기율 규율 부분에서 대응한다. 차이로는 주체(양원 각 원 대 단원제 국회), 징벌 사유의 한정 여부, 제명 정족수의 분모(출석의원·불명·이중요건 대 재적의원)가 구별된다. 이는 문언상 대응 관계일 뿐이며 실제 참조 여부의 확정은 아니다."
+}

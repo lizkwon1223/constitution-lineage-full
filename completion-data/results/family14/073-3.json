@@ -1,0 +1,161 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_073",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행정 각부의 장을 '국무위원 중에서' 정부수반이 임명한다는 규율 요소와 문형이 대상 제1문과 직접 대응한다. 다만 국무총장의 추천이라는 절차 요건과 제2문(통리감독·잔여 행정사무)에 대응하는 규정은 없어 대응 범위는 제1문의 임명 요건에 한정된다.",
+      "evidence": [
+        {
+          "element": "행정각부장관 임명의 주체와 피임명자 범위",
+          "target_field": "original_text",
+          "target_quote": "行政各部長官은 國務委員中에서 大統領이 任命한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務委員 中에서 行政 各部長을 任命함",
+          "commonality": "각부의 장을 국무위원(합의제 각료단 구성원) 중에서 임명한다는 자격 제한과, 국가·정부 수반이 임명권자라는 구조가 같다",
+          "difference": "대상은 대통령이 단독으로 임명하나 후보는 정부주석이 '國務總長의 推薦에 依하여' 임명하는 추천 절차가 요건으로 붙고, 직명도 행정각부장관/행정각부장으로 다르다"
+        },
+        {
+          "element": "조문의 구성 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국무총리는 대통령의 명을 승하여 행정각부장관을 통리감독하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部의 組織 及 權限은 法律로써 定함",
+          "commonality": "두 조문 모두 임명 규정에 이어 행정각부 관련 사항을 제2문으로 덧붙이는 2문 구성을 취한다",
+          "difference": "대상 제2문은 국무총리의 통리감독권과 잔여 행정사무 담임을 정하는데, 후보 제2문은 행정각부의 조직·권한을 법률에 위임하는 전혀 다른 내용이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_047",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "내각수반의 법률집행 확보와 광범한 공무원 임명권을 규정할 뿐, 각부장관을 국무위원 중에서 국가원수가 임명한다는 요소나 '대통령의 명을 승하여' 통리감독한다는 종속적 지휘 구조와는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 행정부처의 장을 임명하고 행정부처를 통할한다는 주제는 겹치나, 임명위원회 동의라는 절차와 피임명자 자격 제한 부재, 총리 부재 등에서 대상의 규율 요소와 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국왕의 장관 임면권이라는 일반적 임명 규정에 그치고, 국무위원 중에서의 임명이나 총리의 통리감독이라는 대상의 특징적 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'行政各部'라는 용어는 겹치지만 내용은 관제·봉급 제정과 문무관 임면 일반으로, 각부장관을 국무위원 중에서 임명하거나 총리가 각부장관을 통리감독하는 요소와는 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_056",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가원수가 각부회의 장을 임명한다는 점은 유사하나, 임명은 행정원장의 제청을 요건으로 하고 피임명자를 정무위원(국무위원)으로 한정하지 않아 대상 제1문의 핵심 요건과 어긋난다. 제2문의 통리감독·잔여 사무 담임 대응도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총통이 정무위원 중에서 각부 부장을 임명한다'는 구조가 대상 제1문의 '국무위원중에서 대통령이 임명한다'와 주체·자격제한·문형에서 구체적으로 대응한다. 대응은 제1문에 한정되며 제2문의 총리 통리감독·잔여 행정사무 담임은 후보에 없다.",
+      "evidence": [
+        {
+          "element": "행정각부장관 임명의 주체와 피임명자 범위",
+          "target_field": "original_text",
+          "target_quote": "行政各部長官은 國務委員中에서 大統領이 任命한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "由總統於政務委員中任命之",
+          "commonality": "국가원수(대통령/총통)가 합의제 각료단 구성원(국무위원/정무위원) 중에서 각부의 장을 임명한다는 임명주체·자격제한의 결합이 동일하다",
+          "difference": "후보는 행정원 소속 각부 부장과 각 위원회 위원장을 대상으로 하고 원장·부원장의 겸임 허용 규정을 두는 반면, 대상은 행정각부장관만을 대상으로 하고 겸임 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_077",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방각부의 지휘 배분과 연방총리청 소관 사항의 이관을 정하지만, 각부장관 임명의 자격제한이나 총리의 각부장관 통리감독이라는 대상 요소와 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_045",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "장관 임명권자가 주수상이고 주수상은 의회가 선출하는 구조여서, 대통령이 임명하고 총리가 대통령의 명을 받아 감독하는 대상 구조와 임명 주체가 반대에 가깝다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_072",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "내각총리대신이 '행정각부를 지휘감독한다'는 문형이 대상 제2문의 '행정각부장관을 통리감독하며'와 구체적으로 대응한다. 다만 '대통령의 명을 승하여'라는 종속 조건과 잔여 행정사무 담임은 후보에 없고, 후보의 의안제출·국회보고 권한은 대상에 없어 대응 범위는 감독권 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "국무총리(내각수반)의 행정각부 감독권",
+          "target_field": "original_text",
+          "target_quote": "行政各部長官을 統理監督하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政各部を指揮監督する",
+          "commonality": "내각수반이 행정각부에 대한 감독권을 행사한다는 권한 규정과 '행정각부+감독' 문형이 일치한다",
+          "difference": "후보는 감독 대상을 '행정각부'라는 기관으로 하고 내각을 대표하는 지위에서 독자적으로 행사하나, 대상은 감독 대상을 '행정각부장관'이라는 사람으로 하고 '대통령의 명을 승하여'라는 종속 조건을 붙인다"
+        },
+        {
+          "element": "국무총리의 그 밖의 직무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "행정각부에 분담되지 아니한 행정사무를 담임한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣を代表して議案を国会に提出し、一般国務及び外交関係について国会に報告し",
+          "commonality": "내각수반에게 감독권 외의 별도 직무를 같은 문장에서 병렬로 열거하는 형식이 유사하다",
+          "difference": "대상은 각부에 분담되지 않은 잔여 행정사무의 담임을 규정하는 반면, 후보는 의안제출·국회보고라는 대의회 권한을 규정하여 내용이 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "내각의 구성원 목록과 사무국·부서 설치를 정한 조직 규정으로, 각부장관 임명 요건이나 총리의 감독권과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 공무원 임명(상원 동의)과 법률집행 확보를 규정하나, 국무위원 중에서의 각부장관 임명이나 총리의 통리감독 구조는 없어 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 문무관 일반 임명권 규정으로, 피임명자를 국무위원으로 한정하는 요소나 각부장관 감독 구조와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_053",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령이 수상의 제청으로 장관을 임면한다는 점에서 임명 주체는 유사하지만, 국무위원 중에서라는 자격제한과 총리의 통리감독·잔여 사무 담임 규정이 없어 대상의 특징적 요소와 대응이 약하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "국무총리가 '대통령의 명을 승하여' 감독권을 행사한다는 종속적 조건",
+    "행정각부에 분담되지 아니한 행정사무를 국무총리가 담임한다는 잔여사무 처리 규정"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토한 것이며 실제 참조·기초 과정의 영향 관계는 제공된 본문만으로 확정할 수 없다",
+    "후보 중 일부는 번역문만 제시된 부분이 있어 원문 대조의 정밀도에 한계가 있다"
+  ],
+  "short_answer": "대상 제1문(행정각부장관을 국무위원 중에서 대통령이 임명)은 조선임시약헌 제27조와 중화민국 五五憲草 제58조에 임명주체·피임명자 자격제한·문형이 구체적으로 대응한다. 약헌은 국무총장의 추천이라는 절차 요건이 추가되고, 五五憲草는 위원회 위원장과 원장의 겸임 규정을 함께 두는 차이가 있다. 대상 제2문의 '행정각부장관을 통리감독'은 일본국헌법 제72조의 '行政各部を指揮監督する'와 문형이 대응하지만, 후보에는 '대통령의 명을 승하여'라는 종속 조건이 없고 감독 대상이 기관(행정각부)이며 의안제출·국회보고 권한이 병기된다. 중화민국헌법 제56조·바이마르 제53조 등은 국가원수의 장관 임명이라는 주제만 겹치고 국무위원 중에서라는 핵심 요건이 없어 선택하지 않았다. 잔여 행정사무 담임 규정에 대응하는 후보 문언은 확인되지 않았으며, 이는 역사적 참조 부재를 뜻하지 않는다."
+}

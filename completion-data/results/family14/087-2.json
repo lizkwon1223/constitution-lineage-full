@@ -1,0 +1,200 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_087",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "재산권 보장·공공복리 적합·정당보상 수용을 규율할 뿐, 특정 업종의 국영·공영화나 사영 특허·대외무역 통제라는 대상 조문의 규율 요소와 대응하지 않는다. '공공'이라는 상용어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "교통·우편전신전화·은행·보험·수력·전기설비·외국과의 상품거래 등 대상 조문이 열거한 분야와 소재가 겹치나, 이는 연방의 입법·집행 관할 배분 목록일 뿐 국영·공영 경영형태나 사영 특허·취소, 대외무역 통제라는 효과를 정하지 않는다. 소재 중복만으로는 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_055",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 조문 제2문(대외무역의 국가 통제)에 한정하여 '對外貿易'을 국가가 관리한다는 구체적 규율 요소가 문언상 대응한다. 다만 후보는 내각의 임무 열거 형식이고 대상은 국가 통제의 원칙 선언이라는 점에서 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "대외무역에 대한 국가 통제",
+          "target_field": "original_text",
+          "target_quote": "對外貿易은 國家의 統制下에 둔다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "二. 對外貿易의 管理",
+          "commonality": "대외무역을 사적 자유에 맡기지 않고 국가기관의 관리·통제 대상으로 명시하는 점이 같다.",
+          "difference": "후보는 내각의 임무 목록 중 한 항목으로 집행기관의 권한을 정하는 데 그치는 반면, 대상은 주체를 '국가'로 하여 통제 원칙 자체를 선언한다. 후보의 '관리'와 대상의 '통제'라는 용어도 다르다."
+        },
+        {
+          "element": "국가운영 대상 산업의 지정",
+          "target_field": "workbook_text_ko",
+          "target_quote": "중요한 운수, 통신, 금융, 보험, 전기, 수리, 수도, 까스 및 공공성을 가진 기업은 국영 또는 공영으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "六. 國家産業, 商業機關·農村經理機關 및 國家運輸·遞信機關의 指導",
+          "commonality": "운수·체신 등 기간 부문을 국가 부문으로 상정한다는 점에서 소재가 겹친다.",
+          "difference": "후보는 이미 국가기관화된 산업에 대한 내각의 '지도'를 정할 뿐 경영형태(국영·공영)의 지정이나 사영 특허·취소 절차를 두지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주요 산업의 '國營' 및 국가 통제·관리라는 경제조항 문형이 대상 조문의 '國營 또는 公營' 규율과 부분적으로 대응한다. 다만 대상 요소 중 사영 특허·취소의 법률유보와 업종 열거에는 대응이 없어 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "주요 기업·산업의 국영화",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "五 大規模의 主要工場 及 鑛山의 國營 또는 國家 管理",
+          "commonality": "중요·대규모 사업을 사영에 맡기지 않고 '國營'하거나 국가가 관리한다는 경제조항 문형과 용어가 공통된다.",
+          "difference": "후보는 대상이 공장·광산이고 선택지가 '국영 또는 국가 관리'인 반면, 대상 조문은 운수·통신 등 공익사업을 열거하고 '국영 또는 공영'으로 지방공영까지 포함한다. 또 후보는 생활균등권 실현을 위한 정책 강령 형식이다."
+        },
+        {
+          "element": "국가에 의한 경제 통제",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대외무역은 국가의 통제하에 둔다",
+          "candidate_field": "original_text",
+          "candidate_quote": "二 主要한 生活必需品의 統制管理와 合理的 物價政策의 樹立",
+          "commonality": "국가가 특정 경제영역을 '통제·관리'한다는 표현 방식이 겹친다.",
+          "difference": "후보의 통제 대상은 국내 생활필수품과 물가이고, 대상 조문은 대외무역을 통제 대상으로 삼는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_048",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국왕의 선전·강화 및 조약체결권과 통상조약에 대한 의회 동의를 정한 규정으로, 기업의 국영·공영이나 대외무역 통제와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 법률안 제출·공포·사면·군통수·공무원 임명 권한에 관한 조항으로 대상 조문의 경제질서 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제6절이 국가의 산업·운수·통신 설치운영과 공익사업의 공공소유 전환을 규정해 소재가 겹치나, 국가의 재량적 권한('may')과 정당보상 요건을 핵심으로 하여 대상 조문의 강행적 국영·공영 지정 및 사영 특허·취소의 법률유보와는 규율 구조가 다르다. 소재 유사에 그쳐 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_063",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "예산 편성·승인에 관한 재정조항으로 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_144",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공용사업·독점성 기업을 공영으로 하는 원칙과 법률에 의한 국민(사인) 경영 허용이라는 두 요소가 대상 조문 제1문·제2문의 구조와 직접 대응한다.",
+      "evidence": [
+        {
+          "element": "공공성 기업의 공영 원칙",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公用事業及其他有獨佔性之企業，以公營為原則",
+          "commonality": "공익적·독점적 성격의 기업을 공영으로 한다는 원칙을 같은 어휘(公營·企業)로 선언한다.",
+          "difference": "후보는 '독점성'을 기준으로 삼고 '원칙'이라는 완화된 형식인 반면, 대상은 운수·통신 등 업종을 열거하고 '국영 또는 공영으로 한다'고 강행적으로 정한다."
+        },
+        {
+          "element": "사영 허용의 법률유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공공필요에 의하여 사영을 특허하거나 또는 그 특허를 취소함은 법률의 정하는 바에 의하여 행한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "其經法律許可者，得由國民經營之",
+          "commonality": "공영 원칙의 예외로 사인의 경영을 허용하되 그 근거를 법률에 두는 점이 같다.",
+          "difference": "후보는 법률 '허가'에 의한 국민 경영만 정하고 허가의 취소나 '공공필요'라는 요건을 규정하지 않는 반면, 대상은 특허와 그 취소 모두를 법률유보 아래 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_028",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조약의 국내법 우위와 폐기 통고 절차에 관한 규정으로, 통상조약 언급이 있으나 대외무역의 국가 통제라는 대상 요소와는 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_011",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주 공과금의 허용성과 징수방식에 관한 제국 입법원칙 규정으로, 조세·수출장려금 문제를 다룰 뿐 기업의 국영·공영이나 사영 특허와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_123",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공영 원칙 + '特許'에 의한 사영 허용 + 법률에 의한 공영 전환이라는 세 요소가 대상 조문의 '국영 또는 공영', '사영을 특허', '법률의 정하는 바에 의하여'와 어휘·문형 모두에서 밀접히 대응한다.",
+      "evidence": [
+        {
+          "element": "공익·독점 기업의 국가 공영 원칙",
+          "target_field": "original_text",
+          "target_quote": "公共性을 가진 企業은 國營 또는 公營으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公用事業及其他有獨占性之企業，以國家公營爲原則",
+          "commonality": "공용·독점성 기업을 국가가 공영한다는 원칙을 정하는 점과 '企業·公營'이라는 용어가 공통된다.",
+          "difference": "후보는 '원칙'으로 규정하여 예외를 전제하나 대상은 열거된 업종에 대해 '한다'는 강행 규정이며, 대상은 운수·통신·금융 등 구체적 업종을 열거한다."
+        },
+        {
+          "element": "사영의 특허",
+          "target_field": "original_text",
+          "target_quote": "公共必要에 依하여 私營을 特許하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "但因必要，得特許國民私營之",
+          "commonality": "'特許'라는 동일 용어로 예외적 사영을 허용하는 구조가 일치한다.",
+          "difference": "후보는 특허 요건을 '必要'로, 특허 상대방을 '國民'으로 명시하는 반면, 대상은 '公共必要'를 요건으로 하고 상대방을 특정하지 않는다."
+        },
+        {
+          "element": "특허의 취소·회수와 법률유보",
+          "target_field": "workbook_text_ko",
+          "target_quote": "그 특허를 취소함은 법률의 정하는 바에 의하여 행한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "並得依法律收歸公營，但應予以適當之補償",
+          "commonality": "일단 허용된 사영을 법률에 따라 종료시켜 공영으로 되돌릴 수 있게 하는 점이 공통된다.",
+          "difference": "후보는 국방상 긴급수요라는 요건과 적당한 보상 의무를 두고 '收歸公營'이라는 효과를 정하는 반면, 대상은 요건·보상을 규정하지 않고 '특허의 취소'라는 형식으로 법률유보만 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "형사절차 보장과 정당보상 수용에 관한 규정으로 대상 조문의 기업 경영형태·대외무역 통제와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 명령권과 명령에 의한 법률변경 금지를 정한 규정으로, '공공'이라는 어휘 외에 대상 조문과 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "운수·통신·금융·보험·전기·수리·수도·까스라는 구체적 업종의 열거 방식",
+    "경영주체로 국영과 나란히 '공영'(지방 등 공공단체 경영)을 병기한 점",
+    "특허 요건으로 '공공필요'를 명시한 부분"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 실제 참조·계수 여부의 역사적 확정은 제공 본문만으로 불가능하다.",
+    "중국어·독일어·영어 후보의 의미 판단에 일부 제공 번역문을 참고했으나, 인용은 원문에서 하였다.",
+    "후보 목록에 없는 다른 문헌의 영향 가능성은 배제할 수 없다."
+  ],
+  "short_answer": "대상 조문과 가장 구체적으로 대응하는 것은 ROC1936 五五憲草 제123조로, '공용·독점성 기업의 국가 공영 원칙 → 필요시 私營 特許 → 법률에 의한 공영 전환'이라는 3단 구조와 '特許·公營'이라는 어휘가 대상 제1·2문과 일치한다. 중화민국헌법 제144조도 공영 원칙과 법률에 의한 국민 경영 허용이라는 두 요소에서 대응하나 특허 취소 규정이 없다. 조선임시약헌 제4조는 주요 공장·광산의 '國營 또는 國家 管理'와 통제관리 표현에서 부분적으로 겹치며, 북조선 헌법안 제55조 제2호는 '對外貿易의 管理'라는 점에서 대상 제3문에 한정해 대응한다. 다만 후보들은 요건(공공필요·국방상 긴급수요), 보상 유무, 규정 형식(강령·내각 임무·강행규범)에서 차이가 있고, 운수·통신·금융 등 업종 열거와 '공영' 병기는 어느 후보로도 충분히 설명되지 않는다. 이상은 문언상 대응일 뿐 역사적 참조의 확정은 아니다."
+}

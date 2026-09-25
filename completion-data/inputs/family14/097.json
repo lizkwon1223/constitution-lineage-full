@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_097",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "97",
+    "original_text": "地方自治團體의 組織과 運營에 關한 事項은 法律로써 定한다.\n地方自治團體에는 各各 議會를 둔다.\n地方議會의 組織, 權限과 議員의 選擧는 法律로써 定한다.",
+    "workbook_text_ko": "지방자치단체의 조직과 운영에 관한 사항은 법률로써 정한다.\n지방자치단체에는 각각 의회를 둔다.\n지방의회의 조직, 권한과 의원의 선거는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "PR1920_ORIGINAL_ART_071",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "71",
+      "original_text": "(1) Der Staat gliedert sich in Provinzen.\n(2) Die Gliederung der Provinzen in Kreise, Städte, Landgemeinden und andere Gemeindeverbände sowie die Verfassung, die Rechte und Pflichten der Gemeindeverbände werden durch Gesetz geregelt.",
+      "workbook_text_ko": "(1) 국가는 도로 구분한다.\n(2) 도를 군·시·농촌 자치단체 및 그 밖의 자치단체 연합체로 구분하는 것과 자치단체 연합체의 조직·권리·의무는 법률로 정한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "1",
+      "original_text": "Le pouvoir législatif s'exerce par deux assemblées : la Chambre des députés et le Sénat. - La Chambre des Députés est nommée par le suffrage universel, dans les conditions déterminées par la loi électorale. - La composition, le mode de nomination et les attributions du Sénat seront réglés par une loi spéciale.",
+      "workbook_text_ko": "입법권은 하원(Chambre des députés)과 상원(Sénat) 양원이 행사한다.\n하원은 선거법이 정한 조건에 따라 보통선거로 임명한다.\n상원의 구성ㆍ임명방법과 임무는 특별법으로 정한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_067",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "67",
+      "original_text": "各級人民委員會는 一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다.\n各級 人民委員會의 選擧는 따로 法令으로서 規定한다.",
+      "workbook_text_ko": "각급 인민위원회는 일반적·평등적·직접적 선거원칙에 의하여 비밀투표로서 선출한 대의원으로서 구성한다.\n각급 인민위원회의 선거는 따로 법령으로서 규정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_104",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "104",
+      "original_text": "凡事務有因地制宜之性質者，劃爲地方自治事項。\n地方自治事項，以法律定之。",
+      "workbook_text_ko": "각 지역의 사정에 맞추어 처리할 성질의 사무는 모두 지방자치사항으로 구분한다.\n지방자치사항은 법률로 정한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_XV",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "XV",
+      "original_text": "Section 1. The first election of the officers provided in this Constitution and the inauguration of the Government of the Commonwealth of the Philippines shall take place as provided in Public Act Numbered One hundred and twenty-seven of the Congress of the United States, approved March twenty-four, nineteen hundred and thirty-four.\nSec. 2. All laws of the Philippine Islands shall continue in force until the inauguration of the Commonwealth of the Philippines; thereafter, such laws shall remain operative, unless inconsistent with this Constitution, until amended, altered, modified, or repealed by the National Assembly, and all references in such laws to the Government or officials of the Philippine Islands shall be construed, in so far as applicable, to refer to the Government and corresponding officials under this Constitution.\nSec. 3. All courts existing at the time of the adoption of this Constitution shall continue and exercise their jurisdiction, until otherwise provided by law in accordance with this Constitution. and all cases, civil and criminal, pending in said courts, shall be heard, tried, and determined under the laws then in force.\nSec. 4. All officers and employees in the existing Government of the Philippine Islands shall continue in office until the National Assembly shall provide otherwise, but all officers whose appointments are by this Constitution vested in the President shall vacate their respective offices upon the appointment and qualification of their successors, if such appointment is made within a period of one year from the date of the inauguration of the Commonwealth of the Philippines.\nSec. 5. The Members of the National Assembly for the Mountain Province shall be elected as may be provided by law. The voters of municipalities and municipal districts formerly belonging to a special province and now forming part of regular provinces shall vote in the election for Members of the National Assembly in such districts as may be provided by law.\nSec. 6. The provisions of this Constitution, except those contained in this article and in Article V, and those which refer to the election and qualifications of officers to be elected under this Constitution, shall not take effect until the inauguration of the Commonwealth of the Philippines.",
+      "workbook_text_ko": "제1절. 이 헌법이 규정한 공직자의 최초 선거와 필리핀 코먼웰스 정부의 출범은 1934년 3월 24일 승인된 미국 연방의회 공법 제127호가 정하는 바에 따른다.\n제2절. 필리핀 군도의 모든 법률은 필리핀 코먼웰스 출범 때까지 계속 효력을 가진다. 그 후에도 이 헌법에 위배되지 않는 한 국민의회가 개정·변경·수정 또는 폐지할 때까지 효력을 유지한다. 그 법률에서 필리핀 군도 정부나 공무원을 언급한 것은 적용 가능한 범위에서 이 헌법에 따른 정부와 그에 상응하는 공무원을 가리키는 것으로 해석한다.\n제3절. 이 헌법 채택 당시 존재하는 모든 법원은 이 헌법에 따라 법률로 달리 정할 때까지 존속하며 관할권을 행사한다. 그 법원에 계속 중인 모든 민사·형사사건은 당시 시행되는 법률에 따라 심리·재판·결정한다.\n제4절. 현 필리핀 군도 정부의 모든 공무원과 직원은 국민의회가 달리 정할 때까지 재직한다. 다만, 이 헌법이 대통령에게 임명권을 부여한 직의 공무원은 필리핀 코먼웰스 출범일부터 1년 이내에 후임자가 임명되는 경우 그 후임자의 임명과 취임요건 구비로 퇴직한다.\n제5절. 마운틴주의 국민의회 의원은 법률이 정하는 바에 따라 선출한다. 종전에 특별주에 속하였다가 현재 일반주의 일부를 이루는 지방자치단체와 지방자치구의 유권자는 법률이 정하는 선거구에서 국민의회 의원 선거에 투표한다.\n제6절. 이 헌법의 규정 중 이 장과 제V장에 포함된 규정 및 이 헌법에 따라 선출할 공직자의 선거·자격에 관한 규정을 제외한 나머지는 필리핀 코먼웰스 출범 전에는 효력이 발생하지 않는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_092",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "92",
+      "original_text": "地方公共団体の組織及び運営に関する事項は、地方自治の本旨に基いて、法律でこれを定める。",
+      "workbook_text_ko": "지방공공단체의 조직 및 운영에 관한 사항은 지방자치의 본지에 따라 법률로 정한다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_119",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "119",
+      "original_text": "(1) Die Organe der Ortsgemeinde sind die Ortsgemeindevertretung und das Ortsgemeindeamt, die Organe der Gebietsgemeinde die Gebietsgemeindevertretung und das Gebietsgemeindeamt.\n(2) Die Wahlen in alle Vertretungen finden auf Grund des gleichen, unmittelbaren, geheimen und persönlichen Verhältniswahlrechtes aller Bundesbürger statt, die im Bereich der zu wählenden Vertretung ihren ordentlichen Wohnsitz haben. Die Erlassung der Wahlordnungen liegt der Landesgesetzgebung ob, in diesen Wahlordnungen dürfen die Bedingungen des aktiven und passiven Wahlrechtes nicht enger gezogen sein als in der Wahlordnung zum Landtag. Die Landesgesetzgebung kann jedoch bestimmen, daß das aktive und passive Wahlrecht in die Ortsgemeindevertretung Personen, die sich noch nicht ein Jahr in der Gemeinde aufhalten, dann nicht zukommt, wenn ihr Aufenthalt in der Gemeinde offensichtlich nur vorübergehend ist. Die Bestimmungen über die Wahlpflicht bei den Wahlen zum Landtag (Artikel 95, Absatz 1, letzter Satz) finden für die Wahlen in alle Gemeindevertretungen sinngemäß Anwendung. Die Wahlordnung kann bestimmen, daß die Wähler ihr Wahlrecht in Wahlkreisen ausüben, von denen jeder ein geschlossenes Gebiet umfassen muß. Eine Gliederung der Wählerschaft in andere Wahlkörper ist nicht zulässig. Für die Wahlen in die Gebietsgemeindevertretungen ist der Gerichtsbezirk Wahlkreis. Die Zahl der Abgeordneten ist auf die Wahlkreise im Verhältnis der Bürgerzahl zu verteilen.\n(3) In die Gebietsgemeindevertretungen sind nur Personen wählbar, die im Bereich der Gebietsgemeinde ihren ordentlichen Wohnsitz haben und zum Landtag wählbar sind.\n(4) Die Vertretungen können nach dem Grundsatz der Verhältniswahl aus ihrer Mitte für die einzelnen Zweige der Verwaltung besondere Verwaltungsausschüsse bestellen, die, soweit bestimmte Berufs- oder Interessentengruppen in Betracht kommen, auch noch durch die Heranziehung von Vertretern dieser Berufs- oder Interessentengruppen erweitert werden können.\n(5) Die Leiter der Gebietsgemeindeämter müssen rechtskundige Verwaltungsbeamte sein.",
+      "workbook_text_ko": "(1) 기초자치단체의 기관은 기초자치단체 대표기관과 기초자치단체 사무소이고, 지역자치단체의 기관은 지역자치단체 대표기관과 지역자치단체 사무소이다.\n(2) 모든 대표기관의 선거는 선출할 대표기관의 구역 안에 통상 거주지를 둔 모든 연방시민의 평등·직접·비밀 및 본인투표에 의한 비례대표선거권에 기초하여 실시한다. 선거규정의 제정은 주 입법의 소관이다. 그 규정은 선거권 및 피선거권의 조건을 주의회 선거규정보다 엄격하게 정할 수 없다. 다만 주 입법은 지방자치단체에 아직 1년간 체류하지 않은 사람의 체류가 명백히 일시적일 뿐인 경우 기초자치단체 대표기관의 선거권 및 피선거권을 인정하지 않도록 정할 수 있다. 주의회 선거의 투표의무에 관한 규정(제95조 제1항 마지막 문장)은 모든 지방자치단체 대표기관의 선거에 준용한다. 선거규정은 선거인이 각기 하나의 연속된 지역을 포함하여야 하는 선거구에서 선거권을 행사하도록 정할 수 있다. 선거권자를 그 밖의 선거인단으로 나누는 것은 허용되지 않는다. 지역자치단체 대표기관 선거에서는 사법구가 선거구가 된다. 의원 수는 시민 수에 비례하여 각 선거구에 배분하여야 한다.\n(3) 지역자치단체 대표기관의 피선거권은 해당 지역자치단체 안에 통상 거주지를 두고 주의회 피선거권을 가진 사람에게만 있다.\n(4) 대표기관은 비례대표선거 원칙에 따라 구성원 중에서 행정의 각 분야를 위한 특별행정위원회를 선임할 수 있다. 특정 직업집단 또는 이해관계 집단이 관계되는 경우에는 그 집단의 대표를 추가하여 위원회를 확대할 수도 있다.\n(5) 지역자치단체 사무소장은 법률 지식을 갖춘 행정공무원이어야 한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XVII",
+      "original_text": "The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.\nWhen vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.\nThis amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.",
+      "workbook_text_ko": "합중국의 상원은 각 주에서 2명씩 그 주의 주민에 의하\n여 선출되고 6년의 임기를 가진 상원의원으로 구성된다.\n각 상원의원은 1표의 투표권을 가진다. 각 주의 선거인\n은 주의회 중 의원수가 많은 원(院)의 선거인에게 요구되는\n자격을 가져야 한다.\n상원에서 어느 주의 의원에 결원이 생긴 때에는 그 주의\n행정부는 결원을 보충하기 위하여 선거 명령을 발해야\n한다. 다만, 주민이 주 의회가 정하는 바에 의한 선거에\n의하여 결원을 보충할 때까지 주의회는 그 주의 행정부\n에게 임시로 상원의원을 임명하는 권한을 부여할 수\n있다.\n이 수정조항은 이 헌법의 일부로서 효력을 발생하기 이\n전에 선출된 상원의원의 선거 또는 임기에 영향을 주는\n것으로 해석되지 않는다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_072",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "72",
+      "original_text": "国家ノ歳出歳入ノ決算ハ会計検査院之ヲ検査確定シ政府ハ其ノ検査報告ト倶ニ之ヲ帝国議会ニ提出スヘシ\n２　会計検査院ノ組織及職権ハ法律ヲ以テ之ヲ定ム",
+      "workbook_text_ko": "국가의 세출·세입 결산은 회계검사원이 검사하여 확정하고, 정부는 그 검사보고와 함께 제국의회에 제출하여야 한다.\n② 회계검사원의 조직과 직권은 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_112",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "112",
+      "original_text": "省得召集省民代表大會，依據省縣自治通則，制定省自治法，但不得與憲法牴觸。\n省民代表大會之組織及選舉，以法律定之。",
+      "workbook_text_ko": "省은 省民 代表大會를 召集하고 省縣自治通則에 依據하여 省自治法을 制定할 수 있다. 但 憲法에 抵觸되는 規定은 定할 수 없다.\n  省民代表大會의 組織과 選擧에 關하여는 法律로써 定한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_017",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "17",
+      "original_text": "Jedes Land muß eine freistaatliche Verfassung haben. Die Volksvertretung muß in allgemeiner, gleicher, unmittelbarer und geheimer Wahl von allen reichsdeutschen Männern und Frauen nach den Grundsätzen der Verhältniswahl gewählt werden. Die Landesregierung bedarf des Vertrauens der Volksvertretung.\nDie Grundsätze für die Wahlen zur Volksvertretung gelten auch für die Gemeindewahlen. Jedoch kann durch Landesgesetz die Wahlberechtigung von der Dauer des Aufenthalts in der Gemeinde bis zu einem Jahre abhängig gemacht werden.",
+      "workbook_text_ko": "모든 주는 자유주(공화제) 헌법을 갖추어야 한다. 국민대표는 독일제국 국적의 모든 남성과 여성에 의하여 보통ᆞ평등ᆞ직접ᆞ비밀선거로 비례선거의 원칙에 따라 선출되어야 한다. 주정부는 국민대표의 신임을 필요로 한다.\n국민대표 선출에 적용되는 원칙은 주 자치단체선거에도 적용된다. 단, 주법률로 최장 1년의 자치단체 거주기간을 선거권의 요건으로 정할 수 있다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_077",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "77",
+      "original_text": "Dans chaque territoire est instituée une assemblée élue. Le régime électoral, la composition et la compétence de cette assemblée sont déterminés par la loi.",
+      "workbook_text_ko": "각 영토에 선거로 선출하는 하나의 의회를 설치한다. 이 의회의 선거\n제도ㆍ구성과 권한은 법률로 정한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_105",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "105",
+      "original_text": "Die Vertretung und Verwaltung der Gemeinden, Kreise, Bezirke und Provinzen des preußischen Staats wird durch besondere Gesetze unter Festhaltung folgender Grundsätze näher bestimmt:\n1) Ueber die innern und besondern Angelegenheiten der Provinzen, Bezirke, Kreise und Gemeinden beschließen aus gewählten Vertretern bestehende Versammlungen, deren Beschlüsse durch die Vorsteher der Provinzen, Bezirke, Kreise und Gemeinden ausgeführt werden.\nDas Gesetz wird die Fälle bestimmen, in welchen die Beschlüsse dieser Vertretungen der Genehmigung einer höheren Vertretung oder der Staatsregierung unterworfen sind.\n2) Die Vorsteher der Provinzen, Bezirke und Kreise werden von dem Könige ernannt.\nUeber die Betheiligung des Staats bei der Anstellung der Gemeindevorsteher und über die Ausübung des den Gemeinden zustehenden Wahlrechts wird die Gemeindeordnung das Nähere bestimmen.\n3) Den Gemeinden insbesondere steht die selbstständige Verwaltung ihrer Gemeindeangelegenheiten unter gesetzlich geordneter Oberaufsicht des Staats zu.\nUeber die Betheiligung der Gemeinden bei Verwaltung der Ortspolizei bestimmt das Gesetz.\nZur Aufrechthaltung der Ordnung kann nach näherer Bestimmung des Gesetzes durch Gemeindebeschluß eine Gemeinde-Schutz- oder Bürgerwehr errichtet werden.\n4) Die Berathungen der Provinzial-, Kreis- und Gemeindevertretungen sind öffentlich. Die Ausnahmen bestimmt das Gesetz. Ueber die Einnahmen und Ausgaben muß wenigstens jährlich ein Bericht veröffentlicht werden.",
+      "workbook_text_ko": "프로이센국 지방(게마인데,\n크라이스, 베치르크, 프로빈츠)의 의\n회와 행정에 대한 자세한 내용은 특\n별법을 통해 아래의 기본원칙을 견\n지하면서 정한다 :\n1. 프로빈츠, 베치르크, 크라이스,\n게마인데의 내부사무와 특별사무는\n선출된 지방의원으로 구성되는 의회가\n결정하고, 그 결정은 각 지방의 장이\n집행한다.\n법률은 그 의회의 결정이 상급\n지방의회 혹은 국가정부의 허가를 얻어\n야 하는 경우를 정한다.\n2. 프로빈츠, 베치르크, 크라이스의\n장은 국왕이 임명한다.\n게마인데의 장을 임명하는 데\n있어 국가의 관여에 관한 사항과 게마\n인데에 속하는 선거권의 행사에 관한\n사항은 게마인데 조례가 상세하게\n정한다.\n3. 게마인데 사무의 자치행정권\n은 법률이 정한 국가의 감독하에 특\n별히 게마인데에 속한다.\n지역경찰행정에 대한 게마인데의\n관여에 관한 사항은 법률로 정한다.\n질서유지를 위하여, 보다 상세한\n법률의 규정에 따라 내려진 게마인\n데의 결정에 의해 게마인데보호대\n혹은 자경단(自警團)이 설립될 수 있다.\n4. 프로빈츠, 크라이스, 게마인\n데 의회의 회의는 공개된다. 그 예외\n는 법률로 정한다. 수입과 지출에 대\n해서는 적어도 1년 단위로 보고서가\n공표되어야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_040",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "40",
+      "original_text": "地方自治團體의 區域組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "지방자치단체의 구역·조직 및 권한은 법률로써 정함."
+    }
+  ]
+}

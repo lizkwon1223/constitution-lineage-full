@@ -1,0 +1,87 @@
+{
+  "article": 95,
+  "reviewed_at": "2026-09-22T16:30:56.694331+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "f7d176c821568e3f3b6b254c2f518faa921506019be45f62f70139bde20e0380",
+  "input_sha256": "faa4bed5f873f9ba7569ceb2afdbf41293e3d6d33cc2a9dbb1ba3429b5b6a790",
+  "responses": [
+    {
+      "job_id": "095_a8cae53a03e7_r1",
+      "repeat": 1,
+      "sha256": "4815f03df28283417e086c7510d1e23a4a96940b6eb3d50ad93eb6eb435e3959",
+      "assessment": "일본 1946년의 전체 구조 대응과 중화민국의 부분 대응을 잘 포착함. 요약에서 일본 두 판본의 시간 요소를 혼합함."
+    },
+    {
+      "job_id": "095_a8cae53a03e7_r2",
+      "repeat": 2,
+      "sha256": "c3096c88da0e9a138f35ba628e9aa18bf7d592fd8a19b0a3482420022a0b32d1",
+      "assessment": "일본과 약헌의 문형 대조는 정확함. 중화민국·바이마르·필리핀의 부분 대응 배제와 기관 독립성 추론을 보정해야 함."
+    },
+    {
+      "job_id": "095_a8cae53a03e7_r3",
+      "repeat": 3,
+      "sha256": "dc6c4f8ab3f46a3bb6fd1bbb3e9f80b49d045ac1cde5a0bae54f1c0a09ecd58b",
+      "assessment": "세 요소의 대응은 적절함. 일본 두 조문 모두 검사확정 권한을 둔다는 설명은 1946년 원문과 다름."
+    }
+  ],
+  "synthesis": "일본 1946년 제90조는 수입지출 결산의 매년 검사, 검사보고 첨부 차년도 국회 제출, 검사기관 조직·권한 법정에 모두 대응함. 일본 1889년 제72조는 같은 기본 절차를 두지만 매년·차년도 문구가 없고 검사확정을 명시함. 약헌 제54조와 프로이센 제68조는 검사·보고 첨부 제출에, 중화민국 제105조는 결산 심사 및 심사보고의 입법원 제출에 부분 대응함. 바이마르 제86조의 차기 회계연도 결산 제출과 필리핀 제11조의 세입·지출 감사 및 연차보고도 보완 비교 대상임. 대상 조문만으로 심계원의 정부 외부 독립기관 지위나 확정 권한의 부재까지 확정하지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "type": "cross_candidate_conflation",
+      "finding": "요약에서 일본 1889년 조문에도 매년 검사 구조가 있는 것처럼 두 판본을 묶음. 해당 시간 문구는 1946년 조문에 있음.",
+      "action": "판본별 매년·차년도 및 확정 문구를 분리함.",
+      "candidate_id": "JP1889_ORIGINAL_ART_072",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "cross_candidate_conflation",
+      "finding": "미설명 요소에서 일본 조문들에 있던 검사확정 권한을 뺐다고 하나 1946년 제90조에도 확정 문구가 없음.",
+      "action": "검사확정은 1889년 조문과의 차이로 한정함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "unsupported_institutional_status",
+      "finding": "대상과 프로이센·약헌의 심사기관을 정부 외부의 독립기관으로 단정함. 제공 조문은 검사 주체를 정할 뿐 소속·독립성을 명시하지 않음.",
+      "action": "별도 검사 주체라는 확인 가능한 수준으로 표현함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "바이마르의 차기 회계연도 결산 제출과 필리핀의 세입·지출 감사·연차보고를 다른 요소 부재로 배제함.",
+      "action": "각 요소의 직접 부분 대응과 제출 주체·부수 규정을 구분함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "중화민국의 결산 심사·보고 제출을 제출 주체와 기한 차이 때문에 일반 유사성으로만 처리함.",
+      "action": "검사·보고의 대응을 인정하고 주체·기한 차이를 병기함.",
+      "candidate_id": "ROC1946_PROM1947_ART_105",
+      "severity": "material"
+    }
+  ],
+  "limits": []
+}

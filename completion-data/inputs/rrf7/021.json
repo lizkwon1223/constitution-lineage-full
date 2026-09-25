@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_021",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "21",
+    "original_text": "모든 國民은 國家 各機關에 對하여 文書로써 請願을 할 權利가 있다.\n請願에 對하여 國家는 審査할 義務를 진다.",
+    "workbook_text_ko": "모든 국민은 국가 각기관에 대하여 문서로써 청원을 할 권리가 있다.\n청원에 대하여 국가는 심사할 의무를 진다."
+  },
+  "candidates": [
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_025",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "25",
+      "original_text": "公民은 主權機關에 請願 또는 申訴를 提出할 수 있다.\n公民은 主權機關 公務員의 職務上 非法的 行爲에 對하여 申訴할 수 있으며 그 結果로 입은 損害에 對하여 賠償을 請求할 수 있다.",
+      "workbook_text_ko": "공민은 주권기관에 청원 또는 신소를 제출할 수 있다.\n공민은 주권기관 공무원의 직무상 비법적 행위에 대하여 신소할 수 있으며 그 결과로 입은 손해에 대하여 배상을 청구할 수 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_023",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "23",
+      "original_text": "人民有依法律服公務之義務。",
+      "workbook_text_ko": "인민은 법률에 따라 공무에 복무할 의무를 진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_018",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "18",
+      "original_text": "人民有依法律請願訴願及訴訟之權。",
+      "workbook_text_ko": "인민은 법률에 따라 청원·소원 및 소송을 제기할 권리를 가진다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_126",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "126",
+      "original_text": "Jeder Deutsche hat das Recht, sich schriftlich mit Bitten oder Beschwerden an die zuständige Behörde oder an die Volksvertretung zu wenden. Dieses Recht kann sowohl von einzelnen als auch von mehreren gemeinsam ausgeübt werden.",
+      "workbook_text_ko": "모든 독일인은 관할관청이나 국민대표기관인 의회에 서면으로 청원 또는 소원할 수 있는 권리를 가진다. 당해 권리는 개인이나 다수가 공동으로 행사할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_025",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "25",
+      "original_text": "すべて国民は、健康で文化的な最低限度の生活を営む権利を有する。\n２　国は、すべての生活部面について、社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない。",
+      "workbook_text_ko": "①모든 국민은 건강하고 문화적인 최저수준의 생활을 영위할 권리를 가진다.\n②국가는 모든 생활부문에 있어서 사회복지, 사회보장, 공공위생의 향상 및 증진을 위하여 노력하여야 한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_007",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "7",
+      "original_text": "朝鮮國民은 國家機關에 對하여 左記 各項의 要求權을 享有함\n一 立法議院에 請願하는 權利\n二 政府主席 及 行政機關에 許願하는 權利\n三 違法行政處分에 對한 裁判을 要求하는 權利\n四 法院에 提訴하며 法官의 審判을 받는 權利",
+      "workbook_text_ko": "조선 국민은 국가기관에 대하여 아래 각 항의 요구권을 향유함.\n1. 입법의원에 청원하는 권리\n2. 정부주석 및 행정기관에 허원하는 권리\n3. 위법 행정처분에 대한 재판을 요구하는 권리\n4. 법원에 제소하며 법관의 심판을 받는 권리"
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_026",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "26",
+      "original_text": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。\n２　すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+      "workbook_text_ko": "①모든 국민은 법률이 정하는 바에 의하여 그 능력에 따라 동등하게 교육을 받을 권리를 가진다.\n②모든 국민은 법률이 정하는 바에 따라 자신이 보호하는 자녀에게 보통교육을 받게 할 의무를 진다.\n의무 교육은 무상으로 한다."
+    }
+  ]
+}

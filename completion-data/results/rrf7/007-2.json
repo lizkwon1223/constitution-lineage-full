@@ -1,0 +1,133 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_007",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'일반적으로 승인된 국제법규'라는 문형과 그것이 국내(연방)법의 지위·효력을 갖는다는 규율이 대상 제1문 후단과 구체적으로 대응한다. 다만 조약(비준공포) 부분과 외국인 지위 부분은 대응이 없다.",
+      "evidence": [
+        {
+          "element": "일반적으로 승인된 국제법규의 지위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "일반적으로 승인된 국제법규는 국내법과 동일한 효력을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteile des Bundesrechtes.",
+          "commonality": "일반적으로 승인된 국제법 규칙이 별도 입법 없이 국내법 질서 내에서 효력을 가진다는 점",
+          "difference": "후보는 '연방법의 구성부분'이라는 편입 방식이고 대상은 '국내법과 동일한 효력'이라는 효력 등가 표현이며, 후보에는 비준공포 조약에 관한 규율이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_027",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약의 비준을 다루나 초점은 법률에 의한 비준을 요하는 조약의 유형 열거와 영토 변경 시 주민 동의로, 대상의 국내법적 효력이나 외국인 지위 보장과 구체적 규율 대응이 없다. '외국에 있는 프랑스인'은 외국인의 법적 지위와 주체가 반대이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_098",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'체결(비준)한 조약'과 '확립된 국제법규'를 병렬로 묶어 규율하는 구성이 대상 제1문의 이중 열거와 대응한다. 다만 효과가 '성실한 준수 의무'여서 '국내법과 동일한 효력'과는 다르다.",
+      "evidence": [
+        {
+          "element": "조약과 국제법규의 병렬 열거",
+          "target_field": "original_text",
+          "target_quote": "批准公布된 國際條約과 一般的으로 承認된 國際法規는",
+          "candidate_field": "original_text",
+          "candidate_quote": "日本国が締結した条約及び確立された国際法規は",
+          "commonality": "국가가 성립시킨 조약과 일반적으로 확립·승인된 국제법규를 한 문장에서 병렬로 규율하는 문형",
+          "difference": "수식어가 '비준공포'와 '체결', '일반적으로 승인된'과 '확립된'으로 다르다"
+        },
+        {
+          "element": "국제규범의 효과",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국내법과 동일한 효력을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "これを誠実に遵守することを必要とする",
+          "commonality": "국제규범이 국내 법질서에서 존중·적용되어야 함을 헌법 차원에서 선언",
+          "difference": "대상은 국내법과의 효력 등가라는 법적 지위 규정이고, 후보는 준수 의무 부과에 그쳐 효력 순위를 정하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_028",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'적법하게 비준되고 공포된' 조약이라는 요건 표현과 국내법과의 효력 관계를 규정하는 점이 대상 제1문 전단과 대응한다. 다만 후보는 국내법 우월과 폐기·수정 절차(통고·국민의회 허가)를 규율하는 점에서 범위가 다르다.",
+      "evidence": [
+        {
+          "element": "조약의 비준·공포 요건",
+          "target_field": "original_text",
+          "target_quote": "批准公布된 國際條約",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les traités diplomatiques régulièrement ratifiés et publiés",
+          "commonality": "비준과 공포를 함께 갖춘 조약만을 대상으로 삼는 요건 설정",
+          "difference": "후보는 '외교조약'으로 한정하고 '적법하게(régulièrement)'라는 요건을 덧붙인다"
+        },
+        {
+          "element": "국내법과의 효력 관계",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국내법과 동일한 효력을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "ayant une autorité supérieure à celle des lois internes",
+          "commonality": "조약과 국내법률의 효력 관계를 헌법이 직접 정한다는 점",
+          "difference": "후보는 국내법률에 '우월'하는 권위를 부여하나 대상은 '동일한 효력'이며, 후보는 그 귀결로 폐기·수정·정지 절차 제한을 두는 반면 대상에는 그런 절차 규정이 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_009",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "문언이 개정판 후보와 동일하며, 일반적으로 승인된 국제법 규칙의 국내법적 효력이라는 대상 제1문 후단 요소와 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "일반적으로 승인된 국제법규의 국내법적 편입",
+          "target_field": "original_text",
+          "target_quote": "一般的으로 承認된 國際法規는 國內法과 同一한 效力을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die allgemein anerkannten Regeln des Völkerrechtes gelten als Bestandteile des Bundesrechtes.",
+          "commonality": "'일반적으로 승인된' 국제법 규범이 국내 법질서의 일부로서 효력을 갖는다는 선언",
+          "difference": "후보는 연방국가 구조를 전제로 '연방법의 구성부분'이라 하고, 조약의 효력과 외국인 지위에 관한 규정을 포함하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'적법하게 비준·공포된 조약은 법률로서의 효력을 가진다'는 구조가 대상 제1문의 '비준공포된 국제조약은 국내법과 동일한 효력을 가진다'와 요건·효과 양면에서 가장 근접한다. 다만 국내법률에 반하는 경우의 처리와 별도 입법 불요 규정은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "비준·공포된 조약의 국내법적 효력",
+          "target_field": "original_text",
+          "target_quote": "批准公布된 國際條約과",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les traités diplomatiques régulièrement ratifiés et publiés ont force de loi",
+          "commonality": "비준과 공포를 요건으로 하여 조약에 국내 법률과 같은 효력을 인정하는 요건-효과 구성",
+          "difference": "후보는 '외교조약'에 한정하고 프랑스 법률에 반하는 경우에도 효력을 가진다는 충돌 처리와 별도 시행입법 불요를 명시하나, 대상은 이러한 부가 규율 없이 효력 등가만 선언한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_031",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조약의 서명·비준 권한자와 신임장 수여 등 국가기관의 권한 배분 규정으로, 대상의 조약·국제법규의 국내적 효력이나 외국인 지위와는 규율 요소가 다르다. '비준'이라는 용어의 중복만 있다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "제2문의 외국인의 법적지위를 국제법과 국제조약의 범위 내에서 보장한다는 규율(보호 대상·보장 범위 설정)",
+    "'국내법과 동일한 효력'이라는 우월이 아닌 동등 효력 선택"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "오스트리아 두 후보는 제시 본문이 동일하여 어느 판본이 대응 원천인지 구별할 수 없다.",
+    "독일어·프랑스어 후보의 의미 파악에 제공된 번역문 이해가 일부 개입된다."
+  ],
+  "short_answer": "오스트리아 헌법 제9조(1920년판·개정판 모두)는 '일반적으로 승인된 국제법 규칙'이 국내(연방)법의 일부로 효력을 갖는다는 점에서 대상 제1문 후단과 구체적으로 대응한다. 프랑스 제4공화국헌법 제26조는 '적법하게 비준·공포된 조약이 법률로서의 효력을 가진다'는 요건-효과 구성에서, 제28조는 비준·공포 요건과 국내법과의 효력 관계 설정에서 대상 제1문 전단과 대응하나, 제28조는 국내법 '우월'과 폐기 절차를 규정하는 차이가 있다. 일본국헌법 제98조 제2항은 조약과 확립된 국제법규를 병렬로 규율하는 문형이 유사하지만 효과가 '성실한 준수 의무'에 그쳐 효력 등가 규정과는 다르다. 프랑스 제27조·제31조는 비준 대상 조약의 유형과 비준 권한자에 관한 것으로 대상의 규율 요소와 어긋난다. 외국인의 법적지위 보장을 다룬 제2문은 제시된 후보들로 설명되지 않는다."
+}

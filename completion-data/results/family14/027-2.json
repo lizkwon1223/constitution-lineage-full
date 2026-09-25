@@ -1,0 +1,227 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_027",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_131",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항의 배상책임 주체를 '국가 또는 공공단체'로 병기하는 문형과, 공무원 자신의 책임이 소멸되지 않는다는 유보(구상 유보)의 규율 구조가 구체적으로 대응한다. 다만 제1항의 수임자·파면청원 부분에는 대응이 없다.",
+      "evidence": [
+        {
+          "element": "배상책임의 주체(국가 또는 공공단체)",
+          "target_field": "original_text",
+          "target_quote": "損害를 받은 者는 國家 또는 公共團體에 對하여 賠償을 請求할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "so trifft die Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in deren Dienste der Beamte steht",
+          "commonality": "직무상 위법행위의 책임을 국가 또는 공공(자치)단체에 귀속시키는 이원적 주체 병기",
+          "difference": "대상은 피해자의 '배상청구권' 형태로 규정하나, 후보는 책임 귀속('원칙적으로')으로 서술하고 세부사항을 입법에 위임하며 통상소송의 길 배제 금지를 명시"
+        },
+        {
+          "element": "공무원 개인 책임의 유보",
+          "target_field": "original_text",
+          "target_quote": "但, 公務員 自身의 民事上이나 刑事上의 責任이 免除되는 것은 아니다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Rückgriff gegen den Beamten bleibt vorbehalten.",
+          "commonality": "국가·단체 책임과 별도로 공무원 개인에 대한 책임 추궁 가능성을 유보한다는 점",
+          "difference": "후보는 국가의 공무원에 대한 '구상'만 유보하는 데 반해, 대상은 공무원의 민사상·형사상 책임 불면제를 명시"
+        },
+        {
+          "element": "위법행위의 요건(직무상)",
+          "target_field": "original_text",
+          "target_quote": "公務員의 職務上 不法行爲로 因하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "Verletzt ein Beamter in Ausübung der ihm anvertrauten öffentlichen Gewalt die ihm einem Dritten gegenüber obliegende Amtspflicht",
+          "commonality": "직무 수행(권한 행사) 중의 위법·직무의무 위반을 요건으로 삼는 점",
+          "difference": "후보는 '제삼자에 대한 직무의무 위반'으로 요건을 구체화하나 대상은 '직무상 불법행위'로 포괄적으로 규정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공무원 면직을 다루지만 법정 사유에 의한 면직 제한(신분보장) 규정으로, 국민의 파면청원권이나 국가배상 책임과는 규율 방향이 다르다. 공통점은 '공무원' 주제뿐이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'책임을 진다'는 문구가 겹치나 주체는 장관·대통령이고 상대방은 양원(정치적 책임)이며, 배상청구나 파면청원 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_017",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항 전단과 청구권자·가해행위·배상 상대방(국가 또는 공공단체)의 요소가 거의 일대일로 대응하는 문형이다. 다만 법률유보 유무와 단서 부분은 다르다.",
+      "evidence": [
+        {
+          "element": "불법행위로 인한 손해의 국가·공공단체 배상청구권",
+          "target_field": "original_text",
+          "target_quote": "公務員의 職務上 不法行爲로 因하여 損害를 받은 者는 國家 또는 公共團體에 對하여 賠償을 請求할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる",
+          "commonality": "공무원의 불법행위로 손해를 받은 자가 국가 또는 공공단체에 배상을 청구할 수 있다는 구성요건·상대방·효과의 동일한 배열",
+          "difference": "후보는 '법률이 정하는 바에 따라'는 법률유보와 '누구든지'라는 주체를 두는 반면, 대상은 법률유보가 없고 '직무상'을 명시하며 공무원 개인 책임 불면제 단서를 추가"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 명령 발포권에 관한 규정으로 공무원 책임·배상청구와 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "청원권과 '공무원의 직무상 위법행위로 인한 손해의 배상청구'를 한 조문에 함께 배치한 구조가 대상 조문의 제1항 후단·제2항 배열과 대응한다. 다만 파면청원·국가/공공단체 상대방·개인책임 단서는 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "직무상 불법행위로 인한 손해배상 청구",
+          "target_field": "original_text",
+          "target_quote": "公務員의 職務上 不法行爲로 因하여 損害를 받은 者는",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 主權機關 公務員의 職務上 非法的 行爲에 對하여 申訴할 수 있으며 그 結果로 입은 損害에 對하여 賠償을 請求할 수 있다",
+          "commonality": "공무원의 '직무상' 위법(비법)행위와 그로 인한 손해에 대한 배상청구권을 규정하는 어구 구성",
+          "difference": "후보는 배상 상대방을 명시하지 않고 신소 제도와 결합되어 있으며 주체가 '공민'인 반면, 대상은 '국가 또는 공공단체'를 상대방으로 특정하고 공무원 개인 책임 불면제 단서를 둠"
+        },
+        {
+          "element": "청원권과의 결합 배치",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국민은 불법행위를 한 공무원의 파면을 청원할 권리가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 主權機關에 請願 또는 申訴를 提出할 수 있다",
+          "commonality": "국민(공민)의 청원권을 공무원 위법행위 구제 조항과 같은 조문에 함께 규정",
+          "difference": "후보의 청원·신소는 일반적 대상(주권기관)에 대한 것이고, 대상은 '불법행위를 한 공무원의 파면'이라는 특정 내용의 청원권으로 한정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공무 담당자 개인의 손해배상 책임과 연방·주·지방자치단체의 책임을 병렬로 규정하여, 국가·공공단체 배상책임과 공무원 개인 책임 불면제라는 대상 제2항의 두 요소에 대응한다.",
+      "evidence": [
+        {
+          "element": "국가·공공단체의 배상책임",
+          "target_field": "original_text",
+          "target_quote": "國家 또는 公共團體에 對하여 賠償을 請求할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Bund, die Länder oder die Gemeinden haften für die Rechtsverletzungen der von ihnen bestellten Personen.",
+          "commonality": "공무 담당자의 위법행위에 대해 국가와 지방(공공)단체가 책임진다는 규율",
+          "difference": "후보는 연방·주·지방자치단체를 열거하고 책임 귀속 형식으로 규정하며 세부는 연방법률에 위임, 대상은 피해자의 청구권 형식"
+        },
+        {
+          "element": "공무원 개인 책임의 존속",
+          "target_field": "workbook_text_ko",
+          "target_quote": "공무원 자신의 민사상이나 형사상의 책임이 면제되는 것은 아니다",
+          "candidate_field": "original_text",
+          "candidate_quote": "sind für jeden bei der Ausübung ihrer Tätigkeit durch vorsätzliche oder grobfahrlässige Rechtsverletzung wem immer zugefügten Schaden haftbar",
+          "commonality": "국가 책임과 별도로 공무 담당자 개인이 책임을 진다는 점을 명시",
+          "difference": "후보는 고의·중과실이라는 귀책요건을 두고 손해배상책임에 한정하나, 대상은 요건 없이 민사상·형사상 책임 불면제를 선언"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_097",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공무원의 위법행위에 대한 재판상 책임 추궁을 다루지만, 요건을 법률에 위임하고 상급관청 사전허가 금지를 정하는 절차 규정으로서 국가·공공단체 배상청구권이나 파면청원권과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_079",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "공무원의 면직 요건과 재산상 청구권의 사법구제를 정한 공무원 신분보장 규정으로, 국민이 공무원 파면을 청원한다는 대상 조문과 방향이 반대이며 구체 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_024",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공무원의 위법행위에 대한 형사·민사 책임과 피해자의 국가에 대한 배상청구권을 한 조문에 결합한 구조가 대상 제2항 본문 및 단서와 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "공무원 개인의 민사·형사 책임",
+          "target_field": "original_text",
+          "target_quote": "公務員 自身의 民事上이나 刑事上의 責任이 免除되는 것은 아니다",
+          "candidate_field": "original_text",
+          "candidate_quote": "除依法律受懲戒外，應負刑事及民事責任",
+          "commonality": "공무원의 위법행위에 대해 형사상·민사상 책임을 함께 명시하는 어구",
+          "difference": "후보는 징계 외에 형사·민사 책임을 '부담한다'는 적극적 의무 규정이고, 대상은 국가배상과의 관계에서 책임이 면제되지 않는다는 단서 형식"
+        },
+        {
+          "element": "피해자의 국가에 대한 배상청구",
+          "target_field": "original_text",
+          "target_quote": "損害를 받은 者는 國家 또는 公共團體에 對하여 賠償을 請求할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "被害人民就其所受損害，並得依法律向國家請求賠償",
+          "commonality": "피해자가 입은 손해에 대하여 국가에 배상을 청구할 수 있다는 청구권 규정",
+          "difference": "후보는 상대방을 '국가'로만 하고 '법률에 의하여'라는 유보를 두며 침해 대상을 자유·권리로 한정, 대상은 공공단체를 포함하고 법률유보가 없으며 '직무상 불법행위'를 요건으로 함"
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 권한·선출과 탄핵에 의한 면직을 정한 조문으로, 공무원 파면청원권이나 국가배상책임과 구체적 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국민의 청원권과 위법 행정처분에 대한 재판요구권을 열거하지만, 공무원 파면청원이나 국가·공공단체에 대한 손해배상청구라는 대상의 핵심 요소와는 대응이 일반적 수준에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "ROC1946 제24조와 동일 취지로, 공무원의 형사·민사 책임 명시와 피해 인민의 국가에 대한 배상청구권이 대상 제2항 본문·단서와 문형상 대응한다.",
+      "evidence": [
+        {
+          "element": "공무원 개인의 민사·형사 책임",
+          "target_field": "original_text",
+          "target_quote": "公務員 自身의 民事上이나 刑事上의 責任이 免除되는 것은 아니다",
+          "candidate_field": "original_text",
+          "candidate_quote": "除依法律懲戒外，應負刑事及民事責任",
+          "commonality": "위법행위를 한 공무원의 형사상·민사상 책임을 병기하는 규율",
+          "difference": "후보는 징계와 병행하는 책임 부담 의무를 정하고, 대상은 국가배상이 이루어져도 책임이 면제되지 않는다는 단서로 배치"
+        },
+        {
+          "element": "국가에 대한 배상청구",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국가 또는 공공단체에 대하여 배상을 청구할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "得依法律向國家請求賠償",
+          "commonality": "피해자가 국가에 대하여 손해배상을 청구할 수 있도록 하는 권리 규정",
+          "difference": "후보는 '법률에 따라'라는 유보와 국가 단일 상대방, 대상은 법률유보 없이 국가와 공공단체를 상대방으로 규정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_088",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가공무원 활동의 조정과 지방공공단체 행정감독을 정한 조직 규정으로, 대상의 책임·배상·청원 요소와 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'공무원은 주권을 가진 국민의 수임자'라는 공무원 지위 규정과 '언제든지 국민에 대하여 책임을 진다'는 대국민 책임 선언",
+    "불법행위를 한 공무원의 '파면'을 청원할 권리라는 특정 내용의 청원권(후보들에는 면직 요건·일반 청원권만 존재)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했고, 실제 참조·기초 과정의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "독일어·프랑스어·일본어 후보의 일부 판단은 제시된 원문 구조에 근거하며, 번역문 대조에 의존한 부분이 있을 수 있다."
+  ],
+  "short_answer": "대상 제2항(국가·공공단체에 대한 배상청구와 공무원 개인 책임 불면제)에 대해서는 바이마르 제131조, 일본국헌법 제17조, 오스트리아 제23조, 중화민국 1946년 제24조 및 1936년 초안 제26조, 북한 1948년 초안 제25조가 구체적 요소 대응을 보인다. 특히 '국가 또는 공공단체'라는 이원적 상대방 병기는 바이마르 제131조와 일본국헌법 제17조에, 공무원의 민사·형사 책임 존속 명시는 중화민국 조문과 오스트리아 제23조에 대응한다. 차이로는 후보들이 대체로 법률유보(일본·중화민국)나 입법 위임(바이마르·오스트리아)을 두고, 중화민국은 상대방을 국가로만 한정하며 침해 대상을 자유·권리로 제한한다는 점이 있다. 반면 '주권을 가진 국민의 수임자'라는 공무원 지위 선언과 '불법행위 공무원의 파면 청원권'은 제시된 후보에서 대응 문형을 찾기 어렵고, 북한 초안의 청원·신소 규정은 배치상 유사하나 파면청원과는 내용이 다르다. 이상은 문언 대응에 관한 판단이며 역사적 참조 여부의 확정은 아니다."
+}

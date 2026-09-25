@@ -1,0 +1,47 @@
+{
+  "article": 23,
+  "reviewed_at": "2026-09-22T15:23:54.076834+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "c2ddd270c010d84bbad55263c793110798ffb197990272fdd197392fe12762fb",
+  "input_sha256": "b9c5e9387fc1cfbd9e0008cd93de6a46f652d88feaca09a6929accb73fbf9fd6",
+  "responses": [
+    {
+      "job_id": "023_3f5b78b6d01b_r1",
+      "repeat": 1,
+      "sha256": "07400d4927b5fd7c7e7f4968aee08e64e9534a4e94f3291675a0d75e24bd9293",
+      "assessment": "일본 제39조의 두 보장, 미국 수정 제5조의 이중위험 금지, 필리핀의 소급입법 및 이중위험 금지라는 핵심 대응은 타당함. 처벌·형사책임·위험이라는 표현 차이도 정확히 포착함. 다만 대상은 두 문장이 아니라 하나의 문장에 두 금지를 연결한 형식임."
+    },
+    {
+      "job_id": "023_3f5b78b6d01b_r2",
+      "repeat": 2,
+      "sha256": "78d5a3c63d84ffe5f834cd530c0eacf64fddbfe676d2bea731a831885f0fcbaf",
+      "assessment": "행위시 기준과 동일 범죄 기준을 분리하고 필리핀의 입법 금지 형식을 구별한 설명은 타당함. 대상의 문장 수를 두 문장으로 표현한 부분은 수정해야 함. 권리 주체의 문언 차이만으로 외국인의 실제 보호 여부까지 확정하지 않아야 함."
+    },
+    {
+      "job_id": "023_3f5b78b6d01b_r3",
+      "repeat": 3,
+      "sha256": "027575cbec8669523100f4927195bd90713e0725dda489356ba980f070bb1e1e",
+      "assessment": "세 선택 후보의 대응 범위 및 다른 후보의 형사절차·의원 면책과의 차이를 대체로 정확히 설명함. 대상과 일본 조문의 두 문장 구조가 같다는 설명은 두 규율의 병렬이라는 표현으로 보정함."
+    }
+  ],
+  "synthesis": "제헌헌법 제23조는 행위시 법률상 범죄가 아니었던 행위에 대한 소추 금지와 동일 범죄에 대한 이중처벌 금지를 한 문장에 병렬함. 일본 제39조는 실행 당시 적법한 행위와 이미 무죄로 된 행위에 대한 형사책임 배제, 동일 범죄에 대한 거듭된 형사책임 배제를 두 문장에 규정하므로 요소와 연결 표현이 밀접하게 대응함. 미국 수정 제5조와 필리핀 제III조 제1절 (20)은 동일 범죄에 대한 이중위험 금지와 대응함. 필리핀 (11)은 소급처벌법 제정 금지라는 방식으로 전단과 연결되며, (20)은 법률·조례의 동일 행위에 대한 유·무죄 판단 이후의 소추 차단도 명시함. 처벌, 형사책임, 위험, 소추라는 효과 표현은 구별해야 하며 이 문언만으로 각국 보장 범위의 우열을 확정할 수 없음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_039",
+      "type": "sentence_structure",
+      "severity": "minor",
+      "finding": "대상과 일본 후보가 모두 두 문장 구조라고 설명함. 대상은 아니하며 또로 연결되는 하나의 문장임.",
+      "action": "두 금지의 병렬 구성 및 또/又라는 연결 표현의 대응으로 정정함."
+    }
+  ],
+  "limits": [
+    "모든 국민과 何人も·person이라는 주체 표현을 구별하되 외국인에 대한 실제 적용 여부를 해당 문언만으로 확정하지 않음.",
+    "이중처벌과 이중위험을 같은 용어로 치환하지 않음."
+  ]
+}

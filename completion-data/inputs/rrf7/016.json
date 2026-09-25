@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_016",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "16",
+    "original_text": "모든 國民은 均等하게 敎育을 받을 權利가 있다. 적어도 初等敎育은 義務的이며 無償으로 한다.\n모든 敎育機關은 國家의 監督을 받으며 敎育制度는 法律로써 定한다.",
+    "workbook_text_ko": "모든 국민은 균등하게 교육을 받을 권리가 있다. 적어도 초등교육은 의무적이며 무상으로 한다.\n모든 교육기관은 국가의 감독을 받으며 교육제도는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_144",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "144",
+      "original_text": "Das gesamte Schulwesen steht unter der Aufsicht des Staates; er kann die Gemeinden daran beteiligen. Die Schulaufsicht wird durch hauptamtlich tätige, fachmännisch vorgebildete Beamte ausgeübt.",
+      "workbook_text_ko": "모든 학교제도는 국가의 감독을 받는다.\n국가는 시･읍･면으로 하여금 감독에 참여시킬 수 있다. 학교의 감독은 그를 주직으로 하고 전문가적 예비교육을 이수한 공무원이 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_021",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "21",
+      "original_text": "人民有受國民教育之權利與義務。",
+      "workbook_text_ko": "人民은 國民敎育을 받는 權利와 義務가 있다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_133",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "133",
+      "original_text": "全國公私立之教育機關一律受國家之監督，並負推行國家所定教育政策之義務。",
+      "workbook_text_ko": "전국의 공립·사립 교육기관은 모두 국가의 감독을 받으며, 국가가 정한 교육정책을 추진할 의무를 진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_160",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "160",
+      "original_text": "六歲至十二歲之學齡兒童，一律受基本教育，免納學費。其貧苦者，由政府供給書籍。\n已逾學齡未受基本教育之國民，一律受補習教育，免納學費，其書籍亦由政府供給。",
+      "workbook_text_ko": "6歲부터 12歲까지의 學齡兒童은 一律로 基本敎育을 받으며 學費는 免除되고 貧困한 者는 政府로부터 書籍을 받는다.\n  學齡을 超過하고도 基本敎育을 받지 못한 國民은 一律로 補習敎育을 받으며 學費는 免除되고 그 書籍도 政府로부터 供給된다"
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_159",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "159",
+      "original_text": "國民受教育之機會一律平等。",
+      "workbook_text_ko": "國民은 均等하게 敎育을 받는 機會를 가진다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_018",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "18",
+      "original_text": "公民은 敎育을 받을 權利를 가진다.\n初等敎育은 全般的으로 義務制다.\n國家는 貧寒한 公民의 子女에 對하여 無料로서 敎育을 받도록 保障한다.\n專門學校 및 大學의 大多數의 學生에 對하여 國費制를 實施한다.\n敎育用語는 國語로 한다.",
+      "workbook_text_ko": "공민은 교육을 받을 권리를 가진다.\n초등교육은 전반적으로 의무제다.\n국가는 빈한한 공민의 자녀에 대하여 무료로서 교육을 받도록 보장한다.\n전문학교 및 대학의 대다수의 학생에 대하여 국비제를 실시한다.\n교육용어는 국어로 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_026",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "26",
+      "original_text": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。\n２　すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+      "workbook_text_ko": "①모든 국민은 법률이 정하는 바에 의하여 그 능력에 따라 동등하게 교육을 받을 권리를 가진다.\n②모든 국민은 법률이 정하는 바에 따라 자신이 보호하는 자녀에게 보통교육을 받게 할 의무를 진다.\n의무 교육은 무상으로 한다."
+    }
+  ]
+}

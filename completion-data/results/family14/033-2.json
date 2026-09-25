@@ -1,0 +1,141 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_033",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기 4년이라는 수치는 겹치지만 규율 대상이 연방대통령이며 선출주체·피선자격·재선제한·당선요건까지 함께 정하는 조문으로, 국회의원 임기만 정한 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_068",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법기관 구성원의 임기를 단문으로 정하는 점은 유사하나 연수가 3년이고 연선연임 허용이라는 추가 규율이 있어 대상 조문과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_023",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "4년이라는 기간은 일치하지만 '4년 임기로 선출된다'는 의회 선거기(선거 주기) 규정이며 재선거 기한·최초 집회 기한까지 규율하여, 의원 개인의 임기만 선언한 대상 조문과 문형·규율 범위가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'의원의 임기는 4년으로 한다'는 주어·기간·서술형이 문언상 거의 그대로 대응한다. 다만 해산 시 임기 조기 종료 단서가 대상 조문에는 없다는 점으로 대응 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "임기 주체와 기간",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "衆議院議員の任期は、四年とする。",
+          "commonality": "의회 의원의 임기를 4년으로 확정하는 단문 규정이라는 점이 일치한다.",
+          "difference": "대상은 단원제 '국회의원' 전체이나 후보는 양원 중 중의원 의원에 한정된다."
+        },
+        {
+          "element": "예외·단서의 존부",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회의원의 임기는 4년으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但し、衆議院解散の場合には、その期間満了前に終了する。",
+          "commonality": "임기의 기간을 정하는 본문 구조를 공유한다.",
+          "difference": "후보는 해산 시 임기 만료 전 종료라는 예외를 두는데, 대상 조문에는 그러한 단서가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'議員의 任期는 …으로 함'이라는 동일한 한국어 법문 문형으로 의원 임기만을 단독 규율하는 점이 대응한다. 다만 기간이 3년으로 달라 대응은 문형과 규율 대상 범위에 한정된다.",
+      "evidence": [
+        {
+          "element": "조문 문형과 규율 대상",
+          "target_field": "original_text",
+          "target_quote": "國會議員의 任期는 4年으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員의 任期는 三年으로 함",
+          "commonality": "의원의 임기만을 한 문장으로 정하고 다른 조건·예외를 두지 않는 구조가 같다.",
+          "difference": "기간이 4년 대 3년으로 다르고, 후보는 주체를 '의원'으로만 표기해 '국회의원'이라는 기관 명시가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_X",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "선거위원회의 구성·임기(9년)·겸직금지·권한을 규율하는 조문으로 국회의원 임기와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_042",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회의 회기(3개월)와 칙명에 의한 연장을 정한 것으로, 의원의 임기를 정한 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회의 입법기를 단문으로 정한다는 점은 유사하나 주체가 제1원(원 자체)이고 기간이 6년으로 달라 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원 임기(6년)를 언급하지만 상원 구성·주민 직선·결원 보충 절차가 중심이어서 임기만 정한 대상 조문과 대응 요소가 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_065",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법위원 임기를 정하지만 3년이고 연임 허용 및 선거 완료 시한까지 규율하여 대상 조문과 구체 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'…代議員의 任期는 三年으로 한다'는 문형이 유사하나 기간이 3년이고 주체가 최고인민회의 대의원이어서 수치 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "4년이라는 기간은 겹치지만 의회를 4년 임기로 선출한다는 선거 주기 규정과 만료 전 재선거 의무를 함께 정하여 의원 임기만 정한 대상 조문과 구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "상원의원 임기 9년과 3년마다 3분의 1 개선이라는 부분개선 제도를 규율하여 대상 조문의 단일 임기 규정과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출주체와 7년 임기·1회 재선을 정한 조문으로 국회의원 임기 규정과 대응 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "단원제 '국회'라는 기관 명칭과 그 의원 전체에 일률적으로 4년 임기를 적용한다는 점(양원 구분이나 해산·개선 제도와 결합되지 않은 형태)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 참조되었는지에 대한 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "후보 중 일부는 번역문과 원문의 표현 차이가 있어 문형 비교는 원문 인용을 기준으로 한정하였다."
+  ],
+  "short_answer": "대상 조문은 '국회의원의 임기는 4년'만을 단문으로 정한 규정으로, 일본국헌법 제45조 전단('衆議院議員の任期は、四年とする')이 주체·기간·서술형에서 가장 구체적으로 대응한다. 다만 일본 조문은 중의원에 한정되고 해산 시 임기 조기 종료 단서를 두는 점이 다르다. 조선임시약헌 제11조는 '議員의 任期는 …으로 함'이라는 동일한 단문 문형과 규율 대상 범위에서 대응하지만 기간이 3년이어서 수치가 일치하지 않는다. 바이마르 제23조와 프로이센 자유주헌법 제13조는 4년이라는 수치가 겹치나 의회의 선거 주기와 재선거 기한을 규율하는 형식이라 일반적 유사성에 머문다. 이상은 문언 대응 관계이며 실제 참조 여부의 확정은 아니다."
+}

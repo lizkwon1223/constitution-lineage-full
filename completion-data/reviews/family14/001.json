@@ -1,0 +1,55 @@
+{
+  "article": 1,
+  "reviewed_at": "2026-09-22T15:06:39.725449+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "7852cf9ba278c22a094ea3f74f74fc2d4a591b060cdea2b1b8cb58a5dc2ce56f",
+  "input_sha256": "454b59687b7413939116568c4c9e009f81ce50d03e549008a1be88b4fc76281d",
+  "responses": [
+    {
+      "job_id": "001_9e31b7500f08_r1",
+      "repeat": 1,
+      "sha256": "9bef364172dfedfbaee8a8b07e1a4b5186e3655126eb499eadfb7581bf37034d",
+      "assessment": "핵심 세 대응은 원문으로 지지됨. 프랑스 비선택 기준과 오스트리아 Recht를 법(권력)으로 병기한 부분을 한정할 필요가 있음."
+    },
+    {
+      "job_id": "001_9e31b7500f08_r2",
+      "repeat": 2,
+      "sha256": "4a6a4872bc011fc0ad2b0d28c96869e440afe9ddc6432cba2b826d7ae0dde646",
+      "assessment": "선택 네 후보의 핵심 어휘·문형 및 부가 수식 차이는 원문으로 지지됨. 다른 후보의 비선택은 대응 강도의 판단임."
+    },
+    {
+      "job_id": "001_9e31b7500f08_r3",
+      "repeat": 3,
+      "sha256": "79c4196cbb24c05d1332e85899dd56cc924f87045543100a1d3a85a695cd1b3c",
+      "assessment": "핵심 세 대응은 원문으로 지지됨. 프랑스의 추가 수식을 비선택 근거로 삼은 기준이 중화민국 후보와 일관되지 않음."
+    }
+  ],
+  "synthesis": "민주공화국 선언은 약헌·중화민국헌법·오스트리아뿐 아니라 프랑스1946 제1조에도 명시되어 있음. 이념·성격 수식의 추가는 부분 대응의 차이로 남길 수 있음. 공화국만을 선언한 바이마르·프로이센·필리핀과 민주적 성격까지 함께 명시한 프랑스를 구별해야 함. 북한안은 국호 규정이며, 일본1889는 군주 통치의 대조 사례임.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "FR1946_ORIGINAL_ART_001",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "démocratique를 정확히 읽었으나 다른 수식어의 병렬을 이유로 제외함. 삼민주의 등 수식이 있는 중화민국은 선택하였으므로 선택 기준의 일관성이 약함.",
+      "action": "프랑스도 민주공화국 선언의 부분 대응으로 종합 해설에 포함함. 원선택값은 보존함."
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "AT1920_ORIGINAL_ART_001",
+      "type": "terminology",
+      "severity": "minor",
+      "finding": "차이 설명의 법(권력)은 Recht와 국가권력을 혼용할 우려가 있음.",
+      "action": "원문상 법의 국민 유래라고 한정함."
+    }
+  ],
+  "limits": [
+    "정체 선언의 문언 비교이며 민주주의의 실질이나 역사적 계수 관계를 증명하지 않음."
+  ]
+}

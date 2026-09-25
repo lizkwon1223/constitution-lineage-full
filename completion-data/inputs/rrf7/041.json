@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_041",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "41",
+    "original_text": "國會는 豫算案을 審議決定한다.",
+    "workbook_text_ko": "국회는 예산안을 심의결정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_086",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "86",
+      "original_text": "内閣は、毎会計年度の予算を作成し、国会に提出して、その審議を受け議決を経なければならない。",
+      "workbook_text_ko": "내각은 매 회계연도의 예산을 작성하여 국회에 제출하고, 그 심의와 의결을 거쳐야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_059",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "59",
+      "original_text": "行政院於會計年度開始三個月前，應將下年度預算案提出於立法院 。",
+      "workbook_text_ko": "行政院은 會計年度 開始 3個月前에 次年度 豫算案을 立法院에 提出하여야 한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_060",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "60",
+      "original_text": "予算は、さきに衆議院に提出しなければならない。\n２　予算について、参議院で衆議院と異なつた議決をした場合に、法律の定めるところにより、両議院の協議会を開いても意見が一致しないとき、又は参議院が、衆議院の可決した予算を受け取つた後、国会休会中の期間を除いて三十日以内に、議決しないときは、衆議院の議決を国会の議決とする。",
+      "workbook_text_ko": "①예산은 먼저 중의원에 제출하여야 한다.\n②예산에 관하여 참의원에서 중의원과 다른 의결을 한 경우에 법률이 정하는 바에 따라 양원의 협의회를 열어도 의견이 일치하지 아니할 때 또는 중의원이 가결한 예산을 참의원이 이송 받은 후 국회 휴회기간을 제외하고 30일 이내에 의결하지 아니할 때에는 중의원의 의결을 국회의 의결로 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_063",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "63",
+      "original_text": "立法院有議決法律案，預算案，戒嚴案，大赦案，宣戰案，媾和案，條約案及國家其他重要事項之權。",
+      "workbook_text_ko": "立法院은 法律案, 豫算案, 戒嚴案, 大赦案, 宣戰案, 講和案, 條約案 및 國家의 其他 重要事項을 議決하는 權限을 가진다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_016",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "16",
+      "original_text": "L'Assemblée nationale est saisie du projet de budget.\nCette loi ne pourra comprendre que les dispositions strictement financières.\nUne loi organique réglera le mode de présentation du budget.",
+      "workbook_text_ko": "국민의회는 내각 제출의 예산법안(projet de budget)을 회부받는다.\n이 법률은 엄밀하게 재정상의 규정만을 포함할 수 있다.\n조직법률(loi organique)로 예산제출의 방법을 정한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_020",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "20",
+      "original_text": "Le Conseil de la République examine, pour avis, les projets et propositions de loi votés en première lecture par l'Assemblée nationale.\nIl donne son avis au plus tard dans les deux mois qui suivent la transmission par l'Assemblée nationale. Quand il s'agit de la loi du budget, ce délai est abrégé, le cas échéant, de façon à ne pas excéder le temps utilisé par l'Assemblée nationale pour son examen et son vote. Quand l'Assemblée nationale décide l'adoption d'une procédure d'urgence, le Conseil de la République donne son avis dans le même délai que celui prévu pour les débats de l'Assemblée nationale par le règlement de celle-ci. Les délais prévus au présent article sont suspendus pendant les interruptions de session. Ils peuvent être prolongés par décision de l'Assemblée nationale.\nSi l'avis du Conseil de la République est conforme ou s'il n'a pas été donné dans les délais prévus à l'alinéa précédent, la loi est promulguée dans le texte voté par l'Assemblée nationale.\nSi l'avis n'est pas conforme, l'Assemblée nationale examine le projet ou la proposition de loi en seconde lecture. Elle statue définitivement et souverainement sur les seuls amendements proposés par le Conseil de la République, en les acceptant ou en les rejetant en tout ou en partie. En cas de rejet total ou partiel de ces amendements, le vote en seconde lecture de la loi a lieu au scrutin public, à la majorité absolue des membres composant l'Assemblée nationale, lorsque le vote sur l'ensemble a été émis par le Conseil de la République dans les mêmes conditions.",
+      "workbook_text_ko": "공화국평의회는 의견을 진술하기 위하여 국민의회에 의한 제1독회에\n서 채택한 내각 제출법안과 의원 제출법안을 검토한다.\n공화국평의회는 국민의회로부터 전달을 받고부터 2개월 이내에 의견을 진\n술한다. 예산법률이 문제인 경우에는 이 기간은 필요한 경우에는 국민의회\n가 심의와 채택에 이용할 기간을 초과하지 않도록 단축한다. 국민의회가\n긴급절차(procédure urgente)의 채택을 결정한 때에는 공화국평의회는 국\n민의회의 심의를 위해서 국민의회의 규칙에 의해서 정한 것과 동일한 기간\n내에 의견을 진술한다. 이 조문에 정한 기간은 회기가 중단한 동안은 정지\n한다. 그 기간은 국민의회의 결정으로 연장할 수 있다.\n공화국평의회의 의견이 일치된 때 또는 전항에 정한 기간 내에 의견을 진\n술하지 아니한 때에는 법률은 국민의회가 채택한 조문으로 공포한다.\n의견이 일치하지 아니한 때에는, 국민의회는 제2 독회에서 내각제출법안\n또는 의원제출법안을 심의한다. 국민의회는 공화국평의회가 제안한 수정에\n대해서만 그 전부 또는 일부를 수용하거나 거부함으로써 최종적이고 독자적으로 결정한다. 이 수정안의 전부 또는 일부거부의 경우 동일한 조건으로 공화국평\n의회가 전체의 표결을 표명한 때에는 법률의 제2 독회에서의 표결은 기명\n투표로 국민의회 의원의 절대다수로 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_015",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "15",
+      "original_text": "L'Assemblée nationale étudie les projets et propositions de loi dont elle est saisie, dans des commissions dont elle fixe le nombre, la composition et la compétence.",
+      "workbook_text_ko": "국민의회는 부탁된 내각 제출법안과 의원 제출법안을 위원회에서 검\n토한다. 국민의회는 그 위원회의 수ㆍ구성 그리고 권한을 정한다."
+    }
+  ]
+}

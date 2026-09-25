@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_075",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "75",
+    "original_text": "行政各部의 組織과 職務範圍는 法律로써 定한다.",
+    "workbook_text_ko": "행정각부의 조직과 직무범위는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_027",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "27",
+      "original_text": "政府主席은 國務總長의 推薦에 依하여 國務委員 中에서 行政 各部長을 任命함\n行政各部의 組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "정부주석은 국무총장의 추천에 의하여 국무위원 중에서 행정 각 부장을 임명함.\n행정 각 부의 조직 및 권한은 법률로써 정함."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_089",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "89",
+      "original_text": "考試院之組織，以法律定之。",
+      "workbook_text_ko": "考試院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_076",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "76",
+      "original_text": "立法院之組織，以法律定之。",
+      "workbook_text_ko": "立法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_082",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "82",
+      "original_text": "司法院之組織及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "사법원의 조직과 각급 법원의 조직은 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_082",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "82",
+      "original_text": "司法院及各級法院之組織，以法律定之。",
+      "workbook_text_ko": "司法院과 各級法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_106",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "106",
+      "original_text": "監察院之組織，以法律定之。",
+      "workbook_text_ko": "監察院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_061",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "61",
+      "original_text": "行政院之組織，以法律定之。",
+      "workbook_text_ko": "行政院의 組織은 法律로써 정한다."
+    }
+  ]
+}

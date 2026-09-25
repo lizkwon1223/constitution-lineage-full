@@ -1,0 +1,144 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_089",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "천연자원의 특허(concession)·임대차와 정당한 보상에 의한 수용·공공소유 이전을 규정하여 대상 조문이 전제하는 제85조 내지 제88조의 규율 영역과 주제가 겹치나, 대상 조문의 핵심 규율요소인 '다른 조항의 보상규정을 준용한다'는 지시·준용 문형이나 조문 상호참조 장치는 없다. 주제 유사에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_133",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "행정재판소의 처분 취소·형 확정·청구 판단 절차에 관한 규정으로, 조문 상호참조 형식은 있으나 특허 취소·권리 수용·보상 준용이라는 대상 규율과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_057",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "현행법령의 효력 존속에 관한 경과규정으로, 대상 조문의 준용 지시 구조나 수용·보상 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_169",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "특정 조항의 시행시기와 관세·소비세 징수의 과도기 처리를 정한 경과규정으로, 대상 조문의 준용 효과와는 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_035",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주거·서류·소지품에 대한 영장주의 규정으로, 예외조문 인용이 있을 뿐 특허 취소·수용 보상의 준용과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_111",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "전시·사변 시 열거된 헌법조항의 효력정지를 정한 규정으로, 조문 열거는 있으나 효력정지와 준용은 효과가 상반된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_088",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "헌법 시행일과 일부 조항의 시행유예를 정한 규정으로, 대상 조문의 준용 지시와 규율 효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_056",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "하위 법령·결정의 저촉 시 폐지권을 정한 규정으로, 준용 지시나 수용·보상 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_014",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원 불체포특권 규정으로 대상 조문과 규율 대상·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_070",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "열거된 조문의 규칙을 다른 기관에 '동일한 조건으로 적용한다'는 상호참조 적용 조항으로 문형상 유사성은 있으나, 적용 대상이 의회 조직·운영 규칙이고 적용 요건이 '기관'인 반면 대상 조문은 '특허 취소·수용 등 처분이 있는 때'라는 행위 요건과 보상규정 준용이라는 효과를 정하므로 구체적 규율요소 대응은 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_099",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'특정 사안이 있는 때에는 헌법 제○조의 규정을 적용한다'는 조문 상호참조형 문형이 대상 조문의 '제15조제3항의 규정을 준용한다'와 구조적으로 대응한다. 다만 적용 대상 사안(탄핵 절차 vs 특허 취소·수용)과 참조 방식(適用 vs 準用)이 달라 대응 범위는 문형과 참조 장치에 한정된다.",
+      "evidence": [
+        {
+          "element": "참조 조항의 적용 지시 문형",
+          "target_field": "original_text",
+          "target_quote": "第15條第3項의 規定을 準用한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "適用本憲法第九十五條，第九十七條，及第九十八條之規定",
+          "commonality": "특정 조문 번호를 지시하여 그 규정을 해당 사안에 적용하도록 하는 상호참조 규정 형식이 같다.",
+          "difference": "대상은 '준용'이고 후보는 '적용'이며, 대상은 단일 항(제15조제3항)의 보상규정을, 후보는 복수 조문의 탄핵 관련 규정을 지시한다."
+        },
+        {
+          "element": "적용의 전제 사안 지정",
+          "target_field": "original_text",
+          "target_quote": "第85條 乃至 第88條에 依하여 特許를 取消하거나 權利를 收用 使用 또는 制限하는 때에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "監察院對於司法院或考試院人員失職或違法之彈劾",
+          "commonality": "참조규정을 적용할 사안을 앞부분에서 한정적으로 특정한 뒤 적용 지시를 두는 배열이 같다.",
+          "difference": "대상은 재산권 제한 처분(특허 취소·수용·사용·제한)이라는 국가의 경제적 처분을 전제로 하나, 후보는 감찰원의 탄핵이라는 기관 간 통제절차를 전제로 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XXI",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "금주 수정조항의 폐지와 비준기한을 정한 규정으로, 대상 조문의 준용 지시와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_062",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "조세 부과·세율 변경의 법률주의와 국채·국고부담 계약 규정으로, 대상 조문의 준용·보상 요소와 규율 내용이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_111",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…에는 …에 관한 규정을 준용한다(準用)'는 준용 조항의 어휘와 문형이 대상 조문과 직접 대응한다. 다만 준용의 대상 사안(시 자치 vs 특허 취소·권리 수용)과 준용되는 규정의 성격(현 자치 규정 vs 손실보상 규정)이 전혀 달라 대응은 준용 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "준용 문형",
+          "target_field": "original_text",
+          "target_quote": "規定을 準用한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "準用關於縣之規定",
+          "commonality": "동일한 '準用' 용어로 다른 조항의 규정을 그 사안에 옮겨 적용하도록 하는 입법기술을 사용한다.",
+          "difference": "대상은 조문 번호(제15조제3항)를 특정해 보상규정을 준용하나, 후보는 '현에 관한 규정'이라는 규정군을 포괄적으로 준용하며 준용 배제 범위('除本節規定外')를 별도로 둔다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "특허 '취소'와 권리의 '수용·사용·제한'을 병렬로 열거한 처분 유형",
+    "제15조제3항(재산권 제한 시 보상)의 준용이라는 손실보상 연결 효과",
+    "제85조 내지 제88조라는 경제조항군 전체를 포괄 지시하는 방식"
+  ],
+  "limitations": [
+    "문언·문형상의 대응만 확인한 것이며, 어느 후보가 실제로 참조되었는지에 관한 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "후보 중 준용·적용 조항은 다수 헌법에 공통되는 일반적 입법기술이어서 특정 계보를 지시하지 않는다.",
+    "필리핀헌법의 특허·보상 규정은 대상 조문 자체보다 제85조 내지 제88조의 실체 내용과 관련될 가능성이 있으나, 제시 자료만으로는 판단을 유보한다."
+  ],
+  "short_answer": "대상 조문은 제85~88조의 처분이 있을 때 제15조제3항 보상규정을 준용하도록 하는 상호참조·준용 규정이다. 후보 중 중화민국 五五憲草 제111조는 '準用' 용어와 준용 문형이, 중화민국헌법 제99조는 특정 조문 번호를 지정해 그 규정을 적용시키는 구조가 각각 대응하여 후속 비교에 유용하다. 다만 두 후보 모두 준용 대상 사안이 지방자치와 탄핵절차로서 특허 취소·수용·사용·제한이라는 재산권 처분 및 손실보상 연결 효과와는 다르므로 대응은 문형·참조장치에 한정된다. 프랑스 제4공화국헌법 제70조와 필리핀헌법 제12조는 각각 상호참조 문형과 특허·정당보상이라는 주제 유사성만 보이므로 선택하지 않았다. 문언상 대응을 확인했을 뿐 역사적 참조 여부는 확정할 수 없다."
+}

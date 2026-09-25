@@ -1,0 +1,141 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_066",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_038",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 행위 전부에 대해 '국무총리 + 장관'의 이중 부서를 요구하는 구조가 대상의 '국무총리와 관계국무위원의 부서' 요건과 규율 요소 차원에서 직접 대응한다.",
+      "evidence": [
+        {
+          "element": "부서 주체(국무총리+각료)",
+          "target_field": "original_text",
+          "target_quote": "모든 文書에는 國務總理와 關係國務委員의 副署가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "contresigné par le président du Conseil des ministres et par un ministre",
+          "commonality": "수상(국무총리)과 각료 1인의 부서를 함께 요구하는 이중 부서 구조가 같다.",
+          "difference": "후보는 '장관 1인(un ministre)'으로 특정하나 대상은 사안에 '관계'되는 국무위원으로 한정한다."
+        },
+        {
+          "element": "부서 대상 행위의 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령의 국무에 관한 행위는 문서로 하여야 하며 모든 문서에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "Chacun des actes du président de la République",
+          "commonality": "대통령의 행위·문서 전부에 예외 없이 부서를 요구한다는 포괄성이 공통된다.",
+          "difference": "후보는 '행위(actes)'를 대상으로 할 뿐 문서로 하라는 형식 요건이나 군사 사항에 관한 별도 확인 문언이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_047",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "'관계 장관(ministres intéressés)의 부서'라는 한정 문언이 대상의 '關係國務委員의 副署'와 대응하나, 부서 대상이 대통령이 아닌 국무총리의 행위라는 점에서 대응 범위는 이 한정어에 국한된다.",
+      "evidence": [
+        {
+          "element": "부서자의 '관계' 한정",
+          "target_field": "original_text",
+          "target_quote": "關係國務委員의 副署",
+          "candidate_field": "original_text",
+          "candidate_quote": "contresignés par les ministres intéressés",
+          "commonality": "모든 각료가 아니라 해당 사무에 관계된 각료만 부서하도록 한정하는 방식이 같다.",
+          "difference": "후보의 부서 대상은 국무총리의 행위이고 부서자에 수상이 포함되지 않으며, 대상은 대통령의 행위에 국무총리와 관계국무위원이 함께 부서한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 모든 행위에 부서를 요구하는 문형이 대상 전단과 대응한다. 다만 부서 주체가 장관 1인뿐이다.",
+      "evidence": [
+        {
+          "element": "대통령 행위에 대한 부서 요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 문서에는 국무총리와 관계국무위원의 부서가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Chacun des actes du président de la République doit être contresigné par un ministre",
+          "commonality": "대통령의 행위 전부가 각료의 부서 없이는 효력을 가질 수 없다는 요건 구조가 공통된다.",
+          "difference": "후보는 장관 1인의 부서만 요구하고 수상 부서·문서 형식·관계성 한정·군사 사항 조항이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_030",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국무에 관한 문서'에 '국무총장 및 국무위원'이 '부서'한다는 어휘와 규율 요소가 대상과 밀접하게 대응한다.",
+      "evidence": [
+        {
+          "element": "부서 대상 문서의 범위",
+          "target_field": "original_text",
+          "target_quote": "大統領의 國務에 關한 行爲는 文書로 하여야 하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "其他 國務에 關한 文書에는",
+          "commonality": "'국무에 관한' 사항을 문서로 파악하여 부서 요건을 붙이는 구성이 같다.",
+          "difference": "후보는 이미 서명된 문서의 열거(법률·명령·조약의 발표 등)를 전제로 하고, 대상은 국무에 관한 행위를 문서로 하라는 형식 강제를 추가한다."
+        },
+        {
+          "element": "부서 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국무총리와 관계국무위원의 부서가 있어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國務總長 及 各國務委員 또는 主務行政部長이 副署하여야 함",
+          "commonality": "수반 보좌기관의 장(국무총장/국무총리)과 국무위원이 함께 부서한다는 점이 같다.",
+          "difference": "후보는 '각 국무위원 또는 주무행정부장'으로 규정하나 대상은 '관계국무위원'으로 한정하며, 후보에만 '부서로써 입법의원에 대하여 책임을 짐'이라는 책임 효과가 명시된다."
+        },
+        {
+          "element": "행위 주체",
+          "target_field": "original_text",
+          "target_quote": "大統領의 國務에 關한 行爲",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席이 署名한 法律、命令 及 條約의 發表",
+          "commonality": "국가원수 격 지위(정부주석/대통령)의 국무 행위에 부서를 요구한다.",
+          "difference": "주체 명칭과 정부형태 전제가 다르고, 후보는 주석의 서명을 전제로 한 문서에만 적용된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_026",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무총장·국무위원의 임명 절차와 정수를 규정할 뿐 부서 요건과 규율 요소가 겹치지 않는다. 기관 명칭만 공통된다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_066",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "내각의 구성과 연대책임에 관한 규정으로 대통령 행위의 문서성·부서 요건과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "'국사(국무)에 관한 모든 행위'라는 대상 행위의 포착 문형이 대상 전단과 대응한다. 다만 통제수단이 부서가 아니라 내각의 조언과 승인이어서 대응 범위는 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "대상 행위의 지시 문형",
+          "target_field": "original_text",
+          "target_quote": "大統領의 國務에 關한 行爲",
+          "candidate_field": "original_text",
+          "candidate_quote": "天皇の国事に関するすべての行為には",
+          "commonality": "원수의 '국사/국무에 관한 행위' 전부를 하나의 범주로 묶어 별도 요건을 붙이는 문형이 같다.",
+          "difference": "후보의 요건은 내각의 조언·승인과 내각의 책임 부담이고, 대상의 요건은 문서 형식과 국무총리·관계국무위원의 부서이다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'군사에 관한 것도 또한 같다'는 군사 사항에 대한 동일 적용 확인 문언",
+    "국무에 관한 행위를 반드시 문서로 하도록 강제하는 형식 요건 자체(후보들은 문서·행위의 존재를 전제할 뿐 형식 강제 문언이 없음)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토한 것이며 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다.",
+    "프랑스어 후보의 '관계 장관', '이중 부서' 해석 일부는 제공된 국역문에 의존한 부분이 있다."
+  ],
+  "short_answer": "부서 요건의 문언 대응이 가장 뚜렷한 것은 조선임시약헌 제30조(국무에 관한 문서에 국무총장 및 국무위원의 부서)와 프랑스 제4공화국헌법 제38조(대통령 행위에 대한 수상+장관의 이중 부서)이며, 프랑스 1875년 공권력조직법 제3조도 '대통령의 모든 행위에 장관 부서'라는 기본 문형에서 대응한다. 프랑스 제4공화국헌법 제47조는 '관계 장관의 부서'라는 한정어에서만, 일본국헌법 제3조는 '국사(국무)에 관한 모든 행위'라는 문형에서만 제한적으로 대응한다. 차이로는 부서 주체가 장관 1인인지(1875년)·각 국무위원인지(약헌)·관계국무위원인지(대상), 부서의 효과로 의회에 대한 책임이 명시되는지(약헌), 통제수단이 부서인지 조언·승인인지(일본 제3조)가 있다. 대상의 '국무에 관한 행위는 문서로 하여야 한다'는 형식 강제와 '군사에 관한 것도 또한 같다'는 확인 문언은 제시된 후보에서 대응 표현을 찾지 못했다. 이상은 문언 대응 검토일 뿐 역사적 영향의 확정은 아니다."
+}

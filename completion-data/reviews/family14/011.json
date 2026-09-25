@@ -1,0 +1,68 @@
+{
+  "article": 11,
+  "reviewed_at": "2026-09-22T15:13:24.891836+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "34e0d3d9e2d8d1e67b91a8ed8bbb3922e9942371c211e845590eeaea32766cb5",
+  "input_sha256": "eeb9270ab6a3c90ea1d97048478c1e460b41825b93d8d2a04e6e74fae8a7984a",
+  "responses": [
+    {
+      "job_id": "011_f3117a0f6edd_r1",
+      "repeat": 1,
+      "sha256": "7492d2d9fc643b8b7c1c8dce26a95830e319c43506ac6975407f8ddd1fd68b1b",
+      "assessment": "약헌·일본1889의 법률 유보형 침해금지, 바이마르·五五憲草의 통신 보호와 법률 한계라는 핵심은 타당함. 미설명 요소에서 후보에 국민 표기가 없는 듯한 설명은 약헌과 맞지 않음."
+    },
+    {
+      "job_id": "011_f3117a0f6edd_r2",
+      "repeat": 2,
+      "sha256": "7d6bd9232c68d6ae690671535a18e1e2977d2be0b94deab81ba5ec090fc1d92f",
+      "assessment": "핵심 대응과 필리핀의 다른 예외 요건, 북한안의 법적 보호 선언을 구별한 설명은 타당함. 대상 자체에 없는 구제절차는 미설명 요소와 구별해야 함."
+    },
+    {
+      "job_id": "011_f3117a0f6edd_r3",
+      "repeat": 3,
+      "sha256": "0cb84653f425437e294c9c1eda4a085d7f42b3e72c956070cd75b469af0a48bd",
+      "assessment": "핵심 비교는 지지됨. 원문의 쉼표로 연결된 두 절을 별도 문장으로 묘사한 부분과 미설명 요소의 역사적 연원 질문은 문언 비교와 분리해야 함."
+    }
+  ],
+  "synthesis": "약헌 제6조 제5호와 일본1889 제26조는 법률상 근거·예외와 비밀 침해금지의 문형에서 가깝고 보호 대상을 신서로 표시함. 바이마르는 서신·우편·전신·전화를 열거하고 예외를 제국법률에 유보함. 五五憲草는 비밀통신의 자유와 법률에 의하지 않은 제한 금지를 연결함. 필리핀은 법원의 적법한 명령 또는 공공 안전·질서라는 별도 예외를 두며 북한안은 법적 보호를 선언함. 이 차이들은 제한의 조건과 표현 방식의 차이이지, 통신 비밀이라는 보호 대상의 공통점 자체가 없다는 뜻은 아님.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "type": "unexplained_inconsistency",
+      "severity": "minor",
+      "finding": "미설명 요소에서 후보들은 신민·인민·공민 등이라고 하였으나 약헌의 주체는 國民임.",
+      "action": "국민 자체는 대응하며 모든의 명시 여부만 다르다고 수정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_014",
+      "type": "sentence_structure",
+      "severity": "minor",
+      "finding": "원문은 쉼표로 연결된 한 문장인데 2문 구조 또는 별도 문장으로 기술함.",
+      "action": "자유 보유와 제한 금지의 두 절을 연결한 한 문장이라고 바로잡음."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "대상 자체에 없는 침해 주체·구제절차의 부재를 미설명 요소로 제시함.",
+      "action": "응답이 설명하지 못한 대상 요소와 조문에 원래 규정되지 않은 사항을 분리함."
+    }
+  ],
+  "limits": [
+    "통신과 신서의 어휘 범위 차이를 실제 각 국가의 모든 보호 범위 차이로 확대하지 않음.",
+    "같은 수동 부정형이나 국민 표기가 있다는 사실은 그 한국어 표현의 역사적 연원을 확정하지 않음."
+  ]
+}

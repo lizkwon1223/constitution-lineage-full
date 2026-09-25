@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_073",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "73",
+    "original_text": "行政各部長官은 國務委員中에서 大統領이 任命한다.\n國務總理는 大統領의 命을 承하여 行政各部長官을 統理監督하며 行政各部에 分擔되지 아니한 行政事務를 擔任한다.",
+    "workbook_text_ko": "행정각부장관은 국무위원중에서 대통령이 임명한다.\n국무총리는 대통령의 명을 승하여 행정각부장관을 통리감독하며 행정각부에 분담되지 아니한 행정사무를 담임한다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_027",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "27",
+      "original_text": "政府主席은 國務總長의 推薦에 依하여 國務委員 中에서 行政 各部長을 任命함\n行政各部의 組織 及 權限은 法律로써 定함",
+      "workbook_text_ko": "정부주석은 국무총장의 추천에 의하여 국무위원 중에서 행정 각 부장을 임명함.\n행정 각 부의 조직 및 권한은 법률로써 정함."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_077",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "77",
+      "original_text": "(1) Zur Besorgung der Geschäfte der Bundesverwaltung sind die Bundesministerien und die ihnen unterstellten Ämter berufen.\n(2) Die Zahl der Bundesministerien, ihr Wirkungsbereich und ihre Einrichtung werden durch Bundesgesetz bestimmt.\n(3) Mit der Leitung des Bundeskanzleramtes ist der Bundeskanzler, mit der Leitung der anderen Bundesministerien je ein Bundesminister betraut.\n(4) Der Bundeskanzler und die übrigen Bundesminister können ausnahmsweise auch mit der Leitung eines zweiten Bundesministeriums betraut werden.",
+      "workbook_text_ko": "(1) 연방행정의 사무는 연방각부 및 그 소속 기관이 담당한다.\n(2) 연방각부의 수, 권한 범위 및 조직은 연방법률로 정한다.\n(3) 연방총리청은 연방총리가 지휘하고, 그 밖의 연방각부는 각각 연방장관 1명이 지휘한다.\n(4) 연방총리와 그 밖의 연방장관에게는 예외적으로 두 번째 연방부의 지휘도 맡길 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_056",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "56",
+      "original_text": "行政院副院長，各部會首長及不管部會之政務委員，由行政院院長提請總統任命之。",
+      "workbook_text_ko": "行政院副院長, 各部會의 長과 無任所政務委員은 行政院長의 推薦에 依하여 總統이 이를 任命한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_058",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "58",
+      "original_text": "行政院各部部長，各委員會委員長，由總統於政務委員中任命之。\n行政院院長副院長得兼任前項部長或委員長。",
+      "workbook_text_ko": "행정원 각 부의 부장과 각 위원회의 위원장은 총통이 정무위원 중에서 임명한다.\n행정원 원장·부원장은 전항의 부장 또는 위원장을 겸임할 수 있다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_077",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "77",
+      "original_text": "(1) Zur Besorgung der Geschäfte der Bundesverwaltung sind die Bundesministerien und die ihnen unterstellten Ämter berufen.\n(2) Die Zahl der Bundesministerien, ihr Wirkungsbereich und ihre Einrichtung werden durch Bundesgesetz bestimmt.\n(3) Mit der Leitung des Bundeskanzleramtes ist der Bundeskanzler, mit der Leitung der anderen Bundesministerien je ein Bundesminister betraut. Der Bundespräsident kann die sachliche Leitung bestimmter, zum Wirkungsbereich des Bundeskanzleramtes gehörender Angelegenheiten unbeschadet des Fortbestandes ihrer Zugehörigkeit zum Bundeskanzleramt eigenen Bundesministern übertragen; solche Bundesminister haben bezüglich der betreffenden Angelegenheiten die Stellung eines zuständigen Bundesministers.\n(4) Der Bundeskanzler und die übrigen Bundesminister können ausnahmsweise auch mit der Leitung eines zweiten Bundesministeriums betraut werden.",
+      "workbook_text_ko": "(1) 연방행정의 사무는 연방각부 및 그 소속 기관이 담당한다.\n(2) 연방각부의 수, 권한 범위 및 조직은 연방법률로 정한다.\n(3) 연방총리청은 연방총리가 지휘하고, 그 밖의 연방각부는 각각 연방장관 1명이 지휘한다. 연방대통령은 연방총리청의 권한에 속하는 특정 사항의 실질적 지휘를 그 사항이 연방총리청에 계속 속하는 데 영향을 미치지 않고 별도의 연방장관에게 맡길 수 있다. 이러한 연방장관은 해당 사항에서 관할 연방장관의 지위를 가진다.\n(4) 연방총리와 그 밖의 연방장관에게는 예외적으로 두 번째 연방부의 지휘도 맡길 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_072",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "72",
+      "original_text": "内閣総理大臣は、内閣を代表して議案を国会に提出し、一般国務及び外交関係について国会に報告し、並びに行政各部を指揮監督する。",
+      "workbook_text_ko": "내각총리대신은 내각을 대표하여 의안을 국회에 제출하고, 일반국무 및 외교관계에 대하여 국회에 보고하며, 행정 각부를 지휘･감독한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_028",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "28",
+      "original_text": "國務總長은 國務委員의 首班으로서 國務會議의 議長이 되며 行政 各部長을 統轄함",
+      "workbook_text_ko": "국무총장은 국무위원의 수반으로서 국무회의의 의장이 되며 행정 각 부장을 통할함."
+    }
+  ]
+}

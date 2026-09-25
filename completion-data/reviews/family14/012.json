@@ -1,0 +1,57 @@
+{
+  "article": 12,
+  "reviewed_at": "2026-09-22T15:13:55.423642+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "2c51dcd79fd10445196f9f8be65c32ef394c0961768950c2b038a64811e7d0b2",
+  "input_sha256": "b395dce5c3b7c9a6a68953929ef76f28db3f07bd18f9bb164e5d2cb11d2426e9",
+  "responses": [
+    {
+      "job_id": "012_e76a284eaa48_r1",
+      "repeat": 1,
+      "sha256": "32ae0e131e0dde983cb8683b59a9b41a5446c19671b6cc4d9ec7508495b16332",
+      "assessment": "신앙·양심 병기의 바이마르, 국교 관련 입법금지의 미국·필리핀, 북한안의 신앙 자유 문형을 구별한 비교는 지지됨. 필리핀 조문 위치를 정정해야 함."
+    },
+    {
+      "job_id": "012_e76a284eaa48_r2",
+      "repeat": 2,
+      "sha256": "b9af3f92e4f0a01e1e3719fe08aaa205f6fd281c250776f54a10f32819af6f7a",
+      "assessment": "핵심 세 후보의 대응은 타당함. 조문 내 유보 문구의 부재와 자유의 무제한 보장은 구별해야 함. 북한안 비선택은 동일 문형을 어느 강도로 인정하는지의 차이임."
+    },
+    {
+      "job_id": "012_e76a284eaa48_r3",
+      "repeat": 3,
+      "sha256": "b35e6100f455abd58cdc641fb4e894a1befcf6e2b73011b5fb7b9e78b692a177",
+      "assessment": "핵심 비교는 타당하나 중화민국1946·북한안까지 법률·안녕질서 유보가 있는 것처럼 묶은 요약은 원문과 맞지 않음."
+    }
+  ],
+  "synthesis": "바이마르 제135조는 신앙과 양심의 자유를 함께 명시하지만 주체가 제국의 모든 주민이고 종교행사의 국가 보호 및 일반 법률의 효력 유지가 추가됨. 미국 수정 제1조·필리핀 제III조 제1절 제7호는 국교 관련 입법금지와 종교행사 보호를 두며, 필리핀은 시민적·정치적 권리 행사의 종교심사를 금지함. 대상은 국교 부존재와 종교의 정치로부터의 분리를 직접 선언함. 북한안·중화민국1946의 신앙 자유, 초안·약헌의 조건부 신앙 자유도 부분 비교로 남기되 양심 병기나 정교분리까지 대응한다고 넓히지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        3
+      ],
+      "candidate_id": null,
+      "type": "summary_overgeneralization",
+      "severity": "material",
+      "finding": "중화민국1946·五五憲草·북한안·약헌을 묶어 법률·안녕질서 유보가 붙어 대비된다고 하였으나 중화민국1946 제13조와 북한안 제14조에는 해당 유보가 없음.",
+      "action": "법률 유보는 五五憲草, 안녕질서 조건은 약헌에만 연결하여 설명함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "type": "locator",
+      "severity": "minor",
+      "finding": "요약 등에서 제3절 또는 제III절로 지칭함. 대상 문구는 제III조 제1절 제7호임.",
+      "action": "조문·절을 바로잡음."
+    }
+  ],
+  "limits": [
+    "대상 제12조에 명시적 제한 유보가 없다는 관찰을 헌법 전체에서 절대적·무제한인 권리라는 판단으로 확대하지 않음.",
+    "일반 국가법률이 영향을 받지 않는다는 바이마르 문구와 단순한 모든 법률에 의한 제한 허용을 곧바로 동일시하지 않음.",
+    "국민이라는 주체 표기는 약헌에도 있으므로 모든 국민이라는 표현 자체를 후보와 전혀 다른 권리 주체로 설명하지 않음."
+  ]
+}

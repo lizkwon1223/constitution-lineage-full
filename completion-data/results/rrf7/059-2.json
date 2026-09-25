@@ -1,0 +1,198 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_059",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_038",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령(총통) 1인을 주체로 '조약 체결'과 '선전·강화'를 한 문장에 병렬 열거하는 구성이 대상 조문 전반부와 그대로 대응한다. 다만 비준과 외교사절 신임접수는 없다.",
+      "evidence": [
+        {
+          "element": "조약 체결권의 주체와 문형",
+          "target_field": "original_text",
+          "target_quote": "大統領은 條約을 締結하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "行使締結條約",
+          "commonality": "국가원수 1인이 조약 체결 권한을 행사한다는 점을 동일하게 규정한다.",
+          "difference": "대상은 '체결하고 批准하며'로 비준을 별도 명시하나 후보는 체결만 규정한다."
+        },
+        {
+          "element": "선전포고와 강화",
+          "target_field": "original_text",
+          "target_quote": "宣戰布告와 講和를 行하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "及宣戰媾和之權",
+          "commonality": "조약 체결과 함께 선전·강화를 같은 문장에서 원수의 권한으로 병렬한다.",
+          "difference": "후보는 '依本憲法之規定'이라는 헌법 규정 준수 조건을 앞에 두지만 대상 조문 문언에는 그런 유보 문구가 없다."
+        },
+        {
+          "element": "외교사절 관련 권한",
+          "target_field": "original_text",
+          "target_quote": "外交使節을 信任接受한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依本憲法之規定，行使締結條約及宣戰媾和之權。",
+          "commonality": "둘 다 원수의 대외 관계 권한을 규정한 조문이다.",
+          "difference": "후보에는 외교사절 신임·접수에 관한 문언이 전혀 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 조약 체결과 사절의 신임·접수를 함께 규정하여 대상 조문의 '조약 체결'과 '외교사절 신임접수' 요소에 문언상 대응한다. 반면 선전포고·강화는 법률사항으로 분리되어 있어 이 부분은 대조된다.",
+      "evidence": [
+        {
+          "element": "조약 체결 주체",
+          "target_field": "original_text",
+          "target_quote": "條約을 締結하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Er schließt im Namen des Reichs Bündnisse und andere Verträge mit auswärtigen Mächten.",
+          "commonality": "대통령이 대외 조약을 체결한다는 권한 배분이 같다.",
+          "difference": "후보는 '제국의 이름으로' 체결하고, 입법사항 관련 조약은 의회 동의를 요구하는 조건을 두나 대상 조문에는 그런 단서가 없고 비준이 명시된다."
+        },
+        {
+          "element": "외교사절 신임접수",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외교사절을 신임접수한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Er beglaubigt und empfängt die Gesandten.",
+          "commonality": "신임(파견 신임장 수여)과 접수를 한 문장에서 대통령 권한으로 결합한 표현 구조가 같다.",
+          "difference": "후보는 신임·접수 순서가 반대이며 대상은 '信任接受'라는 한 개 복합어로 압축한다."
+        },
+        {
+          "element": "선전포고와 강화의 주체",
+          "target_field": "original_text",
+          "target_quote": "宣戰布告와 講和를 行하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Kriegserklärung und Friedensschluß erfolgen durch Reichsgesetz.",
+          "commonality": "전쟁선포와 강화를 한 쌍으로 묶어 규율한다.",
+          "difference": "후보는 이를 법률로 하도록 하여 대통령 권한에서 배제하나, 대상은 대통령이 직접 행한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_031",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 조약에 서명하고 비준한다는 점, 그리고 외국 사절의 신임 관련 규정을 두는 점에서 대상 조문의 '체결하고 비준하며', '외교사절 신임접수'에 대응한다.",
+      "evidence": [
+        {
+          "element": "조약의 체결(서명)과 비준 병렬",
+          "target_field": "original_text",
+          "target_quote": "條約을 締結하고 批准하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Il signe et ratifie les traités.",
+          "commonality": "대통령이 조약에 관해 서명(체결)과 비준 두 행위를 함께 하는 병렬 구조다.",
+          "difference": "후보는 '서명(signe)'이고 대상은 '체결'이며, 후보는 대통령이 국제교섭 보고를 받는다는 별도 문장을 앞에 둔다."
+        },
+        {
+          "element": "외교사절 신임·접수",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외교사절을 신임접수한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "le président de la République accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères",
+          "commonality": "자국 사절의 신임과 외국 사절의 신임장 접수를 대통령 권한으로 규정한다.",
+          "difference": "후보는 대사·특사로 대상을 세분하고 접수를 수동형 별도 문장으로 두나, 대상은 '외교사절'로 일괄하여 한 복합어로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_065",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가원수가 사절을 접수·신임하고 국가조약을 체결한다는 열거가 대상 조문의 두 요소와 대응한다. 다만 선전포고·강화 요소는 없고, 후보는 임명·사면 등 다수 권한을 함께 규정한다.",
+      "evidence": [
+        {
+          "element": "외교사절 신임접수",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외교사절을 신임접수한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "empfängt und beglaubigt die Gesandten",
+          "commonality": "사절의 접수와 신임을 원수의 권한으로 한 구절에 묶는다.",
+          "difference": "후보는 외국 영사 임명 승인과 재외 영사대표 임명까지 덧붙이나 대상은 외교사절 신임접수만 둔다."
+        },
+        {
+          "element": "조약 체결",
+          "target_field": "original_text",
+          "target_quote": "條約을 締結하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "schließt die Staatsverträge ab",
+          "commonality": "원수가 국가 간 조약을 체결한다는 권한 규정이 같다.",
+          "difference": "후보는 비준을 별도로 언급하지 않고, 선전포고·강화 권한도 이 조문에 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 조약을 교섭하고 비준한다는 동사 병렬이 대상 조문의 '체결하고 비준하며'와 대응한다. 다만 의회 보고·양원 의결 등 조건과 절차가 대상에는 없고, 선전강화·사절 규정도 없어 대응 범위는 조약 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "조약 체결·비준의 주체와 동사 병렬",
+          "target_field": "original_text",
+          "target_quote": "條約을 締結하고 批准하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Président de la République négocie et ratifie les traités.",
+          "commonality": "대통령을 주어로 조약에 관한 두 행위를 병렬 동사로 규정한다.",
+          "difference": "후보의 첫 동사는 '교섭(négocie)'이고 대상은 '체결'이며, 후보는 평화·통상조약 등에 양원 의결과 의회 보고라는 조건·절차를 붙이나 대상 조문에는 그런 제한이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_065",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "개정판과 동일한 문언으로, 사절의 접수·신임과 국가조약 체결이 대상 조문 요소에 대응한다. 대응 범위는 조약 체결과 외교사절 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "외교사절 신임접수",
+          "target_field": "original_text",
+          "target_quote": "外交使節을 信任接受한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "empfängt und beglaubigt die Gesandten",
+          "commonality": "접수와 신임을 결합해 원수 권한으로 규정한다.",
+          "difference": "후보는 영사 임명 승인·재외 영사 임명 등 추가 항목을 같은 문장에 포함한다."
+        },
+        {
+          "element": "조약 체결",
+          "target_field": "original_text",
+          "target_quote": "條約을 締結하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "und schließt die Staatsverträge ab",
+          "commonality": "원수가 국가조약을 체결한다는 규정이다.",
+          "difference": "비준 명시가 없고, 선전포고·강화는 이 조문에 규정되지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "총통이 선전·강화 및 조약 체결 권한을 한 문장에서 행사한다는 구성이 대상 조문 전반부와 대응한다. 비준과 외교사절 부분은 대응이 없다.",
+      "evidence": [
+        {
+          "element": "선전·강화와 조약 체결의 결합",
+          "target_field": "original_text",
+          "target_quote": "條約을 締結하고 批准하며 宣戰布告와 講和를 行하고",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統依法行使宣戰媾和及締結條約之權。",
+          "commonality": "국가원수 1인이 선전·강화와 조약 체결을 함께 행사한다는 권한 묶음이 같다.",
+          "difference": "후보는 '依法'이라는 법률유보를 두고 열거 순서가 선전·강화 먼저이며, 비준과 외교사절 신임접수는 규정하지 않는다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'체결'과 '批准'을 대통령 단독 권한으로 나란히 두면서 국회 동의·법률유보 등 아무런 조건·절차를 붙이지 않은 점(후보들은 대체로 헌법·법률 유보나 의회 동의 조건을 둠)",
+    "조약 체결·비준, 선전포고·강화, 외교사절 신임접수 세 요소를 한 조문 한 문장에 모두 통합한 편성"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "AT1920 원문과 1929년 개정판 후보는 제시된 본문이 동일하여 두 후보 간 우열을 문언만으로 구분할 수 없다.",
+    "독일어·프랑스어 후보의 일부 판단은 제공된 원문 구조에 근거했으며, 한국어 대역문은 보조적으로만 참조했다."
+  ],
+  "short_answer": "대상 조문은 조약 체결·비준, 선전포고·강화, 외교사절 신임접수라는 세 요소를 한 문장에 통합하고 있어, 각 요소별로 복수 후보와 문언상 대응이 확인된다. 중화민국헌법 제38조와 五五憲草 제39조는 '선전·강화 + 조약 체결'을 원수 권한으로 묶는 구성에서, 바이마르 제45조와 오스트리아 제65조(원문·개정판)는 '조약 체결 + 사절 신임·접수'에서 대응한다. 프랑스 1946년 제31조와 1875년 제8조는 '서명/교섭하고 비준한다'는 병렬 동사로 대상의 '체결하고 비준하며'에 대응한다. 다만 후보들은 대체로 법률유보(依法·依本憲法之規定), 의회 동의·양원 의결, 또는 선전·강화의 법률사항화 같은 조건·절차를 붙이는 반면, 대상 조문은 아무런 단서 없이 대통령 권한으로만 규정한다는 점에서 차이가 크다. 이는 문언상 대응일 뿐 실제 참조 관계의 확정은 아니다."
+}

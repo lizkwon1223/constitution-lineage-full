@@ -1,0 +1,104 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_060",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령이 의회와 '교서(message)'로 소통한다는 규율이 대상 조문의 '서한으로 의견을 표시한다' 부분과 주체(대통령)와 수단(문서) 면에서 구체적으로 대응한다. 다만 출석·발언 방식은 규정하지 않는다.",
+      "evidence": [
+        {
+          "element": "서면(교서)에 의한 의견 표시",
+          "target_field": "original_text",
+          "target_quote": "書翰으로 意見을 表示한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "communique avec le Parlement par des messages adressés à l'Assemblée nationale",
+          "commonality": "국가원수인 대통령이 의회에 대하여 문서(서한/교서) 형식으로 의사를 전달하는 방식을 헌법에 명시한 점이 같다.",
+          "difference": "후보는 문서 송부를 대통령과 의회의 유일한 소통 방식으로 규정하고 수신처를 국민의회로 특정하나, 대상은 '중요한 국무'라는 사항적 한정을 두고 출석·발언과 서한을 선택적으로 병렬한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_072",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국무'에 관하여 국회에 대하여 행위한다는 점에서 소재가 겹치나, 주체가 내각총리대신이고 행위는 의안 제출·보고·행정각부 지휘감독으로서 출석발언이나 서한이라는 수단 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_032",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국무회의 주재와 의사록 작성·보관에 관한 규정으로, 대통령의 국회 출석·발언이나 서한에 의한 의견 표시와 규율 요소가 겹치지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_071",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'出席(列席)하여 意見을 陳述'이라는 문형이 대상의 '國會에 出席하여 發言'·'意見을 表示'와 구체적으로 대응한다. 다만 주체가 대통령이 아니라 각 원장·부회 수장이므로 대응 범위는 출석·의견진술 요소에 한정된다.",
+      "evidence": [
+        {
+          "element": "의회 출석 및 의견 진술",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 發言하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "關係院院長及各部會首長得列席陳述意見",
+          "commonality": "행정부 측 인사가 입법기관 회의에 출석하여 의견을 진술(발언)할 수 있다는 권능을 규정한 문형이 유사하다.",
+          "difference": "주체가 대통령이 아니라 관계 각 원장·각 부회 수장이고, 시기가 '입법원 개회시'로 한정되며, 서한에 의한 의견 표시라는 대체 수단이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_006",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령의 교서에 의한 의회 소통과 각료의 양원 출석·발언(청취) 권을 한 조문에서 함께 규정하여, 대상 조문의 '출석 발언' 및 '서한에 의한 의견 표시' 두 요소 모두와 문언상 대응한다.",
+      "evidence": [
+        {
+          "element": "서면(교서)에 의한 의견 표시",
+          "target_field": "original_text",
+          "target_quote": "書翰으로 意見을 表示한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le Président de la République communique avec les chambres par des messages",
+          "commonality": "대통령이 직접 등원하지 않고 문서로 의회에 의사를 전달하는 방식을 명시한 점이 같다.",
+          "difference": "후보는 교서를 장관이 연단에서 낭독하도록 하는 절차를 부가하고 양원을 상대로 하나, 대상은 낭독 절차가 없고 '중요한 국무'로 사항을 한정하며 단원제 국회를 상대로 한다."
+        },
+        {
+          "element": "의회 출석 발언",
+          "target_field": "original_text",
+          "target_quote": "國會에 出席하여 發言하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "Les ministres ont leur entrée dans les deux chambres et doivent être entendus quand ils le demandent",
+          "commonality": "행정부 측이 의회에 출석하여 발언(진술)할 수 있음을 헌법률이 보장하는 구조가 대응한다.",
+          "difference": "후보에서 출석·발언 주체는 대통령이 아니라 장관이고 요구 시 청취 의무라는 의회 측 효과가 명시되나, 대상은 대통령 본인의 출석·발언을 규정하고 청취 의무 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출 주체와 임기·재선에 관한 규정으로 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_063",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "출석하여 발언한다는 문언이 겹치나 주체가 내각총리대신·국무대신이고, 의석 보유 여부 및 요구 시 출석의무라는 조건·효과 규율이 중심이어서 대통령의 출석·서한 선택 구조와는 규율 축이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'重要한 國務에 關하여'라는 사항적 한정",
+    "출석 발언과 서한 표시 중 하나를 대통령이 선택하는 병렬 구조",
+    "대통령 본인의 의회 출석·발언(후보들은 장관·원장급 출석 또는 대통령의 문서 소통만 규정)"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·기초 경위 등 역사적 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "프랑스·중화민국·일본 후보의 대응 판단 중 일부는 한국어 번역문과의 대조에 의존할 수 있어 원문 표현의 뉘앙스 차이가 남는다."
+  ],
+  "short_answer": "대상 조문은 대통령이 ①국회에 출석하여 발언하거나 ②서한으로 의견을 표시하는 두 수단을 병렬한다. 서한(교서) 요소는 FR1946 제37조와 FR1875 헌법률 제6조에 구체적으로 대응하고, 특히 FR1875 제6조는 교서 소통과 행정부 측의 의회 출석·발언을 한 조문에 함께 담아 두 요소 모두와 문형상 연결된다. 출석하여 의견을 진술한다는 문형은 중화민국헌법 제71조와 대응하나 주체가 대통령이 아니라 각 원장·부회 수장이므로 대응 범위는 그 요소에 한정된다. 일본국헌법 제63조·제72조는 주체가 내각총리대신·국무대신이고 출석의무·보고 등 다른 규율 축을 가져 일반적 유사에 그친다. '중요한 국무'라는 한정과 대통령 본인의 출석·발언 권한, 두 수단의 선택적 병렬 구조는 제시 후보로 온전히 설명되지 않으며, 이상은 문언 대응 검토일 뿐 역사적 참조의 확정은 아니다."
+}

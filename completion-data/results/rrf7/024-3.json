@@ -1,0 +1,103 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_024",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_024",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가에 대한 금전청구를 '법률에 의하여' 구성하는 문형은 겹치나, 규율 대상이 위법한 공무원의 자유·권리 침해에 따른 손해배상(賠償)이어서 무죄판결을 받은 구금자에 대한 형사보상(補償)과 요건·수급주체·책임구조가 다르다. 조문 주제가 상이하므로 대응으로 보기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_037",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제1항의 '형사피고인 - 지체없이 - 공개재판을 받을 권리'라는 주체·권리·속성 조합이 후보 제1항과 구체적으로 대응한다. 다만 후보의 증인심문권·변호인의뢰권 부분은 대상에 없으므로 대응 범위는 제1항에 한정된다.",
+      "evidence": [
+        {
+          "element": "권리주체와 권리내용(신속·공개재판)",
+          "target_field": "original_text",
+          "target_quote": "刑事被告人은 相當한 理由가 없는 限 遲滯없이 公開裁判을 받을 權利가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて刑事事件においては、被告人は、公平な裁判所の迅速な公開裁判を受ける権利を有する。",
+          "commonality": "형사피고인이 신속(지체없이/迅速)한 공개재판을 받을 권리를 가진다는 규율이 일치한다.",
+          "difference": "후보는 '공평한 재판소에 의한'이라는 법원 요건을 두나 대상은 이를 두지 않고, 대신 '상당한 이유가 없는 한'이라는 예외 단서를 둔다."
+        },
+        {
+          "element": "조문 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "형사피고인은 상당한 이유가 없는 한 지체없이 공개재판을 받을 권리가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "２　刑事被告人は、すべての証人に対して審問する機会を充分に与へられ",
+          "commonality": "'刑事被告人'이라는 동일한 주체 표기를 사용한다.",
+          "difference": "후보 제2·3항의 증인심문권·국선변호 규정은 대상 조문에 전혀 반영되어 있지 않아 대응이 제1항에 국한된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_017",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'법률이 정하는 바에 따라 국가에 청구'라는 문형이 대상 제2항과 닮았으나, 요건이 공무원의 불법행위로 인한 손해의 배상이고 상대방에 공공단체가 포함되어 형사보상과는 요건·효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제2항의 구금-무죄판결-법률이 정하는 바에 따른 국가에 대한 보상청구라는 요건·절차·효과가 후보와 요소별로 대응한다.",
+      "evidence": [
+        {
+          "element": "보상청구의 요건과 상대방",
+          "target_field": "original_text",
+          "target_quote": "刑事被告人으로서 拘禁되었던 者가 無罪判決을 받은 때에는 法律의 定하는 바에 依하여 國家에 對하여 補償을 請求할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "何人も、抑留又は拘禁された後、無罪の裁判を受けたときは、法律の定めるところにより、国にその補償を求めることができる。",
+          "commonality": "구금 후 무죄판결을 받은 경우 법률이 정하는 바에 따라 국가에 '보상'을 청구할 수 있다는 점(배상이 아닌 보상)까지 일치한다.",
+          "difference": "후보는 주체를 '何人も'로 하고 '抑留 또는 拘禁'을 병기하는 반면, 대상은 '형사피고인으로서 구금되었던 자'로 주체와 사유를 좁게 한정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_026",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가에 대한 청구를 법률에 유보하는 문형은 겹치지만, 위법한 공무원 행위로 인한 손해배상 규정이어서 무죄구금자 보상이라는 대상 제2항의 요건·효과와 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_034",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'정당한 이유', '즉시', '공개의 법정' 등 어휘가 부분적으로 겹치나, 후보는 구금의 요건과 구금이유의 법정 고지 절차를 규율하고 대상 제1항은 재판을 받을 권리를 규율하여 권리내용과 절차가 다르다. 어휘 중복만으로 선택하기 어렵다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_VI",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제1항의 형사피고인의 신속·공개재판권과 문언상 대응한다. 다만 배심·재판지·고지·대질·변호인 등 후보의 나머지 권리들은 대상에 없어 대응은 'speedy and public trial' 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "신속·공개재판을 받을 권리",
+          "target_field": "original_text",
+          "target_quote": "刑事被告人은 相當한 理由가 없는 限 遲滯없이 公開裁判을 받을 權利가 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "the accused shall enjoy the right to a speedy and public trial",
+          "commonality": "형사절차의 피고인에게 신속하고 공개된 재판을 받을 권리를 인정한다.",
+          "difference": "후보는 범죄지 주·지역의 공정한 배심에 의한 재판을 요건으로 삼고 고지·대질·강제절차·변호인 조력권을 함께 열거하나, 대상은 이를 두지 않고 '상당한 이유가 없는 한'이라는 예외만 둔다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "제1항의 '相當한 理由가 없는 限'이라는 예외 단서(지체 없는 재판 요구의 제한 사유)를 동일한 형태로 규정한 후보는 제시된 범위에서 확인되지 않는다",
+    "제1항 권리의 상대방(법원의 성격·구성)에 대한 규정을 두지 않은 점"
+  ],
+  "limitations": [
+    "ROC 후보들의 유사성은 주로 한국어 번역문(賠償/補償, '법률의 정하는 바에 의하여 국가에 대하여 청구')에서 두드러지므로 번역 의존 가능성이 있다",
+    "문언상 대응 관계만 확인한 것이며 실제 참조·계수 여부라는 역사적 사실은 제공 본문만으로 확정할 수 없다"
+  ],
+  "short_answer": "대상 제1항(형사피고인의 지체 없는 공개재판권)은 일본국헌법 제37조 제1항 및 미국 수정헌법 제6조의 'speedy and public trial' 부분과 구체적으로 대응하고, 제2항(무죄판결을 받은 구금자의 국가에 대한 보상청구)은 일본국헌법 제40조와 요건·절차·효과 및 '補償'이라는 용어까지 대응한다. 차이로는 대상이 '공평한 재판소'나 배심·대질·변호인 조력 등 부수 권리를 두지 않는 대신 '상당한 이유가 없는 한'이라는 예외 단서를 두고, 보상청구 주체를 '형사피고인으로서 구금되었던 자'로 한정한 점이 있다. 중화민국헌법 제24조·五五憲草 제26조와 일본국헌법 제17조는 '법률에 의하여 국가에 청구'라는 문형이 닮았으나 공무원의 위법행위로 인한 손해배상이어서 요건·주체가 달라 선택하지 않았다. 일본국헌법 제34조는 '정당한 이유', '공개의 법정' 등 어휘만 겹칠 뿐 구금 절차 규율이므로 제외했다. 이상은 문언상 대응 확인이며 실제 참조 여부의 확정은 아니다."
+}

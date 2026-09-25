@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_018",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "18",
+    "original_text": "勤勞者의 團結, 團體交涉과 團體行動의 自由는 法律의 範圍內에서 保障된다.\n營利를 目的으로 하는 私企業에 있어서는 勤勞者는 法律의 定하는 바에 依하여 利益의 分配에 均霑할 權利가 있다.",
+    "workbook_text_ko": "근로자의 단결, 단체교섭과 단체행동의 자유는 법률의 범위내에서 보장된다.\n영리를 목적으로 하는 사기업에 있어서는 근로자는 법률의 정하는 바에 의하여 이익의 분배에 균점할 권리가 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_ORIGINAL_ART_118",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "118",
+      "original_text": "Die Ortsgemeinden und Gebietsgemeinden sind auch selbständige Wirtschaftskörper; sie haben das Recht, Vermögen aller Art zu besitzen und zu erwerben und innerhalb der Schranken der Bundes- und Landesgesetze darüber zu verfügen, wirtschaftliche Unternehmungen zu betreiben, ihren Haushalt selbständig zu führen und Abgaben einzuheben.",
+      "workbook_text_ko": "기초자치단체와 지역자치단체는 독립된 경제주체이기도 하다. 이들은 모든 종류의 재산을 보유·취득하고 연방법률 및 주법률의 한계 안에서 처분하며, 경제적 사업을 운영하고, 자신의 재정을 독립적으로 관리하며, 공과금을 징수할 권리를 가진다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "8",
+      "original_text": "Le Président de la République négocie et ratifie les traités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent. - Les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ne sont définitifs qu'après avoir été votés par les deux chambres. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.",
+      "workbook_text_ko": "공화국대통령은 조약을 교섭하고 비준한다. 국가의 이익과 안전\n(l'intérêt et la sûreté de l'État)이 그것을 허락할 때에는 즉시조약의 교섭과\n비준을 양원에 보고한다.\n평화조약, 통상조약, 국가재정을 구속하는 조약, 개인의 신분과 외국에\n있는 프랑스인의 소유권에 관한 조약은 양원에서 채택한 후가 아니면 확정\n되지 아니한다. 영토의 어떠한 할양ㆍ교환ㆍ부가도 법률에 의하지 아니하\n면 할 수 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_075",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "75",
+      "original_text": "(1) Beamte, Angestellte und Arbeiter des Staates und der Körperschaften des öffentlichen Rechtes bedürfen zur Ausübung der Tätigkeit als Mitglieder einer Provinzial-, Kreis- und Gemeindevertretung keines Urlaubs.\n(2) Gehalt und Lohn sind weiterzuzahlen.",
+      "workbook_text_ko": "(1) 국가와 공법상 단체의 공무원·직원·근로자는 도·군·지방자치단체 대표기관의 구성원으로 활동하기 위하여 휴가를 받을 필요가 없다.\n(2) 봉급과 임금은 계속 지급하여야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_088",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "88",
+      "original_text": "La coordination de l'activité des fonctionnaires de l'Etat, la représentation des intérêts nationaux et le contrôle administratif des collectivités territoriales sont assurés, dans le cadre départemental, par les délégués du Gouvernement, désignés en Conseil des ministres.",
+      "workbook_text_ko": "국가공무원(fonctionnaire de l'État)의 활동의 조정, 국가이익의 대표\n(représentation des intérêts nationaux)와 지방공공단체의 행정감독\n(contrôle administratif)은 현의 범위 내에서는 국무회의가 임명한 정부위\n원(délégué du Gouvernement)이 보장한다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_030",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "30",
+      "original_text": "Alle Preußen haben das Recht, sich zu solchen Zwecken, welche den Strafgesetzen nicht zuwiderlaufen, in Gesellschaften zu vereinigen.\nDas Gesetz regelt, insbesondere zur Aufrechthaltung der öffentlichen Sicherheit, die Ausübung des in diesem und in dem vorstehenden Artikel (29.) gewährleisteten Rechts.\nPolitische Vereine können Beschränkungen und vorübergehenden Verboten im Wege der Gesetzgebung unterworfen werden.",
+      "workbook_text_ko": "모든 프로이센인은 형법에\n위반되지 않는 목적으로 단체를 결\n성할 권리를 가진다.\n법률은 특히 공공의 안전을 유지하\n기 위하여 본조와 전조(제29조)에 보\n장된 권리의 행사를 규제한다.\n정치적 결사에는 입법에 의하여 제한\n과 일시적 금지가 부과될 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_004",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "4",
+      "original_text": "國民은 左記 各項 政策의 確立實施에 依하여 生活均等權을 享有함\n一 國民의 基本生活을 確保할 計劃經濟의 樹立\n二 主要한 生活必需品의 統制管理와 合理的 物價政策의 樹立\n三 稅制의 整理와 累進率의 强化\n四 農民本位의 土地 再分配\n五 大規模의 主要工場 及 鑛山의 國營 또는 國家 管理\n六 勞働者의 生活을 安定키 爲한 最低賃金制의 確立\n七 主要企業의 經營管理에 從業員代表 參與\n八 俸給者의 生活을 安定시키기 爲한 家族給與制의 確立\n九 重要工場內에 保健 衛生 敎育 及 娛樂施設의 整備\n十 失業保險 廢疾保險 其他 社會保險制의 實施",
+      "workbook_text_ko": "국민은 아래 각 항 정책의 확립·실시에 의하여 생활균등권을 향유함.\n1. 국민의 기본생활을 확보할 계획경제의 수립\n2. 주요한 생활필수품의 통제관리와 합리적 물가정책의 수립\n3. 세제의 정리와 누진율의 강화\n4. 농민 본위의 토지 재분배\n5. 대규모의 주요 공장 및 광산의 국영 또는 국가 관리\n6. 노동자의 생활을 안정시키기 위한 최저임금제의 확립\n7. 주요 기업의 경영관리에 종업원 대표 참여\n8. 봉급자의 생활을 안정시키기 위한 가족급여제의 확립\n9. 중요 공장 내에 보건·위생·교육 및 오락 시설의 정비\n10. 실업보험·폐질보험, 기타 사회보험제의 실시"
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_VII",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "VII",
+      "original_text": "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.",
+      "workbook_text_ko": "보통법상의 소송에서, 쟁송의 액수가 20달러를 초과하는\n경우에는 배심에 의한 심리의 권리가 보장된다. 배심에 의\n하여 심리된 사실은 보통법의 규칙에 의하는 외에는 합중\n국의 어느 법원에서도 재심받지 않는다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_024",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "24",
+      "original_text": "凡公務員違法侵害人民之自由或權利者，除依法律受懲戒外，應負刑事及民事責任。被害人民就其所受損害，並得依法律向國家請求賠償。",
+      "workbook_text_ko": "違法的으로 人民의 自由 또는 權利를 侵害한 公務員은 法律에 依하여 懲戒를 받는 外에 刑事上 및 民事上의 責任을지지 않으면 아니 된다. 害를 받은 人民은 그 損害에 關하여 法律의 定하는 바에 依하여 國家에 對하여 賠償을 請求할 수 있다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_029",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "29",
+      "original_text": "日本臣民ハ法律ノ範囲内ニ於テ言論著作印行集会及結社ノ自由ヲ有ス",
+      "workbook_text_ko": "일본 신민은 법률의 범위 안에서 언론·저작·출판·집회 및 결사의 자유를 가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_025",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "25",
+      "original_text": "凡限制人民自由或權利之法律，以保障國家安全，避免緊急危難，維持社會秩序，或增進公共利益所必要者爲限。",
+      "workbook_text_ko": "인민의 자유나 권리를 제한하는 법률은 국가안전을 보장하거나 긴급한 위험을 피하거나 사회질서를 유지하거나 공공의 이익을 증진하기 위하여 필요한 것에 한한다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "III",
+      "original_text": "SECTION 1. (1) No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws.\n(2) Private property shall not be taken for public use without just compensation.\n(3) The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures shall not be violated, and no warrants shall issue but upon probable cause, to be determined by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched, and the persons or things to be seized.\n(4) The liberty of abode and of changing the same within the limits prescribed by law shall not be impaired.\n(5) The privacy of communication and correspondence shall be inviolable except upon lawful order of the court or when public safety and order require otherwise.\n(6) The right to form associations or societies for purposes not contrary to law shall not be abridged.\n(7) No law shall be made respecting an establishment of religion, or prohibiting the free exercise thereof, and the free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed. No religious test shall be required for the exercise of civil or political rights.\n(8) No law shall be passed abridging the freedom of speech, or of the press, or the right of the people peaceably to assemble and petition the Government for redress of grievances.\n(9) No law granting a title of nobility shall be enacted, and no person holding any office of profit or trust shall, without the consent of the Congress of the Philippines, accept any present, emolument, office, or title of any kind whatever from any foreign state.\n(10) No law impairing the obligation of contracts shall be passed.\n(11) No ex post facto law or bill of attainder shall be enacted.\n(12) No person shall be imprisoned for debt or nonpayment of a poll tax.\n(13) No involuntary servitude in any form shall exist except as a punishment for crime whereof the party shall have been duly convicted.\n(14) The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion, insurrection, or rebellion, when the public safety requires it, in any of which events the same may be suspended wherever during such period the necessity for such suspension shall exist.\n(15) No person shall be held to answer for a criminal offense without due process of law.\n(16) All persons shall before conviction be bailable by sufficient sureties, except those charged with capital offenses when evidence of guilt is strong. Excessive bail shall not be required.\n(17) In all criminal prosecutions the accused shall be presumed to be innocent until the contrary is proved, and shall enjoy the right to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witnesses in his behalf.\n(18) No person shall be compelled to be a witness against himself.\n(19) Excessive fines shall not be imposed, nor cruel and unusual punishment inflicted.\n(20) No person shall be twice put in jeopardy of punishment for the same offense. If an act is punished by a law and an ordinance, conviction or acquittal under either shall constitute a bar to another prosecution for the same act.\n(21) Free access to the courts shall not be denied to any person by reason of poverty.",
+      "workbook_text_ko": "제1절. (1) 누구도 적법절차 없이 생명·자유 또는 재산을 박탈당하지 않으며, 누구에게도 법률의 평등한 보호를 거부할 수 없다.\n(2) 정당한 보상 없이 사유재산을 공공용도로 수용할 수 없다.\n(3) 불합리한 수색·압수로부터 신체·주거·문서 및 소지품의 안전을 보장받을 국민의 권리는 침해할 수 없다. 영장은 고소인과 그가 제시하는 증인을 선서 또는 확약 아래 심문한 뒤 판사가 판단하는 상당한 이유가 있어야 하고, 수색할 장소와 체포할 사람 또는 압수할 물건을 특정하여야 발부할 수 있다.\n(4) 법률이 정한 범위 안에서 거주하고 거주지를 변경할 자유는 침해할 수 없다.\n(5) 통신과 서신의 비밀은 법원의 적법한 명령이 있거나 공공의 안전과 질서가 달리 요구하는 경우를 제외하고는 침해할 수 없다.\n(6) 법률에 반하지 않는 목적을 위하여 단체나 결사를 조직할 권리를 제한할 수 없다.\n(7) 국교의 수립에 관한 법률이나 종교의 자유로운 행사를 금지하는 법률을 제정할 수 없다. 차별이나 우대 없이 종교적 신앙과 예배를 자유롭게 실천하고 향유하는 것은 영구히 허용한다. 시민적 또는 정치적 권리의 행사에 종교적 심사를 요구할 수 없다.\n(8) 언론·출판의 자유 또는 국민이 평화롭게 집회하고 고충의 구제를 위하여 정부에 청원할 권리를 제한하는 법률을 제정할 수 없다.\n(9) 귀족 칭호를 부여하는 법률을 제정할 수 없다. 보수나 신임을 수반하는 공직에 있는 사람은 필리핀 의회의 동의 없이 외국으로부터 어떠한 종류의 선물·보수·직위 또는 칭호도 받을 수 없다.\n(10) 계약상 의무를 침해하는 법률을 제정할 수 없다.\n(11) 소급처벌법이나 사권박탈법을 제정할 수 없다.\n(12) 누구도 채무나 인두세 미납 때문에 구금되지 않는다.\n(13) 적법하게 유죄판결을 받은 범죄에 대한 처벌을 제외하고는 어떠한 형태의 강제노역도 존재할 수 없다.\n(14) 인신보호영장의 특권은 침략·반란 또는 모반이 있고 공공의 안전이 요구하는 경우를 제외하고는 정지할 수 없다. 이러한 사태에서는 그 기간 중 정지할 필요가 있는 곳에서만 정지할 수 있다.\n(15) 누구도 적법절차 없이 형사범죄에 대한 책임을 추궁받지 않는다.\n(16) 사형에 해당하는 범죄로 기소되고 유죄의 증거가 강한 경우를 제외하고는 모든 사람은 유죄판결 전에 충분한 보증을 제공하여 보석될 수 있다. 과도한 보석보증금을 요구할 수 없다.\n(17) 모든 형사소추에서 피고인은 반대의 증명이 있을 때까지 무죄로 추정되며, 자신과 변호인을 통하여 진술할 권리, 공소의 성질과 이유를 통지받을 권리, 신속하고 공개된 재판을 받을 권리, 증인과 대면할 권리 및 자신을 위한 증인의 출석을 확보할 강제절차를 이용할 권리를 가진다.\n(18) 누구도 자신에게 불리한 증인이 되도록 강요받지 않는다.\n(19) 과도한 벌금이나 잔혹하고 이례적인 형벌을 부과할 수 없다.\n(20) 누구도 같은 범죄로 두 번 처벌의 위험에 놓이지 않는다. 하나의 행위가 법률과 조례에 따라 처벌되는 경우, 어느 하나에 따른 유죄 또는 무죄의 판단은 같은 행위에 대한 다른 소추를 막는다.\n(21) 누구도 빈곤을 이유로 법원에 자유롭게 접근할 권리를 거부당하지 않는다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_015",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "15",
+      "original_text": "公民은 國家機關·協同團體 및 個人企業所에서 同一한 勞力에 對하여 同一한 報酬를 받을 權利를 가진다.",
+      "workbook_text_ko": "공민은 국가기관·협동단체 및 개인기업소에서 동일한 노력에 대하여 동일한 보수를 받을 권리를 가진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_028",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "28",
+      "original_text": "勤労者の団結する権利及び団体交渉その他の団体行動をする権利は、これを保障する。",
+      "workbook_text_ko": "근로자의 단결권, 단체교섭권 그 밖의 단체행동권을 보장한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_160",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "160",
+      "original_text": "Wer in einem Dienst- oder Arbeitsverhältnis als Angestellter oder Arbeiter steht, hat das Recht auf die zur Wahrnehmung staatsbürgerlicher Rechte und, soweit dadurch der Betrieb nicht erheblich geschädigt wird, zur Ausübung ihm übertragener öffentlicher Ehrenämter nötige freie Zeit. Wieweit ihm der Anspruch auf Vergütung erhalten bleibt, bestimmt das Gesetz.",
+      "workbook_text_ko": "근로관계 또는 노동관계에 있는 종업원 또는 노동자는 공민권의 행사와 작업에 현저한 지장이 없는 한 그에게 위탁된 공적인 명예직의 수행에 필요한 자유 시간을 가질 권리가 있다. 어느 정도의 보수청구권을 갖는가 하는 것은 법률로 정한다."
+    }
+  ]
+}

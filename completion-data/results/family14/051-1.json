@@ -1,0 +1,211 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_051",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_065",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 첫 구절이 대상 조문 후단(대외적 국가대표)과 주체(대통령)·문형 모두에서 직접 대응한다. 다만 대응 범위는 후단에 한정되며, 전단의 '행정권의 수반'에 해당하는 표현은 없다.",
+      "evidence": [
+        {
+          "element": "대외적 국가대표",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외국에 대하여 국가를 대표한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Bundespräsident vertritt die Republik nach außen",
+          "commonality": "대통령을 주체로 하여 대외적으로 국가(공화국)를 대표한다는 규율을 동일한 문형으로 규정",
+          "difference": "후보는 이어서 사절 접수·신임, 영사 임명 승인, 조약 체결 등 개별 권한을 열거하지만 대상 조문은 대표성만 선언하고 행정권 수반 지위를 함께 규정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_VII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1절의 행정권 귀속 규정이 대상 조문 전단(대통령=행정권의 수반)과 대응한다. 대응 범위는 행정권 귀속 부분에 한정되고, 후단의 대외 국가대표는 후보에서 사절 접수(제10절 (7))로만 나타나 문언이 다르다.",
+      "evidence": [
+        {
+          "element": "행정권의 귀속 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 행정권의 수반이며",
+          "candidate_field": "original_text",
+          "candidate_quote": "SECTION 1. The Executive power shall be vested in a President of the Philippines.",
+          "commonality": "행정권을 단독의 대통령직에 귀속시키는 점이 같음",
+          "difference": "후보는 '행정권이 대통령에게 속한다'는 귀속 형식인 반면 대상은 '수반'이라는 지위 선언 형식이고, 후보는 별도로 부처 통할·법률 충실집행 의무를 제10절에 나누어 규정"
+        },
+        {
+          "element": "대외관계에서의 지위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외국에 대하여 국가를 대표한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "He shall receive ambassadors and other public ministers duly accredited to the Government of the Philippines.",
+          "commonality": "대통령이 대외관계에서 국가를 대표하는 지위를 전제로 하는 규율",
+          "difference": "후보는 사절 접수라는 개별 권한만 규정하고 '국가를 대표한다'는 포괄 선언은 두지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_035",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'X는 …이며 대외적으로 국가를 대표한다'는 두 마디 구성과 한자 문언('對外代表')이 대상 조문과 매우 가깝다. 다만 앞 마디가 '국가원수'인지 '행정권의 수반'인지가 다르다.",
+      "evidence": [
+        {
+          "element": "조문 구성(지위 선언 + 대외대표)",
+          "target_field": "original_text",
+          "target_quote": "大統領은 行政權의 首班이며 外國에 對하여 國家를 代表한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統為國家元首，對外代表中華民國。",
+          "commonality": "국가 최고 개인기관의 지위를 먼저 선언하고 이어 대외 국가대표를 한 문장으로 규정하는 동일한 구성",
+          "difference": "후보는 지위를 '국가원수'로 규정하는 데 반해 대상은 '행정권의 수반'으로 규정하여 국가원수성을 명시하지 않음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 개별 권한(법률공포·은사·군지휘·임명·사절 신임장 접수)을 열거할 뿐 '행정권의 수반' 지위나 '국가를 대표한다'는 선언 규정이 없어 규율 요소의 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_076",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'행정의 수반'이라는 어구가 번역상 유사하나 주체가 영토 주재 정부대표이고 규율 대상이 영토 행정과 정부에 대한 책임이어서 대통령의 국가 차원 지위 규정과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_049",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대외적 국가대표 조항이 한 문장 선언 형식으로 대상 조문 후단과 정확히 대응한다. 다만 대표 주체가 합의제 내각이라는 점에서 대조적이다.",
+      "evidence": [
+        {
+          "element": "대외적 국가대표",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외국에 대하여 국가를 대표한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Staatsministerium vertritt den Staat nach außen.",
+          "commonality": "대외적으로 국가를 대표한다는 내용을 부가조건 없이 한 문장으로 선언",
+          "difference": "대표 주체가 후보에서는 합의제 기관인 주내각이고 대상에서는 단독기관인 대통령이며, 후보에는 행정권 수반 지위 언급이 없음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_036",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "ROC1946과 동일한 문언으로, 지위 선언과 대외대표를 한 문장에 결합한 구성이 대상 조문과 대응한다. 앞 마디의 지위 내용(국가원수 vs 행정권의 수반)은 다르다.",
+      "evidence": [
+        {
+          "element": "조문 구성(지위 선언 + 대외대표)",
+          "target_field": "original_text",
+          "target_quote": "外國에 對하여 國家를 代表한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統爲國家元首，對外代表中華民國。",
+          "commonality": "총통/대통령을 주체로 지위 선언에 이어 대외 국가대표를 규정하는 동일한 문형",
+          "difference": "후보는 '국가원수'라는 지위만 규정하고 행정권과의 관계를 명시하지 않는 반면 대상은 행정권 수반으로 규정"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_045",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "집행권이 군주 1인에게 전속한다는 점에서 행정권의 단독 귀속이라는 주제는 겹치나, 주체가 국왕이고 '수반' 지위나 대외대표 규정이 없어 구체적 규율 요소의 대응이 부족하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가를 대표하고 행정권을 통할한다'는 서두가 대상 조문의 두 요소(행정권 수반·국가대표)와 모두 대응하며 한국어 법문 표현도 가깝다. 다만 후보는 이어서 권한을 열거하는 총괄조항이다.",
+      "evidence": [
+        {
+          "element": "국가대표",
+          "target_field": "original_text",
+          "target_quote": "國家를 代表한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은 國家를 代表하고",
+          "commonality": "국가 최고 행정수반이 국가를 대표한다는 선언을 조문 서두에 둠",
+          "difference": "후보는 '대외'라는 한정 없이 국가대표를 규정하고 주체가 정부주석이며, 대상은 '外國에 對하여'로 대표의 국면을 대외관계로 한정"
+        },
+        {
+          "element": "행정권에 대한 지위",
+          "target_field": "original_text",
+          "target_quote": "行政權의 首班",
+          "candidate_field": "original_text",
+          "candidate_quote": "行政權을 統轄하며",
+          "commonality": "동일 주체가 행정권 전반에 대한 최고적 지위를 가진다는 규율",
+          "difference": "후보는 '통할'이라는 작용을 규정하고 이어 11개 권한을 열거하는 반면, 대상은 '수반'이라는 지위만 선언하고 권한은 다른 조문으로 분리"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_045",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1문이 대통령의 대외 국가대표를 선언하여 대상 조문 후단과 대응한다. 대응 범위는 그 한 문장이고, 나머지 조약체결·사절 신임 접수 및 의회 동의 요건은 대상에 없다.",
+      "evidence": [
+        {
+          "element": "대외적 국가대표",
+          "target_field": "workbook_text_ko",
+          "target_quote": "외국에 대하여 국가를 대표한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Der Reichspräsident vertritt das Reich völkerrechtlich.",
+          "commonality": "대통령이 대외관계에서 국가를 대표한다는 선언을 독립된 문장으로 규정",
+          "difference": "후보는 '국제법상(völkerrechtlich)'이라는 표지를 쓰고 조약체결·사절 신임과 의회 동의 요건을 함께 규정하지만, 대상은 대표 선언만 두고 행정권 수반 지위를 병기"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_072",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "총리대신이 '내각을 대표'하고 행정 각부를 지휘·감독한다는 점에서 행정수반 관념과 닿으나, 대표의 객체가 내각이고 대외 국가대표가 아니며 국회에 대한 보고 등 절차 규정이어서 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_061",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "성(省)을 부문적 집행기관으로 규정하는 조직 조항으로, 국가원수의 지위나 대외대표와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'천황은 국가의 원수로서 통치권을 총람한다'는 지위 선언 문형은 유사하나, 주체가 군주이고 통치권 총람이라는 범위가 행정권 수반과 다르며 대외대표 규정이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제1항 첫 문장의 행정권 귀속 규정이 대상 조문 전단과 대응한다. 다만 대응은 그 한 문장에 한정되고, 대외관계는 사절 접수 권한으로만 규정되어 '국가를 대표한다'는 선언과는 문언이 다르다.",
+      "evidence": [
+        {
+          "element": "행정권의 귀속 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 행정권의 수반이며",
+          "candidate_field": "original_text",
+          "candidate_quote": "The executive Power shall be vested in a President of the United States of America.",
+          "commonality": "행정권을 단독의 대통령에게 귀속시키는 조문을 행정부 장의 첫머리에 둠",
+          "difference": "후보는 권한의 '귀속(vested in)' 형식이고 대상은 '수반'이라는 지위 선언 형식이며, 후보에는 대외적 국가대표 선언 대신 사절 접수·조약체결(상원 동의) 등 개별 권한과 요건이 규정됨"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'首班'이라는 지위 표현 자체(행정권 귀속·통할이 아니라 수반으로 규정한 어법)",
+    "행정권 수반과 대외 국가대표를 한 문장에 결합하면서 '국가원수' 표현은 쓰지 않은 선택"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "독일어·중국어·영어 후보의 일부 비교는 제공된 번역문에 의존한 이해가 개입될 수 있다."
+  ],
+  "short_answer": "대상 조문은 ①대통령의 행정권 수반 지위와 ②대외 국가대표라는 두 요소로 구성된다. ②에 대해서는 오스트리아 1920년 헌법 제65조 제1항, 프로이센 1920년 헌법 제49조, 바이마르헌법 제45조 제1문의 'vertritt … nach außen/völkerrechtlich' 문형과 중화민국 헌법 제35조·五五憲草 제36조의 '對外代表', 조선임시약헌 제22조의 '國家를 代表하고'가 구체적으로 대응한다. ①에 대해서는 미국 헌법 제2조 제1항 및 필리핀헌법 제7장 제1절의 행정권 귀속 규정과 조선임시약헌의 '行政權을 統轄하며'가 대응하되, 대상은 '귀속·통할'이 아니라 '수반'이라는 지위 선언 형식을 취한 점이 다르다. 주체 면에서 프로이센 1920년 헌법은 합의제 주내각, 프로이센 1850년 헌법과 대일본제국헌법은 군주를 주체로 삼아 대조된다. 이상은 문언 대응의 확인일 뿐 역사적 참조관계의 확정은 아니다."
+}

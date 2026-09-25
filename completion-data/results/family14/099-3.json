@@ -1,0 +1,199 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_099",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XV",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "일부 규정의 시행을 뒤로 미루는 예외 구조(제6절)는 대상 조문 단서와 형식상 유사하나, 유보 기준이 '코먼웰스 정부 출범'이라는 정치적 사건이고 제외 대상도 조·장 단위로 열거되어, 대상의 '법률의 제정이 없이는 실현될 수 없는 규정'이라는 기능적 기준과 대응하지 않는다. 나머지 절은 기존 법률·법원·공무원의 경과규정으로 주제가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_106",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "헌법의 공포 주체와 공포 형식을 정한다는 점에서 주제는 겹치지만, 공포 주체가 임시정부 대표(행정부)이고 국민투표 결과 발표 후 2일 이내라는 기간 규정이며 시행일 기산이나 법률 유보 단서가 없어, 대상의 '제정 국회 의장 공포일 시행' 및 단서와 구체적으로 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_056",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'公布…부터 施行'이라는 한국어 시행규정 문형이 직접 대응한다. 다만 기산점(공포 후 30일 vs 공포한 날)과 공포 주체 명시 여부, 단서 유무가 다르므로 대응 범위는 시행일 규정 본문에 한정된다.",
+      "evidence": [
+        {
+          "element": "시행일 기산(공포와의 연결)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法은 이 憲法을 制定한 國會의 議長이 公布한 날로부터 施行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "本法은 公布後 三十日부터 施行함",
+          "commonality": "헌법(본법)의 시행 시점을 공포를 기준으로 정하는 동일한 문형",
+          "difference": "대상은 공포한 날 즉시 시행이고 공포 주체를 제정 국회 의장으로 특정하는 반면, 후보는 공포 후 30일이며 공포 주체와 법률 유보 단서가 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_027",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공민의 헌법·법령 준수의무와 권리남용 처벌에 관한 규정으로, 헌법 시행일·공포 주체·법률 유보와 같은 대상 조문의 규율 요소와 접점이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_088",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공포일 시행'이라는 원칙과 '일부 규정은 뒤에 비로소 시행된다'는 예외를 한 조문에서 결합한 구조가 대상 조문의 본문+단서 구조와 구체적으로 대응한다. 다만 예외의 특정 방식과 조건이 다르다.",
+      "evidence": [
+        {
+          "element": "본문: 공포일 시행",
+          "target_field": "original_text",
+          "target_quote": "公布한 날로부터 施行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Verfassung tritt mit dem Tage ihrer Verkündung in Kraft",
+          "commonality": "헌법 전체가 공포일부터 효력을 발생한다는 원칙",
+          "difference": "대상은 공포 주체(제정 국회 의장)를 명시하는데 후보는 공포 주체를 규정하지 않는다"
+        },
+        {
+          "element": "단서: 일부 규정의 시행 유보",
+          "target_field": "original_text",
+          "target_quote": "但, 法律의 制定이 없이는 實現될 수 없는 規定은 그 法律이 施行되는 때부터 施行된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Diese Bestimmungen treten erst in Kraft, wenn die Provinziallandtage gemäß Artikel 74 neu gewählt sind.",
+          "commonality": "원칙적 시행일에서 제외되는 규정군의 시행을 후행 사건 발생 시점으로 미루는 구조",
+          "difference": "대상은 '법률 제정이 없으면 실현 불가한 규정'이라는 기능적 기준이고 조건이 그 법률의 시행인 반면, 후보는 조 번호로 열거하고 조건이 도의회의 새 선거이다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "헌법 규정의 실현에 법률(시행절차)이 필요한 경우를 별도로 규율하고, 준비절차의 주체를 '헌법을 제정한 국민대회'로 지정하는 점에서 대상의 단서 및 '이 憲法을 制定한 國會'라는 주체 특정 방식과 문언상 대응한다.",
+      "evidence": [
+        {
+          "element": "단서: 법률을 요하는 규정의 처리",
+          "target_field": "original_text",
+          "target_quote": "法律의 制定이 없이는 實現될 수 없는 規定",
+          "candidate_field": "original_text",
+          "candidate_quote": "本憲法規定事項，有另定實施程序之必要者，以法律定之。",
+          "commonality": "헌법 규정 중 별도의 법률 없이는 실현·실시될 수 없는 사항을 구분하여 법률에 맡기는 발상",
+          "difference": "대상은 그 규정의 시행 시점을 해당 법률 시행 시로 미루는 효과를 정하는 반면, 후보는 시행절차를 법률로 정하라는 입법위임만 규정하고 시행일 효과는 언급하지 않는다"
+        },
+        {
+          "element": "주체: 헌법을 제정한 의회",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會의 議長",
+          "candidate_field": "original_text",
+          "candidate_quote": "本憲法施行之準備程序由制定憲法之國民大會議定之。",
+          "commonality": "'헌법을 제정한 의회(국민대회)'라는 동일한 지시 방식으로 시행 관련 권한 주체를 특정",
+          "difference": "대상은 그 국회의 '의장'의 공포행위를 시행일 기준으로 삼고, 후보는 제정 국민대회 자체가 시행 준비절차를 의정하도록 한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_100",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "공포를 기산점으로 한 시행일 규정과 '헌법 시행에 필요한 법률의 제정'을 함께 다루는 점에서 대상 본문·단서의 문제의식과 대응한다. 다만 기간(6개월)과 규율 방향이 달라 대응 범위는 제한적이다.",
+      "evidence": [
+        {
+          "element": "시행일 기산과 시행에 필요한 법률",
+          "target_field": "workbook_text_ko",
+          "target_quote": "법률의 제정이 없이는 실현될 수 없는 규정은 그 법률이 시행되는 때부터 시행된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法を施行するために必要な法律の制定",
+          "commonality": "헌법 시행을 위하여 별도의 법률 제정이 필요함을 헌법 시행 조항에서 직접 언급",
+          "difference": "대상은 그러한 규정의 시행을 법률 시행 시까지 미루는 효과를 정하는데, 후보는 시행일 전에도 그 법률 제정·준비절차를 할 수 있다고 허용하는 반대 방향의 규율이다"
+        },
+        {
+          "element": "본문: 공포 기준 시행",
+          "target_field": "original_text",
+          "target_quote": "公布한 날로부터 施行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "この憲法は、公布の日から起算して六箇月を経過した日から、これを施行する。",
+          "commonality": "헌법의 시행일을 공포일을 기준으로 산정",
+          "difference": "대상은 공포한 날 즉시이고 공포 주체를 제정 국회 의장으로 명시하나, 후보는 공포일부터 6개월 경과일이며 공포 주체를 정하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_151",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "원칙적 시행일과 특정 조항의 예외적 시행일을 구분하는 구조는 유사하나, 원칙 기준이 국민의회 최초 회의일이고 예외 조항은 오히려 공포일에 앞당겨 시행되며 조 번호로 열거되어, '법률 제정 없이 실현 불가한 규정의 시행 유보'라는 대상 단서와 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_004",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "천황의 원수 지위와 통치권 총람에 관한 규정으로 헌법 시행일 규율과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_181",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제정 주체(국민의회)를 명시하면서 '공포일부터 효력 발생'을 규정하는 결합이 대상 본문과 대응한다. 다만 공포 주체 특정과 법률 유보 단서가 없어 대응은 본문에 한정된다.",
+      "evidence": [
+        {
+          "element": "본문: 공포일 시행",
+          "target_field": "original_text",
+          "target_quote": "公布한 날로부터 施行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Sie tritt mit dem Tage ihrer Verkündung in Kraft.",
+          "commonality": "헌법이 공포일부터 시행·효력발생한다는 원칙 규정",
+          "difference": "대상은 시행 기준일을 '제정 국회 의장이 공포한 날'로 공포 주체까지 특정하나 후보는 공포 주체를 정하지 않는다"
+        },
+        {
+          "element": "제정 주체의 명시",
+          "target_field": "workbook_text_ko",
+          "target_quote": "이 헌법을 제정한 국회의 의장",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Deutsche Volk hat durch seine Nationalversammlung diese Verfassung beschlossen und verabschiedet.",
+          "commonality": "시행 조항에서 헌법 제정 주체인 의회를 함께 언급",
+          "difference": "후보는 국민·국민의회의 의결·채택 사실을 확인하는 데 그치고, 대상은 그 의회의 의장을 공포 주체로 삼아 시행일 기산에 연결한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_140",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률의 위헌무효와 해석 청구 절차에 관한 규정으로, 헌법 시행일·공포 주체·시행 유보라는 대상 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제5·6항이 일부 조항의 효력발생일과 효력발생 조건을 정한다는 점에서 주제는 겹치나, 기준이 비준 후 최초 10월 15일과 7년 내 4분의 3 주의회 비준이라는 수정조항 특유의 요건이어서 대상의 공포일 시행·법률 유보와 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_110",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "관련 조직법률의 시행 시점을 기준으로 경과상태를 정한다는 시간 표지는 대상 단서와 유사한 발상이나, 규율 대상이 기존 관청의 존속이고 헌법 규정 자체의 시행 유보가 아니어서 주체·효과가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "공포 주체와 공포 기한을 정하지만 대상은 일반 법률의 공포·재의요구 절차이고, 헌법 자체의 시행일이나 시행 유보를 규율하지 않아 대상 조문의 규율 요소와 대응이 약하다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "헌법 공포행위를 '제정 국회의 의장'이 한다는 공포 주체 규정(후보 중 FR1946은 임시정부 대표, ROC1946은 제정 국민대회 자체를 주체로 하여 '의장 공포'와는 다름)",
+    "단서에서 유보되는 규정을 '법률의 제정이 없이는 실현될 수 없는 규정'이라는 기능적·불특정 기준으로 정한 방식"
+  ],
+  "limitations": [
+    "제공된 본문만으로 문언상 대응 여부만 판단했고, 실제 참조·계수 관계의 역사적 확정은 하지 않았다.",
+    "프랑스어·독일어·일본어 후보는 원문을 인용해 비교했으나, 세부 뉘앙스 판단에는 함께 제시된 번역문 이해가 개입될 수 있다."
+  ],
+  "short_answer": "대상 조문은 '제정 국회 의장의 공포일 시행'이라는 본문과 '법률 제정 없이 실현 불가한 규정은 그 법률 시행 시부터 시행'이라는 단서로 구성된다. 본문 요소에는 공포일 시행을 정한 바이마르헌법 제181조와 프로이센 자유주헌법 제88조 제1문, 공포 기준 시행 문형인 조선임시약헌 제56조가, 단서 구조에는 예외적 시행유보를 둔 프로이센 자유주헌법 제88조 제2문과 시행절차를 법률에 맡기고 '헌법을 제정한 국민대회'를 주체로 지정한 중화민국헌법 제175조, 시행에 필요한 법률을 언급한 일본국헌법 제100조가 각각 부분적으로 대응한다. 다만 기산 기간(즉시·30일·6개월), 유보 규정의 특정 방식(기능적 기준 대 조문 열거), 유보 해제 조건(법률 시행 대 의회 선거·정부 출범), 공포 주체(의회 의장 대 행정부 수반 또는 무규정)에서 차이가 뚜렷하다. 필리핀헌법 제XV장, 오스트리아헌법 제151조, 미국 수정 제XX조, 프로이센 1850년 제110조는 시행·경과 규율이라는 점에서만 유사하여 선택하지 않았고, 북조선헌법안 제27조·대일본제국헌법 제4조·五五憲草 제140조는 무관하다. 이상은 문언 대응의 검토이며 실제 참조 관계의 확정은 아니다."
+}

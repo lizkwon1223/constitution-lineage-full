@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_001",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "1",
+    "original_text": "大韓民國은 民主共和國이다.",
+    "workbook_text_ko": "대한민국은 민주공화국이다."
+  },
+  "candidates": [
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_001",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "1",
+      "original_text": "朝鮮은 民主共和政體임",
+      "workbook_text_ko": "조선은 민주공화정체임."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_001",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "1",
+      "original_text": "中華民國基於三民主義，為民有民治民享之民主共和國。",
+      "workbook_text_ko": "中華民國은 三民主義에 立脚한 人民의, 人民에 依한, 人民을 爲한 民主共和國이다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_001",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "1",
+      "original_text": "中華民國爲三民主義共和國。",
+      "workbook_text_ko": "중화민국은 삼민주의 공화국이다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_001",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "1",
+      "original_text": "Österreich ist eine demokratische Republik. Ihr Recht geht vom Volk aus.",
+      "workbook_text_ko": "오스트리아는 민주공화국이다. 그 법은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_001",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "1",
+      "original_text": "우리나라는 朝鮮民主主義人民共和國이다.",
+      "workbook_text_ko": "우리나라는 조선민주주의인민공화국이다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "1",
+      "original_text": "Das Deutsche Reich ist eine Republik.\nDie Staatsgewalt geht vom Volke aus.",
+      "workbook_text_ko": "독일제국은 공화국이다.\n국가권력은 국민으로부터 나온다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_001",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "1",
+      "original_text": "La France est une République indivisible, laïque, démocratique et sociale.",
+      "workbook_text_ko": "프랑스는 불가분의ㆍ비종교적ㆍ민주적이며 사회적 공화국이다."
+    }
+  ]
+}

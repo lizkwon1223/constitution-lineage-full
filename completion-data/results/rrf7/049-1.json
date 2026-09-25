@@ -1,0 +1,131 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_049",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_022",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "현행범 예외 + 소속 원의 허가라는 제1문 구조와, 원의 청구가 있으면 신병구속이 해제(정지)된다는 제2문 구조가 대상 조문의 2문 구성과 문형상 대응한다. 다만 보호기간(임기 중), 대상 행위(소추 포함), 효과(정지)가 달라 대응 범위는 한정된다.",
+      "evidence": [
+        {
+          "element": "예외사유(현행범)와 원의 허가 요건",
+          "target_field": "original_text",
+          "target_quote": "現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "ne peut, pendant la durée de son mandat, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la Chambre dont il fait partie, sauf le cas de flagrant délit",
+          "commonality": "현행범을 예외로 두고, 의회(원)의 허가·동의 없이는 체포할 수 없다는 요건 구조가 같다.",
+          "difference": "보호기간이 '임기 중'이고 대상이 중죄·경죄사건의 소추까지 포함하며, 허가 주체가 소속 원(양원 중 하나)인 반면 대상 조문은 '회기 중', '체포 또는 구금', '국회의 동의'이다."
+        },
+        {
+          "element": "원의 요구에 따른 신병해제",
+          "target_field": "original_text",
+          "target_quote": "會期前에 逮捕 또는 拘禁되었을 때에는 國會의 要求가 있으면 會期中 釋放된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "La détention ou la poursuite d'un membre du Parlement est suspendue si la Chambre dont il fait partie le requiert.",
+          "commonality": "의회의 요구(청구)를 조건으로 이미 이루어진 구속상태가 해소된다는 절차와 효과가 대응한다.",
+          "difference": "프랑스 조문은 '회기 전 체포'라는 시간적 조건이 없고 효과가 소추·구류의 '정지'이며 기간 제한도 명시되지 않으나, 대상 조문은 회기 전 체포·구금을 조건으로 '회기 중 석방'이라는 효과를 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_073",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "현행범 예외와 원의 허가 없는 체포·구금 금지라는 점은 겹치나, '회기 중' 시간적 한정과 회기 전 체포 시 석방 절차가 없어 같은 문서 내 제34조보다 대응 범위가 좁다. 동일 주제의 일반적 유사에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_074",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법위원에 대한 현행범 예외·입법원 허가 요건으로 문형은 유사하나, 회기 중 한정과 석방 요구 절차가 없어 대상 조문 전체 구조와의 구체적 대응은 제33조 쪽이 우선한다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_034",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'현행범 제외 + 회기 중 + 의회의 허가 없이 체포 또는 구금되지 아니한다'는 제1문의 요소 배열이 대상 조문과 거의 그대로 대응한다. 다만 회기 전 체포 시 석방 요구 부분은 없다.",
+      "evidence": [
+        {
+          "element": "현행범 예외·회기 중·허가 요건·체포 또는 구금",
+          "target_field": "original_text",
+          "target_quote": "現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "除現行犯外，在會期中非經國民大會許可，不得逮捕或拘禁",
+          "commonality": "예외(현행범)–기간(회기 중)–동의/허가–금지행위(체포 또는 구금)의 네 요소가 같은 순서로 결합되어 있다.",
+          "difference": "보호 대상이 국민대표이고 허가 주체가 국민대회인 반면 대상 조문은 국회의원과 국회이며, 후보에는 회기 전 체포 시 석방 요구 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_018",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원에 대해 현행범 이외에는 회기 중 원의 허락 없이 신병을 구속할 수 없다는 제1문 요소가 구체적으로 대응한다. 다만 예외에 내란·외환죄가 추가되고 '심문'이 포함되며 석방 절차가 없다.",
+      "evidence": [
+        {
+          "element": "예외사유와 회기 중 원의 허락 요건",
+          "target_field": "original_text",
+          "target_quote": "現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "議員은 內亂外患에 關한 犯罪 또는 現行犯 以外에는 會期中 院의 許諾이 없이 逮捕 審問을 받지 아니함",
+          "commonality": "의원에 대해 현행범을 예외로 하고 회기 중 의회의 허락(동의)을 체포의 요건으로 삼는 규율이 일치한다.",
+          "difference": "후보는 내란·외환에 관한 범죄도 예외로 추가하고 금지 대상이 '체포 심문'이며, 대상 조문의 '구금'과 회기 전 체포 시 석방 요구 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_033",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "현행범 예외, 회기 중 한정, 의회 허가 없는 체포·구금 금지가 제1문과 요소별로 대응한다. 회기 전 체포자의 석방 요구 부분은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "현행범 예외·회기 중·허가 없는 체포 또는 구금 금지",
+          "target_field": "original_text",
+          "target_quote": "現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "除現行犯外，在會期中，非經國民大會許可，不得逮捕或拘禁",
+          "commonality": "예외·기간·동의주체·금지행위(체포 또는 구금)의 결합이 동일한 문형을 이룬다.",
+          "difference": "주체가 국민대회대표, 허가 주체가 국민대회이며, 후보에는 회기 전 체포 시 회기 중 석방이라는 제2문 효과가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_050",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "회기 중 불체포와 회기 전 체포된 의원에 대한 의회 요구에 따른 회기 중 석방이라는 제2문 구조가 대상 조문과 거의 동일하게 대응한다. 다만 예외사유가 '법률이 정하는 경우'로 규정되어 현행범 예외와 다르다.",
+      "evidence": [
+        {
+          "element": "회기 전 체포자의 석방 요구 절차와 효과",
+          "target_field": "original_text",
+          "target_quote": "會期前에 逮捕 또는 拘禁되었을 때에는 國會의 要求가 있으면 會期中 釋放된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない",
+          "commonality": "회기 전 체포라는 조건, 의회의 요구라는 절차, 회기 중 석방이라는 효과가 그대로 대응한다.",
+          "difference": "후보는 요구 주체가 '그 의원이 속한 의원(議院)'이고 대상 행위가 '체포'에 한정되나, 대상 조문은 '국회'의 요구이고 '체포 또는 구금'을 함께 규정한다."
+        },
+        {
+          "element": "회기 중 불체포의 예외사유",
+          "target_field": "original_text",
+          "target_quote": "現行犯을 除한 外에는 會期中 國會의 同意없이 逮捕 또는 拘禁되지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "法律の定める場合を除いては、国会の会期中逮捕されず",
+          "commonality": "회기 중 체포로부터의 보호와 그에 대한 예외 설정이라는 규율 구조가 같다.",
+          "difference": "후보는 예외를 법률유보로 위임하고 의회 동의 요건을 명시하지 않는 반면, 대상 조문은 예외를 '현행범'으로 특정하고 '국회의 동의'를 요건으로 둔다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'국회의 동의'라는 단일 국회(단원제) 전제의 동의 주체 설정 — 후보들은 소속 원(프랑스·일본) 또는 입법원·국민대회(중화민국) 등 다른 기관을 두고 있다."
+  ],
+  "limitations": [
+    "문언·규율요소의 대응만을 검토한 것이며, 어느 후보가 실제 참조되었는지의 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "프랑스 조문 비교는 제시된 원문(불어) 문언에 근거했으며, 세부 용어(poursuite, détention)의 함의는 번역문에 의존한 부분이 있다."
+  ],
+  "short_answer": "대상 조문은 (1) 현행범 예외·회기 중·국회 동의 없는 체포 또는 구금 금지, (2) 회기 전 체포·구금 시 국회 요구에 따른 회기 중 석방의 두 부분으로 구성된다. 제1문은 ROC1936 제34조·ROC1946 제33조 및 조선임시약헌 제18조와 예외·기간·허가주체·금지행위의 배열까지 구체적으로 대응하고, 프랑스 제4공화국헌법 제22조 전단도 현행범 예외와 원의 허가 요건에서 대응한다. 제2문은 일본국헌법 제50조의 '회기 전 체포—의원(議院)의 요구—회기 중 석방'과 조건·절차·효과가 거의 일치하며, 프랑스 제22조 후단은 '요구에 따른 정지'라는 다른 효과를 취한다. 중화민국 입법위원 조항(제73·74조)은 회기 한정과 석방 절차가 없어 일반적 유사에 그친다. 이는 문언상 대응일 뿐 실제 참조 관계를 확정하는 것은 아니다."
+}

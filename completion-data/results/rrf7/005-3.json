@@ -1,0 +1,122 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_005",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_025",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국가가 '모든 생활부면'을 대상으로 복지의 '향상'을 위해 적극적 작위의무를 진다는 문형이 대상 조문의 '모든 영역'·'공공복리의 향상을 위하여 … 의무를 진다'와 구체적으로 대응한다. 다만 대상 조문의 자유·평등·창의 존중 부분과는 대응하지 않으므로 대응 범위는 국가의 복지증진 의무 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "적용 범위(모든 영역/모든 생활부면)",
+          "target_field": "original_text",
+          "target_quote": "政治, 經濟, 社會, 文化의 모든 領域에 있어서",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべての生活部面について",
+          "commonality": "국가의 작용이 미치는 범위를 '모든 생활/사회 영역'으로 포괄적으로 설정하는 표현",
+          "difference": "대상은 정치·경제·사회·문화라는 네 영역을 열거하고, 후보는 '생활부면'이라는 일반어로만 포괄한다"
+        },
+        {
+          "element": "국가의 의무(공공복리 향상)",
+          "target_field": "original_text",
+          "target_quote": "公共福利의 向上을 爲하여 이를 保護하고 調整하는 義務를 진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない",
+          "commonality": "'향상'을 목표로 한 국가의 적극적 의무를 규정한다는 점",
+          "difference": "후보는 사회복지·사회보장·공중위생이라는 구체적 급부영역을 특정하고 '노력하여야 한다'는 노력의무 형식인 반면, 대상은 '공공복리'라는 포괄개념 아래 자유·평등·창의를 '보호하고 조정하는' 의무를 지운다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'公共の福祉'와 '公共福利'라는 용어가 겹치나, 후보는 국민에게 자유·권리 보지 및 남용금지의 책임을 지우는 조항이고 대상은 국가에 존중·보장·보호·조정 의무를 지우는 조항으로 의무주체와 효과가 달라, 용어 중복 이상의 규율요소 대응이 확인되지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_022",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'政治·經濟·社會·文化生活의 部門에 있어서'라는 영역 열거가 대상의 열거와 유사하나, 후보의 규율 내용은 남녀동등과 모성·유아 보호로 한정되어 있어 같은 열거형 표현을 공유하는 NK 제11조보다 대응성이 낮다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_013",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "개인(각인)에 대한 '존중'과 '공공복리'를 함께 규정하는 문형이 대상 조문의 '各人의 自由…를 尊重하고' 및 '公共福利'와 어휘·구성 면에서 대응한다. 다만 후보에서 공공복리는 권리의 한계로 작동하고 대상에서는 국가 보호·조정의 목적으로 쓰여 기능이 달라 대응 범위를 이 두 요소에 한정한다.",
+      "evidence": [
+        {
+          "element": "각인(개인)의 존중",
+          "target_field": "original_text",
+          "target_quote": "各人의 自由, 平等과 創意를 尊重하고 保障하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、個人として尊重される",
+          "commonality": "개별 인격(개인·각인)을 존중의 대상으로 명시한다는 점",
+          "difference": "후보는 '국민'을 주체로 한 수동형 선언이고 존중 대상이 '개인으로서의 지위'인 반면, 대상은 국가를 의무주체로 하여 자유·평등·창의라는 구체적 내용을 존중·보장 대상으로 삼는다"
+        },
+        {
+          "element": "공공복리의 기능",
+          "target_field": "original_text",
+          "target_quote": "公共福利의 向上을 爲하여",
+          "candidate_field": "original_text",
+          "candidate_quote": "公共の福祉に反しない限り",
+          "commonality": "공공복리 개념을 개인의 자유·권리와 연결하여 규정한다는 점",
+          "difference": "후보는 공공복리를 권리 존중의 한계(반하지 않는 한)로 두는 제한조건인 데 비해, 대상은 공공복리의 '향상'을 국가의 보호·조정 의무의 목적으로 삼는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_011",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'政治·經濟·社會·文化…에 있어서'라는 영역 열거와 그 영역에서의 평등을 규정하는 문형이 대상 조문의 열거 및 '各人의 … 平等'과 구체적으로 대응한다. 다만 후보는 차별금지사유를 열거한 공민의 평등권 조항이고 대상은 국가의무 조항이라는 점에서 대응은 열거·평등 부분에 한정된다.",
+      "evidence": [
+        {
+          "element": "영역 열거 문형",
+          "target_field": "original_text",
+          "target_quote": "政治, 經濟, 社會, 文化의 모든 領域에 있어서",
+          "candidate_field": "original_text",
+          "candidate_quote": "國家 政治·經濟·社會·文化生活部門에 있어서",
+          "commonality": "정치·경제·사회·문화의 네 영역을 같은 순서로 열거하고 '…에 있어서'로 연결하는 구성",
+          "difference": "후보는 '국가 … 생활부문'으로 한정하고, 대상은 '모든 영역'이라는 포괄어를 덧붙인다"
+        },
+        {
+          "element": "평등의 규정 방식",
+          "target_field": "workbook_text_ko",
+          "target_quote": "각인의 자유, 평등과 창의를 존중하고 보장하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "同等한 權利를 가진다",
+          "commonality": "위 영역들에서 개개인의 평등(동등)을 헌법상 명시한다는 점",
+          "difference": "후보는 공민이 동등한 권리를 '가진다'는 권리주체 규정이며 성별·민족별 등 차별금지사유를 열거하는 반면, 대상은 국가가 자유·평등·창의를 '존중하고 보장'할 의무를 지는 형식이고 창의 보장까지 포함한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_169",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가가 교육·문화·경제·사회 사업을 적극 추진하고 '保障' '發展'시켜야 한다는 국가 작위의무 형식은 유사하나, 대상 조문과 달리 변강지구 각 민족이라는 특정 대상·토지사용이라는 구체적 사항에 국한되어 있어 규율요소 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'principes politiques, économiques et sociaux', 'dans tous les domaines', 국가가 개인과 가족에게 발전에 필요한 조건을 보장한다는 문구 등 개별 표현이 유사하지만, 이들은 각기 다른 항에 흩어져 있고 대상 조문처럼 하나의 국가 의무 조항으로 결합된 형태가 아니어서 구체적 문형 대응으로 보기 어렵다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'創意(창의)'를 자유·평등과 나란히 존중·보장 대상으로 든 부분",
+    "자유·평등·창의를 국가가 '保護하고 調整한다'는 조정(調整) 권능·효과",
+    "'대한민국은 … 의무를 진다'는 형식으로 국가 전체를 의무주체로 삼아 총강에 두는 구성"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며, 어떤 후보가 실제로 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "프랑스 제4공화국헌법 전문은 번역문 의존 없이 원문 표현만으로 비교했으므로 세부 뉘앙스 비교에 한계가 있다."
+  ],
+  "short_answer": "후보 중에서는 북한 헌법안 제11조, 일본국헌법 제25조, 제13조가 대상 조문의 일부 규율요소와 구체적으로 대응한다. 북한 제11조는 '政治·經濟·社會·文化…에 있어서'라는 영역 열거와 평등 규정 문형이, 일본 제25조 제2항은 '모든 생활부면'을 대상으로 한 국가의 복지 '향상' 의무가, 일본 제13조는 개인 존중과 '공공복리' 어휘가 각각 대응한다. 다만 북한 제11조는 차별금지사유를 든 공민의 권리조항, 일본 제25조는 구체적 급부영역의 노력의무, 일본 제13조의 공공복리는 권리의 한계라는 점에서 의무주체·기능·효과가 다르다. 자유·평등과 함께 '창의'를 들고 이를 '보호하고 조정한다'는 부분은 제시된 후보로 설명되지 않는다. 이상은 문언상 대응 관계이며 역사적 참조 관계의 확정은 아니다."
+}

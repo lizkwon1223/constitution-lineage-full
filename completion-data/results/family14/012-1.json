@@ -1,0 +1,189 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_012",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_012",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "종교적 신앙고백과 종교행사의 자유 보장이라는 주제는 겹치지만, 대상의 '양심의 자유', 국교 부존재, 종교와 정치의 분리에 대응하는 문언이 없고 대신 종교에 따른 시민권 향유·의무의 불가침이라는 다른 규율 요소를 둔다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_III",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제3절 (7)의 국교 수립 금지 및 종교적 심사 금지 문언이 대상 제2문의 '國敎는 存在하지 아니하며' 부분과 구체적으로 대응한다. 다만 대응 범위는 국교 관련 부분에 한정되며, 규율 형식(법률 제정 금지 vs 상태 선언)은 다르다.",
+      "evidence": [
+        {
+          "element": "국교 부존재",
+          "target_field": "original_text",
+          "target_quote": "國敎는 存在하지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "No law shall be made respecting an establishment of religion",
+          "commonality": "특정 종교를 국가 종교로 세우는 것을 헌법 차원에서 배제한다는 점이 같다.",
+          "difference": "후보는 입법자에 대한 법률제정 금지 형식인데, 대상은 국교가 존재하지 않는다는 상태 선언 형식이다."
+        },
+        {
+          "element": "종교와 정치의 분리",
+          "target_field": "workbook_text_ko",
+          "target_quote": "종교는 정치로부터 분리된다",
+          "candidate_field": "original_text",
+          "candidate_quote": "No religious test shall be required for the exercise of civil or political rights.",
+          "commonality": "종교가 정치적 권리·국가작용에 개입하지 않도록 하는 취지가 부분적으로 겹친다.",
+          "difference": "후보는 시민적·정치적 권리 행사에 대한 종교심사 금지라는 구체적 금지에 한정되고, 대상은 종교와 정치의 일반적 분리를 선언한다."
+        },
+        {
+          "element": "신앙의 자유",
+          "target_field": "original_text",
+          "target_quote": "信仰과 良心의 自由를 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "the free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed",
+          "commonality": "신앙·예배의 자유를 헌법상 보장한다는 점이 공통된다.",
+          "difference": "후보는 차별·우대 금지와 '영구히 허용'이라는 수식을 두고 예배 행위를 명시하나, 대상은 '양심의 자유'를 병기하고 행위 보장 문언이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_135",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'신앙 및 양심의 자유'라는 결합 표현과 그 향유 주체를 밝히는 문형이 대상 제1문과 구체적으로 대응한다. 다만 종교행사 보장·국가법률 유보 부분과 국교·정교분리 부분은 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "보장되는 자유의 내용(신앙+양심)",
+          "target_field": "original_text",
+          "target_quote": "信仰과 良心의 自由를 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "volle Glaubens- und Gewissensfreiheit",
+          "commonality": "신앙의 자유와 양심의 자유를 한 묶음으로 병기한 점이 일치한다.",
+          "difference": "후보는 '완전한(volle)' 자유라는 수식을 붙이고 국가의 일반 법률은 영향받지 않는다는 유보를 두지만, 대상에는 그런 수식·유보가 없다."
+        },
+        {
+          "element": "주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민은",
+          "candidate_field": "original_text",
+          "candidate_quote": "Alle Bewohner des Reichs",
+          "commonality": "'모든'으로 범위를 한정하지 않는 포괄적 주체 설정이 유사하다.",
+          "difference": "후보는 국적과 무관한 '제국의 모든 주민'인데, 대상은 '모든 국민'으로 국적 보유자에 한정된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국교 수립 금지 문언이 대상 제2문 전단과 대응한다. 대응은 국교 관련 요소에 한정되며, 표현·출판·집회·청원 부분과 규율 형식(연방의회 대상 입법금지)은 대상과 다르다.",
+      "evidence": [
+        {
+          "element": "국교 부존재",
+          "target_field": "original_text",
+          "target_quote": "國敎는 存在하지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Congress shall make no law respecting an establishment of religion",
+          "commonality": "국가가 특정 종교를 국교로 수립하는 것을 헌법으로 배제한다는 규율 목적이 같다.",
+          "difference": "후보는 규율 대상을 연방의회로 특정한 입법금지 규범이고, 대상은 주체를 특정하지 않은 상태 선언이며 나아가 종교와 정치의 분리까지 선언한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_010",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 자유로운 확신에 따른 표결과 무기속 위임에 관한 조항으로, 대상의 신앙·양심의 자유나 국교·정교분리와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'信仰…自由' 및 '자유를 가진다'는 어휘가 겹치지만 종교 신앙의 자유만 규정하여 양심의 자유, 국교 부존재, 정교분리라는 대상의 구체적 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_007",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "신앙(Bekenntnis)에 따른 특권 배제를 규정하지만 이는 법 앞의 평등 조항이며, 신앙·양심의 자유 보장이나 국교·정교분리라는 대상의 규율 요소와는 다른 층위다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_015",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "종교 신앙의 자유를 보장하나 법률에 의한 제한 유보를 두는 구조로, 대상의 양심의 자유 병기나 국교·정교분리 문언과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "개인의 존중과 생명·자유·행복추구권의 공공복리 한계에 관한 일반조항으로, 대상의 신앙·양심의 자유 및 정교분리와 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_PREAMBLE",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "종교에 따른 차별 금지와 공교육의 종교적 중립(laïque)을 언급하여 국가와 종교의 관계를 다루는 부분이 있으나, 대상처럼 신앙·양심의 자유 보장이나 국교 부존재·정교분리를 조문 형태로 규정하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_006",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제7호가 '信敎의 自由'를 열거하나 '안녕질서를 방해하지 않는' 조건부 보장 형식이고, 양심의 자유·국교 부존재·정교분리에 대응하는 문언이 없어 구체적 규율 요소의 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 발언·표결에 대한 면책 규정으로 대상 조문과 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "거주·이전의 자유에 관한 조항으로 대상의 신앙·양심의 자유와 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_014",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…는 信仰 및 …의 自由를 가진다'는 문형과 어휘가 대상 제1문과 매우 근접한다. 다만 병기 항목이 '양심'이 아니라 '종교의식 거행'이고, 국교·정교분리 규정이 없어 대응 범위는 제1문의 문형·주체에 한정된다.",
+      "evidence": [
+        {
+          "element": "자유 보장 문형",
+          "target_field": "original_text",
+          "target_quote": "信仰과 良心의 自由를 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "信仰 및 宗敎儀式擧行의 自由를 가진다",
+          "commonality": "'信仰'을 앞세워 두 항목을 병기하고 '…의 自由를 가진다'로 마무리하는 문형이 동일하다.",
+          "difference": "병기 항목이 대상은 '양심'인 반면 후보는 '종교의식 거행'으로 종교적 행위 보장에 치우친다."
+        },
+        {
+          "element": "주체",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은",
+          "commonality": "권리주체를 국가 구성원 일반으로 설정한다.",
+          "difference": "후보는 '공민', 대상은 '모든 국민'으로 용어와 '모든'의 포괄 표시가 다르다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'宗敎는 政治로부터 分離된다'는 정교분리 선언 자체(후보 중 종교와 정치의 분리를 이런 형태로 선언한 문언은 확인되지 않음; 프랑스 1946 전문의 공교육 laïque, 필리핀 종교심사 금지는 부분적 취지만 겹침)",
+    "국교 부존재를 입법금지 형식이 아니라 상태 선언 형식으로 규정한 문형"
+  ],
+  "limitations": [
+    "문언상 대응만 확인한 것이며 어느 후보가 실제로 참조되었는지에 대한 역사적 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "독일어·영어·중국어 후보의 의미 비교에는 제공된 번역문에 일부 의존할 수 있으나, 인용은 원문 문자열로 한정했다."
+  ],
+  "short_answer": "대상 제1문의 '신앙과 양심의 자유'는 바이마르헌법 제135조의 'Glaubens- und Gewissensfreiheit' 결합 표현과, 문형·주체 측면에서는 북한 1948년 헌법안 제14조의 '信仰 및 …의 自由를 가진다'와 구체적으로 대응한다. 제2문 전단의 국교 부존재는 미국 수정헌법 제1조와 필리핀헌법 제3절 (7)의 국교 수립 금지 문언과 대응하되, 후보들은 입법금지 형식(연방의회·법률 제정 금지)이고 대상은 상태 선언이라는 차이가 있다. 프로이센 1850년 헌법 제12조, 중화민국 1946년헌법·五五憲草, 조선임시약헌 제6조 제7호는 종교(신앙)의 자유라는 주제는 겹치나 양심의 자유 병기나 국교·정교분리라는 규율 요소가 없어 일반적 유사에 그친다. '종교는 정치로부터 분리된다'는 선언에 직접 대응하는 문언은 제시된 후보에서 확인되지 않는다. 이상은 문언 대응의 확인이며 실제 참조 여부의 확정은 아니다."
+}

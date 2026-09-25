@@ -1,0 +1,64 @@
+{
+  "article": 77,
+  "reviewed_at": "2026-09-22T16:22:25.562772+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "f931496113b285114fead637c6376a8b70a2271a1b8273923ef4d53ddab3a4f3",
+  "input_sha256": "61d709e3734d0b45eb64eb7a7cdeac25bda39462c7c8a0a233130371dcf6f1ac",
+  "responses": [
+    {
+      "job_id": "077_78e701cdffb9_r1",
+      "repeat": 1,
+      "sha256": "1e23ffb9815f100c5f25f3cd0b6f7fb9b639d97c32415dc05826b13e68c3c617",
+      "assessment": "독립 심판의 핵심 대응은 적절함. 바이마르·북한의 독립 및 법률 복종을 부분 대응에서 제외한 기준은 재검토해야 함."
+    },
+    {
+      "job_id": "077_78e701cdffb9_r2",
+      "repeat": 2,
+      "sha256": "bd6805572e8aedb7444aaa8cb6ba93e5f09003a10fdb35f4e332b5152aebb75b",
+      "assessment": "중화민국·약헌·일본의 문언을 적절히 비교함. 같은 핵심 요소를 갖춘 다른 후보의 배제는 선택 기준의 일관성을 낮춤."
+    },
+    {
+      "job_id": "077_78e701cdffb9_r3",
+      "repeat": 3,
+      "sha256": "0c27041aec7f85bc1b50490110a94df27b8951dc84d486c7869eea18937438d6",
+      "assessment": "핵심 대응은 적절함. 문언의 유무를 실제 개정·계승 과정처럼 표현하지 않아야 함."
+    }
+  ],
+  "synthesis": "중화민국 두 제80조는 법관이 법률에 따라 독립하여 심판한다는 결합에 직접 대응함. 약헌 제42조와 일본 제76조는 양심을 병기하며, 일본은 헌법과 법률에만 구속됨을 명시함. 바이마르 제102조와 북한 제86조도 법관의 독립과 법률 또는 법령에 대한 복종을 결합하므로 직접적인 부분 대응임. 프로이센 제8조와 오스트리아 제87조의 독립 규정도 범위를 한정하여 비교할 수 있음. 심판의 근거를 적는 방식과 구속의 대상을 적는 방식은 문장 구조의 차이이며 독립성 대응을 없애지 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "독립성과 법률 복종을 결합한 바이마르·북한 등을 구속 형식이라는 이유로 배제하면서 같은 구속 형식인 일본은 선택함.",
+      "action": "독립·법적 근거를 요소별로 대조하고 부분 대응을 병기함.",
+      "candidate_id": null,
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "unsupported_scope_inference",
+      "finding": "중화민국 초안의 依가 짧은 표현이라는 이유로 규율 범위가 더 좁다고 설명함.",
+      "action": "표현 길이에서 법적 범위 차이를 추론하지 않음.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "historical_inference",
+      "finding": "양심 삭제·헌법 추가라는 설명이 실제 문안 수정 과정을 뜻할 수 있음.",
+      "action": "제시된 두 문언의 포함 요소 차이로 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}

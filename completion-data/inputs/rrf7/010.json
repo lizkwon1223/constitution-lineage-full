@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_010",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "10",
+    "original_text": "모든 國民은 法律에 依하지 아니하고는 居住와 移轉의 自由를 制限받지 아니하며 住居의 侵入 또는 搜索을 받지 아니한다.",
+    "workbook_text_ko": "모든 국민은 법률에 의하지 아니하고는 거주와 이전의 자유를 제한받지 아니하며 주거의 침입 또는 수색을 받지 아니한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1946_PROM1947_ART_010",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "10",
+      "original_text": "人民有居住及遷徙之自由。",
+      "workbook_text_ko": "人民은 居住와 移轉의 自由를 가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_011",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "11",
+      "original_text": "人民有居住之自由，其居住處所，非依法律不得侵入搜索或封錮。",
+      "workbook_text_ko": "인민은 거주의 자유를 가진다. 법률에 의하지 않고는 그 거주 장소에 침입하거나 이를 수색 또는 봉쇄할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_018",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "18",
+      "original_text": "何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+      "workbook_text_ko": "누구든지 어떠한 노예적 구속도 받지 아니한다. 또 범죄로 인하여 처벌받는 경우를 제외하고는 강제노역을 받지 아니한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_012",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "12",
+      "original_text": "人民有遷徙之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 이전의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_022",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "22",
+      "original_text": "何人も、公共の福祉に反しない限り、居住、移転及び職業選択の自由を有する。\n２　何人も、外国に移住し、又は国籍を離脱する自由を侵されない。",
+      "workbook_text_ko": "①누구든지 공공복리에 반하지 아니하는 한 거주･이전 및 직업선택의 자유를 가진다.\n②누구든지 외국에 이주하거나 국적을 이탈할 자유를 침해받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_031",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "31",
+      "original_text": "何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。",
+      "workbook_text_ko": "누구든지 법률에서 정하는 절차에 의하지 아니하고는 그 생명 또는 자유를 박탈당하거나 그 밖의 형벌을 받지 아니한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_035",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "35",
+      "original_text": "何人も、その住居、書類及び所持品について、侵入、捜索及び押収を受けることのない権利は、第三十三条の場合を除いては、正当な理由に基いて発せられ、且つ捜索する場所及び押収する物を明示する令状がなければ、侵されない。\n２　捜索又は押収は、権限を有する司法官憲が発する各別の令状により、これを行ふ。",
+      "workbook_text_ko": "①누구든지, 제33조의 경우를 제외하고는, 정당한 이유에 기하여 발부되고 수색 장소 및 압수하는 물건을 명시한 영장에 의하지 아니하고는 주거, 서류 및 소지품에 대하여 침입, 수색 및 압수당하지 아니 할 권리를 침해받지 아니한다.\n②수색 또는 압수는 권한을 가진 사법관헌이 발부하는 개별 영장에 의하여 이를 행한다."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "article": 28,
+  "reviewer": "Codex",
+  "recorded_at": "2026-09-22T16:59:09.432227+00:00",
+  "method": "Post-generation, non-blind comparison against the supplied texts; no API key or additional external model calls.",
+  "scope": "대상·7개 후보 원문·번역, 세 응답의 요약·미설명·후보 이유와 공통점·차이를 대조함. 군별14의 미국 수정 제1조 원문과 세 판단도 확인함.",
+  "synthesis": "五五憲草 제25조는 제한법률 자체를 주어로 삼아 필요성으로 한정하는 문형이 가까움. 중화민국 제23조와 공통인 질서·공익 목적 외에 서로 다른 제한 사유를 구별해야 함. 비열거라는 이유로 경시하지 못한다는 규칙을 모든 제한이 불가능한 무조건적 보장으로 바꾸어서는 안 됨.",
+  "issues": [
+    {
+      "kind": "한정된 부정의 확대",
+      "finding": "대상 제1항은 열거되지 아니한 이유로써라는 특정 사유에 의한 경시를 금함. 세 응답에서 반복되는 무조건적 비경시 표현은 해당 사유 한정과 제2항 제한입법 규정을 함께 설명해야 함."
+    },
+    {
+      "kind": "판본별 사유 혼합",
+      "finding": "제1회차 요약은 중국 측 사유를 국가안전·긴급위난·사회질서·공공이익으로 묶었으나, 국가안전은 1936년 제25조이고 1946년 제23조의 첫 사유는 타인의 자유 침해 방지임. 각 후보 증거에서는 이를 구별했으므로 요약도 나누어 적어야 함."
+    },
+    {
+      "kind": "미제시와 부정의 구분",
+      "finding": "상위7에 미국 후보가 없고 군별14에는 수정 제1조가 제시되었음. 이 입력들만으로 다른 미국 조항에 대응이 있는지 없는지를 판단하지 않음."
+    }
+  ],
+  "response_assessments": {},
+  "limits": [
+    "확인하지 않은 미제시 조문의 역사적 대응을 보충하지 않음."
+  ],
+  "dossier_sha256": "9e938d04c337d8285c7bce0dacf47628beedd064781ed5bb9721ac4de933c8b6",
+  "input_sha256": "6db7d8c8d3c54df4f16b27a79af21dcb1154e254dab3e68e5e5c5cceeecd6001",
+  "responses": [
+    {
+      "repeat": 1,
+      "job_id": "028_c9abc30c6f35_r1",
+      "sha256": "0eb7b96c9ef53dc06644a0b63617f39535c2368ecbd45e91f4a33ae88c158f2f"
+    },
+    {
+      "repeat": 2,
+      "job_id": "028_c9abc30c6f35_r2",
+      "sha256": "e476baf1ba2f15202041641516e2e78a59fc13b8195452de01bebed6aa5e514f"
+    },
+    {
+      "repeat": 3,
+      "job_id": "028_c9abc30c6f35_r3",
+      "sha256": "4fe506ed10c98a32900399853a02a9c22cad4a0e5fc1c58cc90ca0f93b2610cb"
+    }
+  ]
+}

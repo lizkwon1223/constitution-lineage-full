@@ -1,0 +1,197 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_067",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_021",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 직무상 발언·표결에 관한 면책특권 조항으로, 주체(국회의원), 보호대상(의견·표결), 예외(없음) 모두 대상 조문(대통령의 재직 중 형사소추 제한, 내란·외환죄 예외)과 다르다. '소추되지 아니한다'는 일반 법률용어의 중복에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_039",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "소급처벌 금지·일사부재리 등 형사피의자 일반의 권리 조항으로, 특정 직위의 재직 중 소추 제한이라는 대상 조문의 규율 구조와 대응하지 않는다. '刑事上' 용어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_024",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공민 일반의 인신 불가침과 체포 요건(재판소 결정·검사 승인)을 정한 조항으로, 대통령 직위에 결부된 소추 제한과 요소가 일치하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_023",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(국가원수격 직위), 예외사유(내란·외환의 죄), 기간요건(재직 중), 효과(형사상 소추를 받지 아니함)가 문언·어순까지 거의 일치한다. 다만 문언 대응이 곧 역사적 참조의 확정은 아니다.",
+      "evidence": [
+        {
+          "element": "예외사유(내란·외환의 죄)",
+          "target_field": "original_text",
+          "target_quote": "內亂 또는 外患의 罪를 犯한 때 以外에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "內亂 外患에 關한 犯罪 以外에는",
+          "commonality": "내란·외환 범죄를 소추면제의 예외로 삼는 점이 같다",
+          "difference": "대상은 '內亂 또는 外患의 罪를 犯한 때'로 행위시점을 명시하고, 후보는 '內亂 外患에 關한 犯罪'라는 관련범죄 표현을 쓴다"
+        },
+        {
+          "element": "기간요건과 효과",
+          "target_field": "original_text",
+          "target_quote": "在職中 刑事上의 訴追를 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "在職中 刑事上의 訴追를 받지 아니함",
+          "commonality": "재직 중에 한하여 형사상 소추를 배제한다는 조건과 효과가 동일하다",
+          "difference": "문말 어미만 다르고(…한다/…함) 규율 내용의 차이는 확인되지 않는다"
+        },
+        {
+          "element": "주체(직위)",
+          "target_field": "original_text",
+          "target_quote": "大統領은",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府主席은",
+          "commonality": "행정부 수반 1인에게 적용되는 인적 특권이라는 점이 같다",
+          "difference": "직위 명칭이 대통령과 정부주석으로 다르다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "양원 의원의 직무상 의견·표결에 대한 면책으로, 주체와 보호범위가 다르고 내란·외환 예외나 재직 중이라는 기간요건도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_053",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "예외사유를 '내란·외환에 관한 죄'로 특정하는 문형이 구체적으로 대응하므로 예외요소 비교에 한해 유용하다. 다만 주체(양원 의원), 보호효과(체포 금지), 기간(회기 중), 절차(소속 원의 허락)는 모두 달라 대응 범위를 예외사유에 한정한다.",
+      "evidence": [
+        {
+          "element": "예외사유 문형",
+          "target_field": "original_text",
+          "target_quote": "內亂 또는 外患의 罪를 犯한 때 以外에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "内乱外患ニ関ル罪ヲ除ク外",
+          "commonality": "내란·외환에 관한 죄를 특권의 예외로 열거하는 표현 구조가 같다",
+          "difference": "후보는 현행범죄도 함께 예외로 들고, 예외의 효과가 '체포 금지의 해제'인 반면 대상은 '형사소추 금지의 해제'이다"
+        },
+        {
+          "element": "기간요건",
+          "target_field": "workbook_text_ko",
+          "target_quote": "재직중 형사상의 소추를 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "会期中其ノ院ノ許諾ナクシテ逮捕セラルヽコトナシ",
+          "commonality": "특권의 존속기간을 직·회기라는 시간적 범위로 한정한다",
+          "difference": "대상은 '재직 중'이며 절차적 해제요건이 없으나, 후보는 '회기 중'이고 소속 원의 허락이라는 절차로 해제된다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_VII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령의 선출·임기·권한을 포괄 규정하나 재직 중 형사소추 제한 규정은 제시 본문에 보이지 않아, 대상 조문의 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_061",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 '재직 중' 제한이라는 시간요건 표현은 유사하나, 규율 내용이 겸직·겸업 금지여서 형사소추 면제라는 권한·효과 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_054",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주체(총통), 예외사유(내란죄·외환죄), 효과(형사상 소추 배제)가 구체적으로 대응한다. 다만 면제의 종료요건이 '파면 또는 해직'이라는 절차적 조건인 점에서 대상의 '재직 중'과 규율 방식이 다르다.",
+      "evidence": [
+        {
+          "element": "예외사유",
+          "target_field": "original_text",
+          "target_quote": "內亂 또는 外患의 罪를 犯한 때 以外에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "除犯內亂或外患罪外",
+          "commonality": "내란죄·외환죄를 유일한 예외로 규정한다",
+          "difference": "어순이 '예외 선행'으로 배치되어 있고, 대상은 '罪를 犯한 때'로 시점을 명시한다"
+        },
+        {
+          "element": "면제의 종료조건과 효과",
+          "target_field": "original_text",
+          "target_quote": "在職中 刑事上의 訴追를 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "非經罷免或解職，不受刑事上之訴究",
+          "commonality": "형사상 소추를 직위 보유와 결부시켜 배제한다",
+          "difference": "대상은 '재직 중'이라는 기간으로 규정하나, 후보는 '파면 또는 해직'이라는 절차를 거치기 전까지로 규정한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_010",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "시민권 박탈형·재산몰수형 폐지 조항으로, 대상 조문의 주체·효과·예외 어느 요소와도 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_052",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "ROC1936 초안과 동일 문언으로, 총통에 대한 내란·외환죄 예외의 형사소추 배제라는 요소가 대상과 구체적으로 대응한다. 면제 종료요건이 '파면 또는 해직' 절차인 점만 다르다.",
+      "evidence": [
+        {
+          "element": "예외사유",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령은 내란 또는 외환의 죄를 범한 때 이외에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "總統除犯內亂或外患罪外",
+          "commonality": "국가원수에 대한 형사소추 면제의 예외를 내란죄·외환죄로 한정한다",
+          "difference": "직위 명칭이 대통령과 총통으로 다르다"
+        },
+        {
+          "element": "면제의 조건·효과",
+          "target_field": "original_text",
+          "target_quote": "在職中 刑事上의 訴追를 받지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "非經罷免或解職，不受刑事上之訴究",
+          "commonality": "형사상 소추를 받지 않는다는 효과가 동일하다",
+          "difference": "대상은 '재직 중'이라는 기간요건, 후보는 '파면·해직을 거치지 않으면'이라는 절차요건을 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_036",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의원의 표결·직무상 발언에 대한 면책 조항으로, 대상 조문의 주체(대통령), 예외(내란·외환죄), 기간(재직 중) 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_035",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국가평의회 의원의 발언·표결 면책 규정으로, 대상 조문과 보호주체와 보호대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_V",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대배심 기소, 이중위험 금지, 적법절차, 수용보상 등 형사절차·재산권 일반 규정으로, 특정 직위의 재직 중 소추 면제와는 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'재직 중'이라는 기간요건만으로 면제가 자동 종료되는 방식(파면·해직 절차를 요구하지 않는 점)은 제시 후보 중 조선임시약헌 외에는 대응이 확인되지 않는다"
+  ],
+  "limitations": [
+    "문언 대응만을 검토했으며 역사적 참조 관계는 제공 본문만으로 확정할 수 없다",
+    "필리핀헌법 제7조는 장문 조문 전체가 제시되어 있어 면책 관련 규정의 부재는 제시 본문 범위에서만 판단한 것이다"
+  ],
+  "short_answer": "조선임시약헌 제23조는 주체·예외사유(내란·외환)·재직 중이라는 기간요건·형사상 소추 배제의 효과가 거의 그대로 대응하여 가장 밀접한 비교 대상이다. 중화민국 五五憲草 제54조와 중화민국헌법 제52조도 '내란죄 또는 외환죄' 예외와 형사상 소추 배제라는 요소가 대응하지만, 면제의 종료를 '재직 중'이 아니라 '파면 또는 해직'이라는 절차로 규정하는 점이 다르다. 대일본제국헌법 제53조는 '내란·외환에 관한 죄'를 예외로 드는 문형이 유사하나, 주체는 양원 의원, 효과는 체포 금지, 기간은 회기 중, 해제는 소속 원의 허락으로 달라 예외사유 요소에 한정해 참고된다. 나머지 후보들은 의원 면책특권, 형사절차상 일반 권리, 대통령 겸직 금지 등으로 규율 요소가 달라 선택하지 않았다. 이상은 문언상 대응 판단이며 실제 참조 여부의 확정은 아니다."
+}

@@ -1,0 +1,102 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_071",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_032",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의결에 단순과반수를 요구한다는 점은 겹치지만, 주체가 제국의회(입법기관)이고 의사규칙에 의한 예외·의결정족수 위임이 핵심이어서 대상 조문의 합의제 행정기관 의결·의장 결정권 구조와는 규율 요소가 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_080",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의결 요건으로 과반수를 정하는 일반적 문형만 공통되고, 출석 법정수 요건과 선거에 관한 의사규칙상 예외가 중심이어서 의장 표결권·가부동수 결정권이라는 대상 조문의 특징적 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_040",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'과반수' 요건이라는 상용 표현만 겹친다. 주체가 최고인민회의이고 기준이 '참석한 대의원' 과반수 찬성이며, 의장의 표결권·결정권 규정이 전혀 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_058",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의제 정부(내각)의 의결을 과반수로 하고 가부동수인 경우 의장의 표가 결정한다는 두 요소가 문형까지 거의 그대로 대응한다. 다만 문언 대응이며 역사적 영향의 확정은 아니다.",
+      "evidence": [
+        {
+          "element": "의결 정족: 과반수",
+          "target_field": "original_text",
+          "target_quote": "國務會議의 議決은 過半數로써 行한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Reichsregierung faßt ihre Beschlüsse mit Stimmenmehrheit.",
+          "commonality": "합의제 행정부(국무회의/제국정부)의 의결을 과반수로 한다는 동일한 규율",
+          "difference": "대상은 '국무회의'라는 회의체를 주체로 명시하고, 후보는 '제국정부' 자체를 주체로 삼는다. 후보는 출석 기준·예외를 언급하지 않는 점도 동일하나 정족 산정 기준 자체가 양쪽 모두 불명확하다."
+        },
+        {
+          "element": "가부동수 시 의장의 결정권",
+          "target_field": "original_text",
+          "target_quote": "可否同數인 境遇에는 決定權을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.",
+          "commonality": "표결 동수 상황에서 의장(Vorsitzender)에게 최종 결정을 귀속시키는 조건-효과 구조가 일치",
+          "difference": "후보는 '의장의 표가 결정한다'로 표(Stimme)의 효력 형태를 취하나, 대상은 의장에게 별도의 '決定權'을 권한으로 부여하고 이와 구분해 '表決權'을 별도로 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_028",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국무회의의 의장'이라는 직위 표현이 겹치지만, 내용은 국무총장의 지위와 행정 각부 통할이며 의결 정족수·표결권·가부동수 처리에 관한 규율이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_056",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'과반수로 의결, 가부동수인 때에는 의장이 결정한다'는 조건-효과 문형이 대상 후단과 구체적으로 대응한다. 다만 주체가 양원(입법기관)이고 출석의원 기준·정족수 규정을 포함하므로 대응 범위는 가부동수 결정 부분과 과반수 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "가부동수 시 의장의 결정",
+          "target_field": "workbook_text_ko",
+          "target_quote": "가부동수인 경우에는 결정권을 가진다",
+          "candidate_field": "original_text",
+          "candidate_quote": "可否同数のときは、議長の決するところによる",
+          "commonality": "'가부동수'라는 동일 조건어를 쓰고 그 효과로 의장의 결정에 따르게 하는 구조가 일치",
+          "difference": "후보의 의장은 국회 양원의 의장이고 대상의 의장은 국무회의 의장이다. 또 후보는 '의장이 결정하는 바에 따른다'는 절차적 형식이고 대상은 의장에게 '결정권'을 부여하며 아울러 '표결권'을 별도로 명시한다."
+        },
+        {
+          "element": "의결 정족의 분모",
+          "target_field": "original_text",
+          "target_quote": "議決은 過半數로써 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "出席議員の過半数でこれを決し",
+          "commonality": "과반수 의결이라는 기본 원칙을 공유",
+          "difference": "후보는 '출석의원'을 분모로 명시하고 헌법상 특별규정 예외와 3분의 1 출석 정족수를 함께 두는데, 대상은 분모와 예외·정족수를 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_038",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가평의회의 의결능력과 투표자 단순다수 결정을 정하나, 소집 절차·기명표결 등 다른 요소가 중심이고 의장의 표결권이나 가부동수 결정권 규정이 없어 대상의 특징적 요소와 대응하지 않는다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "의장이 '表決權'을 가진다는 명시적 규정(후보들은 의장의 표 또는 결정만 언급)",
+    "과반수 산정의 분모(재적·출석 여부)를 대상 조문이 정하지 않은 점"
+  ],
+  "limitations": [
+    "문언상 대응만 확인했으며, 어느 후보가 실제 참조되었는지에 관한 역사적 확정은 제공 본문만으로는 불가하다.",
+    "독일어·일본어 후보의 의미 판단에 번역문(workbook_text_ko)을 부분적으로 참고했으나 인용은 원문에서 하였다."
+  ],
+  "short_answer": "대상 조문의 두 요소(합의제 정부의 과반수 의결, 가부동수 시 의장의 결정)와 가장 구체적으로 대응하는 것은 바이마르헌법 제58조로, 주체가 내각(제국정부)이라는 점까지 일치한다. 일본국헌법 제56조 제2항은 '過半數…可否同数のときは、議長の決するところによる'는 조건-효과 문형이 대상 후단과 대응하지만 주체가 양원이고 출석의원 기준과 정족수 규정을 포함하므로 대응 범위가 한정된다. 나머지 후보들(바이마르 제32조, 프로이센 1850년 제80조, 프로이센 자유주 제38조, 북조선 초안 제40조)은 과반수 의결이라는 상용 표현만 겹치고 의장의 표결권·결정권 요소가 없다. 조선임시약헌 제28조는 '국무회의의 의장'이라는 직위만 공통되고 의결 규율이 없다. 이상은 문언 대응의 확인이며 역사적 영향의 확정은 아니다."
+}

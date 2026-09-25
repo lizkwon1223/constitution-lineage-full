@@ -1,0 +1,93 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_023",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_031",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "형사절차상 보장이라는 같은 영역에 속하지만, 대상 조문의 소급처벌 금지·이중처벌 금지와는 규율 요소(법정절차에 의한 생명·자유 박탈 및 형벌)가 다르고 문형상 대응도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_013",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "개인 존중과 생명·자유·행복추구권의 최대 존중을 규정한 일반 원칙 조항으로, 소추 금지나 이중처벌 금지와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_039",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "행위시 기준의 소급 형사책임 금지와 동일 범죄에 대한 거듭된 형사책임 금지를 한 조문 안에서 두 문장으로 병렬 배치한 구조가 대상 조문과 구체적으로 대응한다. 다만 문언상 대응이며 역사적 영향의 확정은 별개다.",
+      "evidence": [
+        {
+          "element": "행위시 기준의 소급 형사책임 금지",
+          "target_field": "original_text",
+          "target_quote": "行爲時의 法律에 依하여 犯罪를 構成하지 아니하는 行爲에 對하여 訴追를 받지 아니하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "実行の時に適法であつた行為又は既に無罪とされた行為については、刑事上の責任を問はれない",
+          "commonality": "행위(실행) 당시를 기준으로 범죄가 되지 않던 행위에 대해 사후에 형사적으로 책임을 묻지 못하게 하는 점",
+          "difference": "대상은 '행위시의 법률에 의하여 범죄를 구성하지 아니하는 행위'로 법률 기준을 명시하고 효과를 '소추를 받지 아니한다'로 정한 반면, 후보는 '적법하였던 행위'와 '이미 무죄가 된 행위'를 함께 열거하고 효과를 '형사상 책임을 묻지 아니한다'로 정한다. 무죄 확정 행위에 관한 부분은 대상에 없다."
+        },
+        {
+          "element": "동일 범죄에 대한 이중 책임 금지",
+          "target_field": "original_text",
+          "target_quote": "同一한 犯罪에 對하여 두 번 處罰되지 아니한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "同一の犯罪について、重ねて刑事上の責任を問はれない",
+          "commonality": "동일한 범죄에 대해 거듭 형사적 불이익을 받지 않는다는 금지를 앞 문장에 이어 두 번째 문장으로 병렬 규정한 점",
+          "difference": "대상은 금지 효과를 '두 번 처벌'로 한정하고, 후보는 '거듭 형사상의 책임'으로 책임 추궁 일반에 미친다."
+        },
+        {
+          "element": "권리주체",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은",
+          "candidate_field": "original_text",
+          "candidate_quote": "何人も",
+          "commonality": "개별 신분·지위를 묻지 않고 일반적 주체에게 보장을 부여하는 형식",
+          "difference": "대상은 주체를 '모든 국민'으로 한정하고, 후보는 국적을 묻지 않는 '누구든지'로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750716_ORIGINAL_ART_013",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'소추를 받지 아니한다(ne peut être poursuivi)'라는 표현이 겹치지만, 규율 대상이 의원의 직무상 발언·표결에 대한 면책으로 소급처벌·이중처벌 금지와는 주체·조건·효과가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_033",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "영장주의와 현행범 예외를 규율하는 체포 관련 조항으로, 대상 조문의 소급처벌·이중처벌 금지와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_014",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "평등원칙과 귀족제도·영전에 관한 규정으로, 대상 조문의 형사법상 금지와 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_018",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노예적 구속과 강제노역 금지 규정으로, '범죄에 의한 처벌' 문구가 예외로 등장할 뿐 소급처벌·이중처벌 금지와는 규율 내용이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "효과를 '訴追를 받지 아니하며'로 정한 점(형사책임 추궁 일반이 아니라 소추 단계 금지로 표현)",
+    "주체를 '모든 國民'으로 한정한 입법 선택",
+    "'행위시의 법률에 의하여'라는 법률 기준 명시 문구"
+  ],
+  "limitations": [
+    "제공된 본문만으로는 문언상 대응 여부만 확인할 수 있고, 실제 참조·영향 관계는 확정할 수 없다.",
+    "후보 중 일본국헌법 제39조 외에는 대상 조문의 핵심 요소와 대응하는 문언이 제시되지 않았다."
+  ],
+  "short_answer": "검토할 가치가 있는 후보는 일본국헌법 제39조뿐이다. 이 조항은 실행 당시 기준의 소급 형사책임 금지와 동일 범죄에 대한 거듭된 책임 금지를 한 조문에서 두 문장으로 병렬 배치하여, 대상 조문의 구조와 두 금지 내용에 구체적으로 대응한다. 다만 주체가 '누구든지'인 점, 효과가 '형사상 책임을 묻지 아니한다'로 소추 단계에 한정되지 않는 점, '이미 무죄가 된 행위'가 함께 열거되는 점, 대상이 '두 번 처벌'로 효과를 좁힌 점에서 차이가 있다. 일본국헌법 제31조는 형사절차 보장이라는 일반적 유사성에 머물고, 프랑스 1875년 헌법률 제13조는 '소추' 용어만 겹치는 의원 면책 규정이다. 이상은 문언상 대응 관계이며 역사적 참조의 확정은 아니다."
+}

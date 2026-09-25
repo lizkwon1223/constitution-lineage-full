@@ -1,0 +1,176 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_095",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_068",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "회계검사기관이 결산을 검사하고, 그 기관의 의견(검사보고)과 함께 결산을 의회에 제출한다는 두 요소가 구체적으로 대응한다. 다만 조직·권한을 법률로 정하는 제3항에 해당하는 규정이 없고 국가채무 개요·재무장관 책임해제라는 별도 요소가 있으므로 대응 범위는 앞의 두 요소에 한정한다.",
+      "evidence": [
+        {
+          "element": "결산의 검사 주체",
+          "target_field": "original_text",
+          "target_quote": "國家의 收入支出의 決算은 每年 審計院에서 檢査한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Rechnungen über den Haushaltsplan werden von der Oberrechnungskammer geprüft und festgestellt.",
+          "commonality": "독립 회계검사기관이 결산을 검사한다는 규율 구조가 같다.",
+          "difference": "후보는 '검사하여 확정(festgestellt)'까지 규정하고 대상은 검사만 규정하며, 후보에는 '매년'이 검사 문장이 아닌 총결산 문장에 붙어 있다."
+        },
+        {
+          "element": "검사보고와 함께 결산을 의회에 제출",
+          "target_field": "original_text",
+          "target_quote": "政府는 審計院의 檢査報告와 함께 決算을 次年度의 國會에 提出하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "werden mit den Bemerkungen der Oberrechnungskammer zur Entlastung des Finanzministers dem Landtage vorgelegt",
+          "commonality": "검사기관의 의견·보고를 첨부하여 결산을 입법기관에 제출한다는 절차가 공통된다.",
+          "difference": "후보는 제출 목적이 재무장관의 책임 해제이고 국가채무 개요를 함께 제출하며 제출 주체가 명시되지 않고, 대상은 제출 주체를 '정부', 제출 시기를 '차년도'로 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_072",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가의 세출세입(수입지출)의 결산 – 회계검사기관의 검사 – 검사보고와 함께 의회 제출 – 조직·권한 법정'이라는 조문 구성과 어순이 대상 조문과 거의 일대일로 대응한다.",
+      "evidence": [
+        {
+          "element": "결산의 검사와 검사보고 첨부 제출",
+          "target_field": "original_text",
+          "target_quote": "國家의 收入支出의 決算은 每年 審計院에서 檢査한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "国家ノ歳出歳入ノ決算ハ会計検査院之ヲ検査確定シ",
+          "commonality": "국가 수입·지출 결산을 회계검사기관이 검사한다는 문형이 같다.",
+          "difference": "후보는 '검사확정'으로 확정 권한을 포함하고 '세출세입' 순서이며 '매년'이 없고, 대상은 '검사'만 두고 '매년'을 명시한다."
+        },
+        {
+          "element": "제출 주체와 수령 기관",
+          "target_field": "original_text",
+          "target_quote": "政府는 審計院의 檢査報告와 함께 決算을 次年度의 國會에 提出하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "政府ハ其ノ検査報告ト倶ニ之ヲ帝国議会ニ提出スヘシ",
+          "commonality": "제출 주체를 '정부'로 하고 검사보고와 함께 결산을 의회에 제출할 의무를 규정한다.",
+          "difference": "후보는 제국의회에 제출하며 제출 시기를 규정하지 않으나, 대상은 국회와 '차년도'라는 시기를 명시한다."
+        },
+        {
+          "element": "검사기관의 조직·권한 법정주의",
+          "target_field": "original_text",
+          "target_quote": "審計院의 組織과 權限은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "会計検査院ノ組織及職権ハ法律ヲ以テ之ヲ定ム",
+          "commonality": "검사기관의 조직과 권한을 법률로 정하도록 하는 별도 항을 둔 점이 같다.",
+          "difference": "후보는 '직권', 대상은 '권한'이라는 용어를 쓰고 기관 명칭이 회계검사원과 심계원으로 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_054",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "심사(검사) 보고와 함께 결산을 입법기관에 제출할 의무라는 절차 요소가 구체적으로 대응한다. 다만 검사기관의 검사 권한 규정과 조직·권한 법정 조항이 없어 대응 범위는 제출 절차에 한정된다.",
+      "evidence": [
+        {
+          "element": "검사보고 첨부 제출 의무",
+          "target_field": "workbook_text_ko",
+          "target_quote": "정부는 심계원의 검사보고와 함께 결산을 차년도의 국회에 제출하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "그 審査 報告와 함께 此를 立法議院에 提出하여야 함",
+          "commonality": "감사기관의 보고를 첨부하여 결산을 입법기관에 제출하도록 하는 의무 규정이다.",
+          "difference": "후보의 제출 주체는 정부주석, 심사 주체는 감찰위원장, 수령기관은 입법의원이며 제출 시기 규정이 없고, 대상은 정부·심계원·국회 및 '차년도'를 명시한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_104",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "회계검사기관의 결산 심사, 검사기관 의견 첨부 후 의회 제출, 검사기관의 조직·권한을 법률로 정함이라는 세 요소가 모두 대상 조문과 대응한다. 다만 예산초과 사후승인·국채 개요·정부 면책 요소는 대상에 없다.",
+      "evidence": [
+        {
+          "element": "결산의 검사 주체",
+          "target_field": "original_text",
+          "target_quote": "國家의 收入支出의 決算은 每年 審計院에서 檢査한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Rechnungen über den Staatshaushalts-Etat werden von der Ober-Rechnungskammer geprüft und festgestellt.",
+          "commonality": "별도의 회계검사기관이 국가 예산 결산을 심사하도록 한다.",
+          "difference": "후보는 심사와 함께 '확정'까지 부여하고 검사 대상이 예산(Etat) 결산으로 표현되며, 대상은 '매년' 검사만 규정한다."
+        },
+        {
+          "element": "검사기관 의견 첨부 의회 제출",
+          "target_field": "original_text",
+          "target_quote": "政府는 審計院의 檢査報告와 함께 決算을 次年度의 國會에 提出하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "wird mit den Bemerkungen der Ober-Rechnungskammer zur Entlastung der Staatsregierung den Kammern vorgelegt",
+          "commonality": "검사기관의 의견(보고)을 첨부하여 결산을 입법기관에 제출하는 절차가 공통된다.",
+          "difference": "후보는 국채 개요를 포함하고 제출 목적이 정부의 면책이며 양원에 제출하고 제출 주체·시기가 명시되지 않는다."
+        },
+        {
+          "element": "검사기관의 조직·권한 법정주의",
+          "target_field": "original_text",
+          "target_quote": "審計院의 組織과 權限은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ein besonderes Gesetz wird die Einrichtung und die Befugnisse der Ober-Rechnungskammer bestimmen.",
+          "commonality": "검사기관의 조직(제도)과 권한을 법률에 위임하는 독립 문장을 둔다.",
+          "difference": "후보는 '특별법(besonderes Gesetz)'으로 정하도록 하고, 대상은 일반적으로 '법률로써' 정한다고 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_090",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가의 수입지출의 결산 – 매년 회계검사기관 검사 – 검사보고와 함께 차년도 국회 제출 – 조직·권한 법률 규정'까지 어휘와 항 구성이 사실상 일대일로 대응하여 문언 대응이 가장 밀접하다.",
+      "evidence": [
+        {
+          "element": "검사 대상·주기·주체",
+          "target_field": "original_text",
+          "target_quote": "國家의 收入支出의 決算은 每年 審計院에서 檢査한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "国の収入支出の決算は、すべて毎年会計検査院がこれを検査し",
+          "commonality": "'수입지출의 결산'이라는 표현과 '매년' 검사, 회계검사기관이 검사 주체라는 점이 일치한다.",
+          "difference": "후보는 'すべて(모두)'로 검사 범위의 전면성을 명시하고 기관명이 회계검사원이며, 대상은 심계원으로 하고 전면성 문구가 없다."
+        },
+        {
+          "element": "제출 주체·시기·수령 기관",
+          "target_field": "workbook_text_ko",
+          "target_quote": "정부는 심계원의 검사보고와 함께 결산을 차년도의 국회에 제출하여야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、次の年度に、その検査報告とともに、これを国会に提出しなければならない",
+          "commonality": "검사보고와 함께 결산을 다음 연도에 국회에 제출할 의무를 규정한다.",
+          "difference": "후보의 제출 주체는 '내각'이고 '次の年度に'는 제출 시기를 수식하나, 대상은 주체가 '정부'이고 '次年度의 國會'로 국회를 수식하는 형태다."
+        },
+        {
+          "element": "검사기관의 조직·권한 법정주의",
+          "target_field": "original_text",
+          "target_quote": "審計院의 組織과 權限은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "会計検査院の組織及び権限は、法律でこれを定める",
+          "commonality": "조직과 '권한'을 법률로 정한다는 제2항 구성이 용어까지 일치한다.",
+          "difference": "기관 명칭이 회계검사원과 심계원으로 다르다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_099",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가의 수입·지출을 다루지만 규율 대상이 사전 예산의 편성과 법률에 의한 예산 확정이며, 대상 조문의 결산 검사·검사보고 제출·검사기관 조직 법정 요소와 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_086",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "내각의 국회 제출 의무라는 점만 겹칠 뿐 대상은 예산안 작성·심의·의결이고, 대상 조문의 결산 검사 및 검사보고 첨부라는 핵심 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "감사기관의 명칭을 '審計院'으로 정한 점(후보들은 회계검사원·최고회계검사원·감찰위원장으로 명칭이 다름)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "독일어·일본어 후보의 의미 판단에 워크북 번역문을 부분적으로 참고하였으나 인용은 원문에서 하였다."
+  ],
+  "short_answer": "대상 제95조는 결산의 검사 주체, 검사보고 첨부 제출, 검사기관 조직·권한 법정의 세 요소로 구성되며, 이 구성 전체가 JP1946 제90조, JP1889 제72조, PR1850 제104조와 대응한다. 특히 JP1946 제90조는 '수입지출의 결산·매년 검사·검사보고와 함께 다음 연도 국회 제출·조직 및 권한의 법률 위임'까지 용어와 항 구성이 사실상 일치하고, JP1889 제72조는 '검사확정'을, PR1850 제104조는 '특별법' 위임과 정부 면책·국채 개요를 덧붙인다는 점에서 차이가 있다. PR1920 제68조와 KR1947 약헌 제54조는 각각 검사·제출 절차와 보고 첨부 제출 의무에 한정된 부분적 대응을 보이며, 제출 주체(정부주석·재무장관 책임해제 등)와 조직 법정 조항 유무에서 갈린다. PR1850 제99조와 JP1946 제86조는 예산 단계 규정이어서 결산 검사 요소와 대응하지 않는다. 이상은 문언 대응의 확인일 뿐 역사적 참조 여부의 확정은 아니다."
+}

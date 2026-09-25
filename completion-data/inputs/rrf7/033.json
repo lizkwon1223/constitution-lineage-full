@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_033",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "33",
+    "original_text": "國會議員의 任期는 4年으로 한다.",
+    "workbook_text_ko": "국회의원의 임기는 4년으로 한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1936_DRAFT_ART_068",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "68",
+      "original_text": "立法委員任期三年，連選得連任。",
+      "workbook_text_ko": "입법위원의 임기는 3년으로 하며 재선되면 연임할 수 있다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_046",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "46",
+      "original_text": "参議院議員の任期は、六年とし、三年ごとに議員の半数を改選する。",
+      "workbook_text_ko": "참의원 의원의 임기는 6년으로 하고, 3년마다 의원의 반수(半數)를 새로 선출한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_045",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "45",
+      "original_text": "衆議院議員の任期は、四年とする。但し、衆議院解散の場合には、その期間満了前に終了する。",
+      "workbook_text_ko": "중의원 의원의 임기는 4년으로 한다. 다만, 중의원 해산의 경우에는 임기 만료 전에 종료된다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_011",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "11",
+      "original_text": "議員의 任期는 三年으로 함",
+      "workbook_text_ko": "의원의 임기는 3년으로 함."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_067",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "67",
+      "original_text": "Die Legislatur-Periode der ersten Kammer wird auf sechs Jahre festgesetzt.",
+      "workbook_text_ko": "제1원의 입법기는 6년으로\n한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_065",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "65",
+      "original_text": "立法委員之任期為三年，連選得連任，其選舉於每屆任滿前三個月內完成之。",
+      "workbook_text_ko": "立法委員의 任期는 3年이고 連選에 依하여 連任을 할 수 있다. 그 選擧는 各 任期 滿了前 3個月의 期間內에 이를 完成한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_036",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "36",
+      "original_text": "最高人民會議 代議員의 任期는 三年으로 한다.",
+      "workbook_text_ko": "최고인민회의 대의원의 임기는 3년으로 한다."
+    }
+  ]
+}

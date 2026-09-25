@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_020",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "20",
+    "original_text": "婚姻은 男女同權을 基本으로 하며 婚姻의 純潔과 家族의 健康은 國家의 特別한 保護를 받는다.",
+    "workbook_text_ko": "혼인은 남녀동권을 기본으로 하며 혼인의 순결과 가족의 건강은 국가의 특별한 보호를 받는다."
+  },
+  "candidates": [
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_023",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "23",
+      "original_text": "婚姻 및 家庭은 國家의 保護 밑에 있다.\n結婚生活 以外에서 出生한 子女에 對한 父母의 義務는 結婚生活에서 出生한 子女에 對한 것과 同一하다.\n結婚生活 以外에서 出生한 子女는 結婚生活에서 出生한 子女와 同等한 權利를 가진다.\n婚姻 및 家庭에 對한 法的 關係는 따로 法令으로써 規定한다.",
+      "workbook_text_ko": "혼인 및 가정은 국가의 보호 밑에 있다.\n결혼생활 이외에서 출생한 자녀에 대한 부모의 의무는 결혼생활에서 출생한 자녀에 대한 것과 동일하다.\n결혼생활 이외에서 출생한 자녀는 결혼생활에서 출생한 자녀와 동등한 권리를 가진다.\n혼인 및 가정에 대한 법적 관계는 따로 법령으로써 규정한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_124",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "124",
+      "original_text": "國家爲改良勞工生活，增進其生產技能，及救濟勞工失業，應實施保護勞工政策。\n婦女兒童從事勞動者，應按其年齡及身體狀態，施以特別之保護。",
+      "workbook_text_ko": "국가는 노동자의 생활을 개선하고 생산기능을 증진하며 실업을 구제하기 위하여 노동자 보호정책을 실시하여야 한다.\n노동에 종사하는 여성과 아동에게는 연령과 신체 상태에 따라 특별한 보호를 하여야 한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_119",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "119",
+      "original_text": "Die Ehe steht als Grundlage des Familienlebens und der Erhaltung und Vermehrung der Nation unter dem besonderen Schutz der Verfassung. Sie beruht auf der Gleichberechtigung der beiden Geschlechter.\nDie Reinerhaltung, Gesundung und soziale Förderung der Familie ist Aufgabe des Staats und der Gemeinden. Kinderreiche Familien haben Anspruch auf ausgleichende Fürsorge.\nDie Mutterschaft hat Anspruch auf den Schutz und die Fürsorge des Staats.",
+      "workbook_text_ko": "혼인은 가정생활 및 국민의 유지와 증대의 기초로서 헌법의 특별한 보호를 받는다. 혼인은 양성의 평등권을 기초로 한다.\n가족의 청결한 유지와 건전화 및 사회적 조장은 국가와 지방자치단체의 소관 사무이다. 다자녀 가정은 그에 상응하는 배려를 요구할 수 있다.\n모성은 국가의 보호와 배려를 요구할 수 있는 권리를 갖는다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_024",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "24",
+      "original_text": "婚姻は、両性の合意のみに基いて成立し、夫婦が同等の権利を有することを基本として、相互の協力により、維持されなければならない。\n２　配偶者の選択、財産権、相続、住居の選定、離婚並びに婚姻及び家族に関するその他の事項に関しては、法律は、個人の尊厳と両性の本質的平等に立脚して、制定されなければならない。",
+      "workbook_text_ko": "①혼인은 양성의 합의에 의하여서만 성립하고, 부부가 동등한 권리를 가지는 것을 기본으로 하여 상호 협력에 의하여 유지되어야 한다.\n②배우자의 선택, 재산권, 상속, 주거의 선택, 이혼, 혼인 및 가족에 관한 그 밖의 사항에 관하여 법률은 개인의 존엄과 양성의 본질적 평등에 입각하여 제정되어야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_007",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "7",
+      "original_text": "中華民國人民，無分男女，宗教，種族，階級，黨派，在法律上一律平等。",
+      "workbook_text_ko": "中華民國의 人民은 男女, 宗敎, 種族, 階級, 黨派의 差別없이 法律上 一律로 平等하다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_157",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "157",
+      "original_text": "Die Arbeitskraft steht unter dem besonderen Schutz des Reichs.\nDas Reich schafft ein einheitliches Arbeitsrecht.",
+      "workbook_text_ko": "노동력은 제국의 특별한 보호를 받는다.\n제국은 통일적 노동법을 제정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_153",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "153",
+      "original_text": "國家為改良勞工及農民之生活，增進其生產技能，應制定保護勞工及農民之法律，實施保護勞工及農民之政策。\n婦女兒童從事勞動者，應按其年齡及身體狀態，予以特別之保護。",
+      "workbook_text_ko": "國家는 勞動者 및 農民의 生活을 改善하고 그 生産技能을 增進하기 爲하여 勞動者 및 農民을 保護하는 法律을 制定하고 勞動者 및 農民을 保護하는 政策을 實施하여야 한다. 婦女와 兒童으로서 勞動에 從事하는 者는 그 年齡과 身體의 狀態를 따라 特別한 保護를 받아야 한다."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "article": 46,
+  "reviewed_at": "2026-09-22T15:48:46.312682+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "d4f7a734d620c1fddae93a1d42b635b855fe0de891ca56423c0720701efbb8de",
+  "input_sha256": "1c069e5a30b6c4cb4771077c5deba89cb54365cfd8bf429c80c28d8597350d74",
+  "responses": [
+    {
+      "job_id": "046_2d5907a4688a_r1",
+      "repeat": 1,
+      "sha256": "104ed8bc305b8924f56c86c4293cd4ae8c914b90921edf05949a66dc71d2bb5f",
+      "assessment": "필리핀의 직위·사유, 바이마르와 프로이센의 서명 발의, 약헌의 동일한 정족수 구조를 잘 포착함. 다른 탄핵 후보의 부분 대응을 배제한 기준은 좁게 적용됨."
+    },
+    {
+      "job_id": "046_2d5907a4688a_r2",
+      "repeat": 2,
+      "sha256": "1af69b1f6d76f0225968842247626ac4bbb6c295e09aa735f58de7440b5d4443",
+      "assessment": "미국의 직위 열거까지 한정적으로 선택하고 탄핵 사유·발의·표결 분모를 구분함. 프로이센 인용 오자가 있으며 스스로 유보했더라도 정확한 원문 인용 요건을 충족하지 못함."
+    },
+    {
+      "job_id": "046_2d5907a4688a_r3",
+      "repeat": 3,
+      "sha256": "e8b160aa760e6ba53100309abf56eca0b2cad321d59010c06dfac55521b4a35f",
+      "assessment": "주요 네 후보의 대응 설명은 대체로 정확함. 소추 대상·직무 관련성·의회 결의가 존재하는 비선택 후보를 대응 없음으로 단정한 표현은 축소할 필요가 있음."
+    }
+  ],
+  "synthesis": "필리핀 제9조는 대통령·부통령·대법관·회계검사기관장과 헌법 위반을 함께 명시함. 바이마르 제59조와 프로이센 1920년 제58조는 헌법·법률 위반, 최소 의원 수의 서명 발의, 개정 정족수 원용이라는 구조에 대응함. 약헌 제14조는 재적 3분의 2 출석과 출석 3분의 2 찬성의 문형을 그대로 제공함. 50인과 100인, 귀책성 명시 여부, 대상 직위, 의회 소추와 심판·파면의 단계를 구분해야 함. 오스트리아 제68조의 직무수행 책임과 이중 정족수, 프로이센 1850년의 장관 헌법 위반 소추, 프랑스의 직무 관련 소추도 요소별 보완 비교가 가능함.",
+  "issues": [
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "PR1920_ORIGINAL_ART_058",
+      "type": "quote_error",
+      "severity": "minor",
+      "finding": "원문의 Mitgliedern을 Mitgliedens로 인용함. 인용 오류 가능성을 고지했으나 정확한 연속 원문 인용은 아님.",
+      "action": "원응답은 유지하고 교정 표기에 원문 Mitgliedern을 제시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "프랑스 1875년 제12조·프로이센 1850년 제61조·오스트리아 제68조는 직무 관련성, 헌법 위반 소추 또는 의결요건의 구체 요소를 제공하지만 다른 요건의 차이로 일반적 유사에만 둠.",
+      "action": "소추 대상·사유·발의·표결·심판을 나누어 부분 대응을 병기함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "type": "selection_threshold",
+      "severity": "minor",
+      "finding": "대통령·부통령 등 탄핵 대상 열거의 대응을 인정하면서 소추절차가 없다는 이유로 선택하지 않음. 2회차는 그 요소에 한정해 선택함.",
+      "action": "반복 간 선택 기준의 차이로 표시함."
+    },
+    {
+      "repeats": [
+        1,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_scope",
+      "severity": "minor",
+      "finding": "대상 조문이 정하지 않은 심판기관과의 이원 구조 또는 소추만 담당한다는 배분을 미설명 요소에 포함함.",
+      "action": "대상에 있는 소추 결의와 후보에 추가된 심판 규정을 구분함."
+    }
+  ],
+  "limits": [
+    "재적·출석·투표수는 서로 다른 분모임. 비율 차이를 분모 차이라고 부르지 않음.",
+    "회계검사기관장 및 국무총장과 국무총리의 대응은 명칭·기능 비교이며 제도적 동일성의 확정이 아님."
+  ]
+}

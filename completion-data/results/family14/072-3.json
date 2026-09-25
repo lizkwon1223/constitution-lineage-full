@@ -1,0 +1,230 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_072",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 법률안 제출·공포, 은사, 문무관 임명, 부서 등 집행부 권한을 열거하나, 대상 조문처럼 '합의제 국무회의의 의결을 거쳐야 하는 사항'이라는 심의절차 구조가 없고 주체도 대통령 단독이다. 사면·임명 등 주제어만 겹친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_030",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제11호의 '국무회의 심의를 거치는 고위직 임면 목록'과 대응한다. 대사·대학총장·군 장성 등 구체 직위를 열거하고 그 임명을 국무회의(Conseil des ministres)에서 한다는 점이 문형상 대응한다. 다만 대응 범위는 제11호에 한정되며, 나머지 호(예산·계엄·청원 등)는 설명하지 못한다.",
+      "evidence": [
+        {
+          "element": "고위 공직 임면의 합의체 처리",
+          "target_field": "original_text",
+          "target_quote": "11. 大法官, 檢察總長, 審計院長, 國立大學總長, 大使, 公使, 國軍總司令官, 國軍參謀總長, 其他 法律에 依하여 指定된 公務員과 重要 國營企業의 管理者의 任免에 關한 事項",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le président de la République nomme en Conseil des ministres les conseillers d'Etat",
+          "commonality": "특정 고위직의 인사를 국무회의라는 합의체 절차와 결부시킨다.",
+          "difference": "후보는 대통령이 국무회의에서 '임명'하는 권한 규정이고, 대상은 국무회의 '의결을 경하여야' 하는 심의사항 목록이다. 임면(면직 포함) 여부와 열거 직위 구성도 다르다."
+        },
+        {
+          "element": "열거된 직위의 종류",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국립대학총장, 대사, 공사",
+          "candidate_field": "original_text",
+          "candidate_quote": "les ambassadeurs et les envoyés extraordinaires, les membres du Conseil supérieur et du Comité de la défense nationale, les recteurs des universités",
+          "commonality": "대사·특사류 외교직과 대학총장을 명시적으로 열거한다.",
+          "difference": "후보에는 현지사·중앙행정관청의 장·해외영토 정부대표가 있고, 대상에는 대법관·검찰총장·심계원장·국군총사령관·국영기업 관리자가 있어 목록 구성이 상이하다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_029",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "두문('좌의 사항은 국무회의의 의결을 경하여야')과 열거 항목(법률안·예산안, 계엄안·해엄안, 조약안, 행정각부간 연락사항 및 권한, 공무원 임면, 기타 중요 정책의 수립·운영)이 대상 조문과 항목 단위로 광범위하게 대응한다. 다만 헌법개정안·대통령령안·예비비·임시국회 소집요구·청원심사 등은 대상에만 있다.",
+      "evidence": [
+        {
+          "element": "두문의 문형과 의결 요건",
+          "target_field": "original_text",
+          "target_quote": "左의 事項은 國務會議의 議決을 經하여야한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "左의 事項은 國務會議의 議決을 經하여야 함",
+          "commonality": "'좌의 사항'을 열거하고 국무회의 의결을 거치도록 하는 문형이 사실상 동일하다.",
+          "difference": "대상은 13호로 확대되고 종결어미가 '한다'로 정식화된 반면 후보는 7호이며 '함'으로 끝난다."
+        },
+        {
+          "element": "행정각부 간 조정 사항",
+          "target_field": "original_text",
+          "target_quote": "9. 行政各部間의 連絡事項과 權限의 劃定",
+          "candidate_field": "original_text",
+          "candidate_quote": "五 行政 各部間의 連絡事項 及 權限 爭議",
+          "commonality": "행정각부 간 연락사항과 권한 문제를 국무회의 의결사항으로 삼는다.",
+          "difference": "후보는 '권한 쟁의'(분쟁 해결)인 반면 대상은 '권한의 획정'(경계 설정)으로 규율 효과가 다르다."
+        },
+        {
+          "element": "공무원 임면 사항",
+          "target_field": "workbook_text_ko",
+          "target_quote": "기타 법률에 의하여 지정된 공무원과 중요 국영기업의 관리자의 임면에 관한 사항",
+          "candidate_field": "original_text",
+          "candidate_quote": "六 五等級 以上의 公務員의 任免에 關한 事項",
+          "commonality": "공무원 임면을 국무회의 의결사항으로 규정한다.",
+          "difference": "후보는 '5등급 이상'이라는 직급 기준을 쓰고, 대상은 대법관·검찰총장 등 개별 직위와 '법률로 지정된 공무원', 국영기업 관리자를 병렬 열거한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회(입법부)의 법률 의결·예산 승인·조약 동의 권한 규정으로, 집행부 합의체의 심의사항 열거라는 대상 조문의 규율 구조와 주체가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_073",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "내각의 사무를 호별로 열거하고 조약·예산·사면 관련 항목을 포함하는 점에서 유사하나, 내각이 직접 '행하는' 사무의 목록이지 국무회의 의결을 거쳐야 하는 심의사항 목록이 아니며, 항목 구성(정령 제정, 관리 사무 장리 등)도 대상과 어긋난다. 사면·감형·복권은 법률 상용 열거에 가깝다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_105",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "지방(게마인데·크라이스 등)의 대표와 행정에 관한 원칙 규정으로 국무회의 심의사항과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_055",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "내각 권한을 호별로 열거하는 형식이며, 특히 제12호의 '주요산업기관 책임자 및 대학총장의 임면', 제11호의 군 고급장관 임면이 대상 제11호의 국영기업 관리자·국립대학총장·군 수뇌 임면 열거와 구체적으로 대응한다. 선택 범위는 제11호 인사 항목에 한정한다.",
+      "evidence": [
+        {
+          "element": "국영·산업기관 책임자와 대학총장의 임면",
+          "target_field": "original_text",
+          "target_quote": "國立大學總長",
+          "candidate_field": "original_text",
+          "candidate_quote": "十二. 副相, 主要産業機關의 責任者 및 大學總長의 任免",
+          "commonality": "대학총장과 주요 산업·국영기관 책임자의 임면을 집행부 합의체 권한 목록에 명시한다.",
+          "difference": "후보는 부상(차관급)을 포함하고 대상은 대법관·검찰총장·심계원장 등 사법·회계 직위를 포함하며, 후보는 내각의 '임무'로, 대상은 국무회의 '의결사항'으로 규정한다."
+        },
+        {
+          "element": "군 수뇌부 인사",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국군총사령관, 국군참모총장",
+          "candidate_field": "original_text",
+          "candidate_quote": "十一. 朝鮮人民軍 編成에 關한 指導, 朝鮮人民軍 高級將官의 任免",
+          "commonality": "군 고위직 임면을 집행부 합의체의 권한 사항으로 열거한다.",
+          "difference": "후보는 '고급장관'이라는 계급군을 포괄하고 군 편성 지도를 함께 규정하는 반면, 대상은 총사령관·참모총장이라는 개별 직위를 지정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VIII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "사법부 조직·관할·법관 임명에 관한 규정으로, 국무회의 심의사항 열거와 규율 대상이 다르다. 대법원 구성원 임명 조항이 있으나 임명 주체가 대통령과 국민의회 임명위원회로 심의 구조가 상이하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_010",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "문무관 임면권 규정으로 임면이라는 주제는 겹치나, 주체가 천황 단독이고 합의체 심의 절차나 직위 열거가 없어 대상 조문의 구조와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_010",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방과 주 사이의 입법·집행 권한 배분 목록으로, 열거 형식만 유사할 뿐 국무회의 심의사항이라는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_061",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "두문 '左列事項應經行政會議議決'의 문형과 법률안·예산안, 계엄안, 선전·강화·조약안 등 중요 대외사항, 각 부 간 공동관계 사항, 구성원이 제의한 사항이라는 항목 배열이 대상 조문과 직접 대응한다. 다만 합의체 명칭(행정회의)과 입법원 제출 전제, 대사안(大赦案)의 위치 등은 다르다.",
+      "evidence": [
+        {
+          "element": "두문의 문형",
+          "target_field": "original_text",
+          "target_quote": "左의 事項은 國務會議의 議決을 經하여야한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "左列事項應經行政會議議決：",
+          "commonality": "좌기 사항을 열거하고 합의체의 '의결을 거쳐야 한다'는 동일한 구문 구조를 취한다.",
+          "difference": "후보의 합의체는 행정회의이고, 다수 항목이 '입법원에 제출하는' 의안으로 한정되는 반면 대상은 국무회의이며 제출 상대의 한정이 없다."
+        },
+        {
+          "element": "대외정책 관련 의안",
+          "target_field": "original_text",
+          "target_quote": "2. 條約案, 宣戰, 講和 其他 重要한 對外政策에 關한 事項",
+          "candidate_field": "original_text",
+          "candidate_quote": "三、提出於立法院之宣戰案、媾和案、條約案、及其他關於重要國際事項之議案。",
+          "commonality": "선전·강화·조약안과 '기타 중요한' 대외/국제사항을 한 호에 묶어 의결사항으로 삼는다.",
+          "difference": "후보는 '입법원에 제출하는 의안'으로 한정하고 '중요한 국제사항'이라 하며, 대상은 제출처 한정 없이 '중요한 대외정책에 관한 사항'으로 넓힌다."
+        },
+        {
+          "element": "구성원 제출 사항의 포괄 조항",
+          "target_field": "original_text",
+          "target_quote": "13. 其他 國務總理 또는 國務委員이 提出하는 事項",
+          "candidate_field": "original_text",
+          "candidate_quote": "六、行政院副院長各政務委員各部各委員會提議之事項。",
+          "commonality": "합의체 구성원이 제출·제의한 사항을 마지막 포괄 항목으로 둔다.",
+          "difference": "후보는 부원장·정무위원·각 부·각 위원회를 열거하고 별도로 총통·원장의 교의사항(제5호)을 두는 반면, 대상은 국무총리 또는 국무위원으로 제출 주체를 통합한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_057",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "합의체(제국정부)에 심의·의결을 위해 제출해야 하는 사항으로 '모든 법률안'과 '여러 장관의 소관에 걸친 문제'를 규정하여, 대상 제3호(법률안)와 제9호(행정각부 간 연락·권한 획정)에 한정된 구체적 대응을 보인다. 열거 목록 전체의 대응은 아니다.",
+      "evidence": [
+        {
+          "element": "법률안의 합의체 의결 회부",
+          "target_field": "original_text",
+          "target_quote": "3. 憲法改正案, 法律案, 大統領令案",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Reichsminister haben der Reichsregierung alle Gesetzentwürfe",
+          "commonality": "법률안을 합의제 정부의 심의·의결 대상으로 삼는다.",
+          "difference": "후보는 개별 장관의 '제출 의무' 형식이고 법률안 외 헌법개정안·명령안을 명시하지 않는 반면, 대상은 헌법개정안·대통령령안까지 포함한 의결사항 목록이다."
+        },
+        {
+          "element": "부처 간 소관이 걸친 사항",
+          "target_field": "workbook_text_ko",
+          "target_quote": "행정각부간의 연락사항과 권한의 획정",
+          "candidate_field": "original_text",
+          "candidate_quote": "Meinungsverschiedenheiten über Fragen, die den Geschäftsbereich mehrerer Reichsminister berühren, zur Beratung und Beschlußfassung zu unterbreiten",
+          "commonality": "여러 부처의 소관에 걸치는 문제를 합의체의 심의·의결에 붙인다.",
+          "difference": "후보는 장관들 사이의 '의견대립'을 요건으로 하는 반면, 대상은 의견대립 여부와 무관하게 연락사항과 권한 획정 자체를 의결사항으로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_107",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'左列事項' 열거 형식은 유사하나 내용은 중앙과 지방의 입법·집행 권한 배분이어서, 국무회의 심의사항이라는 규율 요소와 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_II",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "조약 체결, 대사·대법관 임명, 사면 등 주제어가 일부 겹치지만, 이는 대통령이 상원의 권고와 동의를 얻어 행사하는 권한이고 합의제 국무회의 의결사항 목록이라는 구조가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "1. 국정의 기본적 계획과 정책",
+    "4. 재정상의 긴급처분안·예비비지출에 관한 사항",
+    "5. 임시국회의 집회요구에 관한 사항",
+    "8. 영예수여",
+    "10. 정부에 제출 또는 회부된 청원의 심사(약헌 제4호의 '立法議院에서 回付된 事案'과 부분적 어휘 접점은 있으나 청원 심사라는 대상은 다름)",
+    "11. 검찰총장·심계원장 등 사법·회계 감독 직위의 임면"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다.",
+    "프랑스·독일어 후보의 일부 판단은 제공된 원문 문구에 의존하며, 번역문 해석 차이가 있을 수 있다."
+  ],
+  "short_answer": "조선임시약헌 제29조는 '좌의 사항은 국무회의의 의결을 경하여야'라는 두문과 계엄안·해엄안, 조약안, 행정각부 간 연락사항·권한, 공무원 임면, 기타 정책 수립·운영 항목까지 대상 조문과 항목 단위로 가장 폭넓게 대응한다. 중화민국 오오헌초 제61조도 '左列事項應經行政會議議決'이라는 동일 문형과 법률안·예산안, 계엄안, 선전·강화·조약안, 부처 간 공동사항, 구성원 제의사항의 배열에서 구체적으로 대응하나 합의체 명칭과 '입법원 제출' 한정이 다르다. 바이마르헌법 제57조는 법률안과 여러 부처 소관이 걸친 문제를 합의체 심의·의결에 붙인다는 점에서 제3호·제9호에 한정해 대응한다. 프랑스 제4공화국헌법 제30조와 북조선 헌법안 제55조는 각각 국무회의에서의 대사·대학총장 등 고위직 임명, 주요산업기관 책임자·대학총장·군 고급장관 임면이라는 점에서 제11호에 한정된 대응을 보인다. 이는 모두 문언상 대응이며 역사적 영향의 확정은 아니고, 예비비·임시국회 집회요구·청원 심사·영예수여 등은 제시 후보로 설명되지 않는다."
+}

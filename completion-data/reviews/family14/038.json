@@ -1,0 +1,90 @@
+{
+  "article": 38,
+  "reviewed_at": "2026-09-22T15:38:37.286222+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "e1029bd16f9fe8e3a7b0a3896afc06f51f30a7f091deea026acdd70f0cd5a012",
+  "input_sha256": "bad5a5c105996cd6df3966969ff679aa08db3837d4cbc77bef1c0474e73fa783",
+  "responses": [
+    {
+      "job_id": "038_20e164d0ad1c_r1",
+      "repeat": 1,
+      "sha256": "e9be3a686b28afa7d608e23a37e84df5c9c5122635132110b0dc748a48cc7b8b",
+      "assessment": "일본 두 헌법과 약헌의 공개 원칙·결의에 의한 비밀회라는 핵심 대응은 타당함. 프로이센 1850년 후보는 먼저 비밀회로 모여 그 제안을 의결하는데 선행 표결로 설명하여 절차 순서를 보정해야 함. 다른 유럽 후보들의 공개·의결에 따른 공개 배제도 구체적인 부분 대응임."
+    },
+    {
+      "job_id": "038_20e164d0ad1c_r2",
+      "repeat": 2,
+      "sha256": "39c2449f31e42f889dd25bc17469617a041937a08fcb1044fdb6e24dc9daf74e",
+      "assessment": "핵심 세 후보의 문형·정족수·정부 요구 차이를 적절히 구별함. 그러나 오스트리아·바이마르·프로이센의 공개 원칙과 의결에 의한 예외를 추가 요건 때문에 일반 유사성으로만 낮춘 것은 일본의 가중정족수를 허용한 기준과 일관되지 않음."
+    },
+    {
+      "job_id": "038_20e164d0ad1c_r3",
+      "repeat": 3,
+      "sha256": "997ee9f9ca223edfc3a1dd9184140d705d9d59a5ba421a52c8f5b5cd4ef94599",
+      "assessment": "핵심 세 후보의 대응 범위는 타당함. 공개 배제라는 용어를 비밀회와 다른 표현으로 구별할 수 있으나 실제 비교 요소인 공개 원칙과 예외 결정 구조의 대응까지 부정해서는 안 됨. 정족수가 명시되지 않은 점은 일본 1889년·약헌과도 같은 문언상 특징임."
+    }
+  ],
+  "synthesis": "일본 1889년 제48조와 약헌 제17조는 회의 공개 선언 뒤 단서에서 정부 요구 또는 원의 결의로 비밀회를 허용함. 제헌헌법은 정부 요구를 별도 사유로 두지 않고 국회 결의를 명시함. 일본 제57조도 같은 공개·비밀회 구조에 대응하되 출석의원 3분의 2 이상이라는 특별정족수 및 회의록 규정을 추가함. 오스트리아 제32조, 바이마르 제29조, 프로이센 두 후보 역시 공개 원칙과 의회 측 결정에 의한 공개 배제를 구체적으로 규정하므로 발의자·비율·대상 범위·절차 순서를 구별한 보충 대응이 가능함. 프랑스 두 후보도 공개와 비밀회 가능성을 병치하되 요청 또는 재공개 절차가 다름. 해당 조문에 특별정족수가 없다는 사실은 정족수 적용 자체가 없다는 뜻이 아님.",
+  "issues": [
+    {
+      "repeats": [
+        1
+      ],
+      "candidate_id": "PR1850_ORIGINAL_ART_079",
+      "type": "procedure_order",
+      "severity": "material",
+      "finding": "의장 또는 10인 제안에 대한 선행 표결 후 비공개 전환으로 설명함. 원문은 비밀회로 모인 뒤 그 제안에 관해 먼저 의결하도록 함.",
+      "action": "요구에 따른 비밀 집회와 그 안에서의 제안 의결이라는 순서를 명확히 함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "오스트리아·바이마르·프로이센·프랑스의 공개 원칙과 비공개 결정 구조를 추가 요건이나 문장 형식 차이 때문에 일반 유사성에 한정함. 일본의 가중정족수·추가 조항은 허용되어 기준에 차이가 있음.",
+      "action": "공개 원칙·예외의 결정 주체·발동 요건·절차를 나눠 구체적 보충 대응을 제시함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "unexplained_classification",
+      "severity": "minor",
+      "finding": "정족수 미명시를 미설명 요소로 두지만 일본 1889년 및 약헌 후보도 정족수를 명시하지 않음.",
+      "action": "공통의 문언상 특징 또는 다른 후보의 추가 규율로 정리함."
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_017",
+      "type": "historical_wording",
+      "severity": "minor",
+      "finding": "대상이 정부 요구를 삭제하고 국회 결의만 남겼다고 표현하여 실제 편집 경위를 암시함.",
+      "action": "대상에는 정부 요구 문구가 없다는 문언 차이로 바꾸고 삭제의 역사적 경위를 단정하지 않음."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "JP1946_ORIGINAL_ART_057",
+      "type": "evidence_overreach",
+      "severity": "minor",
+      "finding": "대상도 기록 공개까지 확장하려는 관심을 보인다고 共에 적지만 대상은 회의 공개만 규정함.",
+      "action": "회의록 공개는 일본 후보의 추가 규율로만 분류함."
+    }
+  ],
+  "limits": [
+    "비밀회 명칭과 공개 배제라는 표현의 차이를 인정하되 같은 비교 요소의 기능상 대응을 함께 검토함.",
+    "원문 차이를 실제 삭제·계수 과정의 증거로 표현하지 않음."
+  ]
+}

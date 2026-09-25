@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_096",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "96",
+    "original_text": "地方自治團體는 法令의 範圍內에서 그 自治에 關한 行政事務와 國家가 委任한 行政事務를 處理하며 財産을 管理한다.\n地方自治團體는 法令의 範圍內에서 自治에 關한 規程을 制定할 수 있다.",
+    "workbook_text_ko": "지방자치단체는 법령의 범위내에서 그 자치에 관한 행정사무와 국가가 위임한 행정사무를 처리하며 재산을 관리한다.\n지방자치단체는 법령의 범위내에서 자치에 관한 규정을 제정할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "AT1920_ORIGINAL_ART_118",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "118",
+      "original_text": "Die Ortsgemeinden und Gebietsgemeinden sind auch selbständige Wirtschaftskörper; sie haben das Recht, Vermögen aller Art zu besitzen und zu erwerben und innerhalb der Schranken der Bundes- und Landesgesetze darüber zu verfügen, wirtschaftliche Unternehmungen zu betreiben, ihren Haushalt selbständig zu führen und Abgaben einzuheben.",
+      "workbook_text_ko": "기초자치단체와 지역자치단체는 독립된 경제주체이기도 하다. 이들은 모든 종류의 재산을 보유·취득하고 연방법률 및 주법률의 한계 안에서 처분하며, 경제적 사업을 운영하고, 자신의 재정을 독립적으로 관리하며, 공과금을 징수할 권리를 가진다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_070",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "70",
+      "original_text": "Den politischen Gemeinden und Gemeindeverbänden wird das Recht der Selbstverwaltung ihrer Angelegenheiten unter der gesetzlich geregelten Aufsicht des Staates gewährleistet.",
+      "workbook_text_ko": "지방자치단체와 그 연합체에는 법률로 정한 국가의 감독 아래 자기 사무를 자치할 권리를 보장한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_094",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "94",
+      "original_text": "地方公共団体は、その財産を管理し、事務を処理し、及び行政を執行する権能を有し、法律の範囲内で条例を制定することができる。",
+      "workbook_text_ko": "지방공공단체는 그 재산을 관리하고 사무를 처리하며 행정을 집행하는 권한을 가지고 법률의 범위 내에서 조례를 제정할 수 있다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_118",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "118",
+      "original_text": "Die Ortsgemeinden und Gebietsgemeinden sind auch selbständige Wirtschaftskörper; sie haben das Recht, Vermögen aller Art zu besitzen und zu erwerben und innerhalb der Schranken der Bundes- und Landesgesetze darüber zu verfügen, wirtschaftliche Unternehmungen zu betreiben, ihren Haushalt selbständig zu führen und Abgaben einzuheben.",
+      "workbook_text_ko": "기초자치단체와 지역자치단체는 독립된 경제주체이기도 하다. 이들은 모든 종류의 재산을 보유·취득하고 연방법률 및 주법률의 한계 안에서 처분하며, 경제적 사업을 운영하고, 자신의 재정을 독립적으로 관리하며, 공과금을 징수할 권리를 가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_104",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "104",
+      "original_text": "凡事務有因地制宜之性質者，劃爲地方自治事項。\n地方自治事項，以法律定之。",
+      "workbook_text_ko": "각 지역의 사정에 맞추어 처리할 성질의 사무는 모두 지방자치사항으로 구분한다.\n지방자치사항은 법률로 정한다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_072",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "72",
+      "original_text": "(1) Die Provinzen verwalten nach Maßgabe des Gesetzes durch ihre eigenen Organe:\na) selbständig die ihnen gesetzlich obliegenden oder freiwillig von ihnen übernommenen eigenen Angelegenheiten (Selbstverwaltungsangelegenheiten);\nb) als ausführende Organe des Staates die ihnen übertragenen staatlichen Angelegenheiten (Auftragsangelegenheiten).\n(2) Das Gesetz wird den Kreis der den Provinzen überwiesenen Selbstverwaltungsangelegenheiten erweitern und ihnen Auftragsangelegenheiten übertragen.",
+      "workbook_text_ko": "(1) 도는 법률에 따라 자신의 기관을 통하여 다음 사무를 관리한다.\na) 법률상 맡겨졌거나 자발적으로 인수한 고유 사무를 독자적으로 관리한다(자치사무).\nb) 위임받은 국가사무를 국가의 집행기관으로서 관리한다(위임사무).\n(2) 법률은 도에 부여된 자치사무의 범위를 확대하고 도에 위임사무를 부여한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_038",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "38",
+      "original_text": "道長 市長 郡長 面長은 法令을 執行하며 所管 行政事務를 處理하고 管下 地方自治 行政을 監督함",
+      "workbook_text_ko": "도장·시장·군장·면장은 법령을 집행하며 소관 행정사무를 처리하고 관하 지방자치 행정을 감독함."
+    }
+  ]
+}

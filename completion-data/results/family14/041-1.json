@@ -1,0 +1,154 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_041",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_068",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회가 의결권을 행사한다는 문형은 있으나 대상 조문의 핵심 객체인 '예산안'이 아니라 법률안·법률에 관한 규정이어서 구체적 규율 요소의 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_086",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "예산(안)에 대해 국회가 '심의'와 '의결'을 행한다는 구체적 규율 요소와 용어가 대응한다. 다만 후보는 내각의 작성·제출의무를 주어로 삼은 구성이고 대상은 국회의 권한만 규정한다.",
+      "evidence": [
+        {
+          "element": "객체(예산안)와 국회의 심의·결정",
+          "target_field": "original_text",
+          "target_quote": "國會는 豫算案을 審議決定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "国会に提出して、その審議を受け議決を経なければならない",
+          "commonality": "예산에 대해 국회가 심의하고 의결(결정)한다는 요소가 같다.",
+          "difference": "대상은 국회를 주어로 권한을 직접 규정하고, 후보는 내각을 주어로 제출·심의·의결 절차 통과 의무로 규정한다."
+        },
+        {
+          "element": "예산 작성·제출 주체와 회계연도 요건",
+          "target_field": "original_text",
+          "target_quote": "豫算案",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、毎会計年度の予算を作成し",
+          "commonality": "심의 대상이 되는 예산(안)이 존재함을 전제한다.",
+          "difference": "후보는 매 회계연도·내각 작성이라는 주체와 조건을 명시하지만 대상 조문에는 그런 요건이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_062",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가예산안을 의회가 다룬다는 주제는 겹치지만, 양원 중 제출 우선원과 전체 승인·거부라는 절차 요소가 중심이어서 대상의 '심의결정' 문형과 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "세입법안 발의원, 법률에 따른 세출배분 등 재정 관련 규정이 있으나 예산안을 의회가 심의·결정한다는 대상 조문의 구체 요소와 문형 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법령초안 작성·심의를 위한 법제위원회 조직에 관한 규정으로 예산안 심의결정과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산법률의 선의권(하원 우선 제출·의결)이라는 양원 간 절차 규정으로, 단원적 '국회의 심의결정'이라는 대상 요소와 대응 범위가 좁다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_064",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'豫算案'을 의회가 의결한다는 객체·행위의 한자 용어가 직접 대응한다. 다만 후보는 계엄·대사·선전 등 다수 의안을 열거한 권한 규정이고 대상은 예산안만 단독으로 규정한다.",
+      "evidence": [
+        {
+          "element": "예산안 의결 주체와 객체",
+          "target_field": "original_text",
+          "target_quote": "豫算案을 審議決定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院有議決法律案、預算案",
+          "commonality": "입법기관이 '預算案(예산안)'을 의결(결정)한다는 요소가 같고 용어가 일치한다.",
+          "difference": "후보는 여러 의안을 열거한 권한 목록이며 '심의'라는 표현 없이 '議決之權'으로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "입법기관의 '豫算案' 의결권이라는 구체 요소가 대상의 객체·효과와 대응한다. 다만 열거식 권한 규정이라는 형식 차이가 있다.",
+      "evidence": [
+        {
+          "element": "예산안 의결 권한",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회는 예산안을 심의결정한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院有議決法律案，預算案",
+          "commonality": "입법기관이 예산안을 의결·결정하는 권한을 헌법에 명시한 점이 같다.",
+          "difference": "대상은 예산안 단독 조문이고 후보는 법률안·계엄·대사·선전 등과 함께 열거하며 '심의' 문언이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_038",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률안 의결·제출권에 관한 규정으로 예산안 심의결정과 객체가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "입법기관의 예산 의결이라는 주제는 겹치나 주어가 정부주석의 편성·의결 획득 의무이고 '예산안 심의결정'이라는 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_016",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국민의회가 예산법안을 회부받는다는 규정으로, 심의·결정 권한 자체를 규정한 대상과 규율 초점(회부·내용 제한·조직법률)이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "연방정부의 예산안 제출 기한을 규정한 절차 조항으로, 의회의 심의결정 권한이라는 대상 요소와 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_050",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주내각의 법률안 의결에 관한 규정으로 예산안과 국회 심의결정 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령의 예산안 제출과 국민의회의 증액 제한 등 재정 규정이 있으나, 대상의 간결한 '국회의 예산안 심의결정' 문형과 구체적 대응이라 보기 어렵다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'심의결정'이라는 단일 동사 결합 표현",
+    "예산안 제출 주체·시기·회계연도 요건의 부재",
+    "증액·수정 한계나 의결 실패 시 효과에 관한 규정의 부재"
+  ],
+  "limitations": [
+    "문언상 대응만 확인한 것이며 실제 참조 관계의 확정은 불가하다.",
+    "대상 조문이 한 문장으로 매우 간결해 절차·예외 요소 비교의 근거가 제한적이다.",
+    "일부 후보는 번역문 대조 없이는 세부 어휘 비교가 어렵다."
+  ],
+  "short_answer": "대상 조문은 '국회가 예산안을 심의결정한다'는 단문으로, 객체(예산안)와 행위(심의·의결)의 구체적 대응이 보이는 후보는 일본국헌법 제86조와 중화민국 五五憲草 제64조·중화민국헌법 제63조다. 일본국헌법은 '審議'와 '議決'이라는 두 요소가 결합되어 대상의 '심의결정'과 가장 가깝지만 주어가 내각의 작성·제출 의무로 구성된 점이 다르다. 중화민국 조문들은 '預算案'과 '議決' 용어가 직접 일치하나 법률안·계엄·대사 등을 함께 열거한 권한목록 형식이고 '심의' 표현이 없다. 프로이센 1850년 헌법, 프랑스 1875년 상원조직법·1946년 헌법, 오스트리아 1920년 헌법, 필리핀 헌법 등은 예산 제출·선의·증액제한 같은 절차 요소에 초점이 있어 주제적 유사에 머문다. 이상은 문언 대응의 검토이며 역사적 참조 여부를 확정하는 것은 아니다."
+}

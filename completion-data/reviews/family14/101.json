@@ -1,0 +1,68 @@
+{
+  "article": 101,
+  "reviewed_at": "2026-09-22T16:37:02.247381+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "0f325ad1ba54ca835182796c2ebd2fe31e2aa0fdd0a60217aac5aee755d3106a",
+  "input_sha256": "dd731f41eb96992f752b60f4acafaae81de1a1e6f3ac193d4a23682a08f0d058",
+  "responses": [
+    {
+      "job_id": "101_57d081e23b69_r1",
+      "repeat": 1,
+      "sha256": "3e2e72fda3ba591b5ed705153c820dda1d9f622786381e4d7eb5b0545ee73b96",
+      "assessment": "제헌의회에 특정 권한을 부여하는 경과 규정이라는 한정된 대응을 정확히 구분함. 형사 특별법의 부분 대응과 권리 보장 조항과의 관계는 더 좁게 표현할 필요가 있음."
+    },
+    {
+      "job_id": "101_57d081e23b69_r2",
+      "repeat": 2,
+      "sha256": "b15b91302fb533a82d3b4f848e206bb52b1ccc84a35aabe1c22277899c7e70a8",
+      "assessment": "선택된 두 후보가 반민족행위 처벌의 내용까지 설명하지 못한다는 한계를 잘 밝힘. 행위의 명칭과 상세한 정의를 구분하고, 특별법이라는 부분 대응을 별도로 인정할 여지가 있음."
+    },
+    {
+      "job_id": "101_57d081e23b69_r3",
+      "repeat": 3,
+      "sha256": "95d97de4e83a60f8878281e334ac39239509cf03df63b1daf53c3f202d42e85b",
+      "assessment": "제헌의회의 특별 권한이라는 형식과 소급 처벌이라는 핵심 내용의 차이를 구분함. 권리 보장과 입법권 수권을 곧 반대 방향으로 설명하는 것은 피해야 함."
+    }
+  ],
+  "synthesis": "제헌국회에 특정 특별법의 제정 권한을 부여한다는 점에서 중화민국 초안 제146조와 헌법 제175조가 제한적으로 대응함. 다만 전자는 제1기 국민대회 권한의 행사 주체, 후자는 헌법 시행 준비 절차의 결정 주체를 정하므로 형사 처벌의 내용에는 대응하지 않음. 프로이센 제113조는 과도기의 형사 특별법이라는 부분 대응을 보임. 제헌헌법의 특정 기준일 이전 행위, 악질적 반민족행위 및 그 처벌이라는 결합은 이 후보들로 설명되지 않음. 제시 문언은 처벌 대상의 명칭을 제시하며 그 세부 구성요건을 정의하지는 않음.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "selection_threshold",
+      "finding": "프로이센 제113조의 형사 특별법과 과도기적 입법이라는 구체적 부분 대응을 입법 주체·소급성·수권 형식의 차이 때문에 배제함.",
+      "action": "형사 특별법이라는 부분 대응을 인정하되 제헌국회의 소급 처벌 수권과는 구분함.",
+      "candidate_id": "PR1850_ORIGINAL_ART_113",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "type": "false_contrast",
+      "finding": "미국 수정 제1조의 특정 권리 제한 입법 금지를 특별 형사입법의 수권과 반대 방향으로 설명함. 규율 내용이 달라 두 규정의 논리적 충돌은 문언만으로 확정되지 않음.",
+      "action": "권리 제한의 금지와 특정 처벌 입법의 수권을 서로 다른 비교 항목으로 설명함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "type": "scope_precision",
+      "finding": "대상 조문에 처벌 대상 행위의 정의가 있다는 취지의 표현은 명칭 제시보다 넓음.",
+      "action": "악질적 반민족행위라는 처벌 대상의 명칭과 기준일을 정함으로 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": [
+    "문언상 소급 처벌을 허용하는 취지를 비교한 것이며 실제 특별법의 적용 범위와 후속 판례를 검증한 것은 아님."
+  ]
+}

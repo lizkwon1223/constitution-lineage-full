@@ -1,0 +1,191 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_002",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_PREAMBLE",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "「主権が国民に存することを宣言し」·「その権威は国民に由来し」처럼 주권 귀속과 권위의 유래를 국민에 두는 관념은 겹치나, 전문(前文) 형식의 선언이며 권위(権威)·권력(権力)·복리(福利)를 나누어 권력은 국민의 대표자가 행사한다고 규정하는 점에서 대상 조문의 간결한 2문 구조(주권 귀속+모든 권력의 유래)와 규율 방식이 다르다. 주제적 유사에 그쳐 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주권의 귀속(국민)과 모든 권력(정부권한)의 유래(국민)를 하나의 문장에서 'and'로 연결하는 2요소 구조가 대상 조문과 문형·규율요소 모두에서 대응한다. 다만 후단의 대상이 'government authority'로 한정되어 있고 앞에 공화국 선언이 별도로 놓인 점은 다르다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Sovereignty resides in the people",
+          "commonality": "주권이 국민에게 있다는 귀속 명제를 조문 서두에 배치한다.",
+          "difference": "후보는 같은 절 앞에 'The Philippines is a republican state.'라는 국가형태 선언을 두고 있으나, 대상 조문에는 국가형태 선언이 별도 조문(본 조문 문언 내에는 없음)으로 분리되어 있다."
+        },
+        {
+          "element": "모든 권력의 유래",
+          "target_field": "original_text",
+          "target_quote": "모든 權力은 國民으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "all government authority emanates from them",
+          "commonality": "'모든' 권력/권한이 국민으로부터 나온다는 유래 명제를 주권 귀속 명제와 한 문장 안에서 접속한다.",
+          "difference": "후보는 대상을 '정부권한(government authority)'으로 한정하나, 대상 조문은 '모든 권력'으로 포괄한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "주권이 인민에게 속한다는 귀속 명제는 겹치지만, 후속 문장이 주권 행사의 배타성 금지와 국민투표·국민의회 의원을 통한 행사방법을 상세히 규정하는 데 중점이 있어 대상 조문의 '모든 권력의 유래' 명제와는 규율요소가 다르다. 대응은 번역문을 거쳐야 뚜렷해지는 수준이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…의 主權은 …에게 있다'라는 국문 문형과 조문 번호·배치가 대상 전단과 직접 대응한다. 다만 귀속 주체가 '人民'이고, 후단이 권력의 유래가 아니라 최고인민회의·인민위원회에 의한 주권 행사기관을 규정한다는 점에서 규율 내용이 갈린다. 대응 범위는 전단에 한정된다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 문형",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮民主主義人民共和國의 主權은 人民에게 있다",
+          "commonality": "국호+'의 主權은 …에게 있다'라는 동일한 국문 서술형으로 주권 귀속을 선언한다.",
+          "difference": "귀속 주체가 '人民'과 '國民'으로 다르다."
+        },
+        {
+          "element": "후단의 규율 대상",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 권력은 국민으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "主權은 人民의 最高主權機關인 最高人民會議가 地方主權機關인 人民委員會를 根據로 하여 行使한다",
+          "commonality": "전단의 주권 귀속 선언에 이어 권력 측면을 규율하는 문장을 덧붙이는 구성이다.",
+          "difference": "대상은 권력의 유래(국민)를 밝히는 데 그치나, 후보는 주권을 행사하는 기관(최고인민회의·인민위원회)을 지정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'vom Volk aus'라는 유래 문형은 대상 후단과 닮았으나 유래하는 대상이 '권력'이 아니라 '법(Recht)'이고, 앞 문장은 민주공화국 선언이다. 동일 요소(권력의 유래)는 바이마르 조문 쪽이 직접 대응하므로 여기서는 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_004",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "통치권의 총람 주체를 천황으로 정하여 주권의 귀속을 군주에 두는 규정으로, 국민주권을 선언하는 대상 조문과 정반대의 귀속 주체를 규율한다. 문언상 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'Die Staatsgewalt geht vom Volke aus'는 국가권력이 국민으로부터 나온다는 유래 명제로서 대상 후단과 규율요소·문형이 직접 대응한다. 다만 후보는 앞 문장에서 공화국 선언을 하고 주권 귀속 명제를 별도로 두지 않으며, 대상처럼 '모든'이라는 포괄 수식어가 없다.",
+      "evidence": [
+        {
+          "element": "권력의 유래",
+          "target_field": "original_text",
+          "target_quote": "모든 權力은 國民으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Staatsgewalt geht vom Volke aus.",
+          "commonality": "권력(국가권력)이 국민으로부터 나온다는 유래 명제를 독립된 짧은 문장으로 규정한다.",
+          "difference": "후보는 '국가권력(Staatsgewalt)'을 주어로 하고 '모든'에 해당하는 포괄 수식이 없으며, 주권 귀속 명제는 병렬되어 있지 않다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_002",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가권력과 국민을 연결하는 점은 같으나, 권력의 '담당자(Träger)'가 국민 전체라는 귀속 표현이어서 '국민으로부터 나온다'는 유래 문형과는 서술 방식이 다르고, 주권 귀속 선언도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2조에 '朝鮮의 主權은 國民 全體에 屬함'을 두어 국호+주권 귀속 명제를 같은 위치·같은 요소로 규정한다. 다만 귀속 표현이 '國民 全體에 屬함'이고 권력의 유래에 관한 후단이 없어 대응은 전단에 한정된다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮의 主權은 國民 全體에 屬함",
+          "commonality": "제2조에서 국호를 주어로 삼아 주권이 국민에게 있음을 선언한다.",
+          "difference": "후보는 '國民 全體에 屬함'이라는 귀속·소속 표현을 쓰고, 대상의 후단인 '모든 권력은 국민으로부터 나온다'에 해당하는 문장이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_IV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주 상호간 신뢰·신용, 범죄인 인도, 신주 가입, 공화정체 보장 등 연방-주 관계를 규율하며 주권 귀속이나 권력의 유래를 정하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출방법·임기·재선을 정한 조문으로, 대상 조문의 주권 귀속·권력 유래와 규율요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "섭정의 권력 행사와 선서·국무원 책임을 규율하는 조문으로, 국민주권 선언과 대응하는 문언이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2조에서 국호+'之主權屬於國民全體'로 주권 귀속을 선언하여 대상 전단과 조문 위치·요소가 대응한다. 다만 귀속 주체가 '國民全體'이고 권력의 유래를 밝히는 후단이 없다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之主權屬於國民全體。",
+          "commonality": "헌법 제2조에서 국호를 주어로 하여 주권이 국민에게 있음을 한 문장으로 규정한다.",
+          "difference": "후보는 '國民全體에 屬한다'는 귀속 표현만 두고, 대상과 달리 '모든 권력은 국민으로부터 나온다'는 병렬 후단이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "초안 제2조 역시 국호+'之主權，屬於國民全體'로 대상 전단과 동일한 규율요소(주권의 귀속)를 같은 조문 위치에 둔다. 대응 범위는 전단에 한정되며 권력 유래 조항은 없다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대한민국의 주권은 국민에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之主權，屬於國民全體。",
+          "commonality": "제2조에서 국호를 주어로 주권이 국민에게 귀속함을 단문으로 선언한다.",
+          "difference": "귀속 표현이 '屬於國民全體'로 '국민 전체'를 명시하며, 권력의 유래를 규정하는 후단이 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'주권은 국민에게 있고'와 '모든 권력은 국민으로부터 나온다'를 한 조문 안에서 접속사로 결합한 국문 문장 구성 자체(필리핀 제2절이 유사하나 후단이 '정부권한'으로 한정됨)",
+    "'모든'이라는 포괄 수식어로 권력 전체를 지시하는 표현"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로는 판단할 수 없다.",
+    "필리핀·프랑스·독일·오스트리아 조문은 외국어 원문이어서 대응 판단에 일정 부분 번역 이해가 개입한다."
+  ],
+  "short_answer": "대상 조문은 ①주권의 귀속(국민)과 ②모든 권력의 유래(국민)라는 두 요소로 구성된다. 두 요소를 한 문장에서 모두 대응시키는 후보는 필리핀헌법 제2절 제1항('Sovereignty resides in the people and all government authority emanates from them')이며, ②만을 직접 대응시키는 것은 바이마르 제1조('Die Staatsgewalt geht vom Volke aus'), ①만을 대응시키는 것은 중화민국헌법 제2조·五五憲草 제2조·조선임시약헌 제2조·북한 헌법안 제2조이다. 차이로는 후보들이 귀속 주체를 '國民全體' 또는 '人民'으로 쓰거나, 권력 유래 대신 행사기관(최고인민회의·인민위원회)·행사방법(대표자·국민투표)을 규정하고, 필리핀은 후단 대상을 '정부권한'으로 한정한다는 점이 있다. 오스트리아 제1조는 유래 문형은 같으나 유래 대상이 '법(Recht)'이고, 대일본제국헌법 제4조는 통치권을 천황에게 귀속시키는 대조 사례다. 이상은 문언상 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

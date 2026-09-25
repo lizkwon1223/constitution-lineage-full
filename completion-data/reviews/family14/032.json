@@ -1,0 +1,92 @@
+{
+  "article": 32,
+  "reviewed_at": "2026-09-22T15:33:22.367844+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "53d2c060ab96e3d044a4870abaa65d6da3ad974694d1f0e96708cfbb6ad9ac55",
+  "input_sha256": "3b3cdcb640f7237133f5d7cc651e5f2717ca0ae14c836431267d42cc12e87489",
+  "responses": [
+    {
+      "job_id": "032_1c6e7e537cce_r1",
+      "repeat": 1,
+      "sha256": "fecb9f296882d0ea2bbc622fcac15c5fa1cedf269ba2afd5d7cc05f430118739",
+      "assessment": "약헌의 선거원칙·공선 의원 구성, 일본 두 조문의 구성·법률위임, 바이마르와 북한의 원칙·위임 결합이라는 주요 대응은 타당함. 중화민국 초안의 네 선거원칙과 프랑스·오스트리아 등의 부분 대응도 보충해야 함. 기관명만으로 단원제를 확정한 설명은 제공 조문에 한정해 서술할 필요가 있음."
+    },
+    {
+      "job_id": "032_1c6e7e537cce_r2",
+      "repeat": 2,
+      "sha256": "35550fe4d6420c7c6fcb4a280a73002a257c5bd5c5c234107122b586db059625",
+      "assessment": "선택한 다섯 후보의 대응 범위를 나눈 설명은 대체로 정확함. 원칙만 있는 중화민국 초안이나 선거 관련 법률위임이 있는 프랑스 후보의 비선택은 부분 대응 기준이 일관되지 않음. 제헌헌법 국회를 연방 단위 의회로 지칭한 부분 및 일본이 전적으로 선거법에 위임한다는 단정은 보정이 필요함."
+    },
+    {
+      "job_id": "032_1c6e7e537cce_r3",
+      "repeat": 3,
+      "sha256": "eca010aea964783659675b4f4b6bc7042f1d2302571d77e02c8c13b02b900e5c",
+      "assessment": "주요 대응과 법률·법령 및 기관 차이를 적절히 구별함. 중화민국 초안의 무기명 투표는 약헌에서도 선택 근거로 인정한 동일 요소이므로 제도 구성 문형이 없다는 이유만으로 대응을 축소하지 않아야 함. 일본의 헌법상 원칙 부재·전부 위임이라는 표현을 해당 조문 관찰로 제한해야 함."
+    }
+  ],
+  "synthesis": "제32조는 네 선거원칙에 따른 공선 의원의 국회 구성과 선거사항의 법률위임을 결합함. 약헌 제10조는 원칙 열거 및 공선된 의원으로써 조직한다는 문형에서 밀접하며 무기명투표라는 용어와 법률위임의 위치가 다름. 일본 1889년 제35조는 공선 의원으로 조직한다는 문형, 일본 제47조는 의원 선거사항을 법률로 정한다는 후단에 대응함. 바이마르 제22조와 북한 제67조는 원칙을 제시한 뒤 세부 선거를 별도 법규로 정하는 구조를 공유하며 비례대표·연령·기관·법률 형식에 차이가 있음. 중화민국 초안 제28조의 보통·평등·직접·무기명 투표도 원칙 부분에 직접 대응함. 프랑스의 선거방법 법률위임, 오스트리아의 평등·직접·비밀 원칙, 미국의 주민 선출 의원 구성은 각각 보충 대응으로 읽을 수 있음. 각 후보가 조문의 두 항을 모두 설명해야만 유효한 것은 아님.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": "ROC1936_DRAFT_ART_028",
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "네 선거원칙의 직접 대응을 기관 구성 문형·법률위임 부재 때문에 일반 유사성에 한정함. 약헌에서는 같은 무기명투표 원칙을 대응으로 인정함.",
+      "action": "원칙 부분의 구체적 대응을 보충하고 조문 전체의 차이와 분리함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "selection_threshold",
+      "severity": "material",
+      "finding": "프랑스 1875년·1946년의 선거 관련 법률위임, 오스트리아의 선거원칙, 미국의 주민 선출 구성은 부가 규율·기관 차이를 이유로 일괄 축소함. 북한의 지방 기관 규정이나 일본의 후단만 대응하는 조항은 선택되어 기준에 차이가 있음.",
+      "action": "해당 요소에 한정한 보충 대응을 정리하고 핵심 대응과 구별함."
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "candidate_id": "JP1889_ORIGINAL_ART_035",
+      "type": "unsupported_legal_inference",
+      "severity": "material",
+      "finding": "선거원칙을 헌법에 명시하지 않고 전적으로 또는 전부 선거법에 위임한다고 서술함. 제공된 제35조 밖의 원칙 유무나 입법 한계를 확정할 수 없음.",
+      "action": "제35조에는 네 원칙의 열거가 없고 선거법을 원용한다고 정리함."
+    },
+    {
+      "repeats": [
+        2
+      ],
+      "candidate_id": "AT1920_ORIGINAL_ART_095",
+      "type": "institution_precision",
+      "severity": "minor",
+      "finding": "대상 국회를 연방 단위 의회라고 표현함.",
+      "action": "국가 차원의 국회와 주의회라는 기관 수준의 차이로 정정함."
+    },
+    {
+      "repeats": [
+        1,
+        2,
+        3
+      ],
+      "candidate_id": null,
+      "type": "input_scope",
+      "severity": "minor",
+      "finding": "국회라는 기관명만 제시된 대상 문언을 단원제의 직접 근거처럼 사용함.",
+      "action": "본 조문의 국회 구성 규정과 후보의 양원·지방기관 지정을 비교하고 단원제 확정 근거와 구분함."
+    }
+  ],
+  "limits": [
+    "무기명투표와 비밀선거는 대응 개념으로 보되 제도적 구현까지 동일하다고 단정하지 않음.",
+    "열거 순서의 차이를 내용의 차이나 참조 여부의 결정적 근거로 삼지 않음."
+  ]
+}

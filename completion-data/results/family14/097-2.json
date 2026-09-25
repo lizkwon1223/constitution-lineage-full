@@ -1,0 +1,163 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_097",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_071",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자치단체의 조직·권리·의무를 법률로 정한다는 법률유보는 대상 제1항과 겹치지만, 이 조항의 초점은 국가의 도(道) 구획과 계층적 행정구역 분할에 있고 자치단체 의회의 설치·의원 선거에 관한 규율이 전혀 없어 규율 요소의 구체적 대응이 제한적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "구성·임명방법·권한을 법률(특별법)로 정한다는 문형은 유사하나, 대상은 지방자치단체와 지방의회를 규율하는 반면 이 조항은 국가 입법부인 상·하원 구성에 관한 것으로 주체와 대상 기관이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "각급 인민위원회의 선거를 따로 법령으로 규정한다는 점에서 지방기관 선거의 법률유보와 주제가 겹치나, 대상 조문과 달리 선거원칙(일반·평등·직접·비밀)을 헌법에 직접 명시하고 조직·운영의 법률유보나 의회 설치 규정은 두지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_104",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방자치사항을 법률로 정한다는 법률유보 구조는 공통되지만, 규율 대상이 '자치사무의 범위 획정'이어서 대상 조문의 조직·운영, 의회 설치, 의원 선거라는 구체적 요소와 직접 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "경과규정(최초 선거, 기존 법률·법원·공무원의 효력 존속 등)으로 지방자치단체의 조직·운영이나 지방의회 구성과 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_092",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대상 제1항과 문언 구조·어휘가 거의 그대로 대응한다(‘조직 및 운영에 관한 사항’+‘법률로 정한다’). 다만 후보는 '지방자치의 본지에 따라'라는 실체적 기준을 부가하고 의회 설치·의원 선거 조항이 없어 대응 범위는 제1항에 한정된다.",
+      "evidence": [
+        {
+          "element": "지방자치단체 조직·운영의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "地方自治團體의 組織과 運營에 關한 事項은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "地方公共団体の組織及び運営に関する事項は、地方自治の本旨に基いて、法律でこれを定める。",
+          "commonality": "단체의 '조직'과 '운영'에 관한 사항을 하나의 문장에서 법률로 정하도록 하는 규율 요소와 문형이 사실상 동일하다.",
+          "difference": "후보는 '지방자치의 본지에 기하여'라는 입법 기속 기준을 명시하고 명칭도 '지방공공단체'인 반면, 대상은 그러한 기준 없이 '지방자치단체'로 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_119",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자치단체 대표기관과 그 선거를 다룬다는 점에서 주제는 겹치나, 선거원칙·피선거권·선거구·의원정수 배분 등을 헌법이 직접 상세히 규정하고 선거규정 제정을 주 입법에 맡기는 구조여서, 모두 법률유보로 위임하는 대상 조문과 규율 방식이 대조적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XVII",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "연방 상원의원의 주민 직선과 결원 보충 절차에 관한 규정으로, 지방자치단체 조직·운영 및 지방의회의 법률유보와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_072",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'조직 및 직권은 법률로 정한다'는 문형이 대상 제3항과 닮았으나, 대상 기관이 회계검사원이고 결산 검사 절차를 규율하는 조문이어서 지방자치라는 규율 대상이 전혀 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_112",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2문이 대표기관의 '조직'과 '선거'를 법률로 정한다는 점에서 대상 제3항과 요소·문형이 구체적으로 대응한다. 다만 후보의 대표기관은 성자치법 제정을 위한 省民代表大會이고 '권한'은 열거되지 않아 대응 범위를 제3항의 조직·선거 부분으로 한정한다.",
+      "evidence": [
+        {
+          "element": "지방 대표기관의 조직·선거에 관한 법률유보",
+          "target_field": "original_text",
+          "target_quote": "地方議會의 組織, 權限과 議員의 選擧는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "省民代表大會之組織及選舉，以法律定之。",
+          "commonality": "지방 단위 대표기관의 조직과 선거를 헌법이 직접 정하지 않고 법률에 위임하는 규율 요소가 일치한다.",
+          "difference": "대상은 상설 지방의회의 '권한'과 '의원의 선거'까지 포함하나, 후보는 성자치법 제정을 위한 省民代表大會의 조직·선거만을 대상으로 하고 권한은 언급하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_017",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "자치단체 선거를 다루지만 보통·평등·직접·비밀·비례선거 원칙을 헌법이 직접 규정하고 거주기간 요건만 주법에 맡기는 구조로, 선거를 전면적으로 법률에 위임한 대상 조문과 규율 방식이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_077",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "각 단위마다 선출 의회를 설치한다는 명령과, 그 선거제도·구성·권한을 법률로 정한다는 위임이 대상 제2·3항의 두 요소와 나란히 대응한다. 다만 적용 단위가 해외 '영토'라는 점에서 대상의 지방자치단체와 범위가 다르다.",
+      "evidence": [
+        {
+          "element": "각 단위에 의회를 설치하는 의무",
+          "target_field": "original_text",
+          "target_quote": "地方自治團體에는 各各 議會를 둔다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Dans chaque territoire est instituée une assemblée élue.",
+          "commonality": "각 단위마다 '각각' 하나의 의회를 설치하도록 헌법이 직접 명령하는 구조가 같다.",
+          "difference": "후보는 설치 단위가 해외 영토(territoire)이고 의회가 '선출된(élue)' 기관임을 조문에 명시하나, 대상은 지방자치단체를 단위로 하고 선출 여부는 제3항의 법률유보로 넘긴다."
+        },
+        {
+          "element": "의회의 구성·권한·선거의 법률유보",
+          "target_field": "original_text",
+          "target_quote": "地方議會의 組織, 權限과 議員의 選擧는 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Le régime électoral, la composition et la compétence de cette assemblée sont déterminés par la loi.",
+          "commonality": "선거제도·구성(조직)·권한이라는 세 요소를 한 문장에 묶어 법률에 위임하는 점이 일치한다.",
+          "difference": "대상은 '의원의 선거'로 선거 대상을 의원으로 특정하는 데 비해 후보는 '선거제도(régime électoral)' 전반을 위임하며, 대상은 별도로 단체의 조직·운영에 관한 총괄 법률유보(제1항)를 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_105",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "지방의 대표기관과 행정을 특별법으로 정하고 선출된 대표로 구성되는 의회를 전제한다는 점에서 주제상 근접하나, 국왕의 지방장관 임명·국가 감독·회의 공개·수지 보고 등 헌법이 다수의 실체적 기본원칙을 직접 열거하는 구조여서, 전면 법률유보만을 둔 대상 조문과 규율 방식이 대조적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_040",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'지방자치단체'라는 동일 용어를 주어로 하여 조직·권한을 '법률로써 정함'이라는 동일 문형으로 위임하는 점에서 대상 제1·3항의 법률유보와 구체적으로 대응한다. 다만 후보에는 의회 설치 의무와 의원 선거에 관한 규율이 없다.",
+      "evidence": [
+        {
+          "element": "지방자치단체 관련 사항의 법률유보 문형",
+          "target_field": "original_text",
+          "target_quote": "地方自治團體의 組織과 運營에 關한 事項은 法律로써 定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "地方自治團體의 區域組織 及 權限은 法律로써 定함",
+          "commonality": "'지방자치단체'를 주어로 그 조직 등을 '법률로써 정한다'는 동일 용어와 위임 문형을 사용한다.",
+          "difference": "후보는 위임 대상이 '구역·조직 및 권한'인 반면 대상 제1항은 '조직과 운영에 관한 사항'이며, 대상은 별도로 의회 설치와 의원 선거까지 규정한다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'운영'과 '조직'을 병렬한 제1항의 위임 범위 설정(구역 제외)",
+    "지방자치단체마다 '각각' 의회를 두도록 한 필수 설치 의무를 지방자치단체 단위로 규정한 점",
+    "제3항에서 '의원의 선거'를 조직·권한과 함께 한 문장에 묶은 편제"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토하였고 실제 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "일부 후보(프로이센 1920·1850, 오스트리아)는 독일어 원문과 제공 번역을 함께 읽었으므로 번역에 의존한 해석 가능성이 있다."
+  ],
+  "short_answer": "일본국헌법 제92조는 '조직 및 운영에 관한 사항을 법률로 정한다'는 제1항과 어휘·문형이 거의 동일하여 가장 밀접한 문언 대응을 보이며, 조선임시약헌 제40조는 '지방자치단체'라는 동일 용어와 '법률로써 정함' 문형으로 조직·권한의 법률유보를 공유한다. 프랑스 제4공화국헌법 제77조는 각 단위에 의회를 설치하고 그 선거제도·구성·권한을 법률로 정한다는 점에서 제2·3항의 두 요소에 나란히 대응하고, 중화민국헌법 제112조는 대표기관의 조직과 선거를 법률에 위임하는 부분에서 제3항과 대응한다. 다만 일본 조항은 '지방자치의 본지' 기준을 추가하고, 프랑스 조항은 단위가 해외 영토이며, 중화민국 조항의 대표기관은 자치법 제정을 위한 성민대표대회라는 점에서 주체와 범위가 다르다. 프로이센(1850·1920)·바이마르·오스트리아 조항들은 주제는 겹치나 선거원칙·감독·임명 등을 헌법이 직접 규정하는 방식이어서 전면 법률유보 구조와는 대조적이며, 이상의 판단은 문언 대응에 한정되고 역사적 참조를 확정하지 않는다."
+}

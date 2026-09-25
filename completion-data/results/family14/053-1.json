@@ -1,0 +1,209 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_053",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_060",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령 선거에서 소정 다수 미달 시 '제2차 투표'를 실시하고 1차 최다득표 2인에 한정하여 표를 몰아주는 2단 구조가 대상의 2차투표·최고득표자 2인 결선투표 문형과 구체적으로 대응한다. 다만 선출주체(국민 직접선거)와 기준다수(과반) 및 제6항 정족수(절반 출석·투표 3분의2)는 다르므로 대응 범위는 '결선 구조'와 '정족수/가중다수 문형'에 한정한다.",
+      "evidence": [
+        {
+          "element": "소정 다수 미달 시 재투표 및 최고득표자 2인으로의 한정",
+          "target_field": "original_text",
+          "target_quote": "2次投票에도 3分之 2以上의 得票者가 없는 때에는 最高得票者 2人에 對하여 決選投票를 行하여 多數得票者를 當選者로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ergibt sich keine solche Mehrheit, so findet ein zweiter Wahlgang statt. Bei diesem können gültigerweise nur für einen der beiden Wahlwerber, die im ersten Wahlgang die meisten Stimmen erhalten haben, Stimmen abgegeben werden",
+          "commonality": "1차에서 소정 다수를 얻은 자가 없으면 2차 투표를 하고, 그 대상을 최다득표 2인으로 한정한다는 절차가 같다.",
+          "difference": "대상은 3분의2 미달을 기준으로 2차투표→결선투표의 3단 절차이고 국회 내 선거이며 결선은 다수득표자로 확정되나, 후보는 유효투표 과반 미달을 기준으로 한 국민 직접선거의 2차 투표이고 추천 선거인집단이 후보를 교체할 수 있다."
+        },
+        {
+          "element": "출석 정족수와 가중다수 요건",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成投票로써 當選을 決定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Zum Beschluß des Nationalrates ist die Anwesenheit von mindestens der Hälfte der Mitglieder und eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.",
+          "commonality": "'출석 정족수 + 투표의 3분의2 다수'라는 이중 요건 문형이 대응한다.",
+          "difference": "대상은 대통령·부통령 당선 결정 요건이고 정족수 분모가 재적의원 3분의2이지만, 후보는 대통령 해임 요구 의결 요건이고 정족수가 의원 절반이다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_073",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'총원(재적) 3분의2 이상 출석 + 출석의원 3분의2 이상'이라는 이중 가중정족수 문형이 대상 제2항과 거의 같은 형태로 나타난다. 다만 규율대상이 헌법개정 의결이어서 대응 범위는 정족수·의결요건 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "재적 3분의2 출석·출석 3분의2 찬성이라는 이중 요건",
+          "target_field": "original_text",
+          "target_quote": "在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成投票",
+          "candidate_field": "original_text",
+          "candidate_quote": "総員三分ノ二以上出席スルニ非サレハ議事ヲ開クコトヲ得ス出席議員三分ノ二以上ノ多数ヲ得ルニ非サレハ",
+          "commonality": "출석 정족수의 분모를 총원(재적)으로, 가결 요건의 분모를 출석의원으로 각각 3분의2로 잡는 이중 요건 구성이 동일하다.",
+          "difference": "대상은 대통령·부통령 선거의 당선 결정 요건이고 미달 시 2차투표·결선투표가 이어지나, 후보는 양원 각각의 헌법개정 의결 요건으로서 의사 개회 자체를 제한하고 결선 절차가 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_049",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총통·부총통이라는 정·부수반 병존 구조만 겹치고, 규율 내용은 궐위·사고 시 직무계승과 대행이어서 대상의 선거방법·정족수·겸직금지와 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_038",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "출석 정족수와 표결방식을 정한다는 점은 같으나, 절반 초과 출석·단순다수·기명표결로서 대상의 재적 3분의2 출석·3분의2 찬성·무기명투표와 방향이 반대이고 선거 절차 자체를 규율하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_019",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "정·부수반을 의회에서 무기명투표로 선거하고, 재적의원 3분의2 이상 출석과 출석의원 3분의2 이상 득표로 당선을 결정하며, 3분의2 득표자가 없으면 최다득표 2인의 결선투표를 행한다는 요건이 문언 수준에서 거의 그대로 대응한다.",
+      "evidence": [
+        {
+          "element": "당선 결정의 정족수·득표요건과 무기명투표",
+          "target_field": "original_text",
+          "target_quote": "前項의 選擧는 在籍議員 3分之 2以上의 出席과 出席議員 3分之 2以上의 贊成投票로써 當選을 決定한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "前項 但書의 規定에 依한 選擧는 在籍議員 三分之二 以上의 出席으로 無記名投票에 依하여 出席議員 三分之二 以上의 得票者로써 當選을 決 함",
+          "commonality": "재적의원 3분의2 이상 출석, 무기명투표, 출석의원 3분의2 이상 득표라는 세 요소가 동일하게 결합되어 있다.",
+          "difference": "대상은 무기명투표를 제1항에서 선거방법으로 규정하고 후보는 정족수 규정 안에 넣었으며, 후보의 요건은 '본법 시행 후 최초의' 선거에만 적용되는 단서 규정이다."
+        },
+        {
+          "element": "3분의2 득표자가 없을 때의 후속 투표",
+          "target_field": "original_text",
+          "target_quote": "但, 3分之 2以上의 得票者가 없는 때에는 2次投票를 行한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "但 三分之二 以上의 得票者가 없을 때에는 最多點者 順位로 二人에 對하여 決選投票를 行함",
+          "commonality": "3분의2 이상 득표자가 없는 경우를 조건으로 삼아 최다득표 2인 결선투표로 이어지는 예외 절차를 둔다.",
+          "difference": "대상은 2차투표를 먼저 행하고 거기서도 3분의2 미달일 때 비로소 최고득표자 2인 결선투표로 가는 3단 구조이며 '다수득표자를 당선자로 한다'는 효과를 명시하지만, 후보는 곧바로 결선투표로 가고 당선 효과 문구가 없다."
+        },
+        {
+          "element": "선거 주체(의회에 의한 정·부수반 선거)",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領은 國會에서 無記名投票로써 各各 選擧한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "但 本法施行 後 最■[初]의 政府主席 及 副主席은 立法議院에서 選擧함",
+          "commonality": "정수반과 부수반을 의회(입법기관)가 선거한다는 선출주체 구성이 같다.",
+          "difference": "후보는 원칙적으로 법률에 따른 국민투표 선거를 정하고 의회 선거는 최초 선거에 한한 예외이며, 직명도 정부주석·부주석이다. 또한 '各各 選擧'라는 분리 선거 문구는 후보에 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "비밀투표에 의한 선출이라는 일반적 표현만 겹치고, 규율 대상이 각급 인민위원회 대의원 구성이어서 대상의 국회 내 선거·정족수·결선투표와 대응하는 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_096",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "총재적의원 3분의2 이상 찬성이라는 가중다수 요건은 유사하나 출석 정족수 요건이 없고 헌법개정 발의·국민승인 절차를 규율하므로, 대상의 선거 정족수 문형과의 대응은 일반적 수준에 머문다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_051",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "총통·부총통의 궐위 승계와 직권 대행만 규정하여 대상의 선거방법·당선요건·겸직금지와 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대통령을 의회가 선출한다는 선출주체는 대상과 같으나, 무기명투표·정족수·가중다수·결선투표·겸직금지 등 대상의 구체적 규율 요소가 전혀 없어 선택하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VII",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "대통령·부통령을 동일 임기로 함께 선출하고 동수일 때 의회가 재적 과반수로 선출하는 규정이 있으나 국민 직접투표가 원칙이고, 특히 부통령을 내각원·행정부처장으로 임명할 수 있게 하여 대상의 겸직금지와 방향이 반대이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "대통령과 부통령을 투표용지로 '각각' 분리하여 선거하고, 소정 다수 미달 시 최다득표 상위자(부통령은 2인)로 범위를 좁혀 의회가 선출하며 그 정족수에 3분의2를 요구하는 점이 대상의 각각 선거·결선투표·3분의2 정족수 요소와 부분적으로 대응한다. 다만 선출주체가 선거인단·하원·상원으로 나뉘는 점에서 대응 범위는 제한적이다.",
+      "evidence": [
+        {
+          "element": "대통령과 부통령을 투표로 각각 선거",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領은 國會에서 無記名投票로써 各各 選擧한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President",
+          "commonality": "대통령과 부통령을 하나의 표가 아니라 별개의 투표로 각각 선거한다는 구성이 같다.",
+          "difference": "대상은 국회가 무기명투표로 직접 선거하지만, 후보는 각 주에서 회합한 선거인이 투표하고 상원의장 앞으로 송부·계표하는 절차를 둔다."
+        },
+        {
+          "element": "과반(소정 다수) 미달 시 최고득표자 2인에 대한 선출과 3분의2 정족수",
+          "target_field": "original_text",
+          "target_quote": "最高得票者 2人에 對하여 決選投票를 行하여 多數得票者를 當選者로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators",
+          "commonality": "소정 다수를 얻은 자가 없을 때 최다득표 2인으로 후보를 한정해 합의체가 선출하며 그 정족수에 3분의2를 요구한다.",
+          "difference": "후보의 3분의2는 상원의원 총수의 출석 정족수이고 선출에는 총수 과반이 필요하며 부통령에만 적용된다(대통령은 하원이 상위 3인 중 주 단위로 선출). 대상은 국회 단일체가 대통령·부통령 모두에 대해 결선투표를 하고 단순 다수득표자를 당선자로 한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "임기·국민투표에 의한 파면·형사소추 제한을 규율하며, 3분의2 다수 요건이 등장하나 선거 절차나 겸직금지와의 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_078",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "의원 지위와 다른 공직의 양립 불가를 규율하는 점에서 대상 제3항의 겸직금지와 요소상 대응한다. 다만 주체와 효과(의원이 유급 공직 취임 시 의석 상실, 양원 겸직 금지)가 달라 대응 범위를 겸직·양립불가 요소로 한정한다.",
+      "evidence": [
+        {
+          "element": "겸직(직위 양립) 금지",
+          "target_field": "original_text",
+          "target_quote": "大統領과 副統領은 國務總理 또는 國會議員을 兼하지 못한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Niemand kann Mitglied beider Kammern sein.",
+          "commonality": "특정 직위의 동시 보유를 금지하는 단문 형식의 양립불가 규정이다.",
+          "difference": "대상은 대통령·부통령이 국무총리 또는 국회의원을 겸할 수 없다는 행정수반 기준 금지이고, 후보는 의회 양원 의원 겸직 금지로 대상 직위와 주체가 다르다."
+        },
+        {
+          "element": "공직 취임과 의원 지위의 양립 처리(효과)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대통령과 부통령은 국무총리 또는 국회의원을 겸하지 못한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "Wenn ein Kammermitglied ein besoldetes Staatsamt annimmt oder im Staatsdienste in ein Amt eintritt, mit welchem ein höherer Rang oder ein höheres Gehalt verbunden ist, so verliert es Sitz und Stimme in der Kammer",
+          "commonality": "의원직과 집행부 공직의 동시 보유를 배제한다는 취지가 공통된다.",
+          "difference": "대상은 겸직 자체를 금지하는 규범이나, 후보는 겸직을 금지하는 대신 의석과 표결권 상실이라는 효과를 부여하고 새로운 선거로만 회복된다고 정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회(상·하원 합동)가 대통령을 선출하고 투표의 절대다수를 요구한다는 점에서 선출주체와 다수요건의 결합은 유사하나, 무기명투표·재적 3분의2 출석·2차투표·결선투표·부통령·겸직금지 등 대상의 특유 요소와의 구체적 대응이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'無記名投票'를 선거방법으로 제1항에 명시한 점(약헌 제19조가 유사 문구를 정족수 규정 내에 두는 것과의 배치 차이)",
+    "2차투표 → 결선투표로 이어지는 3단 절차 전체 구조",
+    "겸직 금지 대상 직위를 '국무총리 또는 국회의원'으로 특정한 부분"
+  ],
+  "limitations": [
+    "문언상 대응만 검토했고 어느 후보가 실제로 참조되었는지는 제공 본문만으로 확정할 수 없다.",
+    "오스트리아·프로이센 후보는 독일어 원문 문언에 기초해 비교했으며, 세부 함의는 번역문 의존 가능성이 있다."
+  ],
+  "short_answer": "조선임시약헌(1947) 제19조가 재적의원 3분의2 출석·무기명투표·출석의원 3분의2 득표로 당선을 결정하고 3분의2 득표자가 없으면 최다득표 2인의 결선투표를 행한다는 점에서 대상 제1·2항과 거의 문언 수준으로 대응한다. 대일본제국헌법 제73조는 '총원 3분의2 출석 + 출석의원 3분의2'라는 이중 가중정족수 문형이, 오스트리아 제60조는 소정 다수 미달 시 1차 최다득표 2인에 한정한 제2차 투표 구조가 각각 부분적으로 대응한다. 미국 수정 제12조는 대통령·부통령을 별개 투표로 각각 선거하고 과반 미달 시 최다득표 2인(부통령) 중에서 3분의2 정족수로 선출하는 점이 대응하되 선출주체가 선거인단·하원·상원으로 다르다. 겸직금지에 관해서는 프로이센헌법 제78조의 양립불가·의석상실 규정이 요소상 대응하나 주체와 효과가 다르고, 필리핀헌법 제7조 제12절(3)은 부통령의 내각 겸임을 허용하여 반대 방향이다. 이상은 문언 대응 검토이며 역사적 참조의 확정은 아니다."
+}

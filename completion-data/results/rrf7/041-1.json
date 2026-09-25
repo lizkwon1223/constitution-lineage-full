@@ -1,0 +1,93 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_041",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_086",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "예산(안)에 대하여 의회가 '심의'와 '의결(결정)'을 한다는 규율 요소가 직접 대응한다. 다만 일본국헌법 제86조는 문장의 주어가 내각이고 예산 작성·제출의무를 중심으로 규정한 반면, 대상 조문은 국회를 주어로 하여 심의결정 권한만을 규정한다.",
+      "evidence": [
+        {
+          "element": "예산에 대한 의회의 심의·의결(결정)",
+          "target_field": "original_text",
+          "target_quote": "國會는 豫算案을 審議決定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "国会に提出して、その審議を受け議決を経なければならない",
+          "commonality": "예산(안)이 국회의 심의와 의결(결정) 대상이 된다는 점이 공통된다.",
+          "difference": "대상 조문은 국회를 주체로 한 권한 규정인 반면, 후보는 내각을 주체로 한 제출·의결 경유 의무 규정이며 '매 회계연도 작성' 요건이 추가되어 있다."
+        },
+        {
+          "element": "규율 범위(작성·제출 절차의 포함 여부)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "국회는 예산안을 심의결정한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "内閣は、毎会計年度の予算を作成し",
+          "commonality": "예산 처리의 최종 단계가 국회에 있다는 구조를 전제한다.",
+          "difference": "후보는 작성 주체와 회계연도 단위를 명시하나, 대상 조문에는 작성·제출 주체나 기한에 관한 언급이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_059",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'預算案'이라는 용어는 겹치지만, 후보는 행정원의 제출 주체와 회계연도 개시 3개월 전이라는 기한을 규율하는 조항으로, 국회의 심의결정 권한을 정한 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_060",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산 의결에 관한 조항이나, 양원제에서의 중의원 선의권과 양원 불일치 시 처리절차·30일 기한을 규율하는 내용으로, 국회의 예산안 심의결정을 한 문장으로 선언한 대상 조문과 대응하는 구체적 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_063",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "입법기관을 주어로 하여 '預算案'을 의결하는 권한을 규정한다는 점에서 주체·객체·효과가 대상 조문과 직접 대응한다. 다만 후보는 법률안·계엄안 등 여러 의결사항을 열거한 권한 총괄 규정이고, 대상 조문은 예산안만을 대상으로 '심의결정'이라는 표현을 쓴다.",
+      "evidence": [
+        {
+          "element": "의회가 예산안을 의결(심의결정)한다는 권한 배분",
+          "target_field": "original_text",
+          "target_quote": "國會는 豫算案을 審議決定한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "立法院有議決法律案，預算案",
+          "commonality": "입법기관이 주어가 되어 '預算案'을 의결의 대상으로 삼는 한자 문언이 일치한다.",
+          "difference": "후보는 법률안·계엄안·대사안·선전안 등과 함께 예산안을 열거하는 권한 목록 조항인 반면, 대상 조문은 예산안만을 독립 조문으로 분리하고 '審議決定'이라는 표현을 사용한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_016",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의회를 주어로 예산안을 객체로 삼는 문형은 비슷하나, 후보의 규율 내용은 예산법안의 회부(saisine)와 재정사항 한정·조직법률 위임이어서 '심의결정'이라는 효과와 구체적으로 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_020",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "공화국평의회의 의견 진술 기간과 제2독회 절차를 규율하는 조항으로, 예산법률이 언급될 뿐 국회의 예산안 심의결정 권한과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_015",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국민의회의 위원회 심의 방식과 위원회 구성 권한에 관한 조항으로 예산에 관한 규율이 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'심의결정'이라는 단일 동사구로 심의와 의결을 합쳐 표현한 문언 형식",
+    "예산안 제출 주체·기한, 수정·증액 제한 등 절차적 요소가 전혀 없는 간결한 단독 조문 구조"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토한 것이며, 실제 기초 과정에서의 참조 여부는 제공 본문만으로 확정할 수 없다.",
+    "프랑스 후보는 원문(프랑스어)과 제공 번역을 함께 읽어 판단했으므로 번역 의존 가능성이 있다."
+  ],
+  "short_answer": "일본국헌법 제86조와 중화민국헌법 제63조가 후속 비교에 유용한 후보다. 제86조는 예산이 국회의 '심의'와 '의결'을 거쳐야 한다는 점에서, 제63조는 입법기관이 '預算案'을 의결할 권한을 가진다는 점에서 대상 조문의 주체·객체·효과와 대응한다. 다만 제86조는 내각의 작성·제출의무를 주된 규율로 삼고, 제63조는 법률안·계엄안 등과 함께 열거하는 권한 목록이라는 점에서 대상 조문의 단일·간결한 권한 선언과 다르다. 중화민국헌법 제59조와 프랑스 제16조는 예산안을 다루지만 제출 기한이나 회부 절차를 규율하여 대응이 약하고, 일본국헌법 제60조·프랑스 제20조·제15조는 양원 조정이나 위원회 절차로 초점이 다르다. 문언 대응을 확인한 것일 뿐 역사적 영향은 확정하지 않는다."
+}

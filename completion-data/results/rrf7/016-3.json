@@ -1,0 +1,134 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_016",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_144",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2항의 '모든 교육기관은 국가의 감독을 받으며'와 '모든 학교제도는 국가의 감독 아래 있다'는 규율이 주체(국가)·대상(전체 학교/교육기관)·효과(감독)에서 구체적으로 대응한다. 다만 감독의 주체 구성(지방참여·전문공무원)이나 교육제도 법정주의는 대응하지 않는다.",
+      "evidence": [
+        {
+          "element": "교육기관에 대한 국가의 감독",
+          "target_field": "original_text",
+          "target_quote": "모든 敎育機關은 國家의 監督을 받으며",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das gesamte Schulwesen steht unter der Aufsicht des Staates",
+          "commonality": "전체 학교(교육)제도가 예외 없이 국가의 감독을 받는다는 포괄적 감독 규정",
+          "difference": "후보는 '학교제도(Schulwesen)'를 대상으로 하고 지방단체의 감독 참여 및 전임·전문 공무원에 의한 감독 집행을 추가로 규정하는 반면, 대상 조문은 '교육기관'을 대상으로 하고 감독 집행 방식은 정하지 않으며 교육제도의 법률주의를 덧붙인다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_021",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "교육을 받을 권리와 의무를 함께 규정한다는 점에서 주제가 겹치지만, 대상 조문의 '균등', '초등교육', '무상', '교육기관 감독', '법률주의' 같은 구체적 규율 요소가 없어 문형 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_133",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'교육기관'이 '일률로 국가의 감독을 받는다'는 문형이 제2항 전단과 어휘·구조 수준에서 밀접히 대응한다. 다만 국가 교육정책 추진의무 부과는 대상 조문에 없다.",
+      "evidence": [
+        {
+          "element": "교육기관의 국가 감독",
+          "target_field": "original_text",
+          "target_quote": "모든 敎育機關은 國家의 監督을 받으며",
+          "candidate_field": "original_text",
+          "candidate_quote": "全國公私立之教育機關一律受國家之監督",
+          "commonality": "공·사립을 구별하지 않고 모든 교육기관을 국가 감독 아래 둔다는 동일한 규율 구조와 '敎育機關受國家之監督'이라는 표현",
+          "difference": "후보는 감독에 더해 국가가 정한 교육정책 추진의무를 교육기관에 부과하지만, 대상 조문은 의무 부과 대신 교육제도를 법률로 정한다는 법률주의를 결합한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_160",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "기초단계 교육을 일률적으로 받게 하고 학비를 면제한다는 점에서 '초등교육은 의무적이며 무상으로 한다'와 부분적으로 대응한다. 대응 범위는 초등(기본)교육의 강제성·무상성에 한정된다.",
+      "evidence": [
+        {
+          "element": "초등교육의 의무성과 무상성",
+          "target_field": "original_text",
+          "target_quote": "적어도 初等敎育은 義務的이며 無償으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "一律受基本教育，免納學費",
+          "commonality": "기초 단계 교육을 예외 없이 받도록 하고 그 비용 부담을 면제한다는 규율",
+          "difference": "후보는 대상을 6~12세 학령아동으로 특정하고 효과를 '학비 면제'와 빈곤자 교재 지급, 학령초과자 보습교육으로 세분하는 반면, 대상 조문은 연령·급부를 특정하지 않고 '적어도 초등교육'의 의무·무상만을 최소기준으로 선언한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_159",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "교육에서의 균등을 국민 일반에 대해 선언한 점이 제1항 전단과 대응한다. 다만 보장 대상이 '기회의 평등'인지 '권리'인지에서 규율 형식이 다르다.",
+      "evidence": [
+        {
+          "element": "교육의 균등 보장",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 均等하게 敎育을 받을 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國民受教育之機會一律平等",
+          "commonality": "국민 전체에 대해 교육에 관한 균등(一律平等)을 명시하는 짧은 선언적 규정",
+          "difference": "후보는 '교육을 받을 기회의 평등'을 규정하고 권리라는 표현을 쓰지 않으며 의무·무상 규정을 포함하지 않는 반면, 대상 조문은 '균등하게 교육을 받을 권리'로 주관적 권리 형식을 취한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_018",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'교육을 받을 권리'와 '초등교육의 의무제'를 같은 조문에서 연이어 규정하는 구성이 제1항과 대응한다. 무상의 범위와 그 밖의 항목에서는 차이가 크다.",
+      "evidence": [
+        {
+          "element": "교육을 받을 권리와 초등교육 의무",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 均等하게 敎育을 받을 權利가 있다. 적어도 初等敎育은 義務的이며 無償으로 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "公民은 敎育을 받을 權利를 가진다.\n初等敎育은 全般的으로 義務制다.",
+          "commonality": "교육을 받을 권리 선언 뒤에 초등교육의 의무성을 곧바로 규정하는 동일한 배열과 '초등교육'·'의무' 어휘",
+          "difference": "주체가 '공민'이고 '균등'이라는 수식이 없으며, 무상은 초등교육 일반이 아니라 '빈한한 공민의 자녀'에 대한 국가 보장 및 전문학교·대학 국비제로 한정되고, 교육용어 규정이 추가된다. 교육기관 감독·법률주의 규정은 없다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_026",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'모든 국민이 균등하게(ひとしく) 교육을 받을 권리'와 '의무교육의 무상'이 제1항의 두 요소와 각각 구체적으로 대응한다. 다만 의무의 귀속 주체(보호자)와 능력에 따른 제한에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "균등하게 교육을 받을 권리",
+          "target_field": "original_text",
+          "target_quote": "모든 國民은 均等하게 敎育을 받을 權利가 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する",
+          "commonality": "'모든 국민'을 주체로 '균등하게(ひとしく) 교육을 받을 권리'를 규정하는 동일한 문형",
+          "difference": "후보는 '법률이 정하는 바에 따라', '그 능력에 응하여'라는 두 조건을 권리 자체에 붙이는데, 대상 조문은 권리에 조건을 붙이지 않고 법률주의를 제2항의 교육제도에 관한 규정으로 분리한다"
+        },
+        {
+          "element": "의무교육의 무상",
+          "target_field": "original_text",
+          "target_quote": "적어도 初等敎育은 義務的이며 無償으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする",
+          "commonality": "의무적 교육 단계를 설정하고 그것을 무상으로 한다는 결합 규율",
+          "difference": "후보는 의무의 주체를 보호자로 하여 '보통교육을 받게 할 의무'로 구성하고 무상의 대상을 '의무교육'으로 지칭하나, 대상 조문은 의무자를 명시하지 않고 '적어도 초등교육'이라는 최소 단계를 직접 특정한다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'교육제도는 법률로써 정한다'는 교육제도 법률주의(일본국헌법 제26조의 법률유보는 권리 행사의 조건으로 규정되어 위치와 기능이 다름)",
+    "'적어도'라는 최소기준 형식의 표현"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토한 것이며 실제 참조·기초 과정의 영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "바이마르헌법·일본국헌법·중화민국 조문은 원문 언어가 달라 어휘 대응 판단에 번역 매개가 개입할 수 있다.",
+    "각 문서의 다른 조문(예: 교육 관련 인접 조항)이 제시되지 않아 대상 조문 전체 구성과의 대응 범위는 제한적으로만 판단했다."
+  ],
+  "short_answer": "제2항의 '모든 교육기관은 국가의 감독을 받으며'에 대해서는 바이마르헌법 제144조('Das gesamte Schulwesen steht unter der Aufsicht des Staates')와 五五憲草 제133조('全國公私立之教育機關一律受國家之監督')가 구체적으로 대응한다. 제1항 전단의 '균등하게 교육을 받을 권리'는 중화민국헌법 제159조(기회의 일률 평등)와 일본국헌법 제26조 제1항('ひとしく教育を受ける権利')에, 후단의 '초등교육 의무·무상'은 일본국헌법 제26조 제2항, 북조선 헌법안 제18조(초등교육 전반적 의무제), 중화민국헌법 제160조(기본교육 일률 이수·학비 면제)에 각각 부분 대응한다. 다만 권리에 붙는 조건(법률·능력), 의무의 귀속 주체(보호자), 무상의 범위(학비 면제·빈곤자 한정) 등에서 차이가 있어 대응 범위는 요소별로 한정된다. '교육제도는 법률로써 정한다'는 법률주의는 제시된 후보에서 같은 기능의 규정을 확인하기 어렵다. 이상은 문언 대응에 관한 판단이며 역사적 참조 관계의 확정은 아니다."
+}

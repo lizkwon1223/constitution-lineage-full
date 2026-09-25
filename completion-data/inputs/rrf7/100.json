@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_100",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "100",
+    "original_text": "現行法令은 이 憲法에 抵觸되지 아니하는 限 效力을 가진다.",
+    "workbook_text_ko": "현행법령은 이 헌법에 저촉되지 아니하는 한 효력을 가진다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1889_ORIGINAL_ART_076",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "76",
+      "original_text": "法律規則命令又ハ何等ノ名称ヲ用ヰタルニ拘ラス此ノ憲法ニ矛盾セサル現行ノ法令ハ総テ遵由ノ効力ヲ有ス\n２　歳出上政府ノ義務ニ係ル現在ノ契約又ハ命令ハ総テ第六十七条ノ例ニ依ル",
+      "workbook_text_ko": "법률·규칙·명령 또는 어떠한 명칭을 사용하였든, 이 헌법에 모순되지 않는 현행 법령은 모두 계속 효력을 가진다.\n② 세출상 정부의 의무에 관계되는 현재의 계약이나 명령은 모두 제67조의 예에 따른다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_141",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "141",
+      "original_text": "命令與憲法或法律牴觸者無效。",
+      "workbook_text_ko": "명령이 헌법이나 법률에 저촉되는 때에는 무효이다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_081",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "81",
+      "original_text": "(1) Die Verfassung vom 31. Januar 1850 und das Gesetz zur vorläufigen Ordnung der Staatsgewalt in Preußen vom 20. März 1919 sind aufgehoben.\n(2) Im übrigen bleiben die bestehenden Gesetze und Verordnungen in Kraft, soweit ihnen diese Verfassung nicht entgegensteht.",
+      "workbook_text_ko": "(1) 1850년 1월 31일 헌법과 1919년 3월 20일 프로이센 국가권력의 임시질서에 관한 법률은 폐지한다.\n(2) 그 밖의 현행 법률과 명령은 이 헌법에 위배되지 않는 한 계속 효력을 가진다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_022",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "22",
+      "original_text": "凡人民之其他自由及權利，不妨害社會秩序公共利益者，均受憲法之保障。",
+      "workbook_text_ko": "其他의 모든 人民의 自由와 權利는 社會秩序와 公共利益을 害하지 아니하는限 다같이 憲法의 保障을 받는다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_109",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "109",
+      "original_text": "Die bestehenden Steuern und Abgaben werden forterhoben, und alle Bestimmungen der bestehenden Gesetzbücher, einzelnen Gesetze und Verordnungen, welche der gegenwärtigen Verfassung nicht zuwiderlaufen, bleiben in Kraft, bis sie durch ein Gesetz abgeändert werden.",
+      "workbook_text_ko": "현행의 조세와 공과금은\n계속하여 징수되고, 현행의 법전, 개별\n법률, 명령의 모든 규정들은 이 헌법에\n반하지 않는 한 새로운 법률에 의해\n개정될 때까지 계속 효력을 지닌다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_178",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "178",
+      "original_text": "Die Verfassung des Deutschen Reichs vom 16. April 1871 und das Gesetz über die vorläufige Reichsgewalt vom 10. Februar 1919 sind aufgehoben.\nDie übrigen Gesetze und Verordnungen des Reichs bleiben in Kraft, soweit ihnen diese Verfassung nicht entgegensteht. Die Bestimmungen des am 28. Juni 1919 in Versailles unterzeichneten Friedensvertrags werden durch die Verfassung nicht berührt.\nAnordnungen der Behörden, die auf Grund bisheriger Gesetze in rechtsgültiger Weise getroffen waren, behalten ihre Gültigkeit bis zur Aufhebung im Wege anderweiter Anordnung oder Gesetzgebung.",
+      "workbook_text_ko": "1871년 4월 16일의 독일제국헌법과 1919년 2월 10일의 임시 제국권력에 관한 법률은 폐지된다.\n그 밖의 제국 법률과 명령은 이 헌법에 위배되지 않는 한 계속 효력을 가진다. 1919년 6월 28일 베르사유에서 서명된 평화조약의 규정은 이 헌법에 의하여 영향을 받지 않는다.\n종전 법률에 근거하여 적법하게 내려진 관청의 명령은 다른 명령이나 입법에 의하여 폐지될 때까지 그 효력을 유지한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_057",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "57",
+      "original_text": "現行法令은 本法의 規定에 依한 法令이 制定 實施될 때까지 本法에 抵觸되지 않는 限 그 效力을 存續함",
+      "workbook_text_ko": "현행법령은 본법의 규정에 의한 법령이 제정·실시될 때까지 본법에 저촉되지 않는 한 그 효력을 존속함."
+    }
+  ]
+}

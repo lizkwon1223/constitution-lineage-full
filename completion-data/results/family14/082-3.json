@@ -1,0 +1,170 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_082",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_064",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "규칙 제정·공포라는 용어만 겹칠 뿐 주체가 사법기관이 아니라 행정 각부의 상이고, 대상 사항도 법원 내부규율·사무처리가 아니라 소관 권한 내 성령·규칙이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "사법기관에 관한 규범 정립을 다루지만, 법원 조직을 법률로 정한다는 법률유보 규정이어서 대법원 스스로 규칙을 제정한다는 대상 조문의 권한 부여와 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_022",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "의회 의결정족수와 의사규칙에 관한 규정으로, 대법원의 법원 내부규율·사무처리 규칙제정권과 주체·대상이 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VIII",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제13절이 대법원에 규칙제정 권한을 직접 부여하는 형식을 취해, 주체(대법원)와 권한(규칙 제정)의 대응이 구체적이다. 다만 규율 대상이 소송서면·실무·절차 및 변호사 자격으로 대상 조문의 내부규율·사무처리와 범위가 다르고, 국민의회의 폐지·변경권 등 부가 요소가 있어 대응은 권한 부여 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "규칙제정 권한의 주체",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법원은 법원의 내부규율과 사무처리에 관한 규칙을 제정할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The Supreme Court shall have the power to promulgate rules concerning pleading, practice, and procedure in all courts",
+          "commonality": "최고법원인 대법원에 규칙 제정 권한을 헌법이 직접 부여하는 구조가 같다.",
+          "difference": "후보는 소송서면·실무·절차 및 변호사 자격 인정을 대상으로 하나, 대상 조문은 법원 내부규율과 사무처리로 한정된다."
+        },
+        {
+          "element": "권한의 한계·통제 장치",
+          "target_field": "original_text",
+          "target_quote": "大法院은 法院의 內部規律과 事務處理에 關한 規則을 制定할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "The National Assembly shall have the power to repeal, alter, or supplement the rules concerning pleading, practice, and procedure",
+          "commonality": "모두 법원규칙의 소재와 그 범위를 헌법 차원에서 정한다.",
+          "difference": "후보는 입법부의 폐지·변경권과 실체적 권리 불변경이라는 명시적 한계를 두지만, 대상 조문에는 그러한 통제·한계 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_089",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원 조직의 법률유보만 정할 뿐 대법원의 규칙제정권이라는 대상 조문의 핵심 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_077",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "제국정부의 행정규칙 제정권과 상원 동의 절차에 관한 규정으로, 사법부의 내부규율 규칙제정권과 주체·대상·절차가 모두 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'내부' 사항에 관하여 규칙을 정할 수 있다는 문형이 유사하나, 주체가 양원(입법기관)이고 대상이 의사 내부 정리여서 사법기관의 내부규율·사무처리 규칙권과는 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_I",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "종교·표현·집회·청원의 자유에 관한 규정으로 대상 조문과 접점이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_083",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "법원의 조직·관할을 연방법률로 정한다는 법률유보 규정으로, 대법원 규칙제정권을 규정한 대상 조문과 규율 방식이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_009",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "상원의 탄핵재판소 구성에 관한 규정으로 규칙제정권과 무관하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_077",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'재판소의 내부규율 및 사법사무처리에 관한 규칙을 정할 권한'이라는 규율 대상과 주체가 대상 조문과 거의 그대로 대응한다. 다만 후보는 소송절차·변호사 사항, 검찰관의 복종의무, 하급심 위임 등을 추가로 규정한다.",
+      "evidence": [
+        {
+          "element": "규칙 대상 사항(내부규율·사무처리)",
+          "target_field": "original_text",
+          "target_quote": "法院의 內部規律과 事務處理에 關한 規則",
+          "candidate_field": "original_text",
+          "candidate_quote": "裁判所の内部規律及び司法事務処理に関する事項について、規則を定める",
+          "commonality": "'내부규율'과 '(사법)사무처리'를 규칙 대상으로 병렬 열거하는 표현이 일치한다.",
+          "difference": "후보는 '소송에 관한 절차, 변호사'까지 규칙 대상에 포함하나 대상 조문은 두 항목만 둔다."
+        },
+        {
+          "element": "권한 주체와 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법원은 법원의 내부규율과 사무처리에 관한 규칙을 제정할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高裁判所は、訴訟に関する手続、弁護士、裁判所の内部規律及び司法事務処理に関する事項について、規則を定める権限を有する。",
+          "commonality": "최고법원을 주체로 하여 규칙제정 권한을 부여하는 한 문장 구조가 같다.",
+          "difference": "후보는 '권한을 가진다'로 권한 귀속을 명시하고 하급재판소에의 위임(제3항)과 검찰관의 복종의무(제2항)를 덧붙이나, 대상 조문은 '제정할 수 있다'로만 규정하고 부속 항이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_059",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "사법고등법원의 조직과 절차를 특별법으로 정한다는 규정으로, 대법원 규칙제정권과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_048",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "최고법원이 '법원 내부규율 및 사법 사무처리에 관한 사항'에 대하여 규칙을 정한다는 문언이 대상 조문과 어휘 단위까지 대응한다. 다만 검찰관 복종의무 조항이 대상 조문에는 없고, 최고법원/대법원이라는 기관 명칭이 다르다.",
+      "evidence": [
+        {
+          "element": "규칙 대상 사항과 주체",
+          "target_field": "original_text",
+          "target_quote": "法院의 內部規律과 事務處理에 關한 規則을 制定할 수 있다",
+          "candidate_field": "original_text",
+          "candidate_quote": "最高法院은 法院 內部規律 及 司法 事務處理에 關한 事項에 依하여 規則을 定함",
+          "commonality": "최고법원을 주체로 '법원 내부규율'과 '사무처리'를 규칙 대상으로 삼는 한자어 표현이 거의 동일하다.",
+          "difference": "기관 명칭이 최고법원/대법원으로 다르고, 후보는 '사법 사무처리'로 한정하며 '사항에 의하여 규칙을 정함'이라는 서술형인 반면 대상 조문은 '제정할 수 있다'는 가능 규정이다."
+        },
+        {
+          "element": "부속 규정(검찰관 복종)",
+          "target_field": "workbook_text_ko",
+          "target_quote": "대법원은 법원의 내부규율과 사무처리에 관한 규칙을 제정할 수 있다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "檢察官은 最高法院이 定한 規則에 服從하여야 함",
+          "commonality": "법원규칙의 효력 범위를 헌법 차원에서 다루는 점에서 같은 제도군에 속한다.",
+          "difference": "후보는 검찰관의 규칙 복종의무를 명시하나 대상 조문에는 그러한 효과 규정이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_079",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "사법원 원장·대법관의 임명 절차 규정으로, 규칙제정권과 규율 요소가 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'제정할 수 있다'는 재량적 가능 형식(후보들은 권한 보유 또는 서술형으로 표현)",
+    "규칙 대상에서 '사법' 한정어를 뺀 '사무처리'라는 넓은 표현"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토한 것이며, 어느 후보가 실제 기초 과정에서 참조되었는지는 제공 자료만으로 확정할 수 없다.",
+    "PH1935은 조문 전체가 제시되어 있어 대응은 제13절에 한정된다."
+  ],
+  "short_answer": "KR1947_YAKHEON 제48조와 JP1946 제77조가 '법원 내부규율 및 (사법)사무처리에 관한 규칙'이라는 대상 사항과 최고법원을 주체로 한 규칙제정권 문형에서 대상 조문과 구체적으로 대응한다. PH1935 제8조 제13절도 대법원에 헌법이 직접 규칙제정 권한을 부여하는 구조에서 대응하나, 규율 대상이 소송서면·실무·절차 및 변호사 자격이고 입법부의 폐지·변경권이라는 통제 장치가 있어 대응 범위가 제한된다. JP1889 제51조는 '내부' 사항 규칙제정이라는 문형이 유사하지만 주체가 양원이어서 선택하지 않았고, ROC1936·PR1850·AT1920은 법원 조직의 법률유보로 규율 방식이 다르다. 대상 조문에는 검찰관 복종의무나 하급심 위임 같은 부속 규정이 없다는 점이 후보들과의 주요 차이다. 이상은 문언 대응에 대한 판단이며 역사적 참조 여부를 확정하는 것은 아니다."
+}

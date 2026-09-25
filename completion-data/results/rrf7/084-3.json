@@ -1,0 +1,120 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_084",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_010",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "국가의 유일 인민경제계획과 국가·협동단체 소유를 근간으로 하는 계획경제 구조를 규정할 뿐, 대상 조문의 '사회정의 실현'과 '각인의 경제상 자유 보장'이라는 원칙-한계 구조가 없다. 경제질서를 다룬다는 주제적 공통점에 그치고 규율 방향은 대조적이다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_116",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가명 + 경제제도(질서)는 ○○을 기초/기본으로 삼아 국민 생계의 균등한 충족을 도모한다'는 첫 문장의 문형과 규율 요소(경제질서의 기본원리 선언, 국민 전체의 생활충족·균등)가 구체적으로 대응한다. 다만 기초가 되는 원리(민생주의 대 사회정의)와 개인 경제자유 한계 규정 유무는 다르다.",
+      "evidence": [
+        {
+          "element": "경제질서의 기본원리 선언 문형",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 經濟秩序는",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之經濟制度，應以民生主義爲基礎",
+          "commonality": "국호를 주어로 삼아 국가 경제제도/질서 전체의 기초 원리를 선언하는 총칙적 문형",
+          "difference": "대상은 기초를 '사회정의의 실현과 균형있는 국민경제의 발전'으로 삼는 반면 후보는 '민생주의'라는 특정 정치이념을 기초로 명시"
+        },
+        {
+          "element": "국민 생활수요 충족·균형 목표",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민에게 생활의 기본적 수요를 충족할 수 있게 하는",
+          "candidate_field": "original_text",
+          "candidate_quote": "以謀國民生計之均足",
+          "commonality": "국민 전체의 생계·생활수요가 고르게 충족되도록 하는 것을 경제제도의 목표로 삼음",
+          "difference": "후보는 '국민 생계의 균족'만 말하고, 대상은 이에 더해 '균형있는 국민경제의 발전'이라는 거시적 발전 목표를 병기"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "생활균등권 보장을 위한 계획경제·분배정책을 열거하는 정책목록형 조문으로, 대상 조문의 경제질서 기본원리 선언과 개인 경제자유의 한계 설정이라는 문형·규율구조와는 대응하지 않는다. '국민의 기본생활 확보'라는 목표 차원의 유사성에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_151",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "경제생활 질서가 모든 사람의 생활 보장을 목적으로 하는 정의의 원칙에 부합해야 한다는 제1문과 '이 한계 내에서 개인의 경제적 자유가 보장된다'는 제2문이, 대상 조문의 두 문장과 문형·규율요소 모두에서 밀접히 대응한다.",
+      "evidence": [
+        {
+          "element": "경제질서와 정의 원칙",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민에게 생활의 기본적 수요를 충족할 수 있게 하는 사회정의의 실현",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Ordnung des Wirtschaftslebens muß den Grundsätzen der Gerechtigkeit mit dem Ziele der Gewährleistung eines menschenwürdigen Daseins für alle entsprechen.",
+          "commonality": "경제생활의 질서가 '모두'의 생활 보장을 목표로 하는 정의(사회정의) 원칙에 따라야 한다는 규율",
+          "difference": "후보는 '인간의 존엄에 맞는 생존(menschenwürdiges Dasein)'을 기준으로 삼고 수범 범위가 '모든 사람'인 반면, 대상은 '모든 국민'의 '생활의 기본적 수요 충족'으로 표현하고 별도로 국민경제 발전 목표를 추가"
+        },
+        {
+          "element": "개인 경제자유의 한계",
+          "target_field": "original_text",
+          "target_quote": "各人의 經濟上 自由는 이 限界內에서 保障된다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "In diesen Grenzen ist die wirtschaftliche Freiheit des Einzelnen zu sichern.",
+          "commonality": "앞 문장의 원칙이 설정한 '이 한계 내에서' 개인의 경제적 자유가 보장된다는 동일한 구문·효과",
+          "difference": "후보는 이어서 법률상 강제의 허용사유(위협받는 권리의 실현, 공공복리의 중대한 요구)와 상업·영업 자유의 법률유보를 추가 규정하나 대상 조문에는 그 부분이 없음"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_142",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "국민경제의 기본원칙을 선언하고 국가경제와 국민생계의 균등한 충족을 목표로 삼는 문형이 대상 조문 제1문과 대응한다. 다만 평균지권·자본절제라는 구체적 정책수단을 명시한 점과 개인 경제자유의 한계 규정이 없는 점은 다르다.",
+      "evidence": [
+        {
+          "element": "국민경제의 기본원칙과 균등 충족 목표",
+          "target_field": "original_text",
+          "target_quote": "均衡있는 國民經濟의 發展을 期함을 基本으로 삼는다",
+          "candidate_field": "original_text",
+          "candidate_quote": "國民經濟應以民生主義為基本原則",
+          "commonality": "'국민경제'를 대상으로 기본원칙을 선언하고 균등한 충족(균형)을 지향한다는 총칙적 규율",
+          "difference": "후보의 기본원칙은 민생주의이며 평균지권·절제자본이라는 수단이 조문에 포함되나, 대상은 사회정의 실현과 균형있는 발전이라는 목표만 제시"
+        },
+        {
+          "element": "충족의 대상 범위",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 국민에게 생활의 기본적 수요를 충족할 수 있게 하는",
+          "candidate_field": "original_text",
+          "candidate_quote": "以謀國計民生之均足",
+          "commonality": "국가경제와 개인 생계의 충족을 함께 겨냥한다는 목표 구성",
+          "difference": "후보는 '국계'와 '민생'의 균등 충족을 병렬하고, 대상은 개인의 기본적 수요 충족(사회정의)과 국민경제의 균형 발전을 병렬하여 후단에 개인 경제자유 보장을 덧붙임"
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_025",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국민의 최저생활 보장이라는 목표 차원에서는 유사하나, 개인의 권리와 국가의 노력의무 형식이며 경제질서 전체의 기본원리나 경제상 자유의 한계라는 대상 조문의 규율요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_159",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "노동·경제조건 유지를 위한 단결의 자유를 다루는 조문으로, 경제질서의 기본원리와 개인 경제자유의 한계를 규정한 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'균형있는 국민경제의 發展'이라는 거시적 발전 목표 자체(ROC 조문의 '均足'은 생계의 균등 충족에 가까워 완전한 대응으로 단정하기 어려움)"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 확인한 것이며 실제 참조·기초 과정의 영향 여부는 제공 본문만으로 확정할 수 없다.",
+    "바이마르헌법·중화민국헌법 후보의 의미 파악에는 제공된 한국어 번역문이 일부 보조적으로 작용했으며, 인용은 원문에서 하였다."
+  ],
+  "short_answer": "대상 조문은 바이마르헌법 제151조 제1항·제2문과 문형·규율요소가 가장 밀접하게 대응한다. 즉 '경제질서는 모두의 생활 보장을 목표로 하는 정의 원칙에 따른다'는 제1문과 '이 한계 내에서 개인의 경제적 자유가 보장된다'는 제2문의 이중 구조가 그대로 나타난다. 중화민국 五五憲草 제116조와 1947년 헌법 제142조는 '국호/국민경제 + 기본원칙 선언 + 국민생계의 균등 충족'이라는 첫 문장 문형에서 대응하나, 기초 원리가 민생주의이고 평균지권·절제자본 같은 수단이 명시되며 개인 경제자유의 한계 규정이 없다는 점이 다르다. 북한 초안 제10조는 유일 인민경제계획과 국가·협동단체 소유 중심으로 대조적이고, 조선임시약헌 제4조와 일본국헌법 제25조는 생활보장 목표 차원의 일반적 유사성에 그친다. 이상은 문언 대응의 확인이며 역사적 영향의 확정은 아니다."
+}

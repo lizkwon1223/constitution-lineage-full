@@ -1,0 +1,143 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_002",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "\"...geht vom Volk aus\"라는 '국민으로부터 나온다'는 문형이 대상 조문 후단과 구체적으로 대응한다. 다만 나오는 대상이 '법(Recht)'이고, 주권 귀속을 명시한 전단에 대응하는 문구는 없어 후단 문형 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "권력의 연원 문형(…으로부터 나온다)",
+          "target_field": "original_text",
+          "target_quote": "모든 權力은 國民으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ihr Recht geht vom Volk aus.",
+          "commonality": "국민을 연원으로 삼는 '국민으로부터 나온다'는 동일한 문형을 사용한다",
+          "difference": "대상은 '모든 권력(權力)'이 나온다고 하고, 후보는 '그 법(Recht)'이 나온다고 하여 나오는 객체가 다르다"
+        },
+        {
+          "element": "주권 귀속의 명시",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Österreich ist eine demokratische Republik.",
+          "commonality": "국가의 민주적·국민적 기초를 제1조급 조항에서 선언한다",
+          "difference": "후보는 국가형태(민주공화국) 선언이고 주권의 귀속 주체를 명시하지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_082",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'geht vom Bund aus'라는 유사 문형을 쓰지만 연원이 국민이 아니라 연방이고 대상도 재판권에 한정되어, 대상 조문의 주권·권력 연원 규율과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가권력은 국민으로부터 나온다'는 규율 내용과 문형이 대상 조문 후단과 거의 그대로 대응한다. 전단의 주권 귀속 선언에 대응하는 문구는 없어 후단 범위로 한정한다.",
+      "evidence": [
+        {
+          "element": "권력의 연원 규정",
+          "target_field": "original_text",
+          "target_quote": "모든 權力은 國民으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Staatsgewalt geht vom Volke aus.",
+          "commonality": "권력(국가권력)이 국민으로부터 나온다는 동일한 규율 내용과 술어 구조",
+          "difference": "후보는 '국가권력(Staatsgewalt)'을 지칭하고, 대상은 '모든 권력'이라 총괄 수식어를 붙였다"
+        },
+        {
+          "element": "조문 구성(국가형태/주권 선언과의 결합)",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Das Deutsche Reich ist eine Republik.",
+          "commonality": "모두 국가에 관한 기본 선언과 권력 연원 문장을 한 조문에 병치한다",
+          "difference": "후보 전단은 공화국 형태 선언이고, 대상 전단은 주권의 귀속 주체를 국민으로 명시한다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "동일 조문번호에서 '주권은 국민(전체)에 속함'이라는 전단 규율이 대상 전단과 직접 대응한다. 다만 권력의 연원에 관한 후단은 후보에 없어 전단으로 범위를 한정한다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮의 主權은 國民 全體에 屬함",
+          "commonality": "국호+'의 주권'을 주어로 하여 주권 보유자를 국민으로 명시한다",
+          "difference": "후보는 '국민 전체에 속함'이라는 귀속 표현이고, 대상은 '국민에게 있고'로 서술하며 후단에 권력의 연원 규정을 덧붙인다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "동일 조문번호에서 '주권은 국민 전체에 속한다'는 전단 규율이 대상 전단과 대응한다. 권력 연원(후단)에 대응하는 문구가 없어 전단에 한정된 대응이다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之主權屬於國民全體。",
+          "commonality": "국호의 주권이 국민에게 귀속함을 제2조에서 선언하는 동일 구조",
+          "difference": "후보는 '國民全體에 屬한다'는 귀속형이고 주권 귀속만 규정하며, 대상은 '모든 권력은 국민으로부터 나온다'는 별도 후단을 둔다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "제2조에서 주권의 국민 전체 귀속을 규정하여 대상 전단과 문형·내용이 대응한다. 후단의 권력 연원 규정은 대응이 없어 범위를 전단으로 한정한다.",
+      "evidence": [
+        {
+          "element": "주권의 귀속 주체",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之主權，屬於國民全體。",
+          "commonality": "제2조에서 국가의 주권이 국민 전체에 속함을 선언하는 문형",
+          "difference": "후보는 귀속 주체를 '國民全體'로 한정 표현하고 권력의 연원 문장을 두지 않는다"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_1929RECAST1930_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "1920년 원안과 동일 문언으로 '…geht vom Volk aus' 문형이 대상 후단과 대응한다. 다만 연원의 객체가 '법'이라는 점에서 대응 범위는 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "권력의 연원 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 권력은 국민으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ihr Recht geht vom Volk aus.",
+          "commonality": "국민을 최종 연원으로 삼는 '국민으로부터 나온다'는 동일 술어 구조",
+          "difference": "후보는 '법(Recht)'의 연원을 말하고 주권 귀속 주체를 명시하지 않는다"
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'모든 權力'이라는 총괄적 수식(권력 전체의 포괄) 표현",
+    "주권 귀속(전단)과 권력 연원(후단)을 한 문장에 접속하여 결합한 구성 자체"
+  ],
+  "limitations": [
+    "문언상 대응 관계만 검토했으며 실제 참조·계수 여부는 제공 본문만으로 확정할 수 없다",
+    "오스트리아 1920년판과 1929년 개정판은 제시된 문언이 동일하여 양자 간 우선관계를 판별할 수 없다",
+    "중화민국 두 후보(1936 초안, 1947 공포)도 문언이 거의 동일하여 구별이 불가능하다"
+  ],
+  "short_answer": "대상 제2조는 전단(주권의 국민 귀속)과 후단(모든 권력의 국민 유래)으로 나뉘며, 후보들은 각각 한쪽에만 대응한다. 전단은 조선임시약헌 제2조 및 중화민국 헌법·五五憲草 제2조의 '主權屬於國民全體' 문형과 직접 대응하나, 이들은 '국민 전체'라는 표현을 쓰고 권력의 연원 규정을 두지 않는다. 후단은 바이마르 제1조 'Die Staatsgewalt geht vom Volke aus'와 규율 내용·문형이 가장 밀접하게 대응하고, 오스트리아 제1조는 같은 문형이지만 연원의 객체가 '법(Recht)'이어서 대응이 문형에 한정된다. 오스트리아 제82조는 '연방으로부터 나온다'로 연원 주체와 대상(재판권)이 달라 대응으로 보기 어렵다. 이상은 문언상 대응 검토이며 역사적 참조 관계의 확정은 아니다."
+}

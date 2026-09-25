@@ -1,0 +1,143 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_102",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_051",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "양원의 내부 규칙 제정권에 관한 규정으로, 제헌국회의 권한 승계나 의원 임기 기산과 대응하는 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_XV",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "경과규정 장으로서 기존 법률·법원·공무원의 존속을 정한다는 점에서 '경과·부칙'이라는 일반적 성격만 공유한다. 헌법을 제정한 의회가 신헌법상의 의회로서 권한을 행사한다거나 그 의원 임기를 단축 설정하는 구체적 규율은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주의회의 입법·예산·조약승인 권한과 의사규칙에 관한 본칙 규정으로, 제헌의회의 지위 승계나 임기 기산과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US_AM_I_XXI_PRE1948_AM_XX",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "임기의 종료·개시 시점과 경과규정(제5·6항)을 다루어 '임기 시기(始期)'라는 주제만 겹친다. 대상처럼 제헌의회가 신헌법상 의회 권한을 행사한다는 승계 규율이나 개회일 기산 임기 설정은 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_027",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "임기(입법기)를 '최초 집회일부터 기산'한다는 기산점 설정 문형이 대상의 '國會開會日로부터 2年'과 구체적으로 대응한다. 다만 대응 범위는 기산점과 연수 설정 방식에 한정된다.",
+      "evidence": [
+        {
+          "element": "임기의 기산점",
+          "target_field": "original_text",
+          "target_quote": "그 議員의 任期는 國會開會日로부터 2年으로 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Gesetzgebungsperiode des Nationalrates dauert vier Jahre, vom Tag seines ersten Zusammentrittes an gerechnet",
+          "commonality": "임기(입법기)의 기간을 정하면서 그 기산점을 의회의 집회(개회)일로 명시하는 방식이 같다.",
+          "difference": "대상은 제헌국회 의원 개인의 임기를 2년으로 하는 1회적 경과규정인 반면, 후보는 국민의회 전체의 입법기를 4년으로 정하는 본칙이며 새 의회 집회일까지 연장된다는 단서가 추가된다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_020",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'최초' 임기에 대한 특례를 둔다는 점은 유사하나, 대상은 의회 의원의 임기·의회 권한 승계인 데 비해 후보는 정부주석·부주석의 임기이며 종기도 차기 선출 시까지로 달라 구체적 규율 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_175",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'헌법을 제정한 (국민)대회'라는 주체 지칭 문형이 대상의 '이 憲法을 制定한 國會'와 직접 대응한다. 다만 그 주체에게 부여된 사항이 시행준비절차 의정인 점에서 대응 범위는 주체 지칭 문형에 한정된다.",
+      "evidence": [
+        {
+          "element": "주체 지칭(제헌의회)",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會",
+          "candidate_field": "original_text",
+          "candidate_quote": "制定憲法之國民大會",
+          "commonality": "헌법을 제정한 합의체 자체를 지칭하여 헌법 시행 후에도 일정한 역할을 부여하는 부칙 문형이 같다.",
+          "difference": "후보는 헌법 시행 준비절차의 의정 권한만 부여하는 데 그치는 반면, 대상은 제헌국회가 신헌법상의 국회 권한 전반을 행사한다고 정하고 임기까지 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_036",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "대의원 임기 연수를 정하는 본칙 규정으로 '임기' 주제만 겹치며, 제헌의회 권한 승계나 개회일 기산이라는 대상의 핵심 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_146",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "헌법을 제정한 합의체가 신헌법상 의회(국민대회)의 직권을 행사한다는 권한 승계 규율이 대상 전단과 문형·내용 모두에서 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "제헌의회의 권한 승계",
+          "target_field": "original_text",
+          "target_quote": "이 憲法을 制定한 國會는 이 憲法에 依한 國會로서의 權限을 行하며",
+          "candidate_field": "original_text",
+          "candidate_quote": "第一屆國民大會之職權，由制定憲法之國民大會行使之。",
+          "commonality": "헌법을 제정한 기관이 신헌법에 따른 의회(제1기 국민대회)의 권한을 그대로 행사한다는 경과적 권한 승계를 정한다.",
+          "difference": "후보는 '제1기 국민대회의 직권'을 행사 주체 중심으로 서술하고 임기에 관한 언급이 없는 반면, 대상은 권한 행사에 더하여 개회일부터 2년이라는 임기를 함께 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_179",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "경과규정이지만 제헌기관(국민회의)을 신헌법상 제국의회가 '대체'한다는 취지여서, 제헌국회가 그대로 신헌법상 국회 권한을 행사한다는 대상과 방향이 반대다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_102",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "보칙에서 최초 의원의 임기를 특례로 정한다는 점은 유사하나, 대상은 제헌국회 의원 전원의 임기를 개회일부터 2년으로 정하는 데 비해 후보는 제1기 참의원 의원 '절반'의 임기를 3년으로 하고 그 선정을 법률에 위임하여 대상과 분모·위임구조가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_029",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출과 임기·재선에 관한 규정으로 대상의 의회 권한 승계·의원 임기와 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출 방식과 7년 임기 규정으로, 제헌의회의 지위나 의원 임기 기산과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_067",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "의원(제1원) 입법기 연수를 정하는 점만 겹치며 기산점·제헌의회 권한 승계 등 대상의 구체적 규율 요소가 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "임기를 특히 2년으로 단축 설정한 기간의 구체적 선택",
+    "권한 승계(전단)와 임기 기산(후단)을 한 조문에 결합한 구성"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·영향 관계는 제공 본문만으로 확정할 수 없다.",
+    "중국어·독일어 후보의 의미 파악에 워크북 번역을 부분적으로 참조하였으나 인용은 원문에서 하였다."
+  ],
+  "short_answer": "대상 조문의 전단(제헌국회의 권한 승계)은 ROC1936_DRAFT_ART_146의 '第一屆國民大會之職權，由制定憲法之國民大會行使之'와 규율 내용·문형이 가장 구체적으로 대응한다. ROC1946_PROM1947_ART_175는 '制定憲法之國民大會'라는 주체 지칭 문형에서만 대응하고 부여된 권한은 시행준비절차 의정에 한정되어 대응 범위가 좁다. 후단(임기 기산)은 AT1920_ORIGINAL_ART_027의 '최초 집회일부터 기산' 방식과 대응하나 연수(4년 대 2년)와 규율 대상(입법기 대 의원 임기)이 다르다. JP1946_ART_102·NK1948_ART_036·PR1850_ART_067·KR1947_YAKHEON_ART_020은 임기 특례라는 주제만 겹치고 분모·주체가 달라 선택하지 않았으며, WEIMAR1919_ART_179는 제헌기관을 대체하는 방향이어서 대조적이다. 이상은 문언상 대응 관계일 뿐 역사적 참조의 확정은 아니다."
+}

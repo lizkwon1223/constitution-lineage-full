@@ -1,0 +1,210 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_002",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "JP1946_ORIGINAL_PREAMBLE",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "주권의 소재를 국민으로 선언하는 부분과 국정의 권위가 국민에게서 유래한다는 부분이 대상 조문의 두 절(주권 소재+권력의 유래)에 각각 대응한다. 다만 전문(前文)의 선언 형식이고, 권력은 대표자가 행사한다는 별도 규율이 붙어 있다.",
+      "evidence": [
+        {
+          "element": "주권의 소재",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "主権が国民に存することを宣言し",
+          "commonality": "주권이 국민에게 존재한다는 명제를 헌법 본문에서 확인한다.",
+          "difference": "대상은 조문 형식의 직접 규정이고, 후보는 전문에서 '선언한다'는 형식이며 국호 주어 없이 '주권'만을 주어로 삼는다."
+        },
+        {
+          "element": "권력의 유래",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 권력은 국민으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "その権威は国民に由来し、その権力は国民の代表者がこれを行使し",
+          "commonality": "국민을 궁극적 연원으로 삼는 표현('国民に由来'/'국민으로부터 나온다')이 나타난다.",
+          "difference": "후보는 국민에게서 유래하는 것을 '권위(権威)'로, '권력(権力)'은 국민의 대표자가 행사하는 것으로 나누어 규정하는 반면, 대상은 '모든 권력'의 연원만 밝히고 행사 주체를 규정하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PH1935_PRE1948_AMENDED_ART_II",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'주권은 국민에게 있다'와 '모든 (정부)권한은 국민에게서 나온다'는 두 절이 하나의 문장으로 병렬된 구조가 대상 조문과 거의 그대로 대응한다.",
+      "evidence": [
+        {
+          "element": "주권의 소재",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "Sovereignty resides in the people",
+          "commonality": "주권이 국민에게 '있다(resides in)'는 동일한 소재 규정 문형.",
+          "difference": "후보는 앞 문장에서 '공화국'임을 별도로 선언하고 국호를 주권 문장의 주어로 쓰지 않는 반면, 대상은 '大韓民國의 主權'으로 국호를 결합한다."
+        },
+        {
+          "element": "권력의 연원",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 권력은 국민으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "all government authority emanates from them",
+          "commonality": "'모든 … 국민으로부터 나온다(all … emanates from them)'는 동일한 병렬 후단 구조.",
+          "difference": "후보는 연원의 대상을 '정부권한(government authority)'으로 한정하나, 대상은 '모든 권력'으로 폭넓게 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_003",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "주권의 귀속 주체를 인민으로 정하는 점은 겹치나, 후보의 규율 중심은 주권 행사의 방법(대표자 표결·국민투표·보통선거로 선출된 국민의회 의원)과 행사 참칭 금지에 있어 대상 조문의 '권력의 연원' 규정과 구체적 대응이 약하다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국호+의 주권은 …에게 있다'라는 한국어(국한문) 문형이 대상 제1절과 직접 대응한다. 다만 후단은 권력의 연원이 아니라 주권 행사기관을 규정한다.",
+      "evidence": [
+        {
+          "element": "주권의 소재 문형",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮民主主義人民共和國의 主權은 人民에게 있다",
+          "commonality": "국호를 주어로 삼아 '…의 主權은 …에게 있다'로 주권 소재를 규정하는 동일 문형.",
+          "difference": "귀속 주체가 '國民'이 아니라 '人民'이며, 대상은 후단에서 모든 권력의 연원을 밝히는 반면 후보는 최고인민회의·인민위원회라는 행사기관을 규정한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_001",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "'…가 국민으로부터 나온다(geht vom Volk aus)'는 후단 문형이 대상 제2절과 대응하나, 국민에게서 나오는 대상이 '법(Recht)'이라는 점에서 규율 요소가 다르므로 선택 범위를 문형 대응에 한정한다.",
+      "evidence": [
+        {
+          "element": "'국민으로부터 나온다' 문형",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 권력은 국민으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Ihr Recht geht vom Volk aus",
+          "commonality": "국민을 연원으로 삼아 '…로부터 나온다'로 표현하는 동일 구문.",
+          "difference": "후보에서 국민으로부터 나오는 것은 '법(Recht)'이고 대상은 '모든 권력'이며, 후보에는 주권 소재를 밝히는 절이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_004",
+      "relation": "contrast",
+      "selected": false,
+      "reason": "통치권의 총람자를 천황으로 정하여 주권의 소재를 군주에 두는 규정으로, 국민주권을 선언한 대상 조문과 정반대 방향의 대조 사례에 그친다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_001",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가권력은 국민으로부터 나온다'는 규정이 대상 제2절의 규율 요소(권력의 연원)와 직접 대응한다. 다만 주권 소재를 명시하는 전단은 없다.",
+      "evidence": [
+        {
+          "element": "권력의 연원",
+          "target_field": "workbook_text_ko",
+          "target_quote": "모든 권력은 국민으로부터 나온다",
+          "candidate_field": "original_text",
+          "candidate_quote": "Die Staatsgewalt geht vom Volke aus.",
+          "commonality": "국가권력의 연원을 국민으로 명시하는 동일한 명제와 '…로부터 나온다' 구문.",
+          "difference": "후보는 '국가권력'으로 특정하고 '모든'이라는 한정어가 없으며, 앞 문장은 공화국 선언이어서 대상의 주권 소재 규정에 대응하는 절이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_002",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "국가권력의 귀속을 국민 전체로 정하는 점에서 주제가 겹치나, '담당자(Träger)는 국민 전체'라는 귀속 표현이어서 대상의 '주권은 국민에게 있다'/'권력은 국민으로부터 나온다'는 두 문형 어느 쪽과도 구체적 구문 대응이 뚜렷하지 않다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'…의 主權은 國民 全體에 屬함'이라는 국한문 규정이 대상 제1절의 주권 소재 규정과 대응한다. 다만 귀속 표현과 후단 유무에서 차이가 있다.",
+      "evidence": [
+        {
+          "element": "주권의 소재",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "朝鮮의 主權은 國民 全體에 屬함",
+          "commonality": "국호를 앞세워 '…의 主權은 國民…'으로 주권 귀속을 규정하는 동일 구성.",
+          "difference": "후보는 '國民 全體에 屬함'이라는 귀속 표현을 쓰고 권력의 연원에 관한 후단이 없는 반면, 대상은 '國民에게 있고'에 더해 '모든 권력은 국민으로부터 나온다'를 병렬한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_IV",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "주별 신뢰·시민 특권·범인 인도·신주 가입·공화정체 보장 등 연방-주 관계 규정으로, 주권 소재나 권력의 연원에 관한 대상 조문과 규율 요소가 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750225_ORIGINAL_ART_002",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "대통령 선출 방법·임기·재선에 관한 규정으로 대상 조문과 규율 대상이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_058",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "섭정의 권력 대행과 선서 절차에 관한 규정으로, 국민주권 선언과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국호+之主權屬於國民全體'라는 한문 문형이 대상 제1절(주권 소재)과 직접 대응한다. 후단의 권력 연원 규정은 없다.",
+      "evidence": [
+        {
+          "element": "주권의 소재",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之主權屬於國民全體。",
+          "commonality": "국호를 주어로 '…의 主權은 國民…'이라 정하는 주권 귀속 규정.",
+          "difference": "후보는 귀속 주체를 '國民全體'로 하고 '屬於(속한다)'를 쓰며, 권력이 국민으로부터 나온다는 후단이 없다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_002",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "ROC1946과 사실상 동일한 문언으로, 대상 제1절의 주권 소재 규정과 문형이 대응한다.",
+      "evidence": [
+        {
+          "element": "주권의 소재",
+          "target_field": "original_text",
+          "target_quote": "大韓民國의 主權은 國民에게 있고",
+          "candidate_field": "original_text",
+          "candidate_quote": "中華民國之主權，屬於國民全體。",
+          "commonality": "국호를 앞세운 주권 귀속 규정이라는 점이 같다.",
+          "difference": "귀속 주체가 '國民全體'이고 '屬於' 표현을 쓰며, 대상의 '모든 권력은 국민으로부터 나온다'에 해당하는 절이 없다."
+        }
+      ]
+    }
+  ],
+  "unexplained_elements": [
+    "'모든 권력'이라는 전칭 한정어를 주권 소재 규정과 한 문장으로 병렬한 형식은 PH1935를 제외하면 후보 내에서 동일한 결합 형태를 찾기 어렵다."
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했을 뿐, 어느 후보가 실제 참조되었는지에 관한 역사적 영향은 제공 본문만으로 확정할 수 없다.",
+    "AT1920·WEIMAR1919·FR1946 등은 원문 이해에 번역문 참조가 개입할 수 있으나, 인용은 원문에서 하였다."
+  ],
+  "short_answer": "대상 조문은 '주권의 국민 귀속'과 '모든 권력의 국민 유래'라는 두 요소가 한 문장에 병렬된 구조인데, 두 요소를 모두 갖춘 후보는 필리핀헌법 제2조 제1절(Sovereignty resides in the people and all government authority emanates from them)이며 문형까지 가장 근접한다. 후단의 '국민으로부터 나온다'는 바이마르 제1조(Die Staatsgewalt geht vom Volke aus)와, 구문만 보면 오스트리아 제1조(Ihr Recht geht vom Volk aus, 다만 대상이 '법')와 대응한다. 전단의 주권 소재는 중화민국헌법·오오헌초('主權屬於國民全體'), 조선임시약헌('國民 全體에 屬함'), 북한 헌법안('主權은 人民에게 있다')과 대응하되 귀속 주체 표현(국민/국민 전체/인민)과 후단 규율이 다르다. 일본국헌법 전문은 주권의 국민 존재 선언과 '権威は国民に由来'라는 유래 표현을 함께 담지만, 권력의 행사를 대표자에게 귀속시키는 점에서 차이가 있다. 이상은 문언 대응 관계일 뿐 참조 사실의 확정은 아니다."
+}

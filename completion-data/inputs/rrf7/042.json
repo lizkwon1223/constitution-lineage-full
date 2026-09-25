@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_042",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "42",
+    "original_text": "國會는 國際組織에 關한 條約, 相互援助에 關한 條約, 講和條約, 通商條約, 國家 또는 國民에게 財政的 負擔을 지우는 條約, 立法事項에 關한 條約의 批准과 宣戰布告에 對하여 同意權을 가진다.",
+    "workbook_text_ko": "국회는 국제조직에 관한 조약, 상호원조에 관한 조약, 강화조약, 통상조약, 국가 또는 국민에게 재정적 부담을 지우는 조약, 입법사항에 관한 조약의 비준과 선전포고에 대하여 동의권을 가진다."
+  },
+  "candidates": [
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "8",
+      "original_text": "Le Président de la République négocie et ratifie les traités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent. - Les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ne sont définitifs qu'après avoir été votés par les deux chambres. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.",
+      "workbook_text_ko": "공화국대통령은 조약을 교섭하고 비준한다. 국가의 이익과 안전\n(l'intérêt et la sûreté de l'État)이 그것을 허락할 때에는 즉시조약의 교섭과\n비준을 양원에 보고한다.\n평화조약, 통상조약, 국가재정을 구속하는 조약, 개인의 신분과 외국에\n있는 프랑스인의 소유권에 관한 조약은 양원에서 채택한 후가 아니면 확정\n되지 아니한다. 영토의 어떠한 할양ㆍ교환ㆍ부가도 법률에 의하지 아니하\n면 할 수 없다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_012",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "12",
+      "original_text": "立法議院은 國權의 最高機關이며 唯一한 立法機關으로서 左의 權限을 行함\n一 法律의 制定\n二 豫算의 議定\n三 決算의 審査\n四 國債의 募集 及 國庫 負擔이 될 契約의 議決\n五 條約締結 及 宣戰媾和에 對한 同意\n六 大赦 特赦 減刑 及 復權에 對한 同意\n七 政府主席、副主席、國務總長 及 國務委員에 對한 彈劾의 議決\n八 政府에 對한 建議\n九 請願의 受理\n十 議員의 資格審査 及 懲罰\n十一 議事規則의 制定",
+      "workbook_text_ko": "입법의원은 국권의 최고기관이며 유일한 입법기관으로서 아래의 권한을 행함.\n1. 법률의 제정\n2. 예산의 의정\n3. 결산의 심사\n4. 국채의 모집 및 국고 부담이 될 계약의 의결\n5. 조약 체결 및 선전·강화에 대한 동의\n6. 대사·특사·감형 및 복권에 대한 동의\n7. 정부주석·부주석·국무총장 및 국무위원에 대한 탄핵의 의결\n8. 정부에 대한 건의\n9. 청원의 수리\n10. 의원의 자격심사 및 징벌\n11. 의사규칙의 제정"
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_064",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "64",
+      "original_text": "立法院有議決法律案、預算案、戒嚴案、大赦案、宣戰案、媾和案、條約案、及其他關於重要國際事項之權。",
+      "workbook_text_ko": "입법원은 법률안·예산안·계엄안·대사안·선전안·강화안·조약안 및 그 밖의 중요한 국제사항을 의결할 권한을 가진다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_048",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "48",
+      "original_text": "Der König hat das Recht, Krieg zu erklären und Frieden zu schließen, auch andere Verträge mit fremden Regierungen zu errichten. Letztere bedürfen zu ihrer Gültigkeit der Zustimmung der Kammern, sofern es Handelsverträge sind, oder wenn dadurch dem Staate Lasten oder einzelnen Staatsbürgern Verpflichtungen auferlegt werden.",
+      "workbook_text_ko": "국왕은 전쟁선포권과 강화\n체결권, 그리고 외국정부와 기타 조\n약을 체결할 권한을 가진다. 후자의\n조약은, 그것이 통상조약이거나 그\n조약의 체결로 인해 국가에 부담을\n지우는 경우 또는 개개의 국민들에\n게 의무를 부과하는 경우인 한, 그\n효력을 얻기 위해서 의회 양원의 동\n의를 얻어야 한다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_027",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "27",
+      "original_text": "Les traités relatifs à l'organisation internationale, les traités de paix, de commerce, les traités qui engagent les finances de l'Etat, ceux qui sont relatifs à l'état des personnes et au droit de propriété des Français à l'étranger, ceux qui modifient les lois internes françaises, ainsi que ceux qui comportent cession, échange, adjonction de territoire, ne sont définitifs qu'après avoir été ratifiés en vertu d'une loi.\nNulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.",
+      "workbook_text_ko": "국제기구에 관한 조약ㆍ평화조약ㆍ통상조약ㆍ국가재정(finances de\nl'État)을 구속하는 조약, 사람의 신분(état des personnes)과 외국에 있는 프랑스인의 소유권(droits de propriété)에 관련된 조약, 프랑스의 국내법(loi\ninterne)을 수정하는 것과 영토의 할양ㆍ교환ㆍ부가를 포함하는 것은, 법률에 의거하여 비준된 후가 아니면 확정적인 것이 되지 아니한다.\n영토의 어떠한 할양ㆍ교환ㆍ부가도 이해관계 있는 주민(population\nintéressée)의 동의가 없으면 유효한 것이 아니다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_063",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "63",
+      "original_text": "立法院有議決法律案，預算案，戒嚴案，大赦案，宣戰案，媾和案，條約案及國家其他重要事項之權。",
+      "workbook_text_ko": "立法院은 法律案, 豫算案, 戒嚴案, 大赦案, 宣戰案, 講和案, 條約案 및 國家의 其他 重要事項을 議決하는 權限을 가진다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_061",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "61",
+      "original_text": "左列事項應經行政會議議決：\n一、提出於立法院之法律案、預算案。\n二、提出於立法院之戒嚴案、大赦案。\n三、提出於立法院之宣戰案、媾和案、條約案、及其他關於重要國際事項之議案。\n四、各部各委員會間共同關係之事項。\n五、總統或行政院院長交議之事項。\n六、行政院副院長各政務委員各部各委員會提議之事項。",
+      "workbook_text_ko": "다음 사항은 행정회의의 의결을 거쳐야 한다.\n1. 입법원에 제출하는 법률안과 예산안.\n2. 입법원에 제출하는 계엄안과 대사안.\n3. 입법원에 제출하는 선전안·강화안·조약안 및 그 밖의 중요한 국제사항에 관한 의안.\n4. 각 부와 각 위원회 사이의 공동 관계 사항.\n5. 총통이나 행정원 원장이 심의에 부친 사항.\n6. 행정원 부원장·각 정무위원·각 부·각 위원회가 제의한 사항."
+    }
+  ]
+}

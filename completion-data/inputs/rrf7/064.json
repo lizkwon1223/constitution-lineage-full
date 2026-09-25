@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_064",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "64",
+    "original_text": "大統領은 法律의 定하는 바에 依하여 戒嚴을 宣布한다.",
+    "workbook_text_ko": "대통령은 법률의 정하는 바에 의하여 계엄을 선포한다."
+  },
+  "candidates": [
+    {
+      "article_id": "ROC1936_DRAFT_ART_040",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "40",
+      "original_text": "總統依法宣布戒嚴解嚴。",
+      "workbook_text_ko": "총통은 법률에 따라 계엄의 선포와 해제를 선언한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_041",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "41",
+      "original_text": "總統依法任免文武官員。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 文官과 武官을 任免한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_040",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "40",
+      "original_text": "總統依法行使大赦，特赦，減刑及復權之權。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 大赦, 特赦, 減刑 및 復權을 行한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_037",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "37",
+      "original_text": "總統依法公布法律，發布命令，須經行政院院長之副署，或行政院院長及有關部會首長之副署。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 法律을 公布하고 命令을 發布한다. 但 이에는 반듯이 行政院長의 副署 或은 行政院長과 關係部 또는 會의 長의 副署가 있어야 한다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_003",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "3",
+      "original_text": "Le président de la République a l'initiative des lois, concurremment avec les membres des deux chambres. Il promulgue les lois lorsqu'elles ont été votées par les deux chambres ; il en surveille et en assure l'exécution. - Il a le droit de faire grâce ; les amnisties ne peuvent être accordées que par une loi. - Il dispose de la force armée. - Il nomme à tous les emplois civils et militaires. - Il préside aux solennités nationales ; les envoyés et les ambassadeurs des puissances étrangères sont accrédités auprès de lui. - Chacun des actes du président de la République doit être contresigné par un ministre.",
+      "workbook_text_ko": "공화국대통령은 양원의 의원과 함께 법안의 제출권을 가진다. 대통령\n은 법률이 양원에서 가결된 때에는 법률을 공포한다. 대통령은 법률의 집행\n을 감독하고 보장한다.\n대통령은 은사권을 가진다. 일반사면(amnistie)은 법률에 의하지 아니하면 인정하지 아니\n한다.\n대통령은 군대를 지휘한다.\n대통령은 모든 문관과 무관(emploi civil et militaire)을 임명한다.\n대통령은 국가의 의식(solennité nationale)을 주재한다. 외국의 사절과 대사\n는 대통령에게 신임장을 제정한다.\n공화국대통령의 모든 행위에는 장관 한 명의 부서가 있어야 한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_039",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "39",
+      "original_text": "總統依法宣布戒嚴，但須經立法院之通過或追認。立法院認為必要時，得決議移請總統解嚴。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 戒嚴을 宣布한다. 但 이에는 반듯이 立法院의 同意 또는 追認이 있어야 한다. 立法院은 必要하다고 認定하는 때에는 決議에 의하여 總統에게 解嚴을 要求할 수 있다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_042",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "42",
+      "original_text": "總統依法授與榮典。",
+      "workbook_text_ko": "總統은 法律의 定하는 바에 依하여 榮典을 授與한다."
+    }
+  ]
+}

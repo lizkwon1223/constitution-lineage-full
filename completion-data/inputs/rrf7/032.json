@@ -1,0 +1,68 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_032",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "32",
+    "original_text": "國會는 普通, 直接, 平等, 秘密選擧에 依하여 公選된 議員으로써 組織한다.\n國會議員의 選擧에 關한 事項은 法律로써 定한다.",
+    "workbook_text_ko": "국회는 보통, 직접, 평등, 비밀선거에 의하여 공선된 의원으로써 조직한다.\n국회의원의 선거에 관한 사항은 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_043",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "43",
+      "original_text": "両議院は、全国民を代表する選挙された議員でこれを組織する。\n２　両議院の議員の定数は、法律でこれを定める。",
+      "workbook_text_ko": "①양원은 전 국민을 대표하는, 선거를 통하여 선출된 의원으로 조직한다.\n②양원의 의원정수는 법률로 정한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_076",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "76",
+      "original_text": "立法院之組織，以法律定之。",
+      "workbook_text_ko": "立法院의 組織은 法律로써 定한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_034",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "34",
+      "original_text": "最高人民會議는 一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다.",
+      "workbook_text_ko": "최고인민회의는 일반적·평등적·직접적 선거원칙에 의하여 비밀투표로서 선출한 대의원으로서 구성한다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_047",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "47",
+      "original_text": "選挙区、投票の方法その他両議院の議員の選挙に関する事項は、法律でこれを定める。",
+      "workbook_text_ko": "선거구, 투표방법 그 밖에 양원 의원의 선거에 관한 사항은 법률로 정한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_010",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "10",
+      "original_text": "立法議院은 別로이 定하는 選擧法에 依하여 普通 平等 直接 無記名投票의 方法으로 公選된 議員으로써 組織함",
+      "workbook_text_ko": "입법의원은 별도로 정하는 선거법에 의하여 보통·평등·직접·무기명투표의 방법으로 공선된 의원으로써 조직함."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_022",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "22",
+      "original_text": "Die Abgeordneten werden in allgemeiner, gleicher, unmittelbarer und geheimer Wahl von den über zwanzig Jahre alten Männern und Frauen nach den Grundsätzen der Verhältniswahl gewählt. Der Wahltag muß ein Sonntag oder öffentlicher Ruhetag sein.\nDas Nähere bestimmt das Reichswahlgesetz.",
+      "workbook_text_ko": "제국의회 의원은 비례선거 원칙에 의거하여 20세 이상의 전체 남성과 여성의 보통ᆞ평등ᆞ직접 및 비밀 선거로 선출된다. 선거일은 일요일이나 공휴일이어야 한다.\n세부사항은 제국선거법률로 정한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_067",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "67",
+      "original_text": "各級人民委員會는 一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다.\n各級 人民委員會의 選擧는 따로 法令으로서 規定한다.",
+      "workbook_text_ko": "각급 인민위원회는 일반적·평등적·직접적 선거원칙에 의하여 비밀투표로서 선출한 대의원으로서 구성한다.\n각급 인민위원회의 선거는 따로 법령으로서 규정한다."
+    }
+  ]
+}

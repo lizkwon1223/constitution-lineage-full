@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_038",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "38",
+    "original_text": "國會의 會議는 公開한다. 但, 國會의 決議에 依하여 秘密會로 할 수 있다.",
+    "workbook_text_ko": "국회의 회의는 공개한다. 단, 국회의 결의에 의하여 비밀회로 할 수 있다."
+  },
+  "candidates": [
+    {
+      "article_id": "US1787_ORIGINAL_ART_V",
+      "version_id": "US1787_ORIGINAL",
+      "document_title": "미국 헌법 본문",
+      "article_no": "V",
+      "original_text": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.",
+      "workbook_text_ko": "연방의회는 상･하 양원의 3분의 2가 이 헌법에 대한 개정\n의 필요성을 인정할 때에는 헌법 개정을 발의해야 하며, 모\n든 주의 3분의 2 이상의 주의회의 요청이 있을 때에도 개\n정 발의를 위한 헌법회의를 소집해야 한다. 어느 경우에나\n연방의회가 제의하는 비준의 방법으로서 모든 주의 4분의\n3의 주의회에 의한 비준, 또는 모든 주의 4분의 3의 주 헌\n법회의에 의한 비준 중 어느 하나에 따라 비준되는 때에는\n모든 점에서 이 헌법의 일부로서 효력이 발생한다. 다만, 1808년\n전에 이루어지는 개정은 어떠한 방법으로도 제1조 제9항\n제1호 및 제4호에 변경을 가져올 수 없다. 어느 주도 그 주\n의 동의 없이는 상원에서의 동등한 투표권을 박탈당하지\n않는다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_048",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "48",
+      "original_text": "両議院ノ会議ハ公開ス但シ政府ノ要求又ハ其ノ院ノ決議ニ依リ秘密会ト為スコトヲ得",
+      "workbook_text_ko": "양원의 회의는 공개한다. 다만, 정부의 요구나 해당 원의 결의에 따라 비밀회의로 할 수 있다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_017",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "17",
+      "original_text": "立法議院의 議事는 公開함 但 政府의 要求 또는 院議로써 秘密會로 할 수 있음",
+      "workbook_text_ko": "입법의원의 의사는 공개함. 단, 정부의 요구 또는 원의 의결로써 비밀회로 할 수 있음."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_034",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "34",
+      "original_text": "最高人民會議는 一般的·平等的·直接的 選擧原則에 依하여 秘密投票로서 選出한 代議員으로서 構成한다.",
+      "workbook_text_ko": "최고인민회의는 일반적·평등적·직접적 선거원칙에 의하여 비밀투표로서 선출한 대의원으로서 구성한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_067",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "67",
+      "original_text": "立法院得設各種委員會。\n各種委員會得邀請政府人員及社會上有關係人員到會備詢。",
+      "workbook_text_ko": "立法院에 各種委員會를 둘 수 있다.\n前項의 委員會는 政府의 人員과 社會의 關係人士의 出席하여 質疑에 應하도록 要請할 수 있다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_079",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "79",
+      "original_text": "Die Sitzungen beider Kammern sind öffentlich. Jede Kammer tritt auf den Antrag ihres Präsidenten oder von zehn Mitgliedern zu einer geheimen Sitzung zusammen, in welcher dann zunächst über diesen Antrag zu beschließen ist.",
+      "workbook_text_ko": "양원의 회의는 공개한다. 각\n원은 그 의장 혹은 소속 의원 10인의\n제안이 있을 경우 비공개회의로 모\n이게 되는데, 이 회의에서는 먼저 그\n제안[의 타당성여부]에 대한 표결이\n이루어진다."
+    },
+    {
+      "article_id": "JP1946_ORIGINAL_ART_057",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "57",
+      "original_text": "両議院の会議は、公開とする。但し、出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる。\n２　両議院は、各々その会議の記録を保存し、秘密会の記録の中で特に秘密を要すると認められるもの以外は、これを公表し、且つ一般に頒布しなければならない。\n３　出席議員の五分の一以上の要求があれば、各議員の表決は、これを会議録に記載しなければならない。",
+      "workbook_text_ko": "①양원의 회의는 공개한다. 다만, 출석의원 3분의 2 이상의 다수로 의결한 때에는 비밀회의로 할 수 있다.\n②양원은 각각 회의의 기록을 보존하며, 비밀회의의 기록 중에서 특별히 비밀을 요한다고 인정된 것 이외에는 이를 공표하고 일반에 배포하여야 한다.\n③출석의원 5분의 1 이상의 요구가 있으면 각 의원의 표결은 회의록에 기재하여야 한다."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_014",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "14",
+      "original_text": "人民有祕密通訊之自由，非依法律不得限制之。",
+      "workbook_text_ko": "인민은 비밀 통신의 자유를 가진다. 법률에 의하지 않고는 이를 제한할 수 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_039",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "39",
+      "original_text": "(1) Die Vollsitzungen des Staatsrats sind öffentlich. Der Staatsrat kann mit Zweidrittelmehrheit die Öffentlichkeit für einzelne Gegenstände der Tagesordnung ausschließen. Über einen Antrag, die Öffentlichkeit auszuschließen, wird in geheimer Sitzung verhandelt.\n(2) Artikel 24 gilt entsprechend.",
+      "workbook_text_ko": "(1) 국가평의회의 본회의는 공개한다. 국가평의회는 3분의 2의 다수로 특정 의사일정 사항의 공개를 배제할 수 있다. 공개 배제의 제안은 비공개 회의에서 심의한다.\n(2) 제24조를 준용한다."
+    },
+    {
+      "article_id": "AT1920_ORIGINAL_ART_032",
+      "version_id": "AT1920_ORIGINAL",
+      "document_title": "오스트리아 연방헌법",
+      "article_no": "32",
+      "original_text": "(1) Die Sitzungen des Nationalrates sind öffentlich.\n(2) Die Öffentlichkeit wird ausgeschlossen, wenn es vom Vorsitzenden oder einem Fünftel der anwesenden Mitglieder verlangt und vom Nationalrat nach Entfernung der Zuhörer beschlossen wird.",
+      "workbook_text_ko": "(1) 국민의회의 회의는 공개한다.\n(2) 의장 또는 출석의원 5분의 1이 요구하고 방청인을 퇴장시킨 뒤 국민의회가 의결하면 비공개로 한다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_029",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "29",
+      "original_text": "Der Reichstag verhandelt öffentlich. Auf Antrag von fünfzig Mitgliedern kann mit Zweidrittelmehrheit die Öffentlichkeit ausgeschlossen werden.",
+      "workbook_text_ko": "제국의회의 심의는 공개한다. 제국의회 소속 의원 50인의 요청이 있는 경우, 3분의 2의 다수로 의결한 경우에는 심의 공개를 배제할 수 있다."
+    },
+    {
+      "article_id": "PH1935_PRE1948_AMENDED_ART_XV",
+      "version_id": "PH1935_PRE1948_AMENDED",
+      "document_title": "필리핀헌법 개정판",
+      "article_no": "XV",
+      "original_text": "SECTION 1. The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
+      "workbook_text_ko": "제1절. 합동회의에 모인 의회는 상원과 하원이 각각 표결하여 각 원 재적의원 4분의 3의 찬성으로 이 헌법의 개정안을 제안하거나 그 목적을 위한 제헌회의를 소집할 수 있다. 개정안은 국민에게 비준을 위하여 제출되는 선거에서 투표된 표의 과반수로 승인되면 이 헌법의 일부로서 효력을 가진다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_010",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "10",
+      "original_text": "Les séances des deux Chambres sont publiques. Les comptes rendus in extenso des débats ainsi que les documents parlementaires sont publiés au Journal officiel.\nChacune des deux Chambres peut se constituer en comité secret.",
+      "workbook_text_ko": "양원의 심의는 공개한다. 심의의 「전문의」(‘in extenso') 보고서\n(compte rendu)와 국회의 기록(document parlementaire)은 관보(Journal\nofficiel)에 공표한다.\n양원의 각각은 비밀회(comité secret)를 구성할 수 있다."
+    },
+    {
+      "article_id": "FR1875_L18750716_ORIGINAL_ART_005",
+      "version_id": "FR1875_L18750716_ORIGINAL",
+      "document_title": "프랑스 공권력 관계 헌법률",
+      "article_no": "5",
+      "original_text": "Les séances du Sénat et celles de la Chambre des députés sont publiques. - Néanmoins, chaque chambre peut se former en comité secret, sur la demande d'un certain nombre de ses membres, fixé par le règlement. - Elle décide ensuite, à la majorité absolue, si la séance doit être reprise en public sur le même sujet.",
+      "workbook_text_ko": "상원과 하원의 회의는 공개한다.\n다만, 각원은 규칙으로 정한 일정수의 의원의 요구로 비밀회(comité secret)\n를 구성할 수 있다.\n나아가 각원은 동일한 문제에 대해서 회의를 공개로 다시 할 것인가의 여\n부를 절대다수로 결정한다."
+    }
+  ]
+}

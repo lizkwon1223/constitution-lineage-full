@@ -1,0 +1,171 @@
+{
+  "query_id": "KR1948_ORIGINAL_ART_092",
+  "selection_status": "selected",
+  "candidate_reviews": [
+    {
+      "candidate_id": "PH1935_ORIGINAL_ART_VI",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제11조 2항에 'a bill authorizing an increase of the public debt'가 등장하여 공채 증발이 입법부 의결(4분의 3 특별정족수)과 연결되나, 이는 대통령 거부권에 대한 재의결 정족수 규정이고, 대상 조문의 '국채 모집·예산외 국가부담 계약에 대한 사전 국회 의결' 요건과는 규율 국면(거부권·정족수 vs 행위 요건)이 다르다. 제8조 2항의 계약 관련 규정도 의원의 이해관계 금지로 성격이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1889_ORIGINAL_ART_064",
+      "relation": "general_similarity",
+      "selected": true,
+      "reason": "'예산 외'라는 한정어와 의회 관여 요건이라는 문형이 대응하여 비교 가치가 있으나, 대응 범위는 '예산외' 요소와 의회 관여라는 점에 한정된다. 규율 대상(지출 vs 계약), 시기(사후 승낙 vs 사전 의결), 의회 행위 유형(협찬·승낙 vs 의결)이 모두 다르다.",
+      "evidence": [
+        {
+          "element": "예산외 사항에 대한 의회 관여",
+          "target_field": "original_text",
+          "target_quote": "豫算外에 國家의 負擔이 될 契約을 함에는 國會의 議決을 얻어야 한다.",
+          "candidate_field": "original_text",
+          "candidate_quote": "予算ノ外ニ生シタル支出アルトキハ後日帝国議会ノ承諾ヲ求ムルヲ要ス",
+          "commonality": "예산의 테두리를 벗어난 재정행위에 대해 의회의 관여를 요구하는 점과 '예산 외'라는 한정 문구가 공통된다.",
+          "difference": "대상은 '계약 체결'에 대한 사전 국회 의결을 요구하나, 후보는 이미 발생한 '지출'에 대한 사후 승낙을 요구한다. 또 후보 본문은 국채 모집을 언급하지 않는다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "WEIMAR1919_ORIGINAL_ART_087",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "신용(차입)에 의한 자금 조달과 '국가(제국)의 부담'이 되는 보장 인수를 한 조문에서 묶어 입법부 근거(제국법률)를 요구하는 구조가, 국채 모집과 국가 부담이 될 계약을 묶어 국회 의결을 요구하는 대상 조문 구조와 대응한다.",
+      "evidence": [
+        {
+          "element": "국채(차입) 모집의 입법부 통제",
+          "target_field": "original_text",
+          "target_quote": "國債를 募集하거나",
+          "candidate_field": "original_text",
+          "candidate_quote": "Im Wege des Kredits dürfen Geldmittel nur bei außerordentlichem Bedarf",
+          "commonality": "국가가 신용에 의해 자금을 조달하는 행위를 헌법상 통제 대상으로 삼는 점이 공통된다.",
+          "difference": "후보는 '예외적 수요'와 '수익을 낳는 목적의 지출'이라는 실체적 제한을 두는 반면, 대상 조문은 목적·요건 제한 없이 절차(국회 의결)만 요구한다."
+        },
+        {
+          "element": "국가 부담 행위 + 입법부 근거",
+          "target_field": "original_text",
+          "target_quote": "國家의 負擔이 될 契約을 함에는 國會의 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "die Übernahme einer Sicherheitsleistung zu Lasten des Reichs dürfen nur auf Grund eines Reichsgesetzes erfolgen",
+          "commonality": "국가에 부담을 지우는 행위를 자금조달과 병렬하여 입법부의 결정 없이는 할 수 없도록 한 점이 공통된다.",
+          "difference": "후보는 '보장이행의 인수'를 대상으로 하고 '제국법률에 근거'를 요구하나, 대상은 '예산외 국가부담 계약' 일반을 대상으로 '국회의 의결'을 요구한다(법률형식 요구가 아님)."
+        }
+      ]
+    },
+    {
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_051",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "재정사항에 대해 입법기관의 의결을 요구한다는 점만 겹치고, 규율 대상은 매년 예산 편성으로 국채 모집이나 예산외 부담계약과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "JP1946_ORIGINAL_ART_085",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'국가가 채무를 부담하는 행위'에 국회의 의결을 요구하는 핵심 문형이 대상 조문의 '국채 모집·국가 부담 계약 → 국회 의결'과 직접 대응한다. 다만 열거 항목(국비 지출 vs 예산외 계약)의 구성은 다르다.",
+      "evidence": [
+        {
+          "element": "국가 부담 행위에 대한 국회 의결 요건",
+          "target_field": "original_text",
+          "target_quote": "國家의 負擔이 될 契約을 함에는 國會의 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "国が債務を負担するには、国会の議決に基くことを必要とする。",
+          "commonality": "국가에 채무·부담을 발생시키는 행위를 국회 의결에 종속시키는 점, 의결기관을 '국회'로 지정한 점이 같다.",
+          "difference": "후보는 '국비 지출'과 '국가의 채무 부담'을 병렬하고 '의결에 기할 것'을 요구하는 반면, 대상은 '국채 모집'과 '예산외' 한정이 붙은 계약을 병렬하고 '의결을 얻을 것'을 요구한다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "ROC1936_DRAFT_ART_129",
+      "relation": "substantive_correspondence",
+      "selected": true,
+      "reason": "'공채 모집'과 '공고(국고) 부담을 증가시키는 계약의 체결'을 한 항목에 묶어 입법기관 의결을 요구하는 구성이 대상 조문의 두 행위 유형 및 의결 요건과 구체적으로 대응한다.",
+      "evidence": [
+        {
+          "element": "국채(공채) 모집과 국가부담 계약의 병렬",
+          "target_field": "original_text",
+          "target_quote": "國債를 募集하거나 豫算外에 國家의 負擔이 될 契約을 함에는",
+          "candidate_field": "original_text",
+          "candidate_quote": "募集公債處分公有財產或締結增加公庫負擔之契約",
+          "commonality": "공채(국채) 모집과 국고·국가의 부담을 증가시키는 계약 체결을 하나의 단위로 묶어 규율하는 열거 방식이 같다.",
+          "difference": "후보는 '공유재산 처분'을 함께 열거하고 '공고 부담 증가'라는 기준을 쓰는 반면, 대상은 '예산외'라는 한정을 두고 계약만을 대상으로 한다."
+        },
+        {
+          "element": "의결기관과 의결 요건",
+          "target_field": "original_text",
+          "target_quote": "國會의 議決을 얻어야 한다",
+          "candidate_field": "original_text",
+          "candidate_quote": "在中央應經立法院之議決",
+          "commonality": "해당 재정행위에 입법기관의 '의결'을 거칠 것을 요구한다.",
+          "difference": "후보는 중앙은 입법원, 지방사항은 성·현 등 법정기관 의결로 층위를 나누고 외채 모집 제한까지 규정하지만, 대상은 국회 의결 단일 요건만 둔다."
+        }
+      ]
+    },
+    {
+      "candidate_id": "FR1946_ORIGINAL_ART_012",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "국회 소집 절차에 관한 규정으로 재정·국채·계약 규율과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1920_ORIGINAL_ART_066",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'예산 외의 추가 지출'이라는 표현은 겹치나, 규율 내용은 주의회 의결 시 재원 충당방법을 함께 정하라는 것으로, 행위에 대한 의결 요건을 정한 대상 조문과 효과가 다르고 국채 모집 요소도 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "ROC1946_PROM1947_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "긴급명령 발포와 사후 추인에 관한 규정으로, 국채 모집·예산외 부담계약의 의결 요건과 구체적 대응이 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "PR1850_ORIGINAL_ART_048",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "'국가에 부담을 지우는' 경우 의회 동의를 요구한다는 점은 유사하나, 대상 행위가 외국정부와의 조약이고 주체가 국왕이며 효력요건이 양원의 동의라는 점에서 국채·예산외 계약 규율과 규율 국면이 다르다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "FR1875_L18750224_ORIGINAL_ART_008",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률 발의·제정권과 예산법률의 선의권에 관한 규정으로, 국채 모집이나 국가부담 계약의 의결 요건과 대응하지 않는다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "AT1920_ORIGINAL_ART_043",
+      "relation": "unrelated",
+      "selected": false,
+      "reason": "법률안 국민투표 회부 절차 규정으로 대상 조문의 재정 규율과 대응 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "NK1948_DRAFT_19480428_ART_094",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "예산에 대한 대의기관 승인 요건이라는 일반적 유사성만 있고, 국채 모집·예산외 계약이라는 구체적 규율 요소가 없다.",
+      "evidence": []
+    },
+    {
+      "candidate_id": "US1787_ORIGINAL_ART_I",
+      "relation": "general_similarity",
+      "selected": false,
+      "reason": "제8절의 'To borrow Money on the credit of the United States'가 국가 차입을 입법부 권한으로 삼는 점에서 주제상 접점이 있으나, 이는 의회 자신의 권한 열거이지 정부 행위에 대한 의결 요건이 아니며 '예산외 국가부담 계약'에 대응하는 문언도 없다.",
+      "evidence": []
+    }
+  ],
+  "unexplained_elements": [
+    "'예산외'라는 한정어와 '국채 모집'을 한 문장에서 결합한 구성 전체(개별 후보에는 어느 한쪽 요소만 대응)",
+    "의결의 효과(의결 없는 계약의 효력)에 관한 규율 부재 자체"
+  ],
+  "limitations": [
+    "문언상 대응 여부만 검토했으며 실제 참조·계수 관계의 역사적 확정은 제공 본문만으로 판단할 수 없다.",
+    "바이마르·프로이센 조문은 독일어 원문과 제공 번역을 함께 읽고 판단했으며, 번역어(부담·보장이행 등)에 일부 의존한 해석이 포함된다."
+  ],
+  "short_answer": "국채(공채) 모집과 국가 부담이 될 계약을 묶어 입법기관 의결을 요구하는 구조는 중화민국 五五헌초 제129조 제2호와 가장 구체적으로 대응하고, 바이마르 제87조도 신용에 의한 자금조달과 '제국 부담'의 인수를 법률 근거에 종속시킨다는 점에서 대응한다. 일본국헌법 제85조는 '국가가 채무를 부담하는 행위에 국회의 의결'이라는 핵심 문형이 직접 대응하나 병렬 항목이 국비 지출이라는 차이가 있다. 대일본제국헌법 제64조는 '예산 외'라는 한정어와 의회 관여라는 점에서만 제한적으로 대응하며, 지출·사후 승낙이라는 점에서 사전 의결을 요구하는 대상과 다르다. 프로이센 1850년 헌법 제48조와 미국 헌법 제1조는 각각 조약상 국가부담·차입권이라는 접점이 있으나 주체와 규율 국면이 달라 선택하지 않았다. 이상은 문언 대응에 관한 판단이며 역사적 참조 관계를 확정하는 것은 아니다."
+}

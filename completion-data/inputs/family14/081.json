@@ -1,0 +1,124 @@
+{
+  "query": {
+    "article_id": "KR1948_ORIGINAL_ART_081",
+    "version_id": "KR1948_ORIGINAL",
+    "document_title": "대한민국 제헌헌법",
+    "article_no": "81",
+    "original_text": "大法院은 法律의 定하는 바에 依하여 命令, 規則과 處分이 憲法과 法律에 違反되는 與否를 最終的으로 審査할 權限이 있다.\n法律이 憲法에 違反되는 與否가 裁判의 前提가 되는 때에는 法院은 憲法委員會에 提請하여 그 決定에 依하여 裁判한다.\n憲法委員會는 副統領을 委員長으로 하고 大法官 5人과 國會議員 5人의 委員으로 構成한다.\n憲法委員會에서 違憲決定을 할 때에는 委員 3分之 2以上의 贊成이 있어야 한다.\n憲法委員會의 組織과 節次는 法律로써 定한다.",
+    "workbook_text_ko": "대법원은 법률의 정하는 바에 의하여 명령, 규칙과 처분이 헌법과 법률에 위반되는 여부를 최종적으로 심사할 권한이 있다.\n법률이 헌법에 위반되는 여부가 재판의 전제가 되는 때에는 법원은 헌법위원회에 제청하여 그 결정에 의하여 재판한다.\n헌법위원회는 부통령을 위원장으로 하고 대법관 5인과 국회의원 5인의 위원으로 구성한다.\n헌법위원회에서 위헌결정을 할 때에는 위원 3분지 2이상의 찬성이 있어야 한다.\n헌법위원회의 조직과 절차는 법률로써 정한다."
+  },
+  "candidates": [
+    {
+      "article_id": "JP1946_ORIGINAL_ART_081",
+      "version_id": "JP1946_ORIGINAL",
+      "document_title": "일본국헌법",
+      "article_no": "81",
+      "original_text": "最高裁判所は、一切の法律、命令、規則又は処分が憲法に適合するかしないかを決定する権限を有する終審裁判所である。",
+      "workbook_text_ko": "최고재판소는 모든 법률, 명령, 규칙 또는 처분이 헌법에 적합한지 여부를 결정할 권한을 가진 종심재판소이다."
+    },
+    {
+      "article_id": "FR1875_L18750225_ORIGINAL_ART_008",
+      "version_id": "FR1875_L18750225_ORIGINAL",
+      "document_title": "프랑스 공권력 조직법",
+      "article_no": "8",
+      "original_text": "Les chambres auront le droit, par délibérations séparées prises dans chacune à la majorité absolue des voix, soit spontanément, soit sur la demande du Président de la République, de déclarer qu'il y a lieu de réviser les lois constitutionnelles. - Après que chacune des deux chambres aura pris cette résolution, elles se réuniront en Assemblée nationale pour procéder à la révision. - Les délibérations portant révision des lois constitutionnelles, en tout ou en partie, devront être prises à la majorité absolue des membres composant l'Assemblée nationale. - Toutefois, pendant la durée des pouvoirs conférés par la loi du 20 novembre 1873 à M. le maréchal de Mac-Mahon, cette révision ne peut avoir lieu que sur proposition du Président de la République.",
+      "workbook_text_ko": "양원은 자발적으로 또는 공화국대통령의 청구에 근거하여 각별로 심의\n하며, 각별의 투표의 절대다수로 헌법법률(loi constitutionnelle)을 개정할 필요가\n있다고 선언할 권한을 가진다.\n양원이 이러한 결정을 한 후, 양원은 개정작업에 착수하기 위해서 국민의\n회에 합동한다.\n전면적이든 부분적이든 헌법법률을 개정하는 결의는 국민의회를 구성하는\n자의 절대다수로 하여야 한다.\n그러나 1873년 11월 20일의 법률로 마크 마옹 원수(maréchal de\nMac-Mahon)에게 권한이 위임된 동안은 공화국대통령의 제안에 의거하지\n아니하면 헌법법률을 개정할 수 없다."
+    },
+    {
+      "article_id": "AT1920_1929RECAST1930_ART_140",
+      "version_id": "AT1920_1929RECAST1930",
+      "document_title": "오스트리아 연방헌법 개정판",
+      "article_no": "140",
+      "original_text": "(1) Der Verfassungsgerichtshof erkennt über Verfassungswidrigkeit eines Bundes- oder Landesgesetzes auf Antrag des Obersten Gerichtshofes oder des Verwaltungsgerichtshofes, sofern ein solches Gesetz die Voraussetzung eines Erkenntnisses des antragstellenden Gerichtshofes bildet, ferner von Amts wegen dann, wenn ein solches Gesetz die Voraussetzung für ein Erkenntnis des Verfassungsgerichtshofes selbst bildet; über Verfassungswidrigkeit von Landesgesetzen auch auf Antrag der Bundesregierung; über Verfassungswidrigkeit von Bundesgesetzen auch auf Antrag einer Landesregierung.\n(2) Der im Absatz 1 erwähnte Antrag kann jederzeit gestellt werden; er ist vom Antragsteller sofort der zuständigen Landesregierung oder der Bundesregierung bekanntzugeben.\n(3) Das Erkenntnis des Verfassungsgerichtshofes, mit dem ein Gesetz oder ein bestimmter Teil eines solchen als verfassungswidrig aufgehoben wird, verpflichtet den Bundeskanzler oder den zuständigen Landeshauptmann zur unverzüglichen Kundmachung der Aufhebung; die Aufhebung tritt am Tage der Kundmachung in Kraft, wenn nicht der Verfassungsgerichtshof für das Außerkrafttreten eine Frist bestimmt. Diese Frist darf ein Jahr nicht überschreiten.\n(4) Wird durch ein Erkenntnis des Verfassungsgerichtshofes ein Gesetz oder ein Teil eines solchen als verfassungswidrig aufgehoben, so treten mit dem Tag des Inkrafttretens der Aufhebung, falls das Erkenntnis nicht anderes ausspricht, die gesetzlichen Bestimmungen wieder in Wirksamkeit, die durch das vom Verfassungsgerichtshof als verfassungswidrig erkannte Gesetz aufgehoben worden waren. In der Kundmachung über die Aufhebung des Gesetzes ist auch zu verlautbaren, ob und welche gesetzlichen Bestimmungen wieder in Kraft treten.\n(5) Das Finanz-Verfassungsgesetz bestimmt, inwieweit Landtagsbeschlüsse über Landeszuschläge zu den Bundessteuern beim Verfassungsgerichtshof angefochten werden können und welche rechtlichen Wirkungen mit einem Erkenntnis des Verfassungsgerichtshofes, das die Aufhebung eines solchen Landtagsbeschlusses oder eines Landesgesetzes über Landes- oder Gemeindeabgaben ausspricht, verbunden sind.\n(6) Die Bestimmung des Artikels 89, Absatz 1, gilt nicht für die Prüfung der Verfassungsmäßigkeit von Gesetzen durch den Verfassungsgerichtshof.",
+      "workbook_text_ko": "(1) 헌법재판소는 연방법률 또는 주법률이 신청 법원의 재판에 전제가 되는 경우 최고법원 또는 행정재판소의 신청에 따라 그 법률의 위헌성을 재판한다. 그러한 법률이 헌법재판소 자신의 재판에 전제가 되는 경우에는 직권으로 재판한다. 주법률의 위헌성은 연방정부의 신청에 의해서도, 연방법률의 위헌성은 주정부의 신청에 의해서도 재판한다.\n(2) 제1항의 신청은 언제든지 할 수 있다. 신청인은 이를 즉시 관할 주정부 또는 연방정부에 알려야 한다.\n(3) 법률 또는 그 특정 부분을 위헌이라고 하여 폐지하는 헌법재판소의 결정에 따라 연방총리 또는 관할 주지사는 지체 없이 폐지를 공고할 의무를 진다. 헌법재판소가 효력 상실의 기한을 정하지 않은 한 폐지는 공고일에 효력이 발생한다. 그 기한은 1년을 넘을 수 없다.\n(4) 헌법재판소의 결정으로 법률 또는 그 일부를 위헌이라고 하여 폐지하면, 결정에서 달리 선언하지 않은 한 폐지의 효력이 발생하는 날에 그 위헌 법률로 폐지되었던 법률규정들이 다시 효력을 가진다. 법률 폐지의 공고에는 어떤 법률규정이 다시 시행되는지 또는 다시 시행되는 규정이 없는지도 알려야 한다.\n(5) 연방세에 대한 주 부가세에 관한 주의회의 의결을 헌법재판소에서 다툴 수 있는 범위와, 그러한 의결 또는 주·지방자치단체 공과금에 관한 주법률의 폐지를 선언하는 헌법재판소 결정의 법적 효과는 재정헌법률로 정한다.\n(6) 제89조 제1항은 헌법재판소의 법률 합헌성 심사에는 적용하지 않는다."
+    },
+    {
+      "article_id": "PR1850_ORIGINAL_ART_061",
+      "version_id": "PR1850_ORIGINAL",
+      "document_title": "프로이센 헌법",
+      "article_no": "61",
+      "original_text": "Die Minister können durch Beschluß einer Kammer wegen des Verbrechens der Verfassungsverletzung, der Bestechung und des Verrathes angeklagt werden. Ueber solche Anklage entscheidet der oberste Gerichtshof der Monarchie in vereinigten Senaten. So lange noch zwei oberste Gerichtshöfe bestehen, treten dieselben zu obigem Zwecke zusammen.\nDie näheren Bestimmungen über die Fälle der Verantwortlichkeit, über das Verfahren und über die Strafen werden einem besonderen Gesetze vorbehalten.",
+      "workbook_text_ko": "장관은 헌법위반, 수뢰, 반\n역의 범죄행위를 이유로 의회 일원\n(一院)의 결의에 의해 탄핵소추될 수\n있다. 이 소추에 관해서는 왕국의 최\n고재판소가 전원합의체로 결정한다.\n여전히 두 개의 최고재판소가 존재\n하는 경우에는 상기의 목적을 위해\n합동하여 결정한다.\n그 책임을 인정할 수 있는 경우와 절\n차 및 형벌에 관한 보다 상세한 규정\n은 별도의 특별법에 유보된다."
+    },
+    {
+      "article_id": "FR1946_ORIGINAL_ART_091",
+      "version_id": "FR1946_ORIGINAL",
+      "document_title": "프랑스 제4공화국헌법",
+      "article_no": "91",
+      "original_text": "Le Comité constitutionnel est présidé par le président de la République.\nIl comprend le président de l'Assemblée nationale, le président du Conseil de la République, sept membres élus par l'Assemblée nationale au début de chaque session annuelle à la représentation proportionnelle des groupes, et choisis en dehors de ses membres, trois membres élus dans les mêmes conditions par le Conseil de la République.\nLe Comité constitutionnel examine si les lois votées par l'Assemblée nationale supposent une révision de la Constitution.",
+      "workbook_text_ko": "헌법위원회(Comité constitutionnel)는 공화국대통령이 주재한다.\n헌법위원회에는 국민의회의장, 공화국평의회의장, 매년 회기 초에 단체\n(group)의 비례대표로서 또 국민의회의원 이외로부터 국민의회가 선출하는\n7인의 위원, 동일한 조건으로 공화국평의회가 선출하는 3인의 위원을 포함\n한다.\n헌법위원회는 국민의회가 의결한 법률이 헌법개정을 전제로 하는가의 여\n부를 심사한다."
+    },
+    {
+      "article_id": "PH1935_ORIGINAL_ART_IX",
+      "version_id": "PH1935_ORIGINAL",
+      "document_title": "필리핀헌법",
+      "article_no": "IX",
+      "original_text": "Section 1. The President, the Vice-President, the Justices of the Supreme Court, and the Auditor General, shall be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, or other high crimes.\nSec. 2. The Commission on Impeachment of the National Assembly, by a vote of two-thirds of its Members, shall have the sole power of impeachment.\nSec. 3. The National Assembly shall have the sole power to try all impeachments. When sitting for that purpose the Members shall be on oath or affirmation. When the President of the Philippines is on trial, the Chief Justice of the Supreme Court shall preside. No person shall be convicted without the concurrence of three-fourths of all the Members who do not belong to the Commission on Impeachment.\nSec. 4. Judgment in cases of impeachment shall not extend further than to removal from office and disqualification to hold and enjoy any office of honor, trust, or profit under the Government of the Philippines, but the party convicted shall nevertheless be liable and subject to prosecution, trial, and punishment, according to law.",
+      "workbook_text_ko": "제1절. 대통령·부통령·대법관 및 감사원장은 귀책사유 있는 헌법 위반, 반역, 뇌물수수 또는 그 밖의 중대한 범죄로 탄핵소추되고 유죄가 인정되면 파면한다.\n제2절. 국민의회 탄핵위원회는 위원 3분의 2의 표결로 탄핵소추를 할 전속적 권한을 가진다.\n제3절. 국민의회는 모든 탄핵을 심판할 전속적 권한을 가진다. 이를 위한 회의에서는 의원들이 선서 또는 확약을 하여야 한다. 필리핀 대통령을 심판할 때에는 대법원장이 주재한다. 탄핵위원회에 속하지 않는 전체 의원의 4분의 3의 동의 없이는 유죄로 인정할 수 없다.\n제4절. 탄핵 사건의 판결은 파면 및 필리핀 정부 아래의 명예·신임 또는 보수를 수반하는 직을 보유·향유할 자격의 박탈을 넘을 수 없다. 다만, 유죄로 인정된 사람은 여전히 법률에 따라 기소·재판 및 처벌의 대상이 된다."
+    },
+    {
+      "article_id": "WEIMAR1919_ORIGINAL_ART_034",
+      "version_id": "WEIMAR1919_ORIGINAL",
+      "document_title": "독일 바이마르 헌법",
+      "article_no": "34",
+      "original_text": "Der Reichstag hat das Recht und auf Antrag von einem Fünftel seiner Mitglieder die Pflicht, Untersuchungsausschüsse einzusetzen. Diese Ausschüsse erheben in öffentlicher Verhandlung die Beweise, die sie oder die Antragsteller für erforderlich erachten. Die Öffentlichkeit kann vom Untersuchungsausschuß mit Zweidrittelmehrheit ausgeschlossen werden. Die Geschäftsordnung regelt das Verfahren des Ausschusses und bestimmt die Zahl seiner Mitglieder.\nDie Gerichte und Verwaltungsbehörden sind verpflichtet, dem Ersuchen dieser Ausschüsse um Beweiserhebungen Folge zu leisten; die Akten der Behörden sind ihnen auf Verlangen vorzulegen.\nAuf die Erhebungen der Ausschüsse und der von ihnen ersuchten Behörden finden die Vorschriften der Strafprozeßordnung sinngemäße Anwendung, doch bleibt das Brief-, Post-, Telegraphen- und Fernsprechgeheimnis unberührt.",
+      "workbook_text_ko": "제국의회는 조사위원회를 설치할 권한이 있으며, 동시에 의회 소속 의원의 5분의 1의 요청이 있는 경우 이를 이행할 의무가 있다. 당해 위원회는 공개심의로 위원회 또는 요구를 제안한 자가 필요한 것으로 여겨지는 증거를 수집한다. 3분의 2의 다수로 의결한 경우에는 조사위원회는 공개를 적용에서 배제할 수 있다.\n의사규칙은 위원회의 절차를 정하며 소속 위원 수를 결정한다.\n법원과 행정관청은 증거수집에 대한 당해 위원회의 요구에 응할 의무가 있다. 요구가 있는 경우 해당 관청의 서류를 조사위원회에 제출해야 한다.\n위원회와 위원회에 의해 요청을 받은 관청의 수집에 대해서 형사소송법의 규정이 준용되나, 서신ᆞ우편ᆞ전신 및 전화의 비밀은 그대로 유지한다."
+    },
+    {
+      "article_id": "KR1947_YAKHEON_19470905_ART_047",
+      "version_id": "KR1947_YAKHEON_19470905",
+      "document_title": "조선임시약헌(1947)",
+      "article_no": "47",
+      "original_text": "最高法院은 法■■[令의] 適用에 關하여 該法令이 本法에 違反 與否를 調査할 權限이 있음",
+      "workbook_text_ko": "최고법원은 법[령의] 적용에 관하여 해당 법령이 본법에 위반하는지 여부를 조사할 권한이 있음."
+    },
+    {
+      "article_id": "ROC1936_DRAFT_ART_032",
+      "version_id": "ROC1936_DRAFT",
+      "document_title": "중화민국 五五憲草",
+      "article_no": "32",
+      "original_text": "國民大會之職權如左：\n一、選舉總統副總統、立法院院長副院長、監察院院長副院長、立法委員、監察委員。\n二、罷免總統副總統、立法、司法、考試、監察各院院長副院長、立法委員、監察委員。\n三、創制法律。\n四、複決法律。\n五、修改憲法。\n六、憲法賦予之其他職權。",
+      "workbook_text_ko": "국민대회의 직권은 다음과 같다.\n1. 총통·부총통, 입법원 원장·부원장, 감찰원 원장·부원장, 입법위원 및 감찰위원을 선출한다.\n2. 총통·부총통, 입법원·사법원·고시원·감찰원 각 원의 원장·부원장, 입법위원 및 감찰위원을 파면한다.\n3. 법률을 발안한다.\n4. 법률을 복결한다.\n5. 헌법을 개정한다.\n6. 헌법이 부여한 그 밖의 직권을 행사한다."
+    },
+    {
+      "article_id": "ROC1946_PROM1947_ART_171",
+      "version_id": "ROC1946_PROM1947",
+      "document_title": "중화민국헌법",
+      "article_no": "171",
+      "original_text": "法律與憲法牴觸者無效。\n法律與憲法有無牴觸發生疑義時，由司法院解釋之。",
+      "workbook_text_ko": "法律로써 憲法에 抵觸되는 것은 無效로 한다. 法律의 憲法과의 抵觸與否에 關하여 疑義가 發生하는 때에는 司法院이 이를 解釋한다."
+    },
+    {
+      "article_id": "US_AM_I_XXI_PRE1948_AM_XII",
+      "version_id": "US_AM_I_XXI_PRE1948",
+      "document_title": "미국 수정헌법 I–XXI",
+      "article_no": "XII",
+      "original_text": "The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President. -- The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.",
+      "workbook_text_ko": "선거인은 각각 자기 주에서 회합하여, 비밀 투표에 의하여\n대통령과 부통령을 선거한다. 양인중 적어도 1인은 선거인과\n동일한 주의 주민이 아니어야 한다. 선거인은 투표용지에 대\n통령으로 투표되는 사람을 지명(指名)하고, 별개의 투표용지\n에 부통령으로 투표되는 사람을 지명해야 한다. 선거인은 대\n통령으로 투표된 모든 사람의 명부와 부통령으로 투표된 모\n든 사람의 명부, 그리고 각 득표자의 득표수를 기재한 표를\n작성하여 이에 서명하고 증명한 다음, 봉인하여 상원 의장\n앞으로 합중국 정부 소재지로 송부한다. 상원 의장은 상원의\n원 및 하원의원의 참석 하에 모든 증명서를 개봉하며, 그 후에 투표가 계표된다. 대통령으로서의 최고 득표자를 대통령으로 한다. 다만\n득표수가 선임된 선거인 총수의 과반수가 되어야 한다. 이와\n같은 과반수 득표자가 없을 경우 하원은 즉시 대통령으로\n투표된 사람의 명단 중 3인을 초과하지 아니하는 최다수 득\n표자들 중에서 대통령을 비밀 투표로 선거하여야 한다. 다\n만, 이 방법으로 대통령을 선거할 때에는 선거를 주 단위로\n하고, 각 주는 1표의 투표권을 가지며, 이 선거에 필요한 정\n족수는 전체 주의 3분의 2의 주로부터 1명 또는 그 이상의\n의원의 출석으로써 성립되며, 선출되기 위해서는 전체 주의\n과반수의 찬성이 필요하다. 대통령 선정권이 하원에 위양\n(委讓)된 경우 하원이 그 다음 3월 4일 전에 대통령을 선정하지\n않을 때에는, 대통령의 사망 또는 그 밖의 헌법상의 직무\n수행 불능의 경우와 같이 부통령이 대통령의 직무를 행한\n다. 부통령으로서의 최고 득표자를 부통령으로 한다. 다\n만, 그 득표수는 선임된 선거인 총수의 과반수가 되어야 한다.\n과반수 득표자가 없을 경우에는 상원이 득표자 명부 중 최\n다수 득표자 2인 중에서 부통령을 선임한다. 이 목적을 위\n한 정족수는 상원의원 총수의 3분의 2로 성립되며, 그 선임\n에는 의원 총수의 과반수가 필요하다. 다만, 헌법상 대통령\n직에 취임할 자격이 없는 사람은 합중국 부통령의 직에도\n취임할 자격이 없다."
+    },
+    {
+      "article_id": "JP1889_ORIGINAL_ART_073",
+      "version_id": "JP1889_ORIGINAL",
+      "document_title": "대일본제국헌법",
+      "article_no": "73",
+      "original_text": "将来此ノ憲法ノ条項ヲ改正スルノ必要アルトキハ勅命ヲ以テ議案ヲ帝国議会ノ議ニ付スヘシ\n２　此ノ場合ニ於テ両議院ハ各々其ノ総員三分ノ二以上出席スルニ非サレハ議事ヲ開クコトヲ得ス出席議員三分ノ二以上ノ多数ヲ得ルニ非サレハ改正ノ議決ヲ為スコトヲ得ス",
+      "workbook_text_ko": "장래 이 헌법의 조항을 개정할 필요가 있는 때에는 칙명으로 의안을 제국의회의 심의에 부쳐야 한다.\n② 이 경우 양원은 각각 재적의원 3분의 2 이상이 출석하지 않으면 의사를 열 수 없으며, 출석의원 3분의 2 이상의 다수를 얻지 못하면 개정을 의결할 수 없다."
+    },
+    {
+      "article_id": "PR1920_ORIGINAL_ART_058",
+      "version_id": "PR1920_ORIGINAL",
+      "document_title": "프로이센 자유주헌법",
+      "article_no": "58",
+      "original_text": "(1) Der Landtag ist berechtigt, jeden Minister vor dem Staatsgerichtshof anzuklagen, daß er schuldhaft die Verfassung oder die Gesetze verletzt habe. Der Antrag auf Erhebung der Anklage muß von mindestens hundert Mitgliedern des Landtags unterzeichnet sein und bedarf der Zustimmung der für Verfassungsänderungen vorgesehenen Mehrheit.\n(2) Die Zusammensetzung des Staatsgerichtshofs, das Verfahren vor ihm und die ihm zustehenden Entscheidungen werden durch Gesetz geregelt.",
+      "workbook_text_ko": "(1) 주의회는 어느 장관에 대해서나 귀책사유가 있는 헌법 또는 법률 위반을 이유로 국가재판소에 소추할 권한을 가진다. 소추 제안에는 주의회 의원 100명 이상이 서명하여야 하며, 헌법 개정에 필요한 다수의 동의를 얻어야 한다.\n(2) 국가재판소의 구성, 그 절차 및 할 수 있는 결정은 법률로 정한다."
+    },
+    {
+      "article_id": "NK1948_DRAFT_19480428_ART_037",
+      "version_id": "NK1948_DRAFT_19480428",
+      "document_title": "조선민주주의인민공화국헌법안",
+      "article_no": "37",
+      "original_text": "最高人民會議는 國家最高權力을 行使한다.\n다만 憲法에 依하여 最高人民會議 常任委員會 및 內閣에 賦與한 權限은 이를 除外한다.\n다음의 權限은 最高人民會議에만 屬한다.\n一. 憲法의 承認 또는 修正\n二. 國內·國外政策에 關한 基本原則의 樹立\n三. 最高人民會議 常任委員會의 選擧\n四. 內閣의 組織\n五. 法令의 採擇 및 最高人民會議 休會中 最高人民會議 常任委員會가 採擇한 主要한 政令의 承認\n六. 人民經濟計劃의 承認\n七. 國家豫算의 承認\n八. 道·市·郡·面·里區域의 新設 및 變更\n九. 大赦權의 行使\n十. 最高裁判所의 選擧\n十一. 檢事總長의 任命",
+      "workbook_text_ko": "최고인민회의는 국가최고권력을 행사한다.\n다만 헌법에 의하여 최고인민회의 상임위원회 및 내각에 부여한 권한은 이를 제외한다.\n다음의 권한은 최고인민회의에만 속한다.\n1. 헌법의 승인 또는 수정\n2. 국내·국외정책에 관한 기본원칙의 수립\n3. 최고인민회의 상임위원회의 선거\n4. 내각의 조직\n5. 법령의 채택 및 최고인민회의 휴회 중 최고인민회의 상임위원회가 채택한 주요한 정령의 승인\n6. 인민경제계획의 승인\n7. 국가예산의 승인\n8. 도·시·군·면·리구역의 신설 및 변경\n9. 대사권의 행사\n10. 최고재판소의 선거\n11. 검사총장의 임명"
+    }
+  ]
+}

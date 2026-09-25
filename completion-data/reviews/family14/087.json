@@ -1,0 +1,85 @@
+{
+  "article": 87,
+  "reviewed_at": "2026-09-22T16:26:09.873781+00:00",
+  "reviewer": "Codex",
+  "scope": "All three saved response texts, including every returned candidate review, evidence explanation, summary, unexplained elements and limitations, compared with supplied target and 14 candidate originals. Missing reviews remain missing.",
+  "dossier_sha256": "0cd536a46dc011d20b5a229e9ca378eb1945b44a67c43dd2e7001cc3b66a0fb6",
+  "input_sha256": "e790e5bad2309244b73c4fa85e1315633fd99e6975a875ba9efd81f7a43928f2",
+  "responses": [
+    {
+      "job_id": "087_63b03f4f8a4d_r1",
+      "repeat": 1,
+      "sha256": "8c974325f61eec82ed36ba7e154e9f681e40d77276d37ca0b01cb9a84b65d58f",
+      "assessment": "중화민국과 대외무역의 핵심 대응은 적절함. 공공필요 요건의 누락과 필리핀의 부분 대응 배제를 보정해야 함."
+    },
+    {
+      "job_id": "087_63b03f4f8a4d_r2",
+      "repeat": 2,
+      "sha256": "ed394ee4774d7a7ac095d8b13e9cc3360800b1d9f2a09797ac9f2c8354c400ca",
+      "assessment": "약헌의 국영과 북한의 무역 관리까지 포착함. 대상에 취소 요건이 없다는 설명은 앞 문구와 충돌함."
+    },
+    {
+      "job_id": "087_63b03f4f8a4d_r3",
+      "repeat": 3,
+      "sha256": "e33c1f00c3a5e9a34878234ec4e123c4f3d5c423f7bf92158ef0684a2caf9275",
+      "assessment": "필리핀의 운수·통신 국가 운영까지 폭넓게 대조함. 두 중화민국 후보 모두 특허라는 어휘를 쓴다는 요약은 정밀화해야 함."
+    }
+  ],
+  "synthesis": "중화민국 초안 제123조는 공용·독점기업의 국가 공영 원칙과 필요시 사영 특허를 결합하고, 국방상 긴급수요에 따른 임시 관리·법률상 공영 전환과 보상을 추가함. 1946년 제144조는 공영 원칙 및 법률에 의한 국민 경영 허용을 정하나 특허라는 어휘나 취소 절차는 없음. 제헌헌법은 국영·공영을 병기하고 공공필요 아래 사영 특허와 취소를 법률에 맡김. 필리핀의 운수·통신 설치·운영 및 공공소유 전환은 수단·대상에 관한 부분 대응이며 원칙적 국공영 지정과는 구별됨. 북한의 대외무역 관리는 국가 통제 부분에 대응하되 내각의 임무를 정하는 형식임.",
+  "issues": [
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "target_omission",
+      "finding": "특허 취소에 대상 조문이 발동 사유·요건을 두지 않는다고 설명함. 공공필요에 의하여라는 문구가 있음.",
+      "action": "공공필요와 법률유보를 취소 비교에도 반영함.",
+      "candidate_id": "ROC1936_DRAFT_ART_123",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1,
+        2
+      ],
+      "type": "selection_threshold",
+      "finding": "필리핀의 운수·통신 국가 설치·운영을 재량 규정이라는 이유로 부분 대응에서도 배제함.",
+      "action": "국가 운영의 직접 대응과 당위·재량 및 보상 차이를 병기함.",
+      "candidate_id": "PH1935_ORIGINAL_ART_XII",
+      "severity": "material"
+    },
+    {
+      "repeats": [
+        1
+      ],
+      "type": "selection_threshold",
+      "finding": "약헌의 주요 공장·광산 국영을 주제 유사성으로만 처리함.",
+      "action": "산업 대상이 다른 국영 수단의 부분 대응으로 표시함.",
+      "candidate_id": "KR1947_YAKHEON_19470905_ART_004",
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        3
+      ],
+      "type": "cross_candidate_conflation",
+      "finding": "요약에서 두 중화민국 후보가 특허라는 용어까지 일치한다고 설명하나 1946년 제144조는 법률 허가라고 함.",
+      "action": "특허 용어는 초안 제123조에 한정함.",
+      "candidate_id": null,
+      "severity": "minor"
+    },
+    {
+      "repeats": [
+        2,
+        3
+      ],
+      "type": "qualification_precision",
+      "finding": "중화민국은 원칙이고 대상은 강행 규정이라고 대비하면서 대상 자체의 사영 특허 예외를 충분히 반영하지 않음.",
+      "action": "양쪽 모두 원칙과 예외를 결합한다는 구조를 먼저 설명함.",
+      "candidate_id": null,
+      "severity": "minor"
+    }
+  ],
+  "limits": []
+}
