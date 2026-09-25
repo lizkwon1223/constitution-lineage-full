@@ -662,7 +662,7 @@
     panel, primary, esc, pct, nodeColor, aCounts, bandData, bandStats, arts, lab, srcText, sumFloor, legendHTML,
     showTip, hideTip, canAnimate, selectBand, getBandSelection: () => bandSel });
   v4.initSelector();
-  const completion = window.createCompletionView({state,panel,esc});
+  const completion = window.createCompletionView({state,panel,esc,memoForArticle:v4.memoForArticle});
   // ── 주소와 조작 ────────────────────────────────────────────────
   // 주소 뒤에는 화면 이름만 둠(#global, #yujino, #yujino-without, #yujino-handover, #sankey). 하한 등 나머지 상태는 페이지 안에 둠.
   const ROUTES = { global: { view: "global" }, overview: { view: "overview", mode: "with", sub: "network" },

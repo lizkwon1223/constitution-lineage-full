@@ -1,5 +1,5 @@
 /* Saved completion interpretation: candidate exposure and model selections remain separate. */
-window.createCompletionView = function ({state, panel, esc}) {
+window.createCompletionView = function ({state, panel, esc, memoForArticle}) {
   const root = document.querySelector('#completionView'), index = window.COMPLETION_INDEX;
   const methods = [['rrf7','RRF 상위 7개'],['family14','14군 대표']];
   const relations = {substantive_correspondence:'실질적 대응',general_similarity:'일반적 유사',contrast:'대조',unrelated:'관련 없음',undetermined:'판단 유보'};
@@ -59,7 +59,8 @@ window.createCompletionView = function ({state, panel, esc}) {
   }
   function drawArticle() {
     if(!current||state.view!=='completion'||state.completionTab!=='articles') return;
-    const n=current.article, q=current.query;
+    const n=current.article, q=current.query, memo=memoForArticle(n);
+    const memoExpanded=previousArticle===n&&!!root.querySelector('.completion-memos .source-note')?.open;
     if(previousArticle!==n){candidate=null;previousArticle=n;}
     const ids=Object.keys(current.candidates).sort((a,b)=>{
       const score=id=>Math.max(...methods.map(([m])=>(obs(id,m)||[]).filter(o=>o.status==='selected').length));
@@ -71,7 +72,9 @@ window.createCompletionView = function ({state, panel, esc}) {
       <div class="completion-legend"><span class="selected">● 선택</span><span>— 비선택</span><span>? 검토 누락</span><span>미제시: 해당 방식의 후보에 없음</span></div>
       <div class="completion-table-wrap"><table class="completion-table"><thead><tr><th>비교 후보 <small>선택 횟수순 · 동률은 RRF순</small></th>${methods.map(([m,name])=>`<th>${name}<small>${current.methods[m].candidate_ids.length}개 조문 · ${new Set(current.methods[m].candidate_ids.map(id=>current.candidates[id].family_id)).size}개 군</small><span class="completion-repeat-labels"><span>1회</span><span>2회</span><span>3회</span></span></th>`).join('')}</tr></thead><tbody>${ids.map(id=>{const c=current.candidates[id];return `<tr class="${candidate===id?'chosen':''}"><th scope="row"><button type="button" data-pick="${esc(id)}" class="completion-candidate">${esc(candidateName(c))}</button><small>전체 RRF ${c.rrf_rank}위</small></th>${methods.map(([m])=>cells(id,m)).join('')}</tr>`;}).join('')}</tbody></table></div>
       <p class="note">문헌명 또는 회차의 표시를 선택 → 해당 조문의 문언·판단 근거</p>
-      <section id="completionReview" class="completion-review"></section>`;
+      <section id="completionReview" class="completion-review"></section>
+      ${memo?`<section class="completion-review completion-memos"><h3>유진오 참조메모</h3><p class="note">제헌헌법 제${n}조 → ${esc(memo.label)}<br>조문별 분석의 초고 포함(C) 대응 · 코사인 하한 ${memo.floor.toFixed(2)}</p>${memo.html}<a class="action-link" href="#article-${n}">초고 대응 보기 →</a></section>`:''}`;
+    if(memoExpanded)root.querySelector('.completion-memos .source-note').open=true;
     document.querySelector('#completionArticle').onchange=e=>location.hash=`#completion-${e.target.value}`;
     root.querySelectorAll('[data-pick]').forEach(b=>b.onclick=()=>{
       candidate=b.dataset.pick;if(b.dataset.method)method=b.dataset.method;if(b.dataset.repeat)repeat=+b.dataset.repeat;

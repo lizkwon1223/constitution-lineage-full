@@ -144,6 +144,12 @@ window.createLineageViews = function (ctx) {
     $('#articleView').querySelectorAll('[data-reading]').forEach(button=>button.onclick=()=>{articleStep=button.dataset.reading;renderArticle();});
     panel.innerHTML=`<h2>한 조문의 비교 절차</h2><p>대상 조문은 고정하고, 비교 후보와 선행 대응을 단계별로 확인합니다.</p><table class="defs"><tr><th>B</th><td>초고를 제외한 선행 문헌에서 제헌헌법 조문의 1위 대응을 찾습니다.</td></tr><tr><th>C</th><td>초고를 후보에 추가해 같은 조문의 1위 대응을 확인합니다.</td></tr><tr><th>A 대조</th><td>C에서 선택된 초고 조문의 1위 선행 문헌을 B의 문헌과 비교합니다.</td></tr></table><h3>판정</h3><p>${esc(classification(d))}</p><p class="note">넘겨받기는 B·C·A가 하한을 충족하고 C의 1위가 초고이며, A와 B의 선행 문헌이 일치하는 경우입니다.</p>${examples(d)}${methodDetails()}<p><a class="text-link" href="#yujino-handover">전체 조문에서 문헌 일치 보기 →</a></p>`;
   }
+  function memoForArticle(n) {
+    const d=bandData(state.floor).find(x=>articleNo(x.u)===n);
+    if(!d?.viaDraft)return null;
+    const html=lecture.memoHTML(d.c[1]);
+    return html?{draft:d.c[1],label:lab(d.c[1]),floor:state.floor,html}:null;
+  }
   function panelChapters() {
     const foreign=state.sk==='foreign', included=state.skMode!=='without';
     const totals=window.LINEAGE_CHAPTER_SUMMARY[foreign?'foreign':'all'];
@@ -163,7 +169,7 @@ window.createLineageViews = function (ctx) {
       <h3>후보 범위</h3><p>${foreign?'외국 헌법':'국내외 헌법·헌법안'}${included?' + 유진오 초고':' · 유진오 초고 제외'}</p>${foreign&&included?'<p>초고의 선행 대응(A): 외국 헌법</p>':''}<p class="note">각 조건의 RRF 1위 · 코사인 0.60 미만은 ‘대응 약함’</p>`;
     $('#chapterCaption').textContent=`${foreign?'외국 헌법':'국내외 문헌'} · 초고 ${included?'포함: 초고 경유와 초고 외 직접 대응':'제외: 선행 문헌 → 제헌헌법의 장'}`;
   }
-  return { renderOverview, renderBars, panelOverview, panelAnalysis, panelBand, renderArticle, panelChapters, initSelector,
+  return { renderOverview, renderBars, panelOverview, panelAnalysis, panelBand, renderArticle, panelChapters, initSelector, memoForArticle,
     renderLibrary:lecture.renderLibrary, renderMemo:lecture.renderMemo, renderDocument:documentComparison.render,
     hideOverview:()=>g.attr('display','none'), invalidateArticle:()=>{articleToken++;lecture.invalidate();},
     syncSelection:()=>{const h=ctx.getBandSelection();$('#articleSelect').value=h&&h.u?h.u:'';if(h&&h.u)$('#articleTab').href=articleURL(h.u);} };
